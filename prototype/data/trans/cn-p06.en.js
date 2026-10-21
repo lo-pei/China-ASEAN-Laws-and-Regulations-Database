@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p06
-   法规 61 部 / 译文 561 条
+   法规 80 部 / 译文 912 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -5063,6 +5063,669 @@
     ]
   };
 
+  TR['CN-JI-0063'] = {
+    "lawId": "CN-JI-0063",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 11 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the value of public or private property defrauded is RMB 3,000 to RMB 10,000 or more, RMB 30,000 to RMB 100,000 or more, or RMB 500,000 or more, it shall be determined respectively as \"a relatively large amount\", \"a huge amount\" and \"an especially huge amount\" as provided in Article 266 of the Criminal Law.\nThe higher people's court and the people's procuratorate of each province, autonomous region and municipality directly under the Central Government may, in the light of the economic and social development of the region and within the ranges of amounts provided in the preceding paragraph, jointly study and determine the specific amount standards to be applied in the region, and file them with the Supreme People's Court and the Supreme People's Procuratorate for the record."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the public or private property defrauded reaches the amount standard provided in Article 1 of this Interpretation and any of the following circumstances is present, a heavier punishment may be imposed as appropriate in accordance with the provisions of Article 266 of the Criminal Law:\n(a) committing fraud against an unspecified number of persons by sending short messages, making telephone calls, or disseminating false information through the Internet, radio and television, newspapers and periodicals;\n(b) defrauding funds or property for disaster relief, emergency rescue, flood control, special care, poverty alleviation, resettlement, relief or medical care;\n(c) committing fraud in the name of fundraising for disaster relief;\n(d) defrauding the property of persons with disabilities, elderly persons or persons who have lost the capacity to work;\n(e) causing the victim to commit suicide, to become mentally disordered or to suffer other serious consequences.\nWhere the amount defrauded approaches the standards of \"a huge amount\" and \"an especially huge amount\" provided in Article 1 of this Interpretation, and any of the circumstances in the preceding paragraph is present or the offender is a ringleader of a fraud group, it shall be determined respectively as \"other serious circumstances\" and \"other especially serious circumstances\" as provided in Article 266 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the public or private property defrauded has reached the standard of \"a relatively large amount\" provided in Article 1 of this Interpretation, but any of the following circumstances is present and the offender admits guilt and repents, a decision may be made not to prosecute or exemption from criminal punishment may be granted in accordance with the provisions of Article 37 of the Criminal Law and Article 142 of the Criminal Procedure Law:\n(a) the circumstances for a lenient punishment prescribed by law are present;\n(b) all the illicit money has been returned and all losses have been compensated before the pronouncement of judgment at first instance;\n(c) the offender did not participate in the distribution of the illicit money or obtained only a small part of it and is not a principal offender;\n(d) the victim has forgiven the offender;\n(e) other circumstances where the circumstances are minor and the harm caused is not great."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where the property of a close relative is defrauded and the close relative forgives the offender, the act may generally not be handled as a crime.\nWhere the property of a close relative is defrauded and it is truly necessary to pursue criminal responsibility, the specific handling shall also be lenient as appropriate."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where an attempted fraud is directed at property of a huge amount, or other serious circumstances are present, the offender shall be convicted and punished.\nWhere fraud is committed against an unspecified number of persons by means of telecommunication technologies such as sending short messages, making telephone calls or the Internet, and the amount defrauded is difficult to verify, but any of the following circumstances is present, it shall be determined as \"other serious circumstances\" as provided in Article 266 of the Criminal Law, and the offender shall be convicted and punished for the crime of fraud (attempted):\n(a) more than 5,000 fraudulent messages have been sent;\n(b) more than 500 fraudulent telephone calls have been made;\n(c) the fraudulent means are vile and the harm caused is serious.\nWhere the acts provided in the preceding paragraph are carried out and the quantity reaches more than ten times the standards provided in subparagraphs (a) and (b) of the preceding paragraph, or the fraudulent means are especially vile and the harm caused is especially serious, it shall be determined as \"other especially serious circumstances\" as provided in Article 266 of the Criminal Law, and the offender shall be convicted and punished for the crime of fraud (attempted)."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a fraud involves both completed and attempted acts, and they respectively reach different ranges of sentencing, punishment shall be imposed in accordance with the provisions on the heavier punishment; where they reach the same range of sentencing, punishment shall be imposed for the completed crime of fraud."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a person, knowing that another person is committing the crime of fraud, provides assistance such as credit cards, mobile phone cards, communication tools, communication transmission channels, network technical support or settlement of fees, the person shall be handled as a joint crime."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a person pretends to be a staff member of a state organ in order to commit fraud, and the act concurrently constitutes the crime of fraud and the crime of swindling and bluffing, conviction and punishment shall be in accordance with the provisions on the heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where, after the case is discovered, the fraudulent property and the fruits thereof sealed up, seized or frozen in the case have a clear ownership, they shall be returned to the victim; where the ownership is unclear, they may be returned to the victim in proportion to the share of the defrauded money and property in the total amount of the property and the fruits thereof sealed up, seized or frozen in the case, provided that any amount already compensated shall be deducted."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the offender has used the fraudulent property to discharge debts or has transferred it to another person, and any of the following circumstances is present, it shall be recovered in accordance with law:\n(a) the other party accepted it knowing that it was fraudulent property;\n(b) the other party acquired the fraudulent property without consideration;\n(c) the other party acquired the fraudulent property at a price obviously lower than the market price;\n(d) the other party's acquisition of the fraudulent property resulted from an unlawful debt or from illegal or criminal activities.\nWhere another person has acquired the fraudulent property in good faith, it shall not be recovered."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the judicial interpretations previously issued are inconsistent with this Interpretation, this Interpretation shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0064'] = {
+    "lawId": "CN-JI-0064",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 25 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Whoever smuggles weapons or ammunition under any of the following circumstances may be determined as falling under the \"relatively minor circumstances\" as provided in paragraph 1 of Article 151 of the Criminal Law:\n(a) smuggling 2 or more but fewer than 5 firearms that fire bullets by means of compressed gas or other non-powder propellants;\n(b) smuggling 500 or more but fewer than 2,500 air-gun pellets, or 10 or more but fewer than 50 other bullets;\n(c) failing to reach the above quantity standards, but being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, or the smuggled weapons or ammunition being used to commit a crime, or other such circumstances;\n(d) smuggling conventional artillery shells, hand grenades, rifle grenades or the like of various calibres of 60 mm or less, where the number of any one type or the total number is fewer than 5.\nUnder any of the following circumstances, a fixed-term imprisonment of 7 years or more shall be imposed, and a fine or confiscation of property shall also be imposed, in accordance with paragraph 1 of Article 151 of the Criminal Law:\n(a) smuggling 1 firearm that fires bullets by means of gunpowder, or 5 or more but fewer than 10 firearms that fire bullets by means of compressed gas or other non-powder propellants;\n(b) smuggling ammunition specified in subparagraph (b) of paragraph 1, where the quantity is not less than the maximum quantity specified in that subparagraph but fewer than 5 times that maximum quantity;\n(c) smuggling conventional artillery shells, hand grenades, rifle grenades or the like of various calibres of 60 mm or less, where the number of any one type or the total number is 5 or more but fewer than 10, or smuggling conventional artillery shells of various calibres exceeding 60 mm, where the total number is fewer than 5;\n(d) reaching the quantity standards specified in subparagraphs (a), (b) and (d) of paragraph 1, and being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, or the smuggled weapons or ammunition being used to commit a crime, or other such circumstances.\nUnder any of the following circumstances, it shall be determined as falling under the \"especially serious circumstances\" as provided in paragraph 1 of Article 151 of the Criminal Law:\n(a) smuggling firearms specified in subparagraph (a) of paragraph 2, where the quantity exceeds the quantity standard specified in that subparagraph;\n(b) smuggling ammunition specified in subparagraph (b) of paragraph 1, where the quantity is 5 times or more the maximum quantity standard specified in that subparagraph;\n(c) smuggling ammunition specified in subparagraph (c) of paragraph 2, where the quantity exceeds the quantity standard specified in that subparagraph, or smuggling 1 or more unconventional artillery shells with enormous lethal power;\n(d) reaching the quantity standards specified in subparagraphs (a) to (c) of paragraph 2, and being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, or the smuggled weapons or ammunition being used to commit a crime, or other such circumstances.\nWhoever smuggles other weapons or ammunition that constitutes a crime shall be punished by reference to the standards provided in the paragraphs of this Article."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The types of \"weapons and ammunition\" as provided in paragraph 1 of Article 151 of the Criminal Law shall be determined by reference to the relevant provisions of the Import Tariff of the People's Republic of China and the List of Articles Prohibited from Entering and Leaving the Territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Whoever smuggles parts and components of firearms that constitutes a crime shall, in accordance with paragraph 1 of Article 151 of the Criminal Law, be convicted and punished for the crime of smuggling weapons. A complete set of firearm parts and components shall be counted as the corresponding number of firearms, and non-complete sets of firearm parts and components shall be counted as one set of firearm parts and components for every 30 pieces."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Whoever smuggles the bullets or cartridge cases of various types of ammunition that constitutes a crime shall, in accordance with paragraph 1 of Article 151 of the Criminal Law, be convicted and punished for the crime of smuggling ammunition. The specific standards for conviction and sentencing shall be applied at 5 times the quantity standards provided in Article 1 of these Interpretations.\nWhoever smuggles bullets or cartridge cases of various types of ammunition that have been scrapped or cannot be assembled and used, which constitutes a crime, shall, in accordance with Article 153 of the Criminal Law, be convicted and punished for the crime of smuggling ordinary goods and articles; where they are waste, they shall, in accordance with paragraph 2 of Article 152 of the Criminal Law, be convicted and punished for the crime of smuggling waste.\nWhether bullets or cartridge cases fall under \"scrapped or cannot be assembled and used\" or \"waste\" as provided in the preceding paragraph shall be appraised by the relevant technical departments of the State."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Whoever smuggles imitation guns or controlled knives that the State prohibits or restricts from import or export, which constitutes a crime, shall, in accordance with paragraph 3 of Article 151 of the Criminal Law, be convicted and punished for the crime of smuggling goods and articles prohibited by the State from import or export. The specific standards for conviction and sentencing shall be governed by subparagraphs (f) and (g) of paragraph 1 and by paragraph 2 of Article 11 of these Interpretations.\nWhere smuggled imitation guns are appraised as firearms and constitute a crime, the offender shall, in accordance with paragraph 1 of Article 151 of the Criminal Law, be convicted and punished for the crime of smuggling weapons. Where the purpose is not to seek profit or to engage in illegal or criminal activities and there are no other serious circumstances, a lighter punishment may be given in accordance with law; where the circumstances are minor and criminal punishment is not necessary, criminal punishment may be exempted."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Whoever smuggles counterfeit currency, where the amount is RMB 20,000 or more but less than RMB 200,000, or the quantity is 200 or more but fewer than 2,000 notes (coins), may be determined as falling under the \"relatively minor circumstances\" as provided in paragraph 1 of Article 151 of the Criminal Law.\nUnder any of the following circumstances, a fixed-term imprisonment of 7 years or more shall be imposed, and a fine or confiscation of property shall also be imposed, in accordance with paragraph 1 of Article 151 of the Criminal Law:\n(a) smuggling an amount of RMB 200,000 or more but less than RMB 2 million, or a quantity of 2,000 or more but fewer than 20,000 notes (coins);\n(b) the smuggling amount or quantity reaching the standards provided in paragraph 1, and the smuggled counterfeit currency flowing into the market or other such circumstances being present.\nUnder any of the following circumstances, it shall be determined as falling under the \"especially serious circumstances\" as provided in paragraph 1 of Article 151 of the Criminal Law:\n(a) smuggling an amount of RMB 2 million or more, or a quantity of 20,000 or more notes (coins);\n(b) the smuggling amount or quantity reaching the standards provided in subparagraph (a) of paragraph 2, and the person being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, or the smuggled counterfeit currency flowing into the market, or other such circumstances."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The \"currency\" as provided in paragraph 1 of Article 151 of the Criminal Law includes Renminbi and foreign currencies in circulation. The amount of counterfeit foreign currency shall be calculated by converting it into Renminbi."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Whoever smuggles 2 or fewer Class III cultural relics that the State prohibits from export may be determined as falling under the \"relatively minor circumstances\" as provided in paragraph 2 of Article 151 of the Criminal Law.\nUnder any of the following circumstances, a fixed-term imprisonment of 5 years or more but not more than 10 years shall be imposed, and a fine shall also be imposed, in accordance with paragraph 2 of Article 151 of the Criminal Law:\n(a) smuggling fewer than 3 Class II cultural relics that the State prohibits from export, or 3 or more but fewer than 9 Class III cultural relics;\n(b) smuggling fewer than 3 Class III cultural relics that the State prohibits from export, and causing serious damage to the cultural relics or making them impossible to recover, or other such circumstances.\nUnder any of the following circumstances, it shall be determined as falling under the \"especially serious circumstances\" as provided in paragraph 2 of Article 151 of the Criminal Law:\n(a) smuggling 1 or more Class I cultural relics, or 3 or more Class II cultural relics, or 9 or more Class III cultural relics, that the State prohibits from export;\n(b) the smuggled cultural relics that the State prohibits from export reaching the quantity standards provided in subparagraph (a) of paragraph 2, and the person being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, or causing serious damage to the cultural relics or making them impossible to recover, or other such circumstances."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Whoever smuggles Class I or Class II nationally protected animals without reaching the quantity standards specified in item (i) of the Appendix to these Interpretations, or smuggles products made from precious animals with an amount of less than RMB 200,000, may be determined as falling under the \"relatively minor circumstances\" as provided in paragraph 2 of Article 151 of the Criminal Law.\nUnder any of the following circumstances, a fixed-term imprisonment of 5 years or more but not more than 10 years shall be imposed, and a fine shall also be imposed, in accordance with paragraph 2 of Article 151 of the Criminal Law:\n(a) smuggling Class I or Class II nationally protected animals reaching the quantity standards specified in item (i) of the Appendix to these Interpretations;\n(b) smuggling products made from precious animals with an amount of RMB 200,000 or more but less than RMB 1 million;\n(c) smuggling Class I or Class II nationally protected animals without reaching the quantity standards specified in item (i) of the Appendix to these Interpretations, but causing the death of such precious animals or making them impossible to recover, or other such circumstances.\nUnder any of the following circumstances, it shall be determined as falling under the \"especially serious circumstances\" as provided in paragraph 2 of Article 151 of the Criminal Law:\n(a) smuggling Class I or Class II nationally protected animals reaching the quantity standards specified in item (ii) of the Appendix to these Interpretations;\n(b) smuggling products made from precious animals with an amount of RMB 1 million or more;\n(c) smuggling Class I or Class II nationally protected animals reaching the quantity standards specified in item (i) of the Appendix to these Interpretations, and the person being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, or causing the death of such precious animals or making them impossible to recover, or other such circumstances.\nWhere, not for the purpose of seeking profit, a person smuggles products made from precious animals into the territory for keeping as souvenirs, with an amount of less than RMB 100,000, criminal punishment may be exempted; where the circumstances are obviously minor, the act shall not be treated as a crime."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The \"precious animals\" as provided in paragraph 2 of Article 151 of the Criminal Law include the Class I and Class II nationally protected wild animals listed in the List of Wild Animals under Special State Protection, the wild animals in Appendices I and II to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, and the above-mentioned animals that are bred in captivity.\nWhoever smuggles precious animals not specified in the Appendix to these Interpretations shall be dealt with by reference to the quantity standards for animals of the same genus or the same family specified in the Appendix.\nWhere products of precious animals not specified in the Appendix to these Interpretations are smuggled, the value shall be verified in accordance with the relevant provisions of the Notice of the Supreme People's Court, the Supreme People's Procuratorate, the State Forestry Administration, the Ministry of Public Security and the General Administration of Customs on Issues Concerning the Verification of the Value of Products of Terrestrial Wild Animals Listed in Appendices I and II to CITES Involved in Criminal Cases of Damaging Wild Animal Resources (Lin Bin Fa [2012] No. 239)."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Whoever smuggles goods or articles prohibited by the State from import or export under any of the following circumstances shall, in accordance with paragraph 3 of Article 151 of the Criminal Law, be sentenced to fixed-term imprisonment of not more than 5 years or criminal detention, and concurrently or separately imposed a fine:\n(a) smuggling 5 or more but fewer than 25 plants of wild plants under Class I State protection, or 10 or more but fewer than 50 plants of wild plants under Class II State protection, or rare plants or products of rare plants with an amount of RMB 200,000 or more but less than RMB 1 million;\n(b) smuggling fewer than 10 pieces of key protected palaeontological fossils or unnamed palaeontological fossils, or 10 or more but fewer than 50 pieces of generally protected palaeontological fossils;\n(c) smuggling 1 ton or more but less than 5 tons of toxic substances prohibited from import or export, or such substances with an amount of RMB 20,000 or more but less than RMB 100,000;\n(d) smuggling 5 tons or more but fewer than 25 tons of animals, plants and their products originating from epidemic areas outside the territory, or goods of this kind with an amount of RMB 50,000 or more but less than RMB 250,000;\n(e) smuggling 10 tons or more but fewer than 50 tons of charcoal, silica sand or other goods or articles that impair environmental or resource protection, or goods of this kind with an amount of RMB 100,000 or more but less than RMB 500,000;\n(f) smuggling 20 tons or more but fewer than 100 tons of used motor vehicles, cut-up vehicles, used mechanical and electrical products or other goods or articles prohibited from import or export, or goods of this kind with an amount of RMB 200,000 or more but less than RMB 1 million;\n(g) the quantity or amount failing to reach the standards provided in subparagraphs (a) to (f) of this paragraph, but the person being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, causing serious environmental pollution, or causing the spread of Class A infectious diseases or a major animal or plant epidemic, or other such circumstances.\nUnder any of the following circumstances, it shall be determined as falling under the \"serious circumstances\" as provided in paragraph 3 of Article 151 of the Criminal Law:\n(a) the smuggling quantity or amount exceeding the standards provided in subparagraphs (a) to (f) of the preceding paragraph;\n(b) reaching the standards provided in subparagraphs (a) to (f) of the preceding paragraph, and the person being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, causing serious environmental pollution, or causing the spread of Class A infectious diseases or a major animal or plant epidemic, or other such circumstances."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The \"rare plants\" as provided in paragraph 3 of Article 151 of the Criminal Law include the Class I and Class II nationally protected wild plants, the wild medicinal materials under special State protection and the precious trees listed in the List of Wild Plants under Special State Protection, the List of Species of Wild Medicinal Materials under Special State Protection and the List of Precious Tree Species of the State, the wild plants in Appendices I and II to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, and the above-mentioned plants that are artificially cultivated.\nThe \"palaeontological fossils\" as provided in these Interpretations shall be determined in accordance with the provisions of the Regulations on the Protection of Palaeontological Fossils. Whoever smuggles fossil vertebrates or fossil hominids of scientific value that constitutes a crime shall, in accordance with paragraph 2 of Article 151 of the Criminal Law, be convicted and punished for the crime of smuggling cultural relics."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Whoever, for the purpose of seeking profit or dissemination, smuggles obscene articles and reaches any of the following quantities may be determined as falling under the \"relatively minor circumstances\" as provided in paragraph 1 of Article 152 of the Criminal Law:\n(a) smuggling 50 or more but fewer than 100 obscene video tapes or video discs;\n(b) smuggling 100 or more but fewer than 200 obscene audio tapes or audio discs;\n(c) smuggling 100 or more but fewer than 200 sets (volumes) of obscene playing cards, books or picture albums;\n(d) smuggling 500 or more but fewer than 1,000 obscene photographs or pictures;\n(e) smuggling other obscene articles in quantities equivalent to the above.\nWhere obscene articles are smuggled in a quantity of not less than the maximum quantity provided in the preceding paragraph but fewer than 5 times that maximum quantity, a fixed-term imprisonment of 3 years or more but not more than 10 years shall be imposed, and a fine shall also be imposed, in accordance with paragraph 1 of Article 152 of the Criminal Law.\nWhere obscene articles are smuggled in a quantity of 5 times or more the maximum quantity provided in paragraph 1, or in a quantity of not less than the maximum quantity provided in paragraph 1 but fewer than 5 times that quantity while the person is the ringleader of a criminal group or uses special-purpose vehicles to conduct smuggling activities or other such circumstances are present, it shall be determined as falling under the \"serious circumstances\" as provided in paragraph 1 of Article 152 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Whoever smuggles waste prohibited by the State from import, or waste restricted by the State from import that can be used as raw materials, under any of the following circumstances shall be determined as falling under the \"serious circumstances\" as provided in paragraph 2 of Article 152 of the Criminal Law:\n(a) smuggling hazardous solid waste or liquid waste prohibited by the State from import, where the quantity of either type or the total quantity reaches 1 ton or more but less than 5 tons;\n(b) smuggling non-hazardous solid waste or liquid waste prohibited by the State from import, where the quantity of either type or the total quantity reaches 5 tons or more but less than 25 tons;\n(c) smuggling solid waste or liquid waste restricted by the State from import that can be used as raw materials, where the quantity of either type or the total quantity reaches 20 tons or more but less than 100 tons;\n(d) failing to reach the above quantity standards, but the person being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, or causing serious environmental pollution, or other such circumstances.\nUnder any of the following circumstances, it shall be determined as falling under the \"especially serious circumstances\" as provided in paragraph 2 of Article 152 of the Criminal Law:\n(a) the smuggling quantity exceeding the standards provided in the preceding paragraph;\n(b) reaching the standards provided in the preceding paragraph, and the person being the ringleader of a criminal group, using special-purpose vehicles to conduct smuggling activities, or causing serious environmental pollution, or other such circumstances;\n(c) failing to reach the standards provided in the preceding paragraph, but causing serious environmental pollution with especially serious consequences.\nWhoever smuggles gaseous waste placed in containers that constitutes a crime shall be punished by reference to the standards provided in the preceding two paragraphs."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The specific types of waste restricted by the State from import that can be used as raw materials shall be determined by reference to the provisions of the relevant departments of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Whoever smuggles ordinary goods or articles and evades tax payable of RMB 100,000 or more but less than RMB 500,000 shall be determined as falling under \"a relatively large amount of evaded tax payable\" as provided in paragraph 1 of Article 153 of the Criminal Law; where the evaded tax payable is RMB 500,000 or more but less than RMB 2.5 million, it shall be determined as falling under \"a huge amount of evaded tax payable\"; where the evaded tax payable is RMB 2.5 million or more, it shall be determined as falling under \"an especially huge amount of evaded tax payable\".\nWhoever smuggles ordinary goods or articles under any of the following circumstances and evades tax payable of RMB 300,000 or more but less than RMB 500,000 shall be determined as falling under \"other serious circumstances\" as provided in paragraph 1 of Article 153 of the Criminal Law; where the evaded tax payable is RMB 1.5 million or more but less than RMB 2.5 million, it shall be determined as falling under \"other especially serious circumstances\":\n(a) being the ringleader of a criminal group;\n(b) using special-purpose vehicles to conduct smuggling activities;\n(c) offering bribes to staff members of State organs in order to commit the crime of smuggling;\n(d) instigating or using minors, pregnant women or other special groups of persons to smuggle;\n(e) gathering people to obstruct anti-smuggling efforts."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The term \"within one year\" in \"having been given an administrative penalty twice for smuggling within one year and then smuggling again\" as provided in paragraph 1 of Article 153 of the Criminal Law shall be calculated and determined by the time interval between the date on which the first administrative penalty for smuggling takes effect and the date on which the act of \"smuggling again\" is committed; the smuggling acts for which \"an administrative penalty has been given twice\" include smuggling of ordinary goods and articles as well as of other goods and articles; the act of \"smuggling again\" refers only to smuggling of ordinary goods and articles."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The \"tax payable\" as provided in Article 153 of the Criminal Law includes the import and export duties that shall be paid on imported and exported goods and articles and the amount of taxes collected by customs on behalf of others at the import stage. The tax payable shall be calculated on the basis of the tariff schedule, tax rates, exchange rates and dutiable value at the time when the smuggling act is committed; where smuggling is committed several times, it shall be calculated shipment by shipment on the basis of the tariff schedule, tax rates, exchange rates and dutiable value at the time when each smuggling act is committed; where the time when the smuggling act is committed cannot be determined, it shall be calculated on the basis of the tariff schedule, tax rates, exchange rates and dutiable value at the time when the case is discovered.\nThe phrase \"having smuggled several times without being dealt with\" as provided in paragraph 3 of Article 153 of the Criminal Law covers the case of not having been dealt with administratively and the case of not having been dealt with criminally."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The \"bonded goods\" as provided in Article 154 of the Criminal Law mean goods that, upon approval by customs, enter the territory without going through tax payment formalities and are to be re-exported after being stored, processed or assembled within the territory, including goods imported through processing trade, compensation trade or other means, and goods stored, processed or sold on consignment in bonded warehouses, bonded factories, bonded zones or duty-free shops."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Whoever directly and illegally purchases from smugglers goods or articles imported by way of smuggling, or transports, purchases or sells articles prohibited by the State from import or export in inland waters, territorial seas, boundary rivers or boundary lakes, or, without a lawful certificate, transports, purchases or sells goods or articles restricted by the State from import or export in inland waters, territorial seas, boundary rivers or boundary lakes, which constitutes a crime, shall be convicted and punished in accordance with Articles 151, 152, 153, 347 and 350 of the Criminal Law respectively according to the type of smuggled goods or articles.\nThe \"inland waters\" as provided in subparagraph (b) of Article 155 of the Criminal Law include the waters at the estuaries of inland rivers."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Whoever imports or exports goods or articles restricted by the State from import or export without a licence, which constitutes a crime, shall, in accordance with Articles 151 and 152 of the Criminal Law, be convicted and punished for such charges as the crime of smuggling goods and articles prohibited by the State from import or export; where the person also evades tax payable and concurrently constitutes the crime of smuggling ordinary goods and articles, the person shall be convicted and punished in accordance with the provisions that provide for a heavier punishment.\nWhoever, having obtained a licence, imports or exports goods or articles restricted by the State from import or export in excess of the licensed quantity, which constitutes a crime, shall, in accordance with Article 153 of the Criminal Law, be convicted and punished for the crime of smuggling ordinary goods and articles.\nWhere a person rents, borrows or uses a licence purchased from another person to import or export goods or articles restricted by the State from import or export, the provisions of paragraph 1 of this Article shall apply to conviction and punishment."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Whoever conceals goods or articles specified in Articles 151, 152, 347 and 350 of the Criminal Law among smuggled goods or articles, which constitutes a crime, shall be convicted and punished on the basis of the goods or articles actually smuggled; where several crimes are constituted, combined punishment for several crimes shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a person commits the crime of smuggling under any of the following circumstances, it shall be determined as a completed crime:\n(a) being seized at a customs supervision site;\n(b) smuggling by means of false declaration, where the act of declaration has been completed;\n(c) smuggling bonded goods or goods or articles imported with specific tax reduction or exemption as the object, where such goods or articles are sold within the territory, or the act of applying for verification has been completed."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a unit commits a crime provided in Article 151 or Article 152 of the Criminal Law, it shall be convicted and punished in accordance with the standards provided in these Interpretations.\nWhere a unit commits the crime of smuggling ordinary goods or articles and evades tax payable of RMB 200,000 or more but less than RMB 1 million, a fine shall, in accordance with paragraph 2 of Article 153 of the Criminal Law, be imposed on the unit, and the directly responsible person in charge and other directly responsible persons shall be sentenced to fixed-term imprisonment of not more than 3 years or criminal detention; where the evaded tax payable is RMB 1 million or more but less than RMB 5 million, it shall be determined as falling under \"serious circumstances\"; where the evaded tax payable is RMB 5 million or more, it shall be determined as falling under \"especially serious circumstances\"."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "After these Interpretations are issued and come into force, the Interpretations of the Supreme People's Court on Several Issues Concerning the Specific Application of Law in the Trial of Criminal Cases of Smuggling (Fa Shi [2000] No. 30) and the Interpretations of the Supreme People's Court on Several Issues Concerning the Specific Application of Law in the Trial of Criminal Cases of Smuggling (II) (Fa Shi [2006] No. 9) are repealed simultaneously. Where judicial interpretations previously issued are inconsistent with these Interpretations, these Interpretations shall prevail.\nAppendix\nChinese name\nLatin name\nLevel\n(i)\n(ii)\nSlow loris\nNycticebus spp.\nⅠ\n3\n4\nAssam macaque\nMacaca assamensis\nⅠ\n2\n3\nTaiwan macaque\nMacaca cyclopis\nⅠ\n1\n2\nPig-tailed macaque\nMacaca nemestrina\nⅠ\n2\n3\nLangurs (all species)\nPresbytis spp.\nⅠ\n1\n2\nSnub-nosed monkeys (all species)\nRhinopithecus spp.\nⅠ\n1\nGibbons (all species)\nHylobates spp.\nⅠ\n1\n2\nMalayan sun bear\nHelarctos malayanus\nⅠ\n2\n3\nGiant panda\nAiluropoda melanoleuca\nⅠ\n1\nSable\nMartes zibellina\nⅠ\n3\n4\nWolverine\nGulo gulo\nⅠ\n2\n3\nBinturong\nArctictis binturong\nⅠ\n1\n2\nClouded leopard\nNeofelis nebulosa\nⅠ\n1\nLeopard\nPanthera pardus\nⅠ\n1\nSnow leopard\nPanthera uncia\nⅠ\n1\nTiger\nPanthera tigris\nⅠ\n1\nAsian elephant\nElephas maximus\nⅠ\n1\nMongolian wild ass\nEquus hemionus\nⅠ\n2\n3\nKiang\nEquus kiang\nⅠ\n3\n5\nPrzewalski's horse\nEquus przewalskii\nⅠ\n1\nWild Bactrian camel\nCamelus ferus(=bactrianum)\nⅠ\n1\n2\nLesser mouse-deer\nTragulus javanicus\nⅠ\n2\n3\nBlack muntjac\nMuntiacus crinifrons\nⅠ\n1\n2\nWhite-lipped deer\nCervus albirostris\nⅠ\n1\n2\nEld's deer\nCervus eldi\nⅠ\n1\n2\nSika deer\nCervus nippon\nⅠ\n2\n3\nHog deer\nCervus porcinus\nⅠ\n2\n3\nPere David's deer\nElaphurus davidianus\nⅠ\n1\n2\nGaur\nBos gaurus\nⅠ\n1\n2\nWild yak\nBos mutus(=grunniens)\nⅠ\n2\n3\nPrzewalski's gazelle\nProcapra przewalskii\nⅠ\n1\n2\nTibetan antelope\nPantholops hodgsoni\nⅠ\n2\n3\nSaiga antelope\nSaiga tatarica\nⅠ\n1\nTakin\nBudorcas taxicolor\nⅠ\n1\n2\nTaiwan serow\nCapricornis crispus\nⅠ\n2\n3\nRed goral\nNaemorhedus cranbrooki\nⅠ\n2\n4\nHimalayan tahr\nHemitragus jemlahicus\nⅠ\n2\n4\nSiberian ibex\nCapra ibex\nⅠ\n2\n4\nEurasian beaver\nCastor fiber\nⅠ\n1\n2\nShort-tailed albatross\nDiomedea albatrus\nⅠ\n2\n4\nChristmas Island frigatebird\nFregata andrewsi\nⅠ\n2\n4\nWhite stork\nCiconia ciconia\nⅠ\n2\n4\nBlack stork\nCiconia nigra\nⅠ\n2\n4\nCrested ibis\nNipponia nippon\nⅠ\n1\nScaly-sided merganser\nMergus squamatus\nⅠ\n2\n3\nGolden eagle\nAquila chrysaetos\nⅠ\n2\n4\nImperial eagle\nAquila heliaca\nⅠ\n2\n4\nPallas's fish eagle\nHaliaeetus leucoryphus\nⅠ\n2\n4\nWhite-tailed eagle\nHaliaeetus albcilla\nⅠ\n2\n3\nSteller's sea eagle\nHaliaeetus pelagicus\nⅠ\n2\n4\nIndian white-rumped vulture\nPseudogyps bengalensis\nⅠ\n2\n4\nBearded vulture\nGypaetus barbatus\nⅠ\n2\n4\nBlack-billed capercaillie\nTetrao parvirostris\nⅠ\n3\n5\nSevertzov's grouse\nTetrastes sewerzowi\nⅠ\n3\n5\nVerreaux's monal-partridge\nTetraophasis obscurus\nⅠ\n3\n5\nSichuan partridge\nArborophila rufipectus\nⅠ\n3\n5\nHainan partridge\nArborophila ardens\nⅠ\n3\n5\nWestern tragopan\nTragopan melanocephalus\nⅠ\n2\n3\nSatyr tragopan\nTragopan satyra\nⅠ\n2\n4\nBlyth's tragopan\nTragopan blythii\nⅠ\n2\n3\nCabot's tragopan\nTragopan caboti\nⅠ\n2\n3\nMonals (all species)\nLophophorus spp.\nⅠ\n2\n4\nBrown eared pheasant\nCrossoptilon mantchuricum\nⅠ\n2\n3\nSwinhoe's pheasant\nLophura swinhoii\nⅠ\n2\n3\nMrs Hume's pheasant\nSyrmaticus humiae\nⅠ\n2\n4\nElliot's pheasant\nSyrmaticus ewllioti\nⅠ\n2\n4\nMikado pheasant\nSyrmaticus mikado\nⅠ\n2\n4\nGrey peacock-pheasant\nPolyplectron bicalcaratum\nⅠ\n2\n3\nGreen peafowl\nPavo muticus\nⅠ\n2\n3\nBlack-necked crane\nGrus nigricollis\nⅠ\n2\n3\nHooded crane\nGrus monacha\nⅠ\n2\n3\nRed-crowned crane\nGrus japonensis\nⅠ\n2\n3\nSiberian crane\nGrus leucogeranus\nⅠ\n2\n3\nSarus crane\nGrus antigone\nⅠ\n1\n2\nBustards (all species)\nOtis spp.\nⅠ\n4\n6\nRelict gull\nLarus relictus\nⅠ\n2\n4\nHorsfield's tortoise\nTestudo horsfieldi\nⅠ\n4\n8\nChinese crocodile lizard\nShinisaurus crocodilurus\nⅠ\n2\n4\nWater monitor\nVaranus salvator\nⅠ\n2\n4\nIndian python\nPython molurus\nⅠ\n2\n4\nChinese alligator\nAlligator sinensis\nⅠ\n1\n2\nChinese ice crawler\nGalloisiana sinensis\nⅠ\n3\n6\nGolden birdwing\nTeinopalpus aureus\nⅠ\n3\n6\nStump-tailed macaque\nMacaca arctoides\nⅡ\n6\n10\nRhesus macaque\nMacaca mulatta\nⅡ\n6\n10\nTibetan macaque\nMacaca thibetana\nⅡ\n6\n10\nChinese pangolin\nManis pentadactyla\nⅡ\n8\n16\nDhole\nCuon alpinus\nⅡ\n4\n6\nAsiatic black bear\nSelenarctos thibetanus\nⅡ\n3\n5\nBrown bear (including the Tibetan brown bear)\nUrsus arctos(U. a. pruinosus)\nⅡ\n3\n5\nRed panda\nAilurus fulgens\nⅡ\n3\n5\nBeech marten\nMartes foina\nⅡ\n4\n10\nYellow-throated marten\nMartes flavigula\nⅡ\n4\n10\nSpotted linsang\nPronodon pardicolor\nⅡ\n4\n8\nLarge Indian civet\nViverra zibetha\nⅡ\n3\n5\nSmall Indian civet\nViverricula indica\nⅡ\n4\n8\nAfrican wildcat\nFelis lybica(=silvestris)\nⅡ\n4\n8\nChinese mountain cat\nFelis bieti\nⅡ\n4\n10\nJungle cat\nFelis chaus\nⅡ\n4\n8\nEurasian lynx\nFelis lynx\nⅡ\n2\n3\nPallas's cat\nFelis manul\nⅡ\n3\n5\nAsian golden cat\nFelis temmincki\nⅡ\n4\n8\nFishing cat\nFelis viverrinus\nⅡ\n4\n8\nMusk deer (all species)\nMoschus spp.\nⅡ\n3\n5\nWater deer\nHydropotes inermis\nⅡ\n4\n8\nRed deer (including Thorold's deer)\nCervus elaphus(C.e. macneilli)Ⅱ\n4\n6\nSambar\nCervus unicolor\nⅡ\n3\n5\nMoose\nAlces alces\nⅡ\n3\n5\nMongolian gazelle\nProcapra gutturosa\nⅡ\n8\n15\nTibetan gazelle\nProcapra picticaudata\nⅡ\n4\n8\nGoitred gazelle\nGazella subgutturosa\nⅡ\n4\n8\nMainland serow\nCapricornis sumatraensis\nⅡ\n3\n4\nChinese goral\nNaemorhedus goral\nⅡ\n4\n8\nBlue sheep\nPseudois nayaur\nⅡ\n4\n8\nArgali\nOvis ammon\nⅡ\n3\n5\nHainan hare\nLepus peguensis hainanus\nⅡ\n6\n10\nMountain hare\nLepus timidus\nⅡ\n6\n10\nYarkand hare\nLepus yarkandensis\nⅡ\n20\n40\nBlack giant squirrel\nRatufa bicolor\nⅡ\n6\n10\nHorned grebe\nPodiceps auritus\nⅡ\n6\n10\nRed-necked grebe\nPodiceps grisegena\nⅡ\n6\n8\nPelicans (all species)\nPelecanus spp.\nⅡ\n4\n8\nBoobies (all species)\nSula spp.\nⅡ\n6\n10\nPelagic cormorant\nPhalacrocorax pelagicus\nⅡ\n4\n8\nLittle cormorant\nPhalacrocorax niger\nⅡ\n4\n8\nChinese egret\nEgretta eulophotes\nⅡ\n6\n10\nPacific reef heron\nEgretta sacra\nⅡ\n6\n20\nWhite-eared night heron\nGorsachius magnificus\nⅡ\n6\n10\nLittle bittern\nIxbrychus minutus\nⅡ\n6\n10\nPainted stork\nIbis leucocephalus\nⅡ\n3\n4\nWhite ibis\nThreskiornis aethiopicus\nⅡ\n4\n8\nBlack ibis\nPseudibis papillosa\nⅡ\n4\n8\nGlossy ibis\nPlegadis falcinellus\nⅡ\n4\n8\nEurasian spoonbill\nPlatalea leucorodia\nⅡ\n4\n8\nBlack-faced spoonbill\nPlatalea ninor\nⅡ\n4\n8\nRed-breasted goose\nBranta ruficollis\nⅡ\n4\n8\nGreater white-fronted goose\nAnser albifrons\nⅡ\n6\n10\nSwans (all species)\nCygnus spp.\nⅡ\n6\n10\nMandarin duck\nAix galericulata\nⅡ\n6\n10\nOther eagles\n(Accipitridae)\nⅡ\n4\n8\nFalcons (all species)\nFalconidae\nⅡ\n6\n10\nBlack grouse\nLyrurus tetrix\nⅡ\n4\n8\nWillow ptarmigan\nLagopus lagopus\nⅡ\n4\n8\nRock ptarmigan\nLagopus mutus\nⅡ\n6\n10\nSiberian grouse\nFalcipennis falcipennis\nⅡ\n3\n4\nHazel grouse\nTetrastes bonasia\nⅡ\n10\n20\nSnowcocks (all species)\nTetraogallus spp.\nⅡ\n10\n20\nBlood pheasant\nIthaginis cruentus\nⅡ\n4\n6\nTemminck's tragopan\nTragopan temminckii\nⅡ\n4\n6\nTibetan eared pheasant\nCrossoptilon crossoptilon\nⅡ\n4\n6\nBlue eared pheasant\nCrossoptilon aurtum\nⅡ\n4\n10\nKalij pheasant\nLophura leucomelana\nⅡ\n6\n8\nSilver pheasant\nLophura nycthemera\nⅡ\n6\n10\nRed junglefowl\nGallus gallus\nⅡ\n6\n8\nKoklass pheasant\nPucrasia macrolopha\nⅡ\n6\n8\nReeves's pheasant\nSyrmaticus reevesii\nⅡ\n4\n6\nGolden pheasants (all species)\nChrysolophus spp.\nⅡ\n4\n8\nCommon crane\nGrus grus\nⅡ\n4\n8\nSandhill crane\nGrus canadensis\nⅡ\n4\n8\nWhite-naped crane\nGrus vipio\nⅡ\n4\n8\nDemoiselle crane\nAnthropoides virgo\nⅡ\n6\n10\nCorncrake\nCrex crex\nⅡ\n6\n10\nLittle crake\nPorzana parva\nⅡ\n6\n10\nBrown crake\nPorzana bicolor\nⅡ\n6\n10\nSwinhoe's rail\nCoturnicops noveboracensis\nⅡ\n6\n10\nBronze-winged jacana\nMetopidius indicus\nⅡ\n6\n10\nLittle curlew\nNumenius borealis\nⅡ\n8\n15\nNordmann's greenshank\nTringa guttifer\nⅡ\n6\n10\nSmall pratincole\nGlareola lactea\nⅡ\n6\n10\nLittle gull\nLarus minutus\nⅡ\n6\n10\nBlack tern\nChlidonias niger\nⅡ\n6\n10\nRiver tern\nSterna aurantia\nⅡ\n6\n10\nChinese crested tern\nThalasseus zimmermanni\nⅡ\n4\n8\nBlack-bellied sandgrouse\nPterocles orientalis\nⅡ\n4\n8\nGreen pigeons (all species)\nTreron spp.\nⅡ\n6\n8\nBlack-chinned fruit dove\nPtilinopus leclancheri\nⅡ\n6\n10\nImperial pigeons (all species)\nDucula spp.\nⅡ\n6\n10\nWood pigeon\nColumba palumbus\nⅡ\n6\n10\nCuckoo-doves (all species)\nMacropygia spp.\nⅡ\n6\n10\nParrots (all species)\nPsittacidae.\nⅡ\n6\n10\nCoucals (all species)\nCentropus spp.\nⅡ\n6\n10\nOwls (all species)\nSTRIGIFORMES\nⅡ\n6\n10\nSilver-backed needletail\nHirundapus cochinchinensis\nⅡ\n6\n10\nCrested treeswift\nHemiprocne longipennis\nⅡ\n6\n10\nOrange-breasted trogon\nHarpactes oreskios\nⅡ\n6\n10\nBlue-eared kingfisher\nAlcedo meninting\nⅡ\n6\n10\nStork-billed kingfisher\nPelargopsis capensis\nⅡ\n6\n10\nBlack-breasted bee-eater\nMerops leschenaulti\nⅡ\n6\n10\nGreen bee-eater\nMerops orientalis\nⅡ\n6\n10\nHornbills (all species)\nBucertidae\nⅡ\n4\n8\nWhite-bellied woodpecker\nDryocopus javensis\nⅡ\n6\n10\nBroadbills (all species)\nEurylaimidae\nⅡ\n6\n10\nPittas (all species)\nPittidae\nⅡ\n6\n10\nImpressed tortoise\nManouria impressa\nⅡ\n6\n10\nTokay gecko\nGekko gecko\nⅡ\n10\n20\nChinese bullfrog\nRana tigrina\nⅡ\n100\n200\nGiant japyx\nAtlasjapyx atlas\nⅡ\n6\n10\nSharp-plated clubtail\nHeliogomphus retroflexus\nⅡ\n6\n10\nBroad-striped snaketail\nOphiogomphus spinicorne\nⅡ\n6\n10\nChinese zorapteran\nZorotypus sinensis\nⅡ\n6\n10\nMedog zorapteran\nZorotypus medoensis\nⅡ\n6\n10\nLa Fosse's ground beetle\nCarabus(Coptolabrus)lafossei\nⅡ\n6\n10\nDavid's ground beetle\nCarabus(Apotopterus)davidi\nⅡ\n6\n10\nRainbow scarabs (all species)\nCheirotonus spp.\nⅡ\n6\n10\nDavid's rhinoceros beetle\nAllomyrina davidis\nⅡ\n6\n10\nMansfield's Bhutan glory\nBhutanitis mansfieldi\nⅡ\n6\n10\nDongchuan Bhutan glory\nBhutanitis thaidina dongchuanensis\nⅡ\n6\n10\nChinese luehdorfia\nLuehdorfia chinensis huashanensis\nⅡ\n6\n10\nApollo butterfly\nParnassius apollo\nⅡ\n6\n10"
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0065'] = {
+    "lawId": "CN-JI-0065",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 16 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "An illegal organisation established under the guise of religion or qigong or in any other name, which deifies or glorifies its ringleaders, bewitches or deceives others by such means as fabricating and spreading superstitious heresies, and develops and controls members so as to endanger society, shall be determined as a \"cult organisation\" as provided in Article 300 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Whoever organises or uses a cult organisation to undermine the implementation of national laws and administrative regulations, and falls under any of the following circumstances, shall, in accordance with paragraph 1 of Article 300 of the Criminal Law, be sentenced to fixed-term imprisonment of not less than three years but not more than seven years and be fined:\n(a) establishing a cult organisation, or restoring or separately establishing a cult organisation after the cult organisation has been banned;\n(b) gathering a crowd to surround, storm, forcibly occupy or create a disturbance at a state organ, an enterprise or public institution, a public place or a venue for religious activities, thereby disrupting social order;\n(c) illegally holding assemblies, processions or demonstrations, thereby disrupting social order;\n(d) using violence, coercion or other methods to force another person to join or to prevent another person from withdrawing from a cult organisation;\n(e) organising, inciting or deceiving members or other persons into failing to perform their statutory obligations;\n(f) using radio stations (radio equipment) such as \"pseudo base stations\" and \"black broadcasting\" or radio frequencies to propagate cult teachings;\n(g) having previously been held criminally responsible for engaging in cult activities or having been subjected to administrative penalties within two years, and again engaging in cult activities;\n(h) developing 50 or more members of a cult organisation;\n(i) amassing money or property or causing economic losses of RMB 1 million or more;\n(j) using currency as a carrier to propagate cult teachings, in a quantity of 500 or more notes (coins);\n(k) producing or disseminating cult propaganda materials reaching any of the following quantitative thresholds:\n(i) 1,000 or more copies (sheets) of leaflets, spray-painted images, pictures, slogans or newspapers;\n(ii) 250 or more copies of books or periodicals;\n(iii) 250 or more cassettes (discs) of audio-visual products such as audiotapes and videotapes;\n(iv) 250 or more items of signs or markers;\n(v) 100 or more mobile storage media such as optical discs, USB flash drives, memory cards and portable hard drives;\n(vi) 50 or more banners or streamers.\n(l) using communication and information networks to propagate cult teachings, under any of the following circumstances:\n(i) producing or disseminating 200 or more electronic pictures (articles), 50 or more electronic books (copies) of periodicals or audio-visual materials, or electronic documents of 5 million or more characters, or electronic audio-visual materials of 250 or more minutes, that propagate cult teachings;\n(ii) compiling and sending 1,000 or more messages or making 1,000 or more telephone calls;\n(iii) propagating cult teachings by using chat rooms with a cumulative online population of 1,000 or more, or communication groups, WeChat, Weibo or other social networks with a cumulative number of 1,000 or more accounts of group members, followers and the like;\n(iv) cult information having actually been clicked or browsed 5,000 or more times.\n(m) other circumstances of a serious nature."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Whoever organises or uses a cult organisation to undermine the implementation of national laws and administrative regulations, and falls under any of the following circumstances, shall be determined as falling under \"especially serious circumstances\" as provided in paragraph 1 of Article 300 of the Criminal Law, and shall be sentenced to fixed-term imprisonment of not less than seven years or life imprisonment, and be fined or have property confiscated:\n(a) committing the acts provided in subparagraphs (a) to (g) of Article 2 of these Interpretations, with especially serious harm to society;\n(b) committing the acts provided in subparagraphs (h) to (l) of Article 2 of these Interpretations, with the quantity or amount reaching five times or more the corresponding thresholds provided in Article 2;\n(c) other circumstances of an especially serious nature."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Whoever organises or uses a cult organisation to undermine the implementation of national laws and administrative regulations, and falls under any of the following circumstances, shall be determined as falling under \"relatively minor circumstances\" as provided in paragraph 1 of Article 300 of the Criminal Law, and shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance, or be deprived of political rights, and be fined concurrently or separately:\n(a) committing the acts provided in subparagraphs (a) to (g) of Article 2 of these Interpretations, with relatively minor harm to society;\n(b) committing the acts provided in subparagraphs (h) to (l) of Article 2 of these Interpretations, with the quantity or amount reaching one fifth or more of the corresponding thresholds;\n(c) other circumstances of a relatively minor nature."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where cult propaganda materials are possessed or carried for the purpose of dissemination, or are seized on the spot in the course of dissemination, and the quantity reaches the relevant thresholds provided in Articles 2 to 4 of these Interpretations, the following circumstances shall be dealt with separately:\n(a) where the cult propaganda materials were produced by the perpetrator, the case shall be dealt with as a completed crime;\n(b) where the cult propaganda materials were not produced by the perpetrator and have not yet been disseminated, the case shall be dealt with as preparation for a crime;\n(c) where the cult propaganda materials were not produced by the perpetrator and are seized in the course of dissemination, the case shall be dealt with as an attempted crime;\n(d) where the cult propaganda materials were not produced by the perpetrator and part of them has already been disseminated, the case shall be dealt with as a completed crime, and the part not disseminated may be taken into account as appropriate in sentencing."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a person repeatedly produces or disseminates cult propaganda materials or uses communication and information networks to propagate cult teachings and has not been dealt with, the quantities or amounts shall be calculated cumulatively.\nWhere the production or dissemination of cult propaganda materials, or the use of communication and information networks to propagate cult teachings, involves different types or forms, the quantities may be converted according to the corresponding proportions of the different quantitative thresholds provided in these Interpretations and then calculated cumulatively."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Whoever organises or uses a cult organisation to fabricate and spread superstitious heresies, deceives members or other persons into fasting, self-mutilation or the like, or deceives patients into refusing normal medical treatment, thereby causing serious injury or death, shall be determined as \"deceiving others, thereby causing serious injury or death\" by organising or using a cult organisation as provided in paragraph 2 of Article 300 of the Criminal Law.\nWhoever organises or uses a cult organisation to deceive others, thereby causing the death of one or more persons or serious injury to three or more persons, shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years and be fined.\nWhoever organises or uses a cult organisation to deceive others and falls under any of the following circumstances shall be sentenced to fixed-term imprisonment of not less than seven years or life imprisonment, and be fined or have property confiscated:\n(a) causing the death of three or more persons;\n(b) causing serious injury to nine or more persons;\n(c) other circumstances of an especially serious nature.\nWhoever organises or uses a cult organisation to deceive others, thereby causing serious injury, shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance, or be deprived of political rights, and be fined concurrently or separately."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Whoever commits the acts provided in Articles 2 to 5 of these Interpretations and falls under any of the following circumstances shall be given a heavier punishment:\n(a) colluding with overseas institutions, organisations or personnel to engage in cult activities;\n(b) establishing cult organisational structures, developing members or organising cult activities across provinces, autonomous regions or municipalities directly under the Central Government;\n(c) gathering to create disturbances in important public places or custodial facilities, or during major national festivals or major events, and openly engaging in cult activities;\n(d) continuing to gather to create disturbances and openly engage in cult activities after the cult organisation has been banned or determined to be a cult organisation;\n(e) state functionaries engaging in cult activities;\n(f) propagating cult teachings to minors;\n(g) propagating cult teachings in schools or other educational and training institutions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a person organises or uses a cult organisation to undermine the implementation of national laws and administrative regulations and meets the circumstances provided in Article 4 of these Interpretations, but the perpetrator is able to repent sincerely and clearly expresses withdrawal from the cult organisation and refrains from engaging in cult activities, no prosecution may be instituted or criminal punishment may be exempted. Where the perpetrator joined the cult organisation as a result of deception or coercion, the act may be treated as not constituting a crime.\nWhere a person organises or uses a cult organisation to undermine the implementation of national laws and administrative regulations and the perpetrator is able to repent sincerely before the first-instance judgment and clearly expresses withdrawal from the cult organisation and refrains from engaging in cult activities, the matter shall be dealt with separately in accordance with the following provisions:\n(a) where the circumstances provided in Article 2 of these Interpretations are met, it may be determined as \"relatively minor circumstances\" as provided in paragraph 1 of Article 300 of the Criminal Law;\n(b) where the circumstances provided in Article 3 of these Interpretations are met, it may be determined as not falling under \"especially serious circumstances\" as provided in paragraph 1 of Article 300 of the Criminal Law, and the person shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years and be fined."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where, in the course of organising or using a cult organisation to undermine the implementation of national laws and administrative regulations, the person also commits criminal acts such as inciting secession, inciting subversion of state power, or insulting or defaming others, conviction and punishment shall be imposed in accordance with the provisions on cumulative punishment for several crimes."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Whoever organises or uses a cult organisation to fabricate and spread superstitious heresies, and organises, plans, incites, coerces, instigates or assists its members or other persons in committing suicide or self-injury, shall, in accordance with Articles 232 and 234 of the Criminal Law, be convicted and punished for the crime of intentional homicide or the crime of intentional injury."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where personnel of a cult organisation endanger public security by self-immolation, self-detonation or other dangerous methods, they shall, in accordance with Articles 114 and 115 of the Criminal Law, be convicted and punished for the crime of arson, the crime of explosion, the crime of endangering public security by dangerous methods, or the like."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Whoever, knowing that another person is organising or using a cult organisation to commit a crime, provides funds, premises, technology, tools, board and lodging, transportation or other facilities or assistance shall be dealt with as a joint crime."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "For criminals who commit the crime of organising or using a cult organisation to undermine the implementation of laws, or the crime of organising or using a cult organisation to cause serious injury or death, and who seriously disrupt social order, additional deprivation of political rights may be imposed in accordance with Article 56 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where it is difficult to determine whether an item involved in a case is cult propaganda material, a public security organ at or above the level of a city with districts may be commissioned to issue a determination opinion."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "These Interpretations shall come into force on 1 February 2017. The Interpretations of the Supreme People's Court and the Supreme People's Procuratorate on Several Issues concerning the Specific Application of Law in Handling Criminal Cases of Organising and Using Cult Organisations (Fa Shi [1999] No. 18), the Interpretations (II) of the Supreme People's Court and the Supreme People's Procuratorate on Several Issues concerning the Specific Application of Law in Handling Criminal Cases of Organising and Using Cult Organisations (Fa Shi [2001] No. 19), and the Answers of the Supreme People's Court and the Supreme People's Procuratorate to Questions concerning the Specific Application of Law in Handling Criminal Cases of Organising and Using Cult Organisations (Fa Fa [2002] No. 7) are repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0066'] = {
+    "lawId": "CN-JI-0066",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 15 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a person manages or controls the prostitution of others by such means as recruitment, employment or assembling, and there are three or more persons engaged in prostitution, the act shall be determined as \"organising others to engage in prostitution\" as prescribed in Article 358 of the Criminal Law.\nWhether the organiser sets up a fixed venue for prostitution, the number of organisers and the scale of the operation do not affect the determination of the act of organising prostitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a person organises others to engage in prostitution and any of the following circumstances is involved, the act shall be determined as \"serious circumstances\" as prescribed in paragraph 1 of Article 358 of the Criminal Law:\n(a) the number of persons engaged in prostitution reaches 10 or more in aggregate;\n(b) among the persons engaged in prostitution, the number of minors, pregnant women, persons with intellectual disabilities or persons suffering from serious venereal diseases reaches five or more in aggregate;\n(c) organising persons from outside the territory to engage in prostitution within the territory, or organising persons within the territory to go abroad to engage in prostitution;\n(d) illegal gains of RMB 1,000,000 or more;\n(e) causing the persons organised to engage in prostitution to injure themselves, commit suicide or suffer other serious consequences;\n(f) other circumstances of a serious nature."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In the criminal activity of organising prostitution, where a person induces, shelters or introduces the persons organised to engage in prostitution, conviction and punishment shall be imposed in accordance with the provisions that provide for heavier punishment. However, where the person induces, shelters or introduces persons other than those organised to engage in prostitution, separate convictions shall be entered and combined punishment for several crimes shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a person, knowing that another person is carrying out the criminal activity of organising prostitution, recruits or transports persons for that person, or serves as a bodyguard, hired thug, bookkeeper or the like, conviction and punishment shall be imposed for the crime of assisting in organising prostitution in accordance with paragraph 4 of Article 358 of the Criminal Law, and the person shall not be dealt with as an accessory to the crime of organising prostitution.\nWhere a person works as a cleaner, cashier, security guard or the like in an operating venue such as a club or bathhouse holding a business licence, performs general service or labour work, receives only normal remuneration, and has not committed any act of assisting in organising prostitution listed in the preceding paragraph, the person shall not be determined to have committed the crime of assisting in organising prostitution."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a person assists in organising others to engage in prostitution and any of the following circumstances is involved, the act shall be determined as \"serious circumstances\" as prescribed in paragraph 4 of Article 358 of the Criminal Law:\n(a) the number of persons recruited or transported for prostitution reaches 10 or more in aggregate;\n(b) among the persons recruited or transported for prostitution, the number of minors, pregnant women, persons with intellectual disabilities or persons suffering from serious venereal diseases reaches five or more in aggregate;\n(c) assisting in organising persons from outside the territory to engage in prostitution within the territory, or assisting in organising persons within the territory to go abroad to engage in prostitution;\n(d) illegal gains of RMB 500,000 or more;\n(e) causing the persons recruited, transported or organised to engage in prostitution to injure themselves, commit suicide or suffer other serious consequences;\n(f) other circumstances of a serious nature."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a person forces others to engage in prostitution and any of the following circumstances is involved, the act shall be determined as \"serious circumstances\" as prescribed in paragraph 1 of Article 358 of the Criminal Law:\n(a) the number of persons engaged in prostitution reaches five or more in aggregate;\n(b) among the persons engaged in prostitution, the number of minors, pregnant women, persons with intellectual disabilities or persons suffering from serious venereal diseases reaches three or more in aggregate;\n(c) forcing a girl under the age of 14 to engage in prostitution;\n(d) causing the persons forced to engage in prostitution to injure themselves, commit suicide or suffer other serious consequences;\n(e) other circumstances of a serious nature.\nWhere the perpetrator has both committed the criminal act of organising prostitution and committed the criminal act of forcing prostitution, and any of the following circumstances is involved, the case shall be dealt with as \"serious circumstances\" of organising or forcing prostitution:\n(a) any of the \"serious circumstances\" prescribed in Article 2 of this Interpretation or in the preceding paragraph of this Article is involved in the act of organising prostitution or forcing prostitution;\n(b) the number of persons engaged in prostitution reaches in aggregate the numerical threshold for \"serious circumstances\" of organising prostitution prescribed in subparagraphs (1) and (2) of Article 2 of this Interpretation;\n(c) the aggregate amount of illegal gains reaches the numerical threshold for \"serious circumstances\" of organising prostitution prescribed in subparagraph (4) of Article 2 of this Interpretation."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In accordance with paragraph 3 of Article 358 of the Criminal Law, where a person commits the crime of organising or forcing prostitution and also commits criminal acts such as killing, injuring, raping or kidnapping, punishment shall be imposed in accordance with the provisions on combined punishment for several crimes. Where a person who assists in organising prostitution participates in the commission of the aforesaid acts, the person shall be dealt with as a joint offender.\nIn accordance with paragraph 2 of Article 358 of the Criminal Law, a person who organises or forces a minor to engage in prostitution shall be given a heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a person induces, shelters or introduces others to engage in prostitution and any of the following circumstances is involved, conviction and punishment shall be imposed in accordance with paragraph 1 of Article 359 of the Criminal Law:\n(a) inducing another person to engage in prostitution;\n(b) sheltering or introducing two or more persons to engage in prostitution;\n(c) sheltering or introducing minors, pregnant women, persons with intellectual disabilities or persons suffering from serious venereal diseases to engage in prostitution;\n(d) having been subjected to an administrative penalty within one year for inducing, sheltering or introducing prostitution and again committing the act of sheltering or introducing prostitution;\n(e) illegal gains of RMB 10,000 or more.\nWhere a person, by using an information network, publishes illegal information soliciting prostitution and the circumstances are serious, conviction and punishment shall be imposed for the crime of illegally using an information network in accordance with Article 287bis of the Criminal Law. Where the crime of introducing prostitution is also constituted, conviction and punishment shall be imposed in accordance with the provisions that provide for heavier punishment.\nWhether the inducing, sheltering or introducing of others to engage in prostitution is for the purpose of profit does not affect the establishment of the crime.\nWhere a person induces a girl under the age of 14 to engage in prostitution, conviction and punishment shall be imposed for the crime of inducing a girl to engage in prostitution in accordance with paragraph 2 of Article 359 of the Criminal Law.\nWhere the persons induced to engage in prostitution include both girls under the age of 14 and other persons, convictions shall be entered respectively for the crime of inducing a girl to engage in prostitution and the crime of inducing prostitution, and combined punishment shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a person induces, shelters or introduces others to engage in prostitution and any of the following circumstances is involved, the act shall be determined as \"serious circumstances\" as prescribed in paragraph 1 of Article 359 of the Criminal Law:\n(a) inducing five or more persons to engage in prostitution, or inducing, sheltering or introducing 10 or more persons to engage in prostitution;\n(b) inducing three or more minors, pregnant women, persons with intellectual disabilities or persons suffering from serious venereal diseases to engage in prostitution, or inducing, sheltering or introducing five or more such persons to engage in prostitution;\n(c) illegal gains of RMB 50,000 or more;\n(d) other circumstances of a serious nature."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The number of times of organising, forcing, inducing, sheltering or introducing others to engage in prostitution shall be taken into account as a discretionary circumstance in sentencing."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where any of the following circumstances is involved, the person shall be determined to have \"knowledge\" as prescribed in Article 360 of the Criminal Law:\n(a) there is evidence proving that the person has previously consulted a doctor or undergone an examination at a hospital or other medical institution and was diagnosed as suffering from a serious venereal disease;\n(b) on the basis of the person's own knowledge and experience, the person was able to know that he or she was suffering from a serious venereal disease;\n(c) the \"knowledge\" of the perpetrator can be proved by other methods.\nWhether the act of spreading a venereal disease actually causes another person to contract a serious venereal disease does not affect the establishment of this crime.\nThe \"serious venereal diseases\" referred to in Article 360 of the Criminal Law include syphilis, gonorrhoea and the like. Whether other venereal diseases are determined as \"serious venereal diseases\" shall, in accordance with the provisions of the Law of the People's Republic of China on the Prevention and Control of Infectious Diseases and the Measures for the Administration of the Prevention and Control of Venereal Diseases, be determined strictly within the scope of venereal diseases subject to venereal disease monitoring as prescribed by the National Health and Family Planning Commission, and in accordance with the principle that their harm and characteristics are comparable to those of syphilis and gonorrhoea."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a person, knowing that he or she suffers from AIDS or is infected with the AIDS virus, engages in prostitution or whoring, the person shall, in accordance with Article 360 of the Criminal Law, be convicted of the crime of spreading venereal diseases and given a heavier punishment.\nWhere any of the following circumstances is involved and another person is thereby infected with the AIDS virus, the consequence shall be determined as \"serious injury\" as referred to in \"other serious harm to personal health\" in subparagraph (3) of Article 95 of the Criminal Law, and the person shall, in accordance with paragraph 2 of Article 234 of the Criminal Law, be convicted and punished for the crime of intentional injury:\n(a) knowing that he or she is infected with the AIDS virus, engaging in prostitution or whoring;\n(b) knowing that he or she is infected with the AIDS virus, intentionally failing to take preventive measures and having sexual relations with another person."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A person who commits the crime of organising, forcing, inducing, sheltering or introducing others to engage in prostitution shall, in accordance with law, be sentenced to a fine of not less than twice the proceeds of the crime. In the case of a joint crime, the aggregate fine imposed on all joint offenders shall be not less than twice the proceeds of the crime.\nA person who commits the crime of organising or forcing prostitution and is sentenced to life imprisonment shall, in addition, be sentenced to confiscation of property."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In accordance with Articles 362 and 310 of the Criminal Law, where personnel of hotels, catering services, cultural and entertainment businesses, taxi companies or other units tip off offenders when the public security organ investigates and handles prostitution or whoring activities, and the circumstances are serious, they shall be convicted and punished for the crime of shielding. Where they conspired with the criminals in advance, they shall be dealt with as joint offenders.\nWhere any of the following circumstances is involved, the act shall be determined as \"serious circumstances\" as prescribed in Article 362 of the Criminal Law:\n(a) tipping off a criminal group that organises or forces prostitution;\n(b) tipping off three or more times within two years;\n(c) having been subjected to an administrative penalty within one year for tipping off and again committing the act of tipping off;\n(d) causing the ringleader of a criminal group or the principal offender of a joint crime to fail to be brought to justice in a timely manner;\n(e) causing persons engaged in prostitution or whoring to escape, so that the public security organ, owing to difficulties in obtaining evidence, withdraws the criminal case in the course of investigating and handling the criminal act;\n(f) illegal gains of RMB 10,000 or more;\n(g) other circumstances of a serious nature."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "This Interpretation shall come into force on 25 July 2017."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0067'] = {
     "lawId": "CN-JI-0067",
     "sourceLang": "zh",
@@ -5201,6 +5864,264 @@
     ]
   };
 
+  TR['CN-JI-0072'] = {
+    "lawId": "CN-JI-0072",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 27 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Interpretations are formulated for the correct application of the provisions of the Civil Code of the People's Republic of China, the Civil Procedure Law of the People's Republic of China and the Administrative Litigation Law of the People's Republic of China on the system of public interest litigation instituted by people's procuratorates, in light of the actual work of adjudication and procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The main tasks of people's courts and people's procuratorates in handling public interest litigation cases are to give full play to the functions of judicial adjudication and legal supervision, safeguard the authority of the Constitution and laws, uphold social fairness and justice, safeguard State interests and the public interest of society, urge eligible subjects to exercise the right to sue in the public interest in accordance with law, and promote law-based administration and strict law enforcement."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In handling public interest litigation cases, people's courts and people's procuratorates shall abide by the provisions of the Constitution and laws, follow the principles of the litigation system, and follow the laws governing the operation of judicial power and procuratorial power."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A people's procuratorate institutes public interest litigation as a public interest litigant and shall, in accordance with the Civil Procedure Law and the Administrative Litigation Law, enjoy the corresponding litigation rights and perform the corresponding litigation obligations, unless laws and judicial interpretations provide otherwise."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "First-instance civil public interest litigation cases instituted by a people's procuratorate of a city (branch, prefecture) shall be under the jurisdiction of the intermediate people's court of the place where the tortious act was committed or where the defendant is domiciled.\nFirst-instance administrative public interest litigation cases instituted by a basic-level people's procuratorate shall be under the jurisdiction of the basic-level people's court of the place where the administrative organ being sued is located."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In handling public interest litigation cases, a people's procuratorate may investigate and collect evidence materials from the relevant administrative organs as well as other organisations and citizens; the relevant administrative organs as well as other organisations and citizens shall cooperate; where evidence preservation measures need to be taken, the matter shall be handled in accordance with the relevant provisions of the Civil Procedure Law and the Administrative Litigation Law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's courts shall, in trying first-instance public interest litigation cases instituted by people's procuratorates, apply the system of people's assessors."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a people's court holds a hearing in a public interest litigation case instituted by a people's procuratorate, it shall serve a notice to appear in court on the people's procuratorate three days before the hearing.\nThe people's procuratorate shall send personnel to appear in court, and shall, within three days from the date of receipt of the notice to appear in court from the people's court, submit to the people's court a notice of the personnel appearing in court. The notice of the personnel appearing in court shall state the names and legal positions of the persons appearing in court and the specific duties they perform in court."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The procuratorial personnel appearing in court shall perform the following duties:\n(a) reading out the written complaint in the public interest litigation;\n(b) presenting and explaining the evidence investigated and collected by the people's procuratorate, and cross-examining the relevant evidence;\n(c) participating in the court investigation, conducting debate and expressing opinions;\n(d) engaging in other litigation activities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a people's procuratorate is dissatisfied with a judgment or ruling of first instance of a people's court, it may appeal to the people's court at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In the trial of second-instance cases by a people's court, the people's procuratorate that instituted the public interest litigation shall send personnel to appear in court, and the people's procuratorate at the next higher level may also send personnel to participate."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a judgment or ruling in a public interest litigation case instituted by a people's procuratorate takes legal effect and the defendant fails to perform it, the people's court shall transfer the case for enforcement.\nII. Civil Public Interest Litigation"
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a people's procuratorate, in the performance of its duties, discovers acts that damage the public interest of society, such as damage to the ecological environment and resource protection, infringement of the lawful rights and interests of numerous consumers in the fields of food and drug safety, and infringement of the name, portrait, reputation and honour of heroes and martyrs, and intends to institute public interest litigation, it shall make a public announcement in accordance with law, and the announcement period shall be 30 days.\nWhere, upon expiry of the announcement period, the organs prescribed by law, the relevant organisations and the close relatives of heroes and martyrs do not institute litigation, the people's procuratorate may institute litigation in the people's court.\nWhere a people's procuratorate handles a civil public interest litigation case concerning infringement of the name, portrait, reputation and honour of heroes and martyrs, it may also directly seek the opinions of the close relatives of the heroes and martyrs."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A people's procuratorate instituting civil public interest litigation shall submit the following materials:\n(a) the written complaint in the civil public interest litigation, together with copies according to the number of defendants;\n(b) preliminary evidentiary materials showing that the defendant's acts have damaged the public interest of society;\n(c) evidentiary materials showing that the announcement procedure has been completed and the opinions of the close relatives of heroes and martyrs have been sought."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a people's procuratorate institutes civil public interest litigation in accordance with paragraph 2 of Article 55 of the Civil Procedure Law and meets the conditions for instituting litigation prescribed in subparagraphs (2), (3) and (4) of Article 119 of the Civil Procedure Law and in these Interpretations, the people's court shall register the case."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In a civil public interest litigation case instituted by a people's procuratorate, where the defendant makes a claim by way of counterclaim, the people's court shall not accept it."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After a people's court accepts a civil public interest litigation case instituted by a people's procuratorate, it shall serve a copy of the written complaint on the defendant within five days from the date of registration of the case.\nWhere the people's procuratorate has completed the pre-litigation announcement procedure, the people's court shall not make a further announcement after registering the case."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a people's court considers that the claims raised by the people's procuratorate are insufficient to protect the public interest of society, it may explain to the people's procuratorate that it may modify or add claims such as cessation of infringement and restoration to the original state."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "In the course of the trial of a civil public interest litigation case, where all the claims of the people's procuratorate have been satisfied and it withdraws the litigation, the people's court shall permit the withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a people's procuratorate initiates a criminal prosecution for criminal acts that damage the public interest of society, such as damage to the ecological environment and resource protection, infringement of the lawful rights and interests of numerous consumers in the fields of food and drug safety, and infringement of the name, portrait, reputation and honour of heroes and martyrs, it may concurrently institute an incidental civil public interest litigation in the people's court, and the case shall be tried by the same adjudicatory organisation of the people's court.\nA criminal incidental civil public interest litigation case instituted by a people's procuratorate shall be under the jurisdiction of the people's court trying the criminal case.\nIII. Administrative Public Interest Litigation"
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a people's procuratorate, in the performance of its duties, discovers that an administrative organ with supervisory and administrative duties in fields such as ecological environment and resource protection, food and drug safety, protection of State-owned property and the grant of the right to use State-owned land has exercised its functions unlawfully or failed to act, thereby infringing State interests or the public interest of society, it shall make procuratorial suggestions to the administrative organ and urge it to perform its duties in accordance with law.\nThe administrative organ shall perform its duties in accordance with law within two months from the date of receipt of the written procuratorial suggestion and reply to the people's procuratorate in writing. In urgent circumstances such as the continued expansion of damage to State interests or the public interest of society, the administrative organ shall reply in writing within 15 days.\nWhere the administrative organ fails to perform its duties in accordance with law, the people's procuratorate shall institute litigation in the people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A people's procuratorate instituting administrative public interest litigation shall submit the following materials:\n(a) the written complaint in the administrative public interest litigation, together with copies according to the number of defendants;\n(b) evidentiary materials showing that the defendant exercised its functions unlawfully or failed to act, thereby infringing State interests or the public interest of society;\n(c) evidentiary materials showing that the pre-litigation procedure has been completed and the administrative organ still fails to perform its duties in accordance with law or to correct its unlawful acts."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a people's procuratorate institutes administrative public interest litigation in accordance with paragraph 4 of Article 25 of the Administrative Litigation Law and meets the conditions for instituting litigation prescribed in subparagraphs (2), (3) and (4) of Article 49 of the Administrative Litigation Law and in these Interpretations, the people's court shall register the case."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "In the course of the trial of an administrative public interest litigation case, where the defendant corrects its unlawful acts or performs its duties in accordance with law so that all the claims of the people's procuratorate are satisfied and the people's procuratorate withdraws the litigation, the people's court shall rule to permit the withdrawal; where the people's procuratorate modifies its claims and requests confirmation that the original administrative act was unlawful, the people's court shall rule to confirm that it was unlawful."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A people's court shall make a judgment in administrative public interest litigation according to the following circumstances:\n(a) where the administrative act being sued falls under any of the circumstances prescribed in Article 74 or Article 75 of the Administrative Litigation Law, it shall be adjudged unlawful or invalid, and it may at the same time be adjudged that the administrative organ be ordered to take remedial measures;\n(b) where the administrative act being sued falls under any of the circumstances prescribed in Article 70 of the Administrative Litigation Law, it shall be adjudged to be revoked or partially revoked, and it may be adjudged that the administrative organ being sued make a new administrative act;\n(c) where the administrative organ being sued fails to perform its statutory duties, it shall be adjudged to perform them within a certain period;\n(d) where the administrative penalty imposed by the administrative organ being sued is obviously improper, or where another administrative act involves a genuine error in the determination or ascertainment of the amount, the judgment may be modified;\n(e) where the administrative act being sued is supported by conclusive evidence, the application of laws and regulations is correct, statutory procedures are complied with, no functions are exceeded, no functions are abused and there is no obvious impropriety, or where the claim of the people's procuratorate that the administrative organ being sued be ordered to perform its statutory duties is not well-founded, the claims shall be dismissed by judgment.\nA people's court may inform the people's government to which the administrative organ being sued belongs or other relevant functional departments of the result of the judgment.\nIV. Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Other matters not provided for in these Interpretations shall be governed by the provisions of the Civil Procedure Law, the Administrative Litigation Law and the relevant judicial interpretations."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "These Interpretations shall come into force on 2 March 2018.\nWhere judicial interpretations and normative documents previously issued by the Supreme People's Court and the Supreme People's Procuratorate are inconsistent with these Interpretations, these Interpretations shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0073'] = {
     "lawId": "CN-JI-0073",
     "sourceLang": "zh",
@@ -5267,6 +6188,477 @@
     ]
   };
 
+  TR['CN-JI-0075'] = {
+    "lawId": "CN-JI-0075",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 25 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The following criminal cases shall be determined as \"criminal cases\" as provided in paragraph 1 of Article 280 of the Criminal Procedure Law:\n(a) criminal cases of embezzlement, misappropriation of public funds, holding a huge amount of property with unidentified sources, concealing overseas deposits, privately dividing state-owned assets, and privately dividing confiscated property and fines;\n(b) criminal cases of accepting bribes, accepting bribes by a unit, accepting bribes by taking advantage of influence, offering bribes, offering bribes to persons with influence, offering bribes to a unit, introducing bribery, and offering bribes by a unit;\n(c) criminal cases of organising, leading or participating in a terrorist organisation, assisting terrorist activities, preparing to carry out terrorist activities, advocating terrorism or extremism, inciting the commission of terrorist activities, using extremism to undermine the implementation of law, compelling others to wear or display clothing or symbols advocating terrorism or extremism, and illegally possessing articles advocating terrorism or extremism;\n(d) criminal cases endangering national security, smuggling, money laundering, financial fraud, mafia-like organisations, and drugs.\nCases of telecommunications fraud and cyber fraud shall be handled as criminal cases as provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a case has relatively significant influence within a province, autonomous region or municipality directly under the Central Government or throughout the country, or the criminal suspect or defendant has absconded abroad, it shall be determined as \"significant\" as provided in paragraph 1 of Article 280 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a criminal suspect or defendant flees and conceals himself, or escapes in the course of criminal proceedings, in order to evade investigation and criminal prosecution, it shall be determined as \"absconding\" as provided in paragraph 1 of Article 280 of the Criminal Procedure Law.\nWhere a criminal suspect or defendant has been missing for two full years as a result of an accident, or has been missing as a result of an accident and the relevant organ has certified that he cannot survive, it shall be handled in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a criminal suspect or defendant dies and his illegal gains and other property involved in the case shall be recovered in accordance with the provisions of the Criminal Law, the people's procuratorate may apply to the people's court for confiscation of the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a public security organ issues a wanted notice, or the Ministry of Public Security issues a red notice through INTERPOL, it shall be determined as \"being wanted\" as provided in paragraph 1 of Article 280 of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Any property directly or indirectly generated or obtained through the commission of a crime shall be determined as \"illegal gains\" as provided in paragraph 1 of Article 280 of the Criminal Procedure Law.\nWhere the illegal gains have been partially or wholly transformed or converted into other property, the property after transformation or conversion shall be deemed \"illegal gains\" as provided in the preceding paragraph.\nThe proceeds derived from the property after transformation or conversion of the illegal gains, or the proceeds derived from the corresponding part of the illegal gains in property that has been mixed with the illegal gains, shall be deemed \"illegal gains\" as provided in paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "\"Interested parties\" as provided in paragraph 3 of Article 281 of the Criminal Procedure Law include close relatives of the criminal suspect or defendant and other natural persons and units that assert rights over the property applied for confiscation.\n\"Other interested parties\" as provided in paragraph 2 of Article 281 and paragraph 2 of Article 282 of the Criminal Procedure Law means \"other natural persons and units that assert rights over the property applied for confiscation\" as provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a people's procuratorate applies to a people's court for confiscation of illegal gains, it shall prepare a written application for confiscation of illegal gains.\nThe written application for confiscation of illegal gains shall state the following:\n(a) the basic information of the criminal suspect or defendant;\n(b) the cause of action and the source of the case;\n(c) the facts of the crime suspected of having been committed by the criminal suspect or defendant and the relevant evidentiary materials;\n(d) the circumstances of the criminal suspect or defendant having absconded, being wanted, having escaped, being missing or having died;\n(e) the type, quantity, value and location of the property applied for confiscation, as well as the list of property already sealed up, seized or frozen and the relevant legal formalities;\n(f) the relevant facts and evidentiary materials establishing that the property applied for confiscation is illegal gains or other property involved in the case;\n(g) the grounds and legal basis for making the application for confiscation of illegal gains;\n(h) whether there are interested parties, and the names, identities, addresses and contact details of the interested parties;\n(i) other content that shall be stated.\nWhere the above materials require translation, the people's procuratorate shall transfer the translation to the people's court together with the written application for confiscation of illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "With respect to an application for confiscation of illegal gains, the people's court shall complete its examination within 30 days and shall handle it respectively according to the following circumstances:\n(a) where the application falls within the scope of cases acceptable for applications for confiscation of illegal gains and within the jurisdiction of the court, the materials are complete, and there is evidence proving the facts of a crime, it shall be accepted;\n(b) where the application does not fall within the scope of cases acceptable for applications for confiscation of illegal gains or does not fall within the jurisdiction of the court, it shall be returned to the people's procuratorate;\n(c) where the application for confiscation of illegal gains does not meet the standard of \"there is evidence proving the facts of a crime\", the people's procuratorate shall be notified to withdraw the application, and the people's procuratorate shall withdraw it;\n(d) where the materials are incomplete, the people's procuratorate shall be notified to supplement them within seven days; if the materials cannot be supplemented within seven days, the application shall be returned to the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the following circumstances are concurrently present, it shall be determined as \"there is evidence proving the facts of a crime\" as provided in Article 9 of these Provisions:\n(a) there is evidence proving that the facts of a crime occurred;\n(b) there is evidence proving that the facts of the crime were committed by the criminal suspect or defendant;\n(c) the evidence proving that the criminal suspect or defendant committed the criminal act is authentic and lawful."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "After accepting an application for confiscation of illegal gains, the people's court shall issue an announcement within 15 days, and the announcement period shall be six months. The provisions on suspension, interruption and extension shall not apply during the announcement period.\nThe announcement shall state the following:\n(a) the cause of action, the source of the case, and that the case falls within the jurisdiction of the court;\n(b) the basic information of the criminal suspect or defendant;\n(c) the facts of the crime suspected of having been committed by the criminal suspect or defendant;\n(d) the circumstances of the criminal suspect or defendant having absconded, being wanted, having escaped, being missing or having died;\n(e) the type, quantity, value and location of the property applied for confiscation, as well as the list of property already sealed up, seized or frozen and the relevant legal formalities;\n(f) the relevant facts establishing that the property applied for confiscation is illegal gains or other property involved in the case;\n(g) the grounds and legal basis for the application for confiscation;\n(h) the time limit and method for interested parties to apply to participate in the proceedings, and the adverse legal consequences they may bear for failing to apply to participate in the proceedings in accordance with such time limit and method;\n(i) other circumstances that shall be announced."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The announcement shall be published and released in newspapers publicly distributed nationwide, information networks and other media, and on the official website of the Supreme People's Court, and shall be posted on the announcement board of the people's court. Where necessary, the announcement may be posted at the place where the crime was committed, the place of residence of the criminal suspect or defendant, or the place where the property applied for confiscation is located. The date on which the announcement is last published, released or posted shall be the date of the announcement. Where the people's court posts the announcement, it shall record the posting process by photographing, video recording or other means.\nWhere the people's court has obtained the contact details of an interested party within the territory, it shall directly serve a notice containing the content of the announcement; where direct service is difficult, it may entrust another person to serve the notice or serve it by post. With the consent of the person to be served, the content of the announcement may be communicated by facsimile, electronic mail or other means capable of confirming receipt, and shall be recorded in the case file; where the people's court has obtained the contact details of a criminal suspect, defendant or interested party outside the territory, it may, with the consent of the person to be served, communicate the content of the announcement by facsimile, electronic mail or other means capable of confirming receipt, and shall record it in the case file; where the person to be served has not expressed consent, or the people's court has not obtained the contact details of the criminal suspect, defendant or interested party outside the territory, and the competent authority of the country (region) where the person to be served is located has explicitly requested that a notice containing the content of the announcement be served on the person to be served, the people's court accepting the case of application for confiscation of illegal gains may decide whether to serve it. Where it decides to serve, it shall report the content of the announcement level by level to the Supreme People's Court, and the Supreme People's Court shall, in accordance with treaties on criminal judicial assistance, multilateral conventions, or the principle of reciprocity, request the competent authority of the country (region) where the person to be served is located to assist in service."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An interested party applying to participate in the proceedings shall do so within the announcement period and shall provide materials proving his relationship with the criminal suspect or defendant, or evidentiary materials proving that he may assert rights over the illegal gains and other property involved in the case.\nAn interested party may entrust an agent ad litem to participate in the proceedings. Where an interested party entrusts an agent outside the territory, he shall entrust a lawyer who holds the lawyer qualification of the People's Republic of China and has lawfully obtained a practising certificate, and shall notarise and authenticate the power of attorney in accordance with the provisions of Article 403 of the Interpretation of the Supreme People's Court on the Application of the Criminal Procedure Law of the People's Republic of China.\nWhere an interested party applies to participate in the proceedings after the announcement period expires and can give a reasonable explanation, the people's court shall permit it."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "After the announcement period expires, the people's court shall try the case of application for confiscation of illegal gains through a collegial panel.\nWhere an interested party applies to participate and entrusts an agent ad litem to participate in the proceedings, the people's court shall hold a court hearing. Where the interested party and his agent ad litem refuse to appear in court without justified reasons and no other interested party or other agent ad litem participates in the proceedings, the people's court may try the case without a court hearing.\nWhere the people's court holds a court hearing on a case of application for confiscation of illegal gains, the people's procuratorate shall send personnel to attend.\nAfter fixing the date of the hearing, the people's court shall notify the people's procuratorate, the interested party and his agent ad litem, witnesses, expert evaluators and interpreters of the time and place of the hearing. The notice shall be served in accordance with the method provided in paragraph 2 of Article 12 of these Provisions no later than three days before the court hearing; where the person to be served is outside the territory, it shall be served no later than 30 days before the court hearing."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The procuratorial personnel appearing in court shall read out the written application for confiscation of illegal gains and, at the court investigation stage, present and read out the evidence on the relevant facts, including that the property applied for confiscation is illegal gains and other property involved in the case.\nWith respect to evidence that is truly necessary to be presented but may impede an ongoing or imminent criminal investigation, the court investigation of such evidence shall be conducted in camera.\nWhere the interested party and his agent ad litem object to the relevant facts and evidence, including that the property applied for confiscation is illegal gains and other property involved in the case, they may submit their opinions; where they assert rights over the property applied for confiscation, they shall present the relevant evidence."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where, after trial, the people's court considers that the property applied for confiscation is illegal gains or other property involved in the case, it shall confiscate such property, except where it shall be returned to the victim in accordance with law; where the property applied for confiscation is not illegal gains or other property involved in the case, it shall rule to dismiss the application and lift the measures of sealing up, seizure and freezing."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where it is highly probable that the property applied for confiscation is illegal gains or other property involved in the case, it shall be determined as \"the property applied for confiscation is illegal gains or other property involved in the case\" as provided in Article 16 of these Provisions.\nIn a criminal case of holding a huge amount of property with unidentified sources, where no interested party asserts rights over the illegal gains or other property involved in the case, or where an interested party asserts rights over the illegal gains or other property involved in the case but the relevant evidence provided does not meet the corresponding standard of proof, it shall be deemed as \"the property applied for confiscation is illegal gains or other property involved in the case\" as provided in Article 16 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an interested party fails to participate in the proceedings during the first instance not out of intent or gross negligence and applies to participate in the proceedings during the second instance, the people's court shall permit it and remand the case to the people's court which originally tried it for retrial."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a criminal suspect or defendant has absconded abroad, entrusts an agent ad litem to apply to participate in the proceedings, and the competent authority of the country (region) where the illegal gains or other property involved in the case is located has explicitly submitted opinions in support, the people's court may permit it.\nWhere the people's court permits participation in the proceedings, the agent ad litem of the criminal suspect or defendant shall exercise litigation rights in accordance with the provisions of these Provisions on the agents ad litem of interested parties."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the people's procuratorate and the interested party have no dispute over the facts and evidence found in the ruling of first instance, the people's court of second instance may try the case without a court hearing.\nWhere the people's court of second instance decides to hold a court hearing, it shall notify the people's procuratorate at the same level and the interested party in writing of the time and place of the hearing.\nThe people's court of second instance shall review the relevant facts and the application of law in respect of the request for appeal or protest."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the people's court of second instance has tried a case on appeal or protest against a ruling of first instance, it shall, after trial, handle it respectively according to the following circumstances:\n(a) where the facts found in the ruling of first instance are clear and the application of law is correct, it shall dismiss the appeal or protest and uphold the original ruling;\n(b) where the facts found in the ruling of first instance are clear but there is an error in the application of law, it shall alter the original ruling;\n(c) where the facts found in the ruling of first instance are unclear, it may alter the original ruling after the facts are clarified, or it may set aside the original ruling and remand the case to the people's court which originally tried it for retrial;\n(d) where the ruling of first instance violates statutory litigation procedures and may affect a fair trial, it shall set aside the original ruling and remand the case to the people's court which originally tried it for retrial.\nAfter the people's court of first instance makes a ruling on a case remanded for retrial in accordance with subparagraph (c) of the preceding paragraph, the people's court of second instance shall, in accordance with law, make a ruling on an appeal or protest against the ruling of the people's court of first instance, and shall not remand the case to the people's court which originally tried it for retrial again."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the illegal gains or other property involved in the case are located outside the territory, the public security organ, people's procuratorate or other investigative organ responsible for filing the case and conducting investigation shall prepare the legal documents for sealing up, seizure and freezing and a letter of request for assistance in enforcing the sealing up, seizure and freezing, and after reporting them level by level to the highest superior organ of each system such as public security and procuratorate, the highest superior organ of each system such as public security and procuratorate shall, in accordance with treaties on criminal judicial assistance, multilateral conventions, or the principle of reciprocity, request the competent authority of the country (region) where the illegal gains or other property involved in the case is located to assist in enforcement.\nWhere the competent authority of the requested country (region) states that the entity issuing the legal documents for sealing up, seizure and freezing must be a court, the public security organ, people's procuratorate or other investigative organ responsible for filing the case and conducting investigation may apply to the people's court at the same level for sealing up, seizure and freezing; after examination and approval, the people's court shall prepare an order for sealing up, seizure and freezing and a letter of request for assistance in enforcing the order, and after reporting them level by level to the Supreme People's Court, the Supreme People's Court shall, in accordance with treaties on criminal judicial assistance, multilateral conventions, or the principle of reciprocity, request the competent authority of the country (region) where the illegal gains or other property involved in the case is located to assist in enforcement.\nThe letter of request shall state the following:\n(a) the cause of action and whether the entity issuing the legal documents for sealing up, seizure and freezing has jurisdiction;\n(b) the facts of the crime suspected of having been committed by the criminal suspect or defendant and the relevant evidence, except evidence that may impede an ongoing or imminent criminal investigation;\n(c) where an announcement has been issued, the circumstances of the announcement, the notification of interested parties to participate in the proceedings, and the safeguarding of the lawful exercise of litigation rights by participants in the proceedings;\n(d) the type, quantity, value and location of the property requested to be sealed up, seized or frozen, and the relevant legal formalities;\n(e) the relevant facts and evidentiary materials establishing that the property requested to be sealed up, seized or frozen is illegal gains or other property involved in the case;\n(f) the grounds and legal basis for requesting the sealing up, seizure and freezing of the property;\n(g) other content required to be stated by the requested country (region)."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the illegal gains or other property involved in the case are located outside the territory and the people's court accepting the case of application for confiscation of illegal gains rules for confiscation after trial, it shall prepare a confiscation order and a letter of request for assistance in enforcing the confiscation order, and after reporting them level by level to the Supreme People's Court, the Supreme People's Court shall, in accordance with treaties on criminal judicial assistance, multilateral conventions, or the principle of reciprocity, request the competent authority of the country (region) where the illegal gains or other property involved in the case is located to assist in enforcement.\nThe letter of request shall state the following:\n(a) the cause of action and that the entity issuing the confiscation order has jurisdiction;\n(b) that it is a ruling that has taken effect;\n(c) the facts of the crime suspected of having been committed by the criminal suspect or defendant and the relevant evidence, except evidence that may impede an ongoing or imminent criminal investigation;\n(d) the basic circumstances of the criminal suspect or defendant having absconded, being wanted, having escaped or having died;\n(e) the circumstances of the announcement, the notification of interested parties to participate in the proceedings, and the safeguarding of the lawful exercise of litigation rights by participants in the proceedings;\n(f) the type, quantity, value and location of the illegal gains and other property involved in the case requested to be confiscated, and the relevant legal formalities for sealing up, seizure and freezing;\n(g) the relevant facts and evidentiary materials establishing that the property requested to be confiscated is illegal gains or other property involved in the case;\n(h) the grounds and legal basis for requesting the confiscation of the property;\n(i) other content required to be stated by the requested country (region)."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a unit that has committed a crime provided in Article 1 of these Provisions is dissolved or deregistered, and the directly responsible persons in charge of the unit and other directly responsible persons have absconded or died, so that the case cannot be tried under the ordinary procedure of criminal proceedings, it shall be handled in accordance with the provisions of Article 4 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "These Provisions shall come into force on 5 January 2017. Where judicial interpretations issued before the entry into force of these Provisions are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0076'] = {
+    "lawId": "CN-JI-0076",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 24 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The \"cases of crimes of embezzlement and bribery\" as prescribed in paragraph 1 of Article 291 of the Criminal Procedure Law include the cases of crimes of embezzlement and bribery as prescribed in Chapter VIII of the Specific Provisions of the Criminal Law, and the cases of crimes prescribed in other chapters that are to be convicted and punished in accordance with the provisions of Chapter VIII."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The serious \"cases of crimes endangering national security\" that need to be tried in a timely manner and are subject to verification and approval by the Supreme People's Procuratorate as prescribed in paragraph 1 of Article 291 of the Criminal Procedure Law include the cases of crimes endangering national security as prescribed in Chapter I of the Specific Provisions of the Criminal Law and other cases of crimes endangering national security.\nThe serious \"cases of terrorist crimes\" that need to be tried in a timely manner and are subject to verification and approval by the Supreme People's Procuratorate as prescribed in paragraph 1 of Article 291 of the Criminal Procedure Law include the relevant cases of terrorist crimes as prescribed in Chapter II of the Specific Provisions of the Criminal Law, and the cases of crimes such as homicide, explosion and kidnapping committed by terrorist organisations or terrorist personnel."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a criminal suspect or a defendant is suspected of committing several crimes and some of those crimes meet the conditions prescribed in paragraph 1 of Article 291 of the Criminal Procedure Law, the procedure for trial in absentia may be applied to the cases of those crimes.\nIn a case of joint crime, where some of the criminal suspects or defendants are outside the territory and meet the conditions prescribed in paragraph 1 of Article 291 of the Criminal Procedure Law, the procedure for trial in absentia may be applied to those criminal suspects or defendants."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "After a people's procuratorate receives the case materials transferred for examination and prosecution, it shall promptly inform the criminal suspect that he or she has the right to retain a defender, and inform his or her close relatives that they have the right to retain a defender on his or her behalf."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "For a case to which the procedure for trial in absentia is proposed to be applied in accordance with paragraph 1 of Article 291 of the Criminal Procedure Law, the people's procuratorate and the people's court shall focus on examining the following:\n(a) whether the case falls within the scope of cases to which the procedure for trial in absentia may be applied;\n(b) whether the case falls within the jurisdiction of this court;\n(c) whether the basic information of the criminal suspect or defendant is stated, including being outside the territory, state of health, a definite place of residence outside the territory, contact information, being listed as wanted, the issuance of a red notice and other such information, and whether evidentiary materials are attached;\n(d) whether it is stated whether the criminal suspect or defendant has close relatives, and the names, identities, addresses, contact information and other particulars of all the close relatives that have been ascertained;\n(e) whether the main facts of the crime concerned allegedly committed by the criminal suspect or defendant are stated, and whether evidentiary materials are attached;\n(f) whether the type, quantity, value, location and other particulars of the illegal gains and other property involved in the case are listed, and whether evidentiary materials are attached;\n(g) whether a list of the illegal gains and other property involved in the case that have been sealed up, seized or frozen and the relevant legal formalities are attached;\n(h) for a case verified and approved by the Supreme People's Procuratorate, whether the relevant legal formalities are attached;\n(i) where the relevant materials require attached translations, whether the translations are transferred together."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "For a case in which a people's procuratorate initiates a public prosecution in accordance with paragraph 1 of Article 291 of the Criminal Procedure Law, the people's court shall, after examination, handle it separately in accordance with the following circumstances:\n(a) where the case meets the conditions for application of the procedure for trial in absentia, falls within the jurisdiction of this court and the materials are complete, it shall be accepted;\n(b) where the case does not fall within the scope of cases to which the procedure for trial in absentia may be applied, does not fall within the jurisdiction of this court, or does not meet the other conditions for application of the procedure for trial in absentia, it shall be returned to the people's procuratorate;\n(c) where the materials are incomplete, the people's court shall notify the people's procuratorate to supplement them within 30 days; where the materials are not supplemented within 30 days and no reasonable explanation can be given, the case shall be returned to the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For a case in which a people's procuratorate initiates a public prosecution in accordance with paragraph 1 of Article 291 of the Criminal Procedure Law, after the people's court dockets the case, it shall serve the summons and a copy of the indictment on the defendant, and the summons shall state the time limit for the defendant to appear and the legal consequences of failing to appear as required; it shall serve a copy of the indictment on the close relatives of the defendant, inform them that they have the right to retain a defender on the defendant's behalf and the right to apply to participate in the proceedings, and notify them to urge the defendant to surrender."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For a case in which a people's procuratorate initiates a public prosecution in accordance with paragraph 1 of Article 291 of the Criminal Procedure Law, the service of the relevant procedural documents on the defendant shall be effected by means of judicial assistance provided for in the relevant international treaties or through diplomatic channels, or by other means permitted by the law of the place where the defendant is located.\n\"Other means permitted by the law of the place where the defendant is located\" means the various means of service prescribed, recognised, acknowledged or accepted by the laws, precedents, practices and judicial practice of the place where the defendant is located, including but not limited to the following circumstances and means:\n(a) for a defendant of Chinese nationality, service may be entrusted to the embassy or consulate of China in the country where the defendant is located;\n(b) where the defendant is a foreign entity or its person in charge, service may be effected through the representative office or branch established by it within the territory of the People's Republic of China or a business agent authorised to accept service;\n(c) service by post; where three months have elapsed from the date of posting and the acknowledgement of service has not been returned, but it is sufficient to determine from all the circumstances that service has been effected, it shall be deemed to have been served;\n(d) service by fax, electronic mail, communication software or other means by which it can be confirmed that the defendant has received the documents;\n(e) where service at the last place of residence of the defendant may be deemed to be service, service may be effected at the last place of residence of the defendant;\n(f) where the domicile or place of residence of the defendant has been ascertained but service cannot be effected despite all available means, service may be effected by public announcement;\n(g) other means permitted by the law of the place where the defendant is located."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In the trial by a people's court of a case in which a people's procuratorate initiates a public prosecution in accordance with paragraph 1 of Article 291 of the Criminal Procedure Law, the defendant has the right to retain one or two defenders, or his or her close relatives may retain one or two defenders on his or her behalf. Where a lawyer is retained as a defender, a lawyer who has obtained the legal professional qualification of the People's Republic of China and has lawfully obtained a practice certificate shall be retained; a power of attorney sent or entrusted from outside the territory shall comply with the relevant provisions.\nWhere the defendant and his or her close relatives have not retained a defender, the people's court shall notify a legal aid institution to designate a lawyer to provide a defence for the defendant.\nWhere the defendant and his or her close relatives refuse the defence by the lawyer designated by the legal aid institution, the people's court shall ascertain the reasons. Where the reasons are justified, the people's court shall grant the refusal, but the defendant and his or her close relatives shall retain another defender within five days; where the defendant and his or her close relatives fail to retain another defender, the people's court shall, within three days, notify the legal aid institution to designate another lawyer to provide a defence for the defendant, and where the defendant and his or her close relatives refuse again, the refusal shall not be granted."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In the trial by a people's court of a case in which a people's procuratorate initiates a public prosecution in accordance with paragraph 1 of Article 291 of the Criminal Procedure Law, where a close relative of the defendant applies to participate in the proceedings, he or she shall submit, after receiving the copy of the indictment and before the first-instance hearing, evidentiary materials proving his or her relationship with the defendant. Where a close relative of the defendant files an application, the people's court shall promptly examine it and make a decision.\nThe close relatives of the defendant may retain litigation representatives to participate in the proceedings. Where several close relatives apply to participate, one or two of them shall be selected to participate in the proceedings, and they may jointly retain one or two litigation representatives to participate in the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the defendant and his or her close relatives are outside the territory, the people's court shall, after fixing the date of the hearing, issue a public announcement of the hearing no later than 30 days before the hearing, except where the hearing is held in camera in accordance with law.\nThe people's court shall notify the people's procuratorate, the defendant and his or her defender, the close relatives of the defendant applying to participate in the proceedings and their litigation representatives, the witnesses, the expert witnesses and the interpreters of the time and place of the hearing. The notice shall be served no later than three days before the hearing; where the person to be served is outside the territory, the notice shall be served no later than 30 days before the hearing."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In the trial by a people's court of a case in which a people's procuratorate initiates a public prosecution in accordance with paragraph 1 of Article 291 of the Criminal Procedure Law, where a close relative of the defendant participates in the proceedings, he or she may present opinions, produce evidence, apply to the court to notify witnesses, expert witnesses and other persons to appear in court, conduct debate and file an appeal."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a people's court holds a hearing on a case in which a people's procuratorate initiates a public prosecution in accordance with paragraph 1 of Article 291 of the Criminal Procedure Law, the hearing shall be conducted in accordance with the following procedure:\n(a) after the presiding judge declares the commencement of the court investigation, the public prosecutor shall first read out the indictment, and then the defender shall present opinions on the facts of the crime and the charge alleged in the indictment. With the permission of the presiding judge, the close relatives of the defendant and their litigation representatives may present opinions;\n(b) the public prosecutor and the defender may, with the permission of the presiding judge, question the close relatives of the defendant so as to ascertain the circumstances;\n(c) the court shall conduct investigations successively into the facts of the crime alleged in the indictment, the circumstances of sentencing and the facts concerning the property involved in the case. In the investigation, the public prosecutor shall first produce evidence, the defender shall present opinions on the cross-examination of evidence, and then the defender shall produce evidence and the public prosecutor shall present opinions on the cross-examination of evidence. With the permission of the presiding judge, the close relatives of the defendant and their litigation representatives may produce evidence and apply to the court to notify witnesses, expert witnesses and other persons to appear in court;\n(d) at the stage of court debate, the public prosecutor shall first speak, and then the defender, the close relatives of the defendant and their litigation representatives shall speak, and debate shall be conducted;\n(e) the defender may present final defence opinions."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a people's court, after a trial in absentia, makes a judgment of guilty, the standard of proof that the facts are clear and the evidence is reliable and sufficient shall be met.\nThe confessions and exculpations made by the defendant before leaving the country may be used as the basis for deciding the case if they are verified to be true through the court investigation procedure such as the production and cross-examination of evidence at the hearing."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where the defendant appears during the trial of a case under the procedure for trial in absentia, the people's court shall rule to terminate the trial. Where the people's procuratorate initiates a public prosecution in accordance with the provisions of Article 176 of the Criminal Procedure Law, the people's court shall, after accepting the case in accordance with law, conduct a new trial.\nWhere the people's court conducts a new trial, the trial shall generally be conducted by the same people's court; where the people's court of original trial obtained jurisdiction through designated jurisdiction, jurisdiction shall be designated anew."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After a judgment or ruling made under the procedure for trial in absentia takes effect, where the criminal offender appears, the people's court shall deliver the criminal offender for the execution of the penalty. Before delivering the criminal offender for the execution of the penalty, the people's court shall inform the criminal offender that he or she has the right to raise an objection to the judgment or ruling. Where the criminal offender objects to the judgment or ruling, the objection shall be raised within 10 days after being informed of the right to raise an objection.\nWhere the criminal offender raises an objection to the judgment or ruling, the people's court of original trial shall revoke the original judgment or ruling and notify the people's procuratorate. Where the people's procuratorate initiates a public prosecution in accordance with the provisions of Article 176 of the Criminal Procedure Law, the people's court shall conduct a new trial. Where the disposal of the property of the criminal offender in the original judgment or ruling is indeed erroneous, the property shall be returned or compensation shall be made."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a people's procuratorate considers that the facts of the crime have been ascertained, the evidence is reliable and sufficient, and criminal responsibility shall be pursued in accordance with law, it may, without going through the procedure for the confiscation of illegal gains, directly initiate a public prosecution in accordance with the provisions of Article 291 of the Criminal Procedure Law, and where the people's court considers after examination that the conditions for application of the procedure for trial in absentia are met, it shall conduct a trial in accordance with law and make a judgment or ruling.\nDuring a trial in absentia, where the people's procuratorate applies to withdraw the prosecution and the people's court rules to permit the withdrawal, the people's procuratorate may separately file an application for the confiscation of illegal gains; where the defendant dies, the people's court shall rule to terminate the trial, and except where there is evidence proving that the defendant is innocent and a judgment of not guilty is made after the trial in absentia, the people's procuratorate may separately file an application for the confiscation of illegal gains.\nIn a case in which a people's procuratorate first files an application with a people's court for the confiscation of illegal gains, where, after the people's court has conducted a trial and made a ruling in accordance with law, the people's procuratorate considers that it is still necessary to initiate the procedure for trial in absentia, it may separately initiate a public prosecution in accordance with the provisions of Article 291 of the Criminal Procedure Law, and where the people's court considers after examination that the conditions for application of the procedure for trial in absentia are met, it shall conduct a trial in accordance with law and make a judgment or ruling, and shall deal with the related property involved in the case that has not yet been disposed of in the procedure for the confiscation of illegal gains in a consolidated manner."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "\"The defendant suffers from a serious illness and is unable to appear in court\" as prescribed in Article 296 of the Criminal Procedure Law means that the defendant suffers from a serious illness which causes him or her to be unable to perceive, understand, recognise or express himself or herself normally, lacks the capacity to stand trial, and is unable to appear in court for trial.\nFor a case in which a trial in absentia is proposed to be conducted in respect of a defendant suffering from a serious illness, the people's court shall determine whether the defendant suffers from a serious illness and is unable to appear in court, and where necessary, may designate or engage persons with specialised knowledge to conduct an appraisal and issue a report, and shall make a comprehensive judgment in the light of other evidentiary materials and make a determination in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a defendant suffering from a serious illness dies or absconds during a trial in absentia and the conditions for application of the procedure for the confiscation of illegal gains are met, the people's procuratorate shall promptly file an application with the people's court for the confiscation of illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a trial in absentia is conducted in accordance with the provisions of Article 296 of the Criminal Procedure Law and the defendant recovers the capacity to stand trial, the people's court shall handle the matter separately in accordance with the following circumstances:\n(a) where the defendant recovers the capacity to stand trial during the trial, the people's court shall rule to terminate the procedure for trial in absentia and continue the trial in accordance with the relevant provisions of Part III of the Criminal Procedure Law;\n(b) where the defendant recovers the capacity to stand trial after the judgment or ruling takes effect and raises an objection to the judgment or ruling, the people's court shall revoke the original judgment or ruling, and the people's court that made the judgment or ruling in absentia shall conduct a new trial."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the defendant dies after the people's court accepts the case, the people's court shall rule to terminate the trial; however, where there is evidence proving that the defendant is innocent and the innocence is confirmed through the trial in absentia, it shall pronounce a judgment of not guilty."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a people's court retries a case in accordance with the procedure for trial supervision and the defendant dies, the case may be tried in absentia. Where the defendant is confirmed to be innocent through the trial in absentia, a judgment of not guilty shall be pronounced; where the defendant is guilty but the penalty imposed by the original judgment is excessively heavy, a judgment shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "\"Not guilty\" as referred to in these Provisions includes the circumstance where the facts of the case are clear and the evidence is reliable and sufficient and the defendant is determined to be not guilty in accordance with law, and the circumstance where the evidence is insufficient and the defendant cannot be determined to be guilty."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "These Provisions shall come into force on 22 May 2026. Where the judicial interpretations and normative documents issued previously are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0077'] = {
     "lawId": "CN-JI-0077",
     "sourceLang": "zh",
@@ -5318,6 +6710,138 @@
     ]
   };
 
+  TR['CN-JI-0078'] = {
+    "lawId": "CN-JI-0078",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 13 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Whoever copies another person's credit card, writes another person's credit card information into a magnetic stripe medium or a chip, or forges a credit card by other methods, where one or more credit cards are involved, shall be determined to be \"forging credit cards\" as prescribed in subparagraph (d) of paragraph 1 of Article 177 of the Criminal Law, and shall be convicted and punished for the crime of forging financial instruments.\nWhoever forges ten or more blank credit cards shall be determined to be \"forging credit cards\" as prescribed in subparagraph (d) of paragraph 1 of Article 177 of the Criminal Law, and shall be convicted and punished for the crime of forging financial instruments.\nWhere any of the following circumstances exists in the forging of credit cards, it shall be determined to be \"serious circumstances\" as prescribed in Article 177 of the Criminal Law:\n(a) forging five or more but fewer than twenty-five credit cards;\n(b) the balance of deposits or the overdraft limit in the forged credit cards, separately or in aggregate, amounting to RMB 200,000 or more but less than RMB 1,000,000;\n(c) forging fifty or more but fewer than two hundred and fifty blank credit cards;\n(d) other circumstances of a serious nature.\nWhere any of the following circumstances exists in the forging of credit cards, it shall be determined to be \"especially serious circumstances\" as prescribed in Article 177 of the Criminal Law:\n(a) forging twenty-five or more credit cards;\n(b) the balance of deposits or the overdraft limit in the forged credit cards, separately or in aggregate, amounting to RMB 1,000,000 or more;\n(c) forging two hundred and fifty or more blank credit cards;\n(d) other circumstances of an especially serious nature.\nFor the purposes of this Article, \"the balance of deposits and the overdraft limit in a credit card\" shall be calculated on the basis of the highest balance of deposits and the available overdraft limit recorded by the card-issuing bank after the credit card was forged."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Whoever, knowing that they are forged blank credit cards, holds or transports ten or more but fewer than one hundred such cards shall be determined to be of \"a relatively large quantity\" as prescribed in subparagraph (a) of paragraph 1 of Article 177bis of the Criminal Law; whoever unlawfully holds another person's credit cards, where five or more but fewer than fifty cards are involved, shall be determined to be of \"a relatively large quantity\" as prescribed in subparagraph (b) of paragraph 1 of Article 177bis of the Criminal Law.\nWhere any of the following circumstances exists, it shall be determined to be of \"a huge quantity\" as prescribed in paragraph 1 of Article 177bis of the Criminal Law:\n(a) knowingly holding or transporting ten or more forged credit cards;\n(b) knowingly holding or transporting one hundred or more forged blank credit cards;\n(c) unlawfully holding fifty or more credit cards of another person;\n(d) using a false identity certificate to fraudulently obtain ten or more credit cards;\n(e) selling, purchasing or providing to another person ten or more forged credit cards, or ten or more credit cards fraudulently obtained with a false identity certificate.\nWhoever, against another person's will, uses that person's resident identity card, officer's certificate, soldier's certificate, permit for Hong Kong and Macao residents to travel to the mainland, permit for Taiwan residents to travel to the mainland, passport or other identity certificate to apply for a credit card, or uses a forged or altered identity certificate to apply for a credit card, shall be determined to be \"using a false identity certificate to fraudulently obtain a credit card\" as prescribed in subparagraph (c) of paragraph 1 of Article 177bis of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Whoever steals, buys or unlawfully provides another person's credit card information, where the information is sufficient to forge a credit card that can be used for transactions, or sufficient to enable another person to conduct transactions in the name of the cardholder, and one or more but fewer than five credit cards are involved, shall, in accordance with paragraph 2 of Article 177bis of the Criminal Law, be convicted and punished for the crime of stealing, buying or unlawfully providing credit card information; where five or more credit cards are involved, it shall be determined to be of \"a huge quantity\" as prescribed in paragraph 1 of Article 177bis of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a person produces or provides to a credit card applicant false certification materials on credit standing such as property status, income and position, involving the forgery, alteration or sale of official documents, certificates or seals of a State organ, or involving the forgery of seals of a company, enterprise, public institution or people's organisation, and criminal responsibility shall be pursued, the person shall, in accordance with Article 280 of the Criminal Law, be convicted and punished respectively for the crime of forging, altering or selling official documents, certificates or seals of a State organ and the crime of forging seals of a company, enterprise, public institution or people's organisation.\nWhere an intermediary organisation or its personnel undertaking duties such as asset valuation, capital verification, verification, accounting, auditing or legal services provides to a credit card applicant false certification materials on credit standing such as property status, income and position, and criminal responsibility shall be pursued, the organisation or person shall, in accordance with Article 229 of the Criminal Law, be convicted and punished respectively for the crime of providing false supporting documents and the crime of issuing supporting documents with major inaccuracies."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Whoever uses a forged credit card, a credit card fraudulently obtained with a false identity certificate, an invalidated credit card, or another person's credit card without authorisation to engage in credit card fraud, where the amount is RMB 5,000 or more but less than RMB 50,000, shall be determined to be of \"a relatively large amount\" as prescribed in Article 196 of the Criminal Law; where the amount is RMB 50,000 or more but less than RMB 500,000, it shall be determined to be of \"a huge amount\" as prescribed in Article 196 of the Criminal Law; where the amount is RMB 500,000 or more, it shall be determined to be of \"an especially huge amount\" as prescribed in Article 196 of the Criminal Law.\nThe \"use of another person's credit card without authorisation\" referred to in subparagraph (c) of paragraph 1 of Article 196 of the Criminal Law includes the following circumstances:\n(a) finding another person's credit card and using it;\n(b) obtaining another person's credit card by fraud and using it;\n(c) stealing, buying, obtaining by fraud or otherwise unlawfully obtaining another person's credit card information, and using it through the Internet, a communication terminal or other means;\n(d) other circumstances of using another person's credit card without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a cardholder, for the purpose of illegal possession, makes an overdraft exceeding the prescribed limit or the prescribed period, and fails to repay it for more than three months after the card-issuing bank has made two effective collections, it shall be determined to be \"malicious overdraft\" as prescribed in Article 196 of the Criminal Law.\nWhether there is a purpose of illegal possession shall be judged comprehensively on the basis of the cardholder's credit record, ability and willingness to repay, the circumstances of applying for and overdrawing the credit card, the use of the overdrawn funds, the cardholder's conduct after the overdraft, the reasons for the failure to repay as prescribed and other circumstances. The purpose of illegal possession shall not be determined solely on the basis of the fact that the cardholder failed to repay as prescribed.\nWhere any of the following circumstances exists, it shall be determined to be \"for the purpose of illegal possession\" as prescribed in paragraph 2 of Article 196 of the Criminal Law, unless there is evidence proving that the cardholder does not in fact have the purpose of illegal possession:\n(a) knowingly overdrawing a large amount despite having no ability to repay, and being unable to repay;\n(b) overdrawing after using false credit certification materials to apply for a credit card, and being unable to repay;\n(c) after the overdraft, evading the bank's collection by absconding, changing contact details or other means;\n(d) withdrawing or transferring funds, concealing property, or otherwise evading repayment;\n(e) using the overdrawn funds to engage in criminal activities;\n(f) other circumstances of unlawfully possessing funds and refusing to repay."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where collection simultaneously meets the following conditions, it shall be determined to be \"effective collection\" as prescribed in Article 6 of this Interpretation:\n(a) it is conducted after the overdraft exceeds the prescribed limit or the prescribed period;\n(b) the collection shall be conducted in a manner that can confirm that the cardholder has received it, except where the cardholder intentionally evades collection;\n(c) at least thirty days elapse between the two collections;\n(d) it complies with the relevant provisions or agreement on collection.\nWhether collection is effective shall be judged on the basis of the telephone recordings, records of delivery of messages, receipts for delivery of letters, records of delivery of electronic mail, signatures of the cardholder or the cardholder's family members and other original evidentiary materials on collection provided by the card-issuing bank.\nThe relevant evidentiary materials provided by the card-issuing bank shall bear the signature of the bank's staff and the official seal of the bank."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the amount of a malicious overdraft is RMB 50,000 or more but less than RMB 500,000, it shall be determined to be of \"a relatively large amount\" as prescribed in Article 196 of the Criminal Law; where the amount is RMB 500,000 or more but less than RMB 5,000,000, it shall be determined to be of \"a huge amount\" as prescribed in Article 196 of the Criminal Law; where the amount is RMB 5,000,000 or more, it shall be determined to be of \"an especially huge amount\" as prescribed in Article 196 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The amount of a malicious overdraft means the amount of the principal actually overdrawn and not yet repaid at the time the public security organ files the criminal case, excluding interest, compound interest, late payment fees, handling fees and other charges collected by the card-issuing bank. The amount repaid or paid shall be determined to be repayment of the principal actually overdrawn.\nWhen reviewing for prosecution and initiating public prosecution, the people's procuratorate shall, on the basis of the transaction details, classified statements (overdraft statements and repayment statements) and other evidentiary materials provided by the card-issuing bank, and in light of the explanations and defence opinions raised by the suspect, the defendant and the defender and the relevant evidentiary materials, review and determine the amount of the malicious overdraft; where the amount of the malicious overdraft is difficult to determine, it shall be reviewed and determined on the basis of judicial accounting or auditing reports and in light of other evidentiary materials. In the course of trial, the people's court shall determine the amount of the malicious overdraft on the basis of verifying the above-mentioned evidentiary materials.\nThe relevant evidentiary materials provided by the card-issuing bank shall bear the signature of the bank's staff and the official seal of the bank."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the amount of a malicious overdraft is relatively large and the full amount is repaid before public prosecution is initiated, or other circumstances of a minor nature exist, prosecution may not be initiated; where the full amount is repaid before the judgment of first instance, or other circumstances of a minor nature exist, criminal punishment may be exempted. However, this does not apply where the person has previously been punished twice or more for credit card fraud."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a card-issuing bank, in violation of regulations, issues loans in disguised form in the form of credit card overdrafts and the cardholder fails to repay as prescribed, the provisions of Article 196 of the Criminal Law on \"malicious overdraft\" shall not apply. Where another crime is constituted, the person shall be dealt with as having committed that other crime."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Whoever, in violation of State regulations, uses point-of-sale terminals (POS machines) or other methods to pay cash directly to a credit card holder by creating fictitious transactions, falsely stating prices, returning goods for cash or other means, where the circumstances are serious, shall, in accordance with Article 225 of the Criminal Law, be convicted and punished for the crime of illegal business operation.\nWhere a person commits the act mentioned in the preceding paragraph and the amount is RMB 1,000,000 or more, or causes funds of a financial institution amounting to RMB 200,000 or more to be overdue and unpaid, or causes economic losses to a financial institution amounting to RMB 100,000 or more, it shall be determined to be \"serious circumstances\" as prescribed in Article 225 of the Criminal Law; where the amount is RMB 5,000,000 or more, or causes funds of a financial institution amounting to RMB 1,000,000 or more to be overdue and unpaid, or causes economic losses to a financial institution amounting to RMB 500,000 or more, it shall be determined to be \"especially serious circumstances\" as prescribed in Article 225 of the Criminal Law.\nWhere a cardholder, for the purpose of illegal possession, commits a malicious overdraft by the above-mentioned means and criminal responsibility shall be pursued, the cardholder shall, in accordance with Article 196 of the Criminal Law, be convicted and punished for credit card fraud."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a unit commits an act prescribed in this Interpretation, the standards for conviction and sentencing applicable to the corresponding crime committed by a natural person as prescribed in this Interpretation shall apply."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0079'] = {
     "lawId": "CN-JI-0079",
     "sourceLang": "zh",
@@ -5337,6 +6861,246 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0080'] = {
+    "lawId": "CN-JI-0080",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 25 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 133.2,
+        "text": {
+          "en": "(Article 2 of Amendment (XI) to the Criminal Law)\ncrime of obstructing safe driving"
+        },
+        "noLabel": {
+          "en": "Article 133ter."
+        }
+      },
+      {
+        "no": 134.02,
+        "text": {
+          "en": "(Article 3 of Amendment (XI) to the Criminal Law)\ncrime of forcibly ordering or organising another person to work in violation of rules and at risk\n(the charge of forcibly ordering work in violation of rules and at risk is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 134(2)."
+        }
+      },
+      {
+        "no": 134.1,
+        "text": {
+          "en": "(Article 4 of Amendment (XI) to the Criminal Law)\ncrime of dangerous operation"
+        },
+        "noLabel": {
+          "en": "Article 134bis."
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "(Article 5 of Amendment (XI) to the Criminal Law)\ncrime of producing, selling or providing counterfeit medicine\n(the charge of producing or selling counterfeit medicine is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 141."
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "(Article 6 of Amendment (XI) to the Criminal Law)\ncrime of producing, selling or providing inferior medicine\n(the charge of producing or selling inferior medicine is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 142."
+        }
+      },
+      {
+        "no": 142.1,
+        "text": {
+          "en": "(Article 7 of Amendment (XI) to the Criminal Law)\ncrime of obstructing the administration of medicines"
+        },
+        "noLabel": {
+          "en": "Article 142bis."
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "(Article 8 of Amendment (XI) to the Criminal Law)\ncrime of fraudulent issuance of securities\n(the charge of fraudulently issuing shares or bonds is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 160."
+        }
+      },
+      {
+        "no": 219.1,
+        "text": {
+          "en": "(Article 23 of Amendment (XI) to the Criminal Law)\ncrime of stealing, probing, buying or unlawfully providing\ntrade secrets for entities or individuals outside the territory"
+        },
+        "noLabel": {
+          "en": "Article 219bis."
+        }
+      },
+      {
+        "no": 236.1,
+        "text": {
+          "en": "(Article 27 of Amendment (XI) to the Criminal Law)\ncrime of sexual assault by a person bearing a duty of care"
+        },
+        "noLabel": {
+          "en": "Article 236bis."
+        }
+      },
+      {
+        "no": 277.05,
+        "text": {
+          "en": "(Article 31 of Amendment (XI) to the Criminal Law)\ncrime of assaulting a police officer"
+        },
+        "noLabel": {
+          "en": "Article 277(5)."
+        }
+      },
+      {
+        "no": 280.2,
+        "text": {
+          "en": "(Article 32 of Amendment (XI) to the Criminal Law)\ncrime of impersonation and fraudulent substitution"
+        },
+        "noLabel": {
+          "en": "Article 280ter."
+        }
+      },
+      {
+        "no": 291.2,
+        "text": {
+          "en": "(Article 33 of Amendment (XI) to the Criminal Law)\ncrime of throwing objects from a height"
+        },
+        "noLabel": {
+          "en": "Article 291ter."
+        }
+      },
+      {
+        "no": 293.1,
+        "text": {
+          "en": "(Article 34 of Amendment (XI) to the Criminal Law)\ncrime of collecting unlawful debts by coercion"
+        },
+        "noLabel": {
+          "en": "Article 293bis."
+        }
+      },
+      {
+        "no": 299,
+        "text": {
+          "en": "(Amendment (X) to the Criminal Law)\ncrime of insulting the national flag, the national emblem or the national anthem\n(the charge of insulting the national flag or the national emblem is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 299."
+        }
+      },
+      {
+        "no": 299.1,
+        "text": {
+          "en": "(Article 35 of Amendment (XI) to the Criminal Law)\ncrime of infringing upon the reputation or honour of heroes and martyrs"
+        },
+        "noLabel": {
+          "en": "Article 299bis."
+        }
+      },
+      {
+        "no": 303.03,
+        "text": {
+          "en": "(Article 36 of Amendment (XI) to the Criminal Law)\ncrime of organising or participating in gambling outside the territory of China"
+        },
+        "noLabel": {
+          "en": "Article 303(3)."
+        }
+      },
+      {
+        "no": 334.1,
+        "text": {
+          "en": "(Article 38 of Amendment (XI) to the Criminal Law)\ncrime of unlawfully collecting human genetic resources or smuggling\nmaterials of human genetic resources"
+        },
+        "noLabel": {
+          "en": "Article 334bis."
+        }
+      },
+      {
+        "no": 336.1,
+        "text": {
+          "en": "(Article 39 of Amendment (XI) to the Criminal Law)\ncrime of unlawfully implanting gene-edited or cloned embryos"
+        },
+        "noLabel": {
+          "en": "Article 336bis."
+        }
+      },
+      {
+        "no": 341.01,
+        "text": {
+          "en": "crime of endangering precious and endangered wild animals\n(the charges of unlawfully hunting or killing precious and endangered wild animals and of unlawfully purchasing, transporting or selling precious and endangered wild animals or products thereof are abolished)"
+        },
+        "noLabel": {
+          "en": "Article 341(1)."
+        }
+      },
+      {
+        "no": 341.03,
+        "text": {
+          "en": "(Article 41 of Amendment (XI) to the Criminal Law)\ncrime of unlawfully hunting, purchasing, transporting or selling\nterrestrial wild animals"
+        },
+        "noLabel": {
+          "en": "Article 341(3)."
+        }
+      },
+      {
+        "no": 342.1,
+        "text": {
+          "en": "(Article 42 of Amendment (XI) to the Criminal Law)\ncrime of damaging nature reserves"
+        },
+        "noLabel": {
+          "en": "Article 342bis."
+        }
+      },
+      {
+        "no": 344,
+        "text": {
+          "en": "crime of endangering plants under special State protection\n(the charges of unlawfully felling or destroying plants under special State protection and of unlawfully purchasing, transporting, processing or selling plants under special State protection or products thereof are abolished)"
+        },
+        "noLabel": {
+          "en": "Article 344."
+        }
+      },
+      {
+        "no": 344.1,
+        "text": {
+          "en": "(Article 43 of Amendment (XI) to the Criminal Law)\ncrime of unlawfully introducing, releasing or discarding invasive alien species"
+        },
+        "noLabel": {
+          "en": "Article 344bis."
+        }
+      },
+      {
+        "no": 355.1,
+        "text": {
+          "en": "(Article 44 of Amendment (XI) to the Criminal Law)\ncrime of obstructing the administration of stimulants"
+        },
+        "noLabel": {
+          "en": "Article 355bis."
+        }
+      },
+      {
+        "no": 408.1,
+        "text": {
+          "en": "(Article 45 of Amendment (XI) to the Criminal Law)\ncrime of dereliction of duty in the supervision of food and medicines\n(the charge of dereliction of duty in food supervision is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 408bis."
         }
       }
     ]
@@ -5409,6 +7173,309 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0084'] = {
+    "lawId": "CN-JI-0084",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 120.1,
+        "text": {
+          "en": "(Article 6 of Amendment (IX) to the Criminal Law)\ncrime of assisting terrorist activities\n(the charge of financing terrorist activities is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 120bis."
+        }
+      },
+      {
+        "no": 120.2,
+        "text": {
+          "en": "(Article 7 of Amendment (IX) to the Criminal Law)\ncrime of preparing to carry out terrorist activities"
+        },
+        "noLabel": {
+          "en": "Article 120ter."
+        }
+      },
+      {
+        "no": 120.3,
+        "text": {
+          "en": "(Article 7 of Amendment (IX) to the Criminal Law)\ncrime of advocating terrorism or extremism or inciting the carrying out of terrorist activities"
+        },
+        "noLabel": {
+          "en": "Article 120quater."
+        }
+      },
+      {
+        "no": 120.4,
+        "text": {
+          "en": "(Article 7 of Amendment (IX) to the Criminal Law)\ncrime of undermining the implementation of law by exploiting extremism"
+        },
+        "noLabel": {
+          "en": "Article 120quinquies."
+        }
+      },
+      {
+        "no": 120.5,
+        "text": {
+          "en": "(Article 7 of Amendment (IX) to the Criminal Law)\ncrime of compelling another person to wear clothing or symbols that advocate terrorism or extremism"
+        },
+        "noLabel": {
+          "en": "Article 120sexies."
+        }
+      },
+      {
+        "no": 120.6,
+        "text": {
+          "en": "(Article 7 of Amendment (IX) to the Criminal Law)\ncrime of unlawfully possessing articles that advocate terrorism or extremism"
+        },
+        "noLabel": {
+          "en": "Article 120septies."
+        }
+      },
+      {
+        "no": 237.01,
+        "text": {
+          "en": "(paragraphs 1 and 2 of Article 13 of Amendment (IX) to the Criminal Law)\ncrime of compelling indecent assault or insult\n(the charge of compelling indecent assault on or insulting women is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 237(1)."
+        }
+      },
+      {
+        "no": 253.1,
+        "text": {
+          "en": "(Article 17 of Amendment (IX) to the Criminal Law)\ncrime of infringing on citizens' personal information\n(the charges of selling or unlawfully providing citizens' personal information and of unlawfully obtaining citizens' personal information are abolished)"
+        },
+        "noLabel": {
+          "en": "Article 253bis."
+        }
+      },
+      {
+        "no": 260.1,
+        "text": {
+          "en": "(Article 19 of Amendment (IX) to the Criminal Law)\ncrime of abusing a person under guardianship or care"
+        },
+        "noLabel": {
+          "en": "Article 260bis."
+        }
+      },
+      {
+        "no": 280.03,
+        "text": {
+          "en": "(paragraph 3 of Article 22 of Amendment (IX) to the Criminal Law)\ncrime of forging, altering, buying or selling identity documents\n(the charge of forging or altering resident identity cards is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 280(3)."
+        }
+      },
+      {
+        "no": 280.1,
+        "text": {
+          "en": "(Article 23 of Amendment (IX) to the Criminal Law)\ncrime of using false identity documents or misappropriating identity documents"
+        },
+        "noLabel": {
+          "en": "Article 280bis."
+        }
+      },
+      {
+        "no": 283,
+        "text": {
+          "en": "(Article 24 of Amendment (IX) to the Criminal Law)\ncrime of unlawfully producing or selling special espionage equipment or special equipment for eavesdropping or covert photography\n(the charge of unlawfully producing or selling special espionage equipment is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 283."
+        }
+      },
+      {
+        "no": 284.11,
+        "text": {
+          "en": "(paragraphs 1 and 2 of Article 25 of Amendment (IX) to the Criminal Law)\ncrime of organising cheating in examinations"
+        },
+        "noLabel": {
+          "en": "Article 284bis(1)."
+        }
+      },
+      {
+        "no": 284.13,
+        "text": {
+          "en": "(paragraph 3 of Article 25 of Amendment (IX) to the Criminal Law)\ncrime of unlawfully selling or providing examination questions or answers"
+        },
+        "noLabel": {
+          "en": "Article 284bis(3)."
+        }
+      },
+      {
+        "no": 284.14,
+        "text": {
+          "en": "(paragraph 4 of Article 25 of Amendment (IX) to the Criminal Law)\ncrime of taking an examination in place of another person"
+        },
+        "noLabel": {
+          "en": "Article 284bis(4)."
+        }
+      },
+      {
+        "no": 286.1,
+        "text": {
+          "en": "(Article 28 of Amendment (IX) to the Criminal Law)\ncrime of refusing to perform the obligation of information network security management"
+        },
+        "noLabel": {
+          "en": "Article 286bis."
+        }
+      },
+      {
+        "no": 287.1,
+        "text": {
+          "en": "(Article 29 of Amendment (IX) to the Criminal Law)\ncrime of unlawfully using information networks"
+        },
+        "noLabel": {
+          "en": "Article 287bis."
+        }
+      },
+      {
+        "no": 287.2,
+        "text": {
+          "en": "(Article 29 of Amendment (IX) to the Criminal Law)\ncrime of assisting in criminal activities on information networks"
+        },
+        "noLabel": {
+          "en": "Article 287ter."
+        }
+      },
+      {
+        "no": 290.03,
+        "text": {
+          "en": "(paragraph 2 of Article 31 of Amendment (IX) to the Criminal Law)\ncrime of disrupting the work order of State organs"
+        },
+        "noLabel": {
+          "en": "Article 290(3)."
+        }
+      },
+      {
+        "no": 290.04,
+        "text": {
+          "en": "(paragraph 3 of Article 31 of Amendment (IX) to the Criminal Law)\ncrime of organising or financing unlawful assemblies"
+        },
+        "noLabel": {
+          "en": "Article 290(4)."
+        }
+      },
+      {
+        "no": 291.12,
+        "text": {
+          "en": "(Article 32 of Amendment (IX) to the Criminal Law)\ncrime of fabricating or intentionally disseminating false information"
+        },
+        "noLabel": {
+          "en": "Article 291bis(2)."
+        }
+      },
+      {
+        "no": 300.02,
+        "text": {
+          "en": "(paragraph 2 of Article 33 of Amendment (IX) to the Criminal Law)\ncrime of causing serious injury or death by organising or exploiting superstitious sects and secret societies, cult organisations, or superstition\n(the charge of causing death by organising or exploiting superstitious sects and secret societies, cult organisations, or superstition is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 300(2)."
+        }
+      },
+      {
+        "no": 302,
+        "text": {
+          "en": "(Article 34 of Amendment (IX) to the Criminal Law)\ncrime of stealing, insulting or intentionally destroying a corpse, skeletal remains or ashes\n(the charge of stealing or insulting a corpse is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 302."
+        }
+      },
+      {
+        "no": 307.1,
+        "text": {
+          "en": "(Article 35 of Amendment (IX) to the Criminal Law)\ncrime of false litigation"
+        },
+        "noLabel": {
+          "en": "Article 307bis."
+        }
+      },
+      {
+        "no": 308.11,
+        "text": {
+          "en": "(paragraph 1 of Article 36 of Amendment (IX) to the Criminal Law)\ncrime of divulging information on a case that should not be made public"
+        },
+        "noLabel": {
+          "en": "Article 308bis(1)."
+        }
+      },
+      {
+        "no": 308.13,
+        "text": {
+          "en": "(paragraph 3 of Article 36 of Amendment (IX) to the Criminal Law)\ncrime of disclosing or reporting information on a case that should not be made public"
+        },
+        "noLabel": {
+          "en": "Article 308bis(3)."
+        }
+      },
+      {
+        "no": 311,
+        "text": {
+          "en": "(Article 38 of Amendment (IX) to the Criminal Law)\ncrime of refusing to provide evidence of espionage, terrorist or extremist crimes\n(the charge of refusing to provide evidence of espionage crimes is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 311."
+        }
+      },
+      {
+        "no": 350,
+        "text": {
+          "en": "(Article 41 of Amendment (IX) to the Criminal Law)\ncrime of unlawfully producing, buying, selling or transporting precursor chemicals or smuggling precursor chemicals\n(the charges of smuggling precursor chemicals and of unlawfully buying or selling precursor chemicals are abolished)"
+        },
+        "noLabel": {
+          "en": "Article 350."
+        }
+      },
+      {
+        "no": 360.02,
+        "text": {
+          "en": "(Article 43 of Amendment (IX) to the Criminal Law)\nthe charge of whoring with a girl under the age of 14 is abolished"
+        },
+        "noLabel": {
+          "en": "Article 360(2)."
+        }
+      },
+      {
+        "no": 381,
+        "text": {
+          "en": "(Article 2 of the Decision of the Standing Committee of the National People's Congress on Amending Certain Laws)\ncrime of refusing military requisition or expropriation in wartime\n(the charge of refusing military requisition in wartime is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 381."
+        }
+      },
+      {
+        "no": 390.1,
+        "text": {
+          "en": "(Article 46 of Amendment (IX) to the Criminal Law)\ncrime of offering bribes to persons with influence"
+        },
+        "noLabel": {
+          "en": "Article 390bis."
+        }
+      },
+      {
+        "no": 410,
+        "text": {
+          "en": "(Article 2 of the Decision of the Standing Committee of the National People's Congress on Amending Certain Laws)\ncrime of unlawfully approving the expropriation, requisition or occupation of land\n(the charge of unlawfully approving the requisition or occupation of land is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 410."
         }
       }
     ]
@@ -5567,6 +7634,402 @@
     ]
   };
 
+  TR['CN-JI-0088'] = {
+    "lawId": "CN-JI-0088",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 16 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Whoever has sexual intercourse with a girl under the age of 14 shall be given a heavier punishment in accordance with the provisions of paragraph 2 of Article 236 of the Criminal Law. Where any of the following circumstances exists, the heavier range of heavier punishment shall apply:\n(a) the act is committed by a person with special duties;\n(b) the act is committed by means of violence, coercion or other such means;\n(c) the act is committed by intruding into a dwelling or a collective dormitory of students;\n(d) the act is committed against a victim who is a left-behind girl in a rural area, or who has a severe disability or mental retardation;\n(e) another minor is used to lure, introduce or coerce the victim;\n(f) the offender has previously been sentenced to punishment for the crime of rape or indecent assault.\nWhoever rapes a minor female who has reached the age of 14, and any of the circumstances prescribed in subparagraphs (a) and (c) to (f) of the preceding paragraph exists, or the victim suffers minor injuries or serious venereal diseases such as syphilis or gonorrhoea, shall be convicted in accordance with the provisions of paragraph 1 of Article 236 of the Criminal Law and given a heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Whoever rapes a minor female who has reached the age of 14 or has sexual intercourse with a girl under the age of 14, and any of the following circumstances exists, shall be determined to fall under \"raping a woman or having sexual intercourse with a girl under the age of 14 in odious circumstances\" as prescribed in subparagraph (a) of paragraph 3 of Article 236 of the Criminal Law:\n(a) a person with special duties commits rape or sexual intercourse on multiple occasions;\n(b) there are acts of severely ravaging or humiliating the victim;\n(c) the victim is unlawfully detained, or is lured or controlled by means of drugs;\n(d) another minor is used on multiple occasions to lure, introduce or coerce the victim;\n(e) rape or sexual intercourse is committed over a long period;\n(f) sexual intercourse with a victim with mental retardation results in pregnancy;\n(g) video, photographs or other image materials are made of the process of rape or sexual intercourse or of the private parts of the victim's body and are used to coerce the victim into submitting to rape or sexual intercourse, or the image materials are disseminated to multiple persons so that the victim's identity is exposed;\n(h) other circumstances in which the circumstances are odious."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Whoever has sexual intercourse with a girl under the age of 14, and any of the following circumstances exists, shall be determined to fall under \"causing injury to the girl under the age of 14\" as prescribed in subparagraph (e) of paragraph 3 of Article 236 of the Criminal Law:\n(a) the girl under the age of 14 suffers minor injuries;\n(b) the girl under the age of 14 contracts serious venereal diseases such as syphilis or gonorrhoea;\n(c) other circumstances causing other harm to the physical and mental health of the girl under the age of 14."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Whoever rapes a minor female who has reached the age of 14 or has sexual intercourse with a girl under the age of 14, thereby causing the victim to be infected with HIV, shall be determined to fall under \"causing serious injury to the victim\" as prescribed in subparagraph (f) of paragraph 3 of Article 236 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a person with special duties towards a minor female who has reached the age of 14 but not the age of 16 has sexual relations with that minor female, and any of the following circumstances exists, it shall be determined to fall under \"odious circumstances\" as prescribed in Article 236bis of the Criminal Law:\n(a) sexual relations are had over a long period;\n(b) sexual relations are had with multiple victims;\n(c) the victim is caused to be infected with HIV or to contract serious venereal diseases such as syphilis or gonorrhoea;\n(d) video, photographs or other image materials are made of the process of sexual relations or of the private parts of the victim's body, and the image materials are disseminated to multiple persons so that the victim's identity is exposed;\n(e) other circumstances in which the circumstances are odious."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a person with special duties towards a minor female who has reached the age of 14 takes advantage of a position of advantage or of the victim's situation of being isolated and helpless to force the victim to have sexual relations with that person, the person shall be convicted and punished for the crime of rape in accordance with the provisions of Article 236 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Whoever commits indecent assault on a child, and any of the following circumstances exists, shall be determined to fall under \"causing injury to the child or other serious consequences\" as prescribed in subparagraph (c) of paragraph 3 of Article 237 of the Criminal Law:\n(a) the child suffers minor injuries or more serious injuries;\n(b) the child is caused to injure himself or herself or to commit suicide;\n(c) other circumstances causing other harm or serious consequences to the physical and mental health of the child."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Whoever commits indecent assault on a child, and any of the following circumstances exists, shall be determined to fall under \"the means of indecent assault are odious or there are other odious circumstances\" as prescribed in subparagraph (d) of paragraph 3 of Article 237 of the Criminal Law:\n(a) the indecent assault is committed by inserting the genitals into the anus or mouth, or by inserting a body part other than the genitals, or an object, into the genitals or anus of the victim;\n(b) there are acts of severely ravaging or humiliating the victim;\n(c) video, photographs or other image materials are made of the process of indecent assault or of the private parts of the victim's body and are used to coerce the victim into submitting to indecent assault, or the image materials are disseminated to multiple persons so that the victim's identity is exposed;\n(d) other circumstances in which indecent assault is committed by other odious means or there are other odious circumstances."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a person coerces or lures a minor, by means such as video chatting over the Internet or sending videos or photographs, into exposing the private parts of the body or performing obscene acts, and the act conforms to the provisions of Article 237 of the Criminal Law, the person shall be convicted and punished for the crime of compulsory indecent assault or the crime of indecent assault on a child.\nWhere a person coerces or lures a minor into committing the acts mentioned in the preceding paragraph by way of live streaming over the Internet, and the act simultaneously conforms to the provisions of Articles 237 and 365 of the Criminal Law and constitutes the crime of compulsory indecent assault, the crime of indecent assault on a child or the crime of organising obscene performances, the person shall be convicted and punished in accordance with the provisions providing the heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a person commits the crime of indecent assault on a minor, causing the victim to suffer minor injuries or more serious consequences, and the act simultaneously conforms to the provisions of Article 234 or Article 232 of the Criminal Law and constitutes the crime of intentional injury or the crime of intentional homicide, the person shall be convicted and punished in accordance with the provisions providing the heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where an adult defendant who has raped or committed indecent assault on a minor admits guilt and accepts punishment, whether to give lenient punishment and the extent of such leniency shall be determined strictly."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an adult defendant who has raped a minor is sentenced, a suspended sentence shall generally not apply.\nWhere a sentence is pronounced together with a suspended sentence, a prohibition order may be pronounced at the same time according to the circumstances of the crime, prohibiting the offender, during the probation period of the suspended sentence, from engaging in work or activities relating to minors and from entering primary and secondary schools, kindergartens and other places where minors gather, except where approval is granted by the executing organ for genuine reasons such as the offender's own schooling or residence."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a person commits crimes such as rape or indecent assault on a minor by taking advantage of occupational convenience, the people's court shall apply the prohibition from engaging in the relevant profession in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where crimes such as rape or indecent assault committed against a minor cause personal injury, compensation shall be paid for reasonable expenses incurred for treatment and rehabilitation, such as medical expenses, nursing expenses, transport expenses, nutrition expenses and hospital food subsidies, as well as for lost income due to absence from work.\nWhere it is proved by expert opinions, medical diagnosis certificates and the like that the minor needs psychological and psychiatric treatment and rehabilitation, the relevant expenses required shall be determined as reasonable expenses prescribed in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "\"Persons with special duties\" prescribed in these Interpretations means persons who have duties of guardianship, adoption, custody, education or medical care towards a minor, including persons who live together with the minor and in fact have duties of care and protection towards the minor."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "These Interpretations shall come into force on 1 June 2023."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0089'] = {
+    "lawId": "CN-JI-0089",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 11 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where an actor falls under any of the following circumstances, it may be determined to constitute \"manipulating the securities or futures market by other methods\" as provided in subparagraph (d) of paragraph 1 of Article 182 of the Criminal Law:\n(a) using false or uncertain material information to induce investors to make investment decisions, thereby affecting the trading price or trading volume of securities or futures, and carrying out the relevant transactions or seeking the relevant interests;\n(b) making public evaluations, predictions or investment recommendations concerning securities and their issuers, listed companies or the underlying of futures trading, thereby misleading investors into making investment decisions, affecting the trading price or trading volume of securities or futures, and carrying out securities transactions or the relevant futures transactions in a direction opposite to such evaluations, predictions or investment recommendations;\n(c) misleading investors into making investment decisions, affecting the trading price or trading volume of securities, by planning and implementing false material matters such as asset acquisitions or restructuring, investment in new businesses, transfers of equity or acquisitions of listed companies, and carrying out the relevant transactions or seeking the relevant interests;\n(d) misleading investors into making investment decisions, affecting the trading price or trading volume of securities, by controlling the generation of information of issuers or listed companies, or controlling the content, timing or pace of information disclosure, and carrying out the relevant transactions or seeking the relevant interests;\n(e) not for the purpose of concluding transactions, frequently placing and cancelling orders, or placing and cancelling large orders, thereby misleading investors into making investment decisions, affecting the trading price or trading volume of securities or futures, and carrying out transactions opposite to the orders placed or seeking the relevant interests;\n(f) affecting the market conditions of a specific futures variety by hoarding spot goods, and carrying out the relevant futures transactions;\n(g) manipulating the securities or futures market by other methods."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the securities or futures market is manipulated and any of the following circumstances exists, it shall be determined to constitute \"serious circumstances\" as provided in paragraph 1 of Article 182 of the Criminal Law:\n(a) the number of tradable shares of the securities held or actually controlled reaches 10 per cent or more of the total number of actually tradable shares of such securities, the act of manipulating the securities market specified in subparagraph (a) of paragraph 1 of Article 182 of the Criminal Law is committed, and the cumulative trading volume for 10 consecutive trading days reaches 20 per cent or more of the total trading volume of such securities over the same period;\n(b) the act of manipulating the securities market specified in subparagraphs (b) and (c) of paragraph 1 of Article 182 of the Criminal Law is committed, and the cumulative trading volume for 10 consecutive trading days reaches 20 per cent or more of the total trading volume of such securities over the same period;\n(c) the act of manipulating the securities market specified in subparagraphs (a) to (d) of Article 1 of this Interpretation is committed, and the turnover of securities transactions is RMB 10 million or more;\n(d) the act of manipulating the futures market specified in subparagraph (a) of paragraph 1 of Article 182 of the Criminal Law and subparagraph (f) of Article 1 of this Interpretation is committed, the highest value of the combined positions of the accounts actually controlled for 10 consecutive trading days exceeds twice the position limit set by the futures exchange, the cumulative trading volume reaches 20 per cent or more of the total trading volume of the relevant futures contract over the same period, and the amount of margin occupied by futures trading is RMB 5 million or more;\n(e) the act of manipulating the futures market specified in subparagraphs (b) and (c) of paragraph 1 of Article 182 of the Criminal Law and subparagraphs (a) and (b) of Article 1 of this Interpretation is committed, the cumulative trading volume of the accounts actually controlled for 10 consecutive trading days reaches 20 per cent or more of the total trading volume of the relevant futures contract over the same period, and the amount of margin occupied by futures trading is RMB 5 million or more;\n(f) the act of manipulating the securities or futures market specified in subparagraph (e) of Article 1 of this Interpretation is committed, the cumulative volume of cancelled orders in a single day reaches 50 per cent or more of the total volume of orders for the relevant securities or futures contracts over the same period, the amount of cancelled orders for securities is RMB 10 million or more, and the amount of margin occupied by the cancelled futures contracts is RMB 5 million or more;\n(g) the act of manipulating the securities or futures market is committed, and the amount of illegal gains is RMB 1 million or more."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the securities or futures market is manipulated, the amount of illegal gains is RMB 500,000 or more, and any of the following circumstances exists, it shall be determined to constitute \"serious circumstances\" as provided in paragraph 1 of Article 182 of the Criminal Law:\n(a) the issuer, the listed company, or their directors, supervisors, senior managers, controlling shareholder or actual controller commits the act of manipulating the securities or futures market;\n(b) the acquirer, the counterparty to a material asset restructuring, or their directors, supervisors, senior managers, controlling shareholder or actual controller commits the act of manipulating the securities or futures market;\n(c) the actor, knowing that the act of manipulating the securities or futures market is under investigation by the relevant department, continues to commit it;\n(d) the actor has previously been subject to criminal prosecution for the act of manipulating the securities or futures market;\n(e) the actor has previously been subject to an administrative penalty for the act of manipulating the securities or futures market within two years;\n(f) the securities or futures market is manipulated during a specific period such as when major abnormal fluctuations occur in the market;\n(g) serious adverse social impact or other serious consequences are caused."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where any of the following circumstances exists, it shall be determined to constitute \"especially serious circumstances\" as provided in paragraph 1 of Article 182 of the Criminal Law:\n(a) the number of tradable shares of the securities held or actually controlled reaches 10 per cent or more of the total number of actually tradable shares of such securities, the act of manipulating the securities market specified in subparagraph (a) of paragraph 1 of Article 182 of the Criminal Law is committed, and the cumulative trading volume for 10 consecutive trading days reaches 50 per cent or more of the total trading volume of such securities over the same period;\n(b) the act of manipulating the securities market specified in subparagraphs (b) and (c) of paragraph 1 of Article 182 of the Criminal Law is committed, and the cumulative trading volume for 10 consecutive trading days reaches 50 per cent or more of the total trading volume of such securities over the same period;\n(c) the act of manipulating the securities market specified in subparagraphs (a) to (d) of Article 1 of this Interpretation is committed, and the turnover of securities transactions is RMB 50 million or more;\n(d) the act of manipulating the futures market specified in subparagraph (a) of paragraph 1 of Article 182 of the Criminal Law and subparagraph (f) of Article 1 of this Interpretation is committed, the highest value of the combined positions of the accounts actually controlled for 10 consecutive trading days exceeds five times the position limit set by the futures exchange, the cumulative trading volume reaches 50 per cent or more of the total trading volume of the relevant futures contract over the same period, and the amount of margin occupied by futures trading is RMB 25 million or more;\n(e) the act of manipulating the futures market specified in subparagraphs (b) and (c) of paragraph 1 of Article 182 of the Criminal Law and subparagraphs (a) and (b) of Article 1 of this Interpretation is committed, the cumulative trading volume of the accounts actually controlled for 10 consecutive trading days reaches 50 per cent or more of the total trading volume of the relevant futures contract over the same period, and the amount of margin occupied by futures trading is RMB 25 million or more;\n(f) the act of manipulating the securities or futures market is committed, and the amount of illegal gains is RMB 10 million or more.\nWhere the act of manipulating the securities or futures market is committed, the amount of illegal gains is RMB 5 million or more, and any of the seven circumstances provided in Article 3 of this Interpretation exists, it shall be determined to constitute \"especially serious circumstances\"."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The following accounts shall be determined to be \"accounts actually controlled by oneself\" as provided in Article 182 of the Criminal Law:\n(a) real-name accounts opened and used by the actor in the actor's own name;\n(b) accounts of other persons into which the actor transfers funds or out of which the actor transfers funds, and the actual profits and losses of which the actor bears;\n(c) accounts of other persons managed, controlled or used by the actor in ways other than those specified in subparagraphs (a) and (b);\n(d) accounts of other persons in respect of which the actor, through investment relationships, agreements or other means, exercises the power of trading decision over the assets in the accounts;\n(e) other accounts for which there is evidence proving that the actor has the power of trading decision.\nThe foregoing shall not apply where there is evidence proving that the actor has no power of trading decision over the assets in the accounts specified in subparagraphs (a) to (c) of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the act of manipulating the securities or futures market is committed two or more times and should be subject to administrative handling or criminal handling according to law but has not been handled, the relevant transaction amounts or amounts of illegal gains shall be calculated on a cumulative basis."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the standards provided in Articles 2 and 3 of this Interpretation are met, and the actor truthfully confesses the facts of the crime, admits guilt and repents, actively cooperates with the investigation and returns the illegal gains, a lighter punishment may be imposed; where the circumstances of the crime are minor, a decision not to initiate prosecution may be made according to law or exemption from criminal punishment may be granted.\nWhere the scope of application and the conditions for leniency upon admission of guilt and acceptance of punishment provided in the Criminal Procedure Law are met, the matter shall be handled in accordance with the provisions of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a unit commits an act specified in paragraph 1 of Article 182 of the Criminal Law, the directly responsible person in charge and the other directly responsible persons shall be convicted and punished in accordance with the standards for conviction and sentencing provided in this Interpretation, and a fine shall be imposed on the unit."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "For the purposes of this Interpretation, \"illegal gains\" means the benefits obtained or the losses avoided through manipulating the securities or futures market.\nFor the purposes of this Interpretation, \"10 consecutive trading days\" means 10 consecutive trading days on which the securities or futures market is open for trading, and does not mean 10 consecutive trading days on which the actor trades."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the act of manipulating the securities market is committed on the National Equities Exchange and Quotations system, the harm to society is great and the fair and just market order is seriously disrupted, this Interpretation shall be applied by reference, except for subparagraphs (a) and (b) of Article 2 and subparagraphs (a) and (b) of Article 4 of this Interpretation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "This Interpretation shall come into force on 1 July 2019."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0090'] = {
+    "lawId": "CN-JI-0090",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 12 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where, in violation of State regulations, any of the following circumstances is involved, the act falls within \"illegally engaging in the business of funds payment and settlement\" as prescribed in subparagraph (3) of Article 225 of the Criminal Law:\n(a) using payment acceptance terminals or online payment interfaces or other methods to pay monetary funds to a designated payer by illegal means such as fabricating transactions, falsely stating prices or refunding transactions;\n(b) illegally providing others with services for cashing out unit bank settlement accounts or for transferring funds from unit bank settlement accounts to individual accounts;\n(c) illegally providing others with services for cashing out cheques;\n(d) other circumstances of illegally engaging in the business of funds payment and settlement."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where, in violation of State regulations, a person carries out illegal trading of foreign exchange such as buying and selling foreign exchange by speculation or buying and selling foreign exchange in a disguised form, thereby disrupting the order of the financial market, and the circumstances are serious, conviction and punishment shall be imposed for the crime of illegal business operations in accordance with subparagraph (4) of Article 225 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a person illegally engages in the business of funds payment and settlement or illegally trades in foreign exchange and any of the following circumstances is involved, the act shall be determined as \"serious circumstances\" of illegal business operations:\n(a) the amount involved in the illegal business operations is RMB 5,000,000 or more;\n(b) the amount of illegal gains is RMB 100,000 or more.\nWhere the amount involved in the illegal business operations is RMB 2,500,000 or more, or the amount of illegal gains is RMB 50,000 or more, and any of the following circumstances is involved, the act may be determined as \"serious circumstances\" of illegal business operations:\n(a) having previously been held criminally liable for the criminal act of illegally engaging in the business of funds payment and settlement or illegally trading in foreign exchange;\n(b) having been subjected to an administrative penalty within two years for the illegal act of illegally engaging in the business of funds payment and settlement or illegally trading in foreign exchange;\n(c) refusing to account for the whereabouts of the funds involved in the case or refusing to cooperate with the recovery work, so that the illicit money cannot be recovered;\n(d) causing other serious consequences."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a person illegally engages in the business of funds payment and settlement or illegally trades in foreign exchange and any of the following circumstances is involved, the act shall be determined as \"especially serious circumstances\" of illegal business operations:\n(a) the amount involved in the illegal business operations is RMB 25,000,000 or more;\n(b) the amount of illegal gains is RMB 500,000 or more.\nWhere the amount involved in the illegal business operations is RMB 12,500,000 or more, or the amount of illegal gains is RMB 250,000 or more, and any of the four circumstances prescribed in paragraph 2 of Article 3 of this Interpretation is involved, the act may be determined as \"especially serious circumstances\" of illegal business operations."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where illegally engaging in the business of funds payment and settlement or illegally trading in foreign exchange constitutes the crime of illegal business operations and at the same time constitutes the crime of assisting terrorist activities as prescribed in Article 120bis of the Criminal Law or the crime of money laundering as prescribed in Article 191 of the Criminal Law, conviction and punishment shall be imposed in accordance with the provisions that provide for heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a person illegally engages in the business of funds payment and settlement or illegally trades in foreign exchange two or more times and, in accordance with law, administrative or criminal handling should have been applied but was not, the amount involved in the illegal business operations or the amount of illegal gains shall be calculated cumulatively.\nWhere, in the same case, the amount involved in the illegal business operations and the amount of illegal gains respectively constitute serious circumstances and especially serious circumstances, conviction and punishment shall be imposed on the basis of the amount that carries the heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where it is difficult to determine the amount of illegal gains from illegally engaging in the business of funds payment and settlement or illegally trading in foreign exchange, the amount of illegal gains shall be determined at one thousandth of the amount involved in the illegal business operations, and a fine of not less than one time and not more than five times the illegal gains shall, in accordance with law, be imposed in addition to or independently of the principal punishment."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the standards prescribed in Article 3 of this Interpretation are met and the perpetrator truthfully confesses the facts of the crime, admits guilt and repents, actively cooperates with the investigation and returns the illegal gains, a lighter punishment may be imposed; where the circumstances of the crime are minor, a decision not to initiate prosecution may be made or exemption from criminal punishment may be granted in accordance with law.\nWhere the scope of application and the conditions for leniency upon admission of guilt and acceptance of punishment as prescribed in the Criminal Procedure Law are met, the matter shall be handled in accordance with the provisions of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a unit commits the act of illegally engaging in the business of funds payment and settlement or illegally trading in foreign exchange as prescribed in Article 1 or Article 2 of this Interpretation, a fine shall, in accordance with the standards for conviction and sentencing prescribed in this Interpretation, be imposed on the unit, and conviction and punishment shall be imposed on the person directly in charge and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "For the purposes of criminal cases of illegally engaging in the business of funds payment and settlement or illegally trading in foreign exchange, the place of the crime includes the place where the account used by the suspect or defendant for criminal activities is opened, the place where the funds are received, the place where the transitional account for the funds is opened, the place where the funds account is operated, and the place where the counterparty to the funds transaction delivers and remits the funds."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The amount of a crime involving foreign exchange shall be converted into RMB at the central parity rate of RMB against that currency published by the China Foreign Exchange Trade System or by an institution authorised by the People's Bank of China on the date on which the case is discovered. For a foreign currency for which the China Foreign Exchange Trade System or an institution authorised by the People's Bank of China has not published the central parity rate, the amount shall be converted into RMB at the central parity rate of RMB against that currency quoted by a domestic bank on the date on which the case is discovered, or shall be calculated by cross rates between the exchange rate of that currency against the US dollar in domestic banks and on the international foreign exchange market and the central parity rate of RMB against the US dollar."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "This Interpretation shall come into force on 1 February 2019. Where the Interpretation of the Supreme People's Court on Several Issues concerning the Specific Application of Law in the Trial of Criminal Cases of Fraudulent Purchase of Foreign Exchange and Illegal Trading of Foreign Exchange (Fa Shi [1998] No. 20) is inconsistent with this Interpretation, this Interpretation shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0091'] = {
     "lawId": "CN-JI-0091",
     "sourceLang": "zh",
@@ -5706,6 +8169,198 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0097'] = {
+    "lawId": "CN-JI-0097",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In accordance with the provisions of Article 35 of the State Compensation Law, the State Compensation Law entered into force on 1 January 1995. The State Compensation Law does not have retroactive effect. That is, where an act of a State organ or of its functionaries in the exercise of their functions and powers infringes upon the lawful rights and interests of citizens, legal persons or other organisations and occurred before 31 December 1994, it shall be dealt with in accordance with the relevant provisions previously in force. Where such an act occurred on or after 1 January 1995 and has been confirmed in accordance with the law, the State Compensation Law shall apply and compensation shall be given. Where such an act occurred before 31 December 1994 but continued until on or after 1 January 1995 and has been confirmed in accordance with the law, the part for which compensation should be given on or after 1 January 1995 shall be compensated in accordance with the State Compensation Law, the part for which compensation should be given before 31 December 1994 shall be compensated in accordance with the provisions then in force, and where there were no such provisions at that time, compensation shall be given with reference to the provisions of the State Compensation Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In accordance with the relevant provisions of the State Compensation Law, the compensation committee of a people's court shall accept the following cases:\n(a) where an organ exercising the functions and powers of investigation, prosecution or prison administration, or a functionary thereof, infringes upon the personal rights or property rights of a citizen, a legal person or another organisation in the exercise of its or his functions and powers and causes damage, and where it has been confirmed in accordance with the law that compensation should be given, and the claimant, after applying for compensation and for reconsideration in accordance with the law, is dissatisfied with the reconsideration decision or the reconsideration organ fails to make a decision within the prescribed period and therefore applies to the compensation committee of the people's court at the same level in the place where the reconsideration organ is located for a decision on compensation;\n(b) where a people's court is the organ obligated to pay compensation and the claimant, after applying for compensation, is not paid by the organ obligated to pay compensation within the prescribed period, or objects to the amount of compensation, and therefore applies to the compensation committee of the people's court at the next higher level above the organ obligated to pay compensation for a decision on compensation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0098'] = {
+    "lawId": "CN-JI-0098",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 16 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a creditor, the debtor or an investor submits an application for reorganization or settlement to a people's court and any of the following conditions is met, the people's court shall accept the application:\n(a) in a case where a creditor applies for bankruptcy liquidation, the debtor or the investor submits a reorganization application before the debtor is declared bankrupt and the application conforms to the provisions of paragraph 2 of Article 70 of the Enterprise Bankruptcy Law;\n(b) in a case where a creditor applies for bankruptcy liquidation, the creditor submits a reorganization application before the debtor is declared bankrupt and the application conforms to the provisions of the Enterprise Bankruptcy Law on a creditor directly applying to a people's court for reorganization;\n(c) in a case where the debtor applies for bankruptcy liquidation, the debtor submits a reorganization application before it is declared bankrupt and the application conforms to the provisions of the Enterprise Bankruptcy Law on a debtor directly applying to a people's court for reorganization;\n(d) the debtor applies for settlement in accordance with the provisions of Article 95 of the Enterprise Bankruptcy Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where, before the implementation of the Enterprise Bankruptcy Law, the liquidation group failed to notify or reply to the counterparty to a contract not yet fully performed as to the rescission or continuation of performance of the contract, and fails to notify or reply within the time limit provided in paragraph 1 of Article 18 of that Law, calculated from the date of implementation of the Enterprise Bankruptcy Law, the contract shall be deemed rescinded."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a liquidation group has already been established, the people's court may, after the implementation of the Enterprise Bankruptcy Law, designate that liquidation group as the administrator.\nWhere a liquidation group has not yet been established, the people's court shall, in accordance with the Enterprise Bankruptcy Law and the Provisions of the Supreme People's Court on the Designation of Administrators in the Trial of Enterprise Bankruptcy Cases, designate an administrator without delay."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a creditor asserts a set-off of claims and debts, the circumstances provided in Article 40 of the Enterprise Bankruptcy Law shall be met, except where the set-off was already made in accordance with the relevant provisions of law before the implementation of the Enterprise Bankruptcy Law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "For bankruptcy expenses not yet paid, a distinction shall be made between bankruptcy expenses and debts for the common benefit in accordance with Articles 41 and 42 of the Enterprise Bankruptcy Law, and payment shall be made in accordance with Article 43 of the Enterprise Bankruptcy Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a people's court has not yet declared the debtor bankrupt, the provisions of Article 46 of the Enterprise Bankruptcy Law shall apply to determine interest on claims; where bankruptcy has already been declared, interest on claims shall be determined in accordance with the legal provisions in force before the implementation of the Enterprise Bankruptcy Law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a creditor has already filed its claim with the people's court, the people's court shall transfer the relevant filing materials to the administrator; where the claim has not yet been filed, the creditor shall file it directly with the administrator."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a creditor fails to file its claim with the people's court within the period for filing claims determined by the people's court, it may file a supplementary claim in accordance with the provisions of Article 56 of the Enterprise Bankruptcy Law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a creditor objects to a claim recorded in the schedule of claims and brings an action before the people's court that accepted the bankruptcy application, the people's court shall accept the case in accordance with Articles 21 and 58 of the Enterprise Bankruptcy Law, except where the people's court has already ruled on the disputed claim.\nWhere a creditor sues the debtor over a disputed claim and requests that the debtor bear liability for repayment, the people's court shall inform the creditor to modify its litigation claim to one for confirmation of the claim."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where an employee of the debtor objects to an entry in the list and brings an action before the people's court that accepted the bankruptcy application, the people's court shall accept the case in accordance with Articles 21 and 48 of the Enterprise Bankruptcy Law, except where the people's court has already ruled on the disputed claim."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a secured creditor has not waived its right to priority repayment, it shall enjoy voting rights in respect of matters other than those provided in items 7 and 10 of paragraph 1 of Article 61 of the Enterprise Bankruptcy Law. However, where such a creditor asserts the exercise of voting rights in respect of matters already voted on before the implementation of the Enterprise Bankruptcy Law, or requests the revocation of a resolution of the creditors' meeting on the ground that it did not exercise its voting rights, the people's court shall not uphold the request."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a creditor considers that a resolution of the creditors' meeting violates the provisions of law and harms its interests, and requests the people's court to revoke the resolution, and no ruling has yet been made, the people's court shall make a ruling in accordance with the provisions of Article 64 of the Enterprise Bankruptcy Law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a creditor refuses to accept a ruling on a property distribution plan and has already lodged an appeal, the people's court at the next higher level shall continue the trial in accordance with the appeal procedure; where an appeal is lodged after the implementation of the Enterprise Bankruptcy Law, the people's court shall inform the creditor to apply for reconsideration in accordance with the provisions of Article 66 of the Enterprise Bankruptcy Law.\nWhere a creditor refuses to accept a ruling made by the people's court on a plan for the administration of the debtor's property or a ruling on a plan for the conversion of bankruptcy property, and applies to the people's court that accepted the bankruptcy application for reconsideration, the people's court shall accept the application in accordance with the provisions of Article 66 of the Enterprise Bankruptcy Law.\nWhere a creditor or the debtor objects to a ruling declaring bankruptcy and has already lodged an appeal, the people's court at the next higher level shall continue the trial in accordance with the appeal procedure; where an appeal is lodged after the implementation of the Enterprise Bankruptcy Law, the people's court shall not accept it."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "After the implementation of the Enterprise Bankruptcy Law, where an employee of the bankrupt asserts rights in accordance with the provisions of Article 132 of the Enterprise Bankruptcy Law, the people's court shall uphold the assertion."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Wages owed by the bankrupt to directors, supervisors and senior managers shall be adjusted in accordance with the provisions of paragraph 3 of Article 113 of the Enterprise Bankruptcy Law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the relevant judicial interpretations made by this Court before the implementation of these Provisions conflict with these Provisions, they shall no longer apply to the trial by people's courts of enterprise bankruptcy cases not yet concluded."
+        },
+        "noLabel": {
+          "en": "Article 16."
         }
       }
     ]
@@ -5967,6 +8622,795 @@
         },
         "noLabel": {
           "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0102'] = {
+    "lawId": "CN-JI-0102",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 42 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Commutation and parole are punishment systems for encouraging criminals to reform; the application of commutation and parole shall implement the criminal policy of tempering justice with mercy, give the fullest play to the function of punishment, and realise the purpose of punishment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For a case in which a criminal meets the conditions of \"commutation may be granted\" prescribed in paragraph 1 of Article 78 of the Criminal Law, comprehensive consideration shall be given, in the course of handling the case, to such factors as the nature and specific circumstances of the crime committed by the criminal, the degree of harm to society, the punishment in the original judgment and the performance of the property-related items in the effective judgment, and the consistent performance after the criminal is committed for execution of the punishment."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "\"True repentance\" means simultaneously meeting all of the following conditions:\n(a) admitting guilt and showing repentance;\n(b) complying with laws, regulations and prison rules, and accepting education and reform;\n(c) actively participating in ideological, cultural and vocational and technical education;\n(d) actively participating in labour and working hard to accomplish work tasks.\nFor criminals such as those who have committed duty crimes, crimes of disrupting the order of financial administration and financial fraud crimes, and crimes of organising (leading, participating in, harbouring or conniving at) organisations in the nature of criminal gangs, where they do not actively return ill-gotten gains, assist in the recovery of stolen money and goods, or pay compensation for losses, or, during the service of their sentences, use personal influence, social connections or other improper means with the intent to obtain commutation or parole, it shall not be determined that they have shown true repentance.\nThe right to appeal of criminals during the service of their sentences shall be protected in accordance with law; their legitimate appeals shall not, without due analysis, be deemed to be a failure to admit guilt and show repentance."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where any of the following circumstances exists, the criminal may be determined to have shown \"meritorious service\":\n(a) stopping another person from carrying out criminal activities;\n(b) reporting or exposing criminal activities inside or outside the prison, or providing important clues for the solving of a case, which are verified as true through investigation;\n(c) assisting judicial organs in arresting other criminal suspects;\n(d) making technical innovation in production or scientific research with outstanding achievements;\n(e) performing actively in resisting natural disasters or eliminating major accidents;\n(f) making other significant contributions to the State and society.\nThe technical innovation or other significant contribution mentioned in subparagraphs (d) and (f) shall be completed independently or principally by the criminal during the service of the sentence and shall be confirmed by the competent department at the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where any of the following circumstances exists, the criminal shall be determined to have shown \"major meritorious service\":\n(a) stopping another person from carrying out major criminal activities;\n(b) reporting major criminal activities inside or outside the prison, which are verified as true through investigation;\n(c) assisting judicial organs in arresting other major criminal suspects;\n(d) having made an invention or creation, or a major technical innovation;\n(e) risking his or her own life to save another in daily production or life;\n(f) performing outstandingly in resisting natural disasters or eliminating major accidents;\n(g) making other major contributions to the State and society.\nThe invention or creation or major technical innovation mentioned in subparagraph (d) shall be an invention patent completed independently or principally by the criminal during the service of the sentence and confirmed by the competent department at the national level, and shall not include utility model patents and design patents; the other major contribution mentioned in subparagraph (g) shall be completed independently or principally by the criminal during the service of the sentence and confirmed by the competent department at the national level."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The starting time for commutation of a criminal sentenced to fixed-term imprisonment is as follows: where the criminal is sentenced to fixed-term imprisonment of less than five years, not less than one year shall be served before commutation may be granted; where the criminal is sentenced to fixed-term imprisonment of not less than five years but less than ten years, not less than one year and six months shall be served before commutation may be granted; where the criminal is sentenced to fixed-term imprisonment of ten years or more, not less than two years shall be served before commutation may be granted. The starting time for commutation of fixed-term imprisonment shall be calculated from the date on which the judgment begins to be executed.\nWhere the criminal shows true repentance or has performed meritorious service, the fixed-term imprisonment commuted at one time shall not exceed nine months; where the criminal shows true repentance and has performed meritorious service, the fixed-term imprisonment commuted at one time shall not exceed one year; where the criminal has performed major meritorious service, the fixed-term imprisonment commuted at one time shall not exceed one year and six months; where the criminal shows true repentance and has performed major meritorious service, the fixed-term imprisonment commuted at one time shall not exceed two years.\nFor a criminal sentenced to fixed-term imprisonment of less than ten years, the interval between two commutations shall not be less than one year; for a criminal sentenced to fixed-term imprisonment of ten years or more, the interval between two commutations shall not be less than one year and six months. The interval between commutations shall not be shorter than the term of imprisonment reduced by the last commutation.\nWhere a criminal has performed major meritorious service, the criminal may not be subject to the restrictions on the aforementioned starting time for commutation and interval."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For criminals who meet the conditions for commutation and who have committed duty crimes, crimes of disrupting the order of financial administration, financial fraud crimes, crimes of organising, leading, participating in, harbouring or conniving at organisations in the nature of criminal gangs, crimes of endangering State security or terrorist crimes, are ringleaders of drug criminal groups or drug recidivists, are recidivists, or have the actual ability to perform but fail to perform or do not fully perform the property-related items in the effective judgment, where they are sentenced to fixed-term imprisonment of not more than ten years, not less than two years shall be served before commutation may be granted, the scope of commutation shall be applied more strictly by reference to Article 6 of these Provisions, the fixed-term imprisonment commuted at one time shall not exceed one year, and the interval between two commutations shall be one year or more.\nFor the criminals mentioned in the preceding paragraph who are sentenced to fixed-term imprisonment of ten years or more, and criminals sentenced to fixed-term imprisonment of ten years or more for intentional homicide, rape, robbery, kidnapping, arson, explosion, or the placing of dangerous substances or organised violent crimes, and criminals who are punished under combined punishment for several crimes and are sentenced to fixed-term imprisonment of ten years or more for two or more of the crimes, not less than two years shall be served before commutation may be granted, the scope of commutation shall be applied more strictly by reference to Article 6 of these Provisions, the fixed-term imprisonment commuted at one time shall not exceed one year, and the interval between two commutations shall be one year and six months or more.\nWhere a criminal has performed major meritorious service, the criminal may not be subject to the restrictions on the aforementioned starting time for commutation and interval."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A criminal sentenced to life imprisonment who meets the conditions for commutation during the service of the sentence may have the sentence commuted after not less than two years have been served. The scope of commutation is as follows: where the criminal shows true repentance or has performed meritorious service, the sentence may be commuted to fixed-term imprisonment of twenty-two years; where the criminal shows true repentance and has performed meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than twenty-one years but not more than twenty-two years; where the criminal has performed major meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than twenty years but not more than twenty-one years; where the criminal shows true repentance and has performed major meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than nineteen years but not more than twenty years. Where the sentence of a criminal sentenced to life imprisonment is commuted to fixed-term imprisonment and further commutation is then granted, the scope of commutation shall be applied in accordance with Article 6 of these Provisions. The interval between two commutations shall not be less than two years.\nWhere a criminal has performed major meritorious service, the criminal may not be subject to the restrictions on the aforementioned starting time for commutation and interval."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "For criminals sentenced to life imprisonment who meet the conditions for commutation and who have committed duty crimes, crimes of disrupting the order of financial administration, financial fraud crimes, crimes of organising, leading, participating in, harbouring or conniving at organisations in the nature of criminal gangs, crimes of endangering State security or terrorist crimes, are ringleaders of drug criminal groups or drug recidivists, are recidivists, have committed intentional homicide, rape, robbery, kidnapping, arson, explosion, or the placing of dangerous substances or organised violent crimes, have the actual ability to perform but fail to perform or do not fully perform the property-related items in the effective judgment, or are sentenced to life imprisonment under combined punishment for several crimes, not less than three years shall be served before commutation may be granted, the scope of commutation shall be applied more strictly by reference to Article 8 of these Provisions, and the term of imprisonment after commutation shall not be less than twenty years of fixed-term imprisonment; where the sentence is commuted to fixed-term imprisonment and further commutation is then granted, the scope of commutation shall be applied more strictly by reference to Article 6 of these Provisions, the fixed-term imprisonment commuted at one time shall not exceed one year, and the interval between two commutations shall be two years or more.\nWhere a criminal has performed major meritorious service, the criminal may not be subject to the restrictions on the aforementioned starting time for commutation and interval."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the sentence of a criminal sentenced to death with a two-year suspension of execution is commuted to life imprisonment and the criminal meets the conditions for commutation, not less than three years shall be served before commutation may be granted. The scope of commutation is as follows: where the criminal shows true repentance or has performed meritorious service, the sentence may be commuted to fixed-term imprisonment of twenty-five years; where the criminal shows true repentance and has performed meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than twenty-four years but not more than twenty-five years; where the criminal has performed major meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than twenty-three years but not more than twenty-four years; where the criminal shows true repentance and has performed major meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than twenty-two years but not more than twenty-three years.\nWhere the sentence of a criminal sentenced to death with a two-year suspension of execution is commuted to fixed-term imprisonment and further commutation is then granted, the matter shall be handled by reference to Article 8 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "For criminals sentenced to death with a two-year suspension of execution who have committed duty crimes, crimes of disrupting the order of financial administration, financial fraud crimes, crimes of organising, leading, participating in, harbouring or conniving at organisations in the nature of criminal gangs, crimes of endangering State security or terrorist crimes, are ringleaders of drug criminal groups or drug recidivists, are recidivists, have committed intentional homicide, rape, robbery, kidnapping, arson, explosion, or the placing of dangerous substances or organised violent crimes, have the actual ability to perform but fail to perform or do not fully perform the property-related items in the effective judgment, or are sentenced to death with a two-year suspension of execution under combined punishment for several crimes, where their sentences are commuted to life imprisonment and they meet the conditions for commutation, not less than three years shall be served before commutation may be granted, the sentence shall generally be commuted to fixed-term imprisonment of twenty-five years, and where the criminal has performed meritorious service or major meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than twenty-three years but not more than twenty-five years by reference to Article 10 of these Provisions; where the sentence is commuted to fixed-term imprisonment and further commutation is then granted, the scope of commutation shall be applied more strictly by reference to Article 6 of these Provisions, the fixed-term imprisonment commuted at one time shall not exceed one year, and the interval between two commutations shall be two years or more."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a criminal sentenced to death with a two-year suspension of execution has undergone commutation once or several times, the term of the sentence actually served shall not be less than fifteen years, and the period of suspension of execution of the death penalty shall not be included.\nWhere a criminal sentenced to death with a two-year suspension of execution refuses to submit to supervision or resists reform during the period of suspension of execution, but this does not constitute a crime, when further commutation is granted after the sentence is commuted to life imprisonment, the matter shall appropriately be handled more strictly."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the sentence of a criminal sentenced to death with a two-year suspension of execution and subject to restriction on commutation is commuted to life imprisonment and the criminal meets the conditions for commutation, not less than five years shall be served before commutation may be granted. The interval for commutation and the scope of commutation shall be applied in accordance with Article 11 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the sentence of a criminal sentenced to death with a two-year suspension of execution and subject to restriction on commutation is commuted to fixed-term imprisonment and further commutation is then granted, the fixed-term imprisonment commuted at one time shall not exceed six months, and the interval between two commutations shall not be less than two years. Where the criminal has performed major meritorious service, the interval may be appropriately shortened, but the fixed-term imprisonment commuted at one time shall not exceed one year."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "For a criminal sentenced to life imprisonment without commutation or parole, the ruling commuting the death penalty with a two-year suspension of execution to life imprisonment upon expiry of the period of suspension in accordance with law shall clearly provide that the criminal shall be subject to life imprisonment without commutation or parole, and shall not have the sentence commuted or be granted parole again."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "For criminals sentenced to public surveillance or criminal detention, and criminals whose remaining term of fixed-term imprisonment after the judgment takes effect is less than two years, where the conditions for commutation are met, commutation may be granted at discretion, and the starting time for commutation may be appropriately shortened, but the term of the sentence actually served shall not be less than one half of the term of the original judgment."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the sentence of a criminal sentenced to fixed-term imprisonment is commuted, the period of supplementary deprivation of political rights may be reduced at discretion. After discretionary reduction, the period of deprivation of political rights shall not be less than one year.\nWhere the sentence of a criminal sentenced to death with a two-year suspension of execution or life imprisonment is commuted to fixed-term imprisonment, the period of supplementary deprivation of political rights shall be reduced to not less than seven years but not more than ten years, and after commutation once or several times, the final period of deprivation of political rights shall not be less than three years."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Commutation shall generally not apply to criminals sentenced to criminal detention or fixed-term imprisonment of not more than three years who have been sentenced with suspension of sentence.\nWhere a criminal prescribed in the preceding paragraph has performed major meritorious service during the probation period for suspension of sentence, commutation may be granted by reference to Article 78 of the Criminal Law, and the probation period for the suspension of sentence shall simultaneously be shortened in accordance with law. After shortening, the probation period for suspension of criminal detention shall not be less than two months, and the probation period for suspension of fixed-term imprisonment shall not be less than one year."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For a criminal who has not reached the age of eighteen during the service of the sentence before commutation is requested and whose crime does not fall under the circumstances prescribed in paragraph 2 of Article 81 of the Criminal Law, where the criminal admits guilt and shows repentance, complies with laws, regulations and prison rules, and actively participates in study and labour, the criminal shall be deemed to have shown true repentance.\nWhere the sentence of the aforementioned criminal is commuted, the scope of commutation may be appropriately relaxed, or the starting time for commutation and the interval may be appropriately shortened, but the relaxed scope and the shortened time shall not exceed one third of the corresponding scope and time prescribed in these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the sentences of elderly criminals, criminals suffering from serious illness or criminals with physical disabilities are commuted, the assessment shall focus mainly on their actual performance in admitting guilt and showing repentance.\nWhere the sentences of the aforementioned criminals who have basically lost the ability to work and have difficulty taking care of themselves are commuted, the scope of commutation may be appropriately relaxed, or the starting time for commutation and the interval may be appropriately shortened, but the relaxed scope and the shortened time shall not exceed one third of the corresponding scope and time prescribed in these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a criminal sentenced to fixed-term imprisonment or life imprisonment intentionally commits another crime during the service of the sentence, and the new crime is punished by fixed-term imprisonment, commutation shall not be granted within three years from the date on which the judgment on the new crime becomes final; where the new crime is punished by life imprisonment, commutation shall not be granted within four years from the date on which the judgment on the new crime becomes final.\nWhere a criminal intentionally commits another crime during the period of suspension of execution of the death penalty but is not executed, the period of suspension of execution of the death penalty shall be recalculated, and commutation shall not be granted within five years after the sentence is commuted to life imprisonment.\nWhere a criminal sentenced to death with a two-year suspension of execution intentionally commits another crime during the service of the sentence after commutation, the matter shall be handled in accordance with paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "In handling parole cases, in determining that there is \"no danger of reoffending\", in addition to meeting the circumstances prescribed in Article 81 of the Criminal Law, comprehensive consideration shall be given to such factors as the specific circumstances of the crime, the punishment in the original judgment, the consistent performance during the service of the sentence, the age and physical condition of the criminal, the personality traits of the criminal, the sources of livelihood after parole, and the conditions of supervision."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a criminal sentenced to fixed-term imprisonment is granted parole, the period of one half of the term of the original judgment shall be calculated from the date on which the judgment begins to be executed; where the criminal has been detained in custody before the judgment begins to be executed, one day in custody shall be offset against one day of the term of imprisonment.\nWhere a criminal sentenced to life imprisonment is granted parole, the period of not less than thirteen years of actual service prescribed in the Criminal Law shall be calculated from the date on which the judgment takes effect. Time spent in custody before the judgment takes effect shall not be offset.\nWhere the sentence of a criminal sentenced to death with a two-year suspension of execution is commuted to life imprisonment or fixed-term imprisonment, parole may be granted only after not less than fifteen years have actually been served, and the period of actual service shall be calculated from the date of expiry of the period of suspension of execution of the death penalty. The period of suspension of execution of the death penalty shall not be included, and time spent in custody before the judgment becomes final shall not be offset."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The \"special circumstances\" prescribed in paragraph 1 of Article 81 of the Criminal Law mean circumstances in which there are special needs of the State in such fields as politics, national defence and foreign affairs."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Parole shall not be granted to recidivists or criminals sentenced to fixed-term imprisonment of ten years or more or life imprisonment for intentional homicide, rape, robbery, kidnapping, arson, explosion, or the placing of dangerous substances or organised violent crimes.\nCriminals sentenced to death with a two-year suspension of execution for the crimes and circumstances mentioned in the preceding paragraph shall not be granted parole either after their sentences are commuted to life imprisonment or fixed-term imprisonment."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Parole may be granted leniently in accordance with law to the following criminals:\n(a) criminals who have committed negligent crimes, criminals who have discontinued their crimes, and criminals who have participated in crimes under duress;\n(b) criminals sentenced to fixed-term imprisonment or heavier punishment for unjustifiable self-defence or excessive necessity;\n(c) criminals who had not reached the age of eighteen at the time of committing the crime;\n(d) elderly criminals, criminals suffering from serious illness or criminals with physical disabilities who have basically lost the ability to work, have difficulty taking care of themselves, and are ensured of a means of livelihood after parole;\n(e) criminals whose performance in reform during the service of their sentences is particularly outstanding;\n(f) criminals who fall under other circumstances under which parole may be granted leniently.\nWhere a criminal meets both the statutory conditions for commutation and the statutory conditions for parole, parole may be applied preferentially."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the effective judgment contains property-related items and the criminal has the actual ability to perform but fails to perform or does not fully perform them, parole shall not be granted."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a criminal is granted parole after commutation, the interval shall not be less than one year; where parole is decided after the one-time reduction of fixed-term imprisonment of one year or more, the interval shall not be less than one year and six months.\nWhere the remaining term of imprisonment after commutation is less than two years and parole is decided, the interval may be appropriately shortened."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a criminal violates laws or administrative regulations or the provisions of the relevant department of the State Council on supervision and administration in connection with parole during the probation period for parole, the people's court that made the parole ruling shall promptly review the case upon receipt of the proposal for revocation of parole from the submitting organ or the procuratorial organ, make a ruling on whether parole shall be revoked, serve it on the submitting organ, and simultaneously send copies to the people's procuratorate, the public security organ and the original organ for execution of the punishment.\nWhere the criminal has absconded, the ruling on revocation of parole may serve as the basis for pursuing and arresting the criminal."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A criminal whose parole has been revoked in accordance with Article 86 of the Criminal Law shall generally not be granted parole again. However, where a criminal whose parole has been revoked in accordance with paragraph 2 of that Article made a truthful confession of the omitted crime which was not determined in the original judgment, or the omitted crime was voluntarily surrendered by the criminal, and the conditions for parole are met, the criminal may be granted parole again.\nA criminal whose parole has been revoked may have the sentence commuted after being committed to prison if the conditions for commutation are met, but the starting time for commutation shall be calculated from the date of committal to prison."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For a criminal who has reached the age of eighty, suffers from illness or has difficulty taking care of himself or herself, and poses no danger of reoffending, where the criminal meets both the conditions for commutation and the conditions for parole, parole shall be applied preferentially; where the criminal does not meet the conditions for parole, the matter shall be handled leniently by reference to the relevant provisions of Article 20 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where, in a case retried by a people's court in accordance with the procedure for trial supervision, the ruling upholds the original judgment or ruling, the original ruling on commutation or parole shall remain valid.\nWhere the judgment or ruling on retrial changes the original judgment or ruling, the original ruling on commutation or parole shall automatically cease to be effective, and the organ for execution shall promptly request a competent people's court to make a new ruling on whether to grant commutation or parole. Where a new ruling on commutation is made, the criminal shall not be subject to the restrictions under these Provisions on the starting time for commutation, the interval and the scope of commutation. When making the new ruling, consideration shall be given comprehensively to all relevant factors, and the scope of commutation shall not exceed the total term of imprisonment reduced under the original ruling.\nWhere the judgment on retrial is changed to death with a two-year suspension of execution or life imprisonment, the term of the sentence already served under the original judgment shall be offset at the same time when the new judgment is commuted to fixed-term imprisonment.\nWhere the judgment on retrial declares the criminal not guilty, the original ruling on commutation or parole shall automatically cease to be effective."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where, after a criminal has been ruled to be granted commutation, combined punishment for several crimes is imposed because the criminal intentionally commits another crime during the service of the sentence, the term of imprisonment reduced under the commutation ruling shall not be counted as part of the term already served. The ruling commuting the death penalty with a two-year suspension of execution in the original judgment to life imprisonment or fixed-term imprisonment, or commuting life imprisonment to fixed-term imprisonment, shall remain valid."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where, after a criminal has been ruled to be granted commutation, combined punishment for several crimes is imposed because an omitted crime is discovered during the service of the sentence, the original commutation ruling shall automatically cease to be effective. Where the omitted crime was voluntarily confessed by the criminal, the organ for execution shall request a competent people's court to make a new commutation ruling on the term of imprisonment originally reduced so as to confirm it; where the omitted crime was discovered by the relevant organ or reported or exposed by another person, the organ for execution shall request a competent people's court to make a new ruling at discretion within the total term of imprisonment reduced under the original commutation ruling."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where an omitted crime of a criminal sentenced to death with a two-year suspension of execution is discovered during the period of suspension of execution of the death penalty, and, in accordance with Article 70 of the Criminal Law, combined punishment for several crimes is imposed with a decision to execute death with a two-year suspension of execution, the period of suspension of execution of the death penalty shall be calculated from the date on which the new judgment becomes final, and the period of suspension of execution of the death penalty already served shall be counted as part of the period of suspension of execution of the death penalty under the new judgment, except where the omitted crime is punished by death with a two-year suspension of execution."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where an omitted crime of a criminal sentenced to death with a two-year suspension of execution is discovered after the expiry of the period of suspension of execution of the death penalty, and, in accordance with Article 70 of the Criminal Law, combined punishment for several crimes is imposed with a decision to execute death with a two-year suspension of execution, the criminal shall actually serve life imprisonment when committed for execution, and the probation period for the suspended death penalty shall no longer be served, except where the omitted crime is punished by death with a two-year suspension of execution.\nWhere life imprisonment is commuted to fixed-term imprisonment, the term of the sentence actually served from the date on which the death penalty with a two-year suspension of execution for the former crime was commuted to life imprisonment to the date on which the new judgment takes effect shall be counted within the term of imprisonment decided in the commutation ruling.\nThe term of imprisonment reduced under the original commutation ruling shall be handled in accordance with Article 34 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an omitted crime of a criminal sentenced to life imprisonment is discovered after the sentence was commuted to fixed-term imprisonment, and, in accordance with Article 70 of the Criminal Law, combined punishment for several crimes is imposed with a decision to execute life imprisonment, the term of the sentence actually served from the date on which the life imprisonment for the former crime took effect to the date on which the new judgment takes effect shall be offset within the term of imprisonment decided in the commutation ruling when the life imprisonment under the new judgment is commuted to fixed-term imprisonment.\nWhere an omitted crime of a criminal sentenced to life imprisonment is discovered after the sentence was commuted to fixed-term imprisonment and the omitted crime is punished by fixed-term imprisonment of not more than three years, and combined punishment for several crimes is imposed with a decision to execute life imprisonment, where, after the new judgment takes effect, not less than one year has been served and the conditions for commutation are met, the sentence may be commuted to fixed-term imprisonment, and the scope of commutation shall be applied in accordance with Articles 8 and 9 of these Provisions.\nThe term of imprisonment reduced under the original commutation ruling shall be handled in accordance with Article 34 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "After a criminal judgment or ruling made by a people's court takes legal effect, where the criminal is committed for execution of the punishment in accordance with Articles 253 and 254 of the Criminal Procedure Law, if the effective judgment contains property-related items, the people's court shall transfer to the organ for execution of the punishment, together with the case file, the relevant materials reflecting the enforcement and performance of the property-related items. Where the criminal personally performs, or his or her relatives perform on his or her behalf, the property-related items in the effective judgment during the service of the sentence, the criminal shall promptly report the matter to the organ for execution of the punishment. When requesting commutation, the organ for execution of the punishment shall transfer the aforementioned materials together with the case file.\nWhen handling commutation and parole cases, a people's court may verify with the original people's court of first instance the criminal's performance of the property-related items. The original people's court of first instance shall issue the relevant certification.\nDuring the service of the punishment, the people's court responsible for handling commutation and parole cases may assist the original people's court of first instance in enforcing the property-related items in the effective judgment."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "For the purposes of these Provisions, \"elderly criminals\" means criminals who have reached the age of sixty-five when commutation or parole is requested.\nFor the purposes of these Provisions, \"criminals suffering from serious illness\" means criminals who, because they suffer from a serious illness that is not cured despite prolonged treatment, are unable to live, study or work normally.\nFor the purposes of these Provisions, \"criminals with physical disabilities\" means criminals who, because of the absence of a limb or organ, incomplete functions or loss of function, have basically lost the ability to live, study or work, except where the criminal has caused his or her own disability by self-injury after committing the crime.\nA people's court shall examine the certification documents provided by the organ for execution of the punishment certifying that the criminal suffers from a serious illness or has a physical disability, and may, when necessary, entrust a relevant entity to conduct a new diagnosis or assessment."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "For the purposes of these Provisions, \"the date on which the judgment begins to be executed\" means the date on which the criminal is actually committed to the organ for execution of the punishment.\nFor the purposes of these Provisions, \"the interval between commutations\" means the period from the date on which the ruling on the previous commutation is served to the date on which the current commutation is requested."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "For the purposes of these Provisions, \"property-related items\" means the items of judgment on the obligation to pay incidental civil compensation borne by the criminal, and the items of judgment on recovery, ordered return of ill-gotten gains or compensation for losses, fines, and confiscation of property."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "These Provisions shall enter into force on 1 January 2017. Where judicial interpretations previously issued are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0103'] = {
+    "lawId": "CN-JI-0103",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 15 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "People's courts handling cases of commutation of sentence and parole must examine the enforcement of the property-related judgment items in the original effective criminal judgment or criminal judgment with an incidental civil action, and shall take this as one of the factors in determining whether the offender genuinely shows repentance.\nProperty-related judgment items refer to the judgment items in an effective criminal judgment or criminal judgment with an incidental civil action that determine that the offender is subject to recovery in accordance with law, restitution as ordered, a fine or confiscation of property, as well as judgment items such as the obligation to pay civil compensation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a people's court examines the enforcement of a property-related judgment item, it shall take the notice of conclusion of the case, the payment receipts and vouchers, and the statements on the enforcement situation issued by the enforcing court as the basis for examination and determination.\nWhere a people's court's judgment determines that several offenders are jointly and severally liable for incidental civil compensation, if only some of them perform the entire compensation obligation, the judgment item on incidental civil compensation may be determined to have been fully enforced.\nWhere a relative of the offender performs the property-related judgment item on his or her behalf, this shall be deemed to be performance by the offender himself or herself."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a property-related judgment item has not been fully enforced, the people's court shall focus its examination on the offender's ability to perform.\nThe offender's ability to perform shall be determined on the basis of the actual enforcement of the property-related judgment item and in the light of the offender's declaration of property, the property he or she actually possesses, and consumption and account balances in the prison or house of detention."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where an offender has the ability to perform a property-related judgment item, commutation of sentence or parole shall be granted only after performance.\nWhere an offender genuinely has the ability to perform but does not perform, he or she shall not be determined to show genuine repentance and, except in the circumstances provided by law, commutation of sentence or parole shall generally not be granted.\nWhere an offender genuinely lacks the ability to perform, this shall not affect the determination that he or she shows genuine repentance.\nWhere an offender's sentence is commuted for major meritorious service, the matter shall be handled in accordance with the relevant provisions of law and shall generally not be affected by the enforcement of property-related judgment items."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In a case of commutation of sentence or parole where a property-related judgment item has not been fully enforced, the people's court shall, when accepting the case, focus on examining the following materials:\n(a) materials concerning the enforcement of the property-related judgment item, such as the enforcement ruling, payment receipts and vouchers, and whether there has been refusal to perform or obstruction of enforcement;\n(b) the offender's declaration of his or her personal property;\n(c) statements by the relevant organisations or units on the property actually possessed by the offender;\n(d) materials informing the offender of the adverse consequences that may be incurred for failure to perform the property-related judgment item;\n(e) materials reflecting the offender's consumption and account balances in the prison or house of detention;\n(f) other materials reflecting the enforcement of the offender's property-related judgment item.\nWhere the above materials are incomplete, the criminal punishment execution organ that submitted the proposal for commutation of sentence or parole shall be notified to supplement them within seven days; where they are not supplemented within that period, the case shall not be filed."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a property-related judgment item has not been fully performed and any of the following circumstances exists, it shall be determined that the offender genuinely has the ability to perform but does not perform:\n(a) refusing to disclose the whereabouts of the illicit money or goods;\n(b) concealing, hiding or transferring property;\n(c) obstructing the enforcement of the property-related judgment item;\n(d) refusing to declare his or her property or making a false declaration.\nWhere an offender consumes in a prison or house of detention by borrowing another person's name, falsely reporting the purpose, or other such means, or conspicuously exceeds the consumption limit prescribed by the criminal punishment execution organ without special reason, this shall be deemed to be genuine ability to perform without performance.\nCommutation of sentence or parole may be granted in accordance with law only after the above circumstances have ceased or six months after the offender's property-related judgment item has been fully enforced."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where, after investigation and control by the enforcing court, no property available for enforcement is found in respect of an offender, and none of the circumstances listed in Article 6 of these Provisions exists, it shall be determined that the offender genuinely lacks the ability to perform."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a fine imposed on an offender is exempted by a ruling of the enforcing court, the fact that other property-related judgment items have not been fully performed shall not affect the determination that the offender shows genuine repentance, unless the offender genuinely has the ability to perform.\nWhere a judgment determines that a fine is to be paid in instalments and the offender has not failed to pay upon expiry of the time limit, this shall not affect the determination that the offender shows genuine repentance."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where confiscation of property is imposed, it shall be enforced immediately after the judgment takes effect, and the property enforced shall be the property lawfully owned by the offender personally at the time the judgment takes effect. Except where the circumstances listed in paragraph 1 of Article 6 of these Provisions exist, the enforcement of the judgment item of confiscation of property shall generally not affect the determination that the offender shows genuine repentance."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where an offender bearing a civil compensation obligation is in any of the following circumstances, this shall not affect the determination that he or she shows genuine repentance:\n(a) having fully performed the civil compensation obligation and, where the plaintiff in the incidental civil action cannot be found or refuses to accept payment, having deposited the sum to be paid;\n(b) having performed the civil compensation obligation in instalments without failing to perform upon expiry of the time limit;\n(c) the plaintiff in the incidental civil action having expressed forgiveness towards the offender and waived civil compensation in writing."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where damage is caused by a criminal act and the victim separately brings a civil compensation action, the people's court, when handling a case of commutation of sentence or parole, shall examine the enforcement of the judgment item on the compensation obligation determined by the relevant effective civil judgment, and shall comprehensively determine, in conjunction with these Provisions, whether the offender shows genuine repentance.\nWhere an offender bearing a civil compensation obligation is at the same time sentenced to a fine or confiscation of property, he or she shall first bear the civil compensation obligation. Where the property of an offender is insufficient to cover the entire civil compensation obligation together with the fine and confiscation of property, and the offender actively performs the civil compensation obligation, this shall be taken into account in determining whether he or she shows genuine repentance."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "With respect to offenders convicted of duty-related crimes, crimes of disrupting the order of financial administration or crimes of financial fraud, or crimes of organising (leading, participating in, shielding or conniving at) organisations of a triad nature, where they do not actively return illicit money, assist in the recovery of illicit money and goods, or compensate for losses, they shall not be determined to show genuine repentance."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "When a people's court delivers an offender for the execution of criminal punishment, if the effective judgment contains a property-related judgment item, the materials on the actual enforcement of that item shall be transferred together to the criminal punishment execution organ.\nWhere the people's court enforcing the property-related judgment item receives an official letter from the criminal punishment execution organ verifying the enforcement of the offender's property-related judgment item, it shall issue the relevant certificate within seven days and, where enforcement has been concluded, shall attach the relevant legal documents.\nWhere, in the course of enforcement, the people's court enforcing the property-related judgment item finds that an offender whose property-related judgment item has not been fully enforced is in any of the circumstances listed in items (a), (b) and (c) of paragraph 1 of Article 6 of these Provisions, it shall promptly notify the criminal punishment execution organ of the relevant situation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where, in handling a case of commutation of sentence or parole, a people's court finds that an offender genuinely has the ability to perform but does not perform, it shall rule not to grant commutation of sentence or parole, or the criminal punishment execution organ shall withdraw the proposal for commutation of sentence or parole in accordance with law.\nWhere, after an offender's sentence has been commuted or parole has been granted by ruling, it is found that the offender genuinely has the ability to perform, the people's court shall continue to enforce the property-related judgment item; where it is found that the offender made a false declaration or intentionally concealed property, and the circumstances are serious, the people's court shall revoke the ruling on commutation of sentence or parole."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "These Provisions shall come into force on 1 May 2024. Where judicial interpretations previously issued are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0104'] = {
+    "lawId": "CN-JI-0104",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 13 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a party, having suffered domestic violence or facing a real danger of domestic violence, applies to a people's court for a personal safety protection order in accordance with the Anti-Domestic Violence Law, the people's court shall accept the application.\nAn application to a people's court for a personal safety protection order is not conditional upon the filing of a civil action such as an action for divorce."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a party is unable to apply for a personal safety protection order for reasons such as old age, disability or serious illness, and the party's close relatives, a public security organ, a department of civil affairs, a women's federation, a residents' committee, a villagers' committee, a federation of persons with disabilities, an organisation for elderly persons established in accordance with the law, a relief and assistance administration institution or the like applies on the party's behalf in accordance with the party's wishes and the provisions of Article 23 of the Anti-Domestic Violence Law, the people's court shall accept the application in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Acts of physical or mental infringement committed between family members by such means as freezing or starving, or frequent humiliation, defamation, threats, stalking or harassment, shall be determined as \"domestic violence\" as provided in Article 2 of the Anti-Domestic Violence Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "\"Persons living together other than family members\" as provided in Article 37 of the Anti-Domestic Violence Law generally include cohabiting daughters-in-law, sons-in-law, the parents of the husband, the parents of the wife, and other persons having relationships such as guardianship, maintenance or foster care."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a party and its agent, in respect of evidence that cannot be collected by themselves for objective reasons, apply to the people's court to investigate and collect the evidence, and the circumstances provided in paragraph 1 of Article 94 of the Interpretation of the Supreme People's Court on the Application of the Civil Procedure Law of the People's Republic of China are met, the people's court shall investigate and collect the evidence.\nWhere the people's court, upon examination, considers that the evidence needed for handling the case meets the provisions of Article 96 of the Interpretation of the Supreme People's Court on the Application of the Civil Procedure Law of the People's Republic of China, it shall investigate and collect the evidence."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In a case concerning a personal safety protection order, where the people's court, on the basis of the relevant evidence, considers that there is a relatively high probability that the fact that the applicant has suffered domestic violence or faces a real danger of domestic violence exists, it may make a personal safety protection order in accordance with the law.\nThe \"relevant evidence\" mentioned in the preceding paragraph includes:\n(a) the statements of the parties;\n(b) admonition letters on domestic violence and written decisions on administrative penalty issued by public security organs;\n(c) police dispatch records, records of interrogation, records of inquiry, records of receipt of reports, receipts of reports and the like of public security organs;\n(d) letters of repentance or letters of guarantee previously issued by the respondent;\n(e) audio-visual materials recording the occurrence of domestic violence or the process of resolving it;\n(f) telephone recordings, text messages, instant messaging information, emails and the like between the respondent and the applicant or the applicant's close relatives;\n(g) diagnosis and treatment records of medical institutions;\n(h) records of complaints, reports or requests for help received by the unit where the applicant or the respondent works, a department of civil affairs, a residents' committee, a villagers' committee, a women's federation, a federation of persons with disabilities, an organisation for the protection of minors, an organisation for elderly persons established in accordance with the law, a relief and assistance administration institution, a social welfare organisation against domestic violence or other such units;\n(i) testimony given by minor children that is appropriate to their age and intelligence, or testimony of other witnesses such as relatives, friends and neighbours;\n(j) expert opinions on injuries;\n(k) other evidence capable of proving that the applicant has suffered domestic violence or faces a real danger of domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The people's court may question the respondent by simple means such as an online litigation platform, a telephone, text messages, instant messaging tools or email. The respondent's failure to express an opinion shall not affect the making of a personal safety protection order by the people's court in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the respondent acknowledges the existence of acts of domestic violence but argues that the applicant is at fault, this shall not affect the making of a personal safety protection order by the people's court in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In a case such as a divorce case, where a party asserts the existence of the fact of domestic violence solely on the ground that a people's court has previously made a personal safety protection order, the people's court shall, in accordance with Article 108 of the Interpretation of the Supreme People's Court on the Application of the Civil Procedure Law of the People's Republic of China, determine comprehensively whether such fact exists."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The \"other measures to protect the personal safety of the applicant\" provided in subparagraph (d) of Article 29 of the Anti-Domestic Violence Law may include the following measures:\n(a) prohibiting the respondent from humiliating, defaming or threatening the applicant and the applicant's relevant close relatives by telephone, text messages, instant messaging tools, email or other means;\n(b) prohibiting the respondent from engaging, within a certain range of the places frequently visited by the applicant and the applicant's relevant close relatives, such as their residences, schools and workplaces, in activities that may affect the normal life, study and work of the applicant and the applicant's relevant close relatives."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In a divorce case, where after a judgment is made not granting the divorce, or after mediation results in reconciliation, the respondent commits domestic violence in violation of a personal safety protection order, this may be determined as \"new circumstances and new grounds\" as provided in subparagraph (g) of Article 127 of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where the respondent violates a personal safety protection order and the circumstances meet the provisions of Article 313 of the Criminal Law of the People's Republic of China, the respondent shall be convicted and punished for the crime of refusing to execute a judgment or ruling; where other crimes are also constituted, the matter shall be dealt with in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "These Provisions shall come into force on 1 August 2022."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0105'] = {
+    "lawId": "CN-JI-0105",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 11 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Cases in which enforcement of a compensation decision for expropriation is applied for from a people's court shall be under the jurisdiction of the primary people's court at the place where the house is located; a higher people's court may, in light of the actual situation in its locality, determine the court with jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where an applying organ applies to a people's court for compulsory enforcement, in addition to providing the application for compulsory enforcement and the accompanying materials prescribed in Article 28 of the Regulations, it shall also provide the following materials:\n(a) the compensation decision for expropriation and the relevant evidence and the normative documents on which it is based;\n(b) the receipt for service of the compensation decision for expropriation, the situation of the demand for performance, and the opinions of the person whose house is expropriated and of the directly interested parties;\n(c) materials on the assessment of social stability risks;\n(d) the condition of the house for which compulsory enforcement is applied;\n(e) the name of the person subject to enforcement, its address and other specific particulars such as the condition of the property related to compulsory enforcement;\n(f) other materials that should be submitted as prescribed by laws and administrative regulations.\nThe application for compulsory enforcement shall be signed by the person in charge of the applying organ, affixed with the seal of the applying organ and dated.\nAn application for compulsory enforcement shall be made within three months from the date of expiry of the statutory time limit for the person subject to enforcement to file an action; where the application is made late, the people's court shall not accept it unless there are justified reasons."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the people's court considers that the application for compulsory enforcement meets the formal requirements and the materials are complete, it shall, within five days after receiving the application, file and accept the case and notify the applying organ; where the formal requirements are not met or the materials are incomplete, it shall set a time limit for supplementation or correction, and shall file and accept the case within five days after the finally supplemented or corrected materials are provided; where the formal requirements are not met or the materials are not supplemented or corrected within the time limit without justified reasons, it shall rule not to accept the case.\nWhere the applying organ objects to the ruling not to accept the case, it may, within 15 days from the date of receipt of the ruling, apply to the people's court at the next higher level for reconsideration, and the people's court at the next higher level shall make a ruling within 15 days from the date of receipt of the application for reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The people's court shall, within 30 days from the date of filing the case, make a ruling on whether to permit enforcement; where the review period needs to be extended due to special circumstances, the extension shall be approved by the higher people's court."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "During the review, the people's court may, as necessary, obtain the relevant evidence, question the parties, organise a hearing or conduct an on-site investigation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where any of the following circumstances exists in a compensation decision for expropriation, the people's court shall rule not to permit enforcement:\n(a) there is a manifest lack of factual basis;\n(b) there is a manifest lack of legal or regulatory basis;\n(c) it manifestly fails to conform to the principle of fair compensation and seriously damages the lawful rights and interests of the person subject to enforcement, or leaves the basic living, production and business conditions of the person subject to enforcement unsecured;\n(d) it manifestly violates the administrative purpose and seriously damages the public interest;\n(e) it seriously violates statutory procedure or due process;\n(f) it exceeds the limits of authority;\n(g) other circumstances prescribed by laws, regulations, rules and the like in which compulsory enforcement is inappropriate.\nWhere the people's court rules not to permit enforcement, it shall state the reasons and serve the ruling on the applying organ within five days."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the applying organ objects to the ruling not to permit enforcement, it may, within 15 days from the date of receipt of the ruling, apply to the people's court at the next higher level for reconsideration, and the people's court at the next higher level shall make a ruling within 30 days from the date of receipt of the application for reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the people's court rules to permit enforcement, it shall, within five days, serve the ruling on the applying organ and on the person subject to enforcement, and may, in light of the actual situation, recommend that the applying organ take the necessary measures in accordance with the law to ensure the smooth implementation of the expropriation and compensation activities."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the people's court rules to permit enforcement, enforcement shall generally be organised and implemented by the municipal or county people's government that made the compensation decision for expropriation, or may be carried out by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "For projects that obtained a house demolition licence in accordance with the law before the Regulations entered into force, where the people's court rules to permit enforcement of a house demolition ruling, the matter shall be handled by reference to the spirit of Article 9 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where judicial interpretations previously made by the Supreme People's Court are inconsistent with these Provisions, these Provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 11."
         }
       }
     ]

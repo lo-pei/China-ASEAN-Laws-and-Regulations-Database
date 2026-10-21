@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p05
-   法规 20 部 / 译文 829 条
+   法规 39 部 / 译文 1740 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -72,6 +72,6216 @@
         },
         "noLabel": {
           "en": "Article 6."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0002'] = {
+    "lawId": "CN-JI-0002",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 30 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules apply to online mediation conducted through the people's court mediation platform before case filing or in the course of litigation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Online mediation includes all or part of such mediation activities as online application, assignment and entrustment, audio and video mediation, preparation of a mediation agreement, application for judicial confirmation of a mediation agreement, and preparation of a mediation statement, conducted by people's courts, parties, mediation organisations or mediators through the people's court mediation platform."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Online mediation may be conducted for disputes that may be mediated or settled as provided by law, such as civil, administrative, enforcement and private prosecution in criminal cases, and incidental civil actions in criminal cases where the defendant or offender is not in custody.\nWhere the law and judicial interpretations provide otherwise for online mediation of administrative cases, private prosecution in criminal cases and incidental civil actions in criminal cases, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a people's court adopts the method of online mediation, it shall obtain the consent of the parties and shall take into comprehensive account such factors as the specific circumstances of the case and technical conditions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Judicial personnel of people's courts, full-time or part-time mediators, specially invited mediation organisations and specially invited mediators, and other units or individuals invited by people's courts may conduct online mediation.\nInformation such as the basic particulars of online mediation organisations and mediators, the scope of disputes they accept, their fields of expertise, whether they charge fees, and the people's court that issued the invitation shall be published on the people's court mediation platform to facilitate the choice of the parties."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A people's court may invite eligible foreign nationals to join the people's court mediation platform and participate in the mediation of civil and commercial disputes in which one or both parties are foreign nationals, stateless persons, foreign enterprises or organisations.\nEligible residents of the Hong Kong and Macao regions may join the people's court mediation platform and participate in the mediation of civil and commercial disputes in which one or both parties are residents of the Hong Kong Special Administrative Region or the Macao Special Administrative Region, legal persons or unincorporated organisations, or Hong Kong-invested or Macao-invested enterprises in the mainland.\nEligible residents of the Taiwan region may join the people's court mediation platform and participate in the mediation of civil and commercial disputes in which one or both parties are residents of the Taiwan region, legal persons or unincorporated organisations, or Taiwan-invested enterprises in the mainland."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the case-filing personnel or judicial personnel of a people's court consider, before case filing or in the course of litigation, that a dispute is suitable for online mediation, they may fully explain the advantages of online mediation by oral, written, online or other means, inform the parties of the main forms of online mediation, their rights and obligations, the legal consequences and the methods of operation, and guide the parties to give priority to resolving the dispute through online mediation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A party that agrees to online mediation shall fill in on the people's court mediation platform such information as identity information, a brief description of the dispute, a valid contact telephone number and an electronic address for receiving service of litigation documents, and shall upload electronic materials for the application to file a lawsuit. Where the party has already submitted electronic materials for the application to file a lawsuit on the electronic litigation platform, it shall not submit them again.\nWhere a party has genuine difficulty in filling in the information or submitting electronic materials for the application to file a lawsuit, the people's court may assist the party in converting paper materials into electronic form and importing them into the people's court mediation platform."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a party applies for online mediation before case filing and the application falls under any of the following circumstances, the people's court shall return the application and handle it respectively:\n(a) the dispute for which the party applies for mediation is not within the scope of cases accepted by people's courts, and the party shall be informed of other methods of dispute resolution that may be adopted;\n(b) the people's court that has established an invitation relationship with the online mediation organisation or mediator chosen by the party has no jurisdiction over the dispute, and the party shall be informed to choose a mediation organisation or mediator invited by a people's court having jurisdiction over the dispute to conduct the mediation;\n(c) the dispute for which the party applies for mediation is not suitable for online mediation, and the party shall be informed to go to the litigation service hall of the people's court to handle the mediation or case-filing formalities on site."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where one party agrees to online mediation before case filing, the people's court shall, after seeking its opinion, designate a mediation organisation or mediator.\nWhere both parties agree to online mediation, they may jointly choose a mediation organisation or mediator from among the online mediation organisations and mediators confirmed by the court having jurisdiction over the case. Where the parties agree that the people's court shall designate the mediation organisation or mediator, or where they are unable to jointly choose a mediation organisation or mediator within two working days after agreeing to online mediation, the people's court shall designate the mediation organisation or mediator.\nThe people's court shall designate the mediation organisation or mediator within three working days after receiving the party's application for online mediation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Online mediation shall generally be conducted by one mediator. Where a case is major, difficult and complicated, or highly specialised, it may be mediated by two or more mediators, and the parties shall jointly select one of them to preside over the mediation. Where the parties are unable to make a joint selection, the people's court shall designate one mediator to preside."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A mediation organisation or mediator shall, within three working days after receiving information on the assignment or entrustment of mediation by a people's court or a party's application for online mediation, confirm the acceptance of the assignment or entrustment by the people's court or of the party's application for mediation. Where a dispute does not fall within the scope of mediation or the industry field prescribed by the articles of association of the mediation organisation, clearly exceeds the field of expertise of the mediator, or involves other circumstances unsuitable for acceptance, the mediation organisation or mediator may, after stating the reasons in writing, decline to accept it.\nWhere a mediation organisation or mediator declines to accept, or fails to confirm within the prescribed period, the people's court or the parties may designate or select anew."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a person presiding over or participating in online mediation falls under any of the following circumstances, the person shall make disclosure before accepting the mediation or in the course of mediation:\n(a) being a party to the dispute, or a close relative of a party or of an agent ad litem;\n(b) having an interest in the dispute;\n(c) having any other relationship with a party or an agent ad litem that may affect impartial mediation.\nWhere the parties still agree to the mediation after the mediation organisation or mediator has disclosed the above circumstances, or with knowledge that the above circumstances exist, the mediation organisation or mediator shall continue the mediation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In the course of online mediation, a party may apply to replace the mediation organisation or mediator; where, after the replacement, the party still does not agree and refuses to make a choice on its own, the party shall be deemed to have refused mediation."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where one party applies for online mediation before case filing, the people's court shall ascertain the willingness of the other party to mediate. The mediator may, within three working days from the date on which it accepts the assignment of mediation by the people's court, assist the people's court in notifying the other party and inquiring whether it agrees to mediation.\nWhere the other party refuses mediation or cannot be contacted, the mediator shall state the reasons in writing, conclude the online mediation procedure, return the relevant materials to the people's court without delay, and inform the parties."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The person presiding over online mediation shall, before organising the mediation, confirm the manner in which the parties will participate in the mediation, and shall handle the matter in accordance with the following circumstances:\n(a) where all parties have the technical conditions for using audio and video technology, designate the same time for them to log in to the people's court mediation platform; where they are unable to log in at the same time, designate separate times for conducting audio and video mediation after obtaining the consent of all parties;\n(b) where some parties do not have the technical conditions for using audio and video technology, provide premises and audio and video equipment for their participation in online mediation at the litigation service centre of the people's court, the place where the mediation organisation is located, or another convenient place.\nWhere none of the parties has the technical conditions for using audio and video technology, or all parties refuse to mediate by audio and video means, the time and place for on-site mediation shall be determined.\nIn the course of online mediation, where some parties propose that it is inappropriate to mediate by audio and video means, the mediator may, after obtaining the consent of the other parties, organise on-site mediation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Before online mediation begins, the person presiding over the mediation shall verify the identity of the parties and other persons participating in the mediation by such means as online comparison of certificates and licences, and shall inform them of the legal consequences of sham mediation. Where mediation is conducted before case filing, the mediator shall also guide the parties in filling in the Confirmation of Service Address and other relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "In the course of online mediation, the parties may express their wishes independently and propose solutions to the dispute in such forms as voice, text and video. Except for facts jointly confirmed as undisputed, facts and evidence that a party has admitted in making concessions for the purpose of reaching a mediation agreement shall not be used in litigation proceedings as a basis or evidence against it, unless otherwise provided by law or all parties consent."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a mediator organises the parties to reach agreement on all or part of the mediation claims, the mediator shall prepare or upload the mediation agreement online, and the parties and the mediator shall affix electronic signatures to the mediation agreement; where the mediation agreement is reached under the auspices of a mediation organisation, the electronic seal of the mediation organisation shall also be affixed, and where the mediation organisation has no electronic seal, the mediation agreement bearing its seal may be uploaded to the people's court mediation platform.\nThe mediation agreement shall take legal effect from the time when all parties have completed their electronic signatures, and shall be served on the parties through the people's court mediation platform. Where the mediation agreement contains provisions on payment, the parties shall perform them voluntarily in accordance with what is agreed in the mediation agreement."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the parties reach a mediation agreement before case filing, the mediator shall record it in the mediation transcript, close the case as out-of-court mediation, and guide the parties to perform it voluntarily. Where an application for judicial confirmation of the mediation agreement may be made in accordance with the provisions of the law and judicial interpretations, the parties may submit the application online, and the people's court shall, after examination and finding that it conforms to the provisions of law, rule that the mediation agreement is valid.\nWhere the parties reach a mediation agreement after case filing, they may request the people's court to prepare a mediation statement or apply to withdraw the lawsuit. The people's court may, after examination and finding that it conforms to the provisions of law, prepare a mediation statement or a written ruling to close the case."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where no mediation agreement is reached through online mediation, the mediation organisation or mediator shall record the basic circumstances of the mediation, the reasons why the mediation failed, conduct that increased the litigation costs of other parties, and other circumstances that need to be brought to the attention of the people's court. The people's court shall handle the matter in accordance with the following circumstances:\n(a) where a party applied for online mediation before case filing, the mediation organisation or mediator may suggest resolving the dispute through online case filing or other channels, and where the party chooses online case filing, the mediation organisation or mediator shall push the electronic mediation materials to the people's court online, and the people's court shall register the case in accordance with law within the statutory period;\n(b) where mediation was assigned before case filing and the mediation fails, the people's court shall register the case in accordance with law;\n(c) where mediation was entrusted after case filing and the mediation fails, the people's court shall resume the trial.\nWhere judicial personnel organise online mediation in the course of litigation and the mediation fails, they shall conduct the trial without delay."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "In the course of online mediation, the mediator shall simultaneously create an electronic transcript and confirm the undisputed facts. With the express consent of both parties, audio and video recordings of the mediation may replace the electronic transcript, but the undisputed facts shall be confirmed in writing.\nAn electronic transcript, after being checked and confirmed online, shall have the same legal effect as a written transcript."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where, in the course of examining an application for judicial confirmation or issuing a mediation statement, a people's court finds that the parties may have resorted to malicious collusion, forgery of evidence, fabrication of facts, fictitious legal relationships or other means to carry out sham mediation and infringe upon the lawful rights and interests of others, it may require the parties to provide relevant evidence. Where the parties fail to provide relevant evidence, the people's court shall not confirm the validity of the mediation agreement or issue a mediation statement.\nWhere, after examination, the people's court considers that sham mediation is constituted, the matter shall be handled in accordance with the Civil Procedure Law of the People's Republic of China and other relevant legal provisions. Where a suspected criminal offence is found, the clues and materials shall be transferred to the competent authority without delay."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The time limit for online mediation before case filing is 30 days. Where all parties agree to an extension, this limit shall not apply. For online mediation after case filing, the mediation time limit is 15 days where the ordinary procedure applies and 7 days where the summary procedure applies; where all parties agree to an extension, this limit shall not apply. An extended mediation period after case filing shall not be counted in the time limit for trial.\nThe mediation time limit for assigned or entrusted mediation, or for mediation applied for by a party, shall be calculated from the date on which the mediation organisation or mediator confirms on the people's court mediation platform the acceptance of the assignment or entrustment or the acceptance of the party's application. Where judicial personnel preside over the mediation, the time limit shall be calculated from the date on which all parties consent."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The online mediation procedure shall terminate under any of the following circumstances:\n(a) the parties reach a mediation agreement;\n(b) the parties settle on their own and withdraw the application for mediation;\n(c) a party cannot be contacted within the mediation time limit;\n(d) one party expressly indicates unwillingness to continue the mediation;\n(e) the parties differ greatly and it is difficult to reach a mediation agreement;\n(f) the mediation time limit expires without a mediation agreement being reached, and the parties have not reached a consensus on extending the mediation time limit;\n(g) one party refuses to sign or seal the mediation agreement;\n(h) other circumstances that make mediation impossible."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where appraisal or assessment is required for mediation before case filing, the staff of the people's court, the mediation organisation or the mediator may inform the parties of the procedure for entrusting appraisal before litigation and guide them to submit an application for entrusting appraisal or assessment before litigation through the electronic litigation platform, on-site handling or other means; the period for appraisal or assessment shall not be counted in the mediation time limit.\nAn appraisal or assessment entrusted before litigation may be used as evidence where the people's court, after examination, finds that it conforms to the provisions of law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "People's courts at all levels are responsible for such management work as the selection and confirmation, professional training, qualification certification, guidance on joining, permission setting and performance evaluation of online mediation organisations and mediators at their own level. An online mediation organisation or mediator selected by a people's court at a higher level may, after obtaining its consent, be confirmed by a people's court at a lower level as its own online mediation organisation or mediator."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A people's court may establish rosters of specially invited mediators for such specialised fields as marriage and family, labour disputes, road traffic, financial consumption, securities and futures, intellectual property, maritime and admiralty, international commercial, and disputes involving Hong Kong, Macao, Taiwan and overseas Chinese, and may, according to the different specialisations, invite organisations and persons with the relevant professional capabilities to join.\nThe Supreme People's Court shall establish a nationwide roster of specially invited mediators, inviting deputies to the National People's Congress, members of the National Committee of the Chinese People's Political Consultative Conference, renowned experts and scholars, mediation organisations of high repute and persons with strong mediation capabilities to join and to participate in the mediation of cases of courts throughout the country that have major impact, are difficult and complicated, and are suitable for mediation.\nA higher people's court or an intermediate people's court may establish a regional roster of specially invited mediators to participate in the mediation of cases of courts within its jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where an online mediation organisation or mediator commits any of the following acts in the course of mediation, the parties may complain to the people's court that issued the invitation:\n(a) coercing mediation;\n(b) refusing, without justified reasons, on multiple occasions to accept the assignment or entrustment by a people's court or a party's application for mediation;\n(c) accepting requests from a party or receiving property;\n(d) divulging the mediation process, the contents of the mediation agreement, or state secrets, trade secrets, personal privacy and other information not suitable for disclosure learned in the course of mediation, unless otherwise provided by laws and administrative regulations;\n(e) other acts that violate the professional ethics of mediation and warrant handling.\nWhere the people's court verifies that the acts are true, it shall, in light of the circumstances, take appropriate measures such as dismissal and inform the relevant competent department."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "These Rules shall come into force on 1 January 2022. Where judicial interpretations previously issued by the Supreme People's Court are inconsistent with these Rules, these Rules shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0003'] = {
+    "lawId": "CN-JI-0003",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 39 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "People's courts, parties and other litigation participants, among others, may rely on the electronic litigation platform (hereinafter referred to as the \"litigation platform\") to complete all or part of the litigation proceedings online, including case filing, mediation, evidence exchange, inquiry, court hearing and service, through the Internet or a dedicated network.\nOnline litigation activities and offline litigation activities have equal legal effect."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "When carrying out online litigation, people's courts shall follow the following principles:\n(a) the principle of fairness and efficiency. Online litigation activities shall be carried out in strict accordance with the law, trial procedures shall be improved, working mechanisms shall be strengthened, technical support shall be enhanced, judicial efficiency shall be raised, and judicial fairness shall be ensured;\n(b) the principle of legality and voluntariness. The right of parties and other litigation participants to choose the mode of litigation shall be respected and protected, and people's courts shall not compulsorily or in a disguised form apply online litigation without the consent of the parties and other litigation participants;\n(c) the principle of protection of rights. All procedural rights of the parties shall be fully protected, the obligations of notification, explanation and informing shall be strengthened, and litigation proceedings shall not be arbitrarily reduced or the litigation rights and interests of the parties impaired;\n(d) the principle of convenience and benefit for the people. Online litigation services shall be optimised, the functions of the litigation platform shall be improved, the application of information technology shall be strengthened, the litigation costs of the parties shall be reduced, and the efficiency of dispute resolution shall be raised. The judicial needs of different groups shall be taken into overall account, litigation guidance shall be strengthened for special groups such as minors, the elderly and persons with disabilities, and corresponding judicial conveniences shall be provided; and\n(e) the principle of security and reliability. National security shall be safeguarded in accordance with the law, state secrets, trade secrets, personal privacy and personal information shall be protected, and the security of online litigation data and information shall be effectively ensured. The application of technology shall be standardised so as to ensure technology neutrality and platform neutrality."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Taking into overall account such factors as the circumstances of the case, the will of the parties and the technical conditions, people's courts may apply online litigation to the following cases:\n(a) civil and administrative litigation cases;\n(b) cases subject to the expedited criminal procedure, cases of commutation and parole, and criminal cases that are unsuitable for offline trial for other special reasons;\n(c) cases of civil special procedure, the procedure for supervision and urging, bankruptcy proceedings and the review of non-litigious execution;\n(d) civil and administrative execution cases and execution cases of incidental civil actions in criminal proceedings; and\n(e) other cases suitable for trial by online means."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "When carrying out online litigation, people's courts shall obtain the consent of the parties, and inform them of the specific proceedings, main forms, rights and obligations, legal consequences and methods of operation for the application of online litigation.\nPeople's courts shall, according to the corresponding expressions of intent of the parties regarding online litigation, take the following actions:\n(a) where a party takes the initiative to choose to apply online litigation, the people's court may dispense with obtaining the consent of the party separately, and the corresponding litigation proceedings may be conducted directly online;\n(b) where all the parties consent to the application of online litigation, the corresponding litigation proceedings may be conducted online;\n(c) where some parties consent to the application of online litigation while others do not, the corresponding litigation proceedings may be conducted in a manner whereby the consenting parties participate online and the non-consenting parties participate offline; and\n(d) where a party only takes the initiative to choose, or consents to apply online litigation to, some of the litigation proceedings, the people's court shall not presume that the party consents to the application of online litigation to all other litigation proceedings.\nWhere online litigation is applied to a case in which a people's procuratorate participates, the consent of the people's procuratorate shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where, in the course of litigation, any of the following circumstances exists, such as the parties lacking the capacity for online litigation, the conditions for online litigation not being available, or the corresponding litigation proceedings being unsuitable for online handling, the people's court shall transfer the corresponding litigation proceedings to offline conduct.\nWhere a party, having consented to the application of online litigation to the corresponding litigation proceedings, retracts the consent in the course of litigation, the retraction shall be raised within a reasonable period before the corresponding litigation activities are carried out. Upon review, where the people's court finds that there are no improper circumstances such as intentional delay of litigation, the corresponding litigation proceedings may be transferred to offline conduct.\nWhere, in litigation proceedings such as mediation, evidence exchange, inquiry, hearing and court hearing, one party requires the other parties and litigation participants to participate in litigation offline, specific reasons shall be given. Upon review, where the people's court finds that the case involves any of the following circumstances, such as the facts of the case being difficult and complex, the need for witnesses to testify in court in person, and the necessity of offline presentation of evidence, cross-examination, statements and debate, the corresponding litigation proceedings may be transferred to offline conduct."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a party, having consented to the application of online litigation, fails without justifiable reasons to participate in online litigation activities or to carry out the corresponding litigation acts, and has not applied to transfer to offline conduct within a reasonable period, the party shall bear the corresponding legal consequences in accordance with the relevant provisions of laws and judicial interpretations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The litigation subjects participating in online litigation shall first complete real-name registration on the litigation platform. People's courts shall verify information such as the real-name mobile phone numbers, resident identity card numbers, passport numbers and unified social credit codes of the litigation subjects by means of online comparison of certificates and licences and authentication through identity authentication platforms, so as to confirm the authenticity of the identities of the litigation subjects. Upon completing online identity authentication, a litigation subject shall obtain a dedicated account for logging into the litigation platform.\nThe litigation subjects participating in online litigation shall properly keep the dedicated accounts and passwords of the litigation platform. Except where there is evidence proving that the account has been stolen or misappropriated or that a system error exists, acts carried out by logging into the litigation platform with a dedicated account shall be deemed to be the acts of the authenticated person himself or herself.\nWhen people's courts carry out litigation activities such as mediation, evidence exchange and court hearing online, they shall verify the identities of the litigation subjects again; where truly necessary, they shall further verify the identities offline."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's courts, specially invited mediation organisations and specially invited mediators may carry out online mediation activities through the litigation platform, the people's court mediation platform and other platforms. Online mediation shall be conducted in accordance with the relevant provisions of laws and judicial interpretations, and state secrets, trade secrets, personal privacy and other information unsuitable for disclosure shall be protected in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a party submits materials for prosecution online, the people's court shall, within the statutory time limit after receiving the materials, take the following actions online:\n(a) where the conditions for prosecution are satisfied, register the case and serve litigation documents such as the notice of acceptance of the case, the notice of payment of litigation costs and the notice of evidence presentation;\n(b) where the materials submitted do not meet the requirements, promptly notify the party to make corrections, inform the party of the content of and time limit for correction in one go, and recalculate the time of acceptance of the case from the day following the receipt of the corrected materials;\n(c) where the conditions for prosecution are not satisfied or the materials for prosecution still fail to meet the requirements after correction, and the plaintiff insists on prosecuting, rule in accordance with the law not to accept the case or not to place the case on the docket.\nWhere a party has submitted online materials such as a statement of claim that meet the requirements, the people's court shall not require the party to provide paper copies again.\nThe online acceptance rules for cases of appeal, application for retrial, special procedure and execution, among others, shall be handled by reference to the provisions of paragraphs 1 and 2 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where online litigation is applied to a case, the people's court shall notify the defendant, the appellant or other litigation participants and enquire whether they consent to participate in litigation by online means. Where a notified person consents to the adoption of online means, the person shall verify their identity and link the case through the litigation platform within three days after receiving the notice, and, in subsequent litigation activities, learn about case information, receive and submit litigation materials, and carry out other litigation acts through the litigation platform.\nWhere a notified person has not expressly indicated consent to the adoption of online means and has not registered and logged into the litigation platform within the time limit designated by the people's court, the relevant litigation activities directed at the notified person shall be conducted offline."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A party may directly fill in and enter litigation documents and materials such as a statement of claim, a statement of defence, a counterclaim and opinions of an agent on the litigation platform.\nA party may, by means of scanning, photographing or transcription, upload litigation documents and materials or evidence materials in offline form to the litigation platform after processing them electronically. Where the litigation materials are electronic data and the litigation platform has been connected with the platform storing the electronic data, the party may submit the electronic data directly to the litigation platform.\nWhere a party has genuine difficulty in submitting electronic materials, the people's court may assist the party in importing offline materials into the litigation platform after processing them electronically."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Electronic materials submitted by a party may be used directly in litigation after being reviewed and approved by the people's court. Where any of the following circumstances exists in litigation, the people's court shall require the party to provide the originals or original objects:\n(a) the opposing party believes that the electronic materials are inconsistent with the originals or original objects and puts forward reasonable reasons and basis;\n(b) the electronic materials are incompletely presented, unclear in content or non-standard in format;\n(c) the relevant provisions of the people's court on the management of case files and archives require the provision of the originals or original objects; and\n(d) the people's court finds it necessary to submit the originals or original objects."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where electronic materials submitted by a party fall under any of the following circumstances, the people's court may determine that they meet the formal requirements for originals or original objects:\n(a) the opposing party has raised no objection to the consistency of the electronic materials with the originals or original objects;\n(b) the formation process of the electronic materials has been notarised by a notary institution;\n(c) the electronic materials have been submitted in previous litigation and confirmed by the people's court;\n(d) the electronic materials have been compared and found consistent with the originals or original objects by online or offline means; and\n(e) there is other evidence proving that the electronic materials are consistent with the originals or original objects."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "According to the choice of the parties and the circumstances of the case, the people's court may organise the parties to carry out online evidence exchange and to present and cross-examine evidence online by synchronous or asynchronous means.\nWhere all the parties choose to exchange evidence online synchronously, they shall log into the litigation platform at the time designated by the people's court and centrally express their opinions on cross-examination, by online video or other means, of the evidence materials already imported into the litigation platform or the copies of evidence materials served offline.\nWhere all the parties choose to exchange evidence online asynchronously, they shall, within the reasonable period determined by the people's court, log into the litigation platform separately, review the evidence materials already imported into the litigation platform, and express their opinions on cross-examination.\nWhere all the parties consent to online evidence exchange but fail to reach agreement on the specific mode, synchronous online evidence exchange shall apply."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where electronic materials and electronic data submitted by a party as evidence are concerned, the people's court shall, in accordance with the relevant provisions of laws and judicial interpretations and after the parties have presented the evidence and cross-examined it, determine their authenticity, legality and relevance in accordance with the law. Evidence that has not been verified as true by the people's court shall not be used as the basis for finding the facts of the case."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where electronic data submitted by a party as evidence is stored by means of blockchain technology and has been verified as consistent by technical means, the people's court may determine that the electronic data has not been tampered with since it was put on the blockchain, unless there is contrary evidence sufficient to overturn this determination."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a party raises an objection to the authenticity of electronic data stored by means of blockchain technology after it was put on the blockchain and has reasonable reasons, the people's court shall make a determination in light of the following factors:\n(a) whether the evidence storage platform complies with the relevant provisions of the relevant departments of the State on the provision of blockchain evidence storage services;\n(b) whether there is an interest relationship between the party and the evidence storage platform, and whether the party has improperly interfered with the process of evidence collection and storage by technical means;\n(c) whether the information system of the evidence storage platform complies with the national standards or industry standards on cleanliness, security, reliability and availability; and\n(d) whether the evidence storage technology and process comply with the requirements of the relevant national standards or industry standards regarding system environment, technical security, encryption methods, data transmission and information verification, among others."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a party asserts that electronic data was already inauthentic before it was stored on the blockchain, and provides evidence to prove this or explains the reasons, the people's court shall review the assertion.\nAccording to the circumstances of the case, the people's court may require the party that submitted the electronic data stored by means of blockchain technology to provide evidence proving the authenticity of the data before it was stored on the blockchain, and shall make a comprehensive determination in light of such circumstances as the specific source, generation mechanism and storage process of the data before it was stored on the blockchain, notarisation by a notary institution, witnessing by a third party and corroborating data. Where the party fails to provide evidence to prove the authenticity or fails to give a reasonable explanation, and the electronic data cannot be mutually corroborated with other evidence, the people's court shall not confirm its authenticity."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A party may apply for a person with specialised knowledge to give opinions on technical issues relating to electronic data stored by means of blockchain technology. According to the application of a party or ex officio, the people's court may commission an expert evaluation of the authenticity of the electronic data stored by means of blockchain technology, or obtain other relevant evidence for verification."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "With the consent of all the parties, the people's court may designate the parties to log into the litigation platform separately within a certain period and carry out litigation activities such as mediation, evidence exchange, investigation and inquiry, and court hearing by asynchronous means.\nWhere a case is tried under the small claims procedure or the summary procedure in civil or administrative litigation and all of the following circumstances are satisfied, the people's court and the parties may, within the designated period, separately record videos of their participation in the court hearing according to the procedural stages of the hearing and upload them to the litigation platform, so as to complete the hearing activities asynchronously:\n(a) it is genuinely difficult for all the parties to participate in the court hearing online at the same time;\n(b) one party submits a written application and all the parties express their consent; and\n(c) after online evidence exchange or investigation and inquiry, the parties have no dispute over the main facts and evidence of the case."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "For a case to be heard in court, the people's court shall, according to such factors as the will of the parties, the circumstances of the case, social influence and technical conditions, decide whether to conduct an online court hearing by video means, provided that an online court hearing shall not be applied where any of the following circumstances exists:\n(a) all the parties expressly indicate their disagreement, or one party indicates disagreement and has justifiable reasons;\n(b) none of the parties has the technical conditions and capacity to participate in an online court hearing;\n(c) it is necessary to verify identities, check the originals or inspect physical objects at the scene of the court hearing;\n(d) the case is difficult and complex with numerous pieces of evidence, and the application of an online court hearing is not conducive to ascertaining the facts and applying the law;\n(e) the case involves national security or state secrets;\n(f) the case has significant social influence and has attracted widespread attention; or\n(g) the people's court finds that other circumstances exist in which an online court hearing is unsuitable.\nWhere, in the course of hearing a case by online court hearing, any of the above circumstances is found to exist, the people's court shall promptly transfer the hearing to offline conduct. The online court hearing activities already completed shall have legal effect.\nThe scope of application of and conditions for online inquiry shall be handled by reference to the relevant rules for online court hearing."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "For a case subject to an online court hearing, hearing activities such as pretrial preparation, court investigation and court debate shall be carried out in accordance with the relevant provisions of laws and judicial interpretations, and the procedural rights of the parties, such as the right to apply for challenge, present evidence, cross-examine evidence, make statements and debate, shall be protected."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a case requires service by public announcement, the people's court may specify in the announcement the specific mode of participating in the court hearing online or offline, and inform the parties of the right to choose an online court hearing. Where the party subject to the announcement has not, before the court hearing, indicated to the people's court consent to an online court hearing, the offline court hearing shall apply to that party. Other parties that consent to the application of an online court hearing may participate in the court hearing online."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "When carrying out court hearing activities online, the people's court shall set up an online courtroom with complete environmental elements. In the online courtroom, the national emblem shall be kept in a prominent position, and the names of the adjudicators and of the seats, among others, shall appear in reasonable areas of the video screen. Where, due to special circumstances, it is truly necessary to organise an online court hearing in a place other than the online courtroom, the consent of the president of the people's court shall be requested and reported.\nPersons appearing in court who participate in an online court hearing shall choose a place that is quiet, free from interference, well lit, has good network signals and is relatively enclosed, and shall not participate in the court hearing in a place that may affect the audio and video effect of the court hearing or impair the solemnity of the court hearing. Where necessary, the people's court may require persons appearing in court to participate in the online court hearing at a designated place."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Persons appearing in court who participate in an online court hearing shall respect judicial etiquette and observe court discipline. People's courts shall apply the relevant provisions of the Court Rules of the People's Courts of the People's Republic of China according to the characteristics of online court hearing.\nExcept for reasons that truly belong to network failures, equipment damage, power interruptions or force majeure, where a party fails to participate in an online court hearing without justifiable reasons, the party shall be deemed to have \"refused to appear in court\"; where a party withdraws from the court hearing without authorisation and fails to correct the conduct after being reminded and warned, the party shall be deemed to have \"withdrawn from court midway\", and the cases shall be handled respectively in accordance with the relevant provisions of laws and judicial interpretations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a witness appears in court by online means, the people's court shall, by designating an online appearance place or setting up an online testimony room, ensure that the witness does not audit the trial of the case and is not disturbed by others. Where a party raises an objection to the online appearance of the witness in court and has reasonable reasons, or the people's court finds it truly necessary, the witness shall be required to appear in court offline to testify.\nWhere an expert witness, a person conducting an inquest or a person with specialised knowledge appears in court by online means, the provisions of the preceding paragraph shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "For a case subject to an online court hearing, the court hearing activities shall be open to the public in accordance with the relevant provisions of laws and judicial interpretations.\nFor cases involving national security, state secrets or personal privacy, the court hearing process shall not be made public on the Internet. For civil cases involving minors, trade secrets or divorce, among others, where a party applies for a hearing not open to the public, the online court hearing process may not be made public on the Internet.\nWithout the consent of the people's court, no person may record, intercept or disseminate audio, video, graphic or textual materials concerning the online court hearing process in violation of laws or regulations."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an online litigation participant intentionally violates the provisions of Article 8, Article 24, Article 25, Article 26 or Article 27 of these Rules and commits an act disrupting the order of online litigation, the people's court may handle the matter in accordance with the relevant provisions of laws and judicial interpretations on the disruption of litigation."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "With the consent of the person to be served, the people's court may, through the service platform, serve litigation documents and evidence materials to electronic addresses of the person to be served, such as email addresses, instant messaging accounts and dedicated accounts of the litigation platform, in accordance with the relevant provisions of laws and judicial interpretations.\nWhere any of the following circumstances exists, the people's court may determine that the person to be served consents to electronic service:\n(a) the person to be served expressly indicates consent;\n(b) the person to be served has made an agreement or promise on the application of electronic service before the litigation;\n(c) the person to be served has proactively provided, in the submitted statement of claim, statement of appeal, application or statement of defence, an electronic address for receiving service; and\n(d) the person to be served has accepted the completed electronic service by means of replying acknowledging receipt or participating in litigation, and has not expressly indicated disagreement with electronic service."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "People's courts may, by means of telephone confirmation, online confirmation on the litigation platform or offline sending of a confirmation letter for electronic service, confirm whether the person to be served consents to electronic service and the specific mode and address for the person to receive electronic service, and inform the person of the scope of application and effect of electronic service, the mode of changing the service address and other matters relating to service that need to be informed."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a people's court serves documents at an electronic address proactively provided or confirmed by the person to be served, the service is effected when the service information reaches the system of the electronic address.\nWhere the person to be served has not provided or confirmed an effective electronic service address and the people's court serves documents at an electronic address that can be confirmed as belonging to the person to be served, whether the service takes effect shall be determined according to the following circumstances:\n(a) where the person to be served replies acknowledging receipt or has carried out the corresponding litigation acts according to the content of the service, effective service is completed;\n(b) where the system of the electronic address of the person to be served feeds back that the person has read and known the content, or there is other evidence proving that the person has received it, effective service is presumed to be completed, except where the person to be served can prove that circumstances exist in which the content of the service has not been received, such as a system error, the service address not being used by the person, or the content not having been read and known by the person.\nWhen carrying out electronic service, people's courts shall leave traces throughout the process in the system and produce electronic service vouchers. Electronic service vouchers have the effect of service receipts.\nWhere service materials of the same content are sent to the person to be served by multiple electronic means, the time of the first completed effective service shall be taken as the time when the service takes effect."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "When applying electronic service, people's courts may, by means of short messages, instant messaging tools or prompts on the litigation platform, notify the person to be served to review, receive and download the relevant service materials."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "For a case subject to online litigation, all litigation subjects may confirm and sign for mediation agreements, transcripts, electronic service vouchers and other litigation materials by means of online confirmation, electronic signatures or seals."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "For a case subject to online litigation, the people's court shall synchronously form electronic transcripts in litigation proceedings such as mediation, evidence exchange, court hearing and collegial deliberation. Electronic transcripts that have been checked and confirmed by online means shall have the same legal effect as written transcripts."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "For a case subject to online litigation, the people's court shall use technical means to synchronously generate electronic case files along with the case and form electronic archives. The filing, archiving, storage and use of electronic archives, among others, shall be carried out in accordance with the provisions of the relevant laws and regulations on archives administration.\nWhere a case has no paper materials or all paper materials have been converted into electronic materials, the people's court of first instance may use electronic case files instead of paper case files for the transfer of the case on appeal.\nWhere paper case file materials exist in a case subject to online litigation, they shall be filed, archived and preserved in accordance with the relevant laws and regulations on archives administration."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Proceedings such as online case filing, submission of electronic materials, enforcement settlement, inquiry of the parties and electronic service in execution adjudication cases shall be handled in accordance with the relevant provisions of these Rules.\nPeople's courts may, through systems for the investigation and control of property, online price enquiry and evaluation platforms, online auction platforms and credit discipline systems, among others, complete online such execution implementation proceedings as the ascertainment of property, sealing up, seizure, freezing, transfer and deduction, conversion of value and discipline."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "For criminal cases that fall under subparagraph (2) of Article 3 of these Rules, with the consent of the public prosecutor, the parties and the defender, interrogation of the defendant, hearing of the case in court and pronouncement of judgment, among others, may be carried out by online means according to the circumstances of the case.\nWhere a case is tried by online means, it shall be handled separately according to the following circumstances:\n(a) where the defendant or criminal is detained, the defendant or criminal may appear in court online at a detention place such as a detention house or prison;\n(b) where the defendant or criminal is not detained and, for special reasons, is truly unable to appear in court, the defendant or criminal may appear in court online at a place designated by the people's court; and\n(c) witnesses and expert witnesses shall generally appear in court offline, unless otherwise provided by laws and judicial interpretations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The relevant subjects participating in online litigation shall comply with the relevant laws and regulations on data security and personal information protection and perform the obligations of data security and personal information protection. Except for information that the people's court makes public in accordance with the law, no person may disclose, disseminate or use online litigation data and information in violation of laws or regulations. Where the above circumstances occur, the people's court may, according to the specific circumstances, investigate the legal responsibility of the relevant units and persons in accordance with the provisions of laws and judicial interpretations on data security, personal information protection and the disruption of litigation; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "These Rules shall enter into force on 1 August 2021. Where the provisions on online litigation in the judicial interpretations previously issued by the Supreme People's Court are inconsistent with these Rules, these Rules shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0004'] = {
+    "lawId": "CN-JI-0004",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 15 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For a suspected criminal case referred by an administrative law enforcement organ to a procuratorial organ, acceptance shall be handled uniformly by the complaints procuratorial department of the people's procuratorate.\nAfter accepting a suspected criminal case referred by an administrative law enforcement organ, the complaints procuratorial department of the people's procuratorate shall register it and assign two or more procuratorial personnel to conduct a preliminary examination."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In examining a suspected criminal case referred by an administrative law enforcement organ, the complaints procuratorial department of the people's procuratorate shall, in light of the different circumstances, put forward opinions on referring the case to the department concerned, submit them to the deputy chief procurator or the chief procurator in charge for approval within three days, and notify the referring administrative law enforcement organ:\n(a) where the case is not within the jurisdiction of the procuratorial organ, refer it to another organ with jurisdiction for handling;\n(b) where the case is within the jurisdiction of the procuratorial organ but not within the jurisdiction of the procuratorate concerned, refer it to the people's procuratorate with jurisdiction for handling;\n(c) where the case is within the jurisdiction of the procuratorate concerned, transfer it to the anti-embezzlement and bribery or the dereliction of duty and tort procuratorial department of that procuratorate for handling.\nWhere the nature of a case is unclear and it is difficult to assign it to a particular department, the complaints procuratorial department may first conduct the necessary investigation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a case is not within the jurisdiction of the procuratorate concerned but urgent measures must be taken, the complaints procuratorial department of the people's procuratorate shall, after obtaining the approval of the deputy chief procurator or the chief procurator in charge, take urgent measures first and then refer the case."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "For a suspected criminal case referred by an administrative law enforcement organ, the anti-embezzlement and bribery or the dereliction of duty and tort procuratorial department of the people's procuratorate shall examine whether the following materials are attached:\n(a) the letter of referral of the suspected criminal case;\n(b) the investigation report on the circumstances of the suspected criminal case;\n(c) the list of articles involved in the case;\n(d) the relevant inspection report or expert conclusion; and\n(e) other relevant materials concerning the suspected crime.\nThe people's procuratorate may require the administrative law enforcement organ that referred the case to supplement the above materials and evidence."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "For a suspected criminal case referred by an administrative law enforcement organ, where the people's procuratorate, after examination, considers that the conditions for filing a case are met, it shall promptly make a decision to file the case and notify the referring administrative law enforcement organ."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "For a suspected criminal case referred by an administrative law enforcement organ, where the people's procuratorate, after examination, considers that the conditions for filing a case are not met, it may make a decision not to file the case; where administrative disciplinary sanctions, administrative penalties or confiscation of unlawful gains need to be imposed on the responsible persons concerned, it may put forward procuratorial opinions, refer the matter to the competent department concerned for handling, and notify the referring administrative law enforcement organ."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the people's procuratorate makes a decision not to file a case, the administrative law enforcement organ that referred the suspected criminal case may, within five days from receipt of the written decision not to file the case, request the people's procuratorate that made the decision to conduct a reconsideration. The criminal appeal procuratorial department of the people's procuratorate shall assign specially designated persons to conduct the examination and shall make a reconsideration decision within seven days from receipt of the written opinion of the administrative law enforcement organ requesting reconsideration.\nWhere the administrative law enforcement organ is dissatisfied with the reconsideration decision, it may, within five days from receipt of the written reconsideration decision of the people's procuratorate, apply to the people's procuratorate at the next higher level for review. The people's procuratorate at the next higher level shall make a review decision within 15 days from receipt of the written opinion of the administrative law enforcement organ applying for review. Where the original decision not to file the case was erroneous, it shall be corrected promptly, and the people's procuratorate at the lower level that made the decision shall be notified to execute the correction."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For a case in which the people's procuratorate decides to file the case and conduct investigation, the people's procuratorate handling the case shall promptly notify the administrative law enforcement organ that referred the case of the decision to file the case and of the outcome of the handling."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the administrative law enforcement organ that referred a suspected criminal case objects to a public security organ's decision not to file the case or to a reconsideration decision upholding the non-filing, and recommends that the people's procuratorate conduct supervision over case filing in accordance with the law, the matter shall be handled uniformly by the investigation supervision department of the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The people's procuratorate shall, in accordance with the law, conduct supervision over case filing in respect of the handling by public security organs of suspected criminal cases referred by administrative law enforcement organs. Under any of the following circumstances, the people's procuratorate shall require the public security organ to reply in writing to the people's procuratorate with an explanation of the reasons for not filing the case within seven days from receipt of the people's procuratorate's Notice Requiring an Explanation of the Reasons for Not Filing a Case:\n(a) the people's procuratorate considers that the public security organ has not filed a case and conducted investigation although the case should be filed and investigated;\n(b) the victim considers that the public security organ has not filed a case and conducted investigation although the case should be filed and investigated, and raises the matter with the people's procuratorate; or\n(c) the administrative law enforcement organ that referred the suspected criminal case objects to the public security organ's decision not to file the case or to a reconsideration decision upholding the non-filing, and recommends that the people's procuratorate conduct supervision over case filing in accordance with the law.\nWhere the people's procuratorate considers that the reasons given by the public security organ for not filing the case are untenable, it shall notify the public security organ to decide to file the case within 15 days from receipt of the Notice to File a Case and to serve the written decision to file the case on the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the people's procuratorate considers that the reasons given by the public security organ for not filing the case are tenable, or where the people's procuratorate considers those reasons untenable and notified the public security organ to file the case and the public security organ has already filed it, the people's procuratorate shall promptly notify the administrative law enforcement organ that made the recommendation for supervision over case filing."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an administrative law enforcement organ fails to refer a suspected criminal case and any of the following circumstances exists, the people's procuratorate at any level may put forward procuratorial opinions:\n(a) the procuratorial organ discovers that the administrative law enforcement organ has failed to refer a suspected criminal case that should have been referred;\n(b) a unit or individual reports that the administrative law enforcement organ has failed to refer a suspected criminal case that should have been referred;\n(c) articles involved in the case are concealed or destroyed, or property involved in the case is privately distributed; or\n(d) an administrative penalty is substituted for criminal prosecution and the case is therefore not referred.\nWhere the administrative law enforcement personnel concerned are suspected of a crime, criminal responsibility shall be investigated in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a public security organ does not accept a suspected criminal case referred by an administrative law enforcement organ, or fails to make a decision to file or not to file the case within the prescribed time limit, and still does not accept the case or make the decision after the procuratorial organ has conducted supervision over case filing in accordance with the law, the people's procuratorate at any level may put forward procuratorial opinions to the public security organ.\nWhere the public security personnel concerned are suspected of a crime, criminal responsibility shall be investigated in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The Supreme People's Procuratorate shall strengthen guidance and supervision over the handling by local people's procuratorates at all levels, and people's procuratorates at higher levels over people's procuratorates at lower levels, of suspected criminal cases referred by administrative law enforcement organs; problems of handling not in accordance with the law and problems of violation of law or discipline in the course of handling shall be dealt with strictly in accordance with the relevant provisions; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "For suspected criminal cases referred by other organs and departments, people's procuratorates at all levels shall handle them in accordance with these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0005'] = {
+    "lawId": "CN-JI-0005",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 112 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the provisions of the Organic Law of the People's Procuratorates of the People's Republic of China, the Civil Procedure Law of the People's Republic of China, the Administrative Procedure Law of the People's Republic of China and other laws, and in the light of the actual work of the people's procuratorates, in order to regulate the performance by people's procuratorates of their procuratorial duties in public interest litigation and to strengthen the protection of the interests of the State and the public interest."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The task of people's procuratorates in handling public interest litigation cases is, through the independent exercise of procuratorial power in accordance with law, to urge administrative organs to perform their duties of supervision and administration in accordance with law, to support qualified subjects in exercising their right of action in the public interest in accordance with law, to safeguard the interests of the State and the public interest, to safeguard social fairness and justice, to safeguard the authority of the Constitution and the law, and to promote the modernisation of the State governance system and governance capacity."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In handling public interest litigation cases, people's procuratorates shall observe the Constitution, laws and relevant regulations, uphold an objective and impartial position, follow the basic principles and procedural provisions of the relevant litigation systems and adhere to judicial openness."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's procuratorates shall perform their procuratorial duties in public interest litigation by such means as making procuratorial recommendations, bringing actions and supporting actions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In handling public interest litigation cases, people's procuratorates shall have the procurator, the chief procurator and the procuratorial committee decide on case-handling matters within the scope of their respective functions and powers, and bear the corresponding judicial responsibility in accordance with the provisions.\n A procurator shall carry out work under the leadership of the chief procurator. Major case-handling matters shall be decided by the chief procurator. The chief procurator may, according to the circumstances of the case, submit them to the procuratorial committee for discussion and decision. Other case-handling matters may be decided by the chief procurator itself or by the procurator under authorisation.\n Legal documents drawn up and issued in the name of a people's procuratorate shall be signed and issued by the chief procurator; where a matter falls within the scope of the functions and powers of a procurator, the chief procurator may authorise the procurator to sign and issue them."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In handling public interest litigation cases, a people's procuratorate may, according to the circumstances of the case, have one procurator handle the case alone or form a case-handling group of two or more procurators to handle it. Where a procuratorial case-handling group handles the case, the chief procurator shall designate one procurator to serve as the principal procurator to organise and direct the group in handling the case.\n In handling cases, a procurator may, as required, be assisted by procuratorial auxiliary personnel such as procurator assistants, clerks, judicial police officers and procuratorial technical personnel. Procuratorial auxiliary personnel shall undertake the corresponding procuratorial auxiliary affairs in accordance with the provisions of law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The person in charge of the department responsible for public interest litigation shall supervise and manage the case-handling activities of that department. Matters requiring a decision of the chief procurator shall first be examined by the person in charge of the department. The person in charge of the department may preside over a joint meeting of procurators for discussion, or may directly submit the matter to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the chief procurator disagrees with the handling opinion of a procurator, it may require the procurator to review the matter, may directly make a decision, or may submit the matter to the procuratorial committee for discussion and decision.\n Where a procurator, in executing a decision of the chief procurator, considers the decision to be erroneous, it shall submit its opinion in writing. Where the chief procurator does not change the original decision, the procurator shall execute it."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In civil and administrative public interest litigation cases in which a people's procuratorate brings an action or supports an action, the department or case-handling organisation responsible for civil and administrative procuratorial work shall perform the duty of supervision over litigation respectively."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The Supreme People's Procuratorate shall lead the procuratorial work in public interest litigation of the local people's procuratorates at all levels and of the special people's procuratorates, and a people's procuratorate at a higher level shall lead the procuratorial work in public interest litigation of the people's procuratorate at a lower level.\n A people's procuratorate at a higher level has the power to revoke or modify a decision made by a people's procuratorate at a lower level; where it finds that a case handled by a people's procuratorate at a lower level is erroneous, it has the power to direct the people's procuratorate at the lower level to correct it.\n A people's procuratorate at a lower level shall execute a decision of the people's procuratorate at a higher level. If it considers the decision erroneous, it shall report the matter to the people's procuratorate at the higher level while executing it."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "People's procuratorates shall apply an integrated working mechanism in handling public interest litigation cases, and a people's procuratorate at a higher level may, according to the needs of case handling, assign cases, transfer cases for handling at a higher level, supervise the handling of cases and undertake the handling of cases.\n A people's procuratorate at a higher level may, in accordance with law, deploy procuratorial personnel within its jurisdiction in a unified manner to handle cases, and the decision on deployment shall be made in writing. The deployed procurators may, on behalf of the people's procuratorate handling the case, perform such duties as investigation and appearance in court."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In handling public interest litigation cases, people's procuratorates shall accept the supervision of people's supervisors in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In handling administrative public interest litigation cases, a people's procuratorate shall file and have jurisdiction over the case if it is at the same level as the administrative organ concerned.\n Where the administrative organ is a people's government and it is more appropriate for the people's procuratorate at the next higher level to have jurisdiction, that procuratorate may also file and have jurisdiction over the case."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Jurisdiction"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In handling civil public interest litigation cases, the basic-level people's procuratorate at the place where the unlawful act is committed, the place where the damage results occur or the place of domicile of the person committing the unlawful act shall file and have jurisdiction over the case.\n A criminal incidental civil public interest litigation case shall be filed and under the jurisdiction of the people's procuratorate handling the criminal case."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Jurisdiction"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A people's procuratorate at or above the level of a city with districts shall have jurisdiction over major and complex cases within its jurisdiction. Where the scope of harm to the public interest involves two or more administrative divisions, the public interest litigation case may be under the jurisdiction of the common people's procuratorate at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 Jurisdiction"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the level and territorial jurisdiction over case filing of a people's procuratorate do not correspond to the level and territorial jurisdiction of the people's court over the action, the people's procuratorate having jurisdiction may file the case, and where an action needs to be brought, it shall transfer the case to the people's procuratorate at the same level as the people's court having jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 Jurisdiction"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A people's procuratorate at a higher level may, according to the needs of case handling, designate another people's procuratorate within its jurisdiction to handle a public interest litigation case under the jurisdiction of a people's procuratorate at a lower level.\n The Supreme People's Procuratorate, a provincial people's procuratorate and a people's procuratorate at the level of a city with districts may, in accordance with the provisions of the cross-regional cooperation working mechanism, designate or transfer cases to the relevant people's procuratorates for jurisdiction across administrative divisions. A basic-level people's procuratorate may, in accordance with the provisions of the cross-regional cooperation working mechanism, transfer cases to the relevant people's procuratorates for jurisdiction across administrative divisions.\n Where people's procuratorates dispute jurisdiction, it shall be resolved through consultation between the procuratorates in dispute. Where consultation fails, the matter shall be reported to the common people's procuratorate at a higher level for designated jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 Jurisdiction"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a people's procuratorate at a higher level considers it truly necessary, it may handle a case under the jurisdiction of a people's procuratorate at a lower level, or may assign a case under its own jurisdiction to a people's procuratorate at a lower level for handling.\n Where a people's procuratorate at a lower level considers that a case needs to be handled by the people's procuratorate at a higher level, it may report the matter to the people's procuratorate at the higher level for decision."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 Jurisdiction"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where any of the following circumstances exists in respect of procuratorial personnel, they shall withdraw on their own initiative, and the parties and agents ad litem have the right to apply for their withdrawal:\n(a) they are close relatives of the legal representative or principal person in charge of the administrative organ in administrative public interest litigation, or of an agent ad litem, or have other relations that may affect the fair handling of the case;\n(b) they are close relatives of a party or an agent ad litem in civil public interest litigation, or have other relations that may affect the fair handling of the case.\n Where procuratorial personnel who should withdraw have not withdrawn on their own initiative and the parties and their agents ad litem have not applied for their withdrawal, the chief procurator or the procuratorial committee shall decide on their withdrawal.\n The provisions of the preceding two paragraphs shall apply to interpreters, appraisers, inspectors and the like."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Withdrawal"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where procuratorial personnel withdraw on their own initiative, they shall do so in writing or orally and state the reasons. Where the request is made orally, it shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Withdrawal"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a party or its agent ad litem applies for withdrawal, it shall do so in writing or orally and state the reasons. Where the application is made orally, it shall be recorded in the file.\n The person whose withdrawal is applied for shall not cease to participate in the work of the case before the people's procuratorate makes a decision on whether to withdraw."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Withdrawal"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The withdrawal of the chief procurator shall be discussed and decided by the procuratorial committee; the withdrawal of procuratorial personnel and other personnel shall be decided by the chief procurator. When the procuratorial committee discusses the withdrawal of the chief procurator, the deputy chief procurator shall preside."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Withdrawal"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A people's procuratorate shall, within three days after receiving an application for withdrawal submitted by a party, make a decision and notify the applicant. Where the applicant is dissatisfied with the decision, it may, upon receipt of the decision, apply once for reconsideration to the organ that made the decision. The people's procuratorate shall make a reconsideration decision within three days and notify the applicant for reconsideration. During the period of reconsideration, the person whose withdrawal is applied for shall not cease to participate in the work of the case."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Withdrawal"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The sources of clues to public interest litigation cases include:\n(a) complaints and reports made by natural persons, legal persons and unincorporated organisations to people's procuratorates;\n(b) clues discovered by people's procuratorates in the course of handling cases;\n(c) clues discovered on information-sharing platforms for administrative enforcement;\n(d) clues referred by State organs, social organisations, deputies to people's congresses, members of people's political consultative conferences and the like;\n(e) clues reflected by the news media, public opinion and the like;\n(f) other clues discovered in the performance of duties."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 3 Case Filing"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "People's procuratorates shall apply a unified system of registration and recording for the management of clues to public interest litigation cases. Clues to major cases shall be recorded with the people's procuratorate at a higher level.\n Where another department of a people's procuratorate discovers a clue to a public interest litigation case, it shall promptly transfer the relevant materials to the department responsible for public interest litigation."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Case Filing"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a people's procuratorate finds that a clue to a public interest litigation case does not fall within its jurisdiction, it shall draw up a Notice of Transfer of Case Clue and transfer it to the people's procuratorate at the same level having jurisdiction, and the people's procuratorate to which it is transferred shall accept it. Where the people's procuratorate to which it is transferred considers that the case does not fall within its jurisdiction, it shall report to the people's procuratorate at a higher level and may not return the clue to the people's procuratorate that transferred it or transfer it to another people's procuratorate on its own.\n Where a people's procuratorate finds that a clue to a public interest litigation case falls within the jurisdiction of the people's procuratorate at a higher level, it shall draw up an Opinion on Requesting Transfer of Case Clue and request the people's procuratorate at the higher level to transfer the case."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Case Filing"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A people's procuratorate shall assess the authenticity and verifiability of clues to public interest litigation cases, may conduct a preliminary investigation where necessary, and shall produce a Preliminary Investigation Report."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Case Filing"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where, after assessment, a people's procuratorate considers that the interests of the State or the public interest have been harmed and that an unlawful act may exist, it shall file the case for investigation."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Case Filing"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the interests of the State or the public interest have been seriously harmed and, after preliminary investigation, it remains difficult for a people's procuratorate to determine the administrative organ that has failed to perform its duties of supervision and administration in accordance with law or the person committing the unlawful act, it may also file the case for investigation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Case Filing"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a procurator, after assessing a case clue, proposes to file or not to file a case, it shall draw up a Case Filing Approval Form and, where a preliminary investigation has been conducted, attach the Preliminary Investigation Report, and shall, after requesting a decision of the chief procurator, draw up a Decision to File a Case or a Decision Not to File a Case."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Case Filing"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where, in the course of handling a public interest litigation case, the department responsible for public interest litigation discovers clues to a suspected crime or to an occupational violation of law or of discipline, it shall, in accordance with the provisions, transfer them to the relevant procuratorial business department of the same procuratorate or to another competent organ having jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Case Filing"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In handling public interest litigation cases, people's procuratorates shall investigate and collect evidence in accordance with law, objectively and comprehensively."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Before investigation, a people's procuratorate shall draw up an investigation plan determining the line of investigation, the methods, the steps and the list of evidence to be collected and the like."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Evidence in public interest litigation cases handled by people's procuratorates includes documentary evidence, physical evidence, audio-visual materials, electronic data, witness testimony, statements of parties, appraisal opinions, expert opinions, records of inspection and the like."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "In handling public interest litigation cases, people's procuratorates may carry out investigation and collect evidence by the following means:\n(a) consulting, obtaining and reproducing the relevant enforcement and litigation files and materials;\n(b) questioning staff of administrative organs, persons committing unlawful acts, administrative counterparts, interested persons, witnesses and the like;\n(c) collecting documentary evidence, physical evidence, audio-visual materials, electronic data and other evidence from the relevant units and individuals;\n(d) consulting professional personnel, the relevant departments or trade associations and the like on specialised issues;\n(e) commissioning appraisal, valuation, audit, inspection, testing and translation;\n(f) inspecting physical evidence and scenes;\n(g) other necessary means of investigation.\n In conducting investigation and collecting evidence, people's procuratorates may not adopt compulsory measures such as restricting personal freedom or sealing up, seizing or freezing property."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Investigation and collection of evidence by a people's procuratorate shall be carried out jointly by two or more procuratorial personnel. The procurator may arrange for judicial police officers and procuratorial technical personnel to participate and, where necessary, may designate or engage other persons with specialised knowledge to participate. According to the actual circumstances of the case, the people's procuratorate may also request the relevant units to assist.\n In the course of investigation and collection of evidence, procuratorial personnel may, in accordance with the relevant provisions, use case-handling equipment such as law enforcement recorders and automatic detectors and technical means such as aerial photography by unmanned aerial vehicles and satellite remote sensing."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Questioning shall be conducted individually. Before questioning, procuratorial personnel shall produce their work certificates, and shall make a Record of Questioning in the course of questioning. The person questioned shall sign or seal it after confirming that it is correct. Where the person questioned refuses to sign or seal it, this shall be noted in the record."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where physical evidence or documentary evidence needs to be obtained from a relevant unit or individual, a Notice of Obtaining Evidence and a List of Evidence Obtained shall be drawn up, and the relevant evidentiary materials shall be obtained on the strength of the above documents.\n Documentary evidence shall be obtained in the original; where there is genuine difficulty in obtaining the original or the original cannot be obtained owing to confidentiality requirements, a copy may be obtained. Where documentary evidence is a copy, the person obtaining it, the person providing it, the time of obtaining and the source of the evidence shall be stated, together with the words \"this copy has been checked against the original and is identical\", and it shall be signed and sealed. Where the documentary evidence has many pages, a perforation seal shall be affixed.\n Physical evidence shall be obtained in the original object; where there is genuine difficulty in obtaining the original object, other evidentiary materials such as photographs, video recordings or reproductions that sufficiently reflect the appearance or content of the original object may be obtained."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A people's procuratorate shall collect and extract the original storage medium of audio-visual materials and electronic data; where there is genuine difficulty in obtaining the original storage medium or it cannot be obtained owing to confidentiality requirements, a copy may be obtained. Where a copy is obtained, its source and the process of its creation shall be stated.\n Where a people's procuratorate collects and extracts audio-visual materials and electronic data itself, it shall state the time and place of collection, the collecting personnel and other circumstances requiring explanation."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A people's procuratorate may seek the opinions of the relevant professional personnel, the relevant departments or trade associations on specialised issues in writing or orally.\n Where the consultation is oral, a record shall be made and signed or sealed by the professional personnel consulted. Where the consultation is in writing, it shall be signed and sealed by the professional personnel or the entity issuing the consultation opinion."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a people's procuratorate considers it truly necessary to conduct appraisal, valuation, audit, inspection, testing or translation in respect of a specialised issue, it may commission an institution with the relevant qualification to do so, and shall draw up a Letter of Commission for Appraisal (Valuation, Audit, Inspection, Testing, Translation) when making the commission."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a people's procuratorate considers it truly necessary, it may inspect physical evidence or a scene.\n Inspection shall be conducted under the chairmanship of a procurator by two or more procuratorial personnel, and witnesses may be invited to participate. Where necessary, persons with specialised knowledge may be designated or engaged to conduct it. A record shall be made of the circumstances and results of the inspection, and it shall be signed or sealed by the personnel participating in the inspection and the witnesses.\n Procuratorial technical personnel may, in accordance with the relevant provisions, take samples and conduct rapid testing in the course of inspection."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a people's procuratorate handling a public interest litigation case needs to investigate and collect evidence in another place, it may do so itself or commission the people's procuratorate at the same level in that place to do so. When making the commission, it shall issue a letter of commission stating the persons to be investigated, the matters and the requirements. The commissioned people's procuratorate shall complete the investigation within thirty days from the date of receipt of the letter of commission and reply to the commissioning people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A people's procuratorate may, in accordance with the provisions, organise a hearing to hear the opinions of the hearing officers, administrative organs, persons committing unlawful acts, administrative counterparts, representatives of victims and other relevant parties, and to learn about the relevant circumstances.\n The written materials produced by a hearing shall be an important reference for the people's procuratorate in handling the public interest litigation case in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an administrative organ or its staff refuse or obstruct the investigation and collection of evidence by a people's procuratorate, the people's procuratorate may report the matter to the standing committee of the people's congress at the same level, notify the discipline inspection and supervision organ at the same level, or notify the competent authority at a higher level through the people's procuratorate at a higher level."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 4 Investigation"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A people's procuratorate shall, in accordance with law, bring an action before a people's court in respect of a public interest litigation case that meets the conditions for bringing an action.\n Where a people's procuratorate brings a public interest litigation action, it shall submit to the people's court a statement of claim in public interest litigation and the relevant evidentiary materials. The main content of the statement of claim includes:\n(a) the public interest litigation plaintiff;\n(b) the basic information of the defendant;\n(c) the claims and the facts and grounds on which they are based.\n The statement of claim in public interest litigation shall be reported to the people's procuratorate at a higher level for the record within five days from the date of service on the people's court."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 5 Bringing of an Action"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "In handling an administrative public interest litigation case, the period for reviewing the bringing of the action shall be one month, calculated from the date of expiry of the period for rectification specified in the procuratorial recommendation.\n In handling a civil public interest litigation case, the period for reviewing the bringing of the action shall be three months, calculated from the date of expiry of the period of public announcement.\n Where a case is transferred to another people's procuratorate for the bringing of the action, the period for reviewing the bringing of the action of the people's procuratorate to which it is transferred shall be calculated from the date of receipt of the case.\n Where the period for reviewing the bringing of the action needs to be extended in a major, difficult or complex case, the period may be extended by one month with the approval of the chief procurator in an administrative public interest litigation case, and where a further extension is needed, it shall be reported to the people's procuratorate at a higher level for approval, and where the people's procuratorate at the higher level considers that the conditions for bringing the action have already been met, it may designate another people's procuratorate within its jurisdiction to bring the action in accordance with the provisions of Article 17 of these Rules. In a civil public interest litigation case, the period may be extended by one month with the approval of the chief procurator, and where a further extension is needed, it shall be reported to the people's procuratorate at a higher level for approval."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 5 Bringing of an Action"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "In handling public interest litigation cases, the period during which appraisal, valuation, audit, inspection, testing or translation is commissioned by a people's procuratorate shall not be counted in the period for reviewing the bringing of the action."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 5 Bringing of an Action"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "In a case in which a people's procuratorate brings a public interest litigation action, it shall send personnel to appear in court to perform duties and participate in the relevant litigation activities.\n A people's procuratorate shall, within three days from the date of receipt of the notice of the people's court to appear in court, submit to the people's court a Notice of Appearance of Personnel. The Notice of Appearance of Personnel shall state the names and legal positions of the personnel appearing in court and the duties to be performed on appearance.\n A people's procuratorate shall designate a procurator to appear before the court of first instance; procurator assistants may assist the procurator in court, and clerks shall be provided as required to take records and perform other auxiliary work. Where specialised or technical issues are involved, persons with specialised knowledge may be designated or engaged to assist the procurator in court."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a people's court notifies a people's procuratorate to send personnel to participate in the exchange of evidence or a pre-trial conference, the procuratorial personnel appearing in court shall participate. Where a people's procuratorate considers it necessary, it may request the people's court to organise an exchange of evidence or convene a pre-trial conference."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Procuratorial personnel appearing in court shall perform the following duties:\n(a) reading out the statement of claim in public interest litigation;\n(b) producing and explaining the evidence investigated and collected by the people's procuratorate and cross-examining the relevant evidence;\n(c) participating in the court investigation and the debate and expressing opinions at the hearing;\n(d) engaging in other litigation activities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Procuratorial personnel appearing in court shall produce evidence to the court objectively and comprehensively. They shall reasonably arrange the order of adducing evidence according to the course of the hearing, list evidence by groups and may use multimedia and other means of demonstrating evidence. Cross-examination shall be conducted around the authenticity, legality and relevance of the evidence."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Procuratorial personnel appearing in court shall comply with the following requirements when putting questions to the defendant, witnesses, appraisers, inspectors and the like:\n(a) questions shall be put around the basic facts of the case and the issues in dispute;\n(b) questions shall be mutually supportive with the evidence investigated and collected;\n(c) language and methods involving personal attacks or threats may not be used."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Procuratorial personnel appearing in court may apply to the people's court to notify witnesses, appraisers and persons with specialised knowledge to appear in court to testify or to give opinions."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, during the court hearing, procuratorial personnel appearing in court find that supplementary investigation is required, they may conduct it after the court is adjourned."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Procuratorial personnel appearing in court shall, when participating in the court debate, express their debating opinions in the light of the court investigation and around the issues in dispute between the parties concerning the facts, the evidence and the application of law and other aspects."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Procuratorial personnel appearing in court shall, in the light of the course of the hearing, express their opinions at the hearing objectively and impartially."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 6 Attendance at the Court of First Instance"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "A people's procuratorate shall, within three days after receiving the judgment or ruling of first instance in a public interest litigation case from the people's court, report it to the people's procuratorate at a higher level for the record.\n Where a people's procuratorate considers that the judgment or ruling of first instance in a public interest litigation case is indeed erroneous, it shall bring an appeal.\n The decision to bring an appeal shall be made by the people's procuratorate that brought the action. The people's procuratorate at a higher level shall conduct a simultaneous review and give guidance."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 7 Appeal"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a people's procuratorate brings an appeal, it shall draw up a statement of appeal in public interest litigation. The main content of the statement of appeal in public interest litigation includes:\n(a) the public interest litigation appellant;\n(b) the basic information of the appellee;\n(c) the name of the people's court of original trial, the case number and the cause of action;\n(d) the appeal requests and the facts and grounds."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 7 Appeal"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "A people's procuratorate shall, within the period for appeal, submit the statement of appeal in public interest litigation to the people's court at the next higher level through the people's court of original trial, and shall report a copy together with the relevant evidentiary materials to the people's procuratorate at the higher level."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 7 Appeal"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the people's procuratorate at a higher level considers an appeal to be improper, it shall direct the people's procuratorate at the lower level to withdraw it.\n Where, within the period for appeal, the people's procuratorate at a higher level finds that a people's procuratorate at a lower level should have appealed but did not, it shall direct the people's procuratorate at the lower level to bring an appeal in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 7 Appeal"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where the defendant is dissatisfied with the judgment or ruling of first instance in a public interest litigation case and appeals, the people's procuratorate shall, within three days after receiving a copy of the statement of appeal, report it to the people's procuratorate at a higher level, and the people's procuratorate that brought the action and the people's procuratorate at the higher level shall comprehensively review the case file materials."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 7 Appeal"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "In an appeal case in which the people's court decides to hold a hearing, the people's procuratorate that brought the action and the people's procuratorate at a higher level shall jointly send personnel to appear before the court of second instance.\n The people's procuratorate shall, before appearing before the court of second instance, submit to the people's court a Notice of Appearance of Personnel stating the names and legal positions of the procuratorial personnel appearing in court and the duties to be performed on appearance."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 7 Appeal"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where the Supreme People's Procuratorate finds that a legally effective judgment or ruling in a public interest litigation case of a people's court at any level, or a people's procuratorate at a higher level finds that such a judgment or ruling of a people's court at a lower level, is indeed erroneous and harms the interests of the State or the public interest, it shall lodge a protest in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Litigation"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "In a retrial case of public interest litigation in which the people's court decides to hold a hearing, the people's procuratorate at the same level as the people's court shall send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Litigation"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a people's procuratorate finds that the trial procedure of a people's court in a public interest litigation case violates the provisions of law, or that judicial personnel have committed the unlawful acts provided for in Article 46 of the Judges Law of the People's Republic of China, which may affect the fair trial or enforcement of the case, or that the people's court fails to refer a public interest litigation case for enforcement in accordance with law after the judgment takes effect or that enforcement activities violate the provisions of law, it shall make a procuratorial recommendation to the people's court at the same level in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 8 Supervision over Litigation"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where, after assessing a clue to an administrative public interest litigation case, a people's procuratorate considers that the following circumstances exist concurrently, it shall file the case:\nthe interests of the State or the public interest have been harmed;\n(b) an administrative organ with duties of supervision and administration for the protection of the interests of the State or the public interest in fields such as ecological and environmental protection and resource conservation, food and drug safety, protection of State-owned property, grant of the right to use State-owned land and protection of minors may have exercised its functions and powers unlawfully or failed to act."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "A people's procuratorate shall file a case in any of the following circumstances that meets the provisions of Article 67 of these Rules:\n(a) in respect of an administrative decision made by an administrative organ, the administrative organ has the power of compulsory enforcement but delays in exercising it, or does not have the power of compulsory enforcement but delays in applying to the people's court for compulsory enforcement;\n(b) in the course of compulsory enforcement by the people's court, the administrative organ unlawfully disposes of the object of enforcement;\n(c) in accordance with local provisions on the separation of adjudication and enforcement, the people's court assigns a case of administrative compulsory enforcement to an administrative organ having the power of compulsory enforcement for enforcement, and the administrative organ fails to perform its duties in accordance with law;\n(d) other circumstances in which an administrative organ exercises its functions and powers unlawfully or fails to act in the course of administrative compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where, in respect of the same harmful consequence to the interests of the State or the public interest, several administrative organs with different duties of supervision and administration may all have failed to perform their duties in accordance with law, a people's procuratorate may file cases against those administrative organs separately.\n Where, before filing a case, a people's procuratorate finds that the same administrative organ may have failed to perform its duties in accordance with law in respect of several unlawful acts of the same nature, it shall file one case. Where, before issuing a procuratorial recommendation, it discovers other unlawful acts of the same nature, it shall deal with them together with the case already filed."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a people's procuratorate decides to file a case, it shall, within seven days, serve the Decision to File a Case on the administrative organ, and may hold consultations on matters such as whether the administrative organ has exercised its functions and powers unlawfully or failed to act, the consequences of the harm to the interests of the State or the public interest, and the rectification plan.\n Consultations may be conducted by holding consultation meetings, sending statements of confirmation of facts to the administrative organ and other means, and written materials such as meeting records or minutes shall be produced."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "In handling administrative public interest litigation cases, people's procuratorates shall investigate the following matters:\n(a) the facts of the harm to the interests of the State or the public interest;\n(b) the duties of supervision and administration of the administrative organ;\n(c) the acts of the administrative organ in failing to perform its duties in accordance with law;\n(d) the connection between the acts of the administrative organ in failing to perform its duties in accordance with law and the harm to the interests of the State or the public interest;\n(e) other matters requiring ascertainment."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The basis on which a people's procuratorate determines the duties of supervision and administration of an administrative organ shall be laws, regulations and rules, and reference may be made to the \"three fixings\" plan, the list of powers and the list of responsibilities of the administrative organ and the like."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Upon conclusion of the investigation, the procurator shall draw up a Report on Conclusion of Investigation and propose the following handling opinions according to the circumstances:\n(a) to conclude the case;\n(b) to make a procuratorial recommendation."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where, after investigation, a people's procuratorate considers that any of the following circumstances exists, it shall make a decision to conclude the case:\n(a) the administrative organ has not exercised its functions and powers unlawfully or failed to act;\n(b) the interests of the State or the public interest have already been effectively protected;\n(c) the administrative organ has already taken comprehensive rectification measures and performed its duties in accordance with law;\n(d) other circumstances in which the case should be concluded.\n Where a case is to be concluded, the matter shall be reported to the chief procurator for decision, and a Decision to Conclude the Case shall be drawn up and served on the administrative organ."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where, after investigation, a people's procuratorate considers that an administrative organ has failed to perform its duties in accordance with law, causing harm to the interests of the State or the public interest, it shall report the matter to the chief procurator for a decision to make a procuratorial recommendation to the administrative organ, and shall report it to the people's procuratorate at a higher level for the record within five days from the date of service of the Procuratorial Recommendation.\n The Procuratorial Recommendation shall include the following content:\n(a) the name of the administrative organ;\n(b) the source of the case;\n(c) the facts of the harm to the interests of the State or the public interest;\n(d) the facts and grounds for determining that the administrative organ has failed to perform its duties in accordance with law;\n(e) the legal basis for making the procuratorial recommendation;\n(f) the specific content of the recommendation;\n(g) the period for rectification by the administrative organ;\n(h) other matters requiring explanation.\n The content of the recommendation in the Procuratorial Recommendation shall be consistent with the claims of the administrative public interest litigation that may be brought."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a people's procuratorate decides to make a procuratorial recommendation, it shall serve the Procuratorial Recommendation on the administrative organ within three days.\n Where the administrative organ refuses to sign for receipt, this shall be recorded on the receipt of service, the Procuratorial Recommendation shall be left at its place of domicile, and the process of service may be recorded by photographing or video recording.\n A people's procuratorate may serve a Procuratorial Recommendation on an administrative organ by way of pronouncement and, where necessary, may invite deputies to people's congresses, members of people's political consultative conferences, people's supervisors and the like to participate."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "After making a procuratorial recommendation, a people's procuratorate shall carry out follow-up investigation into the performance of duties by the administrative organ and the harm to the interests of the State or the public interest, and collect the relevant evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where, within the rectification period provided for by law or judicial interpretation, an administrative organ has already made an administrative decision or formulated a rectification plan in accordance with law, but cannot complete rectification in full owing to objective reasons such as emergencies, and there is no delay in the performance of its duties of supervision and administration, a people's procuratorate may suspend the review.\n Where the review is suspended, the matter shall be approved by the chief procurator, a Decision to Suspend Review shall be drawn up, and it shall be reported to the people's procuratorate at a higher level for the record. After the reasons for the suspension of review are eliminated, the review shall be resumed and a Decision to Resume Review shall be drawn up."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "After follow-up investigation, the procurator shall draw up a Report on Conclusion of Review and propose the following handling opinions according to the circumstances:\n(a) to conclude the case;\n(b) to bring an administrative public interest litigation action;\n(c) to transfer the case to another people's procuratorate for handling."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where, upon review, a people's procuratorate finds that any of the circumstances provided for in paragraph 1 of Article 74 of these Rules exists, it shall conclude the case."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where an administrative organ, despite the urging of a procuratorial recommendation, still fails to perform its duties in accordance with law and the interests of the State or the public interest remain harmed, the people's procuratorate shall bring an administrative public interest litigation action in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 3 Bringing of an Action"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "A people's procuratorate may determine that an administrative organ has failed to perform its duties in accordance with law in any of the following circumstances:\nit fails to reply to the procuratorial recommendation within the time limit and has not taken effective rectification measures;\n(b) it has formulated rectification measures but has not implemented them substantively;\n(c) it replies on time but has not taken rectification measures or has taken only partial rectification measures;\n(d) the person committing the unlawful act has already been investigated for criminal responsibility or the case has already been transferred to the criminal judicial organ for handling, but the administrative organ should still continue to perform its duties in accordance with law;\n(e) objective obstacles make it difficult to implement the rectification plan on time, but rectification is not resumed promptly after the objective obstacles are eliminated;\n(f) the rectification measures violate the provisions of laws and regulations;\n(g) other circumstances of failure to perform duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 3 Bringing of an Action"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "A people's procuratorate may, according to the different unlawful circumstances of the administrative organ, submit to the people's court claims such as confirming that the administrative act is unlawful or void, revoking or partially revoking the unlawful administrative act, performing statutory duties in accordance with law, and modifying the administrative act.\n A claim for the performance of statutory duties in accordance with law shall not state matters whereby the administrative counterpart bears specific obligations or has specific rights and interests reduced."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 3 Bringing of an Action"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where, in the course of the trial of an administrative public interest litigation case, the administrative organ has already performed its duties in accordance with law and all the claims have been satisfied, the people's procuratorate may withdraw the action. Where truly necessary, the people's procuratorate may modify its claims and request a judgment confirming that the administrative act is unlawful.\n Where a people's procuratorate decides to withdraw the action or modify its claims, it shall, after a decision of the chief procurator, draw up a Decision to Withdraw the Action or a Decision to Modify the Claims and submit it to the people's court within three days."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 3 Bringing of an Action"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where, after assessing a clue to a civil public interest litigation case, a people's procuratorate considers that the following circumstances exist concurrently, it shall file the case:\n(a) the public interest has been harmed;\n(b) unlawful acts may exist that harm the public interest, such as damaging ecological and environmental protection and resource conservation, infringing the lawful rights and interests of numerous consumers in the field of food and drug safety, infringing the lawful rights and interests of minors, or infringing the name, likeness, reputation or honour of heroes and martyrs and the like."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "After filing a case, a people's procuratorate shall investigate the following matters:\n(a) the basic information of the person committing the unlawful act;\n(b) the acts harming the public interest committed by the person committing the unlawful act;\n(c) the type and specific amount of the harm to the public interest, or the restoration costs and the like;\n(d) the causal relationship between the unlawful act and the harmful consequences;\n(e) the subjective fault of the person committing the unlawful act;\n(f) whether there are relevant facts exempting or mitigating the liability of the person committing the unlawful act;\n(g) other matters requiring ascertainment.\n In a case such as environmental pollution or ecological damage in which the person committing the unlawful act should bear the burden of proof in accordance with law as to its non-liability or mitigated liability and as to the absence of a causal relationship between its act and the harmful consequences, the investigation may focus on items (a), (b) and (c) and on the connection between the unlawful act and the harmful consequences."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a people's procuratorate handles a civil public interest litigation case involving a criminal offence, it may, in the course of the commissioned appraisal and valuation in the criminal case, simultaneously raise the needs of appraisal and valuation for the handling of the public interest litigation case."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Evidentiary materials collected in accordance with law in a criminal investigation may be used as evidence in a civil public interest litigation case brought on the basis of the same unlawful facts."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Upon conclusion of the investigation, the procurator shall draw up a Report on Conclusion of Investigation and propose the following handling opinions according to the circumstances:\n(a) to conclude the case;\n(b) to issue a public announcement."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where, after investigation, a people's procuratorate finds any of the following circumstances, it shall conclude the case:\n(a) no unlawful act exists;\n(b) the holder of the right to compensation for ecological and environmental damage and the obligor of compensation have reached a compensation agreement through consultation, or an action for compensation for ecological and environmental damage has already been brought;\n(c) the close relatives of heroes and martyrs and the like do not agree to the people's procuratorate bringing a public interest litigation action;\n(d) another qualified subject has brought an action before a people's court in accordance with law;\n(e) the public interest has already been effectively protected;\n(f) other circumstances in which the case should be concluded.\n The exceptions are cases in which any of items (b), (c) and (d) of the preceding paragraph exists and the people's procuratorate supports the action.\n Where a case is to be concluded, the matter shall be reported to the chief procurator for decision, and a Decision to Conclude the Case shall be drawn up."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 1 Case Filing and Investigation"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where, after investigation, a people's procuratorate considers that the public interest has been harmed and that unlawful acts exist, it shall issue a public announcement in accordance with law. The announcement shall include the following content:\n(a) the facts of the harm to the public interest;\n(b) informing qualified subjects that they may bring an action before a people's court and, in a case meeting the conditions for initiating the procedure for compensation for ecological and environmental damage, informing the holder of the right to compensation to initiate that procedure;\n(c) the period of the public announcement;\n(d) the contact person and contact telephone number;\n(e) the entity issuing the announcement and the date.\n The announcement shall be published in media with national influence, and the period of public announcement shall be thirty days."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 2 Announcement"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "In handling a civil public interest litigation case concerning infringement of the name, likeness, reputation or honour of heroes and martyrs and the like, a people's procuratorate may directly seek the opinions of the close relatives of the heroes and martyrs and the like. Where the number of heroes and martyrs and the like whose rights have been infringed is large and it is difficult to identify their close relatives, or where there is genuine difficulty in directly seeking the opinions of their close relatives, the opinions of the close relatives of the heroes and martyrs and the like may also be sought by way of public announcement."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 2 Announcement"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "After issuing a public announcement, a people's procuratorate shall carry out follow-up investigation into the initiation of the procedure for compensation for ecological and environmental damage by the holder of the right to compensation, the bringing of actions by qualified subjects, the bringing of civil actions by the close relatives of heroes and martyrs and the like, and the harm to the public interest, and shall collect the relevant evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 2 Announcement"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "After follow-up investigation, the procurator shall draw up a Report on Conclusion of Review and propose the following handling opinions according to the circumstances:\n(a) to conclude the case;\n(b) to bring a civil public interest litigation action;\n(c) to transfer the case to another people's procuratorate for handling."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 2 Announcement"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where, upon review, a people's procuratorate finds that any of the circumstances provided for in Article 90 of these Rules exists, it shall conclude the case."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 2 Announcement"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where any of the following circumstances exists and the public interest remains harmed, the people's procuratorate shall bring a civil public interest litigation action:\n(a) the holder of the right to compensation for ecological and environmental damage has not initiated the procedure for compensation for ecological and environmental damage, or no agreement has been reached through consultation and the holder of the right to compensation does not bring an action;\n(b) there is no qualified subject, or the qualified subject does not bring an action upon expiry of the period of public announcement;\n(c) heroes and martyrs and the like have no close relatives, or their close relatives do not bring an action."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 3 Bringing of an Action"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a people's procuratorate institutes a public prosecution in a criminal case, it may, in respect of unlawful acts harming the public interest such as damaging ecological and environmental protection and resource conservation, infringing the lawful rights and interests of numerous consumers in the field of food and drug safety, infringing the lawful rights and interests of minors, or infringing the name, likeness, reputation or honour of heroes and martyrs and the like, bring a criminal incidental civil public interest litigation action before the people's court."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 3 Bringing of an Action"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "A people's procuratorate may submit to the people's court claims requiring the defendant to cease the infringement, remove the obstruction, eliminate the danger, restore the original state and compensate for losses.\n For cases in different fields, the following claims may also be submitted:\n(a) in a case in the field of ecological and environmental protection and resource conservation, claims may be submitted requiring the defendant to restore the ecological environment by means such as replanting and regreening, release of bred fry and land reclamation, or to pay the costs of restoring the ecological environment and compensate for the losses caused by the loss of service functions during the period from the harm to the ecological environment until the completion of restoration and for the losses caused by permanent damage to ecological environment functions; where the defendant, in violation of the provisions of law, intentionally pollutes the environment or damages the ecology, causing serious consequences, claims such as punitive damages may be submitted;\n(b) in a case in the field of food and drug safety, claims may be submitted requiring the defendant to recall and dispose of the relevant food and drugs in accordance with law and to bear the relevant expenses and punitive damages;\n(c) in a case concerning protection of the name, likeness, reputation or honour of heroes and martyrs and the like, claims may be submitted requiring the defendant to eliminate the effects, restore reputation and apologise.\n The expenses incurred by a people's procuratorate for the litigation, such as appraisal and valuation and expert consultation, may be included in the claims submitted at the time of bringing the action as expenses to be borne by the defendant."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 3 Bringing of an Action"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "A civil public interest litigation case may be mediated under the chairmanship of the people's court in accordance with law. A mediation agreement may not reduce or exempt the civil liability stated in the claims, and may not harm the public interest.\n Where all the claims have been satisfied, the people's procuratorate may withdraw the action. Where a people's procuratorate decides to withdraw the action, it shall, after a decision of the chief procurator, draw up a Decision to Withdraw the Action and submit it to the people's court within three days."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 3 Bringing of an Action"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "A people's procuratorate may support the bringing of an action in the following cases:\na case of an action for compensation for ecological and environmental damage brought by the holder of the right to compensation for ecological and environmental damage;\na civil public interest litigation case brought by a qualified subject;\na civil action brought by the close relatives of heroes and martyrs and the like to protect the name, likeness, reputation or honour of the heroes and martyrs and the like;\n(d) a civil action brought by servicemen and the bereaved family members of servicemen who died in the performance of duty or of servicemen who died of illness in respect of infringement of the honour, reputation and other relevant lawful rights and interests of servicemen;\n(e) other public interest litigation cases in which the bringing of an action may be supported in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 4 Support for the Action"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "A people's procuratorate may support the bringing of an action by providing legal advice, submitting an opinion supporting the bringing of the action to the people's court, assisting in investigation and the collection of evidence, and appearing in court."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 4 Support for the Action"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where, after submitting an opinion supporting the bringing of the action to the people's court, a people's procuratorate finds any of the following circumstances making support for the action inappropriate, it may withdraw its support:\n(a) the plaintiff modifies or withdraws part of its claims without legitimate reason, so that the public interest cannot be effectively protected;\n(b) the plaintiff withdraws the action or reaches a settlement agreement with the defendant, so that the public interest cannot be effectively protected;\n(c) the lawyers' fees and other litigation expenses claimed by the plaintiff from the defendant are excessively high, producing a manifestly adverse effect on the protection of the public interest;\n(d) other circumstances making support for the action inappropriate.\n Where a people's procuratorate withdraws its support for the action, it shall draw up a Decision to Withdraw Support for the Action, submit it to the people's court within three days and send it to the plaintiff."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 4 Support for the Action"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where, after withdrawing its support for the action, a people's procuratorate considers that the claims submitted by the qualified subject are insufficient to protect the public interest and that the conditions for filing a case are met, it may file a separate case."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Section 4 Support for the Action"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "A people's procuratorate handling a public interest litigation case may, in accordance with the relevant provisions, request instructions from the people's procuratorate at a higher level on issues concerning the application of law, case-handling procedure and judicial policy."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter V Other Provisions"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The formats of the legal documents involved in these Rules shall be formulated uniformly by the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter V Other Provisions"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "People's procuratorates at all levels shall, in accordance with the relevant provisions, promptly place the public interest litigation cases they handle on file."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter V Other Provisions"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "People's procuratorates bringing public interest litigation actions need not pay litigation costs."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter V Other Provisions"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "These Rules and other relevant provisions shall apply to the handling of public interest litigation cases by special people's procuratorates such as military procuratorates."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Procurators referred to in these Rules include the chief procurator, deputy chief procurators, members of the procuratorial committee and procurators.\n Procuratorial personnel referred to in these Rules include procurators and procuratorial auxiliary personnel."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "After the entry into force of laws such as the Law of the People's Republic of China on the Status, Rights and Interests of Servicemen and the Work Safety Law of the People's Republic of China (2021 Amendment), the scope of public interest litigation cases handled by people's procuratorates shall be adjusted accordingly."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Other matters not provided for in these Rules shall be governed by the provisions of the Civil Procedure Law, the Administrative Procedure Law and the relevant judicial interpretations."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "These Rules shall come into force on 1 July 2021.\n Where judicial interpretations and normative documents previously issued by the Supreme People's Procuratorate are inconsistent with these Rules, these Rules shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0006'] = {
+    "lawId": "CN-JI-0006",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in order to further strengthen and standardise the work of procuratorial suggestions, ensure the quality and effect of procuratorial suggestions, give full play to the role of procuratorial suggestions, and in accordance with the provisions of the Organic Law of the People's Procuratorates of the People's Republic of China and other legal provisions, and in the light of the actual work of procuratorial affairs."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A procuratorial suggestion is an important means by which a people's procuratorate, in the lawful performance of its duties of legal supervision, participates in social governance, safeguards judicial fairness, promotes law-based administration, prevents and reduces illegal and criminal conduct, protects the interests of the State and the public interest of society, safeguards the lawful rights and interests of individuals and organisations, and ensures the uniform and correct implementation of the law"
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A people's procuratorate may directly issue a procuratorial suggestion to the entity involved in a case it is handling, the competent authority at the corresponding level, and other relevant entities.\nWhere it is necessary to issue a procuratorial suggestion to a superior competent authority other than the entity involved in the case, it shall report level by level to the people's procuratorate at the same level as the entity to be advised for a decision and issue the procuratorial suggestion, or the people's procuratorate handling the case shall prepare a procuratorial suggestion document and report to the people's procuratorate at the same level as the entity to be advised for review and forward it to the entity to be advised.\nWhere it is necessary to issue a procuratorial suggestion to a relevant entity at a lower level, it shall instruct the corresponding people's procuratorate at the lower level to issue the procuratorial suggestion.\nWhere it is necessary to issue a procuratorial suggestion to a relevant entity in another place, it shall solicit the opinion of the people's procuratorate at the same level as the entity to be advised in the place where the entity is located. Where the people's procuratorate at the same level as the entity to be advised raises a different opinion and the people's procuratorate handling the case insists that a procuratorial suggestion should be issued, it shall report level by level to the common superior people's procuratorate for a decision"
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In issuing a procuratorial suggestion, a people's procuratorate shall base itself on its procuratorial functions, combine them with its judicial case-handling work, and adhere to the principles of strict lawfulness, accuracy and timeliness, necessity and prudence, and emphasis on practical results"
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Procuratorial suggestions mainly include the following types:\nsubparagraph (a) procuratorial suggestions for retrial;\nsubparagraph (b) procuratorial suggestions for rectification of illegality;\nsubparagraph (c) procuratorial suggestions for public interest litigation;\nsubparagraph (d) procuratorial suggestions for social governance;\nsubparagraph (e) other procuratorial suggestions"
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A procuratorial suggestion shall be handled by a prosecutor's case-handling team or a prosecutor"
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The formulation and issuance of a procuratorial suggestion shall be conducted in the unified case-handling system, and shall be uniformly numbered and signed in the name of the procuratorate, with the whole process recorded and supervised"
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a people's procuratorate finds that a judgment or ruling of a people's court at the same level that has already acquired legal effect has any circumstances prescribed by law under which a retrial should be initiated, or finds that a mediation document harms the interests of the State or the public interest of society, it may issue to the people's court at the same level a procuratorial suggestion for retrial"
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Application"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where, in performing its duties of legal supervision over litigation activities, a people's procuratorate discovers that a relevant law-enforcement or judicial organ is in any of the following circumstances, it may issue to the relevant law-enforcement or judicial organ a procuratorial suggestion for rectification of illegality:\nsubparagraph (a) where judicial personnel of a people's court commit an illegal act in civil or administrative trial activities;\nsubparagraph (b) where a people's court, in the course of enforcing an effective civil or administrative judgment, ruling, decision, mediation document, order for payment, arbitral award, notarised creditor's rights document or other legal document, commits illegal enforcement, non-enforcement, neglect of enforcement or other acts, or has other major hidden dangers;\nsubparagraph (c) where, in handling a case of supervision over administrative litigation or a case of supervision over enforcement, a people's procuratorate finds that an administrative organ has acted in violation of legal provisions and may affect the fair trial and enforcement by a people's court;\nsubparagraph (d) where a public security organ, people's court, prison, community correction institution, institution for enforcement of compulsory medical treatment, etc., in criminal procedure activities or in the course of enforcing an effective criminal judgment, ruling, decision or other legal document of a people's court, has widespread or tendency-based illegal problems or other major hidden dangers that require attention and resolution;\nsubparagraph (e) other circumstances in litigation activities in which illegality needs to be rectified by means of a procuratorial suggestion"
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Application"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a people's procuratorate, in the performance of its duties, discovers that an administrative organ vested with supervisory and managerial duties in such fields as ecological environment and resource protection, food and drug safety, protection of State property, and assignment of the right to use State-owned land has unlawfully exercised its powers or failed to act, thereby infringing the interests of the State or the public interest of society, and the conditions for public interest litigation prescribed by law are met, it shall, in accordance with the procedure for handling public interest litigation cases, issue to the administrative organ a procuratorial suggestion urging it to perform its duties in accordance with the law"
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Application"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a people's procuratorate, in handling a case, discovers that social governance work is in any of the following circumstances, it may issue to the relevant entity or department a procuratorial suggestion for improving work and refining governance:\nsubparagraph (a) where the entity involved in the case has unsound or unimplemented systems for the prevention of illegal and criminal conduct, inadequate management, and hidden dangers of illegal and criminal conduct that need to be promptly eliminated;\nsubparagraph (b) where, during a certain period, a certain type of illegal or criminal case occurs frequently or recurrently, or cases that have already occurred expose obvious loopholes in management and supervision, requiring the competent industry authority to be urged to strengthen and improve its management and supervision work;\nsubparagraph (c) where civil disputes involving a certain group are prominent and may lead to the occurrence of a mass incident or a vicious case, requiring the relevant department to be urged to improve risk early-warning and prevention measures and strengthen mediation and counselling work;\nsubparagraph (d) where the relevant entity or department fails to perform its duties promptly in accordance with the law, thereby causing the lawful rights and interests of an individual or organisation to be harmed or endangered, requiring prompt rectification and elimination;\nsubparagraph (e) where it is necessary to impose an administrative penalty, an official sanction, or an industry disciplinary punishment on the person or organisation concerned in the case or the person responsible, or to investigate the judicial responsibility of the person responsible;\nsubparagraph (f) other circumstances in which a procuratorial suggestion needs to be issued"
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Application"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where the law, judicial interpretation or other relevant regulatory document clearly provides that a notice of rectification of illegality or a procuratorial opinion document shall be issued in respect of an illegal circumstance of a law-enforcement or judicial organ in litigation activities, or where an administrative penalty or sanction needs to be imposed on a person who is not prosecuted, or his unlawful gains need to be confiscated, the matter shall be handled in accordance with the relevant provisions"
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Application"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a prosecutor, in the performance of his duties, discovers any circumstance under which a procuratorial suggestion should be issued in accordance with these Provisions, he shall report to and obtain the decision of the chief prosecutor, and investigate and verify the relevant matter so that the facts are clear and accurate"
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A prosecutor may adopt the following measures to conduct investigation and verification:\nsubparagraph (a) to inquire, obtain and copy relevant evidence materials;\nsubparagraph (b) to ascertain the circumstances from the parties, relevant informed persons or other relevant persons;\nsubparagraph (c) to solicit the opinions of the entity to be advised;\nsubparagraph (d) to consult the opinions of professionals, relevant departments or industry associations on specialised issues;\nsubparagraph (e) to entrust appraisal, assessment or audit;\nsubparagraph (f) to conduct on-site visits and inspections;\nsubparagraph (g) other measures necessary to ascertain the facts.\nIn conducting investigation and verification, compulsory measures such as restricting personal liberty and sealing up, seizing or freezing property shall not be adopted"
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A prosecutor shall, as a general rule, complete the investigation and verification of the matter concerning the procuratorial suggestion within two months after the chief prosecutor has made a decision. Where the circumstances are urgent, it shall be concluded promptly.\nUpon completion of the investigation and verification, the prosecutor shall prepare a report on the conclusion of the investigation, stating the investigation process and the facts and evidence established, and put forward an opinion on handling. Where the prosecutor considers that a procuratorial suggestion needs to be issued, he shall draft a procuratorial suggestion document, submit it together with the report to the chief prosecutor, and the chief prosecutor or the procuratorial committee shall discuss and decide whether to issue the procuratorial suggestion.\nWhere, upon investigation and verification, it is ascertained that the relevant entity has no illegal facts or major hidden dangers requiring correction or rectification and a decision is made not to issue a procuratorial suggestion, the prosecutor shall bind the report on the conclusion of the investigation together with the relevant materials into the case file for archival"
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A procuratorial suggestion document shall set out the relevant facts and grounds, and the suggestion put forward shall conform to laws, regulations and other relevant provisions, be clear and specific, fully reasoned, rigorously argued, concise in language and operable.\nA procuratorial suggestion document shall, as a general rule, include the following contents:\nsource of the case or issue;\nfacts of the case established in accordance with the law, or the facts and their evidence verified through investigation;\nsubparagraph (c) the illegal circumstances existing or the hidden dangers to be eliminated;\nsubparagraph (d) the specific contents of the suggestion and the provisions of the laws, regulations and relevant documents on which it is based;\nsubparagraph (e) the time limit within which the entity to be advised may raise an objection;\nsubparagraph (f) the time limit within which the entity to be advised shall reply in writing on the implementation;\nsubparagraph (g) other matters requiring explanation"
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A procuratorial suggestion document drafted by a prosecutor on the basis of Article 11 of these Provisions shall, before being submitted to the chief prosecutor, be sent to the department of the procuratorate responsible for legal and policy research for review of the necessity, legality and persuasiveness of the procuratorial suggestion.\nBefore a procuratorial suggestion document is formally issued, the opinion of the entity to be advised may be solicited"
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A procuratorial suggestion document shall be served on the relevant entity in the name of the people's procuratorate. The service of a procuratorial suggestion document may be made in writing or by on-site declaratory service.\nThe declaratory service of a procuratorial suggestion document shall be conducted upon consultation with and with the consent of the entity to be advised, and may be conducted at the people's procuratorate, the entity to be advised or another suitable venue, where the prosecutor reads out the procuratorial suggestion document in person to the person in charge of the entity to be advised, presents evidence and gives reasons, and listens to the opinions of the person in charge of the entity to be advised. Where necessary, third-party personnel such as deputies to the people's congress, members of the Chinese People's Political Consultative Conference, specially invited procurators or people's supervisors may be invited to participate"
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a people's procuratorate issues a procuratorial suggestion, unless otherwise provided, it shall require the entity to be advised to make a corresponding handling within two months from the date of receipt of the procuratorial suggestion document and to reply to the people's procuratorate in writing. Where the circumstances are urgent and the entity to be advised is required to handle the matter as soon as possible, the time limit for reply may be determined according to the actual circumstances"
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A procuratorial suggestion document involving matters of great social impact, high public attention, typical illegal circumstances, or issues that should attract the attention of the relevant departments may be copied to the Communist Party committee, people's congress, government and discipline inspection and supervision organ at the same level, or the superior organ, competent administrative department or industry self-regulatory organisation of the entity to be advised"
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A procuratorial suggestion document that has been issued shall, within five days, be filed for record with the counterpart business department and the department responsible for legal and policy research of the people's procuratorate at the next higher level"
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the chief prosecutor considers that a procuratorial suggestion document issued by the procuratorate is indeed inappropriate, he shall decide to modify or withdraw it and promptly notify the relevant entity, stating the reasons.\nWhere a people's procuratorate at a higher level considers that a procuratorial suggestion document issued by a people's procuratorate at a lower level is indeed inappropriate, it shall instruct the people's procuratorate at the lower level to modify or withdraw it and promptly notify the relevant entity, stating the reasons"
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the entity to be advised raises an objection to the procuratorial suggestion, the prosecutor shall promptly conduct a re-examination. Where, upon re-examination, the objection is upheld, the procuratorial suggestion document shall be promptly modified or withdrawn after reporting to and obtaining the decision of the chief prosecutor or the procuratorial committee; where the objection is not upheld, the reasons shall be stated to the entity to be advised after reporting to and obtaining the consent of the chief prosecutor"
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A people's procuratorate shall actively urge and support the entity to be advised in implementing the procuratorial suggestion. The work of urging implementation shall be handled by the prosecutor originally in charge of the case, who may adopt methods such as inquiry, visit, ad hoc consultation and convening joint meetings, and shall prepare a written record or a work record"
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the entity to be advised, within the prescribed time limit and after being urged, fails to rectify without justifiable reasons or its rectification is inadequate, the procuratorate may, upon the decision of the chief prosecutor, report the relevant circumstances to the people's procuratorate at the higher level and circulate them to the superior organ, competent administrative department or industry self-regulatory organisation of the entity to be advised, and where necessary may report to the Communist Party committee and people's congress at the same level and circulate to the government and discipline inspection and supervision organ at the same level. Where the conditions for initiating public interest litigation are met, public interest litigation shall be initiated in accordance with the law"
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Investigation, Handling and Supervision of Implementation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The procuratorial committees of people's procuratorates at all levels shall regularly assess the implementation effect of the procuratorial suggestions issued by their respective procuratorates"
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The case management department of a people's procuratorate is responsible for process monitoring and classified statistics of procuratorial suggestions, regularly organising quality review of procuratorial suggestions and comprehensively analysing the work of procuratorial suggestions"
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A people's procuratorate shall incorporate the quality and effect of the formulation and issuance of procuratorial suggestions into the performance assessment of prosecutors in the performance of their duties"
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A people's procuratorate at a higher level shall strengthen guidance over the work of procuratorial suggestions carried out by people's procuratorates at lower levels, promptly circulate information and help resolve problems in the work of procuratorial suggestions"
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the law, judicial interpretation or other relevant regulatory document provides for the handling of procuratorial suggestions for retrial, for rectification of illegality or for public interest litigation, the matter shall be handled in accordance with those provisions; where there is no provision, it shall be handled with reference to these Provisions"
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "These Provisions shall be interpreted by the Supreme People's Procuratorate"
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "These Provisions shall come into force as of the date of promulgation, and the Provisions of the Supreme People's Procuratorate on the Work of Procuratorial Suggestions (Trial) issued in 2009 are repealed simultaneously.\nMain recipients: the people's procuratorates of all provinces, autonomous regions and municipalities directly under the Central Government, the Military Procuratorate of the People's Liberation Army, and the Xinjiang\nProduction and Construction Corps People's Procuratorate.\nCopied to: the leading comrades of this Procuratorate and the full-time members of the procuratorial committee;\nthe various internal organs and directly subordinate public institutions of the Procuratorate.\nGeneral Office of the Supreme People's Procuratorate                      printed and distributed on 26 February 2019"
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0007'] = {
+    "lawId": "CN-JI-0007",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 40 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in order to standardise the work of the procuratorial committee of the people's procuratorate, safeguard the lawful performance of the procuratorial committee's duties, and in light of the actual work of the procuratorate, by reference to the Organic Law of the People's Procuratorates of the People's Republic of China, the Prosecutors Law of the People's Republic of China and other relevant legal provisions."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The procuratorial committee is the case-handling organ and the deliberative and decision-making organ for major operational work of the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The discussion and decision by the procuratorial committee of cases and matters shall be conducted on the principle of democratic centralism."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The procuratorial committee performs the following functions:\n(1) discussing and deciding major, difficult and complex cases;\n(2) summing up experience in procuratorial work;\n(3) discussing and deciding other major issues concerning procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The procuratorial committee is composed of the chief procurator, deputy chief procurators and a number of senior prosecutors; its members shall be an odd number, and full-time members shall be established.\nThe members of the procuratorial committee shall be appointed and removed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Members"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A senior prosecutor serving as a member of the procuratorial committee shall satisfy the following conditions:\n(1) a member of the Supreme People's Procuratorate shall be a prosecutor of the grade of senior prosecutor, first class or above;\n(2) a member of a provincial people's procuratorate shall be a prosecutor of the grade of senior prosecutor, third class or above;\n(3) a member of a people's procuratorate of a city divided into districts shall be a prosecutor of the grade of prosecutor, first class or above;\n(4) a member of a grassroots people's procuratorate shall be a prosecutor of the grade of prosecutor, third class or above."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Members"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The members of the procuratorial committee perform the following duties:\n(1) reviewing the case materials and matter materials discussed by the procuratorial committee, expressing opinions and participating in voting;\n(2) where assigned by the chief procurator or the procuratorial committee, supervising and inspecting the implementation of the decisions of the procuratorial committee;\n(3) participating in the collective study of the procuratorial committee;\n(4) other duties that shall be performed.\nThe members of the procuratorial committee shall abide by the rules and systems of the procuratorial committee."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Members"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The people's procuratorate shall, in handling the following cases, submit them to the procuratorial committee for discussion and decision:\n(1) cases involving major national interests or seriously affecting social stability;\n(2) cases in which it is proposed to report level by level to the Supreme People's Procuratorate for approval of prosecution after the limitation period or for initiation of public prosecution under the absentee trial procedure;\n(3) major, difficult or complex cases in which it is proposed to submit or raise a protest;\n(4) cases in which it is proposed to request instructions from the people's procuratorate at the next higher level;\n(5) cases in which the original decision of the procuratorial committee is reconsidered;\n(6) other major, difficult or complex cases.\nWhere the procuratorial committee discusses a case, the case-handling prosecutor is responsible for the facts reported by him or her, and the members of the procuratorial committee are responsible for the opinions expressed and the votes cast by themselves."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Cases and Matters Decided Through Deliberation"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The people's procuratorate shall, in handling the following matters, submit them to the procuratorial committee for discussion and decision:\n(1) major issues concerning the implementation in procuratorial work of the Party Central Committee's major strategic plans for comprehensively advancing the rule of law and of State laws and policies;\n(2) important measures for implementing the resolutions of the people's congress at the corresponding level and its standing committee, and the work reports proposed to be submitted to the people's congress at the corresponding level and its standing committee;\n(3) the interpretation by the Supreme People's Procuratorate of issues concerning the specific application of law in procuratorial work, and the issuance of guiding cases;\n(4) summing up lessons from case handling and studying countermeasures concerning major circumstances and important issues encountered in criminal, civil, administrative and public interest litigation procuratorial work;\n(5) matters in which the original decision of the procuratorial committee is reconsidered;\n(6) the recusal of the chief procurator of the people's procuratorate at the corresponding level and the person in charge of the public security organ;\n(7) major matters proposed to be reported or submitted to the people's procuratorate at the next higher level for instructions;\n(8) other major matters."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Cases and Matters Decided Through Deliberation"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The procuratorial committee adopts a regular meeting system and holds meetings on a regular basis. Where necessary, a meeting may be convened earlier or postponed."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter IV Meeting System"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the procuratorial committee holds a meeting, more than half of all its members shall be present.\nThe members of the procuratorial committee who are unable to attend a meeting for a special reason shall ask for leave from the chief procurator or the deputy chief procurator presiding over the meeting, and notify the administrative office of the procuratorial committee."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter IV Meeting System"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "With respect to a case or matter proposed to be submitted to the procuratorial committee for discussion and decision, the case-handling prosecutor or the person undertaking the matter shall prepare a report, which, after review by the principal of the internal organ to which he or she belongs, shall be submitted to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter IV Meeting System"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the chief procurator decides to submit a case or matter to the procuratorial committee for discussion, the administrative office of the procuratorial committee shall review the case materials and matter materials transferred by the case-handling prosecutor or the person undertaking the matter, and where it considers that the content and form of the case, matter and its report do not comply with the relevant provisions or are lacking relevant materials, shall raise opinions, and the case-handling prosecutor or the person undertaking the matter shall amend and supplement them. The administrative office may raise opinions on the legal issues involved in the case and matter, for the reference of the case-handling prosecutor or the person undertaking the matter, and incorporate them as an appendix into the meeting materials."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter IV Meeting System"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The administrative office of the procuratorial committee shall, according to the meeting schedule or the urgency of the case or matter, propose a meeting agenda for decision by the chief procurator. Except under special circumstances, the meeting notice, agenda and case materials or matter materials, etc. shall, in general, be distributed to the members of the procuratorial committee, persons attending the meeting and the case-handling prosecutor or the person undertaking the matter three days before the meeting is held."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter IV Meeting System"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "After receiving the meeting notice and agenda, a member of the procuratorial committee shall carefully review the case materials or matter materials, prepare opinions and attend the meeting on time."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Meeting System"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A meeting of the procuratorial committee shall be presided over by the chief procurator. Where the chief procurator is unable to attend for a reason, he or she shall entrust a deputy chief procurator to preside; where there is a vacancy in the position of chief procurator or other circumstance in which entrustment is impossible, the meeting shall be presided over by the deputy chief procurator in charge of the day-to-day work of the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The discussion and decision by the procuratorial committee of cases and matters shall be conducted in the following procedure:\n(1) the case-handling prosecutor or the person undertaking the matter reports, and the principal of the internal organ to which he or she belongs may supplement the explanation of the circumstances;\n(2) the members of the procuratorial committee ask questions;\n(3) the members of the procuratorial committee express opinions. The order is, in general: members, full-time members, members who are deputy chief procurators, and the member presiding over the meeting. Where necessary, the presiding person may invite relevant attendees to express opinions;\n(4) the presiding person summarises the discussion;\n(5) voting."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The members of the procuratorial committee shall, in discussing and deciding cases and matters, express opinions centring on the cases and matters discussed and decided, put forward clear viewpoints, and state the reasons and basis therefor."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the chief procurator, a deputy chief procurator or a full-time member of the procuratorial committee, acting as the principal prosecutor or sole prosecutor, handles a case or matter submitted to the procuratorial committee for discussion, he or she shall perform the dual duties of the case-handling prosecutor or the person undertaking the matter and of a member of the procuratorial committee."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "With respect to a case or matter submitted for discussion and decision, the procuratorial committee shall vote after discussion. Where it considers that relevant circumstances and materials need to be supplemented, it may require the case-handling prosecutor or the person undertaking the matter to supplement relevant circumstances and materials, and then resubmit to the procuratorial committee for discussion and decision."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In voting by the procuratorial committee on cases and matters, except as separately handled in accordance with the provisions of Article 22 or Article 23 of these Rules, a decision shall be made in accordance with the opinions of more than half of all members. The opinions of the minority members shall be recorded in the file.\nThe result of the vote shall be announced on the spot by the presiding person of the meeting."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the chief procurator of a local people's procuratorate at any level disagrees with the opinion of more than half of all members of the procuratorial committee of the procuratorate, if it is a case being handled, he or she may report to the people's procuratorate at the next higher level for decision; if it is a major matter, he or she may report to the people's procuratorate at the next higher level or the standing committee of the people's congress at the corresponding level for decision. Where it is reported to the standing committee of the people's congress at the corresponding level for decision, a copy shall concurrently be submitted to the people's procuratorate at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where, in voting by the procuratorial committee of a local people's procuratorate at any level on cases and matters, no opinion exceeds half of all members, if all members are present at the meeting, a decision shall be reported to the people's procuratorate at the next higher level for decision. If only some members are present at the meeting, the opinions of the members not present shall be solicited in writing. After the solicitation of opinions, a decision shall be made in accordance with the opinion of more than half of all members, or handled in accordance with the provisions of Article 22 of these Rules; if still no opinion exceeds half of all members, a decision shall be reported to the people's procuratorate at the next higher level for decision."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The deputy chief procurator entrusted to preside over a meeting shall, after the meeting, promptly report the circumstances of the discussion and the result of the vote to the chief procurator. After reporting to the chief procurator, the matter shall be handled in accordance with the provisions of Article 21 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where, in the discussion and decision of cases and matters by the procuratorial committee, a deputy chief procurator or a member of the procuratorial committee has a circumstance in which he or she should recuse himself or herself, he or she shall apply for recusal and the chief procurator shall decide; where he or she does not apply for recusal, the chief procurator shall decide his or her recusal.\nThe recusal of the chief procurator shall be handled in accordance with the provisions of Article 9 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the procuratorial committee holds a meeting, upon decision by the chief procurator, leaders of the procuratorate who are not members of the procuratorial committee and the principals of relevant internal organs may attend the meeting; where necessary, other relevant persons may be decided to attend the meeting."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The circumstances of the discussion and decision by the procuratorial committee shall be audio- and video-recorded by the administrative office of the procuratorial committee and truthfully recorded, and shall be archived after approval by the chief procurator. A member of the procuratorial committee may not require or alter by himself or herself the opinions and viewpoints already expressed in the minutes of the meeting.\nNo person may, without the approval of the chief procurator, consult, copy or reproduce the minutes of the procuratorial committee meeting; except that the case-handling prosecutor or the person undertaking the matter may consult, copy or reproduce the specific opinions of the members of the procuratorial committee on the case or matter handled by him or her."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In the discussion of cases and matters by the procuratorial committee, the administrative office of the procuratorial committee shall prepare the minutes of the meeting and the notice of decision matters of the procuratorial committee. The minutes, after approval by the chief procurator or the deputy chief procurator presiding over the meeting, shall be distributed to the members and reported to the administrative office of the procuratorial committee of the people's procuratorate at the next higher level for the record. The notice of decision matters of the procuratorial committee shall be issued to the case-handling prosecutor or the person undertaking the matter and the relevant internal organs for implementation.\nWhere the decision of the procuratorial committee needs to be implemented by the relevant lower people's procuratorate, a written decision shall be made in the name of the people's procuratorate.\nThe minutes of the procuratorial committee meeting shall be archived in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Meeting Procedures"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The decision of the procuratorial committee shall be promptly implemented by the case-handling prosecutor or the person undertaking the matter, the relevant internal organs and the lower people's procuratorate.\nWhere the procuratorial committee adopts in principle but raises opinions for improvement on matters such as judicial interpretations, regulatory documents and summaries of work experience, the undertaking internal organ shall amend them in accordance with the opinions. The amendments shall be reported in writing to the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VI Implementation and Supervision of Decisions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the case-handling prosecutor or the person undertaking the matter and the relevant internal organ are unable, for a special reason, to implement the decision of the procuratorial committee promptly or new circumstances arise before the implementation is completed, it shall immediately report in writing to the chief procurator.\nWhere a lower people's procuratorate is unable, for a special reason, to implement promptly the decision of the procuratorial committee of the higher people's procuratorate or new circumstances arise before the implementation is completed, it shall immediately report in writing to the higher people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VI Implementation and Supervision of Decisions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a lower people's procuratorate disagrees with the decision of the procuratorial committee of the higher people's procuratorate, it may report in writing to the higher people's procuratorate, but may not suspend the implementation of that decision.\nThe relevant internal organ of the higher people's procuratorate shall review the written report of the lower people's procuratorate and raise opinions for decision by the chief procurator. Where the chief procurator decides to submit the matter to the procuratorial committee for reconsideration, it may notify the lower people's procuratorate to suspend the implementation of the original decision, and convene a procuratorial committee meeting for reconsideration within one month after receiving the report. Where, upon reconsideration, it is considered that the original decision is indeed erroneous or new circumstances have arisen, a new decision shall be made; where it is considered that the original decision is correct, a decision to uphold it shall be made. The decision made upon reconsideration shall be implemented by the lower people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Implementation and Supervision of Decisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The case-handling prosecutor or the person undertaking the matter shall, within five days after completing the implementation of the decision of the procuratorial committee, fill in the Feedback Form on the Implementation of Decisions of the Procuratorial Committee, and, together with the relevant materials reflecting the implementation and the handling of the case, after review by the principal of the internal organ to which he or she belongs, send them to the administrative office of the procuratorial committee.\nWith respect to a decision made by the procuratorial committee of a higher people's procuratorate, the relevant lower people's procuratorate shall, within five days after completing the implementation, submit the relevant materials reflecting the implementation and the handling of the case to the higher people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Implementation and Supervision of Decisions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The administrative office of the procuratorial committee shall promptly understand the implementation by the case-handling prosecutor or the person undertaking the matter, the relevant internal organs and the lower people's procuratorate of the decisions of the procuratorial committee, supervise the implementation where necessary, and promptly report important circumstances to the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Implementation and Supervision of Decisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a person deliberately delays or refuses to implement the decision of the procuratorial committee, the legal and disciplinary responsibility of the person responsible shall be investigated in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Implementation and Supervision of Decisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The people's procuratorate shall establish an administrative office of the procuratorial committee, which shall be responsible for the day-to-day work of the procuratorial committee."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VII Working Bodies"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The administrative office of the procuratorial committee performs the following duties:\n(1) reviewing whether the case materials and matter materials proposed to be submitted to the procuratorial committee for discussion are standardised;\n(2) raising opinions on the legal issues involved in the cases and matters proposed to be submitted to the procuratorial committee for discussion;\n(3) undertaking the work of the procuratorial committee meetings and the work relating to the chief procurator's attendance at the meeting of the adjudicatory committee of the people's court at the same level;\n(4) supervising the implementation of the decisions of the procuratorial committee and reporting to the chief procurator and the procuratorial committee;\n(5) reviewing the minutes of the procuratorial committee meetings submitted by the people's procuratorate at the next lower level for the record and reporting to the procuratorial committee;\n(6) conducting legal review, before issuance, of judicial interpretations, regulatory documents, judicial policy documents and guiding cases, etc. issued in the name of the people's procuratorate;\n(7) other work assigned by the chief procurator or the procuratorial committee."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VII Working Bodies"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The submission, discussion, voting, decision-making, implementation and supervision of cases and matters discussed and decided by the procuratorial committee shall all be conducted in the unified case-handling application system, with the whole process traceable."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The persons attending or observing the meeting of the procuratorial committee shall keep confidential the content and circumstances of the discussion by the procuratorial committee."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The determination and investigation of the judicial responsibility of the procuratorial committee and its members shall apply the Organic Law of the People's Procuratorates of the People's Republic of China, the Prosecutors Law of the People's Republic of China and the relevant provisions on the punishment of prosecutors."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "These Rules shall come into force on the date of promulgation. The Regulations on the Organisation of the Procuratorial Committee of the People's Procuratorate (Gao Jian Fa [2008] No. 5) and the Rules on the Deliberation and Work of the Procuratorial Committee of the People's Procuratorate (Gao Jian Fa [2009] No. 23) are repealed simultaneously.\nMain addressees: people's procuratorates at all levels.\nCarbon copies: the Central Political and Legal Affairs Commission; the Commission for Internal and Judicial Affairs of the National People's Congress; the Legislative Affairs Commission of the Standing Committee of the National People's Congress;\ncomrades leading this procuratorate, full-time members of the procuratorial committee;\nthe discipline inspection and supervision group stationed at the procuratorate, and the departments of the organ.\nGeneral Office of the Supreme People's Procuratorate                      3 August 2020 issued"
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0008'] = {
+    "lawId": "CN-JI-0008",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 135 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the Civil Procedure Law of the People's Republic of China, the Organic Law of the People's Procuratorates of the People's Republic of China and other relevant provisions, and in the light of the actual work of people's procuratorates, in order to safeguard and regulate the performance by people's procuratorates of their civil procuratorial duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "People's procuratorates shall exercise procuratorial power independently in accordance with law and, by handling cases of supervision over civil litigation, safeguard judicial fairness and judicial authority, safeguard the interests of the State and the public interest, safeguard the lawful rights and interests of natural persons, legal persons and unincorporated organisations, and ensure the uniform and correct implementation of the laws of the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's procuratorates shall exercise legal supervision over civil litigation activities by such means as protest and procuratorial recommendation."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In handling cases of supervision over civil litigation, people's procuratorates shall base themselves on the facts, take the law as the criterion, uphold the principles of openness, fairness, impartiality and good faith, respect and safeguard the litigation rights of the parties, and supervise and support the people's courts in exercising their judicial power and enforcement power in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The departments responsible for procuratorial work on complaints and petitions, civil procuratorial work and case management shall respectively undertake the acceptance, handling and management of cases of supervision over civil litigation, and the departments shall cooperate with and check each other."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's procuratorates shall apply a system of responsibility of procurators for case handling in handling cases of supervision over civil litigation, with the procurator, the chief procurator and the procuratorial committee deciding on case-handling matters within the scope of their respective functions and powers and bearing the corresponding judicial responsibility in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In handling cases of supervision over civil litigation, a people's procuratorate may, according to the circumstances of the case, have one procurator handle the case alone or form a case-handling group of two or more procurators to handle it. Where a procuratorial case-handling group handles the case, the chief procurator shall designate one procurator to serve as the principal procurator to organise and direct the group in handling the case.\n In handling cases, a procurator may, as required, be assisted by procuratorial auxiliary personnel such as procurator assistants, clerks, judicial police officers and procuratorial technical personnel. Procuratorial auxiliary personnel shall undertake the corresponding procuratorial auxiliary affairs in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The Supreme People's Procuratorate shall lead the work of supervision over civil litigation of the local people's procuratorates at all levels and of the special people's procuratorates, and a people's procuratorate at a higher level shall lead the work of supervision over civil litigation of the people's procuratorate at a lower level.\n Where a people's procuratorate at a higher level considers a decision of a people's procuratorate at a lower level to be erroneous, it has the power to direct the people's procuratorate at the lower level to correct it, or to revoke or modify it in accordance with law. Decisions of a people's procuratorate at a higher level shall be made in writing, and the people's procuratorate at the lower level shall execute them. Where a people's procuratorate at a lower level holds different views on a decision of the people's procuratorate at a higher level, it may report the matter to the people's procuratorate at the higher level while executing the decision.\n A people's procuratorate at a higher level may, in accordance with law, deploy procuratorial personnel within its jurisdiction in a unified manner to handle cases of supervision over civil litigation, and the decision on deployment shall be made in writing. The deployed procurators may, on behalf of the people's procuratorate handling the case, perform the relevant procuratorial duties."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the chief procurator of a people's procuratorate, or a deputy chief procurator entrusted by the chief procurator, attends, in accordance with the relevant provisions, the discussion by the judicial committee of the people's court at the same level of a civil protest case or other topics relating to supervision over civil litigation, it may sit in on the meeting."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "People's procuratorates shall apply a system of withdrawal in handling cases of supervision over civil litigation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Procuratorial personnel handling cases of supervision over civil litigation shall uphold an objective and impartial position and consciously accept supervision.\n Procuratorial personnel may not accept banquets, gifts or other benefits from parties and their agents ad litem, specific interested persons or intermediary organisations, and may not meet parties and persons entrusted by them in violation of the provisions.\n Where procuratorial personnel accept bribes, engage in fraudulent practices for personal gain or commit other such acts, they shall be pursued for disciplinary and legal responsibility.\n Procuratorial personnel shall, in accordance with the relevant provisions, record and report comprehensively, truthfully and promptly acts of inquiring about, intervening in or meddling with the handling of cases of supervision over civil litigation and other major matters."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where any of the circumstances provided for in Article 44 of the Civil Procedure Law of the People's Republic of China exists in respect of procuratorial personnel, they shall withdraw on their own initiative, and the parties have the right to apply for their withdrawal.\n The provisions of the preceding paragraph shall apply to clerks, interpreters, appraisers, inspectors and the like."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where procuratorial personnel withdraw on their own initiative, they may do so orally or in writing and shall state the reasons. Where an application is made orally, it shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a party applies for withdrawal, it shall do so orally or in writing before the people's procuratorate makes a decision to lodge a protest or make a procuratorial recommendation, and shall state the reasons. Where an application is made orally, it shall be recorded in the file. Where an application for withdrawal is made in accordance with the provisions of paragraph 2 of Article 44 of the Civil Procedure Law of the People's Republic of China, the relevant evidence shall be provided.\n The person whose withdrawal is applied for shall suspend participation in the work of the case before the people's procuratorate makes a decision on whether to withdraw, except where urgent measures need to be taken in the case."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where circumstances requiring withdrawal exist in respect of procuratorial personnel, they have not withdrawn on their own initiative and the parties have not applied for their withdrawal, the chief procurator or the procuratorial committee shall decide on their withdrawal."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The withdrawal of the chief procurator shall be discussed and decided by the procuratorial committee; the withdrawal of procuratorial personnel and other personnel shall be decided by the chief procurator. When the procuratorial committee discusses the withdrawal of the chief procurator, the deputy chief procurator shall preside and the chief procurator may not participate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A people's procuratorate shall, within three days after receiving an application for withdrawal submitted by a party, make a decision and notify the applicant. Where the applicant is dissatisfied with the decision, it may, upon receipt of the decision, apply once for reconsideration to the organ that made the decision. The people's procuratorate shall make a reconsideration decision within three days and notify the applicant for reconsideration. During the period of reconsideration, the person whose withdrawal is applied for shall not cease to participate in the work of the case."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The sources of cases of supervision over civil litigation include:\n(a) a party applies to the people's procuratorate for supervision;\n(b) a natural person, legal person or unincorporated organisation other than a party complains to the people's procuratorate;\n(c) discovery by the people's procuratorate in the performance of its duties."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A party may apply to a people's procuratorate for supervision in any of the following circumstances:\n(a) a legally effective civil judgment, ruling or mediation statement meets the provisions of paragraph 1 of Article 209 of the Civil Procedure Law of the People's Republic of China;\n(b) it considers that judicial personnel have committed unlawful acts in the civil trial procedure;\n(c) it considers that unlawful circumstances exist in civil enforcement activities."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a party applies to a people's procuratorate for supervision in accordance with the provisions of item (a) of Article 19 of these Rules, it shall do so within two years from the date on which the people's court makes a ruling rejecting the application for retrial or the judgment or ruling of retrial takes legal effect.\n The period provided for in this Article is an invariable period, to which the provisions on suspension, interruption and extension shall not apply.\n Cases in which a people's procuratorate initiates the supervision procedure ex officio shall not be subject to the time limit provided for in paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a party applies to a people's procuratorate for supervision, it shall submit an application for supervision, proof of identity, the relevant legal documents and evidentiary materials. Where evidentiary materials are submitted, a list of evidence shall be attached.\n Where the materials for applying for supervision are incomplete, the people's procuratorate shall require the applicant to complete them within a time limit and shall inform the applicant in one go of all the materials to be completed. Where the applicant fails to complete them within the time limit, the application for supervision shall be deemed withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The application for supervision provided for in Article 21 of these Rules shall state the following matters:\n(a) the name, sex, age, ethnicity, occupation, place of work, domicile and valid contact details of the applicant and, in the case of a legal person or unincorporated organisation, its name and domicile and the name, position and valid contact details of its legal representative or principal person in charge;\n(b) information such as the name, sex, place of work, domicile and valid contact details of the other parties and, in the case of a legal person or unincorporated organisation, its name, domicile, person in charge and valid contact details;\n(c) the requests for supervision;\n(d) the specific statutory circumstances on which the application for supervision is based and the facts and grounds.\n The applicant shall submit copies of the application for supervision in accordance with the number of the other parties."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The proof of identity provided for in Article 21 of these Rules includes:\n(a) in the case of a natural person, valid documents capable of proving his identity, such as the resident identity card, officer's identity card, soldier's identity card and passport;\n(b) in the case of a legal person or unincorporated organisation, valid certificates such as the certificate of unified social credit code or a copy of the business licence, the certificate of organisation code, and proof of identity of the legal representative or principal person in charge.\n The people's procuratorate shall, after checking the proof of identity submitted by a party and finding it correct, retain a copy."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The relevant legal documents provided for in Article 21 of these Rules mean all judgments, rulings, decisions, mediation statements and other legal documents made by the people's court in the course of the litigation of the case."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a party applies for supervision, it may entrust an agent ad litem in accordance with the provisions of the Civil Procedure Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where an application for supervision by a party meets the following conditions, the people's procuratorate shall accept it:\n(a) it meets the provisions of Article 19 of these Rules;\n(b) the materials provided by the applicant meet the provisions of Articles 21 to 24 of these Rules;\n(c) it falls within the scope of cases accepted by the procuratorate;\n(d) none of the circumstances in which acceptance is not granted as provided for in these Rules exists."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a party applies to a people's procuratorate for supervision in accordance with the provisions of paragraph 1 of Article 209 of the Civil Procedure Law of the People's Republic of China and any of the following circumstances exists, the people's procuratorate shall not accept the application:\n(a) the party has not applied to the people's court for retrial;\n(b) the party's application for retrial exceeds the time limit provided for by law, except where this is not attributable to the party itself;\n(c) the people's court is reviewing the application for civil retrial within the statutory time limit;\n(d) the people's court has already ruled for retrial and the case has not yet been concluded;\n(e) the judgment or mediation statement dissolves the marriage relationship, except where the party is dissatisfied with the part concerning division of property;\n(f) the people's procuratorate has already concluded the review and made a decision;\n(g) the civil judgment, ruling or mediation statement was made by the people's court after retrial pursuant to a protest or a procuratorial recommendation for retrial of the people's procuratorate;\n(h) the application for supervision exceeds the time limit provided for in Article 20 of these Rules;\n(i) other circumstances in which acceptance should not be granted."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a party considers that unlawful circumstances exist in the civil trial procedure or in enforcement activities, applies to a people's procuratorate for supervision, and any of the following circumstances exists, the people's procuratorate shall not accept the application:\n(a) the law provides that an objection may be raised, reconsideration applied for or an action brought, and the party has not raised an objection, applied for reconsideration or brought an action, except where there are legitimate reasons;\n(b) after the party raised an objection, applied for reconsideration or brought an action, the people's court has accepted the matter and is reviewing and handling it, except where it has not made a disposition beyond the statutory time limit;\n(c) other circumstances in which acceptance should not be granted.\n Where a party applies for supervision in respect of unlawful acts of judicial or enforcement personnel, the application shall not be subject to the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a party applies to a people's procuratorate for a procuratorial recommendation or protest in accordance with the provisions of paragraph 1 of Article 209 of the Civil Procedure Law of the People's Republic of China, the application shall be accepted by the department responsible for procuratorial work on complaints and petitions of the people's procuratorate at the same level at the place where the people's court that made the effective civil judgment, ruling or mediation statement is situated.\n Where the people's court rules to reject an application for retrial or fails to rule on the application for retrial within the time limit and the party applies to the people's procuratorate for supervision, the application shall be accepted by the people's procuratorate at the same level at the place where the people's court that made the original effective civil judgment, ruling or mediation statement is situated."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a party considers that judicial personnel have committed unlawful acts in the civil trial procedure or that unlawful circumstances exist in civil enforcement activities and applies to a people's procuratorate for supervision, the application shall be accepted by the department responsible for procuratorial work on complaints and petitions of the people's procuratorate at the same level at the place where the people's court that tried or enforced the case is situated.\n Where a party is dissatisfied with a reconsideration ruling or decision made by a people's court at a higher level and applies for supervision, the application shall be accepted by the people's procuratorate at the same level at the place where the people's court at the higher level is situated. After acceptance, the people's procuratorate may, as required and in accordance with the relevant provisions of these Rules, assign the case to the people's procuratorate at the same level at the place where the people's court of original trial or enforcement is situated for handling."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a party considers that a people's procuratorate has failed to accept its application for supervision in accordance with law, it may apply to the people's procuratorate at the next higher level for supervision. Where the people's procuratorate at the higher level considers that the application for supervision of the party meets the conditions for acceptance, it shall direct the people's procuratorate at the next lower level to accept it, and where necessary, may also accept it itself."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The department responsible for procuratorial work on complaints and petitions of a people's procuratorate shall dispose of an application for supervision according to the following circumstances:\n(a) where the conditions for acceptance are met, it shall make a decision to accept it in accordance with the provisions of these Rules;\n(b) where it does not fall within the scope of cases accepted by the procuratorate, it shall inform the applicant to apply to the relevant people's procuratorate for supervision;\n(c) where it does not fall within the competence of the people's procuratorate, it shall inform the applicant to report the matter to the relevant organ;\n(d) where the conditions for acceptance are not met and the applicant does not withdraw the application for supervision, it may decide not to accept it."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The department responsible for procuratorial work on complaints and petitions shall, within three days from the date of the decision to accept, draw up a Notice of Acceptance and send it to the applicant, informing it of its rights and obligations; at the same time, it shall send the Notice of Acceptance and a copy of the application for supervision to the other parties and inform them of their rights and obligations. The other parties may submit written opinions within fifteen days from the date of receipt of the copy of the application for supervision, and failure to submit opinions shall not affect the review of the case by the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The department responsible for procuratorial work on complaints and petitions shall, within three days from the date of the decision to accept, transfer the case materials to the department responsible for civil procuratorial work of the same procuratorate, and at the same time send a copy of the Notice of Acceptance to the department responsible for case management of the same procuratorate. Where the department responsible for procuratorial work on complaints and petitions receives written opinions and other materials submitted by the other parties, it shall promptly transfer them to the department responsible for civil procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a natural person, legal person or unincorporated organisation other than a party considers that judicial personnel have committed unlawful acts in the civil trial procedure of a people's court or that unlawful circumstances exist in civil enforcement activities, it may complain to the people's procuratorate at the same level. The complaint shall be accepted by the department responsible for procuratorial work on complaints and petitions of the people's procuratorate.\n The department responsible for procuratorial work on complaints and petitions shall handle the complaints received in accordance with the Provisions of the People's Procuratorate on Work Concerning Letters and Visits and the like."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The department responsible for procuratorial work on complaints and petitions may, in accordance with the Provisions of the People's Procuratorate on Work Concerning Letters and Visits, assign letters-and-visits cases involving supervision over civil litigation to people's procuratorates at lower levels for handling."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a people's procuratorate finds in the performance of its duties that any of the following circumstances exists in a civil case, it shall initiate the supervision procedure ex officio:\n(a) the interests of the State or the public interest are harmed;\n(b) judicial or enforcement personnel have committed unlawful acts such as embezzlement and bribery, fraudulent practices for personal gain, or perversion of the law in adjudication;\n(c) a party has engaged in sham litigation or other acts obstructing the judicial order;\n(d) a legally effective civil public interest litigation judgment, ruling or mediation statement made by a people's court is indeed erroneous, judicial personnel have committed unlawful acts in the trial procedure, or unlawful circumstances exist in enforcement activities;\n(e) follow-up supervision by the people's procuratorate is required in accordance with the relevant provisions;\n(f) the case has major social impact and supervision is truly necessary.\n Where a people's procuratorate initiates the supervision procedure ex officio in respect of a civil case, it shall not be subject to whether the party has applied for retrial."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Cases in which a people's procuratorate at a lower level requests a protest or requests other supervision shall be accepted by the department responsible for case management of the people's procuratorate at the higher level.\n In a case of supervision over civil litigation in which the supervision procedure is initiated ex officio, the department responsible for civil procuratorial work shall register the case with the department responsible for case management."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "After receiving the case materials, the department responsible for case management shall, within three days, register the case and transfer the case materials and the case registration form to the department responsible for civil procuratorial work; where the case materials do not comply with the provisions, it shall require them to be completed.\n Where the parties need to be notified after registration and acceptance by the department responsible for case management, the department responsible for civil procuratorial work shall draw up a Notice of Acceptance and send it to the parties within three days."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A case of supervision over civil litigation that has been accepted shall be reviewed by the department responsible for civil procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a people's procuratorate at a higher level considers it truly necessary, it may handle a case of supervision over civil litigation accepted by a people's procuratorate at a lower level.\n Where a people's procuratorate at a lower level considers that a case of supervision over civil litigation it has accepted needs to be handled by the people's procuratorate at a higher level, it may request the people's procuratorate at the higher level to handle it."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A people's procuratorate at a higher level may assign a case of supervision over civil litigation it has accepted to a people's procuratorate at a lower level for handling and specify a time limit for handling. For an assigned case, a Notice of Assignment shall be drawn up and the relevant materials shall be transferred to the people's procuratorate at the lower level. The people's procuratorate at the lower level shall handle the case in accordance with law and may not assign it again. Except as provided for in Article 107 of these Rules, the people's procuratorate at the lower level shall submit its handling opinion to the people's procuratorate at the higher level within the specified time limit, and the people's procuratorate at the higher level shall make a decision within the statutory time limit.\n Where the parties need to be notified of an assigned case, a Notice shall be drawn up and sent to the parties."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In reviewing a case of supervision over civil litigation, a people's procuratorate shall conduct a comprehensive review of the legality of the civil litigation activities of the people's court around the requests for supervision of the applicant, the issues in dispute and the circumstances provided for in Article 37 of these Rules. Where other parties also apply for supervision before the people's procuratorate makes a decision, they shall be listed as applicants and their requests for supervision shall be reviewed together."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The applicant or other parties shall provide evidentiary materials in respect of the assertions they raise. The people's procuratorate shall issue a receipt upon receiving evidentiary materials submitted by a party."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A people's procuratorate shall inform the parties of their right to apply for withdrawal and shall inform them of the names and legal positions of the procuratorial personnel, clerks and others handling the case."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "In reviewing a case, a people's procuratorate shall hear the opinions of the parties by appropriate means and, where necessary, may hold a hearing or conduct investigation and verification of the relevant circumstances, and may also organise expert consultation and demonstration in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "In reviewing a case, a people's procuratorate may, in accordance with the relevant provisions, obtain the litigation files of the people's court.\n Where the needs of case handling can be met by copying electronic files, consulting, reproducing or excerpting, the litigation files need not be obtained.\n Where a people's procuratorate considers it truly necessary, it may, in accordance with the relevant provisions, obtain the supplementary files of the litigation files of the people's court and shall adopt strict confidentiality measures."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "After the conclusion of the review, the procurator handling the case shall draw up a report on conclusion of review. The report shall state the facts of the case comprehensively, objectively and impartially and put forward handling suggestions or opinions on the basis of law.\n Where the procurator handling the case can determine the facts of the case through reviewing the application for supervision and other materials, it may directly draw up the report on conclusion of review and put forward handling suggestions or opinions."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "In the course of handling a case, the procurator handling the case may request the person in charge of the department to convene a joint meeting of procurators for discussion. The chief procurator or the person in charge of the department may also convene a joint meeting of procurators for discussion when reviewing or deciding on the case.\n The discussion and opinions of the joint meeting of procurators shall be truthfully recorded, signed by the procurators attending the meeting and kept on file. Where the person in charge of the department or the procurator handling the case disagrees with the opinion of the majority of the joint meeting of procurators, the person in charge of the department shall report the matter to the chief procurator for decision.\n Where the chief procurator considers it necessary, it may submit the matter to the procuratorial committee for discussion and decision. The procurator handling the case shall execute the decisions made by the chief procurator and the procuratorial committee on the case."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A people's procuratorate shall, in respect of a case in which the review has been concluded, make the following decisions according to the circumstances:\n(a) making a procuratorial recommendation for retrial;\n(b) requesting a protest or requesting other supervision;\n(c) lodging a protest;\n(d) making a procuratorial recommendation;\n(e) concluding the review;\n(f) not supporting the application for supervision;\n(g) upholding the decision upon re-examination.\n In respect of a case accepted by the department responsible for procuratorial work on complaints and petitions, the department responsible for civil procuratorial work shall inform the former of the result of handling the case."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in the course of handling a case of supervision over civil litigation, a party is willing to reach a settlement, the people's procuratorate may guide the party to settle the matter itself."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a people's procuratorate accepts a case in which a party applies for supervision over a legally effective civil judgment, ruling or mediation statement of a people's court, it shall conclude the review and make a decision within three months, except that the period for obtaining the case files, appraisal, valuation, audit and expert consultation shall not be counted in the review period.\n The review period for cases of supervision over unlawful acts of judicial personnel in the civil trial procedure and for cases of supervision over civil enforcement activities shall be governed by reference to the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "In handling cases of supervision over civil litigation, a people's procuratorate may, in accordance with the relevant provisions, designate judicial police officers to assist the procurator handling the case in performing duties such as investigation and verification and holding hearings."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a people's procuratorate considers it truly necessary in reviewing a case of supervision over civil litigation, it may organise a hearing with the parties concerned.\n In reviewing a case of supervision over civil litigation, a people's procuratorate may invite deputies to people's congresses, members of people's political consultative conferences, people's supervisors, specially invited procurators, members of the expert consultation committee, people's mediators, or members of the residents' committee or villagers' committee of the unit where a party works or of the place where a party resides, as well as experts, scholars and other persons from all walks of life, who have no interest in the case, to participate in a public hearing, except where the civil case involves State secrets or personal privacy or where the law otherwise provides that it may not be made public."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 2 Hearing"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A hearing organised by a people's procuratorate shall be presided over by the procurator handling the case, and a clerk shall be responsible for taking the record.\n A hearing shall generally be held in a dedicated hearing room of the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 2 Hearing"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a people's procuratorate organises a hearing, it shall, three days before the hearing, inform the participants of the cause of action, the time and the place of the hearing."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 2 Hearing"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The parties and other relevant personnel participating in a hearing shall attend on time; where a party is absent without legitimate reason or leaves midway without permission, the hearing procedure shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 2 Hearing"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "A hearing shall be conducted around issues such as the determination of facts and the application of law in the case of supervision over civil litigation.\n In respect of the evidentiary materials submitted by the parties and the evidence obtained through investigation by the people's procuratorate, the opinions of all parties shall be fully heard."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 2 Hearing"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "A hearing shall generally proceed in the following steps:\n(a) the procurator handling the case introduces the circumstances of the case and the issues requiring a hearing;\n(b) the parties and other participants explain the circumstances respectively on the issues requiring a hearing;\n(c) the hearing officers put questions to the parties or other participants;\n(d) the presiding officer announces an adjournment, and the hearing officers discuss the matters of the hearing;\n(e) the presiding officer announces the resumption of the hearing, and according to the circumstances of the case, the hearing officers or their representatives may express opinions;\n(f) the parties make final statements;\n(g) the presiding officer sums up the hearing."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 2 Hearing"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "A record shall be made of a hearing, and after the parties have checked it, they shall sign or seal it. Where they refuse to sign or seal it, the circumstances shall be noted."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 2 Hearing"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Persons participating in a hearing shall obey the directions of the presiding officer of the hearing.\n In respect of a breach of the order of the hearing, the people's procuratorate may criticise and educate the person concerned and order him to leave the hearing venue; in respect of serious disruption of the order of the hearing by creating a disturbance, storming the hearing venue, insulting, defaming, threatening or assaulting procuratorial personnel and the like, the corresponding legal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 2 Hearing"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in the performance of its duty of legal supervision, a people's procuratorate finds any of the following circumstances, it may investigate and verify the relevant circumstances with the parties or persons not involved in the case:\n(a) a civil judgment, ruling or mediation statement may contain circumstances requiring supervision as provided for by law, and this is difficult to determine merely by reviewing the files and examining the existing materials;\n(b) judicial personnel may have committed unlawful acts in the civil trial procedure;\n(c) unlawful circumstances may exist in civil enforcement activities;\n(d) other circumstances requiring investigation and verification."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "A people's procuratorate may adopt the following measures of investigation and verification:\n(a) inquiring into, obtaining and reproducing the relevant evidentiary materials;\n(b) questioning the parties or persons not involved in the case;\n(c) consulting professional personnel, the relevant departments or trade associations and the like on specialised issues;\n(d) commissioning appraisal, valuation and audit;\n(e) inspecting physical evidence and scenes;\n(f) other measures required for ascertaining the facts of the case.\n In investigation and verification, a people's procuratorate may not adopt compulsory measures such as restricting personal freedom or sealing up, seizing or freezing property."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where any of the following circumstances exists, a people's procuratorate may inquire into, obtain and reproduce the relevant evidentiary materials from banking financial institutions:\n(a) the interests of the State or the public interest may be harmed;\n(b) judicial or enforcement personnel may have committed unlawful acts;\n(c) the case involves litigation as provided for in Article 55 of the Civil Procedure Law of the People's Republic of China;\n(d) a party may have forged evidence or maliciously colluded to harm the lawful rights and interests of others.\n A people's procuratorate may, in accordance with the relevant provisions, designate procuratorial technical personnel with the corresponding qualifications to conduct a specialised review of technical evidence such as appraisal opinions in a case of supervision over civil litigation and to issue a review opinion."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "A people's procuratorate may seek the opinions of the relevant professional personnel, the relevant departments or trade associations on specialised issues in writing or orally. Where the consultation is oral, a record shall be made and signed or sealed by the professional personnel consulted. Where they refuse to sign or seal it, the circumstances shall be noted."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a people's procuratorate considers that appraisal, valuation or audit is required in respect of a specialised issue, it may commission an institution with the relevant qualification to carry out the appraisal, valuation or audit.\n Where appraisal, valuation or audit has already been carried out in the course of the litigation, no further appraisal, valuation or audit shall generally be commissioned."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a people's procuratorate considers it truly necessary, it may inspect physical evidence or a scene. The inspector shall produce the certificate of the people's procuratorate and invite the local grassroots organisation or the unit where a party works to send personnel to participate. The party or an adult family member of the party shall be present; where they refuse to be present, the inspection shall not be affected.\n The inspector shall make a record of the circumstances and results of the inspection, and it shall be signed or sealed by the inspector, the party and the invited participants."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where investigation and verification are required, the procurator handling the case shall decide within the scope of its functions and powers, or report the matter to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Investigation and verification by a people's procuratorate shall be carried out jointly by two or more persons.\n After the person investigated has checked the record of investigation, it shall be signed or sealed by the investigator and the person investigated. Where the person investigated refuses to sign or seal it, the circumstances shall be noted."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "A people's procuratorate may direct a people's procuratorate at a lower level or commission a people's procuratorate in another place to conduct investigation and verification.\n Where a people's procuratorate directs or commissions an investigation, it shall send a Notice of Directed Investigation or a Letter of Commissioned Investigation stating the matters of investigation and verification, the clues to evidence and the requirements. After receiving the Notice of Directed Investigation or the Letter of Commissioned Investigation, the people's procuratorate directed or commissioned shall complete the investigation and verification within fifteen days and reply in writing. Where the investigation cannot be completed for objective reasons, it shall reply in writing to the directing or commissioning people's procuratorate within the above period.\n Where a people's procuratorate conducts an investigation in another place, the local people's procuratorate shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The relevant units and individuals shall cooperate in investigation and verification by a people's procuratorate. Where they refuse or obstruct investigation and verification by the people's procuratorate, the people's procuratorate may make a procuratorial recommendation to the relevant unit or its competent authority at a higher level ordering correction; where a violation of discipline or law or a crime is suspected, the matter shall be transferred to the relevant organ for handling in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation and Verification"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "A people's procuratorate may suspend the review in any of the following circumstances:\n(a) the natural person applying for supervision dies and it is necessary to wait for the heir to indicate whether to continue applying for supervision;\n(b) the legal person or unincorporated organisation applying for supervision terminates and the successor to its rights and obligations has not yet been determined;\n(c) the case must be based on the result of the disposition of another case, and that other case has not yet been concluded;\n(d) other circumstances in which the review may be suspended.\n Where the review is suspended, a Decision to Suspend Review shall be drawn up and sent to the parties. After the reasons for the suspension of review are eliminated, the review shall be resumed promptly."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 4 Suspension and Conclusion of Review"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "A people's procuratorate shall conclude the review in any of the following circumstances:\n(a) the people's court has already ruled for retrial or has already corrected the unlawful act;\n(b) the applicant withdraws the application for supervision, and this does not harm the interests of the State, the public interest or the lawful rights and interests of others;\n(c) the applicant declares in a settlement agreement reached with the other parties that it waives the right to apply for supervision, and this does not harm the interests of the State, the public interest or the lawful rights and interests of others;\n(d) the natural person applying for supervision dies, has no heir or the heir waives the application, and no other unlawful circumstances requiring supervision are discovered;\n(e) the legal person or unincorporated organisation applying for supervision terminates, has no successor to its rights and obligations or the successor waives the application, and no other unlawful circumstances requiring supervision are discovered;\n(f) it is discovered that a case already accepted does not meet the conditions for acceptance;\n(g) in a case in which the people's procuratorate initiated the supervision procedure ex officio, review shows that no supervision measure needs to be taken;\n(h) other circumstances in which the review should be concluded.\n Where the review is concluded, a Decision to Conclude the Review shall be drawn up and, where the parties need to be notified, sent to them."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 4 Suspension and Conclusion of Review"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a people's procuratorate finds that a legally effective civil judgment or ruling of a people's court contains any of the circumstances provided for in Article 200 of the Civil Procedure Law of the People's Republic of China, it shall make a procuratorial recommendation for retrial or lodge a protest with the people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a people's procuratorate finds that a civil mediation statement harms the interests of the State or the public interest, it shall make a procuratorial recommendation for retrial or lodge a protest with the people's court in accordance with law.\n A people's procuratorate shall supervise a civil mediation statement obtained by a party through sham litigation in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Evidence provided by a party after the time limit through intention or gross negligence shall not be admitted by the people's procuratorate. However, where the evidence relates to the basic facts of the case and can prove that the original judgment or ruling is indeed erroneous, it shall be determined as falling within the circumstances provided for in item (1) of Article 200 of the Civil Procedure Law of the People's Republic of China.\n Where evidence obtained through investigation by a people's procuratorate in accordance with the provisions of Articles 63 and 64 of these Rules relates to the basic facts of the case and can prove that the original judgment or ruling is indeed erroneous, it shall be determined as falling within the circumstances provided for in item (1) of Article 200 of the Civil Procedure Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Any of the following circumstances shall be determined as \"the basic facts found are not supported by evidence\" as provided for in item (2) of Article 200 of the Civil Procedure Law of the People's Republic of China:\n(a) the basic facts found are not supported by evidence, or the evidence on which the basic facts found are based is false or lacks probative force;\n(b) the evidence on which the basic facts found are based is unlawful;\n(c) the finding of the basic facts violates logical reasoning or the rules of everyday life;\n(d) other circumstances in which the basic facts found are not supported by evidence."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Any of the following circumstances, where it causes the result of the original judgment or ruling to be erroneous, shall be determined as \"the application of law is indeed erroneous\" as provided for in item (6) of Article 200 of the Civil Procedure Law of the People's Republic of China:\n(a) the law applied is manifestly inconsistent with the nature of the case;\n(b) the determination of civil liability manifestly contravenes the agreement of the parties or the provisions of law;\n(c) a law that has already become invalid or has not yet come into force is applied;\n(d) the provisions on the retroactive effect of law are violated;\n(e) the rules on the application of law are violated;\n(f) the original legislative intent is manifestly contravened;\n(g) other circumstances of erroneous application of law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Any of the following circumstances shall be determined as \"the composition of the trial organisation is unlawful\" as provided for in item (7) of Article 200 of the Civil Procedure Law of the People's Republic of China:\n(a) a case that should be tried by a collegial panel is tried by a single judge;\n(b) a people's assessor participates in the trial of a case of second instance;\n(c) a case for retrial or remanded for retrial is not heard by a differently constituted collegial panel;\n(d) the persons trying the case do not have the qualification for adjudication;\n(e) other circumstances in which the trial organisation or personnel are unlawful."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Any of the following circumstances shall be determined as \"the parties' right to debate is deprived in violation of the provisions of law\" as provided for in item (9) of Article 200 of the Civil Procedure Law of the People's Republic of China:\n(a) the parties are not permitted to exercise, or are seriously restricted in exercising, their right to debate;\n(b) a case that should be heard in court is not heard in court;\n(c) a copy of the statement of claim or of the statement of appeal is served in violation of the provisions of law, so that the parties are unable to exercise their right to debate;\n(d) other circumstances of unlawfully depriving the parties of their right to debate."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a local people's procuratorate at any level finds that a legally effective civil judgment or ruling of the people's court at the same level contains any of the following circumstances, it may make a procuratorial recommendation for retrial to the people's court at the same level:\n(a) there is new evidence sufficient to overturn the original judgment or ruling;\n(b) the basic facts found in the original judgment or ruling are not supported by evidence;\n(c) the main evidence on which the original judgment or ruling is based is forged;\n(d) the main evidence on which the original judgment or ruling is based has not been cross-examined;\n(e) in respect of the main evidence required for the trial of the case, a party was unable to collect it itself for objective reasons, applied in writing to the people's court to investigate and collect it, and the people's court did not do so;\n(f) the composition of the trial organisation is unlawful, or judicial personnel who should have withdrawn in accordance with law did not withdraw;\n(g) a person without litigation capacity was not represented in litigation by a legal representative, or a party that should have participated in the litigation did not participate for reasons not attributable to himself or his agent ad litem;\n(h) the parties' right to debate was deprived in violation of the provisions of law;\n(i) a judgment by default was made without service of a summons;\n(j) the original judgment or ruling omitted or exceeded the claims;\n(k) the legal document on which the original judgment or ruling was based has been revoked or modified."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where any of the following circumstances exists in a case meeting the provisions of Article 81 of these Rules, a local people's procuratorate at any level shall generally request the people's procuratorate at the next higher level to lodge a protest:\n(a) the judgment or ruling was made after retrial by the people's court at the same level;\n(b) the judgment or ruling was made after discussion by the judicial committee of the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where a local people's procuratorate at any level finds that a legally effective civil judgment or ruling of the people's court at the same level contains any of the following circumstances, it shall generally request the people's procuratorate at the next higher level to lodge a protest:\n(a) the application of law in the original judgment or ruling is indeed erroneous;\n(b) judicial personnel committed acts such as embezzlement and bribery, fraudulent practices for personal gain, or perversion of the law in adjudication when trying the case."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a case meeting the provisions of Articles 82 and 83 of these Rules is suitable for correction through retrial by the people's court at the same level, the local people's procuratorate at any level may make a procuratorial recommendation for retrial to the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a local people's procuratorate at any level finds that a civil mediation statement harms the interests of the State or the public interest, it may make a procuratorial recommendation for retrial to the people's court at the same level, or may request the people's procuratorate at the next higher level to lodge a protest."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "In respect of a case in which the people's court has already adopted a procuratorial recommendation for retrial and conducted a retrial, the people's procuratorate that made the recommendation shall generally not again request the people's procuratorate at a higher level to lodge a protest."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where a people's procuratorate makes a procuratorial recommendation for retrial, it shall draw up a Procuratorial Recommendation for Retrial, transfer it together with the case file to the people's court at the same level within fifteen days from the date of the decision to make the recommendation, and draw up a Notice of the decision to make the recommendation and send it to the parties.\n The making of a procuratorial recommendation for retrial by a people's procuratorate shall be decided by the procuratorial committee of the procuratorate, and the Procuratorial Recommendation for Retrial shall be reported to the people's procuratorate at a higher level for the record."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where a people's procuratorate requests a protest, it shall draw up a Report on Requesting a Protest, submit it together with the case file to the people's procuratorate at the next higher level within fifteen days from the date of the decision to request a protest, and draw up a Notice of the decision to request a protest and send it to the parties."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where a people's procuratorate considers that the application for supervision of a party does not meet the conditions for making a procuratorial recommendation for retrial or for requesting a protest, it shall make a decision not to support the application for supervision, and shall draw up a Decision Not to Support the Application for Supervision within fifteen days from the date of the decision and send it to the party."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial and Requests for Protest"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where the Supreme People's Procuratorate finds that a legally effective civil judgment, ruling or mediation statement of a people's court at any level, or a people's procuratorate at a higher level finds that a legally effective civil judgment, ruling or mediation statement of a people's court at a lower level, contains any of the circumstances provided for in Articles 200 and 208 of the Civil Procedure Law of the People's Republic of China, it shall lodge a protest with the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 3 Protest"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "In a case in which a people's procuratorate lodges a protest and the people's court that accepts the protest assigns the case to the people's court at the next lower level for retrial, and the judgment or ruling made after retrial by the people's court at the lower level still contains manifest errors, the people's procuratorate that originally lodged the protest may lodge a further protest ex officio."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 3 Protest"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest, it shall draw up a Protest, transfer it together with the case file to the people's court at the same level within fifteen days from the date of the decision to lodge the protest, and the people's court accepting the protest shall serve the Protest on the parties together with the ruling for retrial.\n The people's procuratorate shall draw up a Notice of the decision to lodge a protest and send it to the parties. The people's procuratorate at a higher level may entrust the people's procuratorate that requested the protest to send the Notice of the decision to lodge a protest to the parties."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 3 Protest"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a people's procuratorate considers that the application for supervision of a party does not meet the conditions for lodging a protest, it shall make a decision not to support the application for supervision, and shall draw up a Decision Not to Support the Application for Supervision within fifteen days from the date of the decision and send it to the party. The people's procuratorate at a higher level may entrust the people's procuratorate that requested the protest to send the Decision Not to Support the Application for Supervision to the party."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 3 Protest"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "In a case in which a people's procuratorate has lodged a protest, the people's procuratorate shall send personnel to appear in court when the people's court conducts the retrial.\n Where necessary, the people's procuratorate may coordinate with the people's court to arrange for people's supervisors to sit in on the hearing."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance in Court"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where the people's court that accepts a protest assigns the protest case to a people's court at a lower level for retrial, the people's procuratorate that lodged the protest may direct the people's procuratorate at the same level as the people's court of retrial to send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance in Court"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The tasks of procuratorial personnel appearing before the court of retrial are:\n(a) reading out the protest;\n(b) producing and explaining the evidence obtained through investigation by the people's procuratorate;\n(c) at the conclusion of the hearing, expressing opinions on legal supervision with the permission of the presiding judge;\n(d) recording circumstances in the course of the court hearing that violate the litigation procedure.\n Where procuratorial personnel find that the court hearing activities are unlawful, they shall, after the court is adjourned or the hearing is concluded, make a procuratorial recommendation in the name of the people's procuratorate.\n Procuratorial personnel appearing in court shall participate in the court hearing throughout."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance in Court"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a party or other participant in the court hearing makes improper remarks or commits improper acts such as insulting, defaming or threatening the procuratorial organ or the procuratorial personnel appearing in court during the hearing, the procuratorial personnel appearing in court shall recommend that the court stop it immediately; where the circumstances are serious, they shall recommend that the court deal with it in accordance with the provisions and shall report the matter to the chief procurator after the hearing is concluded."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 4 Attendance in Court"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The trial procedures provided for in paragraph 3 of Article 208 of the Civil Procedure Law of the People's Republic of China include:\n(a) the ordinary procedure of first instance;\n(b) the summary procedure;\n(c) the procedure of second instance;\n(d) the special procedure;\n(e) the procedure for trial supervision;\n(f) the procedure for urging payment;\n(g) the procedure of public summons;\n(h) the special maritime procedure;\n(i) the bankruptcy procedure."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Trial Procedure"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The provisions of paragraph 3 of Article 208 of the Civil Procedure Law of the People's Republic of China shall apply to judges, people's assessors, judge assistants and clerks."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Trial Procedure"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where a people's procuratorate finds that any of the following circumstances exists in the civil trial procedure of the people's court at the same level, it shall make a procuratorial recommendation to the people's court at the same level:\n(a) the judgment or ruling is indeed erroneous but is not to be corrected through the retrial procedure;\n(b) the mediation violates the principle of voluntariness, or the content of the mediation agreement violates the law;\n(c) the conditions for bringing an action and for acceptance provided for by law are met, and the case should be docketed but is not;\n(d) an erroneous trial procedure is applied in trying the case;\n(e) preservation and advance enforcement violate the provisions of law;\n(f) an order for payment violates the provisions of law;\n(g) suspension or conclusion of litigation violates the provisions of law;\n(h) the statutory time limit for trial is violated;\n(i) compulsory measures against obstruction of civil litigation such as imposition of a fine or detention on a party violate the provisions of law;\n(j) service is effected in violation of the provisions of law;\n(k) other circumstances in violation of the provisions of law."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Trial Procedure"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a people's procuratorate finds that judicial personnel in the civil trial procedure of the people's court at the same level have committed the unlawful acts provided for in Article 46 and the like of the Judges Law of the People's Republic of China, which may affect the fair trial or enforcement of the case, it shall make a procuratorial recommendation to the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Trial Procedure"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a people's procuratorate makes a procuratorial recommendation in accordance with the provisions of this Chapter, it shall draw up a Procuratorial Recommendation, transfer it together with the case file to the people's court at the same level within fifteen days from the date of the decision to make the recommendation, and draw up a Notice of the decision to make the recommendation and send it to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Trial Procedure"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where a people's procuratorate considers that the grounds for determining the unlawful acts of judicial personnel in the trial procedure on which a party's application for supervision is based are insufficient, it shall make a decision not to support the application for supervision, and shall draw up a Decision Not to Support the Application for Supervision within fifteen days from the date of the decision and send it to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Trial Procedure"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "People's procuratorates shall exercise legal supervision over the activities of people's courts in enforcing legal documents such as effective civil judgments, rulings, mediation statements, orders for payment, arbitral awards and notarised documents of creditor's rights."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a people's procuratorate considers that a people's court may have delayed in performing its duties in enforcement activities, it may, in accordance with the relevant provisions, issue a Notice Requiring an Explanation of the Circumstances of Enforcement of the Case to the people's court requiring an explanation of the circumstances of enforcement of the case and the reasons."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a people's procuratorate finds that any of the following circumstances exists in the enforcement activities of a people's court, it shall make a procuratorial recommendation to the people's court at the same level:\n(a) unlawful or erroneous circumstances exist in enforcement review activities such as deciding whether to accept a case, the transfer of enforcement jurisdiction, and the review and disposition of objections to enforcement, applications for reconsideration and petitions;\n(b) unlawful or erroneous circumstances exist in enforcement implementation activities such as investigation, control, disposal, delivery and distribution of property and measures such as fines, detention and credit discipline;\n(c) circumstances such as passive enforcement or delayed enforcement exist;\n(d) other unlawful or erroneous circumstances in enforcement."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a people's procuratorate has accepted a case in accordance with the provisions of paragraph 2 of Article 30 of these Rules and assigned the case, and, upon review, the people's procuratorate at the lower level considers that unlawful or erroneous circumstances exist in the ruling or decision on reconsideration of enforcement made by the people's court, it shall request supervision by the people's procuratorate at the higher level; where it considers that the ruling or decision on reconsideration of enforcement made by the people's court is correct, it shall make a decision not to support the application for supervision."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where a people's procuratorate makes a procuratorial recommendation in respect of enforcement activities, the matter shall be decided by the chief procurator or the procuratorial committee, a Procuratorial Recommendation shall be drawn up, transferred together with the case file to the people's court at the same level within fifteen days from the date of the decision, and a Notice of the decision to make the recommendation shall be drawn up and sent to the parties."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where a people's procuratorate considers that no unlawful circumstances exist in the enforcement activities of the people's court in respect of which a party has applied for supervision, it shall make a decision not to support the application for supervision, and shall draw up a Decision Not to Support the Application for Supervision within fifteen days from the date of the decision and send it to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a people's procuratorate finds that enforcement personnel have committed unlawful acts in the enforcement activities of the people's court at the same level, the relevant provisions of Chapter VI of these Rules shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The department responsible for case management of a people's procuratorate shall manage, supervise and give early warning in respect of the acceptance, time limits, procedure and quality of cases of supervision over civil litigation."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where the department responsible for case management finds any of the following circumstances in the case-handling activities of the procuratorate, it shall promptly raise opinions on correction:\n(a) the drawing up or use of legal documents does not comply with the law and the relevant provisions;\n(b) the relevant provisions on the time limit for case handling are violated;\n(c) the litigation rights of the parties or agents ad litem are infringed;\n(d) the duty of legal supervision is not performed in accordance with law in respect of unlawful acts in civil trial activities and enforcement activities;\n(e) other circumstances in which opinions on correction should be raised.\n Where the circumstances are minor, an oral reminder may be given; where the circumstances are relatively serious, a Notice of Monitoring of the Case Process shall be sent prompting the case-handling department to promptly ascertain the circumstances and correct them; where the circumstances are serious, a report shall at the same time be made to the chief procurator.\n After receiving the Notice of Monitoring of the Case Process, the case-handling department shall reply in writing to the department responsible for case management on the result of verification within ten days."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "The department responsible for case management shall implement supervision and management in respect of the legal documents on supervision over civil litigation drawn up and issued in the name of the procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where a case of supervision over civil litigation handled by a people's procuratorate requires the transfer of case file materials to another unit after it is concluded, the department responsible for case management shall uniformly examine whether the materials to be transferred are standard and complete. Where the department responsible for case management considers that the materials are standard and complete and meet the conditions for transfer, the case-handling department shall transfer them immediately in accordance with the provisions; where it considers that the materials do not meet the requirements, it shall promptly notify the case-handling department to supplement or correct them."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Legal documents such as civil judgments, rulings or mediation statements served by a people's court on a people's procuratorate shall be received by the department responsible for case management, which shall register them immediately and transfer them to the department responsible for civil procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where, in the course of handling a case of supervision over civil litigation, a party or its agent ad litem submits an application, makes a request or submits written materials, the department responsible for case management shall be responsible for receiving them and shall issue the relevant formalities where they need to be issued. After receiving the materials, the department responsible for case management shall promptly transfer them to the department responsible for civil procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where a people's procuratorate finds that any of the following circumstances exists in several civil cases of the same type before a people's court, it may make a procuratorial recommendation:\n(a) the law is applied inconsistently in respect of issues of the same kind;\n(b) errors of the same kind exist in the application of law;\n(c) other unlawful acts of the same kind.\n Where a people's procuratorate finds that the working systems, management methods or working procedures of the relevant unit are unlawful or improper and require correction or improvement, it may make a procuratorial recommendation."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where new evidence submitted by an applicant to a people's procuratorate is forged, or the applicant makes a false statement on important facts of the case, the people's procuratorate shall criticise and educate the applicant and may conclude the review, except where supervision is truly necessary; where a violation of discipline or law or a crime is suspected, the matter shall be transferred to the relevant organ for handling in accordance with the provisions.\n Where any of the circumstances in the preceding paragraph exists in respect of another party, the people's procuratorate shall criticise and educate that party; where a violation of discipline or law or a crime is suspected, the matter shall be transferred to the relevant organ for handling in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where a people's procuratorate finds that unlawful or erroneous circumstances exist in the review and disposition by a people's court of a party's application for enforcement, application for revocation of an arbitral award or application for enforcement of a notarised document of creditor's rights, the relevant provisions of Chapters VI and VII of these Rules shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where, in the performance of its duties, the department responsible for civil procuratorial work discovers acts suspected of violating discipline or law or committing a crime and acts requiring pursuit of judicial responsibility, it shall report the matter to the chief procurator for decision and promptly transfer the relevant clues and materials to the organ or department having jurisdiction.\n Where, in the performance of its duties, another functional department of a people's procuratorate discovers clues to a case of supervision over civil litigation in which the supervision procedure should be initiated ex officio as provided for in these Rules, it shall promptly notify the department responsible for civil procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where a people's procuratorate finds that a relevant decision it has made is indeed erroneous and requires correction, or that there are other circumstances requiring its withdrawal, the matter shall be decided by the chief procurator or the procuratorial committee of the procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where a people's court makes a recommendation in respect of a supervisory act of a people's procuratorate, the people's procuratorate shall reply in writing to the people's court on the result of its disposition within one month. Where the people's court objects to the reply and raises the matter with the people's procuratorate at the next higher level through the people's court at the next higher level, and the people's procuratorate at the higher level considers the recommendation of the people's court to be correct, it shall require the people's procuratorate at the lower level to correct the matter promptly."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "After a people's court makes a judgment or ruling of retrial or another disposition decision in respect of a case of supervision over civil litigation, the people's procuratorate that made the supervision opinion shall review the result of the disposition and fill in the Registration Form for Review of the Result of Disposition of a Case of Supervision over Civil Litigation."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where any of the following circumstances exists, a people's procuratorate may supervise again or request supervision by the people's procuratorate at a higher level in accordance with the relevant provisions:\n(a) the judgment, ruling or mediation statement made by the people's court after trying a civil protest case still contains manifest errors;\n(b) the people's court fails to dispose of a procuratorial recommendation within the prescribed time limit and to reply in writing;\n(c) the result of the disposition by the people's court of a procuratorial recommendation is erroneous."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where a local people's procuratorate at any level finds that the application of law in a major case of supervision over civil litigation is truly difficult and complex and that it is difficult for the procuratorate itself to decide, it may request instructions from the people's procuratorate at a higher level.\n Cases in which instructions are requested shall be handled in accordance with the relevant provisions of the Supreme People's Procuratorate on handling requests for instructions from people's procuratorates at lower levels and on the submission of official documents by people's procuratorates at lower levels to the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where a party considers that a decision not to support an application for supervision made by a people's procuratorate in respect of a legally effective civil judgment, ruling or mediation statement of the people's court at the same level contains manifest errors, it may, within one year from the date on which the decision not to support the application for supervision is made, apply once to the people's procuratorate at the next higher level for re-examination. Where, after preliminary verification, the department responsible for procuratorial work on complaints and petitions finds that any of the following circumstances may exist, it may transfer the matter to the department responsible for civil procuratorial work of the procuratorate for review and handling:\n(a) there is new evidence sufficient to overturn the original judgment or ruling;\n(b) there is evidence proving that the main evidence on which the original judgment or ruling is based is forged;\n(c) the legal document on which the original judgment or ruling is based has been revoked or modified;\n(d) there is evidence proving that judicial personnel committed acts such as embezzlement and bribery, fraudulent practices for personal gain, or perversion of the law in adjudication when trying the case;\n(e) there is evidence proving that procuratorial personnel committed acts such as embezzlement and bribery, fraudulent practices for personal gain, or abuse of power when handling the case;\n(f) re-examination is truly necessary for other reasons.\n Where, after review, the department responsible for civil procuratorial work considers that the decision of the people's procuratorate at the next lower level not to support the application for supervision is erroneous, it shall revoke it in the name of the people's procuratorate and lodge a protest in accordance with law; where it considers that no error exists, it shall decide to uphold the decision upon re-examination and draw up a Re-examination Decision to be sent to the applicant.\n A people's procuratorate at a higher level may, ex officio, re-examine a case in which a people's procuratorate at a lower level made a decision not to support an application for supervision in respect of a legally effective civil judgment, ruling or mediation statement of the people's court at the same level.\n The review period for re-examination cases shall be governed by reference to the provisions of paragraph 1 of Article 52 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "The drawing up of legal documents on supervision over civil litigation shall conform to the prescribed formats.\n The formats of legal documents on supervision over civil litigation shall be formulated separately."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "A people's procuratorate may serve legal documents by reference to the relevant provisions of the Civil Procedure Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where a people's procuratorate finds clerical errors in a legal document it has drawn up, it shall make a Decision on Correction to correct them."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "People's procuratorates shall, in accordance with the provisions, establish files for supervision over civil litigation in handling cases of supervision over civil litigation."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "People's procuratorates shall not charge a case acceptance fee for handling cases of supervision over civil litigation. The expenses incurred for applications for reproduction, appraisal, audit, inspection and the like shall be paid by the applicant directly to the relevant institution or unit, and people's procuratorates may not collect or pay them on behalf of others."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "The handling of cases of procuratorial recommendation for which these Rules contain no provision shall be governed by the Provisions of the People's Procuratorate on Procuratorial Recommendations."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "The handling of cases of supervision over civil public interest litigation shall be governed by these Rules and the provisions of the relevant judicial interpretations on public interest litigation procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "These Rules and other relevant provisions shall apply to the handling of cases of supervision over civil litigation by special people's procuratorates such as military procuratorates, and to the supervision by people's procuratorates over civil litigation of other special people's courts."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "These Rules shall come into force on 1 August 2021, and the Rules of the People's Procuratorate for Supervision over Civil Litigation (for Trial Implementation) shall be repealed simultaneously. Where other provisions previously published by this Procuratorate are inconsistent with the content of these Rules, these Rules shall prevail.\nPrincipal recipient: people's procuratorates at all levels.\nCopied to: the Political and Legal Affairs Commission of the CPC Central Committee; the Legislative Affairs Commission of the Standing Committee of the National People's Congress;\nleading comrades of this Procuratorate and the full-time members of the procuratorial committee;\nall internal departments and all directly affiliated public institutions of the Procuratorate.\nGeneral Office of the Supreme People's Procuratorate, printed and issued on 2 July 2021"
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0010'] = {
+    "lawId": "CN-JI-0010",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 137 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the Administrative Procedure Law of the People's Republic of China, the Civil Procedure Law of the People's Republic of China, the Organic Law of the People's Procuratorates of the People's Republic of China and other relevant provisions, and in the light of the actual work of people's procuratorates, in order to safeguard and regulate the performance by people's procuratorates of their duties of supervision over administrative litigation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "People's procuratorates shall exercise procuratorial power independently in accordance with law and, by handling cases of supervision over administrative litigation, supervise the trial and enforcement activities of people's courts in accordance with law, promote the lawful exercise of functions and powers by administrative organs, safeguard judicial fairness and judicial authority, safeguard the interests of the State and the public interest, protect the lawful rights and interests of citizens, legal persons and other organisations, promote the substantive resolution of administrative disputes, and ensure the uniform and correct implementation of the laws of the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's procuratorates shall exercise legal supervision over administrative litigation by such means as lodging protests and making procuratorial recommendations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In exercising legal supervision over administrative litigation, people's procuratorates shall base themselves on the facts, take the law as the criterion, uphold openness, fairness and impartiality, conduct a comprehensive review in accordance with law, and supervise and support people's courts and administrative organs in exercising their functions and powers in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In handling cases of supervision over administrative litigation, people's procuratorates shall channel complex and simple cases into separate tracks, handling complex cases with care and simple cases expeditiously.\n In handling cases of supervision over administrative litigation, people's procuratorates shall strengthen the use of intellectual support; in respect of major, difficult and complex issues, they may consult experts or organise expert demonstration and hear the opinions and suggestions of experts."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In handling cases of supervision over administrative litigation, people's procuratorates shall ascertain the facts of the case and distinguish right from wrong, and shall carry out work for the substantive resolution of administrative disputes by comprehensively using means such as supervision and correction, public hearings, explanation of law and reasoning, and judicial assistance."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The departments responsible for procuratorial work on complaints and petitions, administrative procuratorial work and case management shall respectively undertake the acceptance, handling and management of cases of supervision over administrative litigation, and the departments shall cooperate with and check each other.\n Cases in which a party is dissatisfied with a legally effective administrative compensation judgment, ruling or mediation statement of a people's court shall be handled by the department responsible for administrative procuratorial work in accordance with the provisions of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In handling cases of supervision over administrative litigation, people's procuratorates shall have the procurator, the chief procurator and the procuratorial committee decide on case-handling matters within the scope of their respective functions and powers, and bear the corresponding judicial responsibility in accordance with the provisions.\n A procurator shall carry out work under the leadership of the chief procurator. Major case-handling matters shall be decided by the chief procurator. The chief procurator may, according to the circumstances of the case, submit them to the procuratorial committee for discussion and decision. Other case-handling matters may be decided by the chief procurator itself or by the procurator under entrustment.\n Where these Rules explicitly provide for major case-handling matters that should be decided by the chief procurator or the procuratorial committee, the provisions of these Rules shall be followed; where these Rules contain no explicit provision, a provincial people's procuratorate may formulate the relevant provisions and report them to the Supreme People's Procuratorate for approval.\n Legal documents drawn up and issued in the name of a people's procuratorate shall be signed and issued by the chief procurator; where a matter falls within the scope of the functions and powers of a procurator, the chief procurator may authorise the procurator to sign and issue them.\n Major, difficult or complex cases or cases with social impact shall be reported to the chief procurator."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In handling cases of supervision over administrative litigation, a people's procuratorate may, according to the circumstances of the case, have one procurator handle the case alone or form a case-handling group of two or more procurators to handle it. Where a procuratorial case-handling group handles the case, the chief procurator shall designate one procurator to serve as the principal procurator to organise and direct the group in handling the case.\n In handling cases of supervision over administrative litigation, a procurator may, as required, be assisted by procuratorial auxiliary personnel such as procurator assistants, clerks, judicial police officers and procuratorial technical personnel. Procuratorial auxiliary personnel shall undertake the corresponding procuratorial auxiliary affairs in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The Supreme People's Procuratorate shall lead the work of supervision over administrative litigation of the local people's procuratorates at all levels and of the special people's procuratorates, and a people's procuratorate at a higher level shall lead the work of supervision over administrative litigation of the people's procuratorate at a lower level.\n Where a people's procuratorate at a higher level considers a decision of a people's procuratorate at a lower level to be erroneous, it has the power to direct the people's procuratorate at the lower level to correct it, or to revoke or modify it in accordance with law. Decisions of a people's procuratorate at a higher level shall be made in writing, and the people's procuratorate at the lower level shall execute them. Where a people's procuratorate at a lower level holds different views on a decision of the people's procuratorate at a higher level, it may report the matter to the people's procuratorate at the higher level while executing the decision.\n A people's procuratorate at a higher level may, in accordance with law, deploy procuratorial personnel within its jurisdiction in a unified manner to handle cases of supervision over administrative litigation, and the decision on deployment shall be made in writing. The deployed procurators may, on behalf of the people's procuratorate handling the case, perform the relevant procuratorial duties."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the chief procurator of a people's procuratorate, or a deputy chief procurator entrusted by the chief procurator, attends, in accordance with the relevant provisions, the discussion by the judicial committee of the people's court at the same level of a case of supervision over administrative litigation or other topics relating to supervision over administrative litigation, it may sit in on the meeting."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Procuratorial personnel handling cases of supervision over administrative litigation shall uphold an objective and impartial position and consciously accept supervision.\n Procuratorial personnel may not, in violation of the provisions, contact or associate with parties, lawyers, specially related persons or intermediary organisations.\n Where procuratorial personnel accept bribes, engage in fraudulent practices for personal gain or commit other such acts, they shall be pursued for disciplinary and legal responsibility.\n Procuratorial personnel shall, in accordance with the relevant provisions, record and report comprehensively, truthfully and promptly acts of inquiring about, intervening in or meddling with the handling of cases of supervision over administrative litigation and other major matters."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where any of the following circumstances exists in respect of procuratorial personnel handling a case of supervision over administrative litigation, they shall withdraw on their own initiative, and the parties have the right to apply for their withdrawal:\n(a) they are a party to the case, or a close relative of a party or of an entrusted agent;\n(b) they have served as a witness, entrusted agent, judicial personnel or administrative law enforcement officer in the case;\n(c) they have an interest in the case;\n(d) they have other relations with a party or an entrusted agent in the case that may affect the fair handling of the case.\n Where procuratorial personnel accept banquets, gifts or other benefits from a party or an entrusted agent, or meet a party or an entrusted agent in violation of the provisions, the parties have the right to apply for their withdrawal.\n The above provisions shall apply to clerks, interpreters, appraisers, inspectors and the like."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where procuratorial personnel withdraw on their own initiative, they may do so orally or in writing and shall state the reasons. Where an application is made orally, it shall be recorded in the file."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a party applies for withdrawal, it shall do so orally or in writing before the people's procuratorate makes a decision to lodge a protest or make a procuratorial recommendation, and shall state the reasons. Where an application is made orally, it shall be recorded in the file. Where an application for withdrawal is made in accordance with the provisions of paragraph 2 of Article 13 of these Rules, the relevant evidence shall be provided.\n The person whose withdrawal is applied for shall suspend participation in the work of the case before the people's procuratorate makes a decision on whether to withdraw, except where urgent measures need to be taken in the case."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The withdrawal of the chief procurator shall be discussed and decided by the procuratorial committee; the withdrawal of procuratorial personnel and other personnel shall be decided by the chief procurator. When the procuratorial committee discusses the withdrawal of the chief procurator, the deputy chief procurator shall preside and the chief procurator may not participate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A people's procuratorate shall, within three days after receiving an application for withdrawal submitted by a party, make a decision and notify the applicant. An application that manifestly does not fall within the statutory grounds for withdrawal may be rejected on the spot and recorded in the file.\n Where the applicant is dissatisfied with the decision rejecting the application for withdrawal, it may, upon receipt of the decision, apply once for reconsideration to the organ that made the decision. The people's procuratorate shall make a reconsideration decision within three days and notify the applicant for reconsideration. During the period of reconsideration, the person whose withdrawal is applied for shall not cease to participate in the work of the case."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Withdrawal"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The channels through which people's procuratorates accept cases of supervision over administrative litigation include:\n(a) a party applies to the people's procuratorate for supervision;\n(b) a citizen, legal person or other organisation other than a party complains to the people's procuratorate;\n(c) discovery by the people's procuratorate ex officio."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A party may apply to a people's procuratorate for supervision in any of the following circumstances:\n(a) the people's court rejects an application for retrial or fails to rule on the application for retrial within the time limit, and the party considers that a legally effective administrative judgment, ruling or mediation statement is indeed erroneous;\n(b) the party considers that an administrative judgment or ruling of retrial is indeed erroneous;\n(c) the party considers that judicial personnel have committed unlawful acts in the administrative trial procedure;\n(d) the party considers that unlawful circumstances exist in the enforcement activities of the people's court in administrative cases.\n Where a party dies or terminates, the successor to its rights and obligations may apply to the people's procuratorate for supervision in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a party applies to a people's procuratorate for supervision in accordance with the provisions of items (1) and (2) of paragraph 1 of Article 19 of these Rules, it shall do so within six months from the date on which the people's court serves the ruling rejecting the application for retrial or the judgment or ruling of retrial takes legal effect; where the people's court fails to rule on the application for retrial within the time limit, it shall do so within six months from the date of expiry of the period for reviewing the application for retrial.\n Where a party applies to a people's procuratorate for supervision in accordance with the provisions of items (1) and (2) of paragraph 1 of Article 19 of these Rules and any of the following circumstances exists, it shall do so within six months from the date on which it knows or ought to have known:\nthere is new evidence sufficient to overturn the original effective judgment or ruling;\nthe main evidence on which the original effective judgment or ruling is based is forged;\nthe legal document on which the original effective judgment or ruling is based has been revoked or modified;\njudicial personnel committed acts such as embezzlement and bribery, fraudulent practices for personal gain, or perversion of the law in adjudication when trying the case.\n Where a party applies to a people's procuratorate for supervision in accordance with the provisions of items (3) and (4) of paragraph 1 of Article 19 of these Rules, it shall do so within six months from the date on which it knows or ought to have known of the occurrence of the unlawful acts of judicial personnel or of the unlawful circumstances in enforcement activities.\n The period provided for in this Article is an invariable period, to which the provisions on suspension, interruption and extension shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a party applies to a people's procuratorate for supervision, it shall submit an application for supervision, proof of identity, the relevant legal documents and evidentiary materials. Where evidentiary materials are submitted, a list of evidence shall be attached.\n Where the materials for applying for supervision are incomplete, the people's procuratorate shall require the applicant to complete them within a time limit and shall inform the applicant in one go of all the materials to be completed and of the legal consequence that failure to complete them as required within the time limit will be deemed a withdrawal of the application for supervision. Where the applicant fails to complete the main materials within the time limit, the application for supervision shall be deemed withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The application for supervision provided for in Article 21 of these Rules shall state the following matters:\n(a) the name, sex, age, ethnicity, occupation, place of work, address and valid contact details of the applicant and, in the case of a legal person or other organisation, its name and domicile and the name, position and valid contact details of its legal representative or principal person in charge;\n(b) information such as the name, sex, place of work, address and valid contact details of the other parties and, in the case of a legal person or other organisation, its name, domicile and the name, position and valid contact details of its legal representative or principal person in charge;\n(c) the requests for supervision;\n(d) the specific statutory circumstances on which the application for supervision is based and the facts and grounds.\n The applicant shall submit copies of the application for supervision in accordance with the number of the other parties."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The proof of identity provided for in Article 21 of these Rules includes:\n(a) in the case of a citizen, valid documents capable of proving his identity, such as the resident identity card, officer's identity card, soldier's identity card and passport;\n(b) in the case of a legal person or other organisation, valid certificates such as the certificate of unified social credit code or the business licence, and proof of identity of the legal representative or principal person in charge.\n The people's procuratorate shall, after checking the proof of identity submitted by a party and finding it correct, retain a copy."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The relevant legal documents provided for in Article 21 of these Rules mean all judgments, rulings, decisions, mediation statements and other legal documents made by the people's court in the course of the litigation of the case."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a party applies for supervision, it may entrust an agent in accordance with the provisions of the Administrative Procedure Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where an application for supervision by a party meets all of the following conditions, the people's procuratorate shall accept it:\n(a) it meets the provisions of Article 19 of these Rules;\n(b) it meets the provisions of Article 20 of these Rules;\n(c) the materials provided by the applicant meet the provisions of Articles 21 to 24 of these Rules;\n(d) it falls within the scope of cases accepted by the procuratorate;\n(e) none of the circumstances in which acceptance is not granted as provided for in these Rules exists."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a party applies to a people's procuratorate for supervision and any of the following circumstances exists, the people's procuratorate shall not accept the application:\nthe party has not applied to the people's court for retrial in respect of an effective administrative judgment, ruling or mediation statement;\nthe party's application for retrial exceeds the time limit provided for by law;\n(c) the people's court is reviewing the application for retrial within the statutory time limit;\n(d) the people's court has already ruled for retrial and the case has not yet been concluded;\n(e) the people's procuratorate has already concluded the review and made a decision;\n(f) the administrative judgment, ruling or mediation statement was made by the people's court after retrial pursuant to a protest or a procuratorial recommendation for retrial of the people's procuratorate;\n(g) the application for supervision exceeds the time limit provided for in Article 20 of these Rules;\n(h) the law provides that an objection may be raised, reconsideration applied for or an action brought in respect of the enforcement activities of the people's court, and the party, interested person or person not involved in the case has not raised an objection, applied for reconsideration or brought an action, except where there are legitimate reasons or the people's procuratorate supervises ex officio;\n(i) after the party raised an objection relating to enforcement, applied for reconsideration, petitioned or brought an action, the people's court has accepted the matter and is reviewing and handling it, except where it has not made a disposition beyond the statutory time limit;\n(j) other circumstances in which acceptance should not be granted."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a party applies to a people's procuratorate for supervision in respect of a legally effective administrative judgment, ruling or mediation statement, the application shall be accepted by the department responsible for procuratorial work on complaints and petitions of the people's procuratorate at the same level at the place where the people's court that made the effective judgment, ruling or mediation statement is situated."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a party considers that judicial personnel have committed unlawful acts in the administrative trial procedure or that unlawful circumstances exist in enforcement activities and applies to a people's procuratorate for supervision, the application shall be accepted by the department responsible for procuratorial work on complaints and petitions of the people's procuratorate at the same level at the place where the people's court that tried or enforced the case is situated.\n Where a party is dissatisfied with a reconsideration ruling or decision made by the people's court at a higher level than the people's court that tried or enforced the case and applies to a people's procuratorate for supervision, the application shall be accepted by the department responsible for procuratorial work on complaints and petitions of the people's procuratorate at the same level at the place where the people's court that made the reconsideration ruling or decision is situated."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a people's procuratorate fails to accept an application for supervision of a party in accordance with law, the party may apply to the people's procuratorate at the next higher level for supervision. Where the people's procuratorate at the higher level considers that the application for supervision of the party meets the conditions for acceptance, it shall direct the people's procuratorate at the next lower level to accept it, and where necessary, may also accept it itself."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The department responsible for procuratorial work on complaints and petitions of a people's procuratorate shall, within seven days, dispose of an application for supervision according to the following circumstances and reply to the applicant:\n(a) where the conditions for acceptance are met, it shall make a decision to accept it in accordance with the provisions of these Rules;\n(b) where it does not fall within the scope of cases accepted by the procuratorate, it shall inform the applicant to apply to the relevant people's procuratorate for supervision;\n(c) where it does not fall within the competence of the people's procuratorate, it shall inform the applicant to report the matter to the relevant organ;\n(d) where the conditions for acceptance are not met and the applicant does not withdraw the application for supervision, it may decide not to accept it."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The department responsible for procuratorial work on complaints and petitions shall, within three days from the date of the decision to accept, draw up a Notice of Acceptance and send it to the applicant, informing it of its rights and obligations.\n Where the other parties need to be notified, the Notice of Acceptance and a copy of the application for supervision shall be sent to the other parties and they shall be informed of their rights and obligations. The other parties may submit written opinions within fifteen days from the date of receipt of the copy of the application for supervision; failure to submit opinions shall not affect the review of the case by the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The department responsible for procuratorial work on complaints and petitions shall, within three days from the date of the decision to accept, transfer the case materials to the department responsible for administrative procuratorial work of the same procuratorate, and at the same time send a copy of the Notice of Acceptance to the department responsible for case management of the same procuratorate. Where the department responsible for procuratorial work on complaints and petitions receives written opinions and other materials submitted by the other parties, it shall promptly transfer them to the department responsible for administrative procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation other than a party considers that judicial personnel have committed unlawful acts in the administrative trial procedure of a people's court or that unlawful circumstances exist in enforcement activities, it may complain to the people's procuratorate at the same level. The complaint shall be accepted by the department responsible for procuratorial work on complaints and petitions of the people's procuratorate.\n The department responsible for procuratorial work on complaints and petitions shall handle the complaints received in accordance with the Provisions of the People's Procuratorate on Work Concerning Letters and Visits and the like."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The department responsible for procuratorial work on complaints and petitions may, in accordance with the Provisions of the People's Procuratorate on Work Concerning Letters and Visits, assign letters-and-visits cases involving supervision over administrative litigation to people's procuratorates at lower levels for handling."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a people's procuratorate finds in the performance of its duties that any of the following circumstances exists in an administrative case, it shall supervise ex officio:\n(a) the interests of the State or the public interest are harmed;\n(b) judicial or enforcement personnel committed acts such as embezzlement and bribery, fraudulent practices for personal gain, or perversion of the law in adjudication when trying or enforcing the administrative case;\n(c) follow-up supervision by the people's procuratorate is required in accordance with the relevant provisions;\n(d) a decision not to support an application for supervision made by the people's procuratorate is indeed erroneous;\n(e) supervision is truly necessary for other reasons.\n Supervision by a people's procuratorate over an administrative case ex officio shall not be subject to whether the party has applied for retrial."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Cases in which a people's procuratorate at a lower level requests a protest or requests other supervision shall be accepted by the department responsible for case management of the people's procuratorate at the higher level.\n In a case supervised ex officio, the department responsible for administrative procuratorial work shall register the case with the department responsible for case management."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "After receiving the case materials, the department responsible for case management shall, within three days, register the case and transfer the case materials and the case registration form to the department responsible for administrative procuratorial work; where the case materials do not comply with the provisions, it shall require them to be completed.\n Where the parties need to be notified after registration and acceptance by the department responsible for case management, the department responsible for administrative procuratorial work shall draw up a Notice of Acceptance and send it to the parties within three days."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Acceptance"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The department responsible for administrative procuratorial work of a people's procuratorate shall be responsible for reviewing cases of supervision over administrative litigation that have been accepted."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "After receiving a case of supervision over administrative litigation transferred by the department responsible for procuratorial work on complaints and petitions or by the department responsible for case management, the department responsible for administrative procuratorial work shall, in accordance with the principle of allocating cases mainly at random and secondarily by designation, determine the sole procurator or procuratorial case-handling group to handle the case."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "A people's procuratorate at a higher level may assign a case of supervision over administrative litigation it has accepted to a people's procuratorate at a lower level for handling and specify a time limit for handling. For an assigned case, a Notice of Assignment shall be drawn up and the relevant materials shall be transferred to the people's procuratorate at the lower level. The people's procuratorate at the lower level shall handle the case in accordance with law, submit its handling opinion within the specified time limit to the people's procuratorate at the higher level, and the people's procuratorate at the higher level shall make a decision within the statutory time limit.\n Where the parties need to be notified of a case assigned by the people's procuratorate at a higher level, a notice document shall be drawn up and sent to the parties."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a people's procuratorate at a higher level considers it truly necessary, it may handle a case of supervision over administrative litigation accepted by a people's procuratorate at a lower level.\n Where a people's procuratorate at a lower level considers that a case of supervision over administrative litigation it has accepted needs to be handled by the people's procuratorate at a higher level, it may request the people's procuratorate at the higher level to handle it.\n The Supreme People's Procuratorate and provincial people's procuratorates may, in order to meet the needs of substantively resolving administrative disputes and the like, designate a people's procuratorate at a lower level to handle a case."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In reviewing a case of supervision over administrative litigation, a people's procuratorate shall conduct a comprehensive review of the administrative litigation activities around the requests for supervision of the applicant, the issues in dispute, the circumstances provided for in Article 36 of these Rules and other unlawful circumstances discovered. Where other parties also apply for supervision before the people's procuratorate makes a decision, they shall be listed as applicants and their requests for supervision shall be reviewed together."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, during the review of a case of supervision over administrative litigation, a people's procuratorate receives evidentiary materials submitted by the applicant or other parties, it shall issue a receipt."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a party other than the administrative organ against which the action is brought applies to the people's court in the original trial for evidence that it is unable to collect itself, the people's court should have obtained but did not obtain the evidence, and the party applies to the people's procuratorate for obtaining it at the stage of supervision over litigation, the people's procuratorate may obtain the evidence if any of the following circumstances exists:\n(a) the evidence is kept by a State organ and can only be obtained by a State organ;\n(b) the evidence involves State secrets, trade secrets or personal privacy;\n(c) other evidence that truly cannot be collected by the party itself for objective reasons.\n Where a party applies for obtaining evidence in accordance with the provisions of the preceding paragraph and the people's procuratorate considers that the evidence is unrelated to the facts of the case, insignificant for proving the facts of the case, or otherwise unnecessary to obtain or collect, it shall not obtain it."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A people's procuratorate shall inform the parties of their right to apply for withdrawal and shall inform them of the names and legal positions of the procuratorial personnel, clerks and others handling the case of supervision over administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "In reviewing a case, a people's procuratorate shall hear the opinions of the parties and investigate and verify the relevant circumstances, and may hold a hearing or hear the opinions of experts where necessary.\n Where a party has entrusted a lawyer to act as its agent, the people's procuratorate shall hear the opinions of the lawyer acting as agent, respect and support the lawyer in performing his duties in accordance with law, provide the relevant assistance and convenience for the lawyer to perform his duties in accordance with law, and safeguard the lawyer's right to practise."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "A people's procuratorate may hear the opinions of the parties in such ways as in person, by video, by telephone, by facsimile, by electronic mail, or by the parties submitting written opinions.\n The content of the opinions heard includes:\n(a) the main facts and grounds on which the applicant considers that the effective administrative judgment, ruling or mediation statement meets the circumstances for retrial;\n(b) the facts and grounds on which the applicant considers that judicial personnel committed unlawful acts in the administrative trial procedure of the people's court;\n(c) the facts and grounds on which the applicant considers that the enforcement activities of the people's court in the administrative case are unlawful;\n(d) the opinions and grounds raised by the other parties in response to the requests for supervision of the applicant;\n(e) the facts and grounds on which the administrative organ made the administrative act;\n(f) whether the applicant and the other parties are willing to settle;\n(g) other opinions that need to be heard."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "In reviewing a case, a people's procuratorate may, in accordance with the relevant provisions, obtain the litigation files and enforcement files of the people's court.\n Where the needs of case handling can be met by copying electronic files, consulting, reproducing or excerpting, the files need not be obtained.\n In respect of an administrative case of the people's court that has been concluded but not yet filed, or an enforcement case that is being handled or has been concluded but not yet filed, the people's procuratorate may directly consult, reproduce, copy or excerpt the case materials at the handling department without obtaining the files.\n Where, in the course of reviewing a case of supervision over an effective administrative judgment, ruling or mediation statement, it is necessary to obtain materials of another case being handled by the people's court, the people's procuratorate may request the people's court handling the case to provide them."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "In reviewing a case, a people's procuratorate may, in respect of major, difficult and complex issues concerning the determination of facts and the application of law, hear the opinions of experts in the following ways:\n(a) holding an expert demonstration meeting;\n(b) consulting orally or in writing;\n(c) other ways of consultation or demonstration."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "In handling cases of supervision over administrative litigation, people's procuratorates shall comprehensively search the relevant guiding cases, typical cases and related cases and shall explain them in the report on conclusion of review."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The procurator handling the case shall be responsible for the facts ascertained upon review. After the review is concluded, a report on conclusion of review shall be drawn up. The report shall state the facts of the case comprehensively, objectively and impartially and put forward clear handling opinions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "In the course of handling a case, the procurator handling the case may request the person in charge of the department responsible for administrative procuratorial work to convene a joint meeting of procurators for discussion.\n The person in charge of the department responsible for administrative procuratorial work shall supervise and manage the case-handling activities of that department. Matters requiring a decision of the chief procurator and cases requiring a report to the chief procurator shall first be examined by the person in charge of the department. The person in charge of the department may preside over a joint meeting of procurators for discussion, or may directly submit the matter to the chief procurator for decision or report it to the chief procurator.\n The discussion and opinions of the joint meeting of procurators shall be truthfully recorded, signed by the procurators attending the meeting and kept on file. The result of the discussion shall serve as a reference for case handling."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the chief procurator disagrees with the opinion of the procurator, it may require the procurator to review the matter, may directly make a decision, or may submit the matter to the procuratorial committee for discussion and decision.\n Where a procurator, in executing a decision of the chief procurator, considers the decision to be erroneous, it shall submit its opinion in writing. Where the chief procurator does not change the original decision, the procurator shall execute it."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A people's procuratorate shall, in respect of a case in which the review has been concluded, make the following decisions in accordance with law according to the circumstances:\n(a) making a procuratorial recommendation for retrial;\n(b) requesting a protest or requesting other supervision;\n(c) lodging a protest;\n(d) making a procuratorial recommendation;\n(e) not supporting the application for supervision;\n(f) concluding the review.\n In respect of a case of a party applying for supervision accepted by the department responsible for procuratorial work on complaints and petitions, the department responsible for administrative procuratorial work shall inform the former of the result of handling the case."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a people's procuratorate accepts a case in which a party applies for supervision over a legally effective administrative judgment, ruling or mediation statement of a people's court, it shall conclude the review and make a decision within three months, except that the period for obtaining the case files, appraisal, valuation, audit and expert consultation shall not be counted in the review period.\n Where the review period needs to be extended owing to the need for investigation and verification, the substantive resolution of administrative disputes or other special circumstances, it shall be approved by the chief procurator of the procuratorate.\n The review period for cases in which a party applies for supervision over unlawful acts of judicial personnel in the administrative trial procedure and for cases in which a party applies for supervision over enforcement activities in administrative cases shall be governed by reference to the provisions of paragraphs 1 and 2."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "In handling cases of supervision over administrative litigation, a people's procuratorate may, in accordance with the relevant provisions, designate judicial police officers to perform duties when hearing the opinions of the parties in person, conducting investigation and verification, holding hearings, or appearing in court."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in the performance of its duty of legal supervision, a people's procuratorate finds any of the following circumstances, it may investigate and verify the relevant circumstances with the parties or persons not involved in the case:\n(a) an administrative judgment, ruling or mediation statement may contain circumstances requiring supervision as provided for by law, and this is difficult to determine merely by reviewing the files and examining the existing materials;\n(b) judicial personnel may have committed unlawful acts in the administrative trial procedure;\n(c) unlawful circumstances may exist in the enforcement activities of the people's court in administrative cases;\n(d) the administrative act against which the action is brought and related administrative acts may be unlawful;\n(e) the lawful rights and interests of the administrative counterpart or the right holder have not been realised in accordance with law;\n(f) other circumstances requiring investigation and verification.\n A people's procuratorate may not obtain, for the purpose of proving the legality of an administrative act, evidence that the administrative organ did not collect when making the administrative act."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where it is difficult for a people's procuratorate to determine the relevant facts through reviewing the files and investigation and verification, it may hear the opinions of the relevant judicial and enforcement personnel of the people's court and comprehensively understand the relevant facts and grounds of the trial and enforcement of the case."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "A people's procuratorate may adopt the following measures of investigation and verification:\n(a) inquiring into, obtaining and reproducing the relevant evidentiary materials;\n(b) questioning the parties, the relevant persons with knowledge of the matter or other relevant personnel;\n(c) consulting professional personnel, the relevant departments or trade associations and the like on specialised issues;\n(d) commissioning appraisal, valuation and audit;\n(e) inspecting physical evidence and scenes;\n(f) other measures required for ascertaining the facts of the case.\n Procuratorial personnel shall keep State secrets and work secrets confidential and shall keep confidential trade secrets and personal privacy learned in the course of investigation and verification.\n In investigation and verification, a people's procuratorate may not adopt compulsory measures such as restricting personal freedom or sealing up, seizing or freezing property."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where any of the following circumstances exists, a people's procuratorate may inquire into, obtain and reproduce the relevant evidentiary materials from banking financial institutions:\nthe interests of the State or the public interest may be harmed;\njudicial or enforcement personnel may have committed unlawful acts;\na party may have forged evidence or maliciously colluded to harm the lawful rights and interests of others.\n A people's procuratorate may, in accordance with the relevant provisions, designate procuratorial technical personnel with the corresponding qualifications to conduct a specialised review of technical evidence such as appraisal opinions in a case of supervision over administrative litigation and to issue a review opinion."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "A people's procuratorate may seek the opinions of the relevant professional personnel, the relevant departments or trade associations on specialised issues in writing or orally. Where the consultation is oral, a record shall be made and signed or sealed by the professional personnel consulted. Where they refuse to sign or seal it, the circumstances shall be noted.\n Where a people's procuratorate considers that appraisal, valuation or audit is required in respect of a specialised issue, it may commission an institution with the relevant qualification to carry out the appraisal, valuation or audit. Where appraisal, valuation or audit has already been carried out in the course of the litigation, no further appraisal, valuation or audit shall generally be commissioned unless truly necessary."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a people's procuratorate considers it truly necessary, it may inspect physical evidence or a scene. The inspector shall produce the certificate of the people's procuratorate and invite the local grassroots organisation or the unit where a party works to send personnel to participate. The party or an adult family member of the party shall be present; where they refuse to be present, the inspection shall not be affected.\n The inspector shall make a record of the circumstances and results of the inspection, and it shall be signed or sealed by the inspector, the party and the invited participants."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where investigation and verification are required, the procurator handling the case shall decide within the scope of its functions and powers, or report the matter to the chief procurator for decision."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Investigation and verification by a people's procuratorate shall be carried out jointly by two or more persons.\n After the person investigated has checked the record of investigation, it shall be signed or sealed by the investigator and the person investigated. Where the person investigated refuses to sign or seal it, the circumstances shall be noted."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "A people's procuratorate may direct a people's procuratorate at a lower level or commission a people's procuratorate in another place to conduct investigation and verification.\n Where a people's procuratorate directs or commissions an investigation, it shall send a Notice of Directed Investigation or a Letter of Commissioned Investigation stating the matters of investigation and verification, the clues to evidence and the requirements. After receiving the Notice of Directed Investigation or the Letter of Commissioned Investigation, the people's procuratorate directed or commissioned shall complete the investigation and verification within fifteen days and reply in writing. Where the investigation cannot be completed for objective reasons, it shall reply in writing to the directing or commissioning people's procuratorate within the above period.\n Where a people's procuratorate conducts an investigation in another place, the local people's procuratorate shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The relevant units and individuals shall cooperate in investigation and verification by a people's procuratorate. Where they refuse or obstruct investigation and verification by the people's procuratorate, the people's procuratorate may make a procuratorial recommendation to the relevant unit or its competent authority at a higher level ordering correction and, where necessary, may notify the government and the supervisory organ at the same level; where a violation of discipline or law or a crime is suspected, the matter shall be transferred to the relevant organ for handling in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 2 Investigation and Verification"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where significant disputes exist in the determination of facts, the application of law or the disposition of the case in a case of supervision over administrative litigation, or the case has major social impact and the opinions of the parties and other relevant personnel need to be heard in person, a people's procuratorate may convene a hearing."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a people's procuratorate convenes a hearing, it may invite deputies to people's congresses, members of people's political consultative conferences, people's supervisors, specially invited procurators, members of the expert consultation committee, people's mediators, or members of the residents' committee or villagers' committee of the unit where a party works or of the place where a party resides, as well as experts, scholars, lawyers and other persons from all walks of life, who have no interest in the case, to serve as hearing officers.\n A people's procuratorate shall invite people's supervisors to participate in a hearing and shall accept their supervision in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a people's procuratorate decides to convene a hearing, it shall make the following preparations:\n(a) formulate a hearing plan and determine the participants in the hearing;\n(b) inform the participants, three days before the hearing, of the cause of action, the time and the place of the hearing;\n(c) inform the parties of the names and identities of the procurator presiding over the hearing and of the hearing officers."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The parties and other relevant personnel shall attend the hearing on time. Where a party is absent without legitimate reason or leaves midway without permission, the presiding officer shall decide whether the hearing procedure is to continue."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "A hearing shall be presided over by a procurator, a clerk shall be responsible for taking the record, and judicial police officers shall be responsible for maintaining order.\n The hearing process shall be audio and video recorded throughout. With the approval of the chief procurator, a people's procuratorate may, through the China Procuratorial Hearing Website and other public media, broadcast the hearing live or recorded in text, pictures, audio and video."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "A hearing shall be conducted around issues such as the determination of facts and the application of law in the case of supervision over administrative litigation.\n In respect of disputed or new evidentiary materials submitted by the parties and the evidence obtained through investigation by the people's procuratorate, the opinions of all parties shall be fully heard."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "A hearing shall generally proceed in the following steps:\n(a) the procurator handling the case introduces the circumstances of the case and the issues requiring a hearing;\n(b) the applicant states the requests for supervision, the facts and the grounds;\n(c) the other parties express their opinions;\n(d) where the applicant and the other parties submit new evidence, it shall be produced and explained;\n(e) the evidence obtained through investigation by the people's procuratorate is produced;\n(f) the parties to the case state their opinions on the evidence produced at the hearing;\n(g) the hearing officers and the procurator put questions to the applicant and the other parties;\n(h) the parties make final statements;\n(i) the presiding officer sums up the hearing."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "A record shall be made of a hearing, and after the persons participating in the hearing have checked it, they shall sign it. Where they refuse to sign it, the circumstances shall be noted.\n After the hearing is concluded, the presiding officer may organise the hearing officers to deliberate on the determination of facts, the application of law and the disposition of the case and to make a deliberation record, which shall be signed by the presiding officer and the hearing officers.\n The opinions of the hearing officers shall be an important reference for the people's procuratorate in handling the case in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Persons participating in a hearing shall obey the directions of the presiding officer of the hearing.\n In respect of a breach of the order of the hearing, the people's procuratorate may criticise and educate the person concerned and order him to leave the hearing venue; in respect of serious disruption of the order of the hearing by creating a disturbance, storming the hearing venue, insulting, defaming, threatening or assaulting others and the like, the corresponding legal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 3 Hearing"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "A case of supervision over administrative litigation may be determined as a simple case in any of the following circumstances:\n(a) the people's court of first instance of original trial tried it under the summary procedure;\n(b) the facts are clear and the legal relationship is simple.\n Local people's procuratorates at any level may determine the specific circumstances of simple cases in the light of local realities."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 4 Handling of Summary Cases"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "In reviewing a simple case, where the procurator handling the case can determine the facts of the case through reviewing the application for supervision and other materials, it may directly draw up a report on conclusion of review and put forward handling suggestions.\n Where, in the course of review, the case is found to be complex or to require investigation and verification, so that the summary procedure is unsuitable, the case shall be converted to the ordinary case-handling procedure."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 4 Handling of Summary Cases"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The provisions on extending the review period shall not apply to the handling of simple cases.\n The report on conclusion of review and the approval procedure for simple cases shall be simplified."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 4 Handling of Summary Cases"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "A people's procuratorate may suspend the review in any of the following circumstances:\n(a) the citizen applying for supervision dies and it is necessary to wait for the heir to indicate whether to continue applying for supervision;\n(b) the legal person or other organisation applying for supervision terminates and the successor to its rights and obligations has not yet been determined;\n(c) the case must be based on the result of the disposition of another case, and that other case has not yet been concluded;\n(d) other circumstances in which the review may be suspended.\n Where the review is suspended, a Decision to Suspend Review shall be drawn up and sent to the parties. After the reasons for the suspension of review are eliminated, the review shall be resumed promptly."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 5 Suspension and Conclusion of Review"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "A people's procuratorate shall conclude the review in any of the following circumstances:\n(a) the people's court has already ruled for retrial or has already corrected the unlawful act;\n(b) the applicant withdraws the application for supervision, and this does not harm the interests of the State, the public interest or the lawful rights and interests of others;\n(c) the applicant declares in a settlement agreement reached with the other parties that it waives the right to apply for supervision, and this does not harm the interests of the State, the public interest or the lawful rights and interests of others;\n(d) the citizen applying for supervision dies, has no heir or the heir waives the application, and no other unlawful circumstances requiring supervision are discovered;\n(e) the legal person or other organisation applying for supervision terminates, has no successor to its rights and obligations or the successor waives the application, and no other unlawful circumstances requiring supervision are discovered;\n(f) it is discovered that a case already accepted does not meet the conditions for acceptance;\n(g) in a case discovered by the people's procuratorate ex officio, review shows that supervision is unnecessary;\n(h) other circumstances in which the review should be concluded.\n Where the review is concluded, a Decision to Conclude the Review shall be drawn up and, where the parties need to be notified, sent to them."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 5 Suspension and Conclusion of Review"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where new evidence provided by the applicant and evidence obtained through investigation by the people's procuratorate can prove that the original judgment or ruling is indeed erroneous, they shall be determined as falling within the circumstances provided for in item (2) of Article 91 of the Administrative Procedure Law of the People's Republic of China, except where the administrative organ against which the action was brought in the original trial provided evidence after the time limit without legitimate reason."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Any of the following circumstances shall be determined as \"the main evidence for the facts found is insufficient\" as provided for in item (3) of Article 91 of the Administrative Procedure Law of the People's Republic of China:\n(a) the facts found are not supported by evidence, or the evidence on which the facts found are based is false;\n(b) the main evidence on which the facts found are based is unlawful;\n(c) the judgment on whether the main evidence for the facts found has probative force, on the degree of such probative force or on the object of proof violates the rules of evidence, logical reasoning or the rules of experience;\n(d) other circumstances in which the main evidence for the facts found is insufficient."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Any of the following circumstances, where it causes the result of the original judgment or ruling to be indeed erroneous, shall be determined as \"the application of law or regulations is indeed erroneous\" as provided for in item (4) of Article 91 of the Administrative Procedure Law of the People's Republic of China:\n(a) the law or regulations applied are manifestly inconsistent with the nature of the case;\n(b) the law or regulations applied have already become invalid or have not yet come into force;\n(c) the rules on the application of law provided for in the Legislation Law of the People's Republic of China are violated;\n(d) the legislative purpose and basic principles of the law or regulations are contravened;\n(e) the law or regulations that should be applied are not applied;\n(f) other circumstances of erroneous application of law or regulations."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Any of the following circumstances shall be determined as \"the litigation procedure is in violation of the provisions of law and may affect a fair trial\" as provided for in item (5) of Article 91 of the Administrative Procedure Law of the People's Republic of China:\n(a) the composition of the trial organisation is unlawful;\n(b) judicial personnel who should have withdrawn in accordance with law did not withdraw;\n(c) a judgment by default was made without lawful summons;\n(d) a person without litigation capacity was not represented in litigation by a legal representative;\n(e) a party that should have participated in the litigation is omitted;\n(f) major litigation rights such as the right to debate and the right to appeal of the parties are deprived in violation of the provisions of law;\n(g) other circumstances of serious violation of the statutory procedure."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Any of the following circumstances shall be determined as \"the composition of the trial organisation is unlawful\" as provided for in item (1) of Article 85 of these Rules:\n(a) a case that should be tried by a collegial panel is tried by a single judge;\n(b) a case for retrial or remanded for retrial is not heard by a differently constituted collegial panel;\n(c) the persons trying the case do not have the qualification for adjudication;\n(d) other circumstances in which the trial organisation or personnel are unlawful."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Any of the following circumstances shall be determined as \"the parties' right to debate is deprived in violation of the provisions of law\" as provided for in item (6) of Article 85 of these Rules:\n(a) the parties are not permitted to exercise, or are seriously restricted in exercising, their right to debate;\n(b) a case that should be heard in court is not heard in court;\n(c) a copy of the statement of claim or of the statement of appeal is served in violation of the provisions of law, so that the parties are unable to exercise their right to debate;\n(d) other circumstances of unlawfully depriving the parties of their right to debate."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where a local people's procuratorate at any level finds that a legally effective administrative judgment or ruling of the people's court at the same level contains any of the following circumstances, it may make a procuratorial recommendation for retrial to the people's court at the same level:\n(a) the decision not to docket the case or the dismissal of the action is indeed erroneous;\n(b) there is new evidence sufficient to overturn the original judgment or ruling;\n(c) the main evidence on which the original judgment or ruling is based is insufficient, has not been cross-examined or is forged;\n(d) the litigation procedure is in violation of the provisions of law and may affect a fair trial;\n(e) the original judgment or ruling omitted claims;\n(f) the legal document on which the original judgment or ruling is based has been revoked or modified."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where any of the following circumstances exists in a case meeting the provisions of Article 88 of these Rules, the local people's procuratorate at any level shall request the people's procuratorate at the next higher level to lodge a protest:\n(a) the judgment or ruling was made after retrial by the people's court at the same level;\n(b) the judgment or ruling was made after discussion by the judicial committee of the people's court at the same level;\n(c) other circumstances in which correction through retrial by the people's court at the same level is unsuitable."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a local people's procuratorate at any level finds that a legally effective administrative judgment or ruling of the people's court at the same level contains any of the following circumstances, it shall request the people's procuratorate at the next higher level to lodge a protest:\n(a) the application of law or regulations in the original judgment or ruling is indeed erroneous;\n(b) judicial personnel committed acts such as embezzlement and bribery, fraudulent practices for personal gain, or perversion of the law in adjudication when trying the case.\n Judicial personnel having committed acts such as embezzlement and bribery, fraudulent practices for personal gain, or perversion of the law in adjudication when trying the case means acts already confirmed by an effective criminal legal document or a decision on disciplinary sanction."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where a local people's procuratorate at any level finds that a legally effective administrative mediation statement of the people's court at the same level harms the interests of the State or the public interest, it may make a procuratorial recommendation for retrial to the people's court at the same level, or may request the people's procuratorate at the next higher level to lodge a protest."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where a people's procuratorate makes a procuratorial recommendation for retrial, it shall draw up a Procuratorial Recommendation for Retrial, transfer it together with the case file to the people's court at the same level within fifteen days from the date of the decision, draw up a notice document and send it to the parties.\n The making of a procuratorial recommendation for retrial by a people's procuratorate shall be decided by the procuratorial committee of the procuratorate, and the Procuratorial Recommendation for Retrial together with the report on conclusion of review and other case materials shall be reported to the people's procuratorate at a higher level for the record within five days from the date of making the recommendation. Where the people's procuratorate at the higher level considers that the Procuratorial Recommendation for Retrial issued by the people's procuratorate at the lower level is erroneous or improper, it shall direct the people's procuratorate at the lower level to withdraw or modify it."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a people's procuratorate requests a protest, it shall draw up a Report on Requesting a Protest, submit it together with the case file and other materials to the people's procuratorate at the next higher level within fifteen days from the date of the decision, draw up a notice document and send it to the parties."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where the Supreme People's Procuratorate finds that a legally effective administrative judgment, ruling or mediation statement of a people's court at any level, or a people's procuratorate at a higher level finds that a legally effective administrative judgment, ruling or mediation statement of a people's court at a lower level, contains any of the circumstances provided for in Articles 91 and 93 of the Administrative Procedure Law of the People's Republic of China, it shall lodge a protest with the people's court at the same level.\n Where, after a people's procuratorate lodges a protest, the people's court that accepts the protest fails to make the relevant ruling on trial supervision within the statutory time limit, the people's procuratorate may urge it by such means as inquiry and visit and shall make a work record. After the people's court rules for retrial of a protest case, where unlawful circumstances such as violation of the statutory time limit for trial exist in the trial activities of the people's court, the matter shall be dealt with in accordance with the provisions of Chapter VI of these Rules.\n In a case in which a people's procuratorate lodges a protest and the people's court that accepts the protest assigns the case to the people's court at the next lower level for retrial, and the judgment or ruling made after retrial by the people's court at the lower level still meets the conditions for a protest and contains manifest errors, the people's procuratorate that originally lodged the protest may lodge a protest again."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a people's procuratorate lodges a protest, it shall draw up a Protest, transfer it together with the case file to the people's court at the same level within fifteen days from the date of the decision, and the people's court accepting the protest shall serve the Protest on the parties together with the ruling for retrial.\n The people's procuratorate shall draw up a notice document of the decision to lodge a protest and send it to the parties. The people's procuratorate at a higher level may entrust the people's procuratorate that requested the protest to send the notice document to the parties."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a people's procuratorate considers that an application for supervision by a party dissatisfied with a legally effective administrative judgment, ruling or mediation statement of a people's court does not meet the conditions for supervision, it shall draw up a Decision Not to Support the Application for Supervision and send it to the party within fifteen days from the date of the decision.\n In respect of a case in which a people's procuratorate at a lower level requests a protest, the people's procuratorate at a higher level may entrust the people's procuratorate that requested the protest to send the Decision Not to Support the Application for Supervision to the party."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where, in handling a case of supervision over administrative litigation, a people's procuratorate finds that a local regulation conflicts with an administrative regulation, or considers that a rule or other administrative decision or order with general binding force issued by a department of the State Council or by the people's government of a province, autonomous region, municipality directly under the Central Government, city with districts or autonomous prefecture conflicts with a law or administrative regulation, it may report the matter level by level to the Supreme People's Procuratorate, which shall submit a written recommendation for review to the State Council."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 2 Procuratorial Recommendations for Retrial, Requests for Protest and Lodging of Protests"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "In a case in which a people's procuratorate has lodged a protest, the people's procuratorate shall send personnel to appear in court when the people's court conducts the retrial, and shall participate in the court hearing throughout.\n Where the people's court that accepts a protest assigns the protest case to a people's court at a lower level for retrial, the people's procuratorate that lodged the protest may direct the people's procuratorate at the same level as the people's court of retrial to send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 3 Attendance in Court"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Before appearing in court, procuratorial personnel shall make the following preparations:\n(a) become further familiar with the circumstances of the case and master the state of the evidence;\n(b) study in depth the legal issues relating to the case;\n(c) draw up a plan for producing and explaining the evidence;\n(d) where disputes may arise concerning the authenticity, legality and relevance of the evidence, draw up a response plan and prepare the relevant materials;\n(e) make other preparations for appearing in court."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 3 Attendance in Court"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The tasks of procuratorial personnel appearing before the court of retrial are:\n(a) reading out the protest;\n(b) producing and explaining the evidence obtained through investigation by the people's procuratorate;\n(c) with the permission of the presiding judge, explaining the admission of evidence, the application of law and the circumstances of the case, and stating opinions on legal supervision objectively, impartially and comprehensively in respect of the issues in dispute;\n(d) recording circumstances in the course of the court hearing that violate the litigation procedure;\n(e) engaging in other litigation activities in accordance with law.\n Where procuratorial personnel appearing in court find that the court hearing activities violate the litigation procedure, they shall promptly report the matter to the chief procurator after the court is adjourned or the hearing is concluded. A procuratorial recommendation in respect of court hearing activities that violate the litigation procedure shall be made by the people's procuratorate after the hearing."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 3 Attendance in Court"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a party or other participant in the court hearing creates a disturbance in court or makes improper remarks or commits improper acts such as insulting, defaming or threatening the procuratorial organ or the procuratorial personnel appearing in court during the hearing and the court fails to stop it, the procuratorial personnel appearing in court shall recommend that the court stop it immediately; where the circumstances are serious, they shall recommend that the court deal with it in accordance with the provisions and shall report the matter to the chief procurator after the hearing is concluded."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 3 Attendance in Court"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a people's court holds a hearing in a case in which a people's procuratorate has made a procuratorial recommendation for retrial and the people's procuratorate sends personnel to appear before the court of retrial, the provisions of this Section shall apply by reference.\n Where a retrial case in which a people's procuratorate sends personnel to appear in court is heard in public, the people's procuratorate may coordinate with the people's court to arrange for people's supervisors to sit in on the hearing."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 3 Attendance in Court"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "People's procuratorates shall, in accordance with law, supervise the unlawful acts of judicial personnel in the following administrative trial procedures of people's courts:\n(a) the ordinary procedure of first instance;\n(b) the summary procedure;\n(c) the procedure of second instance;\n(d) the procedure for trial supervision.\n The provisions of paragraph 3 of Article 93 of the Administrative Procedure Law of the People's Republic of China shall apply to judges, people's assessors, judge assistants and clerks."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Administrative Trial Procedure"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where a people's procuratorate finds that any of the following circumstances exists in the administrative trial activities of a people's court, it shall make a procuratorial recommendation to the people's court at the same level:\n(a) the judgment or ruling is indeed erroneous but is not to be corrected through the retrial procedure;\n(b) the mediation violates the principle of voluntariness, or the content of the mediation agreement violates the law;\n(c) the people's court fails to decide within the statutory time limit whether to docket an action brought by a citizen, legal person or other organisation;\n(d) a party brings an action before the people's court at a higher level in accordance with the provisions of Article 52 of the Administrative Procedure Law of the People's Republic of China, and the people's court at the higher level fails to deal with it in accordance with those provisions;\n(e) an erroneous trial procedure is applied in trying the case;\n(f) a ruling on preservation, advance enforcement, suspension of enforcement or non-suspension of the enforcement of an administrative act violates the provisions of law;\n(g) suspension or conclusion of litigation violates the provisions of law;\n(h) the statutory time limit for trial is violated;\n(i) compulsory measures against obstruction of administrative litigation such as imposition of a fine or detention on a party violate the provisions of law;\n(j) service is effected in violation of the provisions of law;\n(k) other circumstances in violation of the provisions of law."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Administrative Trial Procedure"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a people's procuratorate finds that judicial personnel in the administrative trial procedure of the people's court at the same level have committed the unlawful acts provided for in Article 46 and the like of the Judges Law of the People's Republic of China, which may affect the fair trial or enforcement of the case, it shall make a procuratorial recommendation to the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Administrative Trial Procedure"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a people's procuratorate makes a procuratorial recommendation in accordance with the provisions of this Chapter, the matter shall be approved by the chief procurator or decided by the procuratorial committee, a Procuratorial Recommendation shall be drawn up, and it shall be transferred together with the case file to the people's court at the same level within fifteen days from the date of the decision. In a case in which a party applies for supervision, the people's procuratorate shall draw up a notice document and send it to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Administrative Trial Procedure"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where a people's procuratorate considers that the grounds for determining the unlawful acts of judicial personnel in the administrative trial procedure on which a party's application for supervision is based are insufficient, it shall make a decision not to support the application for supervision, and shall draw up a Decision Not to Support the Application for Supervision within fifteen days from the date of the decision and send it to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Unlawful Acts of Judicial Personnel in Administrative Trial Procedure"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "People's procuratorates shall exercise legal supervision over the enforcement activities of people's courts in administrative cases."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities in Administrative Cases"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where a people's procuratorate finds that any of the following circumstances exists in a ruling or decision on enforcement made by a people's court, it shall make a procuratorial recommendation to the people's court at the same level:\n(a) a ruling on assumption of jurisdiction at a higher level, designated jurisdiction or an objection to jurisdiction violates the provisions of law;\n(b) a ruling on acceptance, non-acceptance, suspension of enforcement, conclusion of enforcement, conclusion of the current enforcement procedure, resumption of enforcement or reversal of enforcement violates the provisions of law;\n(c) the alteration or addition of the subject of enforcement is erroneous;\n(d) a ruling adopting measures for the investigation, control or disposal of property violates the provisions of law;\n(e) a ruling made upon review of an objection to enforcement, an application for reconsideration or an objection of a person not involved in the case violates the provisions of law;\n(f) a decision on matters such as a fine, detention or deferred enforcement violates the provisions of law;\n(g) a ruling or decision on enforcement violates the statutory procedure;\n(h) a ruling granting or not granting enforcement of an administrative act for which an administrative organ applies for compulsory enforcement violates the provisions of law;\n(i) other unlawful circumstances exist in a ruling or decision on enforcement."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities in Administrative Cases"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a people's procuratorate finds that a people's court has, in enforcement activities, adopted enforcement implementation measures such as investigation, sealing up, seizure, freezing, appraisal, auction, sale, custody and return of property and credit discipline in violation of the provisions, it shall make a procuratorial recommendation to the people's court at the same level."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities in Administrative Cases"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where a people's procuratorate finds that a people's court has failed to perform or has delayed in performing its enforcement duties in any of the following circumstances, it shall make a procuratorial recommendation to the people's court at the same level:\n(a) it does not accept an application for enforcement that should be accepted in accordance with law and does not make a ruling of non-acceptance in accordance with law;\n(b) in respect of an enforcement case already accepted, it fails to make a ruling on enforcement in accordance with law, or fails to adopt enforcement measures or conclude enforcement within the statutory time limit without legitimate reason;\n(c) it unlawfully does not accept an objection to enforcement or an application for reconsideration, or fails to make a ruling or decision within the time limit after acceptance;\n(d) after the reasons for deferred enforcement, suspension of enforcement or discontinuation of enforcement disappear, it fails to resume enforcement in accordance with the provisions;\n(e) it fails to alter or lift enforcement measures that should be altered or lifted in accordance with law;\n(f) in respect of an administrative organ that refuses to perform an administrative judgment, ruling or mediation statement, it fails to adopt enforcement measures in accordance with the provisions of Article 96 of the Administrative Procedure Law of the People's Republic of China;\n(g) other acts of failing to perform or delaying in performing enforcement duties."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities in Administrative Cases"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where a people's procuratorate considers that a people's court may have delayed in performing its duties in enforcement activities in an administrative case, it may issue a Notice Requiring an Explanation of the Circumstances of Enforcement of the Case to the people's court requiring an explanation of the circumstances of enforcement of the case and the reasons, and a written reply to the people's procuratorate within fifteen days."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities in Administrative Cases"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "The making of a procuratorial recommendation by a people's procuratorate in accordance with the provisions of this Chapter shall be governed by the provisions of Article 106 of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities in Administrative Cases"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "In respect of a case of supervision over enforcement applied for by a party, where a people's procuratorate considers that no unlawful circumstances exist in the enforcement activities of the people's court, it shall make a decision not to support the application for supervision, and shall draw up a Decision Not to Support the Application for Supervision within fifteen days from the date of the decision and send it to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities in Administrative Cases"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where a people's procuratorate finds that enforcement personnel have committed unlawful acts in the enforcement activities of the people's court at the same level in an administrative case, the relevant provisions of Chapter VI of these Rules shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Enforcement Activities in Administrative Cases"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "The department responsible for case management of a people's procuratorate shall manage, supervise and give early warning in respect of the acceptance, time limits, procedure and quality of cases of supervision over administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "The department responsible for case management shall implement supervision and management in respect of the legal documents on supervision over administrative litigation drawn up and issued in the name of the procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where the department responsible for case management finds any of the following circumstances in the case-handling activities of the procuratorate, it shall promptly raise opinions on correction:\n(a) the drawing up or use of legal documents does not comply with the law and the relevant provisions;\n(b) the relevant provisions on the time limit for case handling are violated;\n(c) the litigation rights of the parties or entrusted agents are infringed;\n(d) the duty of legal supervision is not performed in accordance with law in respect of unlawful acts in administrative litigation activities;\n(e) other circumstances in which opinions on correction should be raised.\n Where the circumstances are minor, an oral reminder may be given; where the circumstances are relatively serious, a Notice of Monitoring of the Case Process shall be sent prompting the case-handling department to promptly ascertain the circumstances and correct them; where the circumstances are serious, a report shall at the same time be made to the chief procurator.\n After receiving the Notice of Monitoring of the Case Process, the department responsible for administrative procuratorial work shall reply in writing to the department responsible for case management on the result of verification within ten days."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter VIII Case Management"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where a people's procuratorate finds that any of the following circumstances exists in several administrative cases of the same type before a people's court, it may make a procuratorial recommendation:\n(a) the law is applied inconsistently in respect of issues of the same kind;\n(b) errors of the same kind exist in the application of law;\n(c) other unlawful acts of the same kind.\n Where a people's procuratorate finds that the working systems, management methods or working procedures of the relevant unit are unlawful or improper and require correction or improvement, it may make a procuratorial recommendation."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where a people's procuratorate makes a procuratorial recommendation for improving work and perfecting governance in accordance with the relevant provisions, it shall issue one procuratorial recommendation in respect of unlawful circumstances of the same kind."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "In handling cases of supervision over administrative litigation, a people's procuratorate may conduct annual or thematic analysis of the situation of supervision over administrative litigation and notify the people's court and administrative organs of it and report it to the Party committee and the people's congress. The notification and report shall include the following content:\n(a) prevalent and prominent problems existing in judicial organs and administrative organs;\n(b) emerging and tendentious problems existing in judicial organs and administrative organs, or the characteristics and trends of problems in a certain respect;\n(c) opinions and suggestions for promoting law-based administration and fair justice;\n(d) other circumstances considered to require notification or reporting."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "A people's procuratorate may, in respect of prevalent or prominent problems in supervision over administrative litigation, organise and carry out special supervision activities."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where, in the performance of its duties, the department responsible for administrative procuratorial work of a people's procuratorate discovers acts suspected of violating discipline or law or committing a crime and acts requiring pursuit of judicial responsibility, it shall, with the approval of the chief procurator, promptly transfer the relevant clues and materials to the organ or department having jurisdiction.\n Where, in the performance of its duties, another functional department of a people's procuratorate discovers clues to a case of supervision over administrative litigation that should be supervised ex officio as provided for in these Rules, it shall promptly notify the department responsible for administrative procuratorial work."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "After a people's court makes a judgment or ruling of retrial or another disposition decision in respect of a case of supervision over administrative litigation, the people's procuratorate that made the supervision opinion shall review the result of the disposition and fill in the Registration Form for Review of the Result of Disposition of a Case of Supervision over Administrative Litigation."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where any of the following circumstances exists, a people's procuratorate may carry out follow-up supervision or request supervision by the people's procuratorate at a higher level in accordance with the relevant provisions:\n(a) the judgment, ruling or mediation statement made by the people's court after trying an administrative protest case still meets the conditions for a protest and contains manifest errors;\n(b) the people's court or administrative organ fails to dispose of a procuratorial recommendation made by the people's procuratorate within the prescribed time limit and to reply in writing;\n(c) the disposition by the people's court or administrative organ of a procuratorial recommendation is erroneous."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where a local people's procuratorate at any level finds that the application of law in a major case of supervision over administrative litigation is truly difficult and complex and that it is difficult for the procuratorate itself to decide, it may request instructions from the people's procuratorate at a higher level.\n Cases in which instructions are requested shall be handled in accordance with the relevant provisions of the Supreme People's Procuratorate on handling requests for instructions from people's procuratorates at lower levels and on the submission of official documents by people's procuratorates at lower levels to the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where a people's procuratorate finds that a relevant decision it has made is indeed erroneous, or that there are other circumstances requiring its withdrawal or modification, the matter shall be approved by the chief procurator or decided by the procuratorial committee."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where a people's court raises a written objection to a supervisory act of a people's procuratorate, the people's procuratorate shall reply in writing to the people's court on the result of its disposition within the prescribed time limit. Where the people's court still objects to the reply and raises the matter with the people's procuratorate at the next higher level through the people's court at the next higher level, and the people's procuratorate at the higher level considers the objection of the people's court to be correct, it shall require the people's procuratorate at the lower level to correct the matter promptly."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "The drawing up of legal documents on supervision over administrative litigation shall conform to the prescribed formats.\n The formats of legal documents on supervision over administrative litigation shall be formulated separately."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "A people's procuratorate may serve legal documents by reference to the relevant provisions of the Administrative Procedure Law of the People's Republic of China and the Civil Procedure Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where a people's procuratorate finds clerical errors in a legal document it has drawn up, it shall make a Decision on Correction to correct them."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "People's procuratorates shall, in accordance with the provisions, open files and place them on record in handling cases of supervision over administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "People's procuratorates shall not charge a case acceptance fee for handling cases of supervision over administrative litigation. The expenses incurred for applications for reproduction, appraisal, audit, inspection and the like shall be paid by the applicant directly to the relevant institution or unit, and people's procuratorates may not collect or pay them on behalf of others."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where, in handling a case of supervision over administrative litigation, the claims of the applicant are somewhat reasonable but difficult to resolve through legal channels and the applicant lives in difficulty, the people's procuratorate may grant judicial assistance in accordance with law.\n In respect of an applicant who does not fall within the scope of State judicial assistance or who still faces difficulties in living after the implementation of State judicial assistance, the people's procuratorate may guide the applicant to apply for social assistance in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Chapter IX Other Provisions"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where these Rules contain no provision on the handling of cases of supervision over administrative litigation by people's procuratorates, the relevant provisions of the Rules of the People's Procuratorate for Supervision over Civil Litigation shall apply."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Where these Rules contain no provision on the making of procuratorial recommendations by people's procuratorates to the relevant units and departments in handling cases of supervision over administrative litigation, the relevant provisions of the Provisions of the People's Procuratorate on Procuratorial Recommendations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "These Rules shall come into force on 1 September 2021, and the Rules of the People's Procuratorate for Supervision over Administrative Litigation (for Trial Implementation) shall be repealed simultaneously. Where other provisions previously published by this Procuratorate are inconsistent with the content of these Rules, these Rules shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
         }
       }
     ]
@@ -5174,6 +11384,1059 @@
     ]
   };
 
+  TR['CN-LAW-0313'] = {
+    "lawId": "CN-LAW-0313",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 45 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution for the purpose of regulating the work of awarding academic degrees, protecting the lawful rights and interests of degree applicants, guaranteeing the quality of academic degrees, cultivating a new generation of people capable of shouldering the great responsibility of national rejuvenation, building a leading country in education, in science and technology and in talent, and serving the effort to build a modern socialist country in all respects."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State implements an academic degree system. Degrees are classified into bachelor's degrees, master's degrees and doctoral degrees; they comprise academic degrees, professional degrees and other types, and are awarded according to categories of disciplines, categories of professional degrees, and the like."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Academic degree work shall uphold the leadership of the Communist Party of China, comprehensively implement the education policy of the State, practise core socialist values, fulfil the fundamental task of fostering virtue through education, follow the laws of education, adhere to fairness, impartiality and openness, uphold the unity of academic freedom and academic norms, promote innovative development, and improve the quality of the independent training of talent."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A Chinese citizen who upholds the leadership of the Communist Party of China and the socialist system, and who has studied at an institution of higher education or a scientific research institution or has received education by other means prescribed by the State and has met the corresponding academic requirements and attained the requisite academic or professional level, may apply for the corresponding degree in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Institutions of higher education and scientific research institutions that have obtained upon approval the qualification to award degrees in the corresponding disciplines or professional fields are degree-awarding institutions, and the disciplines or professional fields in which they award degrees are degree-awarding programmes. Degree-awarding institutions may award the corresponding degrees in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State Council establishes an Academic Degrees Committee to lead the work on academic degrees throughout the country.\nThe Academic Degrees Committee of the State Council shall have one chairperson and a number of vice-chairpersons and members. The chairperson, vice-chairpersons and members shall be appointed and removed by the State Council and shall serve a term of five years.\nThe Academic Degrees Committee of the State Council shall establish expert groups to be responsible for the evaluation and assessment of degrees, quality supervision, research and consultancy, and other work."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II System of Academic Degree Work"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The Academic Degrees Committee of the State Council shall establish an administrative office within the education administrative department of the State Council to handle the day-to-day work of the Academic Degrees Committee of the State Council.\nThe education administrative department of the State Council shall be responsible for matters concerning the administration of academic degrees throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II System of Academic Degree Work"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Provincial-level academic degrees committees shall be established by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and shall, under the guidance of the Academic Degrees Committee of the State Council, lead the work on academic degrees within their respective administrative regions.\nThe education administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall be responsible for matters concerning the administration of academic degrees within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II System of Academic Degree Work"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A degree-awarding institution shall establish a degree evaluation committee, which shall perform the following duties:\n(a) deliberating on the implementing measures and specific standards for the awarding of degrees by that institution;\n(b) deliberating on matters such as the addition or discontinuation of degree-awarding programmes;\n(c) adopting resolutions to award, not to award or to revoke the corresponding degrees;\n(d) examining and handling disputes over the awarding of degrees;\n(e) accepting complaints or reports relating to degrees;\n(f) deliberating on other matters relating to degrees.\nA degree evaluation committee may establish several sub-committees to assist it in carrying out its work, and may entrust its sub-committees with the performance of the corresponding duties."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II System of Academic Degree Work"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A degree evaluation committee shall be composed of the persons in charge of the degree-awarding institution who hold senior professional and technical positions and of its teaching and research personnel, and the number of its members shall be an odd number of not fewer than nine. The chairperson of the degree evaluation committee shall be assumed by the principal administrative head of the degree-awarding institution.\nResolutions of a degree evaluation committee shall be adopted by way of a meeting. Where deliberations are held on the matters listed in subparagraphs (a) to (d) of the first paragraph of Article 9 of this Law or on other major matters, not fewer than two thirds of all members shall be present at the meeting. Matters to be resolved shall be put to a vote and shall be adopted by a majority of all the members."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II System of Academic Degree Work"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The composition, term of office, division of duties and working procedures of a degree evaluation committee and its sub-committees shall be determined and published by the degree-awarding institution."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II System of Academic Degree Work"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An institution of higher education or a scientific research institution applying for the qualification to award degrees shall meet the following conditions:\n(a) adhering to the socialist orientation in running the institution and carrying out the fundamental task of fostering virtue through education;\n(b) conforming to national and local economic and social needs and to the plans for the development of higher education;\n(c) having a faculty, facilities and equipment and other teaching and research resources as well as an operational standard commensurate with the qualification to award degrees for which application is made;\n(d) other conditions prescribed by laws and administrative regulations.\nThe Academic Degrees Committee of the State Council and provincial-level academic degrees committees may, pursuant to the preceding paragraph, formulate specific provisions on the conditions for applying for the corresponding qualifications to award degrees."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Qualifications for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An institution of higher education that provides undergraduate education in accordance with the law and meets the conditions prescribed in Article 12 of this Law may apply for the qualification to award bachelor's degrees. An institution of higher education or a scientific research institution that provides undergraduate education and graduate education in accordance with the law and meets the conditions prescribed in Article 12 of this Law may apply for the qualification to award master's degrees and doctoral degrees."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Qualifications for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The qualification to award bachelor's degrees shall be examined and approved by the provincial-level academic degrees committee and submitted to the Academic Degrees Committee of the State Council for the record.\nThe qualification to award master's degrees shall be examined by the provincial-level academic degrees committee organised for that purpose and submitted to the Academic Degrees Committee of the State Council for examination and approval.\nThe qualification to award doctoral degrees shall be examined by the education administrative department of the State Council and submitted to the Academic Degrees Committee of the State Council for examination and approval.\nWhere the qualification to award degrees is examined, experts shall be organised to conduct evaluation."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Qualifications for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "An application for the qualification to award degrees shall be filed within the time limit prescribed by the Academic Degrees Committee of the State Council or the provincial-level academic degrees committee.\nThe unit responsible for examining and approving the qualification to award degrees shall adopt a resolution within 90 days from the date of acceptance of the application and make it public. The publicity period shall be not less than ten working days. Where an objection is raised during the publicity period, a review shall be organised."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Qualifications for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A qualified degree-awarding institution may, upon approval by the Academic Degrees Committee of the State Council, independently carry out the examination of the addition of programmes for awarding master's degrees and doctoral degrees. Degree-awarding programmes added on an independent basis shall be submitted to the Academic Degrees Committee of the State Council for examination and approval. The specific conditions and measures shall be formulated by the Academic Degrees Committee of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Qualifications for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State shall optimise the structure of disciplines and the layout of degree-awarding programmes on the basis of the needs of economic and social development for various types of talent, and shall strengthen the development of basic disciplines, emerging disciplines and interdisciplinary disciplines.\nThe Academic Degrees Committee of the State Council may, in the light of major national needs and of the needs of economic development, scientific and technological innovation, cultural inheritance and safeguarding the life and health of the people, separately prescribe conditions and procedures for the establishment and layout of the relevant degree-awarding programmes and for the awarding of degrees."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Qualifications for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A degree applicant shall uphold the leadership of the Communist Party of China and the socialist system, abide by the Constitution and the law, and observe academic ethics and academic norms.\nWhere a degree applicant has studied at an institution of higher education or a scientific research institution or has received education by other means prescribed by the State and has met the corresponding academic requirements and attained the requisite academic or professional level, the degree-awarding institution shall award the corresponding degree respectively in accordance with the conditions prescribed in Articles 19 to 21 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Conditions for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a person receiving undergraduate education has passed the prescribed course examinations or earned the prescribed credits, and has passed the review of the graduation components such as the graduation thesis or graduation project, which demonstrates that the degree applicant has attained the following levels, a bachelor's degree shall be awarded:\n(a) having a good command of the basic theories, specialised knowledge and basic skills in the relevant discipline or professional field;\n(b) having the initial ability to engage in academic research or to undertake professional practice."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Conditions for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a person receiving graduate education for a master's degree has passed the prescribed course examinations or earned the prescribed credits, completed academic research training or professional practice training, and passed the defence of the degree thesis or the defence of the prescribed practical achievement, which demonstrates that the degree applicant has attained the following levels, a master's degree shall be awarded:\n(a) having a firm command of the basic theories and a systematic command of the specialised knowledge in the relevant discipline or professional field;\n(b) an applicant for an academic degree shall have the ability to engage in academic research, and an applicant for a professional degree shall have the ability to undertake professional practice."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Conditions for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a person receiving graduate education for a doctoral degree has passed the prescribed course examinations or earned the prescribed credits, completed academic research training or professional practice training, and passed the defence of the degree thesis or the defence of the prescribed practical achievement, which demonstrates that the degree applicant has attained the following levels, a doctoral degree shall be awarded:\n(a) having a firm and comprehensive command of the basic theories and a systematic and in-depth command of the specialised knowledge in the relevant discipline or professional field;\n(b) an applicant for an academic degree shall have the ability to engage independently in academic research, and an applicant for a professional degree shall have the ability to undertake professional practice independently;\n(c) an applicant for an academic degree shall have produced innovative results in the field of academic research, and an applicant for a professional degree shall have produced innovative results in the field of professional practice."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Conditions for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A degree-awarding institution shall, on the basis of the conditions prescribed in Articles 18 to 21 of this Law, in the light of its own academic evaluation standards, adhering to a scientific evaluation orientation and fully hearing the opinions of the parties concerned, formulate and publish specific standards for the awarding of degrees in each discipline and professional field."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Conditions for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "An educated person who meets the provisions of this Law may submit application materials in accordance with the requirements of the degree-awarding institution and apply for the corresponding degree. A student about to graduate from an institution that is not a degree-awarding institution may, upon the recommendation of the graduating institution, apply to the relevant degree-awarding institution for a degree.\nA degree-awarding institution shall, within 60 days from the deadline for applications, examine and decide whether to accept the application, and shall notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Procedures for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where application is made for a bachelor's degree, the degree evaluation committee shall organise the examination and adopt a resolution on whether to award the bachelor's degree."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Procedures for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where application is made for a master's degree or a doctoral degree, the degree-awarding institution shall, before organising the defence, send the degree thesis or practical achievement of the degree applicant to experts for review.\nWhere the thesis or achievement conforms to the requirements of the degree-awarding institution after expert review, it shall proceed to the defence procedure."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Procedures for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A degree-awarding institution shall organise defence committees for master's degrees and doctoral degrees according to discipline and professional field. A defence committee for a master's degree shall comprise not fewer than three members. A defence committee for a doctoral degree shall comprise not fewer than five members, of whom not fewer than two shall be experts from outside the degree-awarding institution.\nThe degree thesis or practical achievement shall be sent to the members of the defence committee for perusal before the defence, and the members of the defence committee shall perform their duties independently and responsibly.\nA defence committee shall organise the defence in accordance with the prescribed procedure, form a resolution on whether the degree applicant has passed the defence and announce it on the spot. The defence shall be decided by vote and shall be passed by not less than two thirds of all the members. Except where the contents involve State secrets, the defence shall be held in public."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Procedures for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the defence of the degree thesis or the defence of the practical achievement is not passed, the applicant may, with the consent of the defence committee, make revisions within the prescribed time limit and apply for a fresh defence.\nWhere the defence committee for a doctoral degree considers that the degree applicant, although not having attained the level required for a doctoral degree, has attained the level required for a master's degree, and the degree applicant has not previously obtained a master's degree in that discipline or professional field from that institution, the defence committee may, with the consent of the degree applicant, adopt a resolution recommending the award of a master's degree and submit it to the degree evaluation committee for examination and decision."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Procedures for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The degree evaluation committee shall, on the basis of the resolution of the defence committee and upon examination of the degree application, adopt a resolution on whether to award the master's degree or the doctoral degree."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Procedures for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A degree-awarding institution shall, on the basis of the resolution of the degree evaluation committee to award bachelor's degrees, master's degrees or doctoral degrees, publish the name list of the persons to whom degrees are awarded, issue degree certificates, and submit information on the awarding of degrees to the provincial-level academic degrees committee. The provincial-level academic degrees committee shall submit the information on the awarding of degrees within its administrative region to the Academic Degrees Committee of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Procedures for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A degree-awarding institution shall preserve the application materials of degree applicants and archival materials such as degree theses and practical achievements; doctoral degree theses shall at the same time be deposited with the National Library and the relevant specialised libraries.\nDegree theses, practical achievements and degree awarding procedures that involve classified matters shall be subject to strengthened confidentiality administration in accordance with the laws and administrative regulations on confidentiality and the relevant provisions of the State on confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Procedures for Conferring Academic Degrees"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A degree-awarding institution shall establish a degree quality assurance system of its own, strengthen quality management of the entire process of enrolment, training and degree awarding, disclose relevant information in a timely manner, accept social supervision, and guarantee the quality of the degrees it awards."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A degree-awarding institution shall assign teachers, researchers or professionals of good conduct with a high academic level or strong practical ability to serve as supervisors of graduate students, and shall establish mechanisms for their selection, assessment, supervision and dynamic adjustment.\nSupervisors of graduate students shall serve as role models for their students, perform the duty of fostering virtue through education, care for their students, and guide them in carrying out relevant academic research and professional practice, observing academic ethics and academic norms, and raising their academic or professional level."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "An institution awarding doctoral degrees shall ground itself in the training of high-level innovative talent, strengthen the development of its doctoral degree programmes, increase its efforts in the training, management and support of doctoral students, and improve the quality of the doctoral degrees it awards.\nSupervisors of doctoral students shall conscientiously perform their duties in the training of doctoral students, exercise strict control at the key stages of training, strengthen guidance throughout the process, and improve the quality of training.\nDoctoral students shall study and practise diligently, conscientiously prepare their degree thesis or practical achievement, and ensure compliance with academic norms and innovation requirements."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The education administrative department of the State Council and provincial-level academic degrees committees shall, within the scope of their respective duties, periodically organise experts to conduct quality assessment of the approved degree-awarding institutions and degree-awarding programmes. Where it is confirmed through quality assessment that the quality of the degrees awarded cannot be guaranteed, rectification within a prescribed time limit shall be ordered; where the circumstances are serious, the original approving unit shall revoke the corresponding qualification to award degrees.\nWhere a degree-awarding institution that independently conducts the examination of the addition of programmes for awarding master's degrees and doctoral degrees fails to meet the prescribed standards in the quality of graduate training or has serious problems in degree quality management, the Academic Degrees Committee of the State Council shall revoke its qualification for independent examination."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A degree-awarding institution may, in the light of the needs of its disciplines and professional fields, apply to the original approving unit for the discontinuation of the relevant degree-awarding programme."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The education administrative department of the State Council shall strengthen the development of information systems, improve the degree information management system, and provide information services to the public in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a degree applicant or a degree recipient falls under any of the following circumstances in the course of pursuing the degree, the degree-awarding institution shall, upon resolution of the degree evaluation committee, decline to award the degree or revoke the degree:\n(a) the degree thesis or practical achievement is determined to involve academic misconduct such as ghostwriting, plagiarism or fabrication;\n(b) misappropriating or fraudulently using the identity of another person, taking the place of another person in obtaining admission qualifications, or obtaining admission qualifications or a graduation certificate by other unlawful means;\n(c) committing, during the period of study, other serious violations of the law on account of which a degree ought not to be awarded in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a degree is awarded or a degree certificate is issued in violation of this Law, the education administrative department shall declare the certificate invalid and handle the matter in accordance with the relevant provisions of the Education Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a degree-awarding institution intends to make a decision not to award a degree or to revoke a degree, it shall inform the degree applicant or the degree recipient of the content of the intended decision and of the facts, reasons and basis therefor, and shall hear the statements and defence of that person."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a degree applicant has an objection to an academic evaluation conclusion made by the relevant academic body or personnel in the course of expert review, defence or achievement determination, the applicant may apply to the degree-awarding institution for an academic review. The degree-awarding institution shall, within 30 days from the date of acceptance of the application for academic review, re-organise experts to conduct a review and make a review decision, which shall be the final decision. The measures for academic review shall be formulated by the degree-awarding institution."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a degree applicant or a degree recipient is dissatisfied with acts such as the refusal to accept the degree application, the refusal to award the degree or the revocation of the degree, the applicant or recipient may apply to the degree-awarding institution for review or request the relevant organ to handle the matter in accordance with the law.\nWhere a degree applicant or a degree recipient applies for review, the degree-awarding institution shall conduct the review and make a review decision within 30 days from the date of acceptance of the application for review."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Quality Assurance of Academic Degrees"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The armed forces shall establish an academic degrees committee. The academic degrees committee of the armed forces shall, in accordance with this Law, be responsible for administering the academic degree work of military academies and scientific research institutions."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "An honorary doctoral degree may be awarded to an individual who has made outstanding contributions in academic or specialised fields or in promoting cooperation and exchanges in science, education and culture, or who has made major contributions to world peace and the development of humanity.\nA degree-awarding institution qualified to award doctoral degrees may, upon deliberation and adoption by its degree evaluation committee and submission to the Academic Degrees Committee of the State Council for approval, award an honorary doctoral degree to an individual who meets the conditions prescribed in the preceding paragraph.\nThe specific measures for the awarding and revocation of honorary doctoral degrees shall be formulated by the Academic Degrees Committee of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A degree-awarding institution shall, in accordance with the conditions prescribed in this Law relating to academic requirements, academic level or professional level and the relevant procedures, award the corresponding degree to an overseas individual applying for a degree.\nWhere a degree-awarding institution awards degrees outside China, the relevant provisions of this Law shall apply.\nAn overseas educational institution awarding degrees within China shall comply with the relevant laws and regulations of China.\nThe recognition of degree certificates issued by overseas educational institutions shall be handled strictly in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 2025. The Regulations of the People's Republic of China on Academic Degrees shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0315'] = {
+    "lawId": "CN-LAW-0315",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 43 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purpose of exercising tobacco monopoly administration, organising the production and operation of tobacco monopoly commodities in a planned way, improving the quality of tobacco products, safeguarding the interests of consumers and ensuring State fiscal revenue, this Law is formulated."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, tobacco monopoly commodities mean cigarettes, cigars, cut tobacco, redried tobacco leaves, tobacco leaves, cigarette paper, filter rods, cigarette tow and tobacco-specific machinery.\nCigarettes, cigars, cut tobacco and redried tobacco leaves are collectively referred to as tobacco products."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State applies monopoly administration in accordance with the law to the production, sale and import and export of tobacco monopoly commodities, and applies a system of tobacco monopoly licences."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of tobacco monopoly administration of the State Council shall be in charge of tobacco monopoly work throughout the country. The competent departments of tobacco monopoly administration of provinces, autonomous regions and municipalities directly under the Central Government shall be in charge of tobacco monopoly work within their respective jurisdictions and shall be under the dual leadership of the competent department of tobacco monopoly administration of the State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, with the leadership of the competent department of tobacco monopoly administration of the State Council playing the principal role."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State strengthens scientific research and technological development relating to tobacco monopoly commodities, improves the quality of tobacco products and reduces the content of tar and other harmful components.\nThe State and society shall strengthen publicity and education on the harm of smoking to health, prohibit or restrict smoking on public means of transport and in public places, dissuade young people from smoking and prohibit primary and secondary school students from smoking."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In exercising tobacco monopoly administration in ethnic autonomous areas, the State shall, in accordance with the relevant provisions of this Law and of the Law on Regional Ethnic Autonomy, take into account the interests of ethnic autonomous areas and give preferential treatment to the planting of tobacco leaves and the production of tobacco products in ethnic autonomous areas."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For the purposes of this Law, tobacco leaves mean the flue-cured tobacco and famous sun-cured and air-cured tobacco needed for the production of tobacco products, and the catalogue of famous sun-cured and air-cured tobacco shall be prescribed by the competent department of tobacco monopoly administration of the State Council.\nOther sun-cured and air-cured tobacco not listed in the catalogue of famous sun-cured and air-cured tobacco may be sold at farmers' markets."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Planting, Purchase and Allocation of Tobacco Leaves"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In tobacco planting, improved varieties shall be cultivated and popularised in the light of local conditions. Improved varieties shall be organised and supplied by the local tobacco companies."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Planting, Purchase and Allocation of Tobacco Leaves"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The plan for the purchase of tobacco leaves shall be issued by the planning department of the local people's government at or above the county level on the basis of the plan assigned by the planning department of the State Council, and no other unit or individual may modify it.\nA tobacco company or a unit entrusted by it shall conclude a tobacco leaf purchase contract with the tobacco grower. The tobacco leaf purchase contract shall stipulate the area planted with tobacco and the purchase price of the tobacco leaves."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Planting, Purchase and Allocation of Tobacco Leaves"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Tobacco leaves shall be purchased exclusively by a tobacco company or a unit entrusted by it in a unified manner in accordance with the purchase standards prescribed by the State, and no other unit or individual may purchase them.\nA tobacco company and its entrusted units shall purchase in full, at the purchase price stipulated in the contract, the tobacco leaves produced by tobacco growers on the area planted as stipulated in the tobacco leaf purchase contract, shall not lower the grade or depress the price, and shall properly handle disputes arising from the purchase of tobacco leaves."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Planting, Purchase and Allocation of Tobacco Leaves"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The plans for the allocation of tobacco leaves and redried tobacco leaves between provinces, autonomous regions and municipalities directly under the Central Government shall be issued by the planning department of the State Council, and the plans for the allocation of tobacco leaves and redried tobacco leaves within the jurisdiction of a province, autonomous region or municipality directly under the Central Government shall be issued by the planning department of that province, autonomous region or municipality, and no other unit or individual may modify them.\nContracts must be concluded for the allocation of tobacco leaves and redried tobacco leaves."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Planting, Purchase and Allocation of Tobacco Leaves"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "To establish an enterprise producing tobacco products, approval by the competent department of tobacco monopoly administration of the State Council and a tobacco monopoly production enterprise licence are required, and verification and registration by the administrative department for industry and commerce are also required; its division, merger or dissolution must be approved by the competent department of tobacco monopoly administration of the State Council, and the formalities of registration of modification or deregistration shall be completed with the administrative department for industry and commerce. Where a tobacco monopoly production enterprise licence has not been obtained, the administrative department for industry and commerce shall not verify and register the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Tobacco Products"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where an enterprise producing tobacco products carries out capital construction or technological transformation to expand production capacity, it must obtain the approval of the competent department of tobacco monopoly administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Tobacco Products"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The annual plan for the total output of cigarettes and cigars of a province, autonomous region or municipality directly under the Central Government shall be issued by the planning department of the State Council. The annual plan for the total output of cigarettes and cigars of an enterprise producing tobacco products shall be issued by the competent department of tobacco monopoly administration at the provincial level on the basis of the plan issued by the planning department of the State Council and in light of market sales, and local people's governments shall not assign production tasks in excess of the plan to enterprises producing tobacco products. Where an enterprise producing tobacco products needs to produce cigarettes or cigars in excess of the annual plan for total output in light of market sales, it must obtain the approval of the competent department of tobacco monopoly administration of the State Council.\nThe National Tobacco Company shall, on the basis of the annual plan for total output issued by the planning department of the State Council, assign to the provincial tobacco companies output quotas for cigarettes by grade and by type. The provincial tobacco companies shall, on the basis of the output quotas for cigarettes by grade and by type assigned by the National Tobacco Company and in light of market sales, assign to the enterprises producing tobacco products output quotas for cigarettes by grade and by type. An enterprise producing tobacco products may, in light of market sales, appropriately adjust the output quotas for cigarettes by grade and by type within the scope of the annual plan for total output of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Production of Tobacco Products"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "An enterprise engaging in the wholesale of tobacco products must obtain the approval of the competent department of tobacco monopoly administration of the State Council or of the competent department of tobacco monopoly administration at the provincial level, obtain a tobacco monopoly wholesale enterprise licence, and be verified and registered by the administrative department for industry and commerce."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "An enterprise or individual engaging in the retail sale of tobacco products shall be examined and approved by the administrative department for industry and commerce of the county-level people's government, as entrusted by the competent department of tobacco monopoly administration at the next higher level, and be issued a tobacco monopoly retail licence. Where a competent department of tobacco monopoly administration at the county level has been established, that department may also examine, approve and issue a tobacco monopoly retail licence."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State formulates grade standards for the tar content of cigarettes and cigars. Cigarettes and cigars shall be marked on their packaging with the tar content grade and the words \"Smoking is harmful to health\"."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "It is prohibited to broadcast or publish advertisements for tobacco products on radio stations, television stations and in newspapers and periodicals."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Cigarettes, cigars and packaged cut tobacco must apply for trademark registration, and those whose registration has not been approved shall not be produced or sold.\nIt is prohibited to produce or sell tobacco products that counterfeit the registered trademarks of others."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Trademark labels for tobacco products must be printed by enterprises designated by the administrative department for industry and commerce at the provincial level; enterprises not designated shall not print trademark labels for tobacco products."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Anyone consigning for transport or transporting tobacco monopoly commodities themselves must hold a transport permit issued by the competent department of tobacco monopoly administration or by an institution authorised by that department; where there is no transport permit, the carrier shall not undertake the carriage."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where tobacco leaves or tobacco products are sent by post or carried to another place, the quantity limits prescribed by the relevant competent department of the State Council shall not be exceeded."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where an individual brings tobacco products into the territory of China, the quantity limits prescribed by the relevant competent department of the State Council shall not be exceeded."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Sale and Transport of Tobacco Products"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Enterprises producing cigarette paper, filter rods, cigarette tow or tobacco-specific machinery must report to the competent department of tobacco monopoly administration of the State Council for approval and obtain a tobacco monopoly production enterprise licence.\nFor the purposes of this Law, tobacco-specific machinery means complete machines of tobacco-specific machinery."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Production and Sale of Cigarette Paper, Filter Rods, Cigarette Tow and Tobacco-specific Machinery"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Enterprises producing cigarette paper, filter rods, cigarette tow or tobacco-specific machinery shall organise production in accordance with the plans of the competent department of tobacco monopoly administration of the State Council and the order contracts concluded with enterprises producing tobacco products."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Production and Sale of Cigarette Paper, Filter Rods, Cigarette Tow and Tobacco-specific Machinery"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Enterprises producing cigarette paper, filter rods, cigarette tow or tobacco-specific machinery may sell their products only to tobacco companies and to enterprises producing tobacco products that hold tobacco monopoly production enterprise licences."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Production and Sale of Cigarette Paper, Filter Rods, Cigarette Tow and Tobacco-specific Machinery"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The competent department of tobacco monopoly administration of the State Council shall, in accordance with the provisions of the State Council, administer the import and export trade and the foreign economic and technological cooperation of the tobacco industry."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter VI Import and Export Trade and Foreign Economic and Technological Cooperation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where tobacco leaves are purchased without authorisation in violation of the provisions of this Law, the competent department of tobacco monopoly administration shall impose a fine and shall purchase the unlawfully purchased tobacco leaves at 70 per cent of the average purchase price of tobacco leaves of the previous year issued by the competent department of tobacco monopoly administration at the provincial level of the place where they were seized; where the quantity is huge, the unlawfully purchased tobacco leaves and the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where tobacco monopoly commodities are consigned for transport or transported by the person concerned without a transport permit or in excess of the quantity specified in the transport permit, the competent department of tobacco monopoly administration shall impose a fine, and may purchase the unlawfully transported tobacco leaves at 70 per cent of the average purchase price of tobacco leaves of the previous year issued by the competent department of tobacco monopoly administration at the provincial level of the place where they were seized, and purchase the unlawfully transported tobacco monopoly commodities other than tobacco leaves at 70 per cent of the market wholesale price; where the circumstances are serious, the unlawfully transported tobacco monopoly commodities and the illegal gains shall be confiscated.\nWhere a carrier knowingly transports tobacco monopoly commodities for a unit or individual that has no transport permit, the competent department of tobacco monopoly administration shall confiscate the illegal gains and impose a fine.\nWhere tobacco leaves or tobacco products are carried to another place in excess of the quantity limits prescribed by the State and the quantity is relatively large, the matter shall be handled in accordance with the provisions of paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where tobacco products are produced without a tobacco monopoly production enterprise licence, the competent department of tobacco monopoly administration shall order the closure of the enterprise, confiscate the illegal gains and impose a fine.\nWhere cigarette paper, filter rods, cigarette tow or tobacco-specific machinery is produced without a tobacco monopoly production enterprise licence, the competent department of tobacco monopoly administration shall order the cessation of production of the above products, confiscate the illegal gains and may concurrently impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the wholesale of tobacco products is carried on without a tobacco monopoly wholesale enterprise licence, the competent department of tobacco monopoly administration shall order the closure of the enterprise or the cessation of the wholesale business of tobacco products, confiscate the illegal gains and impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the retail sale of tobacco products is carried on without a tobacco monopoly retail licence, the administrative department for industry and commerce shall order the cessation of the retail business of tobacco products, confiscate the illegal gains and impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where cigarettes, cigars or packaged cut tobacco without registered trademarks are produced or sold, the administrative department for industry and commerce shall order the cessation of production and sale and impose a fine.\nWhere tobacco products that counterfeit the registered trademarks of others are produced or sold, the administrative department for industry and commerce shall order the cessation of the infringement, compensate the infringed party for its losses and may concurrently impose a fine; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where trademark labels for tobacco products are illegally printed in violation of the provisions of Article 20 of this Law, the administrative department for industry and commerce shall destroy the printed trademark labels, confiscate the illegal gains and impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where tobacco monopoly commodities are resold at a profit and the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law; where the circumstances are minor and the act does not constitute a crime, the administrative department for industry and commerce shall confiscate the resold tobacco monopoly commodities and the illegal gains and may concurrently impose a fine.\nWhere a staff member of the competent department of tobacco monopoly administration or of a tobacco company commits the crime provided in the preceding paragraph by taking advantage of the convenience of office, the person shall be given a heavier punishment in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Whoever forges, alters or buys or sells licences such as tobacco monopoly production enterprise licences and tobacco monopoly business licences and transport permits provided in this Law shall be pursued for criminal responsibility in accordance with the relevant provisions of the Criminal Law.\nWhere a staff member of the competent department of tobacco monopoly administration or of a tobacco company commits the crime provided in the preceding paragraph by taking advantage of the convenience of office, the person shall be given a heavier punishment in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Whoever smuggles tobacco monopoly commodities and the act constitutes the crime of smuggling shall be pursued for criminal responsibility in accordance with the relevant provisions of the Criminal Law; where tobacco monopoly commodities are smuggled in a relatively small amount and the act does not constitute the crime of smuggling, the customs shall confiscate the smuggled goods and articles and the illegal gains and may concurrently impose a fine.\nWhere a staff member of the competent department of tobacco monopoly administration or of a tobacco company commits the crime provided in the preceding paragraph by taking advantage of the convenience of office, the person shall be given a heavier punishment in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The competent department of tobacco monopoly administration shall have the right to inspect the implementation of this Law. Whoever obstructs tobacco monopoly inspectors in the lawful performance of their duties by violence or threat shall be pursued for criminal responsibility in accordance with the law; whoever refuses or obstructs tobacco monopoly inspectors in the lawful performance of their duties without using violence or threat shall be penalised by the public security organ in accordance with the provisions of the Law on Penalties for Administration of Public Security."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a staff member of a people's court or of a relevant department handling a case of violation of law privately divides confiscated tobacco products, the person shall be pursued for criminal responsibility in accordance with the relevant provisions of the Criminal Law.\nWhere a staff member of a people's court or of a relevant department handling a case of violation of law purchases confiscated tobacco products, the person shall be ordered to return them and may be given an administrative disciplinary sanction."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a staff member of the competent department of tobacco monopoly administration or of a tobacco company abuses power, commits malpractices for personal gain or neglects duty, an administrative disciplinary sanction shall be imposed; where the circumstances are serious and the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a party is dissatisfied with a decision on administrative penalty made by the competent department of tobacco monopoly administration or by the administrative department for industry and commerce, it may, within fifteen days from the date of receipt of the penalty notice, apply for reconsideration to the organ at the next higher level than the organ that made the penalty decision; the party may also, within fifteen days from the date of receipt of the penalty notice, directly bring an action before a people's court.\nThe reconsideration organ shall make a reconsideration decision within sixty days from the date of receipt of the application for reconsideration. Where a party is dissatisfied with the reconsideration decision, it may, within fifteen days from the date of receipt of the reconsideration decision, bring an action before a people's court; where the reconsideration organ fails to make a reconsideration decision within the time limit, the party may, within fifteen days from the date of expiry of the reconsideration period, bring an action before a people's court.\nWhere, upon expiry of the time limit, a party neither applies for reconsideration nor brings an action before a people's court and also fails to perform the penalty decision, the organ that made the penalty decision may apply to a people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State Council shall formulate implementing regulations in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "This Law shall come into force on 1 January 1992. The Regulation on Tobacco Monopoly promulgated by the State Council on 23 September 1983 shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0316'] = {
     "lawId": "CN-LAW-0316",
     "sourceLang": "zh",
@@ -5274,6 +12537,1518 @@
         },
         "noLabel": {
           "en": "Article 10."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0325'] = {
+    "lawId": "CN-LAW-0325",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 20 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Units and individuals that conclude taxable documents within the territory of the People's Republic of China or conduct securities transactions are taxpayers of stamp duty and shall pay stamp duty in accordance with this Law.\nUnits and individuals that conclude taxable documents outside the territory of the People's Republic of China for use within the territory shall pay stamp duty in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The taxable documents referred to in this Law mean the contracts, the documents for the transfer of property rights and the business account books listed in the Schedule of Tax Items and Tax Rates of Stamp Duty appended to this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The securities transactions referred to in this Law mean the transfer of shares and share-based depositary receipts traded on securities exchanges established in accordance with the law or on other nationwide securities trading venues approved by the State Council.\nStamp duty on securities transactions shall be levied on the transferor in the securities transaction and shall not be levied on the transferee."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The tax items and tax rates of stamp duty shall be governed by the Schedule of Tax Items and Tax Rates of Stamp Duty appended to this Law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The tax base of stamp duty is as follows:\n(a) the tax base of a taxable contract is the amount stated in the contract, excluding the separately stated value-added tax;\n(b) the tax base of a taxable document for the transfer of property rights is the amount stated in the document for the transfer of property rights, excluding the separately stated value-added tax;\n(c) the tax base of taxable business account books is the total amount of paid-in capital (share capital) and capital reserve recorded in the books;\n(d) the tax base of a securities transaction is the transaction amount."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the amount is not stated in a taxable contract or a document for the transfer of property rights, the tax base of stamp duty shall be determined according to the amount actually settled.\nWhere the tax base still cannot be determined in accordance with the preceding paragraph, it shall be determined according to the market price at the time the contract or the document for the transfer of property rights is concluded; where the government-set price or the government-guided price shall be applied in accordance with the law, it shall be determined in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a securities transaction has no transfer price, the tax base shall be calculated and determined according to the closing price of the securities on the trading day preceding the day on which the transfer registration formalities are handled; where there is no closing price, the tax base shall be calculated and determined according to the face value of the securities."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The amount of stamp duty payable shall be calculated by multiplying the tax base by the applicable tax rate."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the same taxable document contains matters under two or more tax items and the amounts are separately stated, the amount of tax payable shall be calculated separately according to the tax item and tax rate applicable to each; where the amounts are not separately stated, the higher tax rate shall apply."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the same taxable document is concluded by two or more parties, the amount of tax payable shall be calculated separately according to the amount involved for each party."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the total amount of paid-in capital (share capital) and capital reserve recorded in a business account book on which stamp duty has been paid increases in a later year compared with the total amount of paid-in capital (share capital) and capital reserve on which stamp duty has been paid, the amount of tax payable shall be calculated on the increased portion."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Stamp duty shall be exempted on the following documents:\n(a) copies or transcripts of taxable documents;\n(b) taxable documents concluded by foreign embassies and consulates in China and by resident representative offices of international organisations in China that are entitled to exemption from tax in accordance with the law, for the acquisition of premises;\n(c) taxable documents concluded by the Chinese People's Liberation Army and the Chinese People's Armed Police Force;\n(d) sales contracts and agricultural insurance contracts concluded by farmers, family farms, specialised farmers' cooperatives, rural collective economic organisations and villagers' committees for the purchase of agricultural means of production or the sale of agricultural products;\n(e) interest-free or subsidised-interest loan contracts, and loan contracts concluded for concessional loans provided to China by international financial organisations;\n(f) documents for the transfer of property rights concluded by property owners donating property to the government, schools, social welfare institutions and charitable organisations;\n(g) sales contracts concluded by non-profit medical and health institutions for the purchase of medicines or medical and health materials;\n(h) electronic orders concluded between individuals and e-commerce operators.\nIn light of the needs of national economic and social development, the State Council may, in respect of the safeguarding of residents' housing needs, enterprise restructuring and reorganisation, bankruptcy, support for the development of small and micro enterprises and other circumstances, provide for the reduction or exemption of stamp duty, and shall report the same to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the taxpayer is a unit, it shall declare and pay stamp duty to the competent tax authority at the place where its organisation is located; where the taxpayer is an individual, he shall declare and pay stamp duty to the competent tax authority at the place where the taxable document is concluded or where the taxpayer resides.\nWhere the property rights in immovable property are transferred, the taxpayer shall declare and pay stamp duty to the competent tax authority at the place where the immovable property is located."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the taxpayer is an overseas unit or individual that has an agent within the territory, the agent within the territory shall be the withholding agent; where there is no agent within the territory, the taxpayer shall declare and pay stamp duty on its own, and the specific measures shall be prescribed by the competent tax authority under the State Council.\nA securities registration and clearing institution is the withholding agent for stamp duty on securities transactions and shall declare and remit the tax and the interest settled by the bank to the competent tax authority at the place where its organisation is located."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The time at which the obligation to pay stamp duty arises shall be the day on which the taxpayer concludes the taxable document or completes the securities transaction.\nThe time at which the obligation to withhold stamp duty on securities transactions arises shall be the day on which the securities transaction is completed."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Stamp duty shall be levied quarterly, annually or on a per-transaction basis. Where stamp duty is levied quarterly or annually, the taxpayer shall declare and pay the tax within 15 days from the end of the quarter or the year; where it is levied on a per-transaction basis, the taxpayer shall declare and pay the tax within 15 days from the date on which the obligation to pay tax arises.\nStamp duty on securities transactions shall be remitted weekly. The withholding agent for stamp duty on securities transactions shall, within five days from the end of each week, declare and remit the tax and the interest settled by the bank."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Stamp duty may be paid by affixing stamp duty stamps or by such other tax payment receipts as are issued by the tax authority in accordance with the law.\nWhere stamp duty stamps are affixed to a taxable document, the taxpayer shall cancel each stamp by stamping across the perforation between the stamp and the document or by drawing a line across it.\nStamp duty stamps shall be produced under the supervision of the competent tax authority under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Stamp duty shall be collected and administered by the tax authority in accordance with this Law and the Law of the People's Republic of China on the Administration of Tax Collection."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a taxpayer, a withholding agent, a tax authority or its staff violates the provisions of this Law, legal liability shall be pursued in accordance with the Law of the People's Republic of China on the Administration of Tax Collection and the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "This Law shall come into force on 1 July 2022. The Interim Regulations of the People's Republic of China on Stamp Duty promulgated by the State Council on 6 August 1988 are repealed simultaneously.\nAppendix:\nSchedule of Tax Items and Tax Rates of Stamp Duty\nTax item\nTax item\nTax rate\nRemarks\nContracts (referring to written contracts)\nLoan contract\n0.005 per cent of the loan amount\nReferring to loan contracts between banking financial institutions or other financial institutions established with the approval of the banking regulatory authority under the State Council and borrowers (excluding interbank lending)\nContracts (referring to written contracts)\nFinancial lease contract\n0.005 per cent of the rent\nContracts (referring to written contracts)\nSales contract\n0.03 per cent of the price\nReferring to sales contracts for movable property (excluding sales contracts for movable property concluded by individuals)\nContracts (referring to written contracts)\nContract for work\n0.03 per cent of the remuneration\nContracts (referring to written contracts)\nConstruction project contract\n0.03 per cent of the price\nContracts (referring to written contracts)\nTransport contract\n0.03 per cent of the transport charges\nReferring to freight transport contracts and multimodal transport contracts (excluding pipeline transport contracts)\nContracts (referring to written contracts)\nTechnology contract\n0.03 per cent of the price, remuneration or royalty\nExcluding documents for the transfer of patent rights and of the right to use proprietary technology\nContracts (referring to written contracts)\nLease contract\n0.1 per cent of the rent\nContracts (referring to written contracts)\nCustody contract\n0.1 per cent of the custody fee\nContracts (referring to written contracts)\nWarehousing contract\n0.1 per cent of the warehousing fee\nContracts (referring to written contracts)\nProperty insurance contract\n0.1 per cent of the insurance premium\nExcluding reinsurance contracts\nDocuments for the transfer of property rights\nDocument for the grant of land use rights\n0.05 per cent of the price\nTransfer includes sale (disposal), inheritance, gift, exchange and partition\nDocuments for the transfer of property rights\nDocuments for the transfer of the ownership of land use rights and of buildings and structures such as houses (excluding the transfer of land contractual management rights and land management rights)\n0.05 per cent of the price\nTransfer includes sale (disposal), inheritance, gift, exchange and partition\nDocuments for the transfer of property rights\nDocument for the transfer of equity (excluding those on which stamp duty on securities transactions shall be paid)\n0.05 per cent of the price\nTransfer includes sale (disposal), inheritance, gift, exchange and partition\nDocuments for the transfer of property rights\nDocuments for the transfer of the exclusive right to use a trademark, copyright, patent right and the right to use proprietary technology\n0.03 per cent of the price\nTransfer includes sale (disposal), inheritance, gift, exchange and partition\nBusiness account books\nBusiness account books\n0.025 per cent of the total amount of paid-in capital (share capital) and capital reserve\nSecurities transactions\nSecurities transactions\n0.1 per cent of the transaction amount"
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0326'] = {
+    "lawId": "CN-LAW-0326",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 30 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to strengthen the protection of heroes and martyrs, safeguard public interests, carry forward and promote the spirit of heroes and martyrs and the spirit of patriotism, foster and practise the core socialist values, and inspire a powerful spiritual force for realising the Chinese Dream of the great rejuvenation of the Chinese nation, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State and the people shall forever revere and remember the sacrifices and contributions made by heroes and martyrs to the country, the people and the nation.\nSince modern times, heroes and martyrs who devoted their entire lives and laid down their lives in the struggle for national independence and the liberation of the people, for the prosperity of the country and the happiness of the people, and for world peace and human progress have achievements that shine in the annals of history, and their spirit is immortal."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The deeds and spirit of heroes and martyrs are the common historical memory of the Chinese nation and an important embodiment of the core socialist values.\nThe State protects heroes and martyrs, praises and commemorates them, strengthens publicity and education on their deeds and spirit, and safeguards their dignity and lawful rights and interests.\nThe whole of society shall revere, learn from and defend heroes and martyrs."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at all levels shall strengthen the protection of heroes and martyrs and make the publicity and promotion of the deeds and spirit of heroes and martyrs an important part of the development of socialist spiritual civilisation.\nThe department responsible for the protection of heroes and martyrs of the people's government at or above the county level and other relevant departments shall perform their duties in accordance with law and do a good job in the protection of heroes and martyrs.\nThe relevant departments of the armed forces shall, in accordance with the provisions of the State Council and the Central Military Commission, do a good job in the protection of heroes and martyrs.\nPeople's governments at or above the county level shall include funds for the protection of heroes and martyrs in their budgets at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "30 September of each year is Martyrs' Memorial Day, on which the State holds a memorial ceremony in front of the Monument to the People's Heroes in Tiananmen Square, Beijing, the capital, to remember heroes and martyrs.\nLocal people's governments at or above the county level and the relevant departments of the armed forces shall hold commemorative activities on Martyrs' Memorial Day.\nRepresentatives of the bereaved families of heroes and martyrs shall be invited to attend commemorative activities for heroes and martyrs."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "On Tomb-Sweeping Day and important commemorative days, State organs, organisations, villages, communities, schools, enterprises, public institutions and the relevant units of the armed forces shall, in light of actual circumstances, organise and carry out commemorative activities for heroes and martyrs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State establishes and protects memorial facilities for heroes and martyrs, in order to commemorate and remember heroes and martyrs.\nThe Monument to the People's Heroes standing in Tiananmen Square, Beijing, the capital, is a symbol of the spirit of the Chinese people and the Chinese nation since modern times in striving for national independence and liberation, the freedom and happiness of the people and the prosperity of the country, and is a permanent memorial facility for the State and the people to commemorate and remember heroes and martyrs.\nThe Monument to the People's Heroes and its name, inscription title, inscription, reliefs, graphics and marks are protected by law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate the construction and protection of memorial facilities for heroes and martyrs into national economic and social development plans and urban and rural plans, strengthen the protection and management of such facilities, and, in respect of memorial facilities for heroes and martyrs of important commemorative and educational significance, verify and publish them as cultural relic protection units in accordance with the provisions of the Law of the People's Republic of China on the Protection of Cultural Relics.\nThe central finance shall, in accordance with State provisions, provide subsidies for the repair and protection of memorial facilities for heroes and martyrs in old revolutionary base areas, ethnic minority areas, border areas and poverty-stricken areas."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Memorial facilities for heroes and martyrs shall be open to the public free of charge, for the public to visit and pay respects to and mourn heroes and martyrs, to carry out commemorative education activities and to comfort the spirits of the martyrs.\nWhere the memorial facilities specified in the preceding paragraph are managed by the relevant units of the armed forces, they shall be opened in accordance with the relevant provisions of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The units protecting memorial facilities for heroes and martyrs shall improve service and management standards, facilitate visits to pay respects to and mourn heroes and martyrs, and maintain a solemn, respectful and serene environment and atmosphere at such facilities.\nNo organisation or individual may, within the protected scope of memorial facilities for heroes and martyrs, engage in activities detrimental to the environment and atmosphere for commemorating heroes and martyrs, or encroach upon the land and facilities within that protected scope, or damage or defile such memorial facilities."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "When heroes and martyrs are buried, the people's government at or above the county level and the relevant departments of the armed forces shall hold solemn, respectful, civilised and frugal ceremonies of escort and burial."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State establishes and improves the system for paying respects to heroes and martyrs and the relevant rules of etiquette, and guides citizens to carry out such activities in a solemn and orderly manner.\nThe relevant departments of the people's government at or above the county level shall facilitate visits by the bereaved families of heroes and martyrs to pay their respects."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The relevant departments of the people's government at or above the county level shall guide citizens to remember the deeds of heroes and martyrs and to carry forward and promote their spirit by visiting memorial facilities for heroes and martyrs, taking collective oaths, making online memorials and in other forms."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where heroes and martyrs are buried abroad, the diplomatic and consular representative offices of the People's Republic of China in that country shall, in light of the actual circumstances of the receiving State, organise and carry out memorial activities.\nThrough cooperation with the relevant countries, the State searches for and collects the remains, relics and historical materials of heroes and martyrs, and strengthens the repair and protection of memorial facilities for heroes and martyrs located abroad."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State encourages and supports research on the deeds and spirit of heroes and martyrs, and understands and records history under the guidance of dialectical materialism and historical materialism."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "People's governments at all levels and the relevant departments of the armed forces shall strengthen the collection, protection and display of relics and historical materials of heroes and martyrs, and organise research, compilation and publicity concerning such historical materials.\nThe State encourages and supports old revolutionary base areas in leveraging local resource advantages to carry out research, publicity and education on the deeds and spirit of heroes and martyrs."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The administrative department of education shall, focusing on young people and students, incorporate publicity and education on the deeds and spirit of heroes and martyrs into the national education system.\nThe administrative department of education and schools of all types and at all levels shall incorporate the deeds and spirit of heroes and martyrs into educational content, organise and carry out commemorative education activities, and strengthen education for students in patriotism, collectivism and socialism."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The departments of culture, press and publication, radio and television, film and cyberspace administration shall encourage and support the creation, production, publicity and promotion of outstanding literary and artistic works, radio and television programmes and publications that take the deeds of heroes and martyrs as their subject and carry forward the spirit of heroes and martyrs."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Radio stations, television stations, newspaper and periodical publishing units and Internet information service providers shall, by broadcasting or publishing works on the theme of heroes and martyrs, publishing public welfare advertisements, opening special columns and other means, widely publicise the deeds and spirit of heroes and martyrs."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State encourages and supports natural persons, legal persons and unincorporated organisations in participating in the protection of heroes and martyrs through public welfare activities such as donating property, voluntarily giving lectures on the deeds and spirit of heroes and martyrs, and providing assistance to the bereaved families of heroes and martyrs.\nWhere a natural person, legal person or unincorporated organisation donates property for the protection of heroes and martyrs, it shall enjoy tax preferences in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State operates a system of pensions and preferential treatment for heroes and martyrs. The bereaved families of heroes and martyrs shall enjoy preferential treatment in education, employment, elderly care, housing, medical care and other aspects in accordance with State provisions. The level of such pensions and preferential treatment shall be commensurate with national economic and social development and shall be gradually raised.\nThe relevant departments of the State Council, the relevant departments of the armed forces and local people's governments shall show concern for the living conditions of the bereaved families of heroes and martyrs and pay regular visits to them every year."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "It is prohibited to distort, vilify, desecrate or deny the deeds and spirit of heroes and martyrs.\nThe names, images, reputations and honours of heroes and martyrs are protected by law. No organisation or individual may, in public places, on the Internet, or by means of radio and television, films, publications or otherwise, infringe upon the names, images, reputations or honours of heroes and martyrs by insult, defamation or other means. No organisation or individual may use, or use in a disguised form, the names or images of heroes and martyrs in trademarks or commercial advertisements in a manner that damages the reputation or honour of heroes and martyrs.\nWhere the departments of public security, culture, press and publication, radio and television, film, cyberspace administration, market regulation and the department responsible for the protection of heroes and martyrs discover acts specified in the preceding paragraph, they shall handle them promptly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where, in the course of supervising and administering online information in accordance with law, the cyberspace administration and the relevant departments such as telecommunications and public security discover information that is published or transmitted and that infringes upon the names, images, reputations or honours of heroes and martyrs by insult, defamation or other means, they shall require network operators to stop transmitting it and to take disposal measures such as deletion and other necessary measures; for such information originating outside the territory of the People's Republic of China, they shall notify the relevant institutions to take technical measures and other necessary measures to block its dissemination.\nWhere a network operator discovers that its users have published the information specified in the preceding paragraph, it shall immediately stop transmitting the information, take disposal measures such as deletion to prevent the information from spreading, preserve the relevant records and report to the competent department. Where a network operator fails to take disposal measures such as stopping transmission and deletion, it shall be penalised in accordance with the provisions of the Cybersecurity Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Any organisation or individual has the right to report acts infringing upon the lawful rights and interests of heroes and martyrs and other acts violating the provisions of this Law to the department responsible for the protection of heroes and martyrs, the cyberspace administration, the public security organ and other relevant departments, and the department receiving the report shall handle it promptly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "For acts infringing upon the names, images, reputations or honours of heroes and martyrs, the close relatives of the heroes and martyrs may bring a lawsuit before a people's court in accordance with law.\nWhere heroes and martyrs have no close relatives, or their close relatives do not bring a lawsuit, the procuratorial organ shall, in accordance with law, bring a lawsuit before a people's court against acts that infringe upon the names, images, reputations or honours of heroes and martyrs and harm public interests.\nWhere, in the course of performing their duties, the department responsible for the protection of heroes and martyrs and other relevant departments discover acts specified in paragraph 1 and it is necessary for the procuratorial organ to bring a lawsuit, they shall report to the procuratorial organ.\nWhere close relatives of heroes and martyrs bring a lawsuit in accordance with paragraph 1, legal aid institutions shall provide legal aid services in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Whoever infringes upon the names, images, reputations or honours of heroes and martyrs by insult, defamation or other means and harms public interests shall bear civil liability in accordance with law; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with law; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where activities detrimental to the environment and atmosphere for commemorating heroes and martyrs are conducted within the protected scope of memorial facilities for heroes and martyrs, the unit protecting the memorial facilities shall promptly dissuade the persons concerned; where they refuse to be dissuaded, the department responsible for the protection of heroes and martyrs and the competent department for cultural relics of the local people's government at or above the county level shall, in accordance with their duties, give criticism and education and order correction; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with law.\nWhoever desecrates or denies the deeds and spirit of heroes and martyrs, advocates or glorifies wars of aggression and acts of aggression, stirs up trouble or disrupts public order, thereby constituting a violation of public security administration, shall be given a public security administration penalty by the public security organ in accordance with law; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where memorial facilities for heroes and martyrs are encroached upon, damaged or defiled, the department responsible for the protection of heroes and martyrs of the people's government at or above the county level shall order correction; where losses are caused, civil liability shall be borne in accordance with law; where the memorial facilities encroached upon, damaged or defiled are cultural relic protection units, a penalty shall be imposed in accordance with the provisions of the Law of the People's Republic of China on the Protection of Cultural Relics; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with law; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the relevant departments of the people's government at or above the county level and their staff abuse their powers, neglect their duties or engage in malpractices for personal gain in the protection of heroes and martyrs, the persons directly in charge and other persons directly responsible shall be given sanctions in accordance with law; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "This Law shall come into force on 1 May 2018."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0328'] = {
+    "lawId": "CN-LAW-0328",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 50 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted to strengthen the protection, enhancement, development and rational utilisation of fishery resources, to develop artificial aquaculture, to safeguard the lawful rights and interests of fishery producers, to promote the development of fishery production, and to meet the needs of socialist construction and the livelihood of the people."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "All fishery production activities, such as the aquaculture and catching of aquatic animals and aquatic plants, carried out in the internal waters, tidal flats, territorial sea and exclusive economic zone of the People's Republic of China and in all other sea areas under the jurisdiction of the People's Republic of China must comply with this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "With regard to fishery production, the State applies the policy of laying the main emphasis on aquaculture while developing aquaculture, catching and processing concurrently, of adapting measures to local conditions and of placing different emphases in different localities.\nPeople's governments at all levels shall incorporate fishery production into the plans for national economic development and adopt measures to strengthen the unified planning and comprehensive utilisation of waters."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State encourages scientific and technological research in fisheries, disseminates advanced technology and raises the level of fishery science and technology."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Units and individuals that have achieved remarkable successes in the enhancement and protection of fishery resources, the development of fishery production or research in fishery science and technology shall be given moral or material rewards by the people's governments at all levels."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent fishery administrative department of the State Council shall be in charge of fishery work throughout the country. The competent fishery administrative department of the local people's government at or above the county level shall be in charge of fishery work within its own administrative region. The competent fishery administrative department of the people's government at or above the county level may establish fishery supervision and administration organs in important fishery waters and fishing ports.\nThe competent fishery administrative department of the people's government at or above the county level and the fishery supervision and administration organ subordinate to it may appoint fishery inspectors. Fishery inspectors shall carry out the tasks assigned to them by the competent fishery administrative department and the fishery supervision and administration organ subordinate to it."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State applies the principle of unified leadership and hierarchical administration to the supervision and administration of fisheries.\nExcept for the sea areas and fishing grounds of specific fishery resources delimited by the State Council as being subject to the supervision and administration of the competent fishery administrative department of the State Council and the fishery supervision and administration organ subordinate to it, marine fisheries shall be subject to the supervision and administration of the competent fishery administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government bordering the sea area concerned.\nFisheries in rivers, lakes and other waters shall be subject to the supervision and administration of the competent fishery administrative department of the people's government at or above the county level concerned in accordance with the administrative divisions; where the waters cross administrative regions, the local people's governments at or above the county level concerned shall formulate administrative measures through consultation, or the competent fishery administrative department of the people's government at the next higher level and the fishery supervision and administration organ subordinate to it shall exercise supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Foreigners and foreign fishing vessels entering waters under the jurisdiction of the People's Republic of China to engage in fishery production or fishery resource survey activities must obtain the approval of the competent department concerned of the State Council and shall comply with this Law and the provisions of other relevant laws and regulations of the People's Republic of China; where a treaty or agreement has been concluded with the People's Republic of China, the matter shall be handled in accordance with that treaty or agreement.\nThe national fishery and fishing port supervision and administration organ shall exercise externally the power of fishery and fishing port supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Competent fishery administrative departments and the fishery supervision and administration organs subordinate to them, as well as their staff members, shall not participate in or engage in fishery production or operation activities."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State encourages units owned by the whole people, units owned by collectives and individuals to make full use of the waters and tidal flats suitable for aquaculture in order to develop the aquaculture industry."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State shall carry out unified planning for the utilisation of waters and designate the waters and tidal flats that may be used for the aquaculture industry. Where a unit or individual uses waters or tidal flats owned by the whole people that are designated under State planning for the aquaculture industry, the user shall file an application with the competent fishery administrative department of the local people's government at or above the county level, and the people's government at the corresponding level shall issue an aquaculture licence permitting the user to use such waters or tidal flats for aquaculture production. The specific measures for issuing aquaculture licences shall be formulated by the State Council.\nWaters and tidal flats owned by collectives, or owned by the whole people and used by rural collective economic organisations, may be contracted to individuals or collectives for aquaculture production."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "When issuing aquaculture licences, local people's governments at or above the county level shall give priority to local fishery producers."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a dispute arises between the parties concerning the use, for aquaculture production, of waters or tidal flats designated under State planning for the aquaculture industry, the matter shall be handled in accordance with the procedures provided by the relevant laws. Before the dispute is resolved, no party shall damage the aquaculture production."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the State requisitions waters or tidal flats owned by collectives for construction, the matter shall be handled in accordance with the relevant provisions of the Land Administration Law of the People's Republic of China on land requisition."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Local people's governments at or above the county level shall adopt measures to strengthen the protection of commercial fish production bases and of important aquaculture waters in the suburbs of cities."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State encourages and supports the selection, breeding and dissemination of fine varieties of aquatic products. New varieties of aquatic products must be examined and approved by the National Appraisal Committee for Original Broodstock and Improved Varieties of Aquatic Organisms and shall be disseminated after public announcement by the competent fishery administrative department of the State Council.\nThe import and export of aquatic fry shall be subject to the examination and approval of the competent fishery administrative department of the State Council or of the competent fishery administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government.\nThe production of aquatic fry shall be subject to the examination and approval of the competent fishery administrative department of the local people's government at or above the county level, except for aquatic fry bred by fishery producers for their own use."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Quarantine must be carried out on imported and exported aquatic fry in order to prevent diseases from being introduced into or spread out of the country; the specific quarantine work shall be carried out in accordance with the provisions of the relevant laws and administrative regulations on entry and exit animal and plant quarantine.\nA safety assessment must be carried out in respect of the introduction of genetically modified aquatic fry, and the specific management work shall be carried out in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent fishery administrative department of the people's government at or above the county level shall strengthen technical guidance for aquaculture production as well as the prevention and treatment of diseases."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Persons engaged in aquaculture production shall not use bait or feed containing toxic or harmful substances."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Persons engaged in aquaculture production shall protect the ecological environment of the waters, determine the stocking density in a scientific manner and apply bait, fertiliser and drugs in a rational manner, and shall not cause environmental pollution of the waters."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Aquaculture Industry"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall adopt fiscal, credit, taxation and other measures to encourage and support the development of distant-water fisheries, and shall allocate fishing capacity for internal waters and offshore waters on the basis of the catchable amount of fishery resources."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Fishing Industry"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall, on the principle that the catch shall be lower than the growth of fishery resources, determine the total allowable catch of fishery resources and apply a catch quota system. The competent fishery administrative department of the State Council shall be responsible for organising investigations and assessments of fishery resources so as to provide a scientific basis for the application of the catch quota system. The total catch quotas for the inland sea, the territorial sea, the exclusive economic zone and other sea areas under the jurisdiction of the People's Republic of China shall be determined by the competent fishery administrative department of the State Council and, after being submitted to the State Council for approval, shall be broken down and issued level by level; the total catch quotas for the important rivers and lakes determined by the State shall be determined, or determined through consultation, by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government concerned and shall be broken down and issued level by level. The allocation of total catch quotas shall reflect the principles of fairness and impartiality, and the methods and results of allocation must be disclosed to the public and be subject to supervision.\nThe competent fishery administrative department of the State Council and the competent fishery administrative departments of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government shall strengthen supervision and inspection of the implementation of the catch quota system, and where the catch quota targets issued by the higher authorities are exceeded, a corresponding deduction shall be made from the catch quota targets of the following year."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Fishing Industry"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State applies a fishing licence system to the fishing industry.\nFishing licences for fishing operations in fishery zones under joint management determined by agreements concluded between the People's Republic of China and the countries concerned, or on the high seas, shall be approved and issued by the competent fishery administrative department of the State Council. Fishing licences for large-scale marine trawl and purse seine operations shall be approved and issued by the competent fishery administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government. Fishing licences for other operations shall be approved and issued by the competent fishery administrative department of the local people's government at or above the county level; provided that the fishing licences approved and issued for marine operations shall not exceed the control targets for fishing vessels and nets issued by the State, and the specific measures shall be formulated by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government.\nFishing licences shall not be bought, sold, leased or transferred in any other form, and shall not be altered, forged or falsified.\nPersons engaging in fishing operations in sea areas under the jurisdiction of other countries shall obtain the approval of the competent fishery administrative department of the State Council and shall comply with the relevant treaties and agreements concluded or acceded to by the People's Republic of China and the laws of the countries concerned."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Fishing Industry"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A fishing licence may be issued only where the following conditions are met:\n(a) there is a fishing vessel inspection certificate;\n(b) there is a fishing vessel registration certificate;\n(c) other conditions prescribed by the competent fishery administrative department of the State Council are satisfied.\nFishing licences approved and issued by the competent fishery administrative department of the local people's government at or above the county level shall correspond to the catch quota targets issued by the competent fishery administrative department of the people's government at the higher level."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Fishing Industry"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Units and individuals engaged in fishing operations must conduct their operations in accordance with the provisions of the fishing licence concerning the type of operation, the areas, the time limits, the quantity of fishing gear and the catch quotas, and shall comply with the provisions of the State on the protection of fishery resources; large and medium-sized fishing vessels shall keep a fishing log."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Fishing Industry"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Fishing vessels that are built, renovated, purchased or imported for fishing operations may be put into operation in the water only after passing inspection by the fishing vessel inspection department. The specific administrative measures shall be formulated by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Fishing Industry"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The construction of fishing ports shall comply with the unified planning of the State and apply the principle that whoever invests shall benefit. Local people's governments at or above the county level shall strengthen the supervision and administration of the fishing ports located within their own administrative regions and maintain the normal order of such ports."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Fishing Industry"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The competent fishery administrative department of the people's government at or above the county level shall carry out unified planning for the fishery waters under its administration and adopt measures to enhance fishery resources. The competent fishery administrative department of the people's government at or above the county level may collect fees for the enhancement and protection of fishery resources from the units and individuals benefiting therefrom, and such fees shall be used exclusively for the enhancement and protection of fishery resources. The measures for collecting fees for the enhancement and protection of fishery resources shall be formulated by the competent fishery administrative department of the State Council jointly with the finance department and shall be implemented after being submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State protects aquatic germplasm resources and the environment for their survival, and establishes reserves for aquatic germplasm resources in the principal areas where aquatic germplasm resources with relatively high economic value and genetic breeding value grow and reproduce. Without the approval of the competent fishery administrative department of the State Council, no unit or individual may engage in fishing activities within a reserve for aquatic germplasm resources."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Fishing by means of blasting, poisoning, electro-fishing or other methods damaging fishery resources shall be prohibited. The manufacture, sale and use of prohibited fishing gear shall be prohibited. Fishing in closed fishing areas or during closed fishing seasons shall be prohibited. Fishing with nets of a mesh size smaller than the minimum mesh size shall be prohibited. The proportion of juvenile fish in the catch shall not exceed the prescribed proportion. The sale of illegally caught aquatic products in closed fishing areas or during closed fishing seasons shall be prohibited.\nThe species of fishery resources under key protection and the standards for their capture, closed fishing areas and closed fishing seasons, the fishing gear and fishing methods the use of which is prohibited or restricted, the minimum mesh size and other measures for the protection of fishery resources shall be prescribed by the competent fishery administrative department of the State Council or by the competent fishery administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The catching of fry of aquatic animals with important economic value shall be prohibited. Where the catching of fry with important economic value or of egg-bearing parent stocks prohibited from being caught is needed for aquaculture or for other special purposes, such catching must be approved by the competent fishery administrative department of the State Council or by the competent fishery administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government and shall be carried out within the designated areas and time periods in accordance with the quotas.\nWhere water is diverted or used in key production areas of fry of aquatic animals, measures shall be taken to protect the fry."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the building of sluice gates or dams in the migration passages of fish, shrimps and crabs has serious effects on fishery resources, the construction unit shall build fish passage facilities or take other remedial measures."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "For water bodies used for fisheries that also serve the functions of water storage and irrigation, the competent department concerned shall determine the minimum water level required for fishery production."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The reclamation of tidal flats around lakes to create farmland shall be prohibited. Coastal tidal flats shall not be reclaimed without the approval of the people's government at or above the county level; important fry production bases and aquaculture sites shall not be reclaimed."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where underwater blasting, exploration or construction operations have serious effects on fishery resources, the operating unit shall consult in advance with the competent fishery administrative department of the people's government at or above the county level concerned and adopt measures to prevent or reduce damage to fishery resources; where losses are caused to fishery resources, the people's government at or above the county level concerned shall order compensation to be paid."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "People's governments at all levels shall adopt measures to protect and improve the ecological environment of fishery waters and to prevent and control pollution.\nThe supervision and administration of the ecological environment of fishery waters and the investigation and handling of fishery pollution accidents shall be carried out in accordance with the relevant provisions of the Marine Environment Protection Law of the People's Republic of China and the Law of the People's Republic of China on the Prevention and Control of Water Pollution."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall give priority protection to the Chinese river dolphin and other precious and endangered aquatic wild animals so as to prevent their extinction. The catching, killing or injuring of aquatic wild animals under the key protection of the State shall be prohibited. Where it is necessary, for scientific research, domestication and breeding, exhibition or other special purposes, to catch aquatic wild animals under the key protection of the State, the matter shall be handled in accordance with the provisions of the Wildlife Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a person fishes by means of blasting, poisoning, electro-fishing or other methods damaging fishery resources, fishes in violation of the provisions on closed fishing areas or closed fishing seasons, or fishes with prohibited fishing gear or prohibited fishing methods or with nets of a mesh size smaller than the minimum mesh size, or where the proportion of juvenile fish in the catch exceeds the prescribed proportion, the catch and the illegal gains shall be confiscated and a fine of not more than RMB 50,000 shall be imposed; if the circumstances are serious, the fishing gear shall be confiscated and the fishing licence revoked; if the circumstances are especially serious, the fishing vessel may be confiscated; if a crime is constituted, criminal responsibility shall be investigated in accordance with the law.\nWhere aquatic products caught in violation of the law are sold in closed fishing areas or during closed fishing seasons, the competent fishery administrative department of the local people's government at or above the county level shall conduct an investigation and handle the matter without delay.\nWhere prohibited fishing gear is manufactured or sold, the fishing gear illegally manufactured or sold and the illegal gains shall be confiscated and a concurrent fine of not more than RMB 10,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a person stealthily catches or seizes the aquatic products cultivated by another, or damages the aquaculture waters or aquaculture facilities of another, he shall be ordered to rectify the matter and may be fined not more than RMB 20,000; where losses are caused to another, he shall bear liability for compensation in accordance with the law; if a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a person uses waters or tidal flats owned by the whole people for aquaculture production and leaves them lying waste for a full year without justifiable reasons, the organ that issued the aquaculture licence shall order him to develop and utilise them within a specified period; if they have not been developed and utilised upon expiry of the period, the aquaculture licence shall be revoked and a concurrent fine of not more than RMB 10,000 may be imposed.\nWhere a person engages in aquaculture production in waters owned by the whole people without obtaining an aquaculture licence in accordance with the law, he shall be ordered to rectify the matter and to complete the formalities for obtaining an aquaculture licence or to remove the aquaculture facilities within a specified period.\nWhere a person engages in aquaculture production in waters owned by the whole people without obtaining an aquaculture licence in accordance with the law or beyond the licensed scope of the aquaculture licence, thereby obstructing navigation or flood discharge, he shall be ordered to remove the aquaculture facilities within a specified period and may be fined not more than RMB 10,000 concurrently."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a person fishes without obtaining a fishing licence in accordance with the law, the catch and the illegal gains shall be confiscated and a concurrent fine of not more than RMB 100,000 shall be imposed; if the circumstances are serious, the fishing gear and the fishing vessel may also be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a person fishes in violation of the provisions of the fishing licence concerning the type of operation, the areas, the time limits and the quantity of fishing gear, the catch and the illegal gains shall be confiscated and a concurrent fine of not more than RMB 50,000 may be imposed; if the circumstances are serious, the fishing gear may also be confiscated and the fishing licence revoked."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a person alters, buys, sells, leases or transfers in any other form a fishing licence, the illegal gains shall be confiscated, the fishing licence shall be revoked and a concurrent fine of not more than RMB 10,000 may be imposed; where a person forges, falsifies, buys or sells a fishing licence and a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where aquatic fry are produced, imported or exported without approval, the fry and the illegal gains shall be confiscated and a concurrent fine of not more than RMB 50,000 shall be imposed.\nWhere aquatic fry that have not been examined and approved are dealt in, the person concerned shall be ordered to stop dealing in them immediately, the illegal gains shall be confiscated and a concurrent fine of not more than RMB 50,000 may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a person engages in fishing activities within a reserve for aquatic germplasm resources without approval, he shall be ordered to stop fishing immediately, his catch and fishing gear shall be confiscated and a concurrent fine of not more than RMB 10,000 may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where foreigners or foreign fishing vessels, in violation of the provisions of this Law, enter waters under the jurisdiction of the People's Republic of China without authorisation to engage in fishery production or fishery resource survey activities, they shall be ordered to leave or shall be expelled, their catch and fishing gear may be confiscated and a concurrent fine of not more than RMB 500,000 shall be imposed; if the circumstances are serious, the fishing vessel may be confiscated; if a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a person causes damage to the ecological environment of fishery waters or causes a fishery pollution accident, legal responsibility shall be investigated in accordance with the provisions of the Marine Environment Protection Law of the People's Republic of China and the Law of the People's Republic of China on the Prevention and Control of Water Pollution."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The administrative penalties provided for in this Law shall be decided by the competent fishery administrative department of the people's government at or above the county level or by the fishery supervision and administration organ subordinate to it, except where this Law has already provided otherwise for the imposing organ.\nWhere, in the course of law enforcement at sea, a person fishes in violation of the provisions on closed fishing areas or closed fishing seasons or by prohibited fishing gear or prohibited fishing methods, or fishes without obtaining a fishing licence, and the facts are clear and the evidence is sufficient, but the administrative penalty decision cannot be made and enforced on the spot in accordance with the statutory procedures, the fishing licence, fishing gear or fishing vessel may be provisionally seized first, and the administrative penalty decision shall be made and enforced in accordance with the law after returning to port."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the competent fishery administrative department or the fishery supervision and administration organ subordinate to it, or their staff members, issue licences, allocate catch quotas or engage in fishery production or operation activities in violation of the provisions of this Law, or commit other acts of neglecting their duties and failing to perform their statutory obligations, abusing their powers or engaging in malpractices for personal gain, administrative sanctions shall be imposed in accordance with the law; if a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "This Law shall enter into force on 1 July 1986."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0335'] = {
+    "lawId": "CN-LAW-0335",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 38 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to improve the value-added tax system conducive to high-quality development, regulate the collection and payment of value-added tax, and protect the lawful rights and interests of taxpayers, this Law is formulated."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Work on value-added tax collection shall implement the line, principles and policies and the decisions and arrangements of the Party and the State and serve national economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Units and individuals (including individual industrial and commercial households) that sell goods, services, intangible assets or immovable property (hereinafter referred to as taxable transactions) or import goods within the territory of the People's Republic of China (hereinafter referred to as within the territory) are value-added tax taxpayers and shall pay value-added tax in accordance with the provisions of this Law.\nThe sale of goods, services, intangible assets or immovable property means the transfer for consideration of the ownership of goods or immovable property, the provision of services for consideration, and the transfer for consideration of the ownership or the right to use intangible assets."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A taxable transaction occurs within the territory in any of the following circumstances:\n(a) in the case of the sale of goods, the place of dispatch or the location of the goods is within the territory;\n(b) in the case of the sale or lease of immovable property or the transfer of the right to use natural resources, the location of the immovable property or natural resources is within the territory;\n(c) in the case of the sale of financial products, the financial products are issued within the territory, or the seller is a unit or individual within the territory;\n(d) in the case of the sale of services or intangible assets other than those provided in items (b) and (c) of this Article, the services or intangible assets are consumed within the territory, or the seller is a unit or individual within the territory."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In any of the following circumstances, a transaction shall be deemed to be a taxable transaction and value-added tax shall be paid in accordance with the provisions of this Law:\n(a) a unit or individual industrial and commercial household uses goods that it has produced itself or entrusted others to process for collective welfare or personal consumption;\n(b) a unit or individual industrial and commercial household transfers goods free of charge;\n(c) a unit or individual transfers intangible assets, immovable property or financial products free of charge."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In any of the following circumstances, a transaction is not a taxable transaction and value-added tax shall not be levied:\n(a) an employee provides services to the employing unit or employer in return for wages and salaries;\n(b) administrative and institutional charges and government funds are collected;\n(c) compensation is obtained for expropriation or requisition in accordance with the provisions of law;\n(d) interest income on deposits is obtained."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Value-added tax is an off-price tax, and the sales amount of a taxable transaction does not include the amount of value-added tax. The amount of value-added tax shall be separately stated on the transaction voucher in accordance with the provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a taxpayer carries out a taxable transaction, the value-added tax payable shall be computed and paid in accordance with the general method of tax computation, that is, by offsetting the input tax against the output tax to compute the amount of tax payable, unless otherwise provided in this Law.\nA small-scale taxpayer may compute and pay value-added tax in accordance with the simplified method of tax computation, under which the amount of tax payable is computed on the basis of the sales amount and the levy rate.\nThe method of computing value-added tax on marine oil and natural gas exploited through Sino-foreign cooperation and other matters shall be implemented in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Small-scale taxpayers referred to in this Law mean taxpayers whose annual sales amount subject to value-added tax does not exceed RMB 5 million.\nWhere a small-scale taxpayer has sound accounting and can provide accurate tax information, it may register with the competent tax authority and compute and pay value-added tax in accordance with the general method of tax computation provided in this Law.\nIn accordance with the needs of national economic and social development, the State Council may adjust the criteria for small-scale taxpayers and report the adjustment to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The value-added tax rates are as follows:\n(a) for taxpayers selling goods, services of processing, repair and replacement, and services of leasing tangible movable property, and importing goods, the rate is 13 per cent, except as provided in items (b), (d) and (e) of this Article.\n(b) for taxpayers selling services of transport, postal services, basic telecommunications, construction and leasing of immovable property, selling immovable property, transferring the right to use land, and selling or importing the following goods, the rate is 9 per cent, except as provided in items (d) and (e) of this Article:\n1. agricultural products, edible vegetable oil and edible salt;\n2. tap water, heating, cooling, hot water, coal gas, liquefied petroleum gas, natural gas, dimethyl ether, biogas and coal products for household use;\n3. books, newspapers, magazines, audio-visual products and electronic publications;\n4. feed, chemical fertilisers, pesticides, agricultural machinery and agricultural film.\n(c) for taxpayers selling services and intangible assets, the rate is 6 per cent, except as provided in items (a), (b) and (e) of this Article.\n(d) for taxpayers exporting goods, the rate is zero, unless otherwise provided by the State Council.\n(e) for units and individuals within the territory selling services and intangible assets across the border within the scope prescribed by the State Council, the rate is zero."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Rates"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The levy rate applicable to the computation and payment of value-added tax under the simplified method of tax computation is 3 per cent."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Rates"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a taxpayer carries out two or more taxable transactions involving different tax rates or levy rates, the sales amounts to which the different tax rates or levy rates apply shall be accounted for separately; where they are not accounted for separately, the higher tax rate shall apply."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Rates"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where one taxable transaction of a taxpayer involves two or more tax rates or levy rates, the tax rate or levy rate applicable to the principal business of the taxable transaction shall apply."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Rates"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where value-added tax is computed and paid in accordance with the general method of tax computation, the amount of tax payable is the balance after offsetting the input tax of the current period against the output tax of the current period.\nWhere value-added tax is computed and paid in accordance with the simplified method of tax computation, the amount of tax payable is the sales amount of the current period multiplied by the levy rate.\nFor imported goods, value-added tax shall be computed and paid by multiplying the composite assessable price provided in this Law by the applicable tax rate. The composite assessable price is the customs dutiable value plus customs duty and consumption tax; where the State Council provides otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an overseas unit or individual carries out a taxable transaction within the territory, the purchaser shall be the withholding agent, unless the tax is declared and paid by a domestic agent entrusted in accordance with the provisions of the State Council.\nWhere a withholding agent withholds and remits tax in accordance with the provisions of this Law, the amount of tax to be withheld shall be computed by multiplying the sales amount by the tax rate."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Output tax means the amount of value-added tax computed by a taxpayer carrying out a taxable transaction by multiplying the sales amount by the tax rate provided in this Law.\nInput tax means the amount of value-added tax paid or borne by a taxpayer in purchasing goods, services, intangible assets or immovable property.\nA taxpayer shall, on the strength of the value-added tax deduction vouchers provided by laws, administrative regulations or the State Council, deduct input tax from output tax."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Sales amount means the price obtained by a taxpayer in connection with a taxable transaction, including the entire price corresponding to economic benefits in monetary and non-monetary forms, excluding the output tax computed under the general method of tax computation and the amount of tax payable computed under the simplified method of tax computation."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The sales amount shall be computed in Renminbi. Where a taxpayer settles the sales amount in a currency other than Renminbi, it shall be converted into Renminbi for computation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a transaction is deemed to be a taxable transaction as provided in Article 5 of this Law, or the sales amount is in non-monetary form, the taxpayer shall determine the sales amount in accordance with the market price."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the sales amount is obviously low or obviously high without justified reasons, the tax authority may verify the sales amount in accordance with the provisions of the Law of the People's Republic of China on the Administration of Tax Collection and the relevant administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the input tax of the current period exceeds the output tax of the current period, the taxpayer may, in accordance with the provisions of the State Council, choose to carry the excess forward to the next period for continued deduction or to apply for a refund."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The following input tax of a taxpayer may not be deducted from its output tax:\n(a) input tax corresponding to items taxed under the simplified method of tax computation;\n(b) input tax corresponding to items exempt from value-added tax;\n(c) input tax corresponding to items of abnormal loss;\n(d) input tax corresponding to goods, services, intangible assets or immovable property purchased and used for collective welfare or personal consumption;\n(e) input tax corresponding to catering services, daily services for residents and entertainment services purchased and directly used for consumption;\n(f) other input tax provided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a small-scale taxpayer carries out a taxable transaction and the sales amount does not reach the tax threshold, value-added tax shall be exempted; where the sales amount reaches the tax threshold, value-added tax shall be computed and paid on the full amount in accordance with the provisions of this Law.\nThe criteria for the tax threshold provided in the preceding paragraph shall be prescribed by the State Council and reported to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The following items are exempt from value-added tax:\n(a) self-produced agricultural products sold by agricultural producers, services of agricultural machine ploughing, irrigation and drainage, prevention and control of diseases and pests, plant protection, agricultural and animal husbandry insurance and related technical training, and the mating of poultry, livestock and aquatic animals and the prevention and control of their diseases;\n(b) medical services provided by medical institutions;\n(c) antiquarian and second-hand books, and articles used by natural persons themselves and sold by them;\n(d) imported instruments and equipment used directly for scientific research, scientific experiments and teaching;\n(e) imported materials and equipment provided as gratuitous assistance by foreign governments or international organisations;\n(f) articles for the exclusive use of disabled persons imported directly by organisations of disabled persons, and services provided by disabled persons themselves;\n(g) nursery and child-care services provided by nurseries, kindergartens, elderly care institutions and service institutions for disabled persons, matchmaking services and funeral and interment services;\n(h) academic education services provided by schools and services provided by students through work-study programmes;\n(i) ticket revenue from cultural activities held by memorial halls, museums, cultural centres, administrative bodies of units for the protection of cultural relics, art galleries, exhibition halls, calligraphy and painting academies and libraries, and ticket revenue from cultural and religious activities held at religious sites.\nThe specific criteria for the exempt items provided in the preceding paragraph shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "In accordance with the needs of national economic and social development, the State Council may formulate special preferential value-added tax policies for circumstances such as supporting the development of small and micro enterprises, assisting key industries, encouraging innovation, entrepreneurship and employment, and donations for public welfare undertakings, and shall report them to the Standing Committee of the National People's Congress for the record.\nThe State Council shall carry out assessments and adjustments of preferential value-added tax policies in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a taxpayer concurrently operates items eligible for value-added tax preferences, it shall account separately for the sales amounts of the items eligible for value-added tax preferences; items not accounted for separately may not enjoy the tax preferences."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A taxpayer may waive value-added tax preferences; where it waives a preference, it may not enjoy that tax preference within 36 months, except for small-scale taxpayers."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The time when the value-added tax liability arises shall be determined in accordance with the following provisions:\n(a) where a taxable transaction occurs, the time when the tax liability arises is the day on which the sales proceeds are received or the voucher for claiming the sales proceeds is obtained; where an invoice is issued first, it is the day on which the invoice is issued.\n(b) where a transaction deemed to be a taxable transaction occurs, the time when the tax liability arises is the day on which the deemed taxable transaction is completed.\n(c) for imported goods, the time when the tax liability arises is the day on which the goods are declared for import.\nThe time when the value-added tax withholding obligation arises is the day on which the value-added tax liability of the taxpayer arises."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The place for payment of value-added tax shall be determined in accordance with the following provisions:\n(a) a taxpayer with a fixed place of production and operation shall declare and pay tax to the competent tax authority of the place where its organisation is located or where it resides. Where the head office and a branch office are not in the same county (city), they shall separately declare and pay tax to the competent tax authorities of their respective locations; with the approval of the competent finance and tax departments at or above the provincial level, the head office may summarise and declare and pay tax to the competent tax authority of the place where the head office is located.\n(b) a taxpayer without a fixed place of production and operation shall declare and pay tax to the competent tax authority of the place where the taxable transaction occurs; where it fails to declare and pay tax, the competent tax authority of the place where its organisation is located or where it resides shall recover the tax.\n(c) where a natural person sells or leases immovable property, transfers the right to use natural resources or provides construction services, it shall declare and pay tax to the competent tax authority of the place where the immovable property is located, where the natural resources are located or where the construction services occur.\n(d) a taxpayer importing goods shall declare and pay tax at the place prescribed by the customs.\n(e) a withholding agent shall declare and pay the withheld tax to the competent tax authority of the place where its organisation is located or where it resides; where its organisation or residence is outside the territory, it shall declare and pay the withheld tax to the competent tax authority of the place where the taxable transaction occurs."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The tax computation periods for value-added tax are respectively 10 days, 15 days, one month or one quarter. The specific tax computation period of a taxpayer shall be verified separately by the competent tax authority according to the amount of tax payable by the taxpayer. A taxpayer that does not frequently carry out taxable transactions may pay tax on a per-transaction basis.\nWhere a taxpayer adopts one month or one quarter as the tax computation period, it shall declare and pay tax within 15 days from the date of expiry of the period; where it adopts 10 days or 15 days as the tax computation period, it shall declare and pay tax within 15 days from the first day of the following month.\nThe tax computation period and the time limit for declaring and paying tax of a withholding agent remitting tax shall be governed by the preceding two paragraphs.\nA taxpayer importing goods shall declare and pay tax within the time limit prescribed by the customs."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a taxpayer adopts 10 days or 15 days as the tax computation period, it shall prepay tax within 5 days from the date of expiry of the period.\nWhere laws and administrative regulations provide otherwise on the prepayment of tax by taxpayers, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Value-added tax shall be collected by the tax authorities, and value-added tax on imported goods shall be collected by the customs on behalf of the tax authorities.\nThe customs shall provide the tax authorities with information on the value-added tax collected on its behalf and on the declaration of goods for export.\nThe measures for computing and collecting value-added tax on articles brought or sent into the territory by individuals shall be formulated by the State Council and reported to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a taxpayer exports goods or sells services or intangible assets across the border and the zero rate applies, it shall declare to the competent tax authority for the refund (exemption) of tax. The specific measures for export tax refund (exemption) shall be formulated by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Taxpayers shall issue and use value-added tax invoices in accordance with the law. Value-added tax invoices include paper invoices and electronic invoices. Electronic invoices have the same legal effect as paper invoices.\nThe State actively promotes the use of electronic invoices."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Tax authorities shall establish mechanisms for sharing value-added tax-related information and for cooperating in work with the departments of industry and information technology, public security, customs, market supervision and administration, the People's Bank and financial supervision and administration.\nThe relevant departments shall, in accordance with laws and administrative regulations and within the scope of their respective functions, support and assist tax authorities in administering the collection of value-added tax."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The administration of the collection of value-added tax shall be carried out in accordance with the provisions of this Law and the Law of the People's Republic of China on the Administration of Tax Collection."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where taxpayers, withholding agents, tax authorities or their staff violate the provisions of this Law, legal liability shall be pursued in accordance with the provisions of the Law of the People's Republic of China on the Administration of Tax Collection and the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2026. The Interim Regulations of the People's Republic of China on Value-Added Tax shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -9693,6 +18468,1638 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0349'] = {
+    "lawId": "CN-LAW-0349",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 46 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to give play to the attestation and service functions of certified public accountants in social and economic activities, strengthen the administration of certified public accountants, safeguard public interests and the lawful rights and interests of investors, and promote the sound development of the socialist market economy, this Law is formulated."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Certified public accountants are practising professionals who have obtained a certified public accountant certificate in accordance with the law and who accept engagements to engage in auditing and accounting consulting and accounting services."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Accounting firms are institutions established in accordance with the law that undertake the business of certified public accountants.\nTo practise, a certified public accountant shall join an accounting firm."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "An institute of certified public accountants is a social organisation composed of certified public accountants. The Chinese Institute of Certified Public Accountants is the national organisation of certified public accountants, and the institutes of certified public accountants of provinces, autonomous regions and municipalities directly under the Central Government are the local organisations of certified public accountants."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The finance department under the State Council and the finance departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the law, supervise and guide certified public accountants, accounting firms and institutes of certified public accountants."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In practising, certified public accountants and accounting firms must observe laws and administrative regulations.\nCertified public accountants and accounting firms that practise independently and impartially in accordance with the law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State applies a system of unified national examinations for certified public accountants. The measures for the unified national examinations for certified public accountants shall be formulated by the finance department under the State Council and organised and implemented by the Chinese Institute of Certified Public Accountants."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Chinese citizens who have graduated from a school of higher education at the level of junior college or above, or who hold an intermediate or higher professional and technical title in accounting or a related speciality, may apply to sit the unified national examinations for certified public accountants; persons holding a senior professional and technical title in accounting or a related speciality may be exempted from the examinations in some subjects."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Persons who have passed the unified national examinations for certified public accountants and have engaged in audit work for two years or more may apply to the institute of certified public accountants of a province, an autonomous region or a municipality directly under the Central Government for registration.\nExcept in the circumstances listed in Article 10 of this Law, the institute of certified public accountants receiving the application shall grant registration."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In any of the following circumstances, the institute of certified public accountants receiving the application shall not grant registration:\n(a) not having full capacity for civil conduct;\n(b) less than five years having passed from the date of completion of the execution of a criminal penalty to the date of application for registration because of having been subjected to a criminal penalty;\n(c) less than two years having passed from the date of the decision on the penalty or disciplinary action to the date of application for registration because of having committed a serious error in financial, accounting, auditing, enterprise management or other economic management work and having been subjected to an administrative penalty or a disciplinary action of removal from office or above;\n(d) less than five years having passed from the date of the decision on the penalty to the date of application for registration because of having been subjected to the penalty of revocation of the certified public accountant certificate;\n(e) other circumstances in which registration shall not be granted as provided by the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Institutes of certified public accountants shall report the list of persons granted registration to the finance department under the State Council for the record. Where the finance department under the State Council finds that the registration by an institute of certified public accountants does not comply with the provisions of this Law, it shall notify the institute concerned to revoke the registration.\nWhere an institute of certified public accountants does not grant registration in accordance with the provisions of Article 10 of this Law, it shall notify the applicant in writing within 15 days from the date of the decision. Where the applicant objects, it may, within 15 days from the date of receipt of the notice, apply to the finance department under the State Council or the finance department of the people's government of the province, autonomous region or municipality directly under the Central Government for reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An applicant granted registration shall be issued by the institute of certified public accountants with a certified public accountant certificate uniformly formulated by the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a person who has obtained a certified public accountant certificate is in any of the following circumstances after registration, other than the circumstances provided in paragraph 1 of Article 11 of this Law, the institute of certified public accountants that granted the registration shall revoke the registration and take back the certified public accountant certificate:\n(a) completely losing capacity for civil conduct;\n(b) being subjected to a criminal penalty;\n(c) being subjected to an administrative penalty or a disciplinary action of removal from office or above for having committed a serious error in financial, accounting, auditing, enterprise management or other economic management work;\n(d) having voluntarily ceased to practise as a certified public accountant for one full year.\nWhere the party whose registration has been revoked objects, it may, within 15 days from the date of receipt of the notice of revocation of registration and taking back of the certified public accountant certificate, apply to the finance department under the State Council or the finance department of the people's government of the province, autonomous region or municipality directly under the Central Government for reconsideration.\nPersons whose registration has been revoked in accordance with the provisions of paragraph 1 may apply for registration anew, but must comply with the provisions of Articles 9 and 10 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Certified public accountants shall undertake the following audit business:\n(a) examining the accounting statements of enterprises and issuing audit reports;\n(b) verifying the capital of enterprises and issuing capital verification reports;\n(c) undertaking audit business in matters of merger, division and liquidation of enterprises and issuing the relevant reports;\n(d) other audit business provided by laws and administrative regulations.\nThe reports issued by certified public accountants in performing audit business in accordance with the law have probative effect."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Certified public accountants may undertake accounting consulting and accounting services."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a certified public accountant undertakes business, the accounting firm in which he works shall accept the engagement in a unified manner and conclude a contract of engagement with the client.\nAn accounting firm shall bear civil liability for the business undertaken by its certified public accountants in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In practising, certified public accountants may, as needed, consult the relevant accounting materials and documents of the client, inspect the client's business sites and facilities, and require the client to provide other necessary assistance."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a certified public accountant has an interest in the client, he shall withdraw, and the client shall have the right to require him to withdraw."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Certified public accountants shall be obliged to keep confidential the business secrets they learn of in the course of practising."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where, in performing audit business, a certified public accountant encounters any of the following circumstances, he shall refuse to issue the relevant report:\n(a) the client suggests that he make an untrue or improper attestation;\n(b) the client intentionally fails to provide the relevant accounting materials and documents;\n(c) other unreasonable requirements of the client make it impossible for the report issued by the certified public accountant to state correctly the important matters of financial accounting."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In performing audit business, certified public accountants must issue reports in accordance with the working procedures determined by the practice standards and rules.\nIn issuing reports in performing audit business, certified public accountants may not commit the following acts:\n(a) knowing that the client's financial accounting treatment of an important matter contravenes the relevant provisions of the State but failing to point it out;\n(b) knowing that the client's financial accounting treatment will directly harm the interests of users of the report or other interested parties but concealing it or making an untrue report;\n(c) knowing that the client's financial accounting treatment will cause users of the report or other interested parties to have a material misunderstanding but failing to point it out;\n(d) knowing that there is other untrue content in an important matter of the client's accounting statements but failing to point it out.\nWhere the client commits the acts listed in the preceding paragraph and the certified public accountant should have known of them in accordance with the practice standards and rules, the provisions of the preceding paragraph shall apply."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Certified public accountants may not commit the following acts:\n(a) during the period of performing audit business, within the period in which the purchase or sale of the shares or bonds of the auditee or the purchase of other property of the auditee or of individuals is prohibited by laws and administrative regulations, purchasing or selling the shares or bonds of the auditee or purchasing other property owned by the auditee or individuals;\n(b) demanding or accepting remuneration or other property beyond that agreed in the contract of engagement, or taking advantage of practising to seek other improper benefits;\n(c) accepting an engagement to press for the collection of debts;\n(d) allowing others to practise in his own name;\n(e) practising concurrently in two or more accounting firms;\n(f) advertising his abilities in order to solicit business;\n(g) other acts violating laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Scope of Business and Rules"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "An accounting firm may be established in partnership by certified public accountants.\nThe debts of an accounting firm established in partnership shall be borne by the partners with their respective property in proportion to their capital contributions or as agreed in the partnership agreement. The partners shall bear joint and several liability for the debts of the accounting firm."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "An accounting firm that meets the following conditions may be a legal person with limited liability:\n(a) having registered capital of not less than RMB 300,000;\n(b) having a certain number of full-time practitioners, of whom at least five shall be certified public accountants;\n(c) the scope of business and other conditions provided by the finance department under the State Council.\nAn accounting firm with limited liability shall be liable for its debts to the extent of all its assets."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The establishment of an accounting firm shall be approved by the finance department of the people's government of the province, an autonomous region or a municipality directly under the Central Government.\nTo apply for the establishment of an accounting firm, the applicant shall submit the following documents to the examination and approval authority:\n(a) a written application;\n(b) the name, organisational structure and business premises of the accounting firm;\n(c) the articles of association of the accounting firm; where there is a partnership agreement, the partnership agreement shall also be submitted;\n(d) the list, curricula vitae and relevant supporting documents of the certified public accountants;\n(e) the names, curricula vitae and relevant supporting documents of the principal person in charge of the accounting firm and of the partners;\n(f) proof of capital contribution for an accounting firm with limited liability;\n(g) other documents required by the examination and approval authority."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The examination and approval authority shall, within 30 days from the date of receipt of the application documents, decide whether to approve or not to approve.\nAccounting firms approved by the finance departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall be reported to the finance department under the State Council for the record. Where the finance department under the State Council finds that approval was improper, it shall, within 30 days from the date of receipt of the record report, notify the original examination and approval authority to re-examine."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The establishment of a branch by an accounting firm shall be subject to the approval of the finance department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the branch is located."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Accounting firms shall pay tax in accordance with the law.\nAccounting firms shall establish professional risk funds and take out professional insurance in accordance with the provisions of the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The acceptance of business by accounting firms is not subject to restrictions of administrative regions or trades, unless otherwise provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a client engages an accounting firm to handle business, no unit or individual may interfere."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The provisions of Articles 18 to 21 of this Law shall apply to accounting firms."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Accounting firms may not commit the acts listed in items (a) to (d), item (f) and item (g) of Article 22 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Firms"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Certified public accountants shall join an institute of certified public accountants."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Institute of Certified Public Accountants"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The articles of association of the Chinese Institute of Certified Public Accountants shall be formulated by the national congress of members and reported to the finance department under the State Council for the record; the articles of association of the institutes of certified public accountants of provinces, autonomous regions and municipalities directly under the Central Government shall be formulated by the congresses of members of those provinces, autonomous regions and municipalities and reported to the finance departments of the people's governments of those provinces, autonomous regions and municipalities for the record."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Institute of Certified Public Accountants"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The Chinese Institute of Certified Public Accountants shall, in accordance with the law, draft the practice standards and rules for certified public accountants, which shall be implemented after approval by the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Institute of Certified Public Accountants"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Institutes of certified public accountants shall support certified public accountants in practising in accordance with the law, safeguard their lawful rights and interests, and report their opinions and suggestions to the relevant quarters."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Institute of Certified Public Accountants"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Institutes of certified public accountants shall conduct annual inspections of the qualifications and practice of certified public accountants."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Institute of Certified Public Accountants"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Institutes of certified public accountants shall acquire the status of a legal person of a social organisation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Institute of Certified Public Accountants"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where an accounting firm violates the provisions of Article 20 or Article 21 of this Law, the finance department of a people's government at or above the provincial level shall give it a warning and confiscate its illegal gains, and may also impose a fine of not less than 1 time but not more than 5 times the illegal gains; where the circumstances are serious, the finance department of a people's government at or above the provincial level may also suspend its business or revoke it.\nWhere a certified public accountant violates the provisions of Article 20 or Article 21 of this Law, the finance department of a people's government at or above the provincial level shall give him a warning; where the circumstances are serious, the finance department of a people's government at or above the provincial level may suspend him from practising or revoke his certified public accountant certificate.\nWhere an accounting firm or a certified public accountant violates the provisions of Article 20 or Article 21 of this Law by intentionally issuing a false audit report or capital verification report and a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "With respect to units that undertake the business of certified public accountants provided in Article 14 of this Law without approval, the finance department of a people's government at or above the provincial level shall order them to cease the illegal activities and confiscate their illegal gains, and may also impose a fine of not less than 1 time but not more than 5 times the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a party is dissatisfied with a decision on administrative penalty, it may, within 15 days from the date of receipt of the notice of penalty, apply to the organ at the next higher level of the organ that made the penalty decision for reconsideration; the party may also, within 15 days from the date of receipt of the notice of the penalty decision, bring an action directly before a people's court.\nThe reconsideration organ shall make a reconsideration decision within 60 days from the date of receipt of the application for reconsideration. Where the party is dissatisfied with the reconsideration decision, it may, within 15 days from the date of receipt of the reconsideration decision, bring an action before a people's court. Where the reconsideration organ fails to make a reconsideration decision within the time limit, the party may, within 15 days from the date of expiry of the reconsideration period, bring an action before a people's court.\nWhere the party neither applies for reconsideration nor brings an action before a people's court within the time limit, and also fails to perform the penalty decision, the organ that made the penalty decision may apply to a people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an accounting firm violates the provisions of this Law and causes losses to the client or other interested parties, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Registered auditors working in audit firms who are determined to have the qualifications of certified public accountants may practise the business provided in this Law, and the measures for determining their qualifications and for supervising, guiding and administering them shall be provided separately by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Foreigners applying to sit the unified national examinations for Chinese certified public accountants and for registration shall be dealt with on the principle of reciprocity.\nWhere a foreign accounting firm needs to handle the relevant business in China on a temporary basis, it shall be subject to the approval of the finance department of the people's government of the relevant province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State Council may formulate implementing regulations in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "This Law shall come into force on 1 January 1994. The Regulations of the People's Republic of China on Certified Public Accountants issued by the State Council on 3 July 1986 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0351'] = {
+    "lawId": "CN-LAW-0351",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 48 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to build a contingent of high-calibre diplomatic personnel stationed abroad, ensure that diplomatic missions stationed abroad perform their duties in accordance with the law, regulate the administration of diplomatic personnel stationed abroad and protect their lawful rights and interests, this Law is formulated in accordance with the Constitution and the Civil Servant Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad referred to in this Law mean persons who engage in diplomatic, consular and other work in the diplomatic missions of the People's Republic of China stationed abroad, who are on the administrative establishment for service abroad and who hold a diplomatic rank.\nDiplomatic missions stationed abroad referred to in this Law mean the embassies and consulates of the People's Republic of China in foreign countries and representative offices such as the permanent missions to the United Nations and other intergovernmental international organisations.\nThis Law shall apply to the obligations, rights and administration of diplomatic personnel stationed abroad. Matters not provided in this Law shall be governed by the provisions of the Civil Servant Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad who perform their duties in accordance with the law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The Ministry of Foreign Affairs shall exercise unified leadership over the work of diplomatic missions stationed abroad and shall, together with the other sending departments, administer diplomatic personnel stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall, according to their positions and the division of work, perform the following duties:\n(a) safeguarding national sovereignty, security, honour and interests;\n(b) implementing the diplomatic principles and policies of the State;\n(c) making diplomatic representations on behalf of the State;\n(d) developing relations between China and the receiving State, participating in the activities of international organisations, and promoting bilateral and multilateral friendly exchange and cooperation;\n(e) safeguarding the legitimate rights and interests of Chinese citizens and legal persons abroad;\n(f) reporting on the situation in the receiving State and on the relevant regional and international situation;\n(g) introducing China's situation and its domestic and foreign policies and enhancing the understanding of China by the receiving State and the world;\n(h) performing other diplomatic or consular duties.\nThe Ambassador Extraordinary and Plenipotentiary is the representative of the People's Republic of China in the receiving State."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Duties, Conditions, Obligations and Rights"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall meet the following conditions:\n(a) having the nationality of the People's Republic of China;\n(b) having reached the age of 23;\n(c) upholding the Constitution of the People's Republic of China;\n(d) having good political quality and moral conduct;\n(e) having the professional knowledge, working ability and language ability required to be competent for the work;\n(f) having the physical condition, psychological quality and adaptability required for long-term residence abroad;\n(g) other conditions provided by law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Duties, Conditions, Obligations and Rights"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "No person may be appointed as diplomatic personnel stationed abroad in any of the following circumstances:\n(a) having been subjected to a criminal penalty for a crime;\n(b) having been dismissed from public office;\n(c) having been discharged from a State organ;\n(d) holding a long-term or permanent residence permit of a foreign country;\n(e) whose spouse has foreign nationality or holds a long-term or permanent residence permit of a foreign country;\n(f) other circumstances in which the person may not be appointed as diplomatic personnel stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Duties, Conditions, Obligations and Rights"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall perform the following obligations:\n(a) being loyal to the motherland and the people and safeguarding the dignity of the State;\n(b) being loyal to the Constitution and laws of the People's Republic of China and respecting the laws and customs of the receiving State;\n(c) being loyal to their duties, being diligent and responsible, and completing all work tasks;\n(d) obeying the assignment of the sending department and observing the rules and regulations and work discipline of the diplomatic mission stationed abroad;\n(e) strictly keeping State secrets and work secrets;\n(f) not resigning during the period of service abroad;\n(g) reporting major personal matters to the diplomatic mission stationed abroad and the sending department in accordance with the provisions;\n(h) other obligations provided by law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Duties, Conditions, Obligations and Rights"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall enjoy the following rights:\n(a) obtaining the working conditions that they should have for performing their duties;\n(b) obtaining wages, benefits and insurance commensurate with work and life during long-term residence abroad;\n(c) not being discharged during the period of service abroad;\n(d) participating in training before dispatch and during the period of service abroad;\n(e) other rights provided by law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Duties, Conditions, Obligations and Rights"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall, in accordance with the international treaties concluded or acceded to by the People's Republic of China, enjoy the corresponding privileges and immunities during the period of service abroad.\nDiplomatic personnel stationed abroad may not abuse their privileges and immunities and may not waive them without approval."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Duties, Conditions, Obligations and Rights"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The positions of diplomatic personnel stationed abroad are divided into diplomatic positions and consular positions.\nDiplomatic positions are divided into: Ambassador Extraordinary and Plenipotentiary, Representative, Deputy Representative, Minister, Minister-Counsellor, Counsellor, First Secretary, Second Secretary, Third Secretary and Attaché.\nConsular positions are divided into: Consul-General, Deputy Consul-General, Consul, Vice-Consul and Consular Attaché."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A system of diplomatic ranks shall apply to diplomatic personnel stationed abroad.\nDiplomatic ranks are set at seven levels: the rank of Ambassador, the rank of Minister, the rank of Counsellor, the rank of First Secretary, the rank of Second Secretary, the rank of Third Secretary and the rank of Attaché.\nThe diplomatic rank of diplomatic personnel stationed abroad shall be determined according to the position held in the diplomatic mission stationed abroad, the civil servant position level and the needs of diplomatic work."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The basic correspondence between diplomatic positions and diplomatic ranks is as follows:\n(a) Ambassador Extraordinary and Plenipotentiary: the rank of Ambassador;\n(b) Representative and Deputy Representative: the rank of Ambassador, the rank of Minister or the rank of Counsellor;\n(c) Minister and Minister-Counsellor: the rank of Minister;\n(d) Counsellor: the rank of Counsellor;\n(e) First Secretary: the rank of First Secretary;\n(f) Second Secretary: the rank of Second Secretary;\n(g) Third Secretary: the rank of Third Secretary;\n(h) Attaché: the rank of Attaché."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The basic correspondence between consular positions and diplomatic ranks is as follows:\n(a) Consul-General: the rank of Ambassador, the rank of Minister or the rank of Counsellor;\n(b) Deputy Consul-General: the rank of Counsellor;\n(c) Consul: the rank of Counsellor, the rank of First Secretary or the rank of Second Secretary;\n(d) Vice-Consul: the rank of Third Secretary or the rank of Attaché;\n(e) Consular Attaché: the rank of Attaché."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The correspondence between the positions and diplomatic ranks of diplomatic personnel stationed abroad and civil servant position levels shall be provided separately."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The positions of diplomatic personnel stationed abroad shall be decided in accordance with the following limits of authority:\n(a) the Ambassador Extraordinary and Plenipotentiary, and a Representative or Deputy Representative who is an Ambassador Extraordinary and Plenipotentiary, shall be decided by the Standing Committee of the National People's Congress;\n(b) Representatives and Deputy Representatives other than those mentioned in the preceding item shall be decided by the State Council;\n(c) Consuls-General shall be decided by the Ministry of Foreign Affairs;\n(d) the positions of Minister, Minister-Counsellor, Counsellor, Deputy Consul-General and other diplomatic personnel stationed abroad shall be decided by the Ministry of Foreign Affairs or the other sending departments; among them, positions at or below Third Secretary and Vice-Consul shall, during the period of service abroad, be decided by the diplomatic mission stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Diplomatic ranks shall be approved and conferred in accordance with the following limits of authority:\n(a) the rank of Ambassador shall be approved and conferred by the Premier of the State Council;\n(b) the rank of Minister and the rank of Counsellor shall be approved by the Ministry of Foreign Affairs or the other sending departments and conferred by the Minister of Foreign Affairs;\n(c) the rank of First Secretary and the rank of Second Secretary shall, at the time of dispatch, be approved and conferred by the sending department and, during the period of service abroad, be approved and conferred by the sending department on the basis of the opinions of the diplomatic mission stationed abroad;\n(d) the rank of Third Secretary and the rank of Attaché shall, at the time of dispatch, be approved and conferred by the sending department and, during the period of service abroad, be approved and conferred by the diplomatic mission stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Promotion of diplomatic personnel stationed abroad to Third Secretary, Vice-Consul and the corresponding ranks shall be carried out level by level in accordance with the prescribed conditions and time limits for promotion and in accordance with the limits of authority provided in Articles 16 and 17 of this Law respectively; where, upon assessment, a person does not meet the conditions for promotion, the promotion shall be deferred on the basis of the opinions of the diplomatic mission stationed abroad and with the approval of the sending department.\nPromotion of diplomatic personnel stationed abroad to Second Secretary, First Secretary, Counsellor, Minister-Counsellor, Minister or Consul, Deputy Consul-General and the corresponding ranks shall, on the basis of the conditions and time limits for promotion and the promotion opinions put forward by the diplomatic mission stationed abroad, be carried out level by level on the basis of merit in accordance with the limits of authority provided in Articles 16 and 17 of this Law respectively.\nThe conditions and time limits for the promotion of the positions and diplomatic ranks of diplomatic personnel stationed abroad shall be provided separately."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "During the period in which a diplomatic officer stationed abroad is subject to disciplinary action, his position and diplomatic rank shall not be promoted."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a diplomatic officer stationed abroad is subject to the disciplinary action of demotion or removal from office, his diplomatic rank shall be lowered in accordance with the provisions. Reduction of diplomatic rank does not apply to the rank of Attaché.\nWhen a diplomatic officer stationed abroad leaves his post and returns home, his diplomatic rank shall terminate accordingly. Where it is truly necessary for engaging in diplomatic work, the rank may be retained. The specific measures shall be provided separately by the Ministry of Foreign Affairs together with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Positions and Ranks"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The head of mission is the chief administrative officer of a diplomatic mission stationed abroad. The Ambassador Extraordinary and Plenipotentiary is the head of an embassy. A Representative is the head of a representative office such as a permanent mission to the United Nations or other intergovernmental international organisations. A Consul-General is the head of a consulate-general. A Consul is the head of a consulate.\nA system of responsibility of the head of mission shall apply to diplomatic missions stationed abroad. The head of mission shall exercise unified leadership over all the work of the diplomatic mission stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Heads of Mission"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the post of head of mission is vacant or the head of mission is unable to perform his duties for any reason, a designated person shall act on his behalf in performing the duties."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Heads of Mission"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The head of mission shall submit written reports on assuming and leaving office to the sending department.\nThe head of mission shall return home on schedule to report on his work."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Heads of Mission"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The Ambassador Extraordinary and Plenipotentiary, and a Representative or Deputy Representative who is an Ambassador Extraordinary and Plenipotentiary, shall be dispatched and recalled by the President of the People's Republic of China on the basis of the decisions of the Standing Committee of the National People's Congress.\nRepresentatives and Deputy Representatives other than those mentioned in the preceding paragraph shall be dispatched and transferred back by the State Council or the sending department.\nOther diplomatic personnel stationed abroad shall be dispatched and transferred back by the Ministry of Foreign Affairs or the other sending departments."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Dispatch, Recall and Transfer Back"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A system of term of office shall apply to diplomatic personnel stationed abroad. According to the needs of work and with the approval of the sending department, the term of office of diplomatic personnel stationed abroad may be appropriately shortened or extended."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Dispatch, Recall and Transfer Back"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall be transferred back ahead of schedule in any of the following circumstances:\n(a) other work arrangements have been made for them;\n(b) they are unable to perform their duties;\n(c) they have violated the law or seriously breached discipline;\n(d) their spouse has obtained foreign nationality or a long-term or permanent residence permit of a foreign country;\n(e) other circumstances in which it is inappropriate for them to continue working in the diplomatic mission stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Dispatch, Recall and Transfer Back"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State may, as needed, urgently recall, transfer back or withdraw some or all of the personnel of the diplomatic mission concerned stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Dispatch, Recall and Transfer Back"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Assessment of diplomatic personnel stationed abroad is divided into routine assessment and periodic assessment and shall be organised and carried out by the diplomatic mission stationed abroad or the sending department in accordance with the provisions of the State.\nAssessment of diplomatic personnel stationed abroad shall take the duties and work tasks they undertake as the basic basis, comprehensively assess their integrity, competence, diligence, performance and honesty, and focus on actual work performance.\nThe assessment results shall serve as the basis for adjusting the positions, diplomatic ranks, levels and wages of diplomatic personnel stationed abroad and for rewarding and training them."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter VI Assessment, Training and Exchange"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Before dispatch and during the period of service abroad, induction training and professional training shall be provided to diplomatic personnel stationed abroad according to the requirements of their work duties."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VI Assessment, Training and Exchange"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall undergo position exchange among diplomatic missions stationed abroad; according to the needs of work, they may also undergo position exchange among the sending departments or other organs."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VI Assessment, Training and Exchange"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The training received by diplomatic personnel stationed abroad and their experience of position exchange shall be included in the content of assessment."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Assessment, Training and Exchange"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a diplomatic mission stationed abroad or diplomatic personnel stationed abroad are in any of the following circumstances, rewards shall be given in accordance with the law:\n(a) making major contributions to safeguarding national sovereignty, security, honour and interests;\n(b) making outstanding contributions to safeguarding the personal and property safety or other legitimate rights and interests of Chinese citizens and legal persons abroad;\n(c) making major contributions in responding to major emergencies;\n(d) having outstanding deeds in specific arduous environments such as war and turmoil;\n(e) making outstanding contributions to protecting State secrets;\n(f) observing discipline, being honest and public-spirited, having an upright style of work, acting fairly and playing an outstanding exemplary role;\n(g) being dutiful and responsible with outstanding actual work performance;\n(h) other outstanding performance for which rewards should be given."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VII Rewards and Disciplinary Measures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where diplomatic personnel stationed abroad commit any of the following acts, corresponding disciplinary action shall be given in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(a) harming national sovereignty, security, honour or interests;\n(b) leaving the diplomatic mission stationed abroad without authorisation;\n(c) divulging State secrets or work secrets;\n(d) taking advantage of their position to seek personal gain for themselves or others;\n(e) engaging in or participating in for-profit activities, or concurrently holding a post in an enterprise or other for-profit organisation;\n(f) neglecting their duty and delaying work;\n(g) disobeying assignment and refusing to go to the post to which they are assigned;\n(h) other illegal or disciplinary acts."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VII Rewards and Disciplinary Measures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The Ministry of Foreign Affairs or the other sending departments shall, in accordance with the statutory limits of authority and procedures, give rewards to diplomatic missions stationed abroad and give rewards or disciplinary action to diplomatic personnel stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VII Rewards and Disciplinary Measures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A system of wages for service abroad that combines position, diplomatic rank and level shall apply to diplomatic personnel stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VIII Wages and Benefits"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall establish a mechanism for adjusting the wages of diplomatic personnel stationed abroad and shall adjust their wages and living treatment in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VIII Wages and Benefits"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall enjoy allowances and subsidies in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VIII Wages and Benefits"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State shall provide the necessary medical security and safety measures for diplomatic personnel stationed abroad and shall provide the necessary personal accident insurance in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VIII Wages and Benefits"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Diplomatic personnel stationed abroad shall enjoy the paid annual leave and term leave provided by the State."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VIII Wages and Benefits"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Before going through the marriage formalities, diplomatic personnel stationed abroad shall truthfully report to the sending department the identity and other circumstances of the person they intend to marry in accordance with the provisions.\nWhere a diplomatic officer stationed abroad divorces, he shall promptly report the matter to the sending department."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IX Spouses and Children"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The spouse of a diplomatic officer stationed abroad accompanying him at his post shall be subject to the approval of the sending department.\nWhere the term of office of a diplomatic officer stationed abroad ends or he is transferred back ahead of schedule, the accompanying spouse shall at the same time cease to accompany him."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IX Spouses and Children"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "During the period in which the spouse of a diplomatic officer stationed abroad accompanies him at his post, the spouse shall enjoy the prescribed leave treatment according to the position and diplomatic rank of the diplomatic officer, the number of years of service and the living conditions in the receiving State."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IX Spouses and Children"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the spouse of a diplomatic officer stationed abroad is a member on the establishment of a State organ or a public institution, a member of a wholly State-owned enterprise, a wholly State-owned company or a company in which State capital holds a controlling share, or a member of the active forces, the arrangement of work in the original unit during the period of accompanying the diplomatic officer and after returning home upon the end of accompanying shall be handled in accordance with the provisions of the State; the original unit may not dismiss, discharge or impose compensation payments, management fees or other charges on the spouse on the ground of accompanying the diplomatic officer."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IX Spouses and Children"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the spouse of a diplomatic officer stationed abroad does not accompany him at his post, the spouse may, with the approval of the sending department, visit him at the diplomatic mission stationed abroad and shall enjoy the corresponding family visit leave, travel expenses and subsidies in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IX Spouses and Children"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The minor children of diplomatic personnel stationed abroad may, with the approval of the sending department, reside with them or visit them at the diplomatic mission stationed abroad.\nThe State shall take various measures to safeguard the right of the minor children of diplomatic personnel stationed abroad to receive education in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IX Spouses and Children"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The spouses and children of diplomatic personnel stationed abroad who accompany them, reside with them or visit them shall observe the rules and regulations of the diplomatic mission stationed abroad and respect the laws and customs of the receiving State."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IX Spouses and Children"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Military attachés of diplomatic missions stationed abroad shall be administered with reference to this Law, and the specific measures shall be formulated by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2010."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0352'] = {
+    "lawId": "CN-LAW-0352",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 16 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated for the purposes of ensuring the exercise by the People's Republic of China of sovereign rights and jurisdiction over its exclusive economic zone and continental shelf and upholding the maritime rights and interests of the State."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The exclusive economic zone of the People's Republic of China is the area beyond and adjacent to the territorial sea of the People's Republic of China, extending from the baseline from which the breadth of the territorial sea is measured to 200 nautical miles.\nThe continental shelf of the People's Republic of China comprises the seabed and subsoil of the submarine areas that extend beyond the territorial sea of the People's Republic of China throughout the natural prolongation of its land territory to the outer edge of the continental margin; where the distance from the baseline from which the breadth of the territorial sea is measured to the outer edge of the continental margin is less than 200 nautical miles, the continental shelf extends to 200 nautical miles.\nWhere the claims of the People's Republic of China and of States with adjacent or opposite coasts to the exclusive economic zone and the continental shelf overlap, the boundary shall be delimited by agreement on the basis of international law and in accordance with the principle of equity."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In its exclusive economic zone, the People's Republic of China exercises sovereign rights for the purpose of exploring, exploiting, conserving and managing the natural resources of the waters superjacent to the seabed and of the seabed and its subsoil, and for other activities of economic exploitation and exploration, such as the production of energy from the water, currents and winds.\nThe People's Republic of China exercises jurisdiction over the establishment and use of artificial islands, installations and structures, marine scientific research, and the protection and preservation of the marine environment in its exclusive economic zone.\nFor the purposes of this Law, the natural resources of the exclusive economic zone include living and non-living resources."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The People's Republic of China exercises sovereign rights over the continental shelf for the purpose of exploring it and exploiting its natural resources.\nThe People's Republic of China exercises jurisdiction over the establishment and use of artificial islands, installations and structures, marine scientific research, and the protection and preservation of the marine environment on its continental shelf.\nThe People's Republic of China has the exclusive right to authorise and regulate drilling on the continental shelf for all purposes.\nFor the purposes of this Law, the natural resources of the continental shelf include the mineral and other non-living resources of the seabed and subsoil, together with living organisms belonging to sedentary species, that is, organisms which, at the harvestable stage, either are immobile on or under the seabed or are unable to move except in constant physical contact with the seabed or the subsoil."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Any international organisation, foreign organisation or individual that enters the exclusive economic zone of the People's Republic of China to engage in fishing activities must obtain the approval of the competent authority of the People's Republic of China and comply with the laws and regulations of the People's Republic of China and the treaties and agreements concluded between the People's Republic of China and the States concerned.\nThe competent authority of the People's Republic of China has the right to take all necessary conservation and management measures to ensure that the living resources of the exclusive economic zone are not endangered by over-exploitation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent authority of the People's Republic of China has the right to conserve and manage, in its exclusive economic zone, straddling stocks, highly migratory species, marine mammals, anadromous stocks originating in the rivers of the People's Republic of China, and catadromous species that spend the greater part of their life cycle in the waters of the People's Republic of China.\nThe People's Republic of China has a primary interest in anadromous stocks originating in its rivers."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Any international organisation, foreign organisation or individual that conducts exploration or exploitation of the natural resources of the exclusive economic zone or the continental shelf of the People's Republic of China, or conducts drilling on the continental shelf of the People's Republic of China for any purpose, must obtain the approval of the competent authority of the People's Republic of China and comply with the laws and regulations of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The People's Republic of China has the exclusive right to construct and to authorise and regulate the construction, operation and use of artificial islands, installations and structures in its exclusive economic zone and on its continental shelf.\nThe People's Republic of China exercises exclusive jurisdiction over artificial islands, installations and structures in its exclusive economic zone and on its continental shelf, including jurisdiction with regard to laws and regulations on customs, finance, health, safety and exit and entry.\nThe competent authority of the People's Republic of China has the right to establish safety zones around artificial islands, installations and structures in its exclusive economic zone and on its continental shelf, and may take appropriate measures in such zones to ensure the safety of navigation and the safety of the artificial islands, installations and structures."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Any international organisation, foreign organisation or individual that conducts marine scientific research in the exclusive economic zone or on the continental shelf of the People's Republic of China must obtain the approval of the competent authority of the People's Republic of China and comply with the laws and regulations of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent authority of the People's Republic of China has the right to take necessary measures to prevent, reduce and control pollution of the marine environment and to protect and preserve the marine environment of the exclusive economic zone and the continental shelf."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Subject to compliance with international law and the laws and regulations of the People's Republic of China, all States enjoy in the exclusive economic zone of the People's Republic of China the freedom of navigation and overflight, and enjoy in the exclusive economic zone and on the continental shelf of the People's Republic of China the freedom to lay submarine cables and pipelines, as well as other lawful uses of the sea related to those freedoms. The routes for laying submarine cables and pipelines must be agreed to by the competent authority of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In exercising its sovereign rights to explore, exploit, conserve and manage the living resources of the exclusive economic zone, the People's Republic of China may, in order to ensure compliance with its laws and regulations, take necessary measures such as boarding, inspection, arrest, detention and judicial proceedings.\nWith respect to acts in the exclusive economic zone or on the continental shelf that violate the laws and regulations of the People's Republic of China, the People's Republic of China has the right to take necessary measures and pursue legal liability in accordance with law, and may exercise the right of hot pursuit."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The rights of the People's Republic of China in the exclusive economic zone and on the continental shelf that are not provided for in this Law shall be exercised in accordance with international law and other relevant laws and regulations of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The provisions of this Law do not affect the historic rights enjoyed by the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The Government of the People's Republic of China may, in accordance with this Law, formulate the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "This Law comes into force on the date of its promulgation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0354'] = {
+    "lawId": "CN-LAW-0354",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 17 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Entities and individuals that exploit taxable resources within the territory of the People's Republic of China and other sea areas under the jurisdiction of the People's Republic of China are taxpayers of resource tax and shall pay resource tax in accordance with this Law.\nThe specific scope of taxable resources shall be determined by the Resource Tax Item and Rate Table (hereinafter referred to as the Tax Item and Rate Table) appended to this Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Tax items and tax rates of resource tax shall be governed by the Tax Item and Rate Table.\nWhere a range of tax rates is prescribed in the Tax Item and Rate Table, the specific applicable tax rate shall be proposed by the people's government of the province, autonomous region or municipality directly under the Central Government, within the range of tax rates prescribed in the Tax Item and Rate Table, after taking into overall consideration the grade of the taxable resource, the mining conditions and the impact on the ecological environment, and shall be decided by the standing committee of the people's congress at the same level and reported to the Standing Committee of the National People's Congress and the State Council for the record. Where the taxable object is prescribed in the Tax Item and Rate Table as raw ore or concentrate, the specific applicable tax rate shall be determined separately."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Resource tax shall be levied on an ad valorem basis or on a quantity basis in accordance with the Tax Item and Rate Table.\nWhere the Tax Item and Rate Table provides that either the ad valorem basis or the quantity basis may be chosen, the specific method of levy shall be proposed by the people's government of the province, autonomous region or municipality directly under the Central Government, decided by the standing committee of the people's congress at the same level, and reported to the Standing Committee of the National People's Congress and the State Council for the record.\nWhere the ad valorem basis is applied, the amount of tax payable shall be calculated by multiplying the sales amount of the taxable resource product (hereinafter referred to as the taxable product) by the specific applicable tax rate. Where the quantity basis is applied, the amount of tax payable shall be calculated by multiplying the sales quantity of the taxable product by the specific applicable tax rate.\nWhere the taxable product is a mineral product, it includes raw ore and concentrate products."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a taxpayer exploits or produces taxable products under different tax items, it shall separately account for the sales amount or sales quantity of the taxable products under different tax items; where it fails to account separately, or cannot accurately provide, the sales amount or sales quantity of the taxable products under different tax items, the higher tax rate shall apply."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a taxpayer exploits or produces taxable products for its own use, it shall pay resource tax in accordance with this Law; however, where the taxable products are used for its own use in continuous production of taxable products, resource tax shall not be paid."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Resource tax shall be exempted under any of the following circumstances:\n(a) crude oil and natural gas exploited as crude oil and used for heating in the course of transporting crude oil within the oilfield area;\n(b) coalbed (coal seam) gas extracted by coal mining enterprises out of the need for production safety.\nResource tax shall be reduced under any of the following circumstances:\n(a) resource tax on crude oil and natural gas exploited from low-abundance oil and gas fields shall be reduced by 20 per cent;\n(b) resource tax on high-sulphur natural gas, tertiary oil recovery and crude oil and natural gas exploited from deepwater oil and gas fields shall be reduced by 30 per cent;\n(c) resource tax on heavy oil and high-pour-point oil shall be reduced by 40 per cent;\n(d) resource tax on mineral products exploited from mines in the depletion period shall be reduced by 30 per cent.\nIn light of the needs of national economic and social development, the State Council may prescribe the exemption or reduction of resource tax in circumstances conducive to promoting the conservation and intensive use of resources and the protection of the environment, and shall report the same to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Under any of the following circumstances, the province, autonomous region or municipality directly under the Central Government may decide to exempt or reduce resource tax:\n(a) the taxpayer suffers major losses due to accidents, natural disasters or other reasons in the course of exploiting or producing taxable products;\n(b) the taxpayer exploits associated and paragenetic minerals, low-grade ore or tailings.\nThe specific measures for the exemption or reduction of resource tax prescribed in the preceding paragraph shall be proposed by the people's government of the province, autonomous region or municipality directly under the Central Government, decided by the standing committee of the people's congress at the same level, and reported to the Standing Committee of the National People's Congress and the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For the tax-exempt and tax-reduced items of a taxpayer, the sales amount or sales quantity shall be accounted for separately; where separate accounting is not made, or the sales amount or sales quantity cannot be accurately provided, tax exemption or reduction shall not be granted."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Resource tax shall be collected and administered by tax authorities in accordance with this Law and the Law of the People's Republic of China on the Administration of Tax Collection.\nTax authorities and relevant departments such as natural resources departments shall establish a working coordination mechanism to strengthen the collection and administration of resource tax."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a taxpayer sells taxable products, the time when the tax liability arises shall be the day on which the sales proceeds are received or the evidence for claiming the sales proceeds is obtained; where taxable products are used for its own use, the time when the tax liability arises shall be the day on which the taxable products are transferred."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A taxpayer shall declare and pay resource tax to the tax authority at the place where the taxable products are exploited or produced."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Resource tax shall be declared and paid on a monthly or quarterly basis; where it cannot be calculated and paid on a fixed periodic basis, it may be declared and paid on a transaction-by-transaction basis.\nWhere a taxpayer declares and pays on a monthly or quarterly basis, it shall, within 15 days from the end of the month or quarter, file a tax declaration with the tax authority and pay the tax; where it declares and pays on a transaction-by-transaction basis, it shall, within 15 days from the date on which the tax liability arises, file a tax declaration with the tax authority and pay the tax."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a taxpayer, a tax authority or a staff member thereof violates the provisions of this Law, legal liability shall be pursued in accordance with the Law of the People's Republic of China on the Administration of Tax Collection and the provisions of relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In light of the needs of national economic and social development and in accordance with the principles of this Law, the State Council shall conduct a pilot levy of water resource tax on entities and individuals that draw surface water or groundwater. Where water resource tax is levied, the collection of the water resource fee shall cease.\nWater resource tax shall be subject to differentiated tax rates in light of local water resource conditions, the type of water drawing and use, and economic development.\nThe measures for implementing the pilot programme for water resource tax shall be prescribed by the State Council and reported to the Standing Committee of the National People's Congress for the record.\nThe State Council shall, within five years from the date of entry into force of this Law, report to the Standing Committee of the National People's Congress on the pilot programme for levying water resource tax, and shall promptly put forward proposals for amending the law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Enterprises exploiting onshore and offshore petroleum resources through Chinese-foreign cooperation shall pay resource tax in accordance with law.\nWhere a contract for Chinese-foreign cooperative exploitation of onshore or offshore petroleum resources was lawfully concluded before 1 November 2011, during the term of the contract the royalty shall continue to be paid in accordance with the relevant provisions of the State and resource tax shall not be paid; after the contract expires, resource tax shall be paid in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the following meanings:\n(a) low-abundance oil and gas fields include onshore low-abundance oilfields, onshore low-abundance gas fields, offshore low-abundance oilfields and offshore low-abundance gas fields. An onshore low-abundance oilfield means an oilfield with a recoverable crude oil reserve abundance of less than 250,000 cubic metres per square kilometre; an onshore low-abundance gas field means a gas field with a recoverable natural gas reserve abundance of less than 250 million cubic metres per square kilometre; an offshore low-abundance oilfield means an oilfield with a recoverable crude oil reserve abundance of less than 600,000 cubic metres per square kilometre; an offshore low-abundance gas field means a gas field with a recoverable natural gas reserve abundance of less than 600 million cubic metres per square kilometre.\n(b) high-sulphur natural gas means natural gas with a hydrogen sulphide content of 30 grams or more per cubic metre.\n(c) tertiary oil recovery means the recovery of oil after secondary oil recovery by means such as polymer flooding, compound flooding, foam flooding, water alternating gas flooding, carbon dioxide flooding and microbial flooding.\n(d) deepwater oil and gas fields mean oil and gas fields with a water depth of more than 300 metres.\n(e) heavy oil means crude oil with a formation crude oil viscosity of not less than 50 millipascal-seconds or a crude oil density of not less than 0.92 grams per cubic centimetre.\n(f) high-pour-point oil means crude oil with a pour point higher than 40 degrees Celsius.\n(g) a mine in the depletion period means a mine with a designed mining life of more than 15 years and the remaining recoverable reserves of which have fallen to less than 20 per cent of the originally designed recoverable reserves, or the remaining mining life of which does not exceed five years. A mine in the depletion period shall be determined on the basis of each individual mine subordinate to the mining enterprise."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "This Law shall enter into force on 1 September 2020. The Interim Regulations of the People's Republic of China on Resource Tax promulgated by the State Council on 25 December 1993 shall be repealed simultaneously.\nAppendix:\nResource Tax Item and Rate Table\nTax item\nTax item\nTax item\nTaxable object\nTax rate\nTax rate\nEnergy minerals\nCrude oil\nCrude oil\nRaw ore\n6%\n6%\nEnergy minerals\nNatural gas, shale gas, natural gas hydrate\nNatural gas, shale gas, natural gas hydrate\nRaw ore\n6%\n6%\nEnergy minerals\nCoal\nCoal\nRaw ore or concentrate\n2%-10%\n2%-10%\nEnergy minerals\nCoalbed (coal seam) gas\nCoalbed (coal seam) gas\nRaw ore\n1%-2%\n1%-2%\nEnergy minerals\nUranium, thorium\nUranium, thorium\nRaw ore\n4%\n4%\nEnergy minerals\nOil shale, oil sands, natural bitumen, stone coal\nOil shale, oil sands, natural bitumen, stone coal\nRaw ore or concentrate\n1%-4%\n1%-4%\nEnergy minerals\nGeothermal\nGeothermal\nRaw ore\n1%-20% or RMB 1-30 per cubic metre\n1%-20% or RMB 1-30 per cubic metre\nMetal minerals\nFerrous metals\nIron, manganese, chromium, vanadium, titanium\nRaw ore or concentrate\n1%-9%\n1%-9%\nMetal minerals\nNon-ferrous metals\nCopper, lead, zinc, tin, nickel, antimony, magnesium, cobalt, bismuth, mercury\nRaw ore or concentrate\n2%-10%\n2%-10%\nMetal minerals\nNon-ferrous metals\nBauxite\nRaw ore or concentrate\nRaw ore or concentrate\n2%-9%\nMetal minerals\nNon-ferrous metals\nTungsten\nConcentrate\nConcentrate\n6.5%\nMetal minerals\nNon-ferrous metals\nMolybdenum\nConcentrate\nConcentrate\n8%\nMetal minerals\nNon-ferrous metals\nGold, silver\nRaw ore or concentrate\nRaw ore or concentrate\n2%-6%\nMetal minerals\nNon-ferrous metals\nPlatinum, palladium, ruthenium, osmium, iridium, rhodium\nRaw ore or concentrate\nRaw ore or concentrate\n5%-10%\nMetal minerals\nNon-ferrous metals\nLight rare earths\nConcentrate\nConcentrate\n7%-12%\nMetal minerals\nNon-ferrous metals\nMedium and heavy rare earths\nConcentrate\nConcentrate\n20%\nMetal minerals\nNon-ferrous metals\nBeryllium, lithium, zirconium, strontium, rubidium, caesium, niobium, tantalum, germanium, gallium, indium, thallium, hafnium, rhenium, cadmium, selenium, tellurium\nRaw ore or concentrate\nRaw ore or concentrate\n2%-10%\nNon-metallic minerals\nMineral category\nKaolin\nRaw ore or concentrate\nRaw ore or concentrate\n1%-6%\nNon-metallic minerals\nMineral category\nLimestone\nRaw ore or concentrate\nRaw ore or concentrate\n1%-6% or RMB 1-10 per tonne (or per cubic metre)\nNon-metallic minerals\nMineral category\nPhosphorus\nRaw ore or concentrate\nRaw ore or concentrate\n3%-8%\nNon-metallic minerals\nMineral category\nGraphite\nRaw ore or concentrate\nRaw ore or concentrate\n3%-12%\nNon-metallic minerals\nMineral category\nFluorite, pyrite, native sulphur\nRaw ore or concentrate\nRaw ore or concentrate\n1%-8%\nNon-metallic minerals\nMineral category\nNatural quartz sand, vein quartz, powdery quartz, rock crystal, industrial diamond, Iceland spar, kyanite, sillimanite (fibrolite), feldspar, talc, corundum, magnesite, pigment minerals, trona, mirabilite, sodium nitrate, alunite, arsenic, boron, iodine, bromine, bentonite, diatomite, ceramic clay, refractory clay, laterite, attapulgite clay, sepiolite clay, illite clay, rectorite clay\nRaw ore or concentrate\nRaw ore or concentrate\n1%-12%\nNon-metallic minerals\nMineral category\nPyrophyllite, wollastonite, diopside, perlite, mica, zeolite, barite, witherite, calcite, vermiculite, tremolite, industrial tourmaline, chalk, asbestos, blue asbestos, andalusite, garnet, gypsum\nRaw ore or concentrate\nRaw ore or concentrate\n2%-12%\nNon-metallic minerals\nMineral category\nOther clay (moulding clay, brick and tile clay, ceramsite clay, clay for cement ingredients, laterite for cement ingredients, loess for cement ingredients, mudstone for cement ingredients, clay for thermal insulation materials)\nRaw ore or concentrate\nRaw ore or concentrate\n1%-5% or RMB 0.1-5 per tonne (or per cubic metre)\nNon-metallic minerals\nRock category\nMarble, granite, dolomite, quartzite, sandstone, diabase, andesite, diorite, slate, basalt, gneiss, amphibolite, shale, pumice, tuff, obsidian, nepheline syenite, serpentinite, maifanite, marl, potash-bearing rock, potash-bearing sandstone and shale, natural oilstone, peridotite, pitchstone, trachyte, gabbro, pyroxenite, syenite, volcanic ash, volcanic scoria, peat\nRaw ore or concentrate\nRaw ore or concentrate\n1%-10%\nNon-metallic minerals\nSand and gravel\nRaw ore or concentrate\nRaw ore or concentrate\n1%-5% or RMB 0.1-5 per tonne (or per cubic metre)\nNon-metallic minerals\nGemstone and jade category\nGemstones, jade, gem-grade diamond, agate, topaz, tourmaline\nRaw ore or concentrate\nRaw ore or concentrate\n4%-20%\nWater and gas minerals\nCarbon dioxide gas, hydrogen sulphide gas, helium gas, radon gas\nCarbon dioxide gas, hydrogen sulphide gas, helium gas, radon gas\nRaw ore\nRaw ore\n2%-5%\nWater and gas minerals\nMineral water\nMineral water\nRaw ore\nRaw ore\n1%-20% or RMB 1-30 per cubic metre\nSalt\nSodium salt, potassium salt, magnesium salt, lithium salt\nSodium salt, potassium salt, magnesium salt, lithium salt\nConcentrate\nConcentrate\n3%-15%\nSalt\nNatural brine\nNatural brine\nRaw ore\nRaw ore\n3%-15% or RMB 1-10 per tonne (or per cubic metre)\nSalt\nSea salt\nSea salt\n2%-5%"
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      }
+    ]
+  };
+
+  TR['CN-SUP-0001'] = {
+    "lawId": "CN-SUP-0001",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 18 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Supervision Law of the People's Republic of China and in light of actual work practice in order to strengthen and standardise the disclosure of information on supervision work, to ensure that citizens, legal persons and other organisations obtain information on supervision work in accordance with law, and to strengthen supervision over supervisory organs."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Supervisory organs disclosing information on supervision work shall adhere to the principles of compliance with laws and regulations, truthfulness and accuracy, safety and standardisation, and efficiency and convenience to the people."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Supervisory organs shall establish and improve a sound and scientific working mechanism for the disclosure of information on supervision work, and the general office (office) shall be responsible for the overall coordination, supervision and guidance of the disclosure of information on supervision work by the organ."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A supervisory organ at a higher level shall strengthen its leadership over the disclosure of information on supervision work by supervisory organs at lower levels, guide and urge supervisory organs at lower levels to disclose information on supervision work in accordance with law, and correct and resolve problems promptly when they are found."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The entity responsible for disclosing information on supervision work shall generally be the supervisory organ that produced or obtained the information. Important information to which the people give wide attention or which has a relatively large social impact may be released by a supervisory organ at a higher level."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Supervisory commissions at all levels shall, in a timely manner, proactively disclose to the public the following information on supervision work of the organ:\n(a) supervision regulations and normative documents on supervision that need to be publicly released;\n(b) the functions of the organ, the setup of its internal departments and of the supervisory institutions and supervisory commissioners stationed or dispatched thereby, the office address, and the duties, obligations and rights of supervisory officers;\n(c) information on case filing and investigation that shall be disclosed to the public in accordance with law, and guiding cases released by the National Commission of Supervision;\n(d) information such as the scope of acceptance of reports and accusations, the mailing address, the time and address for receiving visitors, the report hotline number, the website address and the handling procedures;\n(e) information such as the scope of acceptance, the conditions and requirements for application, and the handling procedures and time limits for cases of review, re-examination, appeal re-examination and State compensation;\n(f) special work reports made to the standing committee of the people's congress at the same level;\n(g) the duties and the list of specially invited supervisors;\n(h) the situation of strengthening the self-development of supervisory organs;\n(i) other information that shall be disclosed in accordance with laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In addition to the information on supervision work that shall be proactively disclosed to the public as prescribed in Article 6 of these Regulations, supervisory organs may, in respect of supervision work to which society pays close attention and which has a relatively large impact, and after comprehensive assessment and approval in accordance with the prescribed procedures, disclose the following relevant information to the public:\n(a) information on case filing and investigation;\n(b) information on governmental disciplinary sanctions and handling;\n(c) information on accountability for responsibility accidents;\n(d) information on the recovery of fugitives suspected of duty-related crimes;\n(e) information circulated on typical cases;\n(f) information on special supervision in key areas;\n(g) other information on supervision work that needs to be disclosed to the public."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The National Commission of Supervision shall periodically disclose to the public the relevant data on the statistics of supervision, inspection and investigation of supervisory organs throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Supervisory organs shall not disclose the following information to the public:\n(a) State secrets, work secrets, trade secrets, personal privacy and personal information that shall not be disclosed in accordance with law;\n(b) procedural information that is under discussion, study or review;\n(c) work information that, if disclosed, may affect national security, public security, economic security or social stability, or may hinder the normal enforcement of supervision law;\n(d) other information that shall not be disclosed in accordance with laws and regulations.\nFor information on supervision work involving trade secrets or personal privacy, where the rights holder agrees to disclosure or the supervisory organ considers that non-disclosure may have a major impact on the public interest, the information may be disclosed."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Supervisory organs may adopt the following methods to disclose information on supervision work to the public:\n(a) publishing through the official website of the supervisory organ and other online government media;\n(b) holding press conferences and accepting interviews;\n(c) publishing through newspapers, radio and television;\n(d) other methods that facilitate the timely and accurate acquisition of information on supervision work by the people."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Supervisory organs shall handle the disclosure of information on supervision work to the public in accordance with the following procedures:\n(a) the department undertaking the work that produced or obtained the information shall put forward a specific disclosure plan and draft the content, time and method of disclosure.\n(b) the department undertaking the work shall conduct a confidentiality review and risk assessment of the information to be disclosed, and may, according to work needs, consult the publicity, confidentiality management and other departments of the organ in handling the matter. Where disclosure may cause a relatively large social impact, the department undertaking the work shall formulate a response plan in advance.\n(c) after the department undertaking the work completes the corresponding approval procedures in accordance with the relevant provisions, the publicity department of the organ shall organise the release in a unified manner."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Supervisory organs shall strengthen the development of online government media and release information on supervision work in a timely manner and update it dynamically. The official website of a supervisory organ shall have functions such as information retrieval, consultation and download."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "After information on supervision work is disclosed, the supervisory organ shall closely monitor public opinion and, in accordance with the relevant provisions, properly conduct public opinion analysis, assessment and response.\nWhere false or incomplete information relating to supervision work that affects or may affect social stability or disrupt social order is found, the supervisory organ shall, in accordance with the provisions and together with the relevant departments, handle the matter and promptly release complete and accurate information to clarify the matter according to the actual situation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Specially invited supervisors shall, in accordance with the provisions, supervise the performance by supervisory organs and their staff of their duties in disclosing information on supervision work, and put forward opinions and suggestions for strengthening and improving the disclosure of information on supervision work. Supervisory organs shall handle such opinions and suggestions and give feedback in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a supervisory organ commits any of the following acts in carrying out the disclosure of information on supervision work, the supervisory organ at a higher level shall order it to make correction; where the circumstances are serious, the responsible leading personnel and the directly responsible personnel shall be dealt with in accordance with law; where the act constitutes a crime, criminal responsibility shall be investigated in accordance with law:\n(a) failing to perform the duty of information disclosure in accordance with these Regulations;\n(b) disclosing erroneous or inaccurate information without timely correction, or resorting to deception;\n(c) disclosing information that shall not be disclosed;\n(d) other acts violating the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a supervisory organ, in handling cases of duty-related violations of law and duty-related crimes, shall, in accordance with the Supervision Law of the People's Republic of China, the Implementing Regulations of the Supervision Law of the People's Republic of China and other provisions, notify, inform, announce or circulate the relevant information on supervision law enforcement to specific recipients, the matter shall be handled in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "These Regulations shall be interpreted by the National Commission of Supervision."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "These Regulations shall come into force on 1 March 2026."
+        },
+        "noLabel": {
+          "en": "Article 18."
         }
       }
     ]

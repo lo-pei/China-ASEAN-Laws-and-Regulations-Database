@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn
-   法规 24 部 / 译文 2974 条
+   法规 25 部 / 译文 2987 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -29319,6 +29319,138 @@
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-APPLICATION-J2-2023'] = {
+    "lawId": "CN-LAW-APPLICATION-J2-2023",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 13 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a people's court applies foreign law in trying a foreign-related civil or commercial case, it shall ascertain the law of that country in accordance with the provisions of paragraph 1 of Article 10 of the Law on the Application of Laws to Foreign-related Civil Relations.\nWhere the parties choose to apply foreign law, they shall provide the law of that country.\nWhere the parties do not choose to apply foreign law, the people's court shall ascertain the law of that country."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A people's court may ascertain foreign law through the following channels:\n(a) provision by the parties;\n(b) provision by the central authority or competent authority of the other side through judicial assistance channels;\n(c) provision through a request by the Supreme People's Court to the embassy or consulate of China in that country or the embassy or consulate of that country in China;\n(d) provision by a participant in a legal ascertainment cooperation mechanism established or participated in by the Supreme People's Court;\n(e) provision by an expert of the International Commercial Expert Committee of the Supreme People's Court;\n(f) provision by a legal ascertainment service institution or by Chinese or foreign legal experts;\n(g) other appropriate channels.\nWhere a people's court is unable to obtain foreign law through one of the channels provided for in the preceding paragraph, or the foreign law obtained is unclear or insufficient in content, it shall ascertain the law in a supplementary manner through a different channel provided for in that paragraph.\nWhere a people's court, in accordance with the provisions of subparagraph (a) of paragraph 1 of this Article, requires the parties to assist in providing foreign law, it shall not determine that the foreign law cannot be ascertained merely on the ground that the parties have failed to provide such assistance."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a party provides foreign law, it shall submit the specific provisions of the law of that country and explain the channels through which they were obtained, their validity and their relevance to the dispute in the case. Where the foreign law is case law, the full text of the precedents shall also be submitted."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a legal ascertainment service institution or a legal expert provides foreign law, it shall, in addition to submitting the materials provided for in Article 3 of this Interpretation, also submit proof of the qualification of the legal ascertainment service institution and proof of the identity and qualifications of the legal expert, together with a written statement that it has no interest in the case."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The relevant materials concerning the foreign law ascertained shall all be presented in court. The people's court shall hear the opinions of all parties on the content of the foreign law and on its understanding and application."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A people's court may convene a pre-trial conference or use other appropriate means to determine the scope of the foreign law that needs to be ascertained."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a people's court considers it necessary, it may notify the legal ascertainment service institution or legal expert that provided the foreign law to appear in court to be questioned. Where a party applies for a legal ascertainment service institution or legal expert to appear in court and the people's court considers it necessary, it may grant the application.\nWhere it is truly difficult for a legal ascertainment service institution or legal expert to appear in court in person, it may be questioned online, unless the law of the country where the legal ascertainment service institution or legal expert is located contains prohibitive provisions on cross-border online participation in court proceedings.\nA legal ascertainment service institution or legal expert appearing in court shall give opinions only on the foreign law and its understanding thereof and shall not participate in other court trial activities."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A people's court shall deal with the content of foreign law and its understanding and application respectively according to the following circumstances:\n(a) where the parties have no objection to the content of the foreign law or to its understanding and application, the people's court may confirm it;\n(b) where the parties have objections to the content of the foreign law or to its understanding and application, they shall state their reasons. Where the people's court considers it necessary, it may ascertain the law in a supplementary manner or require the parties to supplement the materials provided. Where the parties still have objections after supplementary ascertainment or supplementary provision of materials, the people's court shall examine and determine the matter;\n(c) where the content of the foreign law has been determined by an effective judgment of a people's court, the people's court shall confirm it, unless there is contrary evidence sufficient to overturn it."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A people's court shall determine the time limit for the parties to provide foreign law according to the time required for ascertaining the foreign law and going through the relevant formalities. Where a party applies for an appropriate extension of the time limit on specific grounds that it is unable to provide the foreign law within the time limit determined by the people's court, the people's court may grant the extension as it considers appropriate.\nWhere the parties have chosen to apply foreign law but fail, without justified reasons, to provide that foreign law within the time limit determined by the people's court, the people's court may determine that the foreign law cannot be ascertained."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a people's court applies foreign law in trying a case in accordance with law, it shall state in the judgment document the process of ascertaining the foreign law and the content of the foreign law; where the people's court determines that the foreign law cannot be ascertained, it shall state the reasons why it cannot be ascertained."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "With respect to the bearing of the costs of ascertaining foreign law, where the parties have an agreement, that agreement shall prevail; where there is no agreement, the people's court may, on the basis of the claims of the parties and the specific circumstances of the case, determine the bearing of the above-mentioned reasonable costs when making the judgment."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a people's court ascertains the law of the Hong Kong Special Administrative Region or the Macao Special Administrative Region, it may apply this Interpretation by reference. Where the relevant laws and judicial interpretations provide otherwise on the ascertainment of the law of the Hong Kong Special Administrative Region or the Macao Special Administrative Region, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "This Interpretation shall come into force on 1 January 2024.\nAfter this Interpretation is promulgated and comes into force, where judicial interpretations previously issued by the Supreme People's Court are inconsistent with this Interpretation, this Interpretation shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 13."
         }
       }
     ]

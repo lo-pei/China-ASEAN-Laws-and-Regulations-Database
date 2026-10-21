@@ -1,12 +1,3369 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p02
-   法规 3 部 / 译文 421 条
+   法规 33 部 / 译文 1530 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-LAW-0081'] = {
+    "lawId": "CN-LAW-0081",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 36 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted to regulate acts of electronic signature, establish the legal effect of electronic signatures, and protect the lawful rights and interests of all parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, an electronic signature means the data contained in or attached to a data message in electronic form and used to identify the identity of the signatory and to indicate the signatory's approval of the contents therein.\nFor the purposes of this Law, a data message means information generated, sent, received or stored by electronic, optical, magnetic or similar means."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In civil activities, the parties may agree to use or not to use electronic signatures or data messages for contracts or other documents, certificates and the like.\nWhere the parties agree to use electronic signatures or data messages for a document, its legal effect shall not be denied merely because it takes the form of an electronic signature or data message.\nThe preceding paragraph shall not apply to the following documents:\n(1) those involving personal relationships such as marriage, adoption and inheritance;\n(2) those involving the supply of public utility services such as water, heating and gas supply;\n(3) other circumstances in which the use of electronic documents is excluded by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A data message that can tangibly represent its contents and can be retrieved and consulted at any time shall be regarded as satisfying the writing form required by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "A data message that meets the following conditions shall be regarded as satisfying the requirement for the form of an original as prescribed by laws and regulations:\n(1) it can effectively represent its contents and be retrievable and consultable at any time;\n(2) it can reliably ensure that the contents remain complete and unaltered from the time of its final formation; provided, however, that the addition of an endorsement to the data message and the formal changes occurring in the course of data exchange, storage and display shall not affect the integrity of the data message."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A data message that meets the following conditions shall be regarded as satisfying the document preservation requirement prescribed by laws and regulations:\n(1) it can effectively represent its contents and be retrievable and consultable at any time;\n(2) the format of the data message is the same as that at the time of its generation, sending or receipt, or, though different, it can accurately represent the contents originally generated, sent or received;\n(3) it can identify the sender and the recipient of the data message and the time of sending and receipt."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A data message shall not be rejected as evidence merely because it is generated, sent, received or stored by electronic, optical, magnetic or similar means."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In examining the authenticity of a data message used as evidence, the following factors shall be taken into account:\n(1) the reliability of the method of generating, storing or transmitting the data message;\n(2) the reliability of the method of maintaining the integrity of the contents;\n(3) the reliability of the method used to identify the sender;\n(4) other relevant factors."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A data message shall be deemed to have been sent by the sender under any of the following circumstances:\n(1) it is sent with the authorisation of the sender;\n(2) it is sent automatically by the information system of the sender;\n(3) the recipient, after verifying the data message by the method recognised by the sender, obtains a matching result.\nWhere the parties have otherwise agreed on the matters prescribed in the preceding paragraph, such agreement shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where laws or administrative regulations provide, or the parties agree, that receipt of a data message needs to be acknowledged, acknowledgement shall be given. When the sender receives the recipient's acknowledgement of receipt, the data message shall be deemed to have been received."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The time at which a data message enters an information system outside the control of the sender shall be deemed to be the time of sending of the data message.\nWhere the recipient has designated a specific system to receive the data message, the time at which the data message enters that specific system shall be deemed to be the time of receipt of the data message; where no specific system is designated, the time at which the data message first enters any system of the recipient shall be deemed to be the time of receipt of the data message.\nWhere the parties have otherwise agreed on the time of sending or receipt of a data message, such agreement shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The principal place of business of the sender shall be the place of sending of the data message, and the principal place of business of the recipient shall be the place of receipt of the data message. Where there is no principal place of business, the habitual residence shall be the place of sending or receipt.\nWhere the parties have otherwise agreed on the place of sending or receipt of a data message, such agreement shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Data Messages"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An electronic signature that simultaneously meets the following conditions shall be regarded as a reliable electronic signature:\n(1) the electronic signature creation data, when used to create the electronic signature, belongs exclusively to the electronic signatory;\n(2) the electronic signature creation data is, at the time of signing, controlled solely by the electronic signatory;\n(3) any alteration to the electronic signature made after signing can be detected;\n(4) any alteration to the contents and form of the data message made after signing can be detected.\nThe parties may also choose to use an electronic signature meeting the reliable conditions agreed by them."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A reliable electronic signature has the same legal effect as a handwritten signature or a seal."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The electronic signatory shall properly keep the electronic signature creation data. Where the electronic signatory knows that the electronic signature creation data has been or may have been compromised, he shall promptly notify all parties concerned and cease to use the electronic signature creation data."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where third-party authentication of an electronic signature is required, the authentication service shall be provided by an electronic authentication service provider established in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "To provide electronic authentication services, the following conditions shall be satisfied:\n(1) possessing the status of an enterprise legal person;\n(2) having professional technical personnel and management personnel suited to the provision of electronic authentication services;\n(3) having funds and business premises suited to the provision of electronic authentication services;\n(4) having technology and equipment that meet the state security standards;\n(5) having the certification document issued by the state cryptography administration approving the use of cryptography;\n(6) other conditions prescribed by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "To engage in electronic authentication services, an application shall be submitted to the competent department of the State Council for the information industry, together with the relevant materials satisfying the conditions prescribed in Article 17 of this Law. Upon receiving the application, the competent department of the State Council for the information industry shall, after examination in accordance with the law and soliciting the opinions of the competent commercial department of the State Council and other relevant departments, make a decision to grant or refuse the licence within 45 days from the date of receiving the application. Where the licence is granted, an electronic authentication licence shall be issued; where it is refused, the applicant shall be notified in writing stating the reasons.\nAn electronic authentication service provider that has obtained the qualification for authentication shall, in accordance with the provisions of the competent department of the State Council for the information industry, publish on the internet its name, licence number and other information."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "An electronic authentication service provider shall formulate and publish electronic authentication practice statements that comply with the relevant provisions of the state, and file them with the competent department of the State Council for the information industry.\nAn electronic authentication practice statement shall include matters such as the scope of liability, operating specifications and information security safeguards."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an electronic signatory applies to an electronic authentication service provider for an electronic signature authentication certificate, he shall provide true, complete and accurate information.\nUpon receiving an application for an electronic signature authentication certificate, the electronic authentication service provider shall verify the identity of the applicant and examine the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "An electronic signature authentication certificate issued by an electronic authentication service provider shall be accurate and shall state the following:\n(1) the name of the electronic authentication service provider;\n(2) the name of the certificate holder;\n(3) the certificate serial number;\n(4) the validity period of the certificate;\n(5) the electronic signature verification data of the certificate holder;\n(6) the electronic signature of the electronic authentication service provider;\n(7) other contents prescribed by the competent department of the State Council for the information industry."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "An electronic authentication service provider shall ensure that the contents of an electronic signature authentication certificate remain complete and accurate during its validity period, and shall ensure that the relying party can verify or ascertain the contents stated in the electronic signature authentication certificate and other relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where an electronic authentication service provider intends to suspend or terminate its electronic authentication service, it shall, 90 days before the suspension or termination, notify all parties concerned of the succession of its business and other relevant matters.\nWhere an electronic authentication service provider intends to suspend or terminate its electronic authentication service, it shall, 60 days before the suspension or termination, report to the competent department of the State Council for the information industry, consult with other electronic authentication service providers on the succession of its business and make proper arrangements.\nWhere an electronic authentication service provider fails to reach an agreement with other electronic authentication service providers on the succession of its business, it shall apply to the competent department of the State Council for the information industry to arrange for another electronic authentication service provider to take over its business.\nWhere the electronic authentication licence of an electronic authentication service provider is revoked in accordance with the law, the handling of the succession of its business shall be governed by the provisions of the competent department of the State Council for the information industry."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "An electronic authentication service provider shall properly preserve the information related to authentication, and the retention period shall be at least five years after the electronic signature authentication certificate ceases to be valid."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The competent department of the State Council for the information industry shall, in accordance with this Law, formulate specific measures for the administration of the electronic authentication service industry, and shall exercise supervision and administration over electronic authentication service providers in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After approval by the competent department of the State Council for the information industry in accordance with the relevant agreements or the principle of reciprocity, an electronic signature authentication certificate issued outside the territory of the People's Republic of China by an electronic authentication service provider outside the territory of the People's Republic of China shall have the same legal effect as an electronic signature authentication certificate issued by an electronic authentication service provider established in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Electronic Signatures and Certification"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where an electronic signatory, knowing that the electronic signature creation data has been or may have been compromised, fails to promptly notify the parties concerned and cease using the electronic signature creation data, fails to provide true, complete and accurate information to the electronic authentication service provider, or is otherwise at fault, and thus causes losses to the relying party or the electronic authentication service provider, he shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an electronic signatory or a relying party suffers losses in the course of civil activities conducted on the basis of the electronic signature authentication service provided by an electronic authentication service provider, the electronic authentication service provider shall bear liability for compensation if it cannot prove that it is not at fault."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Whoever provides electronic authentication services without a licence shall be ordered by the competent department of the State Council for the information industry to cease the illegal act; where there are illegal gains, the illegal gains shall be confiscated; where the illegal gains exceed RMB 300,000, a fine of not less than one time but not more than three times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 300,000, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where an electronic authentication service provider suspends or terminates its electronic authentication service without reporting to the competent department of the State Council for the information industry 60 days before the suspension or termination, the competent department of the State Council for the information industry shall impose a fine of not less than RMB 10,000 but not more than RMB 50,000 on the person directly in charge."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where an electronic authentication service provider fails to comply with the authentication practice statement, fails to properly preserve the information related to authentication, or commits other illegal acts, the competent department of the State Council for the information industry shall order it to make corrections within a prescribed time limit; if it fails to make corrections within the time limit, its electronic authentication licence shall be revoked, and its person directly in charge and other persons directly responsible shall not be allowed to engage in electronic authentication services for ten years. Where the electronic authentication licence is revoked, it shall be publicly announced and the administrative department for industry and commerce shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Whoever forges, falsely uses or misappropriates another person's electronic signature, where the act constitutes a crime, shall be investigated for criminal liability in accordance with the law; where losses are caused to another person, civil liability shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a staff member of the department responsible for the supervision and administration of the electronic authentication service industry in accordance with this Law fails to perform his duties of administrative licence and supervision and administration in accordance with the law, he shall be given an administrative sanction in accordance with the law; where the act constitutes a crime, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The meanings of the following terms used in this Law are:\n(1) 'electronic signatory' means a person who holds the electronic signature creation data and applies the electronic signature in his own name or in the name of the person he represents;\n(2) 'relying party' means a person who, relying on an electronic signature authentication certificate or an electronic signature, engages in relevant activities;\n(3) 'electronic signature authentication certificate' means a data message or other electronic record that can verify the link between the electronic signatory and the electronic signature creation data;\n(4) 'electronic signature creation data' means the characters, codes and other data used in the course of creating an electronic signature to reliably link the electronic signature with the electronic signatory;\n(5) 'electronic signature verification data' means the data used to verify an electronic signature, including codes, passwords, algorithms or public keys."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State Council or the departments prescribed by the State Council may, in accordance with this Law, formulate specific measures for the use of electronic signatures and data messages in government affairs and other social activities."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "This Law shall come into force on 1 April 2005."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0082'] = {
+    "lawId": "CN-LAW-0082",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 89 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to safeguard the lawful rights and interests of all parties to e-commerce, regulate e-commerce conduct, maintain market order and promote the sustained and sound development of e-commerce."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to e-commerce activities within the territory of the People's Republic of China.\nFor the purposes of this Law, e-commerce means business activities of selling goods or providing services through information networks such as the Internet.\nWhere laws or administrative regulations provide otherwise on the sale of goods or the provision of services, those provisions shall apply. This Law does not apply to financial products and services, or to services providing news information, audio-visual programmes, publications, cultural products and other content through information networks."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State encourages the development of new forms of e-commerce, innovation in business models, research, development, dissemination and application of e-commerce technology, and the development of an e-commerce credibility system, and shall create a market environment conducive to the innovative development of e-commerce, giving full play to the important role of e-commerce in promoting high-quality development, meeting the people's ever-growing needs for a better life and building an open economy."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall treat online and offline business activities equally and promote the integrated development of online and offline business; people's governments at all levels and the relevant departments shall not adopt discriminatory policies or measures, nor abuse administrative power to exclude or restrict market competition."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "E-commerce operators engaging in business activities shall follow the principles of voluntariness, equality, fairness and good faith, comply with laws and business ethics, participate fairly in market competition, perform their obligations in such areas as protection of consumers' rights and interests, environmental protection, protection of intellectual property rights, cybersecurity and protection of personal information, bear responsibility for the quality of products and services, and accept supervision by the government and society."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The relevant departments under the State Council shall, in accordance with the division of duties, be responsible for promoting the development of e-commerce and for its supervision and administration. Local people's governments at or above the county level may, in light of the actual situation of their respective administrative areas, determine the division of departmental duties for e-commerce within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall establish a collaborative management system suited to the characteristics of e-commerce and promote the formation of an e-commerce market governance system in which the relevant departments, e-commerce industry organisations, e-commerce operators and consumers all participate."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "E-commerce industry organisations shall carry out industry self-regulation in accordance with their articles of association, establish and improve industry norms, promote the development of industry credibility, and supervise and guide operators in the industry to participate fairly in market competition."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "For the purposes of this Law, e-commerce operators mean natural persons, legal persons and unincorporated organisations that engage in business activities of selling goods or providing services through information networks such as the Internet, including e-commerce platform operators, operators on the platform and e-commerce operators that sell goods or provide services through self-built websites or other network services.\nFor the purposes of this Law, e-commerce platform operators mean legal persons or unincorporated organisations that provide, in e-commerce, services such as online business premises, matchmaking of transactions and publication of information for two or more parties to a transaction, so that such parties may independently carry out trading activities.\nFor the purposes of this Law, operators on the platform mean e-commerce operators that sell goods or provide services through e-commerce platforms."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "E-commerce operators shall register as market entities in accordance with law. However, this does not apply to individuals selling self-produced agricultural and sideline products or household handicraft products, individuals using their own skills to engage in convenience labour services and sporadic small-sum transactions for which no licence is required in accordance with law, and other cases where registration is not required under laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "E-commerce operators shall perform their tax obligations in accordance with law and shall enjoy tax preferences in accordance with law.\nWhere an e-commerce operator is not required to register as a market entity in accordance with the provisions of the preceding article, it shall, after its tax obligation first arises, apply for tax registration in accordance with the provisions of the laws and administrative regulations on tax collection and administration, and shall truthfully declare and pay taxes."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an e-commerce operator needs to obtain the relevant administrative licence in accordance with law for the business activities it engages in, it shall obtain the administrative licence in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Goods sold or services provided by e-commerce operators shall meet the requirements for safeguarding personal and property safety and the requirements for environmental protection, and no goods or services whose trading is prohibited by laws or administrative regulations shall be sold or provided."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "E-commerce operators selling goods or providing services shall, in accordance with law, issue paper invoices, electronic invoices or other proof of purchase or service documents. Electronic invoices shall have the same legal effect as paper invoices."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "E-commerce operators shall continuously publish, in a prominent position on their home pages, information on their business licences, information on the administrative licences relating to their business, information to the effect that they fall within the circumstances specified in Article 10 of this Law where registration as a market entity is not required, and other such information, or a link to such information.\nWhere the information specified in the preceding paragraph changes, the e-commerce operator shall promptly update the published information."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where an e-commerce operator terminates its e-commerce business on its own, it shall continuously publish the relevant information in a prominent position on its home page 30 days in advance."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "E-commerce operators shall disclose information on goods or services in a comprehensive, truthful, accurate and timely manner and shall safeguard consumers' right to know and right to choose. E-commerce operators shall not conduct false or misleading commercial publicity by fabricating transactions, fabricating user reviews or other means so as to deceive or mislead consumers."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an e-commerce operator provides search results for goods or services to a consumer on the basis of the consumer's interests, hobbies, consumption habits and other characteristics, it shall at the same time provide the consumer with options not targeted at the consumer's personal characteristics, and shall respect and equally protect the lawful rights and interests of consumers.\nE-commerce operators sending advertisements to consumers shall comply with the relevant provisions of the Advertising Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an e-commerce operator bundles goods or services, it shall draw the consumer's attention in a prominent manner and shall not make the bundled goods or services a default option of consent."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "E-commerce operators shall deliver goods or provide services to consumers in the manner and within the time limit undertaken or agreed with the consumers, and shall bear the risks and responsibility during the transport of goods. However, this does not apply where the consumer separately chooses the courier and logistics service provider."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where an e-commerce operator collects a deposit from a consumer as agreed, it shall clearly state the manner and procedures for refunding the deposit and shall not set unreasonable conditions for the refund. Where a consumer applies for a refund of the deposit and the conditions for refund are met, the e-commerce operator shall refund it promptly."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an e-commerce operator has a dominant market position by reason of its technological advantages, number of users, ability to control the relevant industry and the degree of dependence of other operators on it in transactions, it shall not abuse its dominant market position to exclude or restrict competition."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "E-commerce operators collecting and using the personal information of their users shall comply with the provisions of laws and administrative regulations on the protection of personal information."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "E-commerce operators shall clearly state the manner and procedures for users to inquire about, correct or delete their information and to cancel their accounts, and shall not set unreasonable conditions for such inquiry, correction or deletion or for cancellation of accounts.\nWhere an e-commerce operator receives an application from a user for inquiry about, correction or deletion of information, it shall, after verifying the identity, promptly provide the inquiry or make the correction or deletion. Where a user cancels his account, the e-commerce operator shall immediately delete the user's information; where retention is required by laws or administrative regulations or agreed by both parties, those provisions or the agreement shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the competent departments concerned require e-commerce operators to provide information on e-commerce data in accordance with the provisions of laws and administrative regulations, the e-commerce operators shall provide it. The competent departments concerned shall take the necessary measures to protect the security of the data and information provided by e-commerce operators, and shall strictly keep confidential the personal information, privacy and trade secrets contained therein, and shall not divulge, sell or illegally provide them to others."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "E-commerce operators engaging in cross-border e-commerce shall comply with the laws and administrative regulations on the supervision and administration of imports and exports and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "E-commerce platform operators shall require operators applying to enter the platform to sell goods or provide services to submit true information such as their identity, address, contact information and administrative licences, shall verify and register the same, establish registration files and shall verify and update them periodically.\nE-commerce platform operators providing services to non-business users who enter the platform to sell goods or provide services shall comply with the relevant provisions of this Section."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "E-commerce platform operators shall, in accordance with the provisions, report the identity information of operators on the platform to the market supervision and administration department, remind operators that have not registered as market entities to register in accordance with law, and cooperate with the market supervision and administration department in facilitating, in light of the characteristics of e-commerce, the registration of operators that are required to register as market entities.\nE-commerce platform operators shall, in accordance with the provisions of the laws and administrative regulations on tax collection and administration, report to the tax authorities the identity information of operators on the platform and the information relating to tax payment, and shall remind e-commerce operators that are not required to register as market entities under Article 10 of this Law to complete tax registration in accordance with the second paragraph of Article 11 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where an e-commerce platform operator finds that information on goods or services on the platform falls within the circumstances in violation of the provisions of Article 12 or Article 13 of this Law, it shall take the necessary measures in accordance with law and report to the competent departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "E-commerce platform operators shall adopt technical measures and other necessary measures to ensure the cybersecurity and stable operation of their platforms, prevent illegal and criminal activities on the network, effectively respond to cybersecurity incidents and safeguard the security of e-commerce transactions.\nE-commerce platform operators shall formulate emergency response plans for cybersecurity incidents and, when a cybersecurity incident occurs, shall immediately activate the emergency response plan, take corresponding remedial measures and report to the competent departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "E-commerce platform operators shall record and preserve information on goods and services published on the platform and on transactions, and shall ensure the integrity, confidentiality and usability of such information. Information on goods and services and on transactions shall be preserved for not less than three years from the date of completion of the transaction; where laws or administrative regulations provide otherwise, those provisions shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "E-commerce platform operators shall, in accordance with the principles of openness, fairness and impartiality, formulate platform service agreements and transaction rules, and shall clarify the rights and obligations in such respects as entry to and exit from the platform, quality assurance of goods and services, protection of consumers' rights and interests and protection of personal information."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "E-commerce platform operators shall continuously publish, in a prominent position on their home pages, information on the platform service agreements and transaction rules or a link to such information, and shall ensure that operators and consumers can read and download them conveniently and in their entirety."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where an e-commerce platform operator amends its platform service agreements and transaction rules, it shall solicit public opinions in a prominent position on its home page and take reasonable measures to ensure that the parties concerned can express their opinions fully and in a timely manner. The amended content shall be made public at least seven days before it takes effect.\nWhere an operator on the platform does not accept the amended content and requests to withdraw from the platform, the e-commerce platform operator shall not obstruct it, and shall bear the relevant liability in accordance with the service agreement and transaction rules in force before the amendment."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "E-commerce platform operators shall not, by means of service agreements, transaction rules, technology or other means, impose unreasonable restrictions or additional unreasonable conditions on transactions conducted by operators on the platform within the platform, on transaction prices, or on transactions with other operators, nor charge unreasonable fees to operators on the platform."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where an e-commerce platform operator takes measures such as warning, suspension or termination of services against an operator on the platform for its violation of laws or regulations in accordance with the platform service agreement and transaction rules, it shall promptly make the same public."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an e-commerce platform operator carries out self-operated business on its platform, it shall clearly distinguish and mark its self-operated business and the business carried out by operators on the platform, and shall not mislead consumers.\nAn e-commerce platform operator shall, in accordance with law, bear the civil liability of a seller of goods or a provider of services for the business it marks as self-operated."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where an e-commerce platform operator knows or ought to know that goods sold or services provided by an operator on the platform do not meet the requirements for safeguarding personal and property safety, or that the operator has other acts infringing upon the lawful rights and interests of consumers, and fails to take the necessary measures, it shall bear joint and several liability with that operator in accordance with law.\nIn respect of goods or services affecting consumers' life and health, where an e-commerce platform operator fails to perform its obligation to examine the qualifications of the operator on the platform, or fails to perform its obligation to safeguard the safety of consumers, thereby causing damage to consumers, it shall bear the corresponding liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "E-commerce platform operators shall establish and improve a credit evaluation system, make public the rules for credit evaluation, and provide consumers with a channel to evaluate the goods sold or services provided on the platform.\nE-commerce platform operators shall not delete consumers' evaluations of the goods sold or services provided on their platforms."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "E-commerce platform operators shall display search results for goods or services to consumers in multiple ways on the basis of the price, sales volume, credit and the like of the goods or services; for goods or services ranked by bidding, the word \"advertisement\" shall be clearly indicated."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "E-commerce platform operators shall establish rules for the protection of intellectual property rights, strengthen cooperation with the right holders of intellectual property rights and protect intellectual property rights in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a right holder of intellectual property rights considers that its intellectual property rights have been infringed, it shall have the right to notify the e-commerce platform operator to take the necessary measures such as deletion, blocking, disconnection of links and termination of transactions and services. The notification shall include the preliminary evidence establishing the infringement.\nUpon receipt of the notification, the e-commerce platform operator shall promptly take the necessary measures and forward the notification to the operator on the platform; where it fails to take the necessary measures promptly, it shall bear joint and several liability with the operator on the platform for the part of the damage that is aggravated.\nWhere a wrong notification causes damage to an operator on the platform, civil liability shall be borne in accordance with law. Where a wrong notification is issued in bad faith and causes losses to an operator on the platform, liability for compensation shall be borne in double."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Upon receipt of the forwarded notification, an operator on the platform may submit a statement to the e-commerce platform operator declaring that no infringement exists. The statement shall include the preliminary evidence that no infringement exists.\nUpon receipt of the statement, the e-commerce platform operator shall forward the statement to the right holder of intellectual property rights that issued the notification and inform it that it may complain to the competent departments concerned or bring an action before a people's court. Where, within 15 days after the forwarded statement reaches the right holder, the e-commerce platform operator has not received notice that the right holder has complained or brought an action, it shall promptly terminate the measures taken."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "E-commerce platform operators shall promptly make public the notifications and statements received under Article 42 and Article 43 of this Law and the results of their handling."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an e-commerce platform operator knows or ought to know that an operator on the platform infringes upon intellectual property rights, it shall take the necessary measures such as deletion, blocking, disconnection of links and termination of transactions and services; where it fails to take the necessary measures, it shall bear joint and several liability with the infringer."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Apart from the services specified in the second paragraph of Article 9 of this Law, an e-commerce platform operator may, in accordance with the platform service agreement and transaction rules, provide services such as warehousing, logistics, payment and settlement and delivery for e-commerce between operators. An e-commerce platform operator providing services for e-commerce between operators shall comply with laws, administrative regulations and the relevant provisions of the State, and shall not conduct transactions by centralised trading methods such as centralised bidding or market maker trading, nor conduct standardised contract transactions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Operators of E-commerce Platforms"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The conclusion and performance of contracts by parties to e-commerce shall be governed by the provisions of this Chapter and of the General Provisions of the Civil Law of the People's Republic of China, the Contract Law of the People's Republic of China, the Electronic Signature Law of the People's Republic of China and other laws."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The acts of parties to e-commerce in concluding or performing contracts by using automated information systems shall have legal effect on the parties using such systems.\nIn e-commerce, the parties are presumed to have the corresponding capacity for civil conduct, unless there is contrary evidence sufficient to rebut the presumption."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the information on goods or services published by an e-commerce operator meets the conditions of an offer, a contract is formed when the user chooses the goods or services and successfully submits an order. Where the parties agree otherwise, their agreement shall prevail.\nE-commerce operators shall not, by means of standard terms or other means, stipulate that a contract is not formed after the consumer pays the price; where standard terms or the like contain such content, such content shall be void."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "E-commerce operators shall clearly, comprehensively and explicitly inform users of the steps for concluding a contract, the matters requiring attention, the downloading method and other matters, and shall ensure that users can read and download the same conveniently and in their entirety.\nE-commerce operators shall ensure that users can correct input errors before submitting an order."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the subject matter of the contract is the delivery of goods and delivery is made by courier and logistics, the time of delivery shall be the time when the consignee signs for receipt. Where the subject matter of the contract is the provision of services, the time of delivery shall be the time stated in the electronic or physical voucher generated; where the voucher does not state a time, or the stated time is inconsistent with the actual time of provision of the services, the time of delivery shall be the actual time of provision of the services.\nWhere the subject matter of the contract is delivered by online transmission, the time of delivery shall be the time when the subject matter enters the specific system designated by the other party and can be retrieved and identified.\nWhere the parties to the contract agree otherwise on the manner and time of delivery, their agreement shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Parties to e-commerce may agree to deliver goods by courier and logistics.\nCourier and logistics service providers providing courier and logistics services for e-commerce shall comply with laws and administrative regulations and shall conform to the service specifications and time limits undertaken. When delivering goods, courier and logistics service providers shall remind the consignee to inspect the goods in person; where the goods are to be collected by another person on the consignee's behalf, the consignee's consent shall be obtained.\nCourier and logistics service providers shall, in accordance with the provisions, use environmentally friendly packaging materials and achieve reduction and reuse of packaging materials.\nCourier and logistics service providers may, while providing courier and logistics services, accept the entrustment of e-commerce operators to provide the service of collecting payment for goods."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Parties to e-commerce may agree to pay the price by electronic payment.\nElectronic payment service providers providing electronic payment services for e-commerce shall comply with the provisions of the State, inform users of the functions, methods of use, matters requiring attention, relevant risks and charging standards of the electronic payment services and other matters, and shall not attach unreasonable transaction conditions. Electronic payment service providers shall ensure the integrity, consistency, traceability and auditability and immutability of electronic payment instructions.\nElectronic payment service providers shall provide users free of charge with reconciliation services and transaction records for the most recent three years."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where an electronic payment service provider provides electronic payment services that do not meet the relevant requirements of the State for payment security management and thereby causes losses to users, it shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Before issuing a payment instruction, a user shall check the complete information contained in the payment instruction, such as the amount and the payee.\nWhere an error occurs in a payment instruction, the electronic payment service provider shall promptly ascertain the cause and take the relevant measures to correct it. Where losses are caused to the user, the electronic payment service provider shall bear liability for compensation, unless it can prove that the erroneous payment was not caused by itself."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "After completing an electronic payment, an electronic payment service provider shall promptly and accurately provide the user with information confirming the payment in the manner agreed."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Users shall properly keep security tools such as transaction passwords and electronic signature data. Where a user finds that a security tool is lost, misappropriated or used for unauthorised payment, the user shall promptly notify the electronic payment service provider.\nLosses caused by unauthorised payment shall be borne by the electronic payment service provider; where the electronic payment service provider can prove that the unauthorised payment was caused by the fault of the user, it shall not bear liability.\nWhere an electronic payment service provider finds that a payment instruction is unauthorised, or receives notice from a user that a payment instruction is unauthorised, it shall immediately take measures to prevent the aggravation of losses. Where the electronic payment service provider fails to take measures promptly, resulting in the aggravation of losses, it shall bear liability for the aggravated part of the losses."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter III Conclusion and Performance of E-commerce Contracts"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State encourages e-commerce platform operators to establish mechanisms for guaranteeing the quality of goods and services that are conducive to the development of e-commerce and the protection of consumers' rights and interests.\nWhere an e-commerce platform operator and the operators on the platform agree to establish a consumer protection deposit, both parties shall make clear provisions on the amount to be drawn, management, use and refund of the consumer protection deposit.\nWhere a consumer requires an e-commerce platform operator to bear liability for compensation in advance, and where the e-commerce platform operator seeks recovery from the operator on the platform after compensation, the relevant provisions of the Law of the People's Republic of China on the Protection of Consumers' Rights and Interests shall apply."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Resolution of E-commerce Disputes"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "E-commerce operators shall establish convenient and effective mechanisms for complaints and reports, make public information such as the channels for complaints and reports, and promptly accept and handle complaints and reports."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Resolution of E-commerce Disputes"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "E-commerce disputes may be resolved through consultation and settlement, by requesting mediation by consumers' organisations, industry associations or other lawfully established mediation organisations, by complaining to the relevant departments, by submitting the dispute to arbitration, or by bringing an action."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Resolution of E-commerce Disputes"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a consumer purchases goods or receives services on an e-commerce platform and a dispute arises with an operator on the platform, the e-commerce platform operator shall actively assist the consumer in safeguarding his lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Resolution of E-commerce Disputes"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "In the handling of e-commerce disputes, e-commerce operators shall provide the original contracts and transaction records. Where an e-commerce operator loses, forges, alters, destroys or conceals the aforesaid materials or refuses to provide them, so that a people's court, an arbitration institution or the relevant organ is unable to ascertain the facts, the e-commerce operator shall bear the corresponding legal liability."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Resolution of E-commerce Disputes"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "E-commerce platform operators may establish online dispute resolution mechanisms, formulate and make public the rules for dispute resolution, and resolve disputes between the parties fairly and impartially in accordance with the principle of voluntariness."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IV Resolution of E-commerce Disputes"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall incorporate the development of e-commerce into national economic and social development plans, formulate sound and reasonable industrial policies and promote the innovative development of e-commerce."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The State Council and local people's governments at or above the county level and their relevant departments shall take measures to support and promote green packaging, warehousing and transport and to promote the green development of e-commerce."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State shall promote the construction of e-commerce infrastructure and logistics networks, improve the e-commerce statistics system and strengthen the development of the e-commerce standards system."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The State shall promote the application of e-commerce in all fields of the national economy and support the integrated development of e-commerce with all industries."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The State shall promote the application of Internet technology in such links as agricultural production, processing and circulation, encourage all kinds of social resources to strengthen cooperation, promote the development of rural e-commerce and give play to the role of e-commerce in targeted poverty alleviation."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State shall safeguard the security of e-commerce transactions, protect the information of e-commerce users, encourage the development and application of e-commerce data and ensure the lawful, orderly and free flow of e-commerce data.\nThe State shall take measures to promote the establishment of a mechanism for sharing public data and to facilitate the lawful use of public data by e-commerce operators."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The State supports credit evaluation institutions established in accordance with law in carrying out e-commerce credit evaluation and providing e-commerce credit evaluation services to society."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The State shall promote the development of cross-border e-commerce, establish and improve management systems for customs, taxation, inspection and quarantine of imports and exports, payment and settlement and the like that suit the characteristics of cross-border e-commerce, raise the level of facilitation of all links in cross-border e-commerce, and support cross-border e-commerce platform operators and others in providing services such as warehousing and logistics, customs declaration and inspection declaration for cross-border e-commerce.\nThe State supports small and micro enterprises in engaging in cross-border e-commerce."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The import and export administration departments of the State shall advance the development of systems for comprehensive services and supervision in such links of cross-border e-commerce as customs declaration, tax payment, inspection and quarantine, optimise supervision procedures, promote the sharing of information, mutual recognition of supervision and mutual assistance in law enforcement, and improve the efficiency of cross-border e-commerce services and supervision. Cross-border e-commerce operators may complete the relevant procedures with the import and export administration departments of the State by means of electronic documents."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The State shall promote the establishment of exchanges and cooperation in cross-border e-commerce with different countries and regions, participate in the formulation of international rules on e-commerce and promote international mutual recognition of electronic signatures, electronic identities and the like.\nThe State shall promote the establishment of mechanisms for resolving cross-border e-commerce disputes with different countries and regions."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Promotion of E-commerce"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where an e-commerce operator selling goods or providing services fails to perform its contractual obligations, or performs its contractual obligations in a manner inconsistent with the agreement, or causes damage to others, it shall bear civil liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where an e-commerce operator, in violation of the provisions of Article 12 or Article 13 of this Law, engages in business activities without obtaining the relevant administrative licence, or sells or provides goods or services whose trading is prohibited by laws or administrative regulations, or fails to perform the obligation to provide information under Article 25 of this Law, or where an e-commerce platform operator, in violation of the provisions of Article 46 of this Law, conducts transactions by centralised trading methods or conducts standardised contract transactions, a penalty shall be imposed in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where an e-commerce operator, in violation of the provisions of this Law, commits any of the following acts, the market supervision and administration department shall order correction within a specified time limit and may impose a fine of not more than RMB 10,000; where the operator is an e-commerce platform operator, a penalty shall be imposed in accordance with the provisions of the first paragraph of Article 81 of this Law:\n(1) Failing to publish in a prominent position on the home page information on the business licence, information on administrative licences, information to the effect that registration as a market entity is not required, or a link to such information;\n(2) Failing to continuously publish in a prominent position on the home page the relevant information on the termination of e-commerce business;\n(3) Failing to clearly state the manner and procedures for users to inquire about, correct or delete their information and to cancel their accounts, or setting unreasonable conditions for such inquiry, correction or deletion or for cancellation of accounts.\nWhere an e-commerce platform operator fails to take the necessary measures against an operator on the platform that violates the provisions of the preceding paragraph, the market supervision and administration department shall order correction within a specified time limit and may impose a fine of not less than RMB 20,000 but not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where an e-commerce operator, in violation of the provisions of the first paragraph of Article 18 of this Law, provides search results, or, in violation of the provisions of Article 19 of this Law, bundles goods or services, the market supervision and administration department shall order correction within a specified time limit, confiscate the illegal gains and may also impose a fine of not less than RMB 50,000 but not more than RMB 200,000; where the circumstances are serious, a fine of not less than RMB 200,000 but not more than RMB 500,000 shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where an e-commerce operator, in violation of the provisions of Article 21 of this Law, fails to clearly state to consumers the manner and procedures for refunding deposits, sets unreasonable conditions for the refund of deposits, or fails to refund deposits promptly, the competent departments concerned shall order correction within a specified time limit and may impose a fine of not less than RMB 50,000 but not more than RMB 200,000; where the circumstances are serious, a fine of not less than RMB 200,000 but not more than RMB 500,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where an e-commerce operator violates the provisions of laws or administrative regulations on the protection of personal information, or fails to perform the obligations to safeguard cybersecurity prescribed in Article 30 of this Law and in the relevant laws and administrative regulations, a penalty shall be imposed in accordance with the provisions of the Cybersecurity Law of the People's Republic of China and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where an e-commerce platform operator commits any of the following acts, the competent departments concerned shall order correction within a specified time limit; where correction is not made upon the expiry of the time limit, a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed; where the circumstances are serious, it shall be ordered to suspend business for rectification and a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed:\n(1) Failing to perform the obligation of verification and registration prescribed in Article 27 of this Law;\n(2) Failing to report the relevant information to the market supervision and administration department and the tax authorities in accordance with Article 28 of this Law;\n(3) Failing to take the necessary measures to deal with the circumstances in violation of law in accordance with Article 29 of this Law, or failing to report to the competent departments concerned;\n(4) Failing to perform the obligation to preserve information on goods and services and on transactions prescribed in Article 31 of this Law.\nWhere laws or administrative regulations provide otherwise for penalties for the acts in violation of law specified in the preceding paragraph, those provisions shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where an e-commerce platform operator, in violation of the provisions of this Law, commits any of the following acts, the market supervision and administration department shall order correction within a specified time limit and may impose a fine of not less than RMB 20,000 but not more than RMB 100,000; where the circumstances are serious, a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed:\n(1) Failing to continuously publish in a prominent position on the home page information on the platform service agreements and transaction rules or a link to such information;\n(2) Amending transaction rules without soliciting public opinions in a prominent position on the home page, without making the amended content public in advance within the prescribed time, or obstructing the withdrawal of operators on the platform;\n(3) Failing to clearly distinguish and mark self-operated business and the business carried out by operators on the platform;\n(4) Failing to provide consumers with a channel to evaluate the goods sold or services provided on the platform, or deleting consumers' evaluations without authorisation.\nWhere an e-commerce platform operator, in violation of the provisions of Article 40 of this Law, fails to clearly indicate the word \"advertisement\" for goods or services ranked by bidding, a penalty shall be imposed in accordance with the provisions of the Advertising Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where an e-commerce platform operator, in violation of the provisions of Article 35 of this Law, imposes unreasonable restrictions or additional unreasonable conditions on transactions conducted by operators on the platform within the platform, on transaction prices or on transactions with other operators, or charges unreasonable fees to operators on the platform, the market supervision and administration department shall order correction within a specified time limit and may impose a fine of not less than RMB 50,000 but not more than RMB 500,000; where the circumstances are serious, a fine of not less than RMB 500,000 but not more than RMB 2,000,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where an e-commerce platform operator, in violation of the provisions of Article 38 of this Law, fails to take the necessary measures against acts of operators on the platform infringing upon the lawful rights and interests of consumers, or fails to perform its obligation to examine the qualifications of operators on the platform, or fails to perform its obligation to safeguard the safety of consumers, the market supervision and administration department shall order correction within a specified time limit and may impose a fine of not less than RMB 50,000 but not more than RMB 500,000; where the circumstances are serious, it shall be ordered to suspend business for rectification and a fine of not less than RMB 500,000 but not more than RMB 2,000,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where an e-commerce platform operator, in violation of the provisions of Article 42 or Article 45 of this Law, fails to take the necessary measures in accordance with law against acts of operators on the platform infringing upon intellectual property rights, the relevant administrative department for intellectual property rights shall order correction within a specified time limit; where correction is not made upon the expiry of the time limit, a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed; where the circumstances are serious, a fine of not less than RMB 500,000 but not more than RMB 2,000,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where an e-commerce operator, in violation of the provisions of this Law, sells goods or provides services that do not meet the requirements for safeguarding personal and property safety, commits unfair competition acts such as false or misleading commercial publicity, abuses its dominant market position, or commits acts infringing upon intellectual property rights or upon consumers' rights and interests, a penalty shall be imposed in accordance with the provisions of the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where an e-commerce operator commits an act in violation of law specified in this Law, the same shall be recorded in its credit file in accordance with the provisions of the relevant laws and administrative regulations and shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where the staff of departments that are lawfully responsible for the supervision and administration of e-commerce neglect their duties, abuse their functions and powers, engage in malpractice for personal gain, or divulge, sell or illegally provide to others personal information, privacy or trade secrets they learn of in the performance of their duties, legal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes an act in violation of public security administration, a penalty for the administration of public security shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2019."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0083'] = {
+    "lawId": "CN-LAW-0083",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 113 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to strengthen the administration of animal epidemic prevention activities, prevent, control, purify and eliminate animal epidemics, promote the development of the raising industry, prevent and control zoonotic infectious diseases and safeguard public health safety and human health."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to animal epidemic prevention and the supervision and administration thereof within the territory of the People's Republic of China.\nThe quarantine of animals and animal products entering or leaving the territory shall be governed by the Law of the People's Republic of China on the Quarantine of Animals and Plants Entering and Leaving the Territory."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of this Law, animals mean domestic livestock and poultry and other animals raised or captured by humans.\nFor the purposes of this Law, animal products mean the meat, raw hides, raw wool, down, organs, fat, blood, semen, eggs, embryos, bones, hooves, heads, horns and tendons of animals, and milk, eggs and the like that may transmit animal epidemics.\nFor the purposes of this Law, animal epidemics mean infectious diseases of animals, including parasitic diseases.\nFor the purposes of this Law, animal epidemic prevention means the prevention, control, diagnosis and treatment, purification and elimination of animal epidemics, the quarantine of animals and animal products, and the harmless treatment of dead animals and diseased animal products."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "According to the degree of harm that animal epidemics cause to the production of the raising industry and to human health, the animal epidemics specified in this Law shall be divided into the following three classes:\n(1) Class I epidemics mean foot-and-mouth disease, African swine fever, highly pathogenic avian influenza and the like which cause especially serious harm to humans and animals, may cause major economic losses and social impact and require the adoption of urgent and stringent compulsory preventive and control measures;\n(2) Class II epidemics mean rabies, brucellosis, grass carp haemorrhagic disease and the like which cause serious harm to humans and animals, may cause relatively large economic losses and social impact and require the adoption of strict preventive and control measures;\n(3) Class III epidemics mean colibacillosis, avian tuberculosis, soft-shelled turtle parotitis and the like which are common and frequently occurring, cause harm to humans and animals, may cause a certain degree of economic losses and social impact and require prompt prevention and control.\nThe catalogue of the specific diseases of the Class I, Class II and Class III animal epidemics in the preceding paragraph shall be formulated and published by the competent department of agriculture and rural affairs under the State Council. The competent department of agriculture and rural affairs under the State Council shall, in light of the occurrence and prevalence of animal epidemics and the degree of harm, promptly add, reduce or adjust the specific diseases of the Class I, Class II and Class III animal epidemics and publish the same.\nThe catalogue of zoonotic infectious diseases shall be formulated and published by the competent department of agriculture and rural affairs under the State Council together with the competent departments of health, wild animal protection and the like under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Animal epidemic prevention shall follow the policy of putting prevention first and combining prevention with control, purification and elimination."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages all sectors of society to participate in animal epidemic prevention work. People's governments at all levels shall take measures to support units and individuals in participating in activities such as publicity and education on animal epidemic prevention, reporting of epidemic situations, voluntary services and donations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Units and individuals engaged in activities such as the raising, slaughter, operation, isolation and transport of animals and the production, operation, processing and storage of animal products shall, in accordance with this Law and the provisions of the competent department of agriculture and rural affairs under the State Council, carry out animal epidemic prevention work such as immunisation, disinfection, testing, isolation, purification, elimination and harmless treatment, and shall bear the relevant responsibilities for animal epidemic prevention."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at or above the county level shall exercise unified leadership over animal epidemic prevention work, take effective measures to stabilise the grassroots workforce, strengthen the development of the animal epidemic prevention workforce, establish and improve the animal epidemic prevention system, and formulate and organise the implementation of plans for the prevention and treatment of animal epidemics.\nPeople's governments at the township level and subdistrict offices shall organise the masses to carry out the prevention and control of animal epidemics within their jurisdictions, and villagers' committees and residents' committees shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department of agriculture and rural affairs under the State Council shall be in charge of animal epidemic prevention work throughout the country.\nThe competent departments of agriculture and rural affairs of local people's governments at or above the county level shall be in charge of animal epidemic prevention work within their respective administrative areas.\nOther relevant departments of people's governments at or above the county level shall, within the scope of their respective duties, do a good job in animal epidemic prevention work.\nThe functional department for animal health supervision of the military shall be responsible for the epidemic prevention work of animals in active service and animals raised for its own use."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent departments of health of people's governments at or above the county level and the competent departments of agriculture and rural affairs, wild animal protection and the like of the people's governments at the corresponding level shall establish a coordination mechanism for the prevention and treatment of zoonotic infectious diseases.\nThe competent department of agriculture and rural affairs under the State Council and the General Administration of Customs and other departments shall establish a coordination mechanism for preventing the introduction of animal epidemics from outside China."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The animal health supervision institutions of local people's governments at or above the county level shall, in accordance with the provisions of this Law, be responsible for the quarantine of animals and animal products."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "People's governments at or above the county level shall, in accordance with the provisions of the State Council and the principles of overall planning, rational layout and comprehensive establishment, establish animal epidemic prevention and control institutions.\nAnimal epidemic prevention and control institutions shall undertake the technical work of monitoring, testing, diagnosis, epidemiological investigation and reporting of animal epidemics and other preventive and control work, and shall undertake the technical work of purifying and eliminating animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State encourages and supports scientific research on animal epidemics and international cooperation and exchanges, promotes the application of advanced and applicable scientific research results and improves the scientific and technological level of the prevention and treatment of animal epidemics.\nPeople's governments at all levels, the relevant departments and the news media shall strengthen publicity on the laws and regulations on animal epidemic prevention and on knowledge of animal epidemic prevention."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Units and individuals that make contributions to animal epidemic prevention work, the relevant scientific research and the stamping out of animal epidemics shall be commended and rewarded by people's governments at all levels and the relevant departments in accordance with the relevant provisions of the State.\nThe units concerned shall, in accordance with law, pay work-related injury insurance premiums for animal epidemic prevention personnel. Persons who fall ill, become disabled or die as a result of participating in animal epidemic prevention work shall be given subsidies or pensions in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall establish a system for risk assessment of animal epidemics.\nThe competent department of agriculture and rural affairs under the State Council shall, in light of the animal epidemic situation at home and abroad and the need to protect the production of the raising industry and human health, promptly conduct, together with the competent departments of health and the like under the State Council, risk assessment of animal epidemics, and formulate and publish measures and technical specifications for the prevention, control, purification and elimination of animal epidemics.\nThe competent departments of agriculture and rural affairs of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, together with the competent departments of health and the like of the people's governments at the corresponding level, carry out risk assessment of animal epidemics within their respective administrative areas and implement measures for the prevention, control, purification and elimination of animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State shall implement compulsory immunisation against animal epidemics that seriously harm the production of the raising industry and human health.\nThe competent department of agriculture and rural affairs under the State Council shall determine the diseases subject to compulsory immunisation and the areas concerned.\nThe competent departments of agriculture and rural affairs of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall formulate compulsory immunisation plans for their respective administrative areas; they shall, in light of the prevalence of animal epidemics in their respective administrative areas, add diseases and areas for compulsory immunisation and implement them after approval by the people's government at the corresponding level, and shall report the same to the competent department of agriculture and rural affairs under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Units and individuals raising animals shall perform the obligation of compulsory immunisation against animal epidemics, carry out vaccination of animals in accordance with the compulsory immunisation plans and technical specifications, and establish immunisation files and affix livestock and poultry identification in accordance with the relevant provisions of the State so as to ensure traceability.\nWhere animals subject to compulsory vaccination do not meet the requirements for the quality of immunisation and still do not meet such requirements after supplementary vaccination, the units and individuals concerned shall deal with the matter in accordance with the relevant provisions of the State.\nVaccines used for preventive vaccination shall conform to the quality standards of the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent departments of agriculture and rural affairs of local people's governments at or above the county level shall be responsible for organising the implementation of compulsory immunisation plans against animal epidemics and shall supervise and inspect the performance of the obligation of compulsory immunisation by units and individuals raising animals.\nPeople's governments at the township level and subdistrict offices shall organise units and individuals raising animals within their jurisdictions to carry out compulsory immunisation properly and assist in supervision and inspection; villagers' committees and residents' committees shall assist in the relevant work.\nThe competent departments of agriculture and rural affairs of local people's governments at or above the county level shall periodically assess the implementation and effects of the compulsory immunisation plans in their respective administrative areas and make the assessment results public."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall implement a system for the monitoring of animal epidemics and early warning of epidemic situations.\nPeople's governments at or above the county level shall establish and improve monitoring networks for animal epidemics and strengthen the monitoring of animal epidemics.\nThe competent department of agriculture and rural affairs under the State Council shall, together with the relevant departments under the State Council, formulate the national plan for monitoring animal epidemics. The competent departments of agriculture and rural affairs of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the national plan, formulate plans for monitoring animal epidemics in their respective administrative areas.\nAnimal epidemic prevention and control institutions shall, in accordance with the provisions of the competent department of agriculture and rural affairs under the State Council and the plans for monitoring animal epidemics, monitor the occurrence and prevalence of animal epidemics; units and individuals engaged in activities such as the raising, slaughter, operation, isolation and transport of animals and the production, operation, processing, storage and harmless treatment of animal products shall not refuse or obstruct such monitoring.\nThe competent department of agriculture and rural affairs under the State Council and the competent departments of agriculture and rural affairs of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of predictions of the occurrence and trend of prevalence of animal epidemics, issue early warnings of animal epidemics in a timely manner. Local people's governments at all levels shall, upon receiving an early warning of an animal epidemic, promptly take preventive and control measures."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The people's governments of provinces and autonomous regions with land borders shall, in accordance with the needs of animal epidemic prevention and control, reasonably establish monitoring stations for animal epidemics, improve monitoring working mechanisms and prevent the introduction of animal epidemics from outside China.\nThe departments of science and technology, customs and the like shall, in accordance with this Law and the provisions of the relevant laws and regulations, do a good job in monitoring and early warning of animal epidemics and shall periodically exchange information with the competent departments of agriculture and rural affairs and notify them promptly in emergencies.\nPeople's governments at or above the county level shall improve the monitoring system and working mechanisms for epidemic sources and diseases of wild animals and reasonably locate monitoring stations as required; the competent departments of wild animal protection and of agriculture and rural affairs shall, in accordance with the division of duties, do a good job in monitoring epidemic sources and diseases of wild animals and shall periodically exchange information and notify each other promptly in emergencies."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State supports local authorities in establishing animal disease-free zones and encourages animal farms to build biosecurity isolation zones free from specified animal diseases. For animal disease-free zones and biosecurity isolation zones free from specified animal diseases that meet the standards prescribed by the competent department of agriculture and rural affairs under the State Council, the competent department of agriculture and rural affairs under the State Council shall, after acceptance, make them public and supervise and inspect their maintenance.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall formulate and organise the implementation of construction plans for animal disease-free zones in their respective administrative areas. The competent department of agriculture and rural affairs under the State Council shall guide the construction of animal disease-free zones spanning provinces, autonomous regions and municipalities directly under the Central Government.\nThe competent department of agriculture and rural affairs under the State Council shall, in accordance with administrative divisions, the layout of the raising and slaughter industries and the results of risk assessment, implement regional prevention and control of animal epidemics and may take measures such as prohibiting or restricting the cross-regional transport of specific animals and animal products."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The competent department of agriculture and rural affairs under the State Council shall formulate and organise the implementation of plans for the purification and elimination of animal epidemics.\nLocal people's governments at or above the county level shall, in accordance with the plans for the purification and elimination of animal epidemics, formulate and organise the implementation of plans for the purification and elimination of animal epidemics in their respective administrative areas.\nAnimal epidemic prevention and control institutions shall, in accordance with the plans and programmes for the purification and elimination of animal epidemics, carry out technical guidance and training on the purification of animal epidemics and monitor and assess the effects of purification.\nThe State shall advance the purification of animal epidemics and encourage and support units and individuals raising animals in carrying out the purification of animal epidemics. Where units and individuals raising animals meet the purification standards prescribed by the competent department of agriculture and rural affairs under the State Council, the competent department of agriculture and rural affairs of a people's government at or above the provincial level shall make the same public."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Animals for breeding use and for dairy use shall meet the health standards prescribed by the competent department of agriculture and rural affairs under the State Council.\nUnits and individuals raising animals for breeding use and for dairy use shall, in accordance with the requirements of the competent department of agriculture and rural affairs under the State Council, periodically carry out testing for animal epidemics; where the testing results are not up to standard, they shall deal with the matter in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Animal farms and isolation premises, animal slaughter and processing premises and premises for the harmless treatment of animals and animal products shall meet the following animal epidemic prevention conditions:\n(1) The distance of the premises from residential areas, drinking water source areas, schools, hospitals and other public places conforms to the provisions of the competent department of agriculture and rural affairs under the State Council;\n(2) The production and operation areas are closed and isolated, and the engineering design and the relevant processes conform to the requirements of animal epidemic prevention;\n(3) There are sewage and waste treatment facilities appropriate to the scale, facilities and equipment for the harmless treatment of dead animals and diseased animal products or refrigeration and freezing facilities and equipment, and cleaning and disinfection facilities and equipment;\n(4) There are licensed veterinarians or animal epidemic prevention technicians appropriate to the scale;\n(5) There are sound systems for animal epidemic prevention such as isolation and disinfection, purchase and sale records and routine inspections;\n(6) Other animal epidemic prevention conditions prescribed by the competent department of agriculture and rural affairs under the State Council are met.\nIn addition to meeting the conditions prescribed in the preceding paragraph, premises for the harmless treatment of animals and animal products shall also have pathogen testing equipment and testing capability and special transport vehicles conforming to the requirements of animal epidemic prevention."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall implement a system for the examination of animal epidemic prevention conditions.\nTo establish an animal farm or isolation premises, animal slaughter and processing premises or premises for the harmless treatment of animals and animal products, an application shall be submitted to the competent department of agriculture and rural affairs of the local people's government at or above the county level, together with the relevant materials. The competent department of agriculture and rural affairs that accepts the application shall conduct examination in accordance with this Law and the provisions of the Administrative Licensing Law of the People's Republic of China. Where the examination is passed, a certificate of conformity for animal epidemic prevention conditions shall be issued; where it is not passed, the applicant shall be notified with reasons stated.\nThe certificate of conformity for animal epidemic prevention conditions shall state such matters as the name of the applicant, the address of the premises (factory), and the species of animals (animal products)."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Markets trading in animals and animal products shall have the animal epidemic prevention conditions prescribed by the competent department of agriculture and rural affairs under the State Council and shall accept supervision and inspection by the competent departments of agriculture and rural affairs. The specific measures shall be formulated by the competent department of agriculture and rural affairs under the State Council.\nLocal people's governments at or above the county level shall, in light of local conditions, decide to prohibit the live trading of livestock and poultry in specific urban areas."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Means of transport, bedding, packaging and containers for animals and animal products shall meet the animal epidemic prevention requirements prescribed by the competent department of agriculture and rural affairs under the State Council.\nInfected animals and their excrement, infected animal products, animal excrement in means of transport and contaminated articles such as bedding, packaging and containers shall be dealt with in accordance with the relevant provisions of the State and shall not be disposed of at will."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The collection, preservation and transport of animal pathological materials or pathogenic microorganisms and activities such as research, teaching, testing and diagnosis involving pathogenic microorganisms shall comply with the provisions of the State on the administration of pathogenic microorganism laboratories."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "It shall be prohibited to slaughter, operate or transport the following animals and to produce, operate, process, store or transport the following animal products:\n(1) Animals and animal products related to the animal epidemic that has occurred within a blockaded epidemic area;\n(2) Susceptible animals and animal products within an epidemic area;\n(3) Animals and animal products that shall be quarantined in accordance with law but have not been quarantined or have failed quarantine;\n(4) Animals and animal products that are infected or suspected of being infected;\n(5) Animals that died of disease or whose cause of death is unknown, and animal products thereof;\n(6) Other animals and animal products that do not conform to the provisions of the competent department of agriculture and rural affairs under the State Council on animal epidemic prevention.\nWhere animals and animal products need to be temporarily stored and transported for centralised harmless treatment and epidemic prevention measures are taken in accordance with the provisions, the provisions of the preceding paragraph shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Units and individuals raising dogs shall, in accordance with the provisions, periodically vaccinate them against rabies and apply to the dog registration authority of the place where they are located for registration on the strength of the immunisation certificate issued by an animal diagnosis and treatment institution.\nPersons taking dogs out of their homes shall, in accordance with the provisions, wear dog tags and take measures such as using a leash so as to prevent dogs from injuring people and from spreading epidemics.\nSubdistrict offices and people's governments at the township level shall organise and coordinate residents' committees and villagers' committees to control and dispose of stray dogs and cats within their jurisdictions so as to prevent the spread of epidemics.\nPeople's governments at the county level, people's governments at the township level and subdistrict offices shall, in light of local realities, do a good job in the administration of epidemic prevention for dogs raised in rural areas.\nThe specific measures for the administration of epidemic prevention for dogs raised shall be formulated by provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Animal Epidemics"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where units and individuals engaged in activities such as the monitoring, testing, inspection and quarantine, research and diagnosis and treatment of animal epidemics and the raising, slaughter, operation, isolation and transport of animals find that an animal is infected or suspected of being infected, they shall immediately report to the competent department of agriculture and rural affairs or the animal epidemic prevention and control institution of the place where they are located, and shall promptly take isolation and other control measures to prevent the spread of the animal epidemic. Where other units and individuals find that an animal is infected or suspected of being infected, they shall promptly report the same.\nUnits that receive reports of animal epidemics shall promptly take necessary measures such as temporary isolation and control so as to avoid delaying prevention and control, and shall promptly report upward in accordance with the procedures prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting, Notification and Publication of Animal Epidemic Situations"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Animal epidemics shall be determined by the competent departments of agriculture and rural affairs of people's governments at or above the county level; among them, major animal epidemics shall be determined by the competent departments of agriculture and rural affairs of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and, when necessary, reported to the competent department of agriculture and rural affairs under the State Council for determination.\nFor the purposes of this Law, major animal epidemics mean situations in which Class I, Class II or Class III animal epidemics occur suddenly and spread rapidly, posing a serious threat or harm to the safety of the production of the raising industry and possibly harming public health and safety of life.\nDuring the period of reporting a major animal epidemic, the local people's government at or above the county level of the place where it occurs may, when necessary, make a blockade decision and take measures such as culling and destruction."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting, Notification and Publication of Animal Epidemic Situations"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall implement a system for the notification of animal epidemics.\nThe competent department of agriculture and rural affairs under the State Council shall promptly notify the competent departments of health and the like under the State Council, the relevant military departments and the competent departments of agriculture and rural affairs of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government of the occurrence and handling of major animal epidemics.\nWhere the customs finds that animals or animal products entering or leaving the territory are infected or suspected of being infected, it shall promptly deal with the matter and notify the competent department of agriculture and rural affairs.\nWhere the competent department of wild animal protection of a local people's government at or above the county level finds that a wild animal is infected or suspected of being infected, it shall promptly deal with the matter and notify the competent department of agriculture and rural affairs of the people's government at the corresponding level.\nThe competent department of agriculture and rural affairs under the State Council shall, in accordance with the treaties and agreements concluded or acceded to by China, promptly notify the relevant international organisations or trading parties of the occurrence and handling of major animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting, Notification and Publication of Animal Epidemic Situations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a zoonotic infectious disease occurs, the competent departments of agriculture and rural affairs of people's governments at or above the county level and the competent departments of health, wild animal protection and the like of the people's governments at the corresponding level shall promptly notify each other.\nWhere a zoonotic infectious disease occurs, the competent department of health shall monitor the susceptible population in the epidemic area and shall, in accordance with the provisions of the Law of the People's Republic of China on the Prevention and Treatment of Infectious Diseases, promptly publish the epidemic situation and take the corresponding preventive and control measures."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting, Notification and Publication of Animal Epidemic Situations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Persons suffering from zoonotic infectious diseases shall not directly engage in activities such as the monitoring, testing, inspection and quarantine and diagnosis and treatment of animal epidemics and the raising, slaughter, operation, isolation and transport of susceptible animals."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting, Notification and Publication of Animal Epidemic Situations"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The competent department of agriculture and rural affairs under the State Council shall promptly publish the national animal epidemic situation to society and may, as required, authorise the competent departments of agriculture and rural affairs of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government to publish the animal epidemic situation in their respective administrative areas. No other unit or individual may publish an animal epidemic situation."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting, Notification and Publication of Animal Epidemic Situations"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "No unit or individual shall conceal, falsely report, delay or omit the reporting of an animal epidemic, instigate another person to conceal, falsely report, delay or omit the reporting of an animal epidemic, or obstruct another person from reporting an animal epidemic."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting, Notification and Publication of Animal Epidemic Situations"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a Class I animal epidemic occurs, the following control measures shall be taken:\n(1) The competent department of agriculture and rural affairs of the local people's government at or above the county level shall immediately send personnel to the scene, delimit the epidemic spot, the epidemic area and the threatened area, investigate the source of the epidemic, and promptly request the people's government at the corresponding level to impose a blockade on the epidemic area. Where the epidemic area involves two or more administrative areas, the people's government at the next higher level common to the administrative areas concerned shall impose a blockade on the epidemic area, or the people's governments at the next higher level of the respective administrative areas concerned shall jointly impose a blockade on the epidemic area. When necessary, a people's government at a higher level may instruct a people's government at a lower level to impose a blockade on the epidemic area;\n(2) The local people's government at or above the county level shall immediately organise the relevant departments and units to take compulsory measures such as blockade, isolation, culling, destruction, disinfection, harmless treatment and emergency vaccination;\n(3) During the blockade, infected, suspected infected and susceptible animals and animal products shall be prohibited from leaving the epidemic area, susceptible animals from outside the epidemic area shall be prohibited from entering the epidemic area, and disinfection and other restrictive measures shall be taken as required with respect to persons, means of transport and related articles entering and leaving the epidemic area."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a Class II animal epidemic occurs, the following control measures shall be taken:\n(1) The competent department of agriculture and rural affairs of the local people's government at or above the county level shall delimit the epidemic spot, the epidemic area and the threatened area;\n(2) The local people's government at or above the county level shall, as required, organise the relevant departments and units to take measures such as isolation, culling, destruction, disinfection, harmless treatment, emergency vaccination and restriction of the entry and exit of susceptible animals, animal products and related articles."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The lifting of an epidemic spot, an epidemic area and a threatened area and the removal of a blockade on an epidemic area shall, after assessment in accordance with the standards and procedures prescribed by the competent department of agriculture and rural affairs under the State Council, be decided and announced by the organ that originally made the decision."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a Class III animal epidemic occurs, the people's government at the county level and at the township level of the place where it occurs shall organise prevention and treatment in accordance with the provisions of the competent department of agriculture and rural affairs under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where Class II or Class III animal epidemics break out in an explosive manner and become prevalent, they shall be dealt with as Class I animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Units and individuals concerned within an epidemic area shall comply with the provisions on the control of animal epidemics lawfully made by the people's government at or above the county level and its competent department of agriculture and rural affairs.\nNo unit or individual shall conceal, transfer or secretly dig up animals and animal products that have been lawfully isolated, sealed up or disposed of."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an animal epidemic occurs, aviation, railway, road and waterway transport enterprises shall give priority to organising the transport of epidemic prevention personnel and materials."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The competent department of agriculture and rural affairs under the State Council shall, in accordance with the nature and characteristics of animal epidemics and the social harm they may cause, formulate a national emergency response plan for major animal epidemics for approval by the State Council, and shall formulate implementation programmes respectively according to the different diseases, prevalence characteristics and degrees of harm of animal epidemics.\nLocal people's governments at or above the county level shall, in accordance with the emergency response plans for major animal epidemics of higher levels and the actual local situation, formulate emergency response plans for major animal epidemics in their respective administrative areas, report them to the competent department of agriculture and rural affairs of the people's government at the next higher level for the record and copy them to the emergency management department of the people's government at the next higher level. The competent departments of agriculture and rural affairs of local people's governments at or above the county level shall formulate implementation programmes respectively according to the different diseases, prevalence characteristics and degrees of harm of animal epidemics.\nEmergency response plans and implementation programmes for major animal epidemics shall be adjusted promptly in light of the epidemic situation."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a major animal epidemic occurs, the competent department of agriculture and rural affairs under the State Council shall be responsible for delimiting animal epidemic risk areas and shall prohibit or restrict the transport of specific animals and animal products from high-risk areas to low-risk areas."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a major animal epidemic occurs, emergency response measures shall be taken in accordance with the law and the provisions of the State Council and the emergency response plans."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Animal Epidemics"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Animal health supervision institutions shall carry out quarantine of animals and animal products in accordance with this Law and the provisions of the competent department of agriculture and rural affairs under the State Council.\nOfficial veterinarians of animal health supervision institutions shall carry out quarantine of animals and animal products."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Before animals are slaughtered, sold or transported, or before animal products are sold or transported, the owner shall apply to the animal health supervision institution of the place where the animals or animal products are located for quarantine in accordance with the provisions of the competent department of agriculture and rural affairs under the State Council.\nUpon receipt of an application for quarantine, the animal health supervision institution shall promptly designate official veterinarians to carry out quarantine of the animals or animal products; where the quarantine is passed, it shall issue a quarantine certificate and affix a quarantine mark. The official veterinarians carrying out the quarantine shall sign or seal the quarantine certificate and quarantine mark and shall be responsible for the quarantine conclusion.\nLicensed veterinarians or animal epidemic prevention technicians of animal farms and slaughter enterprises shall assist official veterinarians in carrying out quarantine."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where wild animals need to be used for non-edible purposes such as scientific research, medicinal use or exhibition under special circumstances, they shall be reported to the animal health supervision institution for quarantine in accordance with the relevant provisions of the State, and may be used only after passing quarantine.\nWhere wild animals are captured by humans, they shall be reported to the animal health supervision institution of the place of capture for quarantine in accordance with the relevant provisions of the State, and may be raised, operated and transported only after passing quarantine.\nThe competent department of agriculture and rural affairs under the State Council shall, together with the competent department of wild animal protection under the State Council, formulate measures for the quarantine of wild animals."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Animals to be slaughtered, operated or transported, and animals used for non-edible purposes such as scientific research, exhibition, performance and competition, shall be accompanied by quarantine certificates; animal products to be operated and transported shall be accompanied by quarantine certificates and quarantine marks."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where animals and animal products are transported by air, railway, road or waterway, the consignor shall provide a quarantine certificate when consigning them; where there is no quarantine certificate, the carrier shall not undertake the carriage.\nFor animals and animal products imported or exported, the carrier shall transport them on the strength of the import customs declaration documents or the quarantine documents issued by the customs.\nUnits and individuals engaged in the transport of animals and the vehicles used shall be recorded with the competent department of agriculture and rural affairs of the local people's government at the county level, and shall properly keep the route of the journey and information such as the names of the animals, the numbers of the quarantine certificates and the quantities provided by the consignor. The specific measures shall be formulated by the competent department of agriculture and rural affairs under the State Council.\nMeans of transport shall be cleaned and disinfected promptly before loading and after unloading."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall determine and publish the designated routes through which animals transported by road enter their respective administrative areas, and shall set up guiding signs. Where animals are transported by road across provinces, autonomous regions or municipalities directly under the Central Government, they shall enter or pass through the province through the designated routes established by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "For animals and animal products introduced into an animal disease-free zone, the owner shall apply to the animal health supervision institution of the place where the animal disease-free zone is located for quarantine in accordance with the provisions of the competent department of agriculture and rural affairs under the State Council, and they may enter only after passing quarantine."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where animals for breeding use or for dairy use are introduced across provinces, autonomous regions or municipalities directly under the Central Government, the owner shall, after the animals arrive at the place of destination, carry out isolation and observation of the introduced animals in accordance with the provisions of the competent department of agriculture and rural affairs under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "For animals and animal products that fail quarantine, the owner shall, under the supervision of the competent department of agriculture and rural affairs, deal with them in accordance with the relevant provisions of the State, and the costs of handling shall be borne by the owner."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Quarantine of Animals and Animal Products"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Units and individuals engaged in activities such as the raising, slaughter, operation and isolation of animals and the production, operation, processing and storage of animal products shall, in accordance with the relevant provisions of the State, carry out the harmless treatment of dead animals and diseased animal products, or entrust a place for the harmless treatment of animals and animal products to carry out such treatment.\nUnits and individuals engaged in the transport of animals and animal products shall cooperate in the harmless treatment of dead animals and diseased animal products, and may not, in the course of transport, wilfully abandon or themselves dispose of the animals and animal products concerned.\nNo unit or individual may buy or sell, process or wilfully abandon dead animals or diseased animal products.\nThe measures for the administration of the harmless treatment of animals and animal products shall be formulated by the competent departments of agriculture and rural affairs and of wild animal protection under the State Council according to their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Harmless Treatment of Dead Animals and Diseased Animal Products"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where dead livestock and poultry are found in waters such as rivers, lakes and reservoirs, the people's government at the county level of the place where they are found shall organise their collection and treatment and trace their origin.\nWhere dead livestock and poultry are found in urban public places or in rural areas, the sub-district office or the people's government at the township level of the place where they are found shall organise their collection and treatment and trace their origin.\nWhere dead wild animals are found in the wild, the competent department of wild animal protection of the place where they are found shall collect and treat them."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Harmless Treatment of Dead Animals and Diseased Animal Products"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall formulate plans for the construction of places for the centralised harmless treatment of animals and animal products, and establish a harmless treatment mechanism led by the government and operated in a market-based manner."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Harmless Treatment of Dead Animals and Diseased Animal Products"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Governments at all levels shall provide subsidies, through their public finances, for the harmless treatment of dead animals. The specific standards and measures for the subsidies shall be formulated by the public finance department of the people's government at or above the county level together with the competent departments of agriculture and rural affairs, wild animal protection and the like of the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Harmless Treatment of Dead Animals and Diseased Animal Products"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "An institution engaged in animal diagnosis and treatment activities shall meet the following conditions:\n(1) it has premises commensurate with its animal diagnosis and treatment activities and conforming to the conditions for animal epidemic prevention;\n(2) it has licensed veterinarians commensurate with its animal diagnosis and treatment activities;\n(3) it has veterinary instruments and equipment commensurate with its animal diagnosis and treatment activities;\n(4) it has sound management systems.\nAnimal diagnosis and treatment institutions include animal hospitals, animal clinics and other institutions providing animal diagnosis and treatment services."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Animal Diagnosis and Treatment"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "An institution engaged in animal diagnosis and treatment activities shall apply to the competent department of agriculture and rural affairs of the local people's government at or above the county level for an animal diagnosis and treatment licence. The competent department of agriculture and rural affairs accepting the application shall conduct an examination in accordance with this Law and the provisions of the Administrative Licensing Law of the People's Republic of China. Where the examination is passed, it shall issue an animal diagnosis and treatment licence; where the examination is not passed, it shall notify the applicant and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Animal Diagnosis and Treatment"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The animal diagnosis and treatment licence shall state such particulars as the name of the diagnosis and treatment institution, the scope of diagnosis and treatment activities, the place of practice and the legal representative (person in charge).\nWhere the particulars stated in the animal diagnosis and treatment licence are changed, an application shall be made to modify or renew the animal diagnosis and treatment licence."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Animal Diagnosis and Treatment"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Animal diagnosis and treatment institutions shall, in accordance with the provisions of the competent department of agriculture and rural affairs under the State Council, properly carry out health and safety protection, disinfection, isolation and the disposal of diagnosis and treatment waste in the course of diagnosis and treatment activities."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Animal Diagnosis and Treatment"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "In carrying out animal diagnosis and treatment activities, the operational and technical specifications for animal diagnosis and treatment shall be observed, and veterinary drugs and veterinary instruments conforming to the provisions shall be used.\nThe measures for the administration of veterinary drugs and veterinary instruments shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Animal Diagnosis and Treatment"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State applies a system for the appointment of official veterinarians.\nOfficial veterinarians shall meet the conditions prescribed by the competent department of agriculture and rural affairs under the State Council, be confirmed in accordance with the procedures by the competent department of agriculture and rural affairs of the people's government of the province, autonomous region or municipality directly under the Central Government, and be appointed by the competent department of agriculture and rural affairs of the local people's government at or above the county level. The specific measures shall be formulated by the competent department of agriculture and rural affairs under the State Council.\nOfficial veterinarians of the customs shall meet the prescribed conditions and shall be appointed by the General Administration of Customs. The specific measures shall be formulated by the General Administration of Customs together with the competent department of agriculture and rural affairs under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Administration of Veterinary Practitioners"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Official veterinarians shall, in accordance with the law, perform their duties of quarantining animals and animal products, and no unit or individual may refuse or obstruct such performance."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Administration of Veterinary Practitioners"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The competent department of agriculture and rural affairs of the people's government at or above the county level shall formulate training plans for official veterinarians, provide training conditions and regularly train and assess official veterinarians."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Administration of Veterinary Practitioners"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State applies a system of qualification examinations for licensed veterinarians. Persons with a college diploma or a higher educational background in a veterinary specialty, or village veterinarians meeting the relevant conditions, who pass the qualification examination for licensed veterinarians shall be issued a licensed veterinarian qualification certificate by the competent department of agriculture and rural affairs of the people's government of the province, autonomous region or municipality directly under the Central Government; where they engage in animal diagnosis and treatment or other business activities, they shall additionally file a record with the competent department of agriculture and rural affairs of the local people's government at the county level.\nThe measures for the qualification examination for licensed veterinarians shall be formulated by the competent department of agriculture and rural affairs under the State Council after consultation with the competent department of human resources under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Administration of Veterinary Practitioners"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "A licensed veterinarian issuing a veterinary prescription shall make the diagnosis in person and shall be responsible for the diagnostic conclusion.\nThe State encourages licensed veterinarians to receive continuing education. The institutions in which licensed veterinarians work shall support licensed veterinarians in participating in continuing education."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Administration of Veterinary Practitioners"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Village veterinarians may engage in animal diagnosis and treatment activities in rural areas. The specific measures for administration shall be formulated by the competent department of agriculture and rural affairs under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Administration of Veterinary Practitioners"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Licensed veterinarians and village veterinarians shall, in accordance with the requirements of the local people's government and the competent department of agriculture and rural affairs, participate in activities such as the prevention and control of animal epidemics and the stamping out of animal epidemic situations."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Administration of Veterinary Practitioners"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Veterinary industry associations shall provide services such as veterinary information, technology and training, safeguard the lawful rights and interests of their members, establish and improve industry norms and reward and punishment mechanisms in accordance with their articles of association, strengthen industry self-discipline, promote the building of industry integrity, and publicise knowledge of animal epidemic prevention and veterinary medicine."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Administration of Veterinary Practitioners"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The competent department of agriculture and rural affairs of the local people's government at or above the county level shall, in accordance with the provisions of this Law, supervise and administer animal epidemic prevention in activities such as the raising, slaughter, operation, isolation and transport of animals and the production, operation, processing, storage and transport of animal products."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Administration"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "In order to control animal epidemics, the competent department of agriculture and rural affairs of the people's government at the county level shall assign personnel to carry out supervision and inspection tasks at existing inspection stations lawfully established at the place concerned; where necessary, temporary animal epidemic prevention inspection stations may be established, with the approval of the people's government of the province, autonomous region or municipality directly under the Central Government, to carry out supervision and inspection tasks."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Administration"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "In carrying out supervision and inspection tasks, the competent department of agriculture and rural affairs of the local people's government at or above the county level may adopt the following measures, and the units and individuals concerned may not refuse or obstruct them:\n(1) sampling, holding for examination and random inspection of animals and animal products in accordance with the provisions;\n(2) isolating, sealing up, distraining and disposing of animals, animal products and the relevant articles that are infected or suspected of being infected;\n(3) carrying out supplementary quarantine of animals and animal products that should have been quarantined in accordance with the law but have not been quarantined, where the conditions for supplementary quarantine are met, and confiscating and destroying them where such conditions are not met;\n(4) checking quarantine certificates, quarantine marks and livestock and poultry identifiers;\n(5) entering the premises concerned to investigate and collect evidence, and consulting and copying materials relating to animal epidemic prevention.\nThe competent department of agriculture and rural affairs of the local people's government at or above the county level may, according to the needs of preventing and controlling animal epidemics and with the approval of the local people's government at or above the county level, station official veterinarians or staff members at stations, ports, airports and other relevant premises."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Administration"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Law enforcement officers carrying out animal epidemic prevention supervision and inspection tasks shall present their administrative law enforcement credentials and wear uniform insignia.\nThe competent department of agriculture and rural affairs of the people's government at or above the county level and its staff members may not engage in business activities relating to animal epidemic prevention, and may not collect any fees in carrying out supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Administration"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "It is prohibited to transfer, forge or alter quarantine certificates, quarantine marks or livestock and poultry identifiers.\nIt is prohibited to hold or use forged or altered quarantine certificates, quarantine marks or livestock and poultry identifiers.\nThe measures for the administration of quarantine certificates and quarantine marks shall be formulated by the competent department of agriculture and rural affairs under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision and Administration"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate animal epidemic prevention work into their economic and social development plans and annual plans at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter X Safeguard Measures"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The State encourages and supports scientific and technological research and development in new technologies, new equipment, new products and the like in the field of animal epidemic prevention."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter X Safeguard Measures"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The people's government at the county level shall provide the animal health supervision institution with official veterinarians commensurate with the quarantine of animals and animal products and ensure the conditions for quarantine work.\nThe competent department of agriculture and rural affairs of the people's government at the county level may, according to the needs of animal epidemic prevention work, station veterinary institutions or staff members in townships, towns or specific areas."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter X Safeguard Measures"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The State encourages and supports licensed veterinarians, village veterinarians and animal diagnosis and treatment institutions in carrying out animal epidemic prevention and epidemic diagnosis and treatment activities; it encourages raising enterprises and enterprises producing veterinary drugs and feed to form animal epidemic prevention service teams to provide epidemic prevention services. Where local people's governments organise village-level epidemic prevention workers to participate in the prevention and control of animal epidemics, they shall ensure reasonable remuneration for the services of such workers."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter X Safeguard Measures"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "People's governments at or above the county level shall, in accordance with the duties of the government at the corresponding level, include in their budgets at the corresponding level the funds needed for the monitoring, prevention, control, purification and elimination of animal epidemics, the quarantine of animals and animal products and the harmless treatment of dead animals, as well as for supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter X Safeguard Measures"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "People's governments at or above the county level shall reserve the epidemic prevention materials needed for emergency handling of animal epidemic situations."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter X Safeguard Measures"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "For animals subject to compulsory culling and animal products and related articles destroyed in the course of preventing, controlling, purifying and eliminating animal epidemics, the people's government at or above the county level shall give compensation. The specific standards and measures for compensation shall be formulated by the public finance department under the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter X Safeguard Measures"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "For personnel engaged in the prevention and quarantine of animal epidemics, supervision and inspection, on-site handling of epidemic situations and work involving contact with animal epidemic pathogens, the units concerned shall, in accordance with the provisions of the State, take effective health protection and medical care measures and grant allowances for livestock and veterinary medical and health work and other relevant benefits."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter X Safeguard Measures"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where local people's governments at all levels and their staff members fail to perform their duties in accordance with the provisions of this Law, disciplinary sanctions shall be imposed in accordance with the law on the persons directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where the competent department of agriculture and rural affairs of a people's government at or above the county level or its staff members, in violation of the provisions of this Law, commit any of the following acts, the people's government at the corresponding level shall order it to make rectification and criticise it in a circular; disciplinary sanctions shall be imposed in accordance with the law on the persons directly in charge and the other persons directly responsible:\n(1) failing to promptly adopt measures such as prevention, control and stamping out;\n(2) issuing an animal epidemic prevention conditions compliance certificate or an animal diagnosis and treatment licence to a person not meeting the conditions, or refusing to issue an animal epidemic prevention conditions compliance certificate or an animal diagnosis and treatment licence to a person meeting the conditions;\n(3) engaging in business activities relating to animal epidemic prevention or unlawfully collecting fees;\n(4) other acts of failing to perform duties in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where an animal health supervision institution or its staff members, in violation of the provisions of this Law, commit any of the following acts, the people's government at the corresponding level or the competent department of agriculture and rural affairs shall order it to make rectification and criticise it in a circular; disciplinary sanctions shall be imposed in accordance with the law on the persons directly in charge and the other persons directly responsible:\n(1) issuing a quarantine certificate or affixing a quarantine mark to animals or animal products that have not been quarantined or that fail quarantine, or refusing to issue a quarantine certificate or affix a quarantine mark to animals or animal products that pass quarantine;\n(2) repeatedly quarantining animals or animal products accompanied by quarantine certificates and quarantine marks;\n(3) engaging in business activities relating to animal epidemic prevention or unlawfully collecting fees;\n(4) other acts of failing to perform duties in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where an animal epidemic prevention and control institution or its staff members, in violation of the provisions of this Law, commit any of the following acts, the people's government at the corresponding level or the competent department of agriculture and rural affairs shall order it to make rectification and criticise it in a circular; disciplinary sanctions shall be imposed in accordance with the law on the persons directly in charge and the other persons directly responsible:\n(1) failing to perform the duties of monitoring, testing and assessing animal epidemics, or forging the results of monitoring, testing and assessment;\n(2) failing to promptly carry out diagnosis and investigation when an animal epidemic situation occurs;\n(3) failing to promptly adopt measures and report in accordance with the provisions of the State after receiving a report of infection or suspected infection;\n(4) other acts of failing to perform duties in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where local people's governments at all levels, the relevant departments or their staff members conceal, falsely report, delay the reporting of or omit to report animal epidemic situations, or instigate others to conceal, falsely report, delay the reporting of or omit to report animal epidemic situations, or obstruct others from reporting animal epidemic situations, the people's government at the higher level or the relevant department shall order them to make rectification and criticise them in a circular; disciplinary sanctions shall be imposed in accordance with the law on the persons directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following acts is committed, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification within a specified time limit and may impose a fine of not more than RMB 1,000; where rectification is not made at the expiry of the time limit, a fine of not less than RMB 1,000 but not more than RMB 5,000 shall be imposed, and the competent department of agriculture and rural affairs of the local people's government at or above the county level shall entrust an animal diagnosis and treatment institution, a harmless treatment place or the like to handle the matter on its behalf, and the costs incurred shall be borne by the person committing the unlawful act:\n(1) failing to carry out vaccination of raised animals in accordance with the compulsory animal epidemic immunisation plan or the technical specifications for immunisation;\n(2) failing to regularly carry out epidemic testing of raised animals for breeding use or for dairy use in accordance with the requirements of the competent department of agriculture and rural affairs under the State Council, or failing to deal with animals that fail the testing in accordance with the provisions;\n(3) failing to regularly carry out rabies vaccination of raised dogs in accordance with the provisions;\n(4) failing to promptly clean and disinfect the means of transport for animals and animal products in accordance with the provisions before loading and after unloading."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, no immunisation file is established in accordance with the provisions for animals that have undergone compulsory immunisation, or no livestock and poultry identifier is affixed in accordance with the provisions, the penalty shall be imposed in accordance with the relevant provisions of the Animal Husbandry Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the means of transport, bedding materials, packaging materials, containers and the like for animals and animal products fail to meet the animal epidemic prevention requirements prescribed by the competent department of agriculture and rural affairs under the State Council, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification and may impose a fine of not more than RMB 5,000; where the circumstances are serious, a fine of not less than RMB 5,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, infected animals and their excreta, infected animal products, or means of transport, bedding materials, packaging materials, containers and the like contaminated by infected animals or animal products are not disposed of in accordance with the provisions, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order disposal within a specified time limit; where disposal is not carried out at the expiry of the time limit, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall entrust the unit concerned to dispose of them on its behalf, the costs incurred shall be borne by the person committing the unlawful act, and a fine of not less than RMB 5,000 but not more than RMB 50,000 shall be imposed.\nWhere environmental pollution or ecological damage is caused, the penalty shall be imposed in accordance with the relevant laws and regulations on environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person suffering from a zoonotic infectious disease directly engages in animal epidemic monitoring, testing, inspection and quarantine, animal diagnosis and treatment, or the raising, slaughter, operation, isolation and transport of animals susceptible to infection, the competent department of agriculture and rural affairs or of wild animal protection of the local people's government at or above the county level shall order rectification; where rectification is refused, a fine of not less than RMB 1,000 but not more than RMB 10,000 shall be imposed; where the circumstances are serious, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 29 of this Law, a person slaughters, operates or transports animals, or produces, operates, processes, stores or transports animal products, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification and the adoption of remedial measures, confiscate the illegal gains, the animals and the animal products, and impose a fine of not less than 15 times but not more than 30 times the value of the like animals and animal products that have passed quarantine; where the value of the like animals and animal products that have passed quarantine is less than RMB 10,000, a fine of not less than RMB 50,000 but not more than RMB 150,000 shall be imposed; where the animals and animal products should have been quarantined in accordance with the law but were not quarantined, the penalty shall be imposed in accordance with the provisions of Article 100 of this Law.\nThe person committing the unlawful act specified in the preceding paragraph, its legal representative (person in charge), the persons directly in charge and the other persons directly responsible may not engage in the relevant activities within five years from the date on which the decision on penalty is made; where a crime is constituted, they may never engage in the relevant activities such as the slaughter, operation or transport of animals or the production, operation, processing, storage or transport of animal products."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following acts is committed, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification and impose a fine of not less than RMB 3,000 but not more than RMB 30,000; where the circumstances are serious, it shall order suspension of business for rectification and impose a fine of not less than RMB 30,000 but not more than RMB 100,000:\n(1) establishing an animal raising farm or isolation place, an animal slaughter and processing place, or a place for the harmless treatment of animals and animal products without obtaining an animal epidemic prevention conditions compliance certificate;\n(2) a farmers' market for the operation of animals and animal products not meeting the epidemic prevention conditions prescribed by the competent department of agriculture and rural affairs under the State Council;\n(3) engaging in the transport of animals without filing a record;\n(4) failing to keep, in accordance with the provisions, the route of the journey and information such as the names of the animals, the numbers of the quarantine certificates and the quantities provided by the consignor;\n(5) introducing animals or animal products into an animal disease-free zone without passing quarantine;\n(6) failing to carry out isolation and observation in accordance with the provisions after animals for breeding use or for dairy use introduced across provinces, autonomous regions or municipalities directly under the Central Government arrive at the place of destination;\n(7) failing to dispose of dead animals or diseased animal products in accordance with the provisions, or wilfully abandoning them."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where an animal raising farm or isolation place, an animal slaughter and processing place, or a place for the harmless treatment of animals and animal products, after changes occur in its production and operating conditions, no longer meets the animal epidemic prevention conditions specified in Article 24 of this Law and continues to engage in the relevant activities, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall give a warning and order rectification within a specified time limit; where the prescribed conditions are still not met at the expiry of the time limit, it shall revoke the animal epidemic prevention conditions compliance certificate and notify the department of market regulation to deal with the matter in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, animals slaughtered, operated or transported are not accompanied by quarantine certificates, or animal products operated or transported are not accompanied by quarantine certificates and quarantine marks, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification and impose a fine of not more than one time the value of the like animals and animal products that have passed quarantine; it shall impose on a carrier other than the owner a fine of not less than three times but not more than five times the transport charges, and where the circumstances are serious, a fine of not less than five times but not more than ten times the transport charges.\nWhere, in violation of the provisions of this Law, animals used for non-edible purposes such as scientific research, exhibition, performance and competition are not accompanied by quarantine certificates, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification and impose a fine of not less than RMB 3,000 but not more than RMB 10,000."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, specific animals or animal products whose transfer is prohibited or restricted are transferred from an area of high risk of animal epidemics to an area of low risk, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall confiscate the transport charges and the unlawfully transported animals and animal products, and impose a fine of not less than one time but not more than five times the transport charges."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, animals are transported by road across provinces, autonomous regions or municipalities directly under the Central Government and enter or pass through the province not through the designated routes established by the people's government of the province, autonomous region or municipality directly under the Central Government, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall impose on the transporter a fine of not less than RMB 5,000 but not more than RMB 10,000; where the circumstances are serious, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person transfers, forges or alters quarantine certificates, quarantine marks or livestock and poultry identifiers, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall confiscate the illegal gains and the quarantine certificates, quarantine marks and livestock and poultry identifiers, and impose a fine of not less than RMB 5,000 but not more than RMB 50,000.\nWhere a person holds or uses forged or altered quarantine certificates, quarantine marks or livestock and poultry identifiers, the competent department of agriculture and rural affairs of the people's government at or above the county level shall confiscate the quarantine certificates, quarantine marks and livestock and poultry identifiers and the corresponding animals and animal products, and impose a fine of not less than RMB 3,000 but not more than RMB 30,000."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following acts is committed, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification and impose a fine of not less than RMB 3,000 but not more than RMB 30,000:\n(1) releasing information on an animal epidemic situation without authorisation;\n(2) failing to comply with the provisions on the control of animal epidemics lawfully made by the people's government at or above the county level and its competent department of agriculture and rural affairs;\n(3) concealing, transferring or unlawfully excavating animals and animal products that have been lawfully isolated, sealed up or disposed of."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person engages in animal diagnosis and treatment activities without obtaining an animal diagnosis and treatment licence, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order the cessation of the diagnosis and treatment activities, confiscate the illegal gains and impose a fine of not less than one time but not more than three times the illegal gains; where the illegal gains are less than RMB 30,000, a fine of not less than RMB 3,000 but not more than RMB 30,000 shall be imposed.\nWhere an animal diagnosis and treatment institution, in violation of the provisions of this Law, fails to carry out health and safety protection, disinfection, isolation and the disposal of diagnosis and treatment waste in accordance with the provisions, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification and impose a fine of not less than RMB 1,000 but not more than RMB 10,000; where the spread of an animal epidemic is caused, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed; where the circumstances are serious, the animal diagnosis and treatment licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person engages in business animal diagnosis and treatment activities without filing a record as a licensed veterinarian, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order the cessation of the animal diagnosis and treatment activities, confiscate the illegal gains and impose a fine of not less than RMB 3,000 but not more than RMB 30,000; it shall impose on the animal diagnosis and treatment institution in which the person works a fine of not less than RMB 10,000 but not more than RMB 50,000.\nWhere a licensed veterinarian commits any of the following acts, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall give a warning and order suspension of animal diagnosis and treatment activities for not less than six months but not more than one year; where the circumstances are serious, the licensed veterinarian qualification certificate shall be revoked:\n(1) violating the operational and technical specifications for animal diagnosis and treatment, thereby causing or possibly causing the spread or prevalence of an animal epidemic;\n(2) using veterinary drugs and veterinary instruments not conforming to the provisions;\n(3) failing to participate in the prevention and control of animal epidemics and the stamping out of animal epidemic situations as required by the local people's government or the competent department of agriculture and rural affairs."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person produces or operates veterinary instruments and the product quality fails to meet the requirements, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification within a specified time limit; where the circumstances are serious, it shall order suspension of business for rectification and impose a fine of not less than RMB 20,000 but not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a unit or individual engaged in activities such as research on animal epidemics, diagnosis and treatment, the raising, slaughter, operation, isolation and transport of animals, and the production, operation, processing, storage and harmless treatment of animal products commits any of the following acts, the competent department of agriculture and rural affairs of the local people's government at or above the county level shall order rectification and may impose a fine of not more than RMB 10,000; where rectification is refused, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed, and suspension of business for rectification may be ordered:\n(1) discovering that an animal is infected or suspected of being infected and failing to report, or failing to adopt control measures such as isolation;\n(2) failing to truthfully provide materials relating to animal epidemic prevention;\n(3) refusing or obstructing supervision and inspection by the competent department of agriculture and rural affairs;\n(4) refusing or obstructing the monitoring, testing and assessment of animal epidemics by an animal epidemic prevention and control institution;\n(5) refusing or obstructing an official veterinarian in performing duties in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the spread or prevalence of a zoonotic infectious disease is caused, disciplinary sanctions and penalties shall be imposed more severely in accordance with the law.\nWhere, in violation of the provisions of this Law, an act in violation of the administration of public security is constituted, a penalty for the administration of public security shall be imposed in accordance with the law; where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nWhere, in violation of the provisions of this Law, personal injury or property damage is caused to another person, civil liability shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\n(1) an animal disease-free zone means an area which, by virtue of natural barriers or artificial measures, has been free from one or several specified animal epidemics for a certain period and has passed the acceptance inspection;\n(2) an animal disease-free biosecurity isolation zone means a specific small area constituted by a number of animal raising farms and their auxiliary production premises under the same biosecurity management system which has been free from one or several specified animal epidemics for a certain period and has passed the acceptance inspection;\n(3) dead animals means animals that have died of infection, died of disease, died of unknown causes, or whose death may, upon inspection and quarantine, endanger human or animal health;\n(4) diseased animal products means products derived from dead animals, or animal products that may, upon inspection and quarantine, endanger human or animal health."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The assessment of disease-free equivalence of animal disease-free zones and animal disease-free biosecurity isolation zones outside the territory shall be carried out with reference to the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where there are special requirements for the epidemic prevention of laboratory animals, the relevant provisions on the administration of laboratory animals shall apply."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "This Law shall come into force on 1 May 2021."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0084'] = {
+    "lawId": "CN-LAW-0084",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 45 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution, for the purpose of developing external relations, safeguarding the sovereignty, security and development interests of the state, protecting and advancing the interests of the people, building a modern socialist country that is strong, realising the great rejuvenation of the Chinese nation, promoting world peace and development, and advancing the building of a community with a shared future for mankind."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law shall apply to the development by the People's Republic of China of diplomatic relations and exchanges and cooperation with other countries in such fields as the economy and culture, and of relations with international organisations such as the United Nations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The People's Republic of China adheres to Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the Important Thought on the 'Three Represents', the Scientific Outlook on Development and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era as its guide, develops external relations and promotes friendly exchanges."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The People's Republic of China adheres to the independent foreign policy of peace and to the Five Principles of Peaceful Coexistence, namely mutual respect for sovereignty and territorial integrity, mutual non-aggression, non-interference in each other's internal affairs, equality and mutual benefit, and peaceful coexistence.\nThe People's Republic of China adheres to the path of peaceful development, adheres to the basic state policy of opening up to the outside world, and pursues the open strategy of mutual benefit and win-win results.\nThe People's Republic of China observes the purposes and principles of the Charter of the United Nations, safeguards world peace and security, promotes common global development, and advances the building of a new type of international relations; it advocates the peaceful settlement of international disputes, opposes the use or threat of use of force in international relations, and opposes hegemonism and power politics; it maintains that all countries, regardless of their size, strength or wealth, are equal, and respects the development paths and social systems independently chosen by the people of each country."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The external work of the People's Republic of China adheres to the centralised and unified leadership of the Communist Party of China."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "State organs, the armed forces, all political parties and people's organisations, enterprises and public institutions, other social organisations and citizens have the responsibility and obligation, in exchanges and cooperation with foreign countries, to safeguard the sovereignty, security, dignity, honour and interests of the state."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The state encourages the active development of non-governmental friendly exchanges and cooperation with foreign countries.\nThose who have made outstanding contributions in exchanges and cooperation with foreign countries shall be commended and rewarded in accordance with the relevant provisions of the state."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where any organisation or individual violates this Law and the relevant laws and engages in activities that harm the interests of the state in external exchanges, legal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The central leading organ for foreign affairs work is responsible for decision-making and deliberation and coordination in external work, for studying and formulating and guiding the implementation of the state's external strategy and relevant major principles and policies, and for the top-level design, overall coordination, integral advancement and supervision of the implementation of external work."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers in Foreign Relations"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The National People's Congress and its Standing Committee approve and abrogate treaties and important agreements concluded with foreign countries, and exercise the functions and powers in external relations prescribed by the Constitution and laws.\nThe National People's Congress and its Standing Committee actively conduct external exchanges and strengthen exchanges and cooperation with the parliaments of various countries and international and regional parliamentary organisations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers in Foreign Relations"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The President of the People's Republic of China represents the People's Republic of China, conducts state activities, and exercises the functions and powers in external relations prescribed by the Constitution and laws."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers in Foreign Relations"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State Council administers external affairs, concludes treaties and agreements with foreign countries, and exercises the functions and powers in external relations prescribed by the Constitution and laws."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers in Foreign Relations"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The Central Military Commission organises and conducts international military exchanges and cooperation, and exercises the functions and powers in external relations prescribed by the Constitution and laws."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers in Foreign Relations"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The Ministry of Foreign Affairs of the People's Republic of China handles diplomatic affairs in accordance with the law and undertakes the external exchange matters between the leaders of the Party and the state and foreign leaders. The Ministry of Foreign Affairs strengthens the guidance, coordination, administration and service for the external exchanges and cooperation of the various departments of state organs and of the various regions.\nThe central and state organs conduct external exchanges and cooperation in accordance with their respective division of functions and responsibilities."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers in Foreign Relations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The embassies and consulates of the People's Republic of China stationed in foreign countries and the diplomatic missions stationed abroad, such as the permanent missions to the United Nations and other intergovernmental international organisations, represent the People's Republic of China externally.\nThe Ministry of Foreign Affairs exercises unified leadership over the work of the diplomatic missions stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers in Foreign Relations"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Provinces, autonomous regions and municipalities directly under the Central Government conduct external exchanges and cooperation within a specific scope on the basis of the authorisation of the central authorities.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government handle the external exchange and cooperation affairs of their own administrative areas in accordance with their functions and powers."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers in Foreign Relations"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In developing external relations, the People's Republic of China adheres to safeguarding the socialist system with Chinese characteristics, safeguarding the sovereignty, unity and territorial integrity of the state, and serving the economic and social development of the country."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The People's Republic of China promotes the implementation of the Global Development Initiative, the Global Security Initiative and the Global Civilisation Initiative, and advances an all-dimensional, multi-tiered, wide-ranging and multi-faceted external work configuration.\nThe People's Republic of China promotes coordination among major countries and sound interaction, develops relations with neighbouring countries in accordance with the principle of amity, sincerity, mutual benefit and inclusiveness and the policy of fostering amity and partnership with neighbouring countries, works in unity and cooperation with developing countries in the spirit of sincerity, real results, affinity and good faith and with a correct view on justice and interests, upholds and practises multilateralism, and participates in the reform and development of the global governance system."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The People's Republic of China safeguards the international system centred on the United Nations, the international order based on international law, and the basic norms governing international relations based on the purposes and principles of the Charter of the United Nations.\nThe People's Republic of China adheres to the global governance concept of extensive consultation, joint contribution and shared benefits, participates in the formulation of international rules, promotes the democratisation of international relations, and advances economic globalisation in a direction that is open, inclusive, balanced and beneficial to all and that delivers win-win outcomes."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The People's Republic of China adheres to the vision of common, comprehensive, cooperative and sustainable global security, strengthens international security cooperation, and improves the mechanism for participating in global security governance.\nThe People's Republic of China fulfils its responsibilities as a permanent member of the United Nations Security Council, safeguards international peace and security, and upholds the authority and status of the United Nations Security Council.\nThe People's Republic of China supports and participates in peacekeeping operations authorised by the United Nations Security Council, adheres to the basic principles of peacekeeping operations, respects the territorial integrity and political independence of sovereign states, and maintains an impartial position.\nThe People's Republic of China safeguards the international arms control, disarmament and non-proliferation system, opposes the arms race, opposes and prohibits all forms of proliferation activities relating to weapons of mass destruction, fulfils the relevant international obligations, and conducts international cooperation on non-proliferation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The People's Republic of China adheres to the global development vision of equity and universal benefit, open cooperation, comprehensive coordination, and innovation-driven synergy, and promotes the coordinated and sustainable development of the economy, society and environment and the all-round development of human beings."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The People's Republic of China respects and safeguards human rights, combines the universal principle of human rights with its national realities, promotes the comprehensive, coordinated development of human rights, conducts international exchanges and cooperation in the field of human rights on the basis of equality and mutual respect, and advances the sound development of the international human rights cause."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The People's Republic of China maintains that all countries in the world should transcend differences of country, nation and culture, and champion the common values of all humanity, namely peace, development, equity, justice, democracy and freedom."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The People's Republic of China adheres to the vision of civilisations featuring equality, mutual learning, dialogue and inclusiveness, respects the diversity of civilisations, and promotes exchanges and dialogue among different civilisations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The People's Republic of China actively participates in global environmental and climate governance, strengthens international cooperation on green and low-carbon development, jointly pursues the building of an ecological civilisation for the world, and advances the building of a fair, reasonable, cooperative and win-win global environmental and climate governance system."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The People's Republic of China adheres to advancing high-level opening up to the outside world, develops foreign trade, actively promotes and protects foreign investment in accordance with the law, encourages the conduct of outward investment and other external economic cooperation, promotes the high-quality development of the joint building of the Belt and Road Initiative, safeguards the multilateral trading system, opposes unilateralism and protectionism, and advances the building of an open world economy."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The People's Republic of China conducts external assistance through economic, technical, material, human resources and management means, promotes the economic development and social progress of developing countries, enhances their capacity for self-reliant sustainable development, and advances international development cooperation.\nThe People's Republic of China conducts international humanitarian cooperation and assistance, strengthens international cooperation in disaster prevention, mitigation and relief, and assists the countries concerned in responding to humanitarian emergencies.\nIn conducting external assistance, the People's Republic of China adheres to respecting the sovereignty of other countries, not interfering in their internal affairs, and not attaching any political conditions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The People's Republic of China conducts exchanges and cooperation in such fields as education, science and technology, culture, public health, sports, society, ecology, military affairs, security and the rule of law, in light of the needs of developing external relations."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Objectives and Tasks for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The state makes coordinated efforts to advance the domestic rule of law and the rule of law in foreign-related affairs, strengthens legislation in foreign-related fields, and strengthens the building of the foreign-related rule-of-law system."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The state concludes or accedes to treaties and agreements in accordance with the Constitution and laws, and fulfils in good faith the obligations prescribed in the relevant treaties and agreements.\nTreaties and agreements concluded or acceded to by the state shall not conflict with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The state takes appropriate measures to implement and apply treaties and agreements.\nThe implementation and application of treaties and agreements shall not harm the sovereignty, security and public interests of the state."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "On the basis of abiding by the basic principles of international law and the basic norms governing international relations, the state strengthens the implementation and application of laws and regulations in foreign-related fields, and takes law-enforcement, judicial and other measures in accordance with the law to safeguard the sovereignty, security and development interests of the state and protect the lawful rights and interests of Chinese citizens and organisations."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The People's Republic of China has the right to take corresponding countermeasures and restrictive measures against acts that violate international law and the basic norms governing international relations and endanger the sovereignty, security and development interests of the People's Republic of China.\nThe State Council and its departments formulate the necessary administrative regulations and departmental rules, establish corresponding working systems and mechanisms, strengthen inter-departmental coordination and cooperation, and determine and implement the relevant countermeasures and restrictive measures.\nA decision made in accordance with paragraphs 1 and 2 of this Article is a final decision."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "On the basis of the one-China principle, the People's Republic of China establishes and develops diplomatic relations with all countries in accordance with the Five Principles of Peaceful Coexistence.\nThe People's Republic of China has the right, in accordance with the treaties and agreements it has concluded or acceded to and the basic principles of international law and the basic norms governing international relations, to take the necessary diplomatic actions such as altering or terminating diplomatic or consular relations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The state takes measures to implement the binding sanctions resolutions and relevant measures adopted by the United Nations Security Council under Chapter VII of the Charter of the United Nations.\nThe implementation of the sanctions resolutions and measures referred to in the preceding paragraph shall be notified and publicly announced by the Ministry of Foreign Affairs. The relevant departments of the state and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall take measures to implement them within their respective functions and powers.\nOrganisations and individuals within the territory of China shall comply with the contents of the announcements of the Ministry of Foreign Affairs and the relevant measures of the various departments and regions, and shall not engage in acts that violate the said sanctions resolutions and measures."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The People's Republic of China grants, in accordance with the relevant laws and the treaties and agreements it has concluded or acceded to, corresponding privileges and immunities to foreign diplomatic missions, foreign state officials, international organisations and their officials.\nThe People's Republic of China grants immunity to foreign states and their property in accordance with the relevant laws and the treaties and agreements it has concluded or acceded to."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The state takes necessary measures in accordance with the law to protect the safety and legitimate rights and interests of Chinese citizens and organisations overseas, and to protect the overseas interests of the state from threat and infringement.\nThe state strengthens the system, working mechanisms and capacity-building for the protection of overseas interests."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The People's Republic of China protects in accordance with the law the lawful rights and interests of foreigners and foreign organisations within the territory of China.\nThe state has the right to permit or refuse the entry, stay and residence of foreigners, and administers in accordance with the law the activities of foreign organisations within its territory.\nForeigners and foreign organisations within the territory of China shall abide by Chinese laws and shall not endanger China's national security, harm the public interests of society or disrupt the public order of society."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The People's Republic of China strengthens multilateral and bilateral dialogues on the rule of law and advances exchanges and cooperation on the external rule of law.\nThe People's Republic of China conducts international cooperation with foreign countries and international organisations in the fields of law enforcement and justice in accordance with the treaties and agreements it has concluded or acceded to, or in accordance with the principle of equality and mutual benefit.\nThe state deepens and expands the working mechanisms for external law-enforcement cooperation, improves the systems and mechanisms for mutual legal assistance, and advances international cooperation in the fields of law enforcement and justice. The state strengthens international cooperation in combating transnational crime, corruption and the like."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Systems for Foreign Relations"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The state improves the comprehensive support system for external work and enhances its capacity to develop external relations and safeguard national interests."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Safeguards for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The state guarantees the funds needed for external work and establishes a funding guarantee mechanism suited to the needs of developing external relations and the level of development of the national economy."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Safeguards for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The state strengthens the building of the contingent of personnel for external work and takes measures to promote the proper conduct of personnel training, utilisation, administration, service and support."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Safeguards for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The state promotes public understanding of and support for external work through various forms."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Safeguards for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The state advances the building of international communication capacity, enables the world to better understand and know China, and promotes exchanges and mutual learning among human civilisations."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Safeguards for Developing Foreign Relations"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "This Law shall come into force on 1 July 2023."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
 
   TR['CN-LAW-0088'] = {
     "lawId": "CN-LAW-0088",
@@ -492,6 +3849,1053 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0089'] = {
+    "lawId": "CN-LAW-0089",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 50 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution for the purposes of preventing, curbing and punishing telecom and online fraud activities, strengthening the work of combating telecom and online fraud, protecting the lawful rights and interests of citizens and organisations, and safeguarding social stability and national security."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, telecom and online fraud means the act of fraudulently obtaining public or private property by using telecom and network technical means through remote, non-contact methods with the purpose of illegal possession."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "This Law applies to the combating and governance of telecom and online fraud activities carried out within the territory of the People's Republic of China and of telecom and online fraud activities carried out by citizens of the People's Republic of China outside the territory of the People's Republic of China.\nWhere an organisation or individual outside the territory of the People's Republic of China carries out telecom and online fraud activities against the territory of the People's Republic of China, or provides products, services or other assistance to others for carrying out telecom and online fraud activities against the territory of the People's Republic of China, the matter shall be handled and liability shall be pursued in accordance with the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The work of combating telecom and online fraud shall adhere to putting the people first, with development and security being coordinated as a whole; adhere to a systems approach and the thinking on the rule of law, with emphasis on source governance and comprehensive governance; adhere to joint management by all relevant parties and prevention by both professionals and the general public, with all measures of combating, prevention, management and control being fully implemented and public education and prevention being strengthened; and adhere to targeted prevention and control, so as to guarantee normal production and business activities and the convenience of the lives of the people."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The work of combating telecom and online fraud shall be carried out in accordance with the law, and the lawful rights and interests of citizens and organisations shall be protected.\nThe relevant departments, entities and individuals shall keep confidential the state secrets, trade secrets, personal privacy and personal information that come to their knowledge in the course of the work of combating telecom and online fraud."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State Council shall establish a working mechanism for combating telecom and online fraud to coordinate and direct the work of combating and governing such fraud.\nLocal people's governments at all levels shall organise and lead the work of combating telecom and online fraud within their respective administrative regions, determine the objectives, targets and working mechanisms for combating telecom and online fraud, and carry out comprehensive governance.\nPublic security organs shall take the lead in the work of combating telecom and online fraud, and the relevant departments such as those for finance, telecommunications, cyberspace and market regulation shall perform their principal regulatory responsibilities in accordance with their duties and be responsible for the work of combating telecom and online fraud in their respective industries and fields.\nThe people's courts and the people's procuratorates shall give play to their adjudicatory and procuratorial functions and prevent and punish telecom and online fraud activities in accordance with the law.\nTelecommunications business operators, banking financial institutions, non-bank payment institutions and Internet service providers shall assume the responsibility for risk prevention and control, establish internal control mechanisms and security responsibility systems for combating telecom and online fraud, and strengthen security risk assessments for new businesses in relation to fraud."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The relevant departments and entities shall, in the work of combating telecom and online fraud, closely cooperate with each other, realise cross-industry and cross-region coordination and rapid linkage, strengthen the development of professional teams, and effectively combat and govern telecom and online fraud activities."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at all levels and the relevant departments shall strengthen publicity on combating telecom and online fraud, popularise the relevant laws and knowledge, and raise public awareness of and ability to identify various types of telecom and online fraud.\nThe relevant administrative departments for education, market regulation and civil affairs, and villagers' committees and residents' committees shall, in light of the characteristics of the distribution of groups victimised by telecom and online fraud, strengthen publicity and education among groups such as the elderly and teenagers, make publicity and education on combating telecom and online fraud more targeted and precise, and carry out activities of bringing publicity and education on combating telecom and online fraud into schools, enterprises, communities, rural areas and households.\nAll entities shall strengthen internal prevention of telecom and online fraud and provide education to their staff on preventing telecom and online fraud; individuals shall strengthen their awareness of the prevention of telecom and online fraud. Entities and individuals shall assist and cooperate with the relevant departments in carrying out the work of combating telecom and online fraud in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Telecommunications business operators shall comprehensively implement the real identity information registration system for telephone users in accordance with the law.\nBasic telecommunications enterprises and mobile communication resale enterprises shall assume the responsibility for the management of real-name registration of telephone users by their agents, and shall expressly state in their agreements the agents' responsibility for real-name registration and the relevant measures for dealing with breach of contract."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Telecommunications Governance"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The number of telephone cards issued shall not exceed the limits prescribed by the relevant provisions of the State.\nWhere abnormal circumstances of card issuance are identified, telecommunications business operators shall have the right to strengthen verification or refuse to issue the card. The specific measures for identification shall be formulated by the competent department for telecommunications under the State Council.\nThe competent department for telecommunications under the State Council shall organise the establishment of a mechanism for verifying the number of telephone cards issued per user and a mechanism for sharing risk information, and shall provide convenient channels for users to inquire about the information of telephone cards registered in their names."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Telecommunications Governance"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Telecommunications business operators shall re-conduct real-name verification for users of telephone cards identified as involved in abnormal fraud-related activities through monitoring and identification, and shall take differentiated and corresponding verification measures according to the risk level. Where verification is not conducted as required or verification is not passed, telecommunications business operators may restrict or suspend the functions of the relevant telephone cards."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Telecommunications Governance"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Telecommunications business operators shall establish a risk assessment system for users of Internet of Things cards; where the assessment is not passed, they shall not sell Internet of Things cards to such users; they shall strictly register the identity information of users of Internet of Things cards; and they shall take effective technical measures to limit the functions, use scenarios and applicable devices of Internet of Things cards.\nWhere an entity user purchases Internet of Things cards from a telecommunications business operator and then sells devices carrying Internet of Things cards to other users, it shall verify and register the identity information of the users, and shall transmit the sales volume, existing stock and real-name information of the users to the telecommunications business operator to which the numbers belong.\nTelecommunications business operators shall establish a monitoring and early warning mechanism for the use of Internet of Things cards. Where abnormal use exists, they shall take disposal measures such as suspending services, re-verifying identity and use scenarios, or other measures agreed in the contract."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Telecommunications Governance"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Telecommunications business operators shall standardise the transmission of true calling numbers and the leasing of telecommunications lines, and shall block, intercept and trace spoofed calls.\nTelecommunications business operators shall strictly standardise the transmission of calling numbers at international communication gateways, truthfully and accurately prompt users of the country or region to which an incoming number belongs, and identify and intercept false and non-standard calling numbers within and between networks."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Telecommunications Governance"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "No entity or individual shall illegally manufacture, sell, provide or use any of the following equipment or software:\n(a) equipment for the batch insertion of telephone cards;\n(b) equipment or software with functions such as changing calling numbers, virtual dialling or illegal access of Internet telephone services to the public telecommunications network;\n(c) systems for the automatic switching of batch accounts and network addresses, and platforms for the batch receipt of SMS verification and voice verification; and\n(d) other equipment or software used for committing telecom and online fraud or other illegal or criminal activities.\nTelecommunications business operators and Internet service providers shall take technical measures to promptly identify and block the access of the illegal equipment or software provided for in the preceding paragraph to networks, and shall report the same to the public security organs and the relevant competent departments of the industry."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Telecommunications Governance"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where banking financial institutions or non-bank payment institutions open bank accounts or payment accounts for customers or provide payment and settlement services, and during the period of the existence of business relations with the customers, they shall establish a customer due diligence system, identify beneficial owners in accordance with the law, take corresponding risk management measures, and prevent bank accounts, payment accounts and the like from being used for telecom and online fraud activities."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Financial Governance"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The number of bank accounts and payment accounts opened shall not exceed the limits prescribed by the relevant provisions of the State.\nWhere abnormal circumstances of account opening are identified, banking financial institutions and non-bank payment institutions shall have the right to strengthen verification or refuse to open the account.\nThe People's Bank of China and the banking regulatory authority under the State Council shall organise the relevant clearing institutions to establish a cross-institution mechanism for verifying the number of accounts opened and a risk information sharing mechanism, and shall provide convenient channels for customers to inquire about the bank accounts and payment accounts registered in their names. Banking financial institutions and non-bank payment institutions shall provide information on account opening and relevant risk information in accordance with the relevant provisions of the State. The relevant information shall not be used for purposes other than combating telecom and online fraud."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Financial Governance"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Banking financial institutions and non-bank payment institutions shall establish risk prevention and control mechanisms for abnormal circumstances in the opening of corporate accounts. The relevant departments such as those for finance, telecommunications, market regulation and taxation shall establish an information sharing and inquiry system for the opening of corporate accounts and provide online verification services.\nThe market entity registration authority shall perform the duty of verifying identity information in respect of the real-name registration of enterprises in accordance with the law; shall conduct supervision and inspection of registration matters in accordance with the provisions, with a focus on enterprises that may have made false registration or show fraud-related abnormalities, and shall promptly share information in accordance with the provisions of the preceding paragraph where registration is revoked in accordance with the law; and shall provide convenience for banking financial institutions and non-bank payment institutions to conduct customer due diligence and identify beneficial owners in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Financial Governance"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Banking financial institutions and non-bank payment institutions shall strengthen monitoring of bank accounts, payment accounts and payment and settlement services, and shall establish and improve a mechanism for monitoring abnormal accounts and suspicious transactions that conforms to the characteristics of telecom and online fraud activities.\nThe People's Bank of China shall coordinate the establishment of a unified anti-money-laundering monitoring system across banking financial institutions and non-bank payment institutions, and shall, jointly with the public security department under the State Council, improve the anti-money-laundering suspicious transaction reporting system to suit the characteristics of the flow of funds in telecom and online fraud crimes.\nFor abnormal accounts and suspicious transactions identified through monitoring, banking financial institutions and non-bank payment institutions shall, according to the risk situation, take necessary preventive measures such as verifying the transaction circumstances, re-verifying identity, delaying payment and settlement, and restricting or suspending the relevant business.\nWhere banking financial institutions and non-bank payment institutions conduct monitoring of abnormal accounts and suspicious transactions in accordance with paragraph 1 of this Article, they may collect necessary transaction information and device location information such as the Internet protocol addresses and network card addresses of abnormal customers and information on payment acceptance terminals. The aforesaid information shall not be used for purposes other than combating telecom and online fraud without the authorisation of the customers."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Financial Governance"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Banking financial institutions and non-bank payment institutions shall, in accordance with the relevant provisions of the State, completely and accurately transmit transaction information such as the names of merchants directly providing goods or services and the names and account numbers of paying and receiving customers, so as to ensure that the transaction information is true and complete and consistent throughout the payment process."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Financial Governance"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The public security department under the State Council shall, jointly with the relevant departments, establish and improve a system for the instant inquiry of funds involved in telecom and online fraud cases, emergency stop payment, rapid freezing, timely unfreezing and return of funds, and shall specify the relevant conditions, procedures and remedies.\nWhere a public security organ decides to take the aforesaid measures in accordance with the law, banking financial institutions and non-bank payment institutions shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Financial Governance"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where telecommunications business operators or Internet service providers provide the following services to users, they shall, when concluding agreements with the users or confirming the provision of services, require the users to provide real identity information in accordance with the law; where a user does not provide real identity information, services shall not be provided:\n(a) providing Internet access services;\n(b) providing network address translation services such as network proxy services;\n(c) providing Internet domain name registration, server hosting, space leasing, cloud services and content delivery services; and\n(d) providing information or software publishing services, or providing instant messaging, online transaction, online game, online live-streaming distribution or advertising promotion services."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Internet Governance"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Internet service providers shall re-verify accounts identified as involved in abnormal fraud-related activities through monitoring and identification, and shall take disposal measures such as restricting functions or suspending services in accordance with the relevant provisions of the State.\nInternet service providers shall, at the request of public security organs or the competent department for telecommunications, verify the relevant Internet accounts linked to or registered with the telephone cards involved in the case or abnormal fraud-related telephone cards, and, according to the risk situation, take disposal measures such as ordering corrections within a time limit, restricting functions, suspending use, closing accounts or prohibiting re-registration."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Internet Governance"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The establishment of mobile Internet applications shall go through the licensing or filing formalities with the competent department for telecommunications in accordance with the relevant provisions of the State.\nEntities providing packaging or distribution services for applications shall register and verify the real identity information of the developers and operators of the applications and verify the functions and purposes of the applications.\nDepartments such as public security, telecommunications and cyberspace departments, and telecommunications business operators and Internet service providers shall strengthen focused monitoring and prompt disposal of fraud-related applications downloaded and disseminated through channels other than distribution platforms."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Internet Governance"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Entities providing domain name resolution, domain name redirection or URL link conversion services shall, in accordance with the relevant provisions of the State, verify the authenticity and accuracy of domain name registration and resolution information and Internet protocol addresses, standardise domain name redirection, record and retain the log information of the relevant services provided, and support the tracing of resolution, redirection and conversion records."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Internet Governance"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "No entity or individual shall provide the following support or assistance to others in carrying out telecom and online fraud activities:\n(a) selling or providing personal information;\n(b) assisting others in money laundering by means such as virtual currency transactions; and\n(c) other acts of providing support or assistance to telecom and online fraud activities.\nTelecommunications business operators and Internet service providers shall, in accordance with the relevant provisions of the State, perform their duty of reasonable care, and shall monitor, identify and dispose of the use of the following businesses to conduct fraud-related support or assistance activities:\n(a) providing network resource services such as Internet access, server hosting, network storage, communication transmission, line leasing and domain name resolution;\n(b) providing network promotion services such as information publication or search and advertising or traffic promotion;\n(c) providing services for the production or maintenance of network technologies or products such as applications and websites; and\n(d) providing payment and settlement services."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Internet Governance"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where public security organs collect evidence in accordance with the law in handling telecom and online fraud cases, Internet service providers shall promptly provide technical support and assistance.\nWhere Internet service providers discover clues to illegal or criminal activities involving fraud or risk information in the course of monitoring the relevant fraud-related information or activities in accordance with this Law, they shall transfer the same to departments such as public security, finance, telecommunications and cyberspace departments in accordance with the relevant provisions of the State and in light of the type and degree of the fraud-related risks. The relevant departments shall establish and improve a feedback mechanism and shall promptly inform the transferring entity of the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Internet Governance"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Public security organs shall establish and improve a working mechanism for combating and governing telecom and online fraud, strengthen the development of specialised teams and professional technologies, and all types of police forces and public security organs in all localities shall closely cooperate with each other to punish telecom and online fraud activities effectively in accordance with the law.\nWhere a public security organ receives a report of telecom and online fraud activities or discovers telecom and online fraud activities, it shall file and investigate the case in accordance with the provisions of the Criminal Procedure Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The departments for finance, telecommunications and cyberspace shall, in accordance with their duties, conduct supervision and inspection of the implementation of the provisions of this Law by banking financial institutions, non-bank payment institutions, telecommunications business operators and Internet service providers. The relevant supervision and inspection activities shall be carried out in a standardised manner in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Personal information processors shall, in accordance with the provisions of laws such as the Personal Information Protection Law of the People's Republic of China, standardise the processing of personal information, strengthen the protection of personal information, and establish a prevention mechanism against the use of personal information for telecom and online fraud.\nThe departments and entities performing the duties of protecting personal information shall implement focused protection of logistics information, transaction information, loan information, medical information and matchmaking information that may be exploited for telecom and online fraud. Where public security organs handle telecom and online fraud cases, they shall simultaneously investigate and verify the sources of the personal information exploited in the crimes and pursue the liability of the relevant persons and entities in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Telecommunications business operators, banking financial institutions, non-bank payment institutions and Internet service providers shall carry out publicity on combating telecom and online fraud among their employees and users, give warnings on the prevention of telecom and online fraud in relevant business activities, promptly remind users of newly emerging means of telecom and online fraud in their respective fields, and warn of the legal liability for the illegal sale, leasing or lending of their cards, accounts, online accounts and the like for use in telecom and online fraud.\nEntities such as news, broadcasting, television, culture and Internet information service entities shall carry out targeted publicity and education on combating telecom and online fraud for the public.\nAll entities and individuals shall have the right to report telecom and online fraud activities, and the relevant departments shall handle such reports promptly in accordance with the law, and reward and protect informants who provide effective information in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "No entity or individual shall illegally trade in, lease or lend telephone cards, Internet of Things cards, telecommunications lines, SMS ports, bank accounts, payment accounts or online accounts, or provide assistance in real-name verification; no entity or individual shall open the aforesaid cards, accounts or online accounts by impersonating another person or fabricating an agency relationship.\nFor entities and individuals that have been determined by the public security organs at or above the level of a city divided into districts to have committed the acts provided for in the preceding paragraph, and the relevant organisers, as well as persons who have received criminal punishment for engaging in telecom and online fraud activities or related crimes, their conduct may be recorded in credit records in accordance with the relevant provisions of the State, and measures such as restricting the functions of the relevant cards, accounts or online accounts, ceasing non-counter business, suspending new business and restricting network access may be taken. Where a person has an objection to the aforesaid determination or the measures taken, the person may file an appeal, and the relevant departments shall establish and improve channels for appeals, credit rehabilitation and remedies. The specific measures shall be prescribed by the public security department under the State Council jointly with the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State supports telecommunications business operators, banking financial institutions, non-bank payment institutions and Internet service providers in researching and developing counter-measure technologies against telecom and online fraud, for use in the monitoring, identification, dynamic blocking and disposal of fraud-related abnormal information and activities.\nThe public security department under the State Council, the financial regulatory department, the competent department for telecommunications and the national cyberspace administration shall, among others, take overall responsibility for the development of counter-measure technical measures in their respective industries and fields, promote the sharing of sample information and data on telecom and online fraud, strengthen cross-verification of information on fraud-related users, and establish mechanisms for the monitoring, identification, dynamic blocking and disposal of relevant fraud-related abnormal information and activities.\nWhere disposal measures such as restriction or suspension of services are taken against fraud-related abnormal circumstances in accordance with Articles 11, 12, 18 and 22 of this Law and the provisions of the preceding paragraph, the reasons for the disposal, the channels for remedies and the materials to be submitted shall be notified, and the person subject to disposal may file an appeal with the department or entity that made the decision or took the measures. The department or entity that made the decision shall establish and improve channels for appeals, promptly accept and verify appeals, and, where verification is passed, shall immediately lift the relevant measures."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall promote the development of public services for network identity authentication and support individuals and enterprises in voluntarily using such services; telecommunications business operators, banking financial institutions, non-bank payment institutions and Internet service providers may, in respect of telephone cards, bank accounts, payment accounts and online accounts with fraud-related abnormalities, re-verify the identity of users through the national public service for network identity authentication."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Public security organs shall, jointly with the departments for finance, telecommunications and cyberspace, organise banking financial institutions, non-bank payment institutions, telecommunications business operators and Internet service providers in establishing an early warning and dissuasion system, and shall promptly take corresponding dissuasion measures for potential victims identified through early warning according to the circumstances. In handling telecom and online fraud cases, they shall strengthen the recovery of stolen funds and the mitigation of losses, improve the system for the disposal of funds involved in the cases, and promptly return the lawful property of victims. For victims suffering major difficulties in life, the relevant parties shall provide assistance in accordance with the provisions where they meet the relevant conditions for State assistance."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Upon the decision or approval of the working mechanism for combating telecom and online fraud under the State Council, departments such as public security, finance and telecommunications may, in respect of specific regions where telecom and online fraud activities are serious, take necessary temporary risk prevention measures in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a person travels to a region where telecom and online fraud activities are serious and there is a major suspicion of telecom and online fraud activities in the person's departure from the country, the immigration authority may decide not to permit the person to leave the country.\nWhere a person has received criminal punishment for engaging in telecom and online fraud activities, the public security organ at or above the level of a city divided into districts may, according to the circumstances of the crime and the need to prevent the commission of the crime again, decide to prohibit the person from leaving the country for a period of not less than six months but not more than three years from the date the punishment is completed, and shall notify the immigration authority to enforce the decision."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The public security department under the State Council and other departments shall, jointly with the diplomatic department, strengthen international law enforcement and judicial cooperation, establish effective cooperation mechanisms with the relevant countries, regions and international organisations, and, through international police cooperation and other means, raise the level of cooperation in information exchange, investigation and evidence collection, investigation and arrest, and the recovery of stolen funds and the mitigation of losses, so as to effectively combat and curb cross-border telecom and online fraud activities."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Comprehensive Measures"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Whoever organises, plans, implements or participates in telecom and online fraud activities or provides assistance to telecom and online fraud activities shall be investigated for criminal responsibility in accordance with the law where a crime is constituted.\nWhere the acts provided for in the preceding paragraph do not yet constitute a crime, the public security organ shall impose detention of not less than 10 days but not more than 15 days, confiscate the illegal gains, and impose a fine of not less than one time but not more than 10 times the illegal gains; where there are no illegal gains or the illegal gains are less than 10,000 yuan, a fine of not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a telecommunications business operator violates the provisions of this Law and falls under any of the following circumstances, the relevant competent department shall order it to make corrections; where the circumstances are relatively minor, a warning or public criticism shall be given, or a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than RMB 5 million shall be imposed, and the relevant competent department may order the suspension of the relevant business, the suspension of business for rectification, the revocation of the relevant business licence or the revocation of the business licence, and a fine of not less than 10,000 yuan but not more than 200,000 yuan shall be imposed on the person directly in charge and other persons directly responsible:\n(a) failing to implement the internal control mechanism for combating telecom and online fraud determined in accordance with the relevant provisions of the State;\n(b) failing to perform the duty of real-name registration of telephone cards or Internet of Things cards;\n(c) failing to perform the duties of monitoring, identification, early warning and relevant disposal of telephone cards or Internet of Things cards;\n(d) failing to conduct risk assessment of users of Internet of Things cards, or failing to limit the functions, use scenarios and applicable devices of Internet of Things cards; and\n(e) failing to take measures to monitor and dispose of spoofed calls, false calling numbers or illegal equipment with corresponding functions."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a banking financial institution or non-bank payment institution violates the provisions of this Law and falls under any of the following circumstances, the relevant competent department shall order it to make corrections; where the circumstances are relatively minor, a warning or public criticism shall be given, or a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than RMB 5 million shall be imposed, and the relevant competent department may order the cessation of new business, the reduction of the types or scope of business, the suspension of the relevant business, the suspension of business for rectification, the revocation of the relevant business licence or the revocation of the business licence, and a fine of not less than 10,000 yuan but not more than 200,000 yuan shall be imposed on the person directly in charge and other persons directly responsible:\n(a) failing to implement the internal control mechanism for combating telecom and online fraud determined in accordance with the relevant provisions of the State;\n(b) failing to perform the duty of due diligence and the relevant risk management measures;\n(c) failing to perform the obligations of risk monitoring of abnormal accounts and suspicious transactions and the relevant disposal thereof; and\n(d) failing to transmit the relevant transaction information completely and accurately as required."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a telecommunications business operator or Internet service provider violates the provisions of this Law and falls under any of the following circumstances, the relevant competent department shall order it to make corrections; where the circumstances are relatively minor, a warning or public criticism shall be given, or a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than RMB 5 million shall be imposed, and the relevant competent department may order the suspension of the relevant business, the suspension of business for rectification, the closure of the website or application, the revocation of the relevant business licence or the revocation of the business licence, and a fine of not less than 10,000 yuan but not more than 200,000 yuan shall be imposed on the person directly in charge and other persons directly responsible:\n(a) failing to implement the internal control mechanism for combating telecom and online fraud determined in accordance with the relevant provisions of the State;\n(b) failing to perform the duty of real-name registration of network services, or failing to verify the online accounts linked to or registered with the telephone cards involved in the case or fraud-related telephone cards;\n(c) failing to verify the authenticity and accuracy of domain name registration and resolution information and Internet protocol addresses in accordance with the relevant provisions of the State, to standardise domain name redirection, or to record and retain the log information of the relevant services provided;\n(d) failing to register and verify the real identity information of the developers and operators of mobile Internet applications or to verify the functions and purposes of applications while providing application packaging or distribution services;\n(e) failing to perform the obligations of monitoring, identification and disposal of fraud-related online accounts and applications and other telecom and online fraud information or activities; and\n(f) refusing to provide technical support and assistance for the investigation and punishment of telecom and online fraud crimes in accordance with the law, or failing to transfer relevant clues to illegal or criminal activities or risk information as required."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a person violates the provisions of Article 14 or paragraph 1 of Article 25 of this Law, the illegal gains shall be confiscated, and the public security organ or the relevant competent department shall impose a fine of not less than one time but not more than 10 times the illegal gains; where there are no illegal gains or the illegal gains are less than 50,000 yuan, a fine of not more than 500,000 yuan shall be imposed; where the circumstances are serious, the public security organ shall concurrently impose detention of not more than 15 days."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a person violates the provisions of paragraph 2 of Article 25 of this Law, the relevant competent department shall order the person to make corrections; where the circumstances are relatively minor, a warning or public criticism shall be given, or a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than RMB 5 million shall be imposed, and the relevant competent department may order the suspension of the relevant business, the suspension of business for rectification, the closure of the website or application, and a fine of not less than 10,000 yuan but not more than 200,000 yuan shall be imposed on the person directly in charge and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a person violates the provisions of paragraph 1 of Article 31 of this Law, the illegal gains shall be confiscated, and the public security organ shall impose a fine of not less than one time but not more than 10 times the illegal gains; where there are no illegal gains or the illegal gains are less than 20,000 yuan, a fine of not more than 200,000 yuan shall be imposed; where the circumstances are serious, detention of not more than 15 days shall be concurrently imposed."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a staff member of a department or entity engaged in the work of combating telecom and online fraud abuses power, neglects duty, engages in malpractice for personal gain or commits other acts in violation of the provisions of this Law, criminal responsibility shall be investigated in accordance with the law where a crime is constituted."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a person who has organised, planned, implemented or participated in telecom and online fraud activities or provided relevant assistance thereto has caused damage to another person, the person shall bear civil liability in accordance with the provisions of laws such as the Civil Code of the People's Republic of China, in addition to bearing criminal responsibility or administrative responsibility in accordance with the law.\nWhere telecommunications business operators, banking financial institutions, non-bank payment institutions, Internet service providers or the like violate the provisions of this Law and cause damage to another person, they shall bear civil liability in accordance with the provisions of laws such as the Civil Code of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in performing their duties in combating telecom and online fraud, the people's procuratorates find acts harming the interests of the State or the public interests of society, they may initiate public interest litigation before the people's courts in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the relevant entity or individual is dissatisfied with a decision on administrative penalty or a measure of administrative compulsion made in accordance with this Law, it or he may apply for administrative reconsideration or initiate administrative litigation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "For the relevant management and responsibility systems involved in the work of combating telecom and online fraud, where this Law does not provide otherwise, the provisions of relevant laws such as the Cybersecurity Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China and the Anti-Money Laundering Law of the People's Republic of China shall apply."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "This Law shall enter into force on 1 December 2022."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0090'] = {
+    "lawId": "CN-LAW-0090",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 38 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in order to prevent and stop domestic violence, protect the lawful rights and interests of family members, maintain equal, harmonious and civilised family relations, and promote family harmony and social stability."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Domestic violence as referred to in this Law means physical, psychological or other infringing acts committed between family members by such means as beating, binding, maiming, restricting personal freedom, or frequent abuse and intimidation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Family members shall help one another, care for one another, live together in harmony and perform family obligations.\nCombating domestic violence is the common responsibility of the State, society and every family.\nThe State prohibits domestic violence in any form."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The institution responsible for work concerning women and children under the people's government at or above the county level shall be responsible for organising, coordinating, guiding and urging the relevant departments to do a good job in combating domestic violence.\nThe relevant departments of the people's government at or above the county level, judicial organs, people's organisations, social organisations, residents' committees, villagers' committees, and enterprises and public institutions shall, in accordance with this Law and the provisions of the relevant laws, do a good job in combating domestic violence.\nPeople's governments at all levels shall provide the necessary funding guarantee for work to combat domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Work to combat domestic violence follows the principle of giving priority to prevention and combining education, correction and punishment.\nWork to combat domestic violence shall respect the true wishes of victims and protect the privacy of the parties.\nWhere minors, elderly persons, persons with disabilities, women who are pregnant or breastfeeding, or persons suffering from serious illness suffer domestic violence, special protection shall be given."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State carries out publicity and education on family virtues and disseminates knowledge on combating domestic violence, so as to enhance citizens' awareness of combating domestic violence.\nTrade unions, Communist Youth Leagues, women's federations and disabled persons' federations shall, within the scope of their respective work, organise publicity and education on family virtues and on combating domestic violence.\nRadio, television, newspapers and periodicals, the internet and other media shall carry out publicity on family virtues and on combating domestic violence.\nSchools and kindergartens shall carry out education on family virtues and on combating domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Domestic Violence"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The relevant departments of the people's government at or above the county level, judicial organs and women's federations shall incorporate the prevention and stopping of domestic violence into professional training and statistical work.\nMedical institutions shall keep proper records of the diagnosis and treatment of victims of domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Domestic Violence"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Township people's governments and sub-district offices shall organise and carry out work to prevent domestic violence, and residents' committees, villagers' committees and social work service institutions shall provide cooperation and assistance."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Domestic Violence"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "People's governments at all levels shall support social work service institutions and other social organisations in providing services such as psychological health counselling, family relationship guidance and education on knowledge for preventing domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Domestic Violence"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "People's mediation organisations shall, in accordance with the law, mediate family disputes and prevent and reduce the occurrence of domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Domestic Violence"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where an employer discovers that any of its staff members is involved in domestic violence, it shall criticise and educate that person, and do a good job in mediating and resolving family conflicts."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Domestic Violence"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Guardians of minors shall conduct family education in a civilised manner, perform their duties of guardianship and education in accordance with the law, and may not commit domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Domestic Violence"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Victims of domestic violence and their statutory agents and close relatives may complain to, report to, or seek help from the unit where the abuser or the victim works, residents' committees, villagers' committees, women's federations and other units. The relevant units shall, upon receiving such complaints, reports or requests for help concerning domestic violence, provide assistance and handle the matter.\nVictims of domestic violence and their statutory agents and close relatives may also report the matter to a public security organ or institute proceedings in a people's court in accordance with the law.\nWhere a unit or individual discovers domestic violence that is taking place, it has the right to dissuade the perpetrator in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where schools, kindergartens, medical institutions, residents' committees, villagers' committees, social work service institutions, relief and assistance institutions, welfare institutions and their staff members discover in the course of their work that persons with no or limited capacity for civil conduct are suffering, or are suspected of suffering, domestic violence, they shall promptly report the matter to a public security organ. Public security organs shall keep the information of the persons making the report confidential."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Public security organs shall, after receiving a report of domestic violence, promptly dispatch police officers, stop the domestic violence, conduct investigation and evidence collection in accordance with the relevant provisions, and assist victims in seeking medical treatment and in having their injuries appraised.\nWhere persons with no or limited capacity for civil conduct have suffered serious physical injury as a result of domestic violence, face a threat to their personal safety, or are in a dangerous state such as being left without care, public security organs shall notify and assist the civil affairs department in placing them in temporary shelters, relief and assistance institutions or welfare institutions."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the circumstances of domestic violence are relatively minor and no public security administration punishment is imposed in accordance with the law, the public security organ shall criticise and educate the abuser or issue an admonition.\nAn admonition shall include the identity information of the abuser, a statement of the facts of the domestic violence, the prohibition on the abuser committing domestic violence, and other contents."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Public security organs shall deliver the admonition to the abuser and the victim, and notify the residents' committee and the villagers' committee.\nResidents' committees, villagers' committees and public security police stations shall visit the abuser and the victim who have received the admonition and supervise the abuser so that domestic violence is not committed again."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "People's governments at the county level or at the level of a city divided into districts may establish temporary shelters, either independently or by relying on relief and assistance institutions, to provide temporary living assistance to victims of domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Legal aid institutions shall provide legal aid to victims of domestic violence in accordance with the law.\nPeople's courts shall, in accordance with the law, defer, reduce or waive litigation costs for victims of domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "When hearing cases involving domestic violence, people's courts may determine the facts of domestic violence on the basis of evidence such as police dispatch records of public security organs, admonitions, and expert opinions on injuries."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a guardian commits domestic violence and seriously infringes upon the lawful rights and interests of the person under guardianship, the people's court may, upon application by the close relatives of the person under guardianship, the residents' committee, the villagers' committee, the civil affairs department of the people's government at the county level or other relevant persons or units, disqualify the guardian in accordance with the law and designate another guardian.\nAn abuser whose guardian qualification has been disqualified shall continue to bear the corresponding expenses for support, maintenance and child support."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Trade unions, Communist Youth Leagues, women's federations, disabled persons' federations, residents' committees, villagers' committees and other organisations shall provide legal education to abusers who commit domestic violence and, where necessary, may provide psychological counselling to abusers and victims."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Domestic Violence"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a party applies to a people's court for a personal safety protection order because it has suffered domestic violence or faces a real danger of domestic violence, the people's court shall accept the application.\nWhere a party has no or limited capacity for civil conduct, or is unable to apply for a personal safety protection order because of coercion, intimidation or other reasons, its close relatives, the public security organ, the women's federation, the residents' committee, the villagers' committee or the relief and assistance institution may apply on its behalf."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "An application for a personal safety protection order shall be made in writing; where there is genuine difficulty in making a written application, the application may be made orally and shall be recorded in the record by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Cases concerning personal safety protection orders shall be under the jurisdiction of the primary people's court at the place of residence of the applicant or the respondent, or at the place where the domestic violence occurred."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A personal safety protection order shall be made by a people's court in the form of an order."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The following conditions shall be met for making a personal safety protection order:\n(a) there is a clear respondent;\n(b) there is a specific request;\n(c) there are circumstances of having suffered domestic violence or facing a real danger of domestic violence."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "After accepting an application, a people's court shall, within 72 hours, make a personal safety protection order or reject the application; and in urgent circumstances, it shall do so within 24 hours."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A personal safety protection order may include the following measures:\n(a) prohibiting the respondent from committing domestic violence;\n(b) prohibiting the respondent from harassing, stalking or contacting the applicant and the applicant's relevant close relatives;\n(c) ordering the respondent to move out of the applicant's residence;\n(d) other measures to protect the applicant's personal safety."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A personal safety protection order shall be valid for no more than six months and shall take effect on the date it is made. Before a personal safety protection order expires, the people's court may, upon application by the applicant, revoke, modify or extend it."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where an applicant is dissatisfied with the rejection of its application, or a respondent is dissatisfied with a personal safety protection order, it may, within five days from the date the order takes effect, apply once to the people's court that made the order for reconsideration. Where a people's court has made a personal safety protection order in accordance with the law, enforcement of the order shall not be suspended during the reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "After making a personal safety protection order, a people's court shall serve it on the applicant, the respondent, the public security organ, and the residents' committee, the villagers' committee and other relevant organisations. A personal safety protection order shall be enforced by the people's court, and the public security organ, the residents' committee, the villagers' committee and others shall assist in enforcement."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Personal Safety Protection Orders"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an abuser commits domestic violence that constitutes a violation of public security administration, it shall be given a public security administration punishment in accordance with the law; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a respondent violates a personal safety protection order and a crime is constituted, criminal responsibility shall be pursued in accordance with the law; where a crime is not constituted, the people's court shall reprimand the respondent and may, in light of the seriousness of the circumstances, impose a fine of not more than RMB 1,000 or detention of not more than 15 days."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where schools, kindergartens, medical institutions, residents' committees, villagers' committees, social work service institutions, relief and assistance institutions, welfare institutions or their staff members fail to report to a public security organ in accordance with the provisions of Article 14 of this Law, thereby causing serious consequences, the competent department at the higher level or the unit concerned shall give sanctions in accordance with the law to the person in charge who is directly responsible and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where State functionaries responsible for combating domestic violence neglect their duty, abuse their power or engage in malpractices for personal gain, they shall be given sanctions in accordance with the law; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Violence committed between persons who live together but are not family members shall be handled with reference to the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "This Law shall come into force on 1 March 2016."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -1302,6 +5706,7656 @@
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0094'] = {
+    "lawId": "CN-LAW-0094",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to prevent food waste, ensure national food security, carry forward the traditional virtues of the Chinese nation, practise the core socialist values, conserve resources, protect the environment and promote the sustainable development of the economy and society, this Law is formulated in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Food referred to in this Law means food as defined in the Food Safety Law of the People's Republic of China, including all kinds of foodstuffs for human consumption or drinking.\nFood waste referred to in this Law means the failure to reasonably utilise food that is safe to eat or drink in accordance with its functional purpose, including discarding it, and any reduction in the quantity or deterioration in the quality of food caused by unreasonable utilisation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State practises strict economy and opposes waste.\nThe State adheres to the principles of taking multiple measures simultaneously, implementing precise policies, scientific management and social co-governance, and adopts technically feasible and economically reasonable measures to prevent and reduce food waste.\nThe State advocates a civilised, healthy, resource-conserving and environment-friendly mode of consumption, and promotes a simple, moderate, green and low-carbon lifestyle."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at all levels shall strengthen leadership over work against food waste, determine the objectives and tasks of combating food waste, establish and improve the working mechanism against food waste, organise the monitoring, investigation, analysis and assessment of the food waste situation, strengthen supervision and administration, and advance work against food waste.\nLocal people's governments at or above the county level shall, every year, make public to society the situation of food waste, put forward measures to strengthen the combating of food waste, and continuously promote action against food waste throughout society."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The development and reform department under the State Council shall strengthen the organisation and coordination of national work against food waste; it shall, together with the relevant departments under the State Council, analyse and assess the food waste situation every year, make overall arrangements for work against food waste, and put forward relevant work measures and opinions, which shall be implemented by the relevant departments.\nThe competent commerce department under the State Council shall strengthen the administration of the catering industry and establish and improve industry standards and service norms; it shall, together with the market supervision and administration department under the State Council and others, establish rules and norms against food waste in the catering industry, and take measures to encourage catering service providers to offer individual portions and to make public their situation regarding food waste.\nThe market supervision and administration department under the State Council shall strengthen supervision over the situation of food producers and traders in combating food waste, and urge food producers and traders to implement measures against food waste.\nThe national food and strategic reserves department shall strengthen the administration of grain saving and loss reduction in the process of grain storage and circulation, and shall, together with the relevant departments under the State Council, organise the implementation of the standards for grain storage, transport and processing.\nThe relevant departments under the State Council shall, in accordance with this Law and the functions prescribed by the State Council, take measures to carry out work against food waste."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "State organs, people's organisations and State-owned enterprises and institutions shall, in accordance with the relevant provisions of the State, refine and improve the rules on meals for official activities such as official receptions, meetings and training, strengthen management, and take the lead in practising strict economy and opposing waste.\nWhere meals need to be arranged for official activities, the quantity and form of the meals shall be arranged frugally in light of the actual situation and may not exceed the prescribed standards."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Catering service providers shall take the following measures to prevent food waste:\n(a) establish and improve management systems for food procurement, storage and processing, strengthen vocational training for service personnel, and include cherishing food and opposing waste in the training content;\n(b) take the initiative to remind consumers to prevent food waste, post or place signs against food waste in conspicuous positions, or have service personnel give reminders and explanations, and guide consumers to order food as needed and in appropriate amounts;\n(c) improve the quality of the catering supply, prepare food in accordance with standards and norms, reasonably determine quantities and portions, and offer small portions and other choices of different specifications;\n(d) where group meal services are provided, incorporate the concept of preventing food waste into menu design and reasonably allocate dishes and staple foods according to the number of diners;\n(e) where buffet services are provided, take the initiative to inform consumers of the dining rules and the requirements for preventing food waste, provide tableware of different specifications, and remind consumers to take appropriate amounts of food.\nCatering service providers may not induce or mislead consumers to order excessive amounts of food.\nCatering service providers may enrich menu information by marking food portions, specifications and the recommended number of diners on menus, provide ordering tips to consumers, and provide serving chopsticks and spoons and take-away services according to the needs of consumers.\nCatering service providers may reward consumers who participate in the 'Clear Plate Campaign'; they may also charge consumers who cause obvious waste the corresponding fees for the disposal of kitchen waste, and the charge standards shall be clearly indicated.\nCatering service providers may use information technology to analyse dining demand and, through measures such as building central kitchens and distribution centres, conduct scientific management of food procurement, transport, storage and processing."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Units with canteens shall establish and improve canteen dining management systems, formulate and implement measures to prevent food waste, strengthen publicity and education, and enhance awareness of combating food waste.\nUnit canteens shall strengthen the dynamic management of food procurement, storage and processing, purchase, prepare and allocate meals according to the number of diners, raise the utilisation rate of raw materials and the level of cooking, provide meals in accordance with the principles of health, economy and standardisation, and pay attention to a balanced diet.\nUnit canteens shall improve the way meals are served, post or place signs against food waste in conspicuous positions, and guide diners to order and take appropriate amounts of food; where wasteful behaviour occurs, they shall promptly remind and correct it."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Schools shall monitor, analyse and assess the number and composition of diners and strengthen the management of catering services in school canteens; where an off-campus meal supplier is selected, a sound mechanism for introduction and withdrawal shall be established and the best one shall be selected.\nSchool canteens and off-campus meal suppliers shall strengthen refined management, supply meals as needed, improve the way meals are served, provide scientifically nutritious meals, enrich meal choices of different specifications and flavours, regularly listen to the opinions of diners, and guarantee the quality of dishes and staple foods."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Food delivery platforms shall, in a conspicuous manner, remind consumers to order food in appropriate amounts. Where catering service providers provide services through food delivery platforms, they shall provide consumers on the platform pages with information such as food portions, specifications or the recommended number of diners."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Tourism operators shall guide tourists to dine in a civilised and healthy manner. Travel agencies and tour guides shall reasonably arrange group meals and remind tourists to order and take appropriate amounts of food. The relevant industries shall include the work of tourism operators against food waste in the indicators for assessing quality standards and grades."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Food operators such as supermarkets and shopping malls shall strengthen daily inspections of the food they sell, manage food approaching its shelf life by category, and mark it specially or display it for sale in a centralised manner."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall take measures to oppose extravagance and waste, encourage and promote the holding of activities in a civilised and frugal manner, and create an atmosphere in which waste is shameful and economy is honourable.\nWhere meals are needed for weddings and funerals, gatherings of friends and family, business activities and the like, the organisers and participants shall prepare and order food in moderation and dine in a civilised and healthy manner."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Individuals shall foster a civilised, healthy, rational and green concept of consumption and, when dining out, order and take food reasonably according to their personal health condition, dietary habits and dining needs.\nFamilies and their members shall, in family life, cultivate good habits that are scientific and healthy, make the best use of everything and prevent waste, and purchase, store and prepare food according to the actual needs of daily life."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall improve the standards for the production, storage, transport and processing of grain and other edible agricultural products, promote the use of new technologies, new processes and new equipment, and guide moderate processing and comprehensive utilisation so as to reduce losses.\nFood producers and traders shall take measures to improve the conditions for food storage, transport and processing, prevent food from spoiling, and reduce losses in storage and transport; they shall raise the utilisation rate of food processing and avoid excessive processing and excessive use of raw materials."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In formulating and amending the relevant national standards, industry standards and local standards, the prevention of food waste shall be taken as an important consideration, and waste shall be prevented to the greatest extent on the premise of ensuring food safety.\nThe shelf life of food shall be set scientifically and reasonably, marked conspicuously and easy to identify."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall establish supervision and inspection mechanisms against food waste and promptly urge rectification of the food waste problems found.\nWhere food producers and traders seriously waste food in the course of food production and operation, the market supervision and administration, commerce and other departments of the local people's government at or above the county level may conduct a regulatory interview with their legal representative or principal person in charge. The food producers and traders interviewed shall rectify the matter immediately."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The administrative affairs administration department shall, together with the relevant departments, establish a system for assessing and reporting the effectiveness of work against food waste in State organ canteens, and include combating food waste in the assessment of energy and resource conservation by public institutions and in the activities for creating economy-oriented State organs."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Food and catering industry associations and the like shall strengthen industry self-discipline, formulate and implement, in accordance with the law, the relevant association standards and industry self-discipline norms against food waste, publicise and popularise knowledge on preventing food waste, promote advanced models, guide members to conscientiously carry out activities against food waste, and take necessary self-discipline measures against members whose behaviour is wasteful.\nFood and catering industry associations and the like shall carry out monitoring of food waste, strengthen analysis and assessment, and make public to society each year the relevant situation of combating food waste and the monitoring and assessment results, so as to provide support for State organs in formulating laws, regulations, policies and standards and in conducting research on the relevant issues, and to accept social supervision.\nConsumers' associations and other consumer organisations shall strengthen education for consumers on food consumption and guide them to develop consumption habits that consciously resist waste."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "State organs, people's organisations, social organisations, enterprises and institutions and grassroots self-governing organisations of a mass character shall make strict economy and opposition to waste part of the activities for creating mass spiritual civilisation, incorporate it into the relevant assessment systems for such activities and into citizens' conventions, village rules and conventions and industry norms in various places, strengthen publicity, education and scientific popularisation against food waste, promote the 'Clear Plate Campaign', advocate a civilised, healthy and scientific food culture, and enhance public awareness of combating food waste.\nPeople's governments at or above the county level and their relevant departments shall continuously organise and carry out publicity and education against food waste, and shall make combating food waste an important part of National Food Security Publicity Week."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The administrative department of education shall guide and urge schools to strengthen education and management against food waste.\nSchools shall carry out education on national conditions in accordance with the provisions, include strict economy and opposition to waste in education and teaching, and carry out special educational activities against food waste through study and practice, experiencing labour and other forms, so as to cultivate in students the habit of diligence and thrift and of cherishing food.\nSchools shall establish supervision and inspection mechanisms for preventing food waste and formulate and implement corresponding reward and punishment measures."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The news media shall carry out public-interest publicity on the laws and regulations against food waste and on the relevant standards and knowledge, report advanced models, expose wasteful phenomena, guide the public to establish a correct concept of food consumption, and conduct public opinion supervision over food waste. The relevant publicity and reports against food waste shall be truthful and fair.\nIt is prohibited to produce, publish or disseminate programmes or audio and video information that promote large quantities of eating, binge eating and drinking or other waste of food.\nWhere online audio and video service providers find that a user has committed an act in violation of the preceding paragraph, they shall immediately stop transmitting the relevant information; where the circumstances are serious, they shall stop providing information services."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The civil affairs, market supervision and administration and other departments of local people's governments at or above the county level shall establish a mechanism for matching donation needs and shall guide food producers and traders and the like to donate food to the relevant social organisations, welfare institutions, relief institutions and other organisations or individuals on the premise of ensuring food safety. The relevant organisations shall, as needed, receive and distribute food in a timely manner.\nThe State encourages social forces to participate in food donation activities. Online information service providers may build platforms to provide services for food donation and the like."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Units, families and individuals that generate kitchen waste shall perform their obligation to reduce kitchen waste at source in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall organise the monitoring of nutritional status and the popularisation of nutritional knowledge, guide citizens to develop scientific dietary habits, and reduce the risk of disease caused by unhealthy diets."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "People's governments at or above the county level shall take measures to support scientific research, technological development and other activities for preventing food waste.\nGovernment procurement of the relevant goods and services shall be conducive to preventing food waste.\nThe State implements a tax policy conducive to preventing food waste."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Any unit or individual that finds that food producers and traders or the like have committed food waste shall have the right to report it to the relevant departments and organs. The departments and organs that receive the report shall promptly deal with it in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a catering service provider fails to take the initiative to remind consumers to prevent food waste, the market supervision and administration department of the local people's government at or above the county level or the department designated by the local people's government at or above the county level shall order it to make corrections and give it a warning.\nWhere, in violation of the provisions of this Law, a catering service provider induces or misleads consumers to order excessive amounts of food and causes obvious waste, the market supervision and administration department of the local people's government at or above the county level or the department designated by the local people's government at or above the county level shall order it to make corrections and give it a warning; where it refuses to make corrections, a fine of not less than RMB 1,000 but not more than RMB 10,000 shall be imposed.\nWhere, in violation of the provisions of this Law, a food producer or trader causes serious food waste in the course of food production and operation, the market supervision and administration department of the local people's government at or above the county level or the department designated by the local people's government at or above the county level shall order it to make corrections, and where it refuses to make corrections, a fine of not less than RMB 5,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a unit with a canteen fails to formulate or implement measures to prevent food waste, the department designated by the local people's government at or above the county level shall order it to make corrections and give it a warning."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a radio station, television station or online audio and video service provider produces, publishes or disseminates programmes or audio and video information that promote large quantities of eating, binge eating and drinking or other waste of food, the departments of radio and television, cyberspace administration and the like shall, according to their respective functions, order it to make corrections and give it a warning; where it refuses to make corrections or the circumstances are serious, a fine of not less than RMB 10,000 but not more than RMB 100,000 shall be imposed, and it may be ordered to suspend the relevant business and to suspend business for rectification, and the person in charge who is directly responsible and the other persons directly responsible shall be held legally liable in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Provinces, autonomous regions and municipalities directly under the Central Government, or cities divided into districts and autonomous prefectures, shall, in light of the specific circumstances and actual needs, formulate specific measures against food waste for their localities."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "This Law shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0095'] = {
+    "lawId": "CN-LAW-0095",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 16 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in accordance with the Constitution in order to safeguard national sovereignty, security and development interests and to protect the lawful rights and interests of Chinese citizens and organisations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The People's Republic of China adheres to an independent foreign policy of peace, upholds the Five Principles of mutual respect for sovereignty and territorial integrity, mutual non-aggression, non-interference in each other's internal affairs, equality and mutual benefit, and peaceful coexistence, safeguards the international system with the United Nations at its core and the international order based on international law, develops friendly cooperation with countries throughout the world, and promotes the building of a community with a shared future for mankind."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The People's Republic of China opposes hegemonism and power politics and opposes interference by any State, on any pretext and by any means, in China's internal affairs.\nWhere a foreign State, in violation of international law and the basic norms of international relations, contains or suppresses China on various pretexts or under its own laws, and adopts discriminatory restrictive measures against Chinese citizens and organisations, thereby interfering in China's internal affairs, China has the right to take corresponding countermeasures."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The relevant departments of the State Council may decide to include in the countermeasure list the individuals and organisations that directly or indirectly participate in the formulation, decision or implementation of the discriminatory restrictive measures specified in Article 3 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In addition to the individuals and organisations included in the countermeasure list under Article 4 of this Law, the relevant departments of the State Council may also decide to take countermeasures against the following individuals and organisations:\n(a) the spouse and direct relatives of an individual included in the countermeasure list;\n(b) the senior managers or actual controllers of an organisation included in the countermeasure list;\n(c) organisations in which an individual included in the countermeasure list serves as a senior manager;\n(d) organisations actually controlled by, or in whose establishment or operation there is participation by, individuals and organisations included in the countermeasure list."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The relevant departments of the State Council may, in accordance with their respective functions and division of tasks, decide in light of the actual circumstances to take one or more of the following measures against the individuals and organisations specified in Article 4 and Article 5 of this Law:\n(a) refusing to issue a visa, denying entry, cancelling a visa or expelling from the territory;\n(b) sealing up, seizing or freezing movable property, immovable property and other types of property within the territory of China;\n(c) prohibiting or restricting the organisations and individuals within the territory of China from conducting the relevant transactions, cooperation and other activities with them;\n(d) other necessary measures."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Decisions made by the relevant departments of the State Council under Article 4 to Article 6 of this Law are final decisions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the circumstances on which countermeasures are based change, the relevant departments of the State Council may suspend, modify or cancel the countermeasures concerned."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The establishment, suspension, modification or cancellation of the countermeasure list and of countermeasures shall be published by order of the Ministry of Foreign Affairs or of other relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State establishes a coordination mechanism for countering foreign sanctions, which is responsible for the overall coordination of the relevant work.\nThe relevant departments of the State Council shall strengthen coordination, cooperation and information sharing, and shall determine and implement the countermeasures concerned in accordance with their respective functions and division of tasks."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Organisations and individuals within the territory of China shall implement the countermeasures taken by the relevant departments of the State Council.\nThe relevant departments of the State Council shall, in accordance with the law, deal with organisations and individuals that violate the provisions of the preceding paragraph, and shall restrict or prohibit them from engaging in the relevant activities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "No organisation or individual shall implement or assist in the implementation of the discriminatory restrictive measures taken by a foreign State against Chinese citizens and organisations.\nWhere an organisation or individual violates the provisions of the preceding paragraph and infringes upon the lawful rights and interests of Chinese citizens and organisations, the Chinese citizens and organisations may, in accordance with the law, institute an action before a people's court requesting that the infringement be stopped and that the loss be compensated."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "With respect to acts endangering China's sovereignty, security and development interests, in addition to the provisions of this Law, the relevant laws, administrative regulations and departmental rules may provide for the adoption of other necessary countermeasures."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where any organisation or individual fails to implement or to cooperate in the implementation of countermeasures, legal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a foreign State, organisation or individual commits, assists in or supports acts endangering China's sovereignty, security and development interests and necessary countermeasures need to be taken, the relevant provisions of this Law shall be applied by reference."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "This Law shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0099'] = {
+    "lawId": "CN-LAW-0099",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 47 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted to prevent land desertification, control desertified land, safeguard ecological security, and promote the sustainable development of the economy and society."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Within the territory of the People's Republic of China, all entities engaging in the prevention of land desertification and in the control, development and use of desertified land must comply with this Law.\nLand desertification means the process of the expansion of natural deserts and the destruction of vegetation on sandy soil, resulting in the exposure of sandy soil, caused by climate change and human activities.\nFor the purposes of this Law, land desertification means the process whereby natural deserts expand and the vegetation and ground cover on sandy soil are destroyed, mainly as a result of unreasonable human activities, resulting in the formation of drifting sand and the exposure of sandy soil.\nFor the purposes of this Law, desertified land includes land that has already become desertified and land showing an obvious tendency towards desertification. The specific scope shall be determined by the national plan for desertification prevention and control approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The work of desertification prevention and control shall follow the following principles:\n(a) unified planning, adaptation to local conditions, implementation step by step, and a combination of regional control with the control of key areas;\n(b) giving priority to prevention, combining prevention with control, and conducting comprehensive treatment;\n(c) combining the protection and restoration of vegetation with the rational use of natural resources;\n(d) following ecological laws and relying on scientific and technological progress;\n(e) combining the improvement of the ecological environment with helping farmers and herdsmen to escape poverty and achieve prosperity;\n(f) combining State support with local self-reliance, combining organisation by the government with participation by all sectors of society, and encouraging entities and individuals to contract for the control of desertification; and\n(g) safeguarding the lawful rights and interests of those engaged in desertification prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State Council and the local people's governments at or above the county level in the areas where desertified land is located shall incorporate desertification prevention and control into their plans for national economic and social development and safeguard and support the work of desertification prevention and control.\nThe local people's governments at all levels in the areas where desertified land is located shall take effective measures to prevent land desertification, control desertified land, and protect and improve the ecological quality of their respective administrative regions.\nThe State shall establish, in the areas where desertified land is located, a system for assessing, rewarding or punishing the administrative leaders of the government against the objectives set for their terms of office in respect of desertification prevention and control. The local people's governments at or above the county level in the areas where desertified land is located shall report on their work in desertification prevention and control to the people's congresses at the corresponding levels and their standing committees."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Under the leadership of the State Council, the competent administrative department for forestry and grassland under the State Council shall be responsible for organising, coordinating and guiding the work of desertification prevention and control nationwide.\nThe competent administrative departments for forestry and grassland, agriculture, water resources, land and the ecological environment under the State Council and the competent meteorological authority shall, in accordance with the duties prescribed by the relevant laws and the division of duties determined by the State Council, each assume their respective responsibilities, cooperate closely, and jointly do a good job in desertification prevention and control.\nThe local people's governments at or above the county level shall organise and lead the relevant departments under them to each assume their respective responsibilities in accordance with the division of duties, cooperate closely, and jointly do a good job in desertification prevention and control within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Entities and individuals using land shall have the obligation to prevent the desertification of such land.\nEntities and individuals using land that has already become desertified shall have the obligation to control the desertified land."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall support scientific research and the dissemination of technology for desertification prevention and control, give play to the role of scientific research departments and institutions in the work of desertification prevention and control, train specialised technical personnel for desertification prevention and control, and raise the scientific and technological level of desertification prevention and control.\nThe State shall support international cooperation in desertification prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Entities and individuals that have made outstanding achievements in the work of desertification prevention and control shall be commended and rewarded by the people's governments; those that have made outstanding contributions to the protection and improvement of ecological quality shall be given substantial rewards."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The local people's governments at all levels in the areas where desertified land is located shall organise the relevant departments to carry out publicity and education on knowledge of desertification prevention and control, enhance citizens' awareness of desertification prevention and control, and improve their capacity in this regard."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Desertification prevention and control shall be subject to unified planning. Entities engaging in activities for desertification prevention and control, as well as activities for the development and use of land within the scope of desertified land, must comply with the plans for desertification prevention and control.\nPlans for desertification prevention and control shall contain clear provisions on the time limits, steps and measures for curbing the tendency of land desertification to expand and progressively reducing desertified land, and shall incorporate the specific implementation plans into the five-year plans and annual plans for national economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Planning for Desertification Prevention and Control"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The competent administrative department for forestry and grassland under the State Council shall, jointly with the relevant departments under the State Council for agriculture, water resources, land and the ecological environment, compile the national plan for desertification prevention and control, and implement it after submitting it to the State Council for approval.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the national plan for desertification prevention and control, compile plans for desertification prevention and control within their respective administrative regions, and implement them after submitting them to the State Council or the relevant department designated by the State Council for approval.\nThe municipal and county people's governments in the areas where desertified land is located shall, on the basis of the plans for desertification prevention and control of the people's governments at the next higher level, organise the compilation of plans for desertification prevention and control within their respective administrative regions, and implement them after submitting them to the people's governments at the next higher level for approval.\nAny modification of a plan for desertification prevention and control must be subject to approval by the original approving organ; without approval, no entity or individual may modify the plan for desertification prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Planning for Desertification Prevention and Control"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In compiling plans for desertification prevention and control, desertified land shall be subject to classified protection, comprehensive treatment and rational use in light of such natural conditions as its geographical location, land type, vegetation status, climate and water resources, and the degree of land desertification, as well as the ecological and economic functions it performs.\nContiguous desertified land that does not meet the conditions for control within the planning period, and that is unsuitable for development and use because of the need to protect the ecology, shall be planned as a closed protection zone for desertified land and subject to closure and protection. The scope of closed protection zones for desertified land shall be determined by the national plan for desertification prevention and control and by the plans for desertification prevention and control of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Planning for Desertification Prevention and Control"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Plans for desertification prevention and control shall be coordinated with the overall plans for land use; the uses of desertified land determined in the plans for desertification prevention and control shall conform to the overall plans for land use of the people's governments at the corresponding levels."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Planning for Desertification Prevention and Control"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent administrative department for forestry and grassland under the State Council shall organise the other relevant administrative departments to monitor, compile statistics on and analyse the situation of land desertification nationwide, and publish the monitoring results on a regular basis.\nThe competent administrative departments for forestry and grassland or other relevant administrative departments under the local people's governments at or above the county level shall monitor desertified land in accordance with the technical regulations for the monitoring of land desertification, and report the monitoring results to the people's governments at the corresponding levels and to the competent administrative departments for forestry and grassland or other relevant administrative departments at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where, in the course of monitoring land desertification, the competent administrative departments for forestry and grassland or other relevant administrative departments under the local people's governments at or above the county level discover that land has become desertified or that desertification has intensified, they shall promptly report the matter to the people's governments at the corresponding levels. The people's governments receiving the reports shall instruct the relevant administrative departments to stop the acts causing land desertification and take effective measures to control it.\nThe competent meteorological authorities at all levels shall organise the monitoring and forecasting of meteorological drought and sandstorm weather and, upon discovering signs of meteorological drought or sandstorm weather, shall promptly report the matter to the local people's governments. The people's governments receiving the reports shall take preventive measures, publish disaster forecasts where necessary, and organise the relevant departments for forestry and grassland, agriculture (animal husbandry) and other sectors to take emergency measures to avoid or mitigate damage from wind and sand."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The local people's governments at or above the county level in the areas where desertified land is located shall, in accordance with the plans for desertification prevention and control, set aside a certain proportion of land and, in light of local conditions, establish networks and belts of forests for wind breaking and sand fixation and plant perennial shrubs and herbaceous plants. The competent administrative departments for forestry and grassland shall be responsible for determining the standards and specific tasks for the survival and preservation rates of planted trees, shall organise implementation plot by plot, clarify responsibilities, and ensure the completion of the tasks.\nExcept for felling of the nature of tending and regeneration, no approval shall be given for the felling of networks and belts of forests for wind breaking and sand fixation. Before felling networks and belts of forests for wind breaking and sand fixation for the purpose of tending and regeneration, replacement networks and belts of forests must first be formed in the vicinity.\nFor existing networks and belts of forests for wind breaking and sand fixation in areas where forest regeneration is difficult, no approval shall be given for felling."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The cutting or digging up of shrubs, medicinal herbs and other sand-fixing plants on desertified land is prohibited.\nThe county people's governments in the areas where desertified land is located shall establish systems for the management and protection of vegetation, strictly protect vegetation, and, as needed, establish organisations for the management and protection of vegetation in townships (towns) and villages and designate management and protection personnel.\nWithin the scope of desertified land, all types of land contracting contracts shall include provisions on responsibility for the protection of vegetation."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The local people's governments at all levels in the grassland regions shall strengthen the management and development of grassland. The competent administrative departments for forestry and grassland shall, jointly with the competent administrative departments for animal husbandry, be responsible for guiding and organising farmers and herdsmen in developing artificial grassland, controlling stocking capacity, adjusting the structure of livestock, improving livestock breeds, promoting the practice of pen-feeding livestock and rotational grazing of grassland, eliminating damage to grassland caused by rodents and insect pests, protecting grassland vegetation, and preventing grassland degradation and desertification.\nGrassland shall be subject to a system under which stocking capacity is determined by grass yield. The competent administrative departments for forestry and grassland shall, jointly with the competent administrative departments for animal husbandry, be responsible for formulating the standards and relevant provisions on stocking capacity, and shall organise implementation level by level, clarify responsibilities, and ensure the completion of the tasks."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The competent administrative departments for water resources under the local people's governments at or above the county level in the areas where desertified land is located shall strengthen the unified allocation and management of water resources in river basins and regions and, in compiling plans for the development and use of water resources in river basins and regions and in water-supply plans, must take into account the water demand for the protection of vegetation in the entire river basin and region, so as to prevent the destruction of vegetation and land desertification caused by the over-exploitation and use of groundwater and water resources in the upper reaches. Once approved, such plans must be strictly implemented.\nThe local people's governments at all levels in the areas where desertified land is located shall economise on the use of water and develop water-saving agriculture, animal husbandry and other industries."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The local people's governments at or above the county level in the areas where desertified land is located shall not approve the reclamation of farmland on the margins of deserts or in forest land or grassland; where such reclamation has already taken place and has had an adverse effect on the ecology, the government concerned shall organise in a planned manner the return of farmland to forests and grassland."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Entities engaging in development and construction activities within the scope of desertified land must, in advance, conduct an environmental impact assessment of the possible effects of the project on the local and related areas and submit an environmental impact report in accordance with the law; the environmental impact report shall include the relevant content on desertification prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Within the scope of closed protection zones for desertified land, all activities that destroy vegetation are prohibited.\nThe resettlement of migrants within the scope of closed protection zones for desertified land is prohibited. The local people's governments at or above the county level shall organise in a planned manner the relocation of farmers and herdsmen within the scope of closed protection zones for desertified land and resettle them properly. The production and livelihood of farmers and herdsmen within the scope of closed protection zones for desertified land who have not yet been relocated shall be properly arranged by the competent departments for closed protection zones for desertified land.\nWithout the consent of the State Council or the department designated by the State Council, no construction activities such as the building of railways or highways shall be carried out within the scope of closed protection zones for desertified land."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention of Land Desertification"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The local people's governments at all levels in the areas where desertified land is located shall, in accordance with the plans for desertification prevention and control, organise the relevant departments, entities and individuals to take, in light of local conditions, such measures as artificial afforestation and grass planting, afforestation and grass planting by aerial seeding, closure of sandy land for the cultivation of forests and grass, and the rational allocation of ecological water, so as to restore and increase vegetation and control land that has already become desertified."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall encourage entities and individuals to donate funds or otherwise carry out public-interest activities for desertification control on a voluntary basis.\nThe competent administrative departments for forestry and grassland or other relevant administrative departments under the local people's governments at or above the county level shall provide locations for control and free technical guidance for public-interest desertification control activities.\nEntities and individuals engaged in public-interest desertification control activities shall carry out control in accordance with the technical requirements of the competent administrative departments for forestry and grassland or other relevant administrative departments under the local people's governments at or above the county level, and may entrust the forests and grass they have planted to others for management and protection, or hand them over to the relevant administrative departments of the local people's governments for management and protection."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Holders of the right to use State-owned land that has already become desertified and holders of the right to land contractual management over land owned by farmers collectively must take control measures to improve the quality of the land; where they are genuinely incapable of completing the task of control, they may entrust the control to others or carry out the control in cooperation with others. Where control is entrusted to others or carried out in cooperation with others, an agreement shall be signed to clarify the rights and obligations of the parties concerned.\nThe local people's governments at all levels in the areas where desertified land is located and the relevant administrative departments and technology dissemination units thereof shall provide technical guidance for the desertification control activities of holders of land use rights and holders of the right to land contractual management.\nHolders of land use rights and holders of the right to land contractual management who adopt such measures as returning farmland to forests and grassland, planting trees and grass, or enclosure for the regeneration of forests and grass to control desertification shall, in accordance with the relevant provisions of the State, enjoy the preferential policies provided by the people's governments."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Entities and individuals that do not own the land or hold the right to use the land and that engage in profit-making desertification control activities shall first sign agreements with the owners or users of the land and obtain the right to use the land in accordance with the law.\nBefore the commencement of the control activities, entities and individuals engaged in profit-making desertification control activities shall submit an application for control to the competent administrative department for forestry and grassland under the local people's government at or above the county level at the place where the control project is located, or to another relevant administrative department designated by the local people's government at or above the county level, and attach the following documents:\n(a) a lawful certificate of the ownership of the land to be controlled and the agreement on control;\n(b) a control plan conforming to the plan for desertification prevention and control; and\n(c) a certificate of the funds required for the control."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The control plan referred to in subparagraph (b) of paragraph 2 of Article 26 of this Law shall include the following content:\n(a) the boundaries of the scope of control;\n(b) the objectives of control by stages and the period for control;\n(c) the main control measures;\n(d) the sources and quotas of water use approved by the local competent administrative department for water resources;\n(e) the uses of the land after control and the measures for the management and protection of vegetation; and\n(f) other matters that need to be specified."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Entities and individuals engaged in profit-making desertification control activities must carry out control in accordance with the control plan.\nThe State shall protect the lawful rights and interests of those engaged in the control of desertified land. Within the scope of control for which the controller has lawfully obtained the land tenure, no other entity or individual may engage in control or in development and use activities without the consent of the controller."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Upon completion of the task of control, the controller shall submit an application for acceptance to the administrative department that accepted the application for control under the local people's government at or above the county level. Where the control is found qualified upon acceptance, the administrative department that accepted the application for control shall issue to the controller a certificate of qualification for control; where the control is found unqualified upon acceptance, the controller shall continue the control."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Within the scope of land that has already become desertified, including land along railways, highways, rivers and canals, and land around towns, villages, factories, mines and reservoirs, a system of responsibility for control by entities shall be applied, under which the local people's governments at or above the county level shall issue letters of responsibility for control and the responsible entities shall be responsible for organising afforestation and grass planting or taking other control measures."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The local people's governments at all levels in the areas where desertified land is located may organise the local rural collective economic organisations and their members to carry out concentrated control of land that has already become desertified on a voluntary basis. The funds and labour invested by rural collective economic organisations and their members may be converted into shares and capital of the control project, and compensation may also be given in other forms."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Desertified Land"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State Council and the local people's governments at all levels in the areas where desertified land is located shall, in their fiscal budgets at the corresponding levels and in accordance with the plans for desertification prevention and control, arrange funds through project budgets for the desertification prevention and control projects determined by the people's governments at the corresponding levels. When arranging projects for poverty alleviation, agriculture, water resources, roads, mineral resources, energy and comprehensive agricultural development, they shall, in light of the specific circumstances, establish a number of sub-projects for desertification prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall formulate preferential policies to encourage and support entities and individuals in desertification prevention and control.\nThe local people's governments at or above the county level shall, in accordance with the relevant provisions of the State and in light of the area of land subject to desertification prevention and control and the degree of difficulty involved, provide entities and individuals engaged in desertification prevention and control activities with such preferential policies as financial subsidies, interest subsidies from the public finance, and reductions and exemptions of taxes and fees.\nWhere entities or individuals invest in desertification prevention and control, they shall be exempted from all taxes during the investment stage; after they begin to obtain certain returns, they may be exempted from or have reduced the relevant taxes."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where State-owned land that has already become desertified is used for desertification control activities, the user may, upon approval by the people's government at or above the county level in accordance with the law, enjoy the right to use the land for a period of not more than 70 years. The specific period and the administrative measures shall be prescribed by the State Council.\nWhere land owned by collectives that has already become desertified is used for desertification control activities, the controller shall sign a land contracting contract with the landowner. The specific period of the contract and the other rights and obligations of the parties shall be agreed upon by both parties to the land contracting contract in accordance with the law. The county people's governments shall, in accordance with the law and on the basis of the land contracting contract, issue certificates of land use rights to the controllers, so as to protect the land use rights of those controlling collectively owned desertified land."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where, in light of the special requirements for the protection of the ecology, controlled land is approved and designated as a nature reserve or a closed protection zone for desertified land, the approving organ shall provide the controller with reasonable economic compensation."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall, in light of the needs of desertification prevention and control, organise the establishment of key scientific research projects and demonstration and dissemination projects on desertification prevention and control, and shall provide financial subsidies, reductions and exemptions of taxes and fees, and other preferential policies for scientific research and the dissemination of technology in such areas as desertification prevention and control, energy in sandy areas, cash crops suited to sandy areas, water-saving irrigation, the prevention of grassland degradation, and dryland farming on sandy land."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "No entity or individual may divert or misappropriate funds for desertification prevention and control.\nThe audit organs of the people's governments at or above the county level shall, in accordance with the law, exercise audit supervision over the use of funds for desertification prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Any person who, in violation of the provisions of paragraph 1 of Article 22 of this Law, engages in activities that destroy vegetation within the scope of a closed protection zone for desertified land shall be ordered by the competent administrative department for forestry and grassland under the local people's government at or above the county level to stop the illegal act; where there are illegal gains, such gains shall be confiscated; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a holder of the right to use State-owned land or a holder of the right to land contractual management over land owned by farmers collectively, in violation of the provisions of paragraph 1 of Article 25 of this Law, fails to take measures for desertification prevention and control, thereby causing serious desertification of the land, the competent administrative department for forestry and grassland under the local people's government at or above the county level shall order control within a time limit; where serious desertification of State-owned land is caused, the people's government at or above the county level may take back the right to use the State-owned land."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Any person who, in violation of the provisions of this Law, engages in profit-making desertification control activities, thereby intensifying land desertification, shall be ordered by the administrative department responsible for accepting applications for profit-making desertification control under the local people's government at or above the county level to stop the illegal act, and may in addition be fined not less than 5,000 yuan and not more than 50,000 yuan per hectare."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Any person who, in violation of the provisions of paragraph 1 of Article 28 of this Law, fails to carry out control in accordance with the control plan, or who, in violation of the provisions of Article 29 of this Law, fails to continue control as required after the control has been found unqualified upon acceptance, shall be ordered by the administrative department responsible for accepting applications for profit-making desertification control under the local people's government at or above the county level to stop the illegal act and rectify it within a time limit, and may in addition be fined a sum equivalent to not less than one time and not more than three times the cost of control."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Any person who, in violation of the provisions of paragraph 2 of Article 28 of this Law, engages, without the consent of the controller, in control or in development and use activities within the scope of control of another person shall be ordered by the administrative department responsible for accepting applications for profit-making desertification control under the local people's government at or above the county level to stop the illegal act; where losses are caused to the controller, the person shall compensate for the losses."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Any person who, in violation of the provisions of this Law, falls under any of the following circumstances shall, where the person is the person in charge directly responsible or another person directly responsible, be given administrative disciplinary sanctions by the entity to which the person belongs, by a supervisory organ, or by the competent administrative department at a higher level in accordance with the law:\n(a) in violation of the provisions of paragraph 1 of Article 15 of this Law, failing to promptly report the discovery that land has become desertified or that desertification has intensified, or failing to instruct the relevant administrative departments to take measures upon receipt of a report;\n(b) in violation of the provisions of paragraphs 2 and 3 of Article 16 of this Law, approving the felling of networks and belts of forests for wind breaking and sand fixation;\n(c) in violation of the provisions of Article 20 of this Law, approving the reclamation of farmland on the margins of deserts or in forest land or grassland;\n(d) in violation of the provisions of paragraph 2 of Article 22 of this Law, resettling migrants within the scope of a closed protection zone for desertified land; or\n(e) in violation of the provisions of paragraph 3 of Article 22 of this Law, carrying out construction activities such as the building of railways or highways within the scope of a closed protection zone for desertified land without approval."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Any person who, in violation of the provisions of paragraph 1 of Article 37 of this Law, diverts or misappropriates funds for desertification prevention and control shall, where the person is the person in charge directly responsible or another person directly responsible, be given administrative disciplinary sanctions by a supervisory organ or by the competent administrative department at a higher level in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Any person engaged in the supervision and administration of desertification prevention and control who abuses power, neglects duty or engages in malpractices for personal gain shall, where a crime is constituted, be pursued for criminal responsibility in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The relevant laws referred to in paragraph 2 of Article 5 of this Law are the Forest Law of the People's Republic of China, the Grassland Law of the People's Republic of China, the Water and Soil Conservation Law of the People's Republic of China, the Land Administration Law of the People's Republic of China, the Environmental Protection Law of the People's Republic of China and the Meteorology Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 2002."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0102'] = {
+    "lawId": "CN-LAW-0102",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 45 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in order to inherit and carry forward the excellent traditional culture of the Chinese nation, promote the building of socialist spiritual civilisation, and strengthen the protection and preservation of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, intangible cultural heritage means the various traditional cultural expressions handed down from generation to generation by the people of all ethnic groups and regarded as forming part of their cultural heritage, as well as the tangible objects and places related to such traditional cultural expressions. It includes:\n(1) traditional oral literature and the languages serving as their vehicle;\n(2) traditional fine arts, calligraphy, music, dance, drama, folk art and acrobatics;\n(3) traditional skills, medicine and calendars;\n(4) traditional etiquette, festivals and other folk customs;\n(5) traditional sports and recreation;\n(6) other intangible cultural heritage.\nWhere the tangible objects and places forming part of intangible cultural heritage are cultural relics, the relevant provisions of the Law on the Protection of Cultural Relics of the People's Republic of China shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall take measures such as identification, recording and archiving to preserve intangible cultural heritage, and shall take measures such as inheritance and dissemination to protect intangible cultural heritage that embodies the excellent traditional culture of the Chinese nation and is of historical, literary, artistic or scientific value."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In protecting intangible cultural heritage, attention shall be paid to its authenticity, integrity and inheritance, so as to enhance the cultural identity of the Chinese nation, safeguard national unity and ethnic solidarity, and promote social harmony and sustainable development."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In using intangible cultural heritage, its form and connotation shall be respected.\nThe use of intangible cultural heritage in a manner of distortion or denigration is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The people's government at or above the county level shall incorporate the protection and preservation of intangible cultural heritage into its plan for national economic and social development at the corresponding level, and include the funds for protection and preservation in its fiscal budget at the corresponding level.\nThe State shall support the protection and preservation of intangible cultural heritage in ethnic minority areas, remote areas and poverty-stricken areas."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent cultural department of the State Council shall be responsible for the protection and preservation of intangible cultural heritage throughout the country; the competent cultural department of the people's government at or above the county level shall be responsible for the protection and preservation of intangible cultural heritage within its administrative area.\nOther relevant departments of the people's government at or above the county level shall, within the scope of their respective duties, be responsible for the protection and preservation of the relevant intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The people's government at or above the county level shall strengthen publicity on the protection of intangible cultural heritage and raise the awareness of the whole society to protect intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall encourage and support citizens, legal persons and other organisations to participate in the protection and preservation of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Organisations and individuals that have made outstanding contributions to the protection and preservation of intangible cultural heritage shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The people's government at or above the county level shall, according to the needs of the protection and preservation of intangible cultural heritage, organise investigations of intangible cultural heritage. Investigations of intangible cultural heritage shall be conducted by the competent cultural department.\nOther relevant departments of the people's government at or above the county level may investigate the intangible cultural heritage within their fields of work."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Investigation of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In conducting investigations of intangible cultural heritage, the competent cultural department and other relevant departments shall identify, record and archive the intangible cultural heritage, and establish and improve a mechanism for sharing investigation information.\nIn conducting investigations of intangible cultural heritage, the competent cultural department and other relevant departments shall collect representative tangible objects forming part of intangible cultural heritage, arrange the materials obtained in the investigation, and properly preserve them to prevent damage or loss. Copies of pictures and materials obtained by other relevant departments shall be forwarded to the competent cultural department at the same level."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Investigation of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The competent cultural department shall comprehensively understand the relevant circumstances of intangible cultural heritage and establish archives of intangible cultural heritage and related databases. Except for those that shall be kept confidential in accordance with the law, the archives of intangible cultural heritage and related data and information shall be made public to facilitate public access."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Investigation of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Citizens, legal persons and other organisations may, in accordance with the law, conduct investigations of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Investigation of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an overseas organisation or individual conducts an investigation of intangible cultural heritage within the territory of the People's Republic of China, it shall report for approval to the competent cultural department of the people's government of the province, autonomous region or municipality directly under the Central Government; where the investigation is conducted within the administrative areas of two or more provinces, autonomous regions or municipalities directly under the Central Government, it shall report for approval to the competent cultural department of the State Council; after the investigation is concluded, it shall submit an investigation report and pictures of tangible objects and copies of materials obtained in the investigation to the competent cultural department that approved the investigation.\nAn overseas organisation conducting an investigation of intangible cultural heritage within the territory of the People's Republic of China shall conduct it in cooperation with a domestic academic research institution on intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Investigation of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In conducting an investigation of intangible cultural heritage, the consent of the investigation subject shall be obtained, its customs and habits shall be respected, and its legitimate rights and interests shall not be harmed."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Investigation of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "With respect to intangible cultural heritage projects in danger of disappearing discovered through investigation or by other means, the competent cultural department of the county-level people's government shall immediately record them and collect the relevant tangible objects, or take other salvage preservation measures; where inheritance is needed, it shall take effective measures to support inheritance."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Investigation of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State Council shall establish a national catalogue of representative items of intangible cultural heritage, and include in the catalogue for protection those intangible cultural heritage items that embody the excellent traditional culture of the Chinese nation and are of major historical, literary, artistic or scientific value.\nThe people's government of a province, autonomous region or municipality directly under the Central Government shall establish a local catalogue of representative items of intangible cultural heritage, and include in the catalogue for protection those intangible cultural heritage items within its administrative area that embody the excellent traditional culture of the Chinese nation and are of historical, literary, artistic or scientific value."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The people's government of a province, autonomous region or municipality directly under the Central Government may recommend to the competent cultural department of the State Council, from its catalogue of representative items of intangible cultural heritage, items to be included in the national catalogue of representative items of intangible cultural heritage. The following materials shall be submitted at the time of recommendation:\n(1) an introduction to the item, including its name, history, current status and value;\n(2) an introduction to the circumstances of inheritance, including the scope of inheritance, the lineage of inheritance, the skill level of the inheritors and the social influence of the inheritance activities;\n(3) protection requirements, including the objectives to be achieved by protection and the measures, steps and management systems to be taken;\n(4) audio-visual materials and other materials helpful to illustrate the item."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation considers that a certain item of intangible cultural heritage embodies the excellent traditional culture of the Chinese nation and is of major historical, literary, artistic or scientific value, it may submit a proposal to the people's government of a province, autonomous region or municipality directly under the Central Government or to the competent cultural department of the State Council for inclusion in the national catalogue of representative items of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the same item of intangible cultural heritage maintains its form and connotation intact in two or more regions, it may be included in the national catalogue of representative items of intangible cultural heritage at the same time."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The competent cultural department of the State Council shall organise an expert review panel and an expert review committee to conduct preliminary review and deliberation of the intangible cultural heritage items recommended or proposed for inclusion in the national catalogue of representative items of intangible cultural heritage.\nThe preliminary review opinions shall be adopted by a vote of more than half of the members of the expert review panel. The expert review committee shall deliberate on the preliminary review opinions and put forward deliberation opinions.\nThe review work shall follow the principles of openness, fairness and impartiality."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The competent cultural department of the State Council shall publicise the items proposed for inclusion in the national catalogue of representative items of intangible cultural heritage and solicit public opinions. The period of publicisation shall not be less than 20 days."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The competent cultural department of the State Council shall, on the basis of the deliberation opinions of the expert review committee and the results of publicisation, draft the national catalogue of representative items of intangible cultural heritage, and submit it to the State Council for approval and promulgation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The competent cultural department of the State Council shall organise the formulation of a protection plan to protect the national representative items of intangible cultural heritage.\nThe competent cultural department of the people's government of a province, autonomous region or municipality directly under the Central Government shall organise the formulation of a protection plan to protect the local representative items of intangible cultural heritage approved and promulgated by the people's government at its level.\nIn formulating a protection plan for representative items of intangible cultural heritage, key protection shall be given to representative items of intangible cultural heritage in danger of disappearing."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "With respect to a specific area where representative items of intangible cultural heritage are concentrated, distinctive in character and maintain their form and connotation intact, the local competent cultural department may formulate a special protection plan, and, after approval by the people's government at its level, implement regional integral protection. In determining the implementation of regional integral protection of intangible cultural heritage, the wishes of the local residents shall be respected, and the tangible objects and places forming part of intangible cultural heritage shall be protected to avoid damage.\nWhere regional integral protection involves the spatial planning of villages, towns or blocks where intangible cultural heritage is concentrated, the local competent urban and rural planning department shall formulate a special protection plan in accordance with relevant regulations."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The competent cultural department of the State Council and the competent cultural departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall supervise and inspect the implementation of the protection plans for representative items of intangible cultural heritage; where it is found that a protection plan has not been effectively implemented, it shall promptly correct and deal with the matter."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III List of Representative Items of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State shall encourage and support the inheritance and dissemination of representative items of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The competent cultural department of the State Council and the competent cultural departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may recognise representative inheritors for the representative items of intangible cultural heritage approved and promulgated by the people's government at their level.\nA representative inheritor of a representative item of intangible cultural heritage shall satisfy the following conditions:\n(1) having a masterly command of the intangible cultural heritage it inherits;\n(2) being representative in a specific field and having a relatively large influence within a certain area;\n(3) actively carrying out inheritance activities.\nIn recognising the representative inheritor of a representative item of intangible cultural heritage, the provisions of this Law on the review of representative items of intangible cultural heritage shall be applied by reference, and the list of the recognised representative inheritors shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The competent cultural department of the people's government at or above the county level shall, according to needs, take the following measures to support the representative inheritors of representative items of intangible cultural heritage in carrying out inheritance and dissemination activities:\n(1) providing necessary premises for inheritance;\n(2) providing necessary funds to subsidise their activities of taking apprentices, imparting skills and exchanging views;\n(3) supporting their participation in public welfare activities;\n(4) other measures supporting their inheritance and dissemination activities."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A representative inheritor of a representative item of intangible cultural heritage shall perform the following obligations:\n(1) carrying out inheritance activities and training successors;\n(2) properly preserving the relevant tangible objects and materials;\n(3) cooperating with the competent cultural department and other relevant departments in investigations of intangible cultural heritage;\n(4) participating in public-interest publicity of intangible cultural heritage.\nWhere a representative inheritor of a representative item of intangible cultural heritage fails to perform the obligations prescribed in the preceding paragraph without justifiable reasons, the competent cultural department may cancel its qualification as representative inheritor and recognise anew a representative inheritor for the item; where it has lost the ability to inherit, the competent cultural department may recognise anew a representative inheritor for the item."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The people's government at or above the county level shall, in light of actual circumstances, take effective measures to organise the competent cultural department and other relevant departments to publicise and display representative items of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall encourage scientific and technological research relating to intangible cultural heritage and research on methods of protection and preservation of intangible cultural heritage, and shall encourage the recording of intangible cultural heritage and the arranging and publishing of representative items of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Schools shall, in accordance with the provisions of the competent education department of the State Council, carry out relevant education on intangible cultural heritage.\nNews media shall publicise representative items of intangible cultural heritage and disseminate knowledge of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Public cultural institutions such as libraries, cultural centres, museums and science and technology museums, as well as academic research institutions and protection institutions for intangible cultural heritage, and literary and artistic performing troupes and operators of performance venues established with fiscal funds, shall, according to their respective scopes of business, carry out the arranging, research and academic exchange of intangible cultural heritage and the publicisation and display of representative items of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall encourage and support citizens, legal persons and other organisations to establish, in accordance with the law, exhibition venues and inheritance venues for intangible cultural heritage, to display and inherit representative items of intangible cultural heritage."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall encourage and support giving play to the special advantages of intangible cultural heritage resources, and, on the basis of effective protection, reasonably utilise representative items of intangible cultural heritage to develop cultural products and cultural services with local, ethnic characteristics and market potential.\nWhere a unit utilises representative items of intangible cultural heritage for development, it shall support the representative inheritors in carrying out inheritance activities and protect the tangible objects and places forming part of the item.\nThe people's government at or above the county level shall support units that reasonably utilise representative items of intangible cultural heritage. A unit that reasonably utilises representative items of intangible cultural heritage shall, in accordance with the law, enjoy the preferential tax treatment provided by the State."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Inheritance and Dissemination of Intangible Cultural Heritage"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a staff member of the competent cultural department or other relevant department neglects his or her duties, abuses his or her power or commits irregularities for personal gain in the work of protection and preservation of intangible cultural heritage, he or she shall be given a sanction in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a staff member of the competent cultural department or other relevant department infringes upon the customs and habits of the investigation subject in conducting an investigation of intangible cultural heritage, causing serious consequences, he or she shall be given a sanction in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a violation of the provisions of this Law undermines tangible objects and places forming part of intangible cultural heritage, civil liability shall be borne in accordance with the law; where the act constitutes a violation of public security administration, punishment for public security administration shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an overseas organisation violates the provisions of Article 15 of this Law, the competent cultural department shall order it to rectify, give it a warning, and confiscate its illegal gains and the tangible objects and materials obtained in the investigation; where the circumstances are serious, it shall concurrently be fined not less than 100,000 yuan but not more than 500,000 yuan.\nWhere an overseas individual violates the provisions of the first paragraph of Article 15 of this Law, the competent cultural department shall order it to rectify, give it a warning, and confiscate its illegal gains and the tangible objects and materials obtained in the investigation; where the circumstances are serious, it shall concurrently be fined not less than 10,000 yuan but not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The measures for establishing the local catalogue of representative items of intangible cultural heritage shall be formulated by provinces, autonomous regions and municipalities directly under the Central Government by reference to the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the use of intangible cultural heritage involves intellectual property rights, the provisions of relevant laws and administrative regulations shall apply.\nWhere the protection of traditional medicine, traditional arts and crafts, etc. is otherwise provided for by other laws and administrative regulations, such provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "This Law shall come into force on 1 June 2011."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0106'] = {
+    "lawId": "CN-LAW-0106",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 48 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in accordance with the Constitution in order to regulate the conduct of sole proprietorship enterprises, protect the lawful rights and interests of the investors in and creditors of sole proprietorship enterprises, maintain the social and economic order and promote the development of the socialist market economy."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, a \"sole proprietorship enterprise\" means a business entity established within the territory of China in accordance with this Law, invested in by one natural person, with the property owned by the investor as an individual and with the investor bearing unlimited liability for the debts of the enterprise with his own property."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A sole proprietorship enterprise shall have as its domicile the place where its principal office is located."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A sole proprietorship enterprise must, in carrying on business activities, abide by the laws and administrative regulations and the principle of good faith and may not harm the public interest of society.\nA sole proprietorship enterprise shall perform its obligation to pay taxes in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall protect in accordance with law the property and other lawful rights and interests of sole proprietorship enterprises."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A sole proprietorship enterprise shall recruit and employ staff and workers in accordance with law. The lawful rights and interests of staff and workers shall be protected by law.\nThe staff and workers of a sole proprietorship enterprise shall establish a trade union in accordance with law, and the trade union shall carry out activities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Members of the Communist Party of China in a sole proprietorship enterprise shall carry out activities in accordance with the Constitution of the Communist Party of China."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The establishment of a sole proprietorship enterprise shall satisfy the following conditions:\n(a) the investor is one natural person;\n(b) there is a lawful name for the enterprise;\n(c) there is capital contribution declared by the investor;\n(d) there is a fixed place for production and business operation and the necessary conditions for production and business operation; and\n(e) there are the necessary employees."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To apply for the establishment of a sole proprietorship enterprise, the investor or an agent entrusted by him shall submit to the registration authority at the place where the sole proprietorship enterprise is located such documents as an application for establishment, proof of the investor's identity and proof of the right to use the place of production and business operation. Where an agent is entrusted to apply for establishment registration, the power of attorney of the investor and lawful proof of the agent shall be produced.\nA sole proprietorship enterprise may not engage in business prohibited by laws or administrative regulations; where it engages in business for which approval by the relevant department is required as provided by laws or administrative regulations, the approval document of the relevant department shall be submitted when applying for establishment registration."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The application for the establishment of a sole proprietorship enterprise shall state the following matters:\n(a) the name and domicile of the enterprise;\n(b) the name and residence of the investor;\n(c) the amount and form of the investor's capital contribution; and\n(d) the scope of business."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The name of a sole proprietorship enterprise shall be consistent with the form of its liability and with the business it engages in."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The registration authority shall, within 15 days from the date of receiving the documents of application for establishment, register an enterprise that meets the conditions prescribed by this Law and issue it a business licence; where an enterprise does not meet the conditions prescribed by this Law, registration shall not be granted, and a written reply stating the reasons shall be given."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The date of issue of the business licence of a sole proprietorship enterprise is the date of establishment of the enterprise.\nBefore obtaining the business licence of a sole proprietorship enterprise, the investor may not carry on business activities in the name of the sole proprietorship enterprise."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "To establish a branch of a sole proprietorship enterprise, the investor or an agent entrusted by him shall apply for registration to the registration authority at the place where the branch is located and obtain a business licence.\nAfter a branch has been registered upon approval, the particulars of the registration shall be reported to the registration authority of the sole proprietorship enterprise to which the branch is subordinate for the record.\nThe civil liability of a branch shall be borne by the sole proprietorship enterprise that established the branch."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where, during the period of existence of a sole proprietorship enterprise, a registered matter undergoes a change, an application shall be made to the registration authority in accordance with law for registration of the change within 15 days from the date of the decision on the change."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Persons who are prohibited by laws or administrative regulations from engaging in profit-making activities may not apply, as investors, for the establishment of a sole proprietorship enterprise."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The investor in a sole proprietorship enterprise shall enjoy ownership of the property of the enterprise in accordance with law, and the relevant rights may be transferred or inherited in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an investor in a sole proprietorship enterprise expressly uses the jointly owned property of his family as his individual capital contribution when applying for establishment registration of the enterprise, he shall, in accordance with law, bear unlimited liability for the debts of the enterprise with the jointly owned property of his family."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The investor in a sole proprietorship enterprise may manage the affairs of the enterprise himself or may entrust or employ another person with capacity for civil conduct to take charge of the management of the affairs of the enterprise.\nWhere the investor entrusts or employs another person to manage the affairs of the sole proprietorship enterprise, he shall conclude a written contract with the trustee or the employed person specifying the specific content of the entrustment and the scope of the powers conferred.\nThe trustee or the employed person shall perform the duties of good faith and diligence and shall take charge of the management of the affairs of the sole proprietorship enterprise in accordance with the contract concluded with the investor.\nRestrictions imposed by the investor on the powers of the trustee or the employed person may not be asserted against a bona fide third party."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Persons entrusted or employed by the investor to manage the affairs of a sole proprietorship enterprise may not commit the following acts:\n(a) taking advantage of their position to demand or accept bribes;\n(b) taking advantage of their position or work to encroach upon the property of the enterprise;\n(c) misappropriating the funds of the enterprise for personal use or lending them to others;\n(d) opening an account in the name of an individual or of another person to deposit the funds of the enterprise without authorisation;\n(e) providing security with the property of the enterprise without authorisation;\n(f) engaging in business in competition with the enterprise without the consent of the investor;\n(g) concluding a contract with or entering into a transaction with the enterprise without the consent of the investor;\n(h) transferring the trademark or other intellectual property of the enterprise to another person for use without the consent of the investor and without authorisation;\n(i) disclosing the trade secrets of the enterprise; or\n(j) other acts prohibited by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A sole proprietorship enterprise shall establish account books and conduct accounting in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a sole proprietorship enterprise recruits and employs staff and workers, it shall conclude labour contracts with them in accordance with law, safeguard their occupational safety and pay their wages on time and in full."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A sole proprietorship enterprise shall participate in social insurance in accordance with the provisions of the State and pay social insurance premiums for its staff and workers."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A sole proprietorship enterprise may, in accordance with law, apply for loans and acquire land use rights and shall enjoy other rights provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "No unit or individual may, in violation of the provisions of laws or administrative regulations, compel a sole proprietorship enterprise in any manner to provide financial resources, material resources or manpower; a sole proprietorship enterprise shall have the right to refuse such unlawful compulsion."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Investors and Management of Affairs of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A sole proprietorship enterprise shall be dissolved under any of the following circumstances:\n(a) the investor decides to dissolve it;\n(b) the investor dies or is declared dead and there is no successor or the successor decides to renounce succession;\n(c) its business licence is revoked in accordance with law; or\n(d) other circumstances provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a sole proprietorship enterprise is dissolved, the investor shall conduct the liquidation himself or a creditor may apply to a people's court for the designation of a liquidator to conduct the liquidation.\nWhere the investor conducts the liquidation himself, he shall notify the creditors in writing within 15 days before the liquidation, and where notification is impossible, he shall make a public announcement. Creditors shall, within 30 days from the date of receiving the notice, or, where no notice is received, within 60 days from the date of the public announcement, declare their claims to the investor."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "After a sole proprietorship enterprise is dissolved, the former investor shall remain liable to repay the debts incurred during the period of existence of the enterprise, except that such liability shall be extinguished where the creditor has not requested repayment from the debtor within five years."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a sole proprietorship enterprise is dissolved, its property shall be applied to discharge in the following order:\n(a) the wages and social insurance premiums owed to staff and workers;\n(b) the taxes owed; and\n(c) other debts."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "During the period of liquidation, a sole proprietorship enterprise may not carry on business activities unrelated to the purpose of liquidation. Before the debts are discharged in accordance with the provisions of the preceding Article, the investor may not transfer or conceal property."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the property of a sole proprietorship enterprise is insufficient to discharge its debts, the investor shall discharge them with his other personal property."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "After the liquidation of a sole proprietorship enterprise is completed, the investor or the liquidator designated by the people's court shall prepare a liquidation report and, within 15 days, apply to the registration authority for deregistration."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Dissolution and Liquidation of Sole Proprietorship Enterprises"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, obtains enterprise registration by submitting false documents or by other fraudulent means shall be ordered to make correction and be fined not more than RMB 5,000; where the circumstances are serious, its business licence shall be revoked in addition."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the name used by a sole proprietorship enterprise is inconsistent with the name registered with the registration authority, it shall be ordered to make correction within a prescribed period and be fined not more than RMB 2,000."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Whoever alters, leases or transfers a business licence shall be ordered to make correction, the unlawful income shall be confiscated and a fine of not more than RMB 3,000 shall be imposed; where the circumstances are serious, the business licence shall be revoked.\nWhoever forges a business licence shall be ordered to suspend business, the unlawful income shall be confiscated and a fine of not more than RMB 5,000 shall be imposed. Where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a sole proprietorship enterprise, after its establishment, fails to commence business for more than six months without proper reason, or, after commencing business, suspends business of its own accord for six consecutive months or more, its business licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, carries on business activities in the name of a sole proprietorship enterprise without obtaining a business licence shall be ordered to cease business activities and be fined not more than RMB 3,000.\nWhere a registered matter of a sole proprietorship enterprise undergoes a change and the enterprise fails to go through the relevant registration of change in accordance with the provisions of this Law, it shall be ordered to go through the registration of change within a prescribed period; where it fails to do so within that period, it shall be fined not more than RMB 2,000."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a person entrusted or employed by the investor violates the contract concluded between the parties in managing the affairs of a sole proprietorship enterprise and thereby causes loss to the investor, he shall bear civil liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a sole proprietorship enterprise, in violation of the provisions of this Law, infringes upon the lawful rights and interests of its staff and workers, fails to safeguard their occupational safety or fails to pay social insurance premiums, it shall be penalised in accordance with the relevant laws and administrative regulations, and the persons responsible shall be held accountable."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a person entrusted or employed by the investor, in violation of the provisions of Article 20 of this Law, infringes upon the property rights and interests of a sole proprietorship enterprise, he shall be ordered to return the property encroached upon; where loss is caused to the enterprise, he shall bear liability for compensation in accordance with law; where there is unlawful income, the unlawful income shall be confiscated; and where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Whoever, in violation of the provisions of laws or administrative regulations, compels a sole proprietorship enterprise to provide financial resources, material resources or manpower shall be penalised in accordance with the relevant laws and administrative regulations, and the persons responsible shall be held accountable."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a sole proprietorship enterprise or its investor conceals or transfers property before or during liquidation in order to evade debts, the property shall be recovered in accordance with law and a penalty shall be imposed in accordance with the relevant provisions; where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where an investor, in violation of the provisions of this Law, is liable to bear civil liability for compensation and to pay a fine or pecuniary penalty and his property is insufficient to pay them, or where he is sentenced to confiscation of property, he shall first bear the civil liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a registration authority registers a sole proprietorship enterprise that does not meet the conditions prescribed by this Law, or refuses to register an enterprise that meets the conditions prescribed by this Law, administrative disciplinary sanctions shall be imposed in accordance with law on the persons directly responsible; where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the relevant person in charge in a department at a higher level over a registration authority orders the registration authority to register an enterprise that does not meet the conditions prescribed by this Law or to refuse to register an enterprise that meets the conditions prescribed by this Law, or shields the unlawful registration act of the registration authority, administrative disciplinary sanctions shall be imposed in accordance with law on the persons directly responsible; where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a registration authority refuses to register an application that meets the statutory conditions or fails to reply within the statutory time limit, the party concerned may apply for administrative reconsideration or bring administrative litigation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "This Law does not apply to wholly foreign-owned enterprises."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2000."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0107'] = {
+    "lawId": "CN-LAW-0107",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 22 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Individuals who have a domicile in China, or who do not have a domicile but have resided in China for an aggregate of 183 days or more in a tax year, are resident individuals. Resident individuals shall pay individual income tax, in accordance with this Law, on income derived from within and outside China.\nIndividuals who do not have a domicile in China and do not reside in China, or who do not have a domicile but have resided in China for an aggregate of less than 183 days in a tax year, are non-resident individuals. Non-resident individuals shall pay individual income tax, in accordance with this Law, on income derived from within China.\nA tax year begins on 1 January and ends on 31 December of the Gregorian calendar."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The following categories of individual income shall be subject to individual income tax:\n(a) income from wages and salaries;\n(b) income from remuneration for personal services;\n(c) income from author's remuneration;\n(d) income from royalties;\n(e) income from business operations;\n(f) income from interest, dividends and bonuses;\n(g) income from the lease of property;\n(h) income from the transfer of property;\n(i) incidental income.\nWhere a resident individual receives the income specified in subparagraphs (a) to (d) of the preceding paragraph (hereinafter referred to as comprehensive income), individual income tax shall be calculated on a consolidated basis for the tax year; where a non-resident individual receives the income specified in subparagraphs (a) to (d) of the preceding paragraph, individual income tax shall be calculated separately on a monthly or per-transaction basis. Where a taxpayer receives the income specified in subparagraphs (e) to (i) of the preceding paragraph, individual income tax shall be calculated separately in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The tax rates for individual income tax are as follows:\n(a) comprehensive income shall be subject to the progressive tax rates of 3 per cent to 45 per cent (the tax rate table is appended hereto);\n(b) income from business operations shall be subject to the progressive tax rates of 5 per cent to 35 per cent (the tax rate table is appended hereto);\n(c) income from interest, dividends and bonuses, income from the lease of property, income from the transfer of property and incidental income shall be subject to a proportional tax rate of 20 per cent."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The following categories of individual income shall be exempt from individual income tax:\n(a) awards granted, in the fields of science, education, technology, culture, health, sports, environmental protection and others, by the provincial people's government, the ministries and commissions under the State Council and units at or above the corps level of the Chinese People's Liberation Army, as well as by foreign organisations and international organisations;\n(b) interest on government bonds and on financial bonds issued by the State;\n(c) subsidies and allowances granted in accordance with the uniform provisions of the State;\n(d) welfare benefits, pensions and relief payments;\n(e) insurance indemnities;\n(f) settlement allowances, demobilisation payments and retirement pay for military personnel;\n(g) settlement-in allowances, severance payments, basic pensions or retirement pensions, retirement payments for retired veteran cadres and living subsidies for retired veteran cadres granted to cadres and staff members in accordance with the uniform provisions of the State;\n(h) income of diplomatic representatives, consular officers and other personnel of embassies and consulates of foreign States in China that is exempt from tax in accordance with the provisions of relevant laws;\n(i) income specified as tax-exempt in international conventions to which the Chinese Government is a party and in agreements concluded by the Chinese Government;\n(j) other tax-exempt income prescribed by the State Council.\nThe tax exemption provisions in subparagraph (j) of the preceding paragraph shall be reported by the State Council to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In any of the following circumstances, individual income tax may be reduced, and the specific extent and period of the reduction shall be prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government and reported to the standing committee of the people's congress at the same level for the record:\n(a) income of disabled persons, elderly persons living alone and members of martyrs' families;\n(b) persons who have suffered major losses due to natural disasters.\nThe State Council may prescribe other circumstances for tax reduction and report them to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Taxable income shall be calculated as follows:\n(a) for comprehensive income of a resident individual, the taxable income shall be the balance of the income in each tax year after deducting expenses of RMB 60,000 as well as special deductions, special additional deductions and other deductions determined in accordance with the law.\n(b) for income from wages and salaries of a non-resident individual, the taxable income shall be the balance of the monthly income after deducting expenses of RMB 5,000; for income from remuneration for personal services, author's remuneration and royalties, the taxable income shall be the amount of income each time.\n(c) for income from business operations, the taxable income shall be the balance of the total income in each tax year after deducting costs, expenses and losses.\n(d) for income from the lease of property, where the income each time does not exceed RMB 4,000, expenses of RMB 800 shall be deducted; where the income exceeds RMB 4,000, 20 per cent of the income shall be deducted as expenses, and the balance shall be the taxable income.\n(e) for income from the transfer of property, the taxable income shall be the balance of the income from the transfer of property after deducting the original value of the property and reasonable expenses.\n(f) for income from interest, dividends and bonuses and for incidental income, the amount of income each time shall be the taxable income.\nFor income from remuneration for personal services, author's remuneration and royalties, the amount of income shall be the balance after deducting 20 per cent of the income as expenses. The amount of income from author's remuneration shall be calculated at 70 per cent of that amount.\nWhere an individual donates part of his income to public welfare and charitable undertakings such as education, poverty alleviation and relief of the needy, the portion of the donation not exceeding 30 per cent of the taxable income declared by the taxpayer may be deducted from his taxable income; where the State Council provides that donations to public welfare and charitable undertakings are fully deductible before tax, those provisions shall prevail.\nThe special deductions specified in subparagraph (a) of the first paragraph of this Article include the basic pension insurance premiums, basic medical insurance premiums, unemployment insurance premiums and other social insurance premiums and the housing provident fund contributions paid by resident individuals within the scope and according to the standards prescribed by the State; the special additional deductions include expenditures for children's education, continuing education, treatment of serious illnesses, interest on housing loans or housing rent, support of the elderly and other expenditures, and the specific scope, standards and implementation steps shall be determined by the State Council and reported to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For income derived by a resident individual from outside China, the individual income tax already paid outside China may be credited against the tax payable, provided that the amount of the credit shall not exceed the tax payable on the income from outside China calculated in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In any of the following circumstances, the tax authority shall have the power to make a tax adjustment in a reasonable manner:\n(a) transactions between an individual and his related parties do not conform to the arm's length principle, thereby reducing the tax payable of the individual or of his related parties, and there is no legitimate reason;\n(b) an enterprise established in a country (region) where the actual tax burden is obviously low, controlled by a resident individual or jointly controlled by a resident individual and a resident enterprise, does not distribute, or reduces the distribution of, the profits that should be attributable to the resident individual, without reasonable business needs;\n(c) an individual obtains improper tax benefits through other arrangements that lack reasonable commercial purposes.\nWhere the tax authority makes a tax adjustment in accordance with the preceding paragraph and additional tax needs to be levied, the tax shall be levied retroactively, and interest shall be charged in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "For individual income tax, the person receiving income shall be the taxpayer, and the entity or individual paying the income shall be the withholding agent.\nWhere a taxpayer has a Chinese citizen identity number, that number shall be his taxpayer identification number; where a taxpayer does not have a Chinese citizen identity number, the tax authority shall assign a taxpayer identification number to him. When the withholding agent withholds tax, the taxpayer shall provide his taxpayer identification number to the withholding agent."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In any of the following circumstances, the taxpayer shall file a tax return in accordance with the law:\n(a) comprehensive income is received and annual reconciliation is required;\n(b) taxable income is received and there is no withholding agent;\n(c) taxable income is received and the withholding agent has not withheld the tax;\n(d) income from outside China is received;\n(e) the Chinese household registration is cancelled due to emigration;\n(f) a non-resident individual receives income from wages and salaries from two or more places within China;\n(g) other circumstances prescribed by the State Council.\nThe withholding agent shall, in accordance with State provisions, file withholding returns for all persons on the full amount and provide taxpayers with information on their individual income and on the tax already withheld."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a resident individual receives comprehensive income, individual income tax shall be calculated on an annual basis; where there is a withholding agent, the withholding agent shall withhold and prepay the tax on a monthly or per-transaction basis; where annual reconciliation is required, it shall be completed between 1 March and 30 June of the year following the year in which the income is received. The measures for withholding and prepayment shall be formulated by the competent tax department under the State Council.\nWhere a resident individual provides information on special additional deductions to the withholding agent, the withholding agent shall make the deductions in accordance with the provisions when withholding and prepaying tax on a monthly basis, and shall not refuse to do so.\nWhere a non-resident individual receives income from wages and salaries, remuneration for personal services, author's remuneration and royalties and there is a withholding agent, the withholding agent shall withhold and pay the tax on a monthly or per-transaction basis, and annual reconciliation shall not be conducted."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a taxpayer receives income from business operations, individual income tax shall be calculated on an annual basis; the taxpayer shall submit a tax return to the tax authority and prepay the tax within 15 days after the end of each month or quarter, and shall complete annual reconciliation before 31 March of the year following the year in which the income is received.\nWhere a taxpayer receives income from interest, dividends and bonuses, income from the lease of property, income from the transfer of property and incidental income, individual income tax shall be calculated on a monthly or per-transaction basis; where there is a withholding agent, the withholding agent shall withhold and pay the tax on a monthly or per-transaction basis."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a taxpayer receives taxable income and there is no withholding agent, the taxpayer shall submit a tax return to the tax authority and pay the tax within 15 days of the month following the month in which the income is received.\nWhere a taxpayer receives taxable income and the withholding agent has not withheld the tax, the taxpayer shall pay the tax before 30 June of the year following the year in which the income is received; where the tax authority notifies him to pay within a time limit, the taxpayer shall pay the tax within that time limit.\nWhere a resident individual derives income from outside China, he shall declare and pay tax between 1 March and 30 June of the year following the year in which the income is received.\nWhere a non-resident individual receives income from wages and salaries from two or more places within China, he shall declare and pay tax within 15 days of the month following the month in which the income is received.\nWhere a taxpayer cancels his Chinese household registration due to emigration, he shall settle his tax liabilities before cancelling the registration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The tax withheld or collected by a withholding agent each month or each time shall be paid into the State Treasury within 15 days of the following month, and a return for the withholding of individual income tax shall be submitted to the tax authority.\nWhere a taxpayer applies for a refund in the course of annual reconciliation, or a withholding agent applies for such a refund on behalf of a taxpayer, the tax authority shall, after examination, process the refund in accordance with the relevant provisions on the administration of the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Public security, people's banking, financial supervision and administration and other relevant departments shall assist tax authorities in verifying taxpayers' identity and financial account information. Education, health, medical security, civil affairs, human resources and social security, housing and urban-rural development, public security, people's banking, financial supervision and administration and other relevant departments shall provide tax authorities with information on special additional deductions such as children's education, continuing education, treatment of serious illnesses, interest on housing loans, housing rent and support of the elderly.\nWhere an individual transfers immovable property, the tax authority shall verify the individual income tax payable on the basis of real property registration and other relevant information, and the registration authority shall, when processing the transfer registration, check the tax payment certificate for the individual income tax related to the transfer of the immovable property. Where an individual transfers equity and applies for registration of the change, the market entity registration authority shall check the tax payment certificate for the individual income tax related to the equity transaction.\nThe relevant departments shall, in accordance with the law, incorporate the compliance of taxpayers and withholding agents with this Law into the credit information system and implement joint incentives or disciplinary measures."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Income shall be calculated in RMB. Where income is in a currency other than RMB, it shall be converted into RMB at the central parity rate of the RMB exchange rate for the payment of tax."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A service fee of 2 per cent of the tax withheld shall be paid to the withholding agent."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The imposition, reduction or suspension of individual income tax on income from interest on savings deposits and the specific measures therefor shall be prescribed by the State Council and reported to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a taxpayer, a withholding agent, a tax authority or a staff member thereof violates this Law, legal liability shall be pursued in accordance with the Law of the People's Republic of China on the Administration of Tax Collection and the provisions of relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The collection and administration of individual income tax shall be governed by this Law and the Law of the People's Republic of China on the Administration of Tax Collection."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State Council shall formulate implementing regulations in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "This Law shall come into force on the date of promulgation.\nIndividual Income Tax Rate Table 1 (Applicable to Comprehensive Income)\n(Note 1: The annual taxable income referred to in this Table means, in accordance with Article 6 of this Law, the balance of the income of a resident individual from comprehensive income in each tax year after deducting expenses of RMB 60,000 as well as special deductions, special additional deductions and other deductions determined in accordance with the law.\nNote 2: For income from wages and salaries, remuneration for personal services, author's remuneration and royalties received by a non-resident individual, the tax payable shall be calculated on a monthly basis by conversion in accordance with this Table.)\nIndividual Income Tax Rate Table 2 (Applicable to Income from Business Operations)\n(Note: The annual taxable income referred to in this Table means, in accordance with Article 6 of this Law, the balance of the total income in each tax year after deducting costs, expenses and losses.)\nBracket\nAnnual taxable income\nTax rate (per cent)\n1\nNot exceeding RMB 36,000\n3\n2\nThe part exceeding RMB 36,000 to RMB 144,000\n10\n3\nThe part exceeding RMB 144,000 to RMB 300,000\n20\n4\nThe part exceeding RMB 300,000 to RMB 420,000\n25\n5\nThe part exceeding RMB 420,000 to RMB 660,000\n30\n6\nThe part exceeding RMB 660,000 to RMB 960,000\n35\n7\nThe part exceeding RMB 960,000\n45\nBracket\nAnnual taxable income\nTax rate (per cent)\n1\nNot exceeding RMB 30,000\n5\n2\nThe part exceeding RMB 30,000 to RMB 90,000\n10\n3\nThe part exceeding RMB 90,000 to RMB 300,000\n20\n4\nThe part exceeding RMB 300,000 to RMB 500,000\n30\n5\nThe part exceeding RMB 500,000\n35"
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0110'] = {
+    "lawId": "CN-LAW-0110",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 16 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in order to rationally use land resources, strengthen land administration and protect cultivated land."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Units and individuals that occupy cultivated land to construct buildings or structures or to engage in non-agricultural construction within the territory of the People's Republic of China are taxpayers of cultivated land occupation tax and shall pay cultivated land occupation tax in accordance with the provisions of this Law.\nNo cultivated land occupation tax shall be paid where cultivated land is occupied to construct farmland water conservancy facilities.\nFor the purposes of this Law, cultivated land means land used for growing crops."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Cultivated land occupation tax is assessed on the basis of the area of cultivated land actually occupied by the taxpayer and is levied in a lump sum at the prescribed applicable tax amount; the amount of tax payable is the area of cultivated land actually occupied by the taxpayer (in square metres) multiplied by the applicable tax amount."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The tax amounts for cultivated land occupation tax are as follows:\n(a) in areas where the per capita cultivated land does not exceed one mu (calculated by county, autonomous county, city not divided into districts and municipal district, the same below), RMB 10 to RMB 50 per square metre;\n(b) in areas where the per capita cultivated land exceeds one mu but does not exceed two mu, RMB 8 to RMB 40 per square metre;\n(c) in areas where the per capita cultivated land exceeds two mu but does not exceed three mu, RMB 6 to RMB 30 per square metre;\n(d) in areas where the per capita cultivated land exceeds three mu, RMB 5 to RMB 25 per square metre.\nThe applicable tax amount of cultivated land occupation tax for each region shall be proposed by the people's government of the province, autonomous region or municipality directly under the Central Government, on the basis of the per capita cultivated land area and economic development and other circumstances, within the range of tax amounts prescribed in the preceding paragraph, submitted to the standing committee of the people's congress at the same level for decision, and reported to the Standing Committee of the National People's Congress and the State Council for the record. The average level of the applicable tax amount of cultivated land occupation tax in each province, autonomous region and municipality directly under the Central Government shall not be lower than the average tax amount prescribed in the Table of Average Tax Amounts of Cultivated Land Occupation Tax of Provinces, Autonomous Regions and Municipalities Directly under the Central Government appended to this Law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In areas where the per capita cultivated land is less than 0.5 mu, the province, autonomous region or municipality directly under the Central Government may, in the light of local economic development, appropriately raise the applicable tax amount of cultivated land occupation tax, but the increase shall not exceed 50 per cent of the applicable tax amount determined under paragraph 2 of Article 4 of this Law. The specific applicable tax amount shall be determined in accordance with the procedure prescribed in paragraph 2 of Article 4 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where basic farmland is occupied, cultivated land occupation tax shall be levied at 150 per cent of the local applicable tax amount determined under paragraph 2 of Article 4 or Article 5 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Cultivated land occupied for military facilities, schools, kindergartens, social welfare institutions and medical institutions shall be exempt from cultivated land occupation tax.\nCultivated land occupied for railway lines, highway lines, airport runways, aprons, ports, navigable channels and water conservancy projects shall be subject to cultivated land occupation tax at the reduced rate of RMB 2 per square metre.\nWhere rural residents occupy cultivated land within the prescribed land use standards to build new homes for their own use, cultivated land occupation tax shall be levied at half the local applicable tax amount; where rural residents relocate with approval and the cultivated land occupied for the new homes for their own use does not exceed the area of the original house site, the portion within that area shall be exempt from cultivated land occupation tax.\nRural residents who are surviving family members of rural martyrs, surviving family members of military personnel who died in the performance of duties, disabled military personnel, and rural residents meeting the conditions for the rural minimum living guarantee, shall be exempt from cultivated land occupation tax where they build new homes for their own use within the prescribed land use standards.\nIn light of the needs of national economic and social development, the State Council may prescribe other circumstances in which cultivated land occupation tax is exempted or reduced, and shall report them to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where, after cultivated land occupation tax has been exempted or reduced in accordance with the provisions of paragraphs 1 and 2 of Article 7 of this Law, the taxpayer changes the original use of the occupied land so that it no longer falls within the circumstances of exemption from or reduction of cultivated land occupation tax, the taxpayer shall pay the outstanding cultivated land occupation tax at the local applicable tax amount."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Cultivated land occupation tax shall be collected by the tax authorities."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The time when the obligation to pay cultivated land occupation tax arises shall be the day on which the taxpayer receives the written notice from the competent department of natural resources on the completion of the formalities for occupying cultivated land. The taxpayer shall declare and pay cultivated land occupation tax within 30 days from the date on which the obligation to pay tax arises.\nThe competent department of natural resources shall issue the approval document for construction land upon presentation of the tax payment receipt or tax exemption receipt for cultivated land occupation tax and other relevant documents."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a taxpayer temporarily occupies cultivated land for the construction of a construction project or for geological exploration, the taxpayer shall pay cultivated land occupation tax in accordance with the provisions of this Law. Where the taxpayer reclaims the land in accordance with the law and restores the planting conditions within one year from the date of expiry of the approval for temporary occupation of cultivated land, the cultivated land occupation tax already paid shall be refunded in full."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Cultivated land occupation tax shall be paid in accordance with the provisions of this Law where garden land, forest land, grassland, land for farmland water conservancy, water surfaces for aquaculture, mudflats of fishery waters and other agricultural land are occupied to construct buildings or structures or to engage in non-agricultural construction.\nWhere the agricultural land prescribed in the preceding paragraph is occupied, the applicable tax amount may be appropriately lower than the applicable tax amount determined for the region in accordance with paragraph 2 of Article 4 of this Law, but the reduction shall not exceed 50 per cent. The specific applicable tax amount shall be proposed by the people's government of the province, autonomous region or municipality directly under the Central Government, submitted to the standing committee of the people's congress at the same level for decision, and reported to the Standing Committee of the National People's Congress and the State Council for the record.\nNo cultivated land occupation tax shall be paid where the agricultural land prescribed in paragraph 1 of this Article is occupied to construct production facilities directly serving agricultural production."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Tax authorities shall establish, together with the relevant departments, a mechanism for sharing tax-related information on cultivated land occupation tax and a mechanism for working in coordination. The competent departments of natural resources, agriculture and rural affairs, water resources and other relevant departments of local people's governments at or above the county level shall periodically provide tax authorities with information on the conversion of agricultural land and on temporary land occupation, and shall assist tax authorities in strengthening the administration of the collection of cultivated land occupation tax.\nWhere a tax authority discovers that the data and materials of a taxpayer's tax declaration are abnormal or that a taxpayer has failed to declare and pay tax within the prescribed time limit, it may request the relevant departments to conduct a review, and the relevant departments shall, within 30 days from the date of receipt of the tax authority's request for review, issue their review opinions to the tax authority."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The collection and administration of cultivated land occupation tax shall be carried out in accordance with the provisions of this Law and the Law of the People's Republic of China on the Administration of Tax Collection."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a taxpayer, a tax authority or its staff members violate the provisions of this Law, legal liability shall be pursued in accordance with the provisions of the Law of the People's Republic of China on the Administration of Tax Collection and the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "This Law shall come into force on 1 September 2019. The Interim Regulations of the People's Republic of China on Cultivated Land Occupation Tax, promulgated by the State Council on 1 December 2007, are repealed simultaneously.\nAppendix:\nTable of Average Tax Rates of Cultivated Land Occupation Tax of Provinces, Autonomous Regions and Municipalities Directly under the Central Government\nProvince, autonomous region or municipality directly under the Central Government\nAverage tax amount\n(yuan/sq m)\nShanghai\n45\nBeijing\n40\nTianjin\n35\nJiangsu, Zhejiang, Fujian, Guangdong\n30\nLiaoning, Hubei, Hunan\n25\nHebei, Anhui, Jiangxi, Shandong, Henan, Chongqing, Sichuan\n22.5\nGuangxi, Hainan, Guizhou, Yunnan, Shaanxi\n20\nShanxi, Jilin, Heilongjiang\n17.5\nInner Mongolia, Tibet, Gansu, Qinghai, Ningxia, Xinjiang\n12.5"
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0116'] = {
+    "lawId": "CN-LAW-0116",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in order to encourage donations, standardise the acts of giving and receiving donations, protect the lawful rights and interests of donors, donees and beneficiaries, and promote the development of public welfare undertakings."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies where natural persons, legal persons or other organisations voluntarily and gratuitously donate property to public welfare social organisations and public welfare non-profit public institutions established in accordance with the law for use in public welfare undertakings."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Public welfare undertakings as referred to in this Law mean the following non-profit matters:\n(a) activities to relieve disasters, relieve poverty, assist persons with disabilities and help other disadvantaged social groups and individuals;\n(b) undertakings in education, science, culture, health and sports;\n(c) environmental protection and the construction of social public facilities;\n(d) other social public and welfare undertakings that promote social development and progress."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Donations shall be voluntary and gratuitous; compulsory apportionment or apportionment in disguised form is prohibited, and no person may engage in profit-making activities in the name of donation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The use of donated property shall respect the wishes of the donor and conform to public welfare purposes, and donated property may not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Donations shall comply with laws and regulations, and may not violate social morality or harm the public interest or the lawful rights and interests of other citizens."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Property received as donations by public welfare social organisations and its increments are social public property, which is protected by the laws of the State, and no unit or individual may encroach upon, misappropriate or destroy it."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State encourages the development of public welfare undertakings and gives support and preferential treatment to public welfare social organisations and public welfare non-profit public institutions.\nThe State encourages natural persons, legal persons or other organisations to make donations to public welfare undertakings.\nNatural persons, legal persons or other organisations that have made outstanding contributions to donations to public welfare undertakings shall be commended by the people's government or the relevant departments. Public commendation of a donor shall be subject to prior consultation of the donor's opinion."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Natural persons, legal persons or other organisations may choose public welfare social organisations and public welfare non-profit public institutions that suit their wishes in making donations. The property donated shall be lawful property that they have the right to dispose of."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Giving and Receiving Donations"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Public welfare social organisations and public welfare non-profit public institutions may accept donations in accordance with this Law.\nPublic welfare social organisations as referred to in this Law mean social organisations such as foundations and charitable organisations established in accordance with the law with the purpose of developing public welfare undertakings.\nPublic welfare non-profit public institutions as referred to in this Law mean educational institutions, scientific research institutions, medical and health institutions, social public cultural institutions, social public sports institutions, social welfare institutions and other institutions established in accordance with the law that engage in public welfare undertakings and do not seek profit as their purpose."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Giving and Receiving Donations"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "When a natural disaster occurs, or when an overseas donor requests a people's government at or above the county level or a department thereof to act as the donee, the people's government at or above the county level or the department thereof may accept the donation and administer the donated property in accordance with the relevant provisions of this Law.\nA people's government at or above the county level or a department thereof may transfer the donated property to a public welfare social organisation or a public welfare non-profit public institution, or may distribute it or establish public welfare undertakings in accordance with the wishes of the donor, but may not itself be the beneficiary."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Giving and Receiving Donations"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A donor may conclude a donation agreement with the donee on such matters as the type, quality, quantity and use of the donated property. The donor has the right to decide the amount, use and manner of the donation.\nA donor shall perform the donation agreement in accordance with the law and transfer the donated property to the donee within the time limit and in the manner agreed in the donation agreement."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Giving and Receiving Donations"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a donor donates property for the construction of a public welfare project, the donor shall conclude a donation agreement with the donee providing for the funds, construction, administration and use of the project.\nThe donee unit shall, in accordance with the relevant provisions of the State, complete the formalities for approval of a donated public welfare project and organise its construction, or the donee and the donor shall jointly organise its construction. The quality of the project shall meet the quality standards of the State.\nAfter a donated public welfare project is completed, the donee unit shall report to the donor on the construction of the project, the use of construction funds and the acceptance of project quality."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Giving and Receiving Donations"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A donor may have its name inscribed on a donated public welfare project in commemoration; for a project donated solely by a donor or constructed mainly with funds contributed by a donor, the donor may propose a name for the project, which shall be reported to the people's government at or above the county level for approval."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Giving and Receiving Donations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "For property donated by an overseas donor, the donee shall complete the entry formalities in accordance with the relevant provisions of the State; for donated articles subject to licence administration, the donee shall complete the formalities for applying for a licence in accordance with the relevant provisions of the State, and the customs shall release and supervise them against the licence.\nWhere overseas Chinese make donations within China, the overseas Chinese affairs department of the people's government at or above the county level may assist in completing the relevant entry formalities and provide assistance to the donor in carrying out the donation project."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Giving and Receiving Donations"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After accepting a donation, the donee shall issue a lawful and valid receipt to the donor, register the donated property in a register and keep it in proper custody."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Use and Administration of Donated Property"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Public welfare social organisations shall use donated property to finance activities and undertakings that conform to their purposes. Donated property received for disaster relief shall be used promptly for relief activities. The amount of funds used each year by a foundation to finance public welfare undertakings may not be lower than the proportion prescribed by the State.\nPublic welfare social organisations shall strictly comply with the relevant provisions of the State and, on the principles of lawfulness, safety and effectiveness, actively preserve and increase the value of donated property.\nPublic welfare non-profit public institutions shall use donated property to develop the public welfare undertakings of their own institutions and may not divert it to other uses.\nFor donated property that is difficult to store or transport or exceeds actual needs, the donee may sell it, and all the proceeds obtained shall be used for the purposes of the donation."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Use and Administration of Donated Property"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a donee has concluded a donation agreement with a donor, it shall use the donated property for the purposes agreed in the agreement and may not change the purposes of the donated property without authorisation. Where a change of purpose is really necessary, the consent of the donor shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Use and Administration of Donated Property"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Donees shall, in accordance with the relevant provisions of the State, establish and improve financial accounting systems and systems for the use of donated property, and strengthen the administration of donated property."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Use and Administration of Donated Property"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Donees shall report annually to the relevant government departments on the use and administration of donated property and accept supervision. Where necessary, the relevant government departments may audit their finances.\nThe customs shall, in accordance with the law, exercise supervision and administration over donated articles on which customs duties are reduced or exempted.\nThe overseas Chinese affairs department of the people's government at or above the county level may participate in the supervision of the use and administration of property donated within China by overseas Chinese."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Use and Administration of Donated Property"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A donor has the right to make enquiries to the donee about the use and administration of the donated property and to put forward opinions and suggestions. The donee shall reply truthfully to the donor's enquiries."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Use and Administration of Donated Property"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Donees shall make public the acceptance of donations and the use and administration of donated property, and accept supervision by society."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Use and Administration of Donated Property"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Public welfare social organisations shall practise strict economy and reduce administrative costs, and the salaries of their staff members and office expenses shall be paid out of income such as interest in accordance with the standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Use and Administration of Donated Property"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where companies and other enterprises donate property for public welfare undertakings in accordance with the provisions of this Law, they shall enjoy preferential treatment in respect of enterprise income tax in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Measures"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where natural persons and self-employed businesses donate property for public welfare undertakings in accordance with the provisions of this Law, they shall enjoy preferential treatment in respect of individual income tax in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Measures"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "For materials donated from overseas to public welfare social organisations and public welfare non-profit public institutions for use in public welfare undertakings, import duties and value-added tax at the import stage shall be reduced or exempted in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Measures"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Local people's governments shall give support and preferential treatment to donated projects."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Preferential Measures"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a donee, without the permission of the donor, changes without authorisation the nature or purpose of donated property, the relevant department of the people's government at or above the county level shall order correction and give a warning. Where the donee refuses to correct, the people's government at or above the county level shall, after consulting the donor, place the donated property under the administration of a public welfare social organisation or public welfare non-profit public institution with the same or a similar purpose."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Whoever misappropriates, encroaches upon or embezzles donated funds or articles shall be ordered by the relevant department of the people's government at or above the county level to return the funds or articles used or obtained, and a fine shall be imposed; the persons directly responsible shall be dealt with by the unit where they work in accordance with the relevant provisions; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law.\nDonated funds and articles recovered or recovered through collection in accordance with the preceding paragraph shall be used for the original purposes and uses of the donation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where any of the following acts is committed in donation activities, punishment shall be imposed in accordance with the relevant provisions of laws and regulations; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law:\n(a) evading foreign exchange or fraudulently purchasing foreign exchange;\n(b) evading or dodging tax;\n(c) engaging in smuggling activities;\n(d) without the permission of the customs and without paying the duties payable, selling, transferring or diverting to other uses within China donated materials imported with tax reduction or exemption."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where staff members of a donee unit abuse their power, neglect their duty or engage in malpractices for personal gain, thereby causing major losses to donated property, they shall be dealt with by the unit where they work in accordance with the relevant provisions; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "This Law shall come into force on 1 September 1999."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0117'] = {
+    "lawId": "CN-LAW-0117",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 47 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of regulating notarial activities, safeguarding the performance of duties by notary institutions and notaries in accordance with law, preventing disputes and protecting the lawful rights and interests of natural persons, legal persons and other organisations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Notarisation is an activity in which a notary institution, upon the application of a natural person, legal person or other organisation, certifies in accordance with statutory procedures the authenticity and legality of civil juristic acts, facts and documents of legal significance."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In handling notarisation, notary institutions shall abide by the law and adhere to the principles of objectivity and impartiality."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The China Notary Association shall be established nationwide, and local notary associations shall be established in provinces, autonomous regions and municipalities directly under the Central Government. The China Notary Association and local notary associations are legal persons in the nature of social organisations. The articles of association of the China Notary Association shall be formulated by its congress of members and filed with the judicial administrative department under the State Council.\nNotary associations are self-disciplinary organisations of the notarial profession; they carry out activities in accordance with their articles of association and supervise the practice of notary institutions and notaries."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Judicial administrative departments shall supervise and guide notary institutions, notaries and notary associations in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A notary institution is a certification institution established in accordance with law that is not for profit and that independently exercises notarial functions and bears civil liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In accordance with the principles of overall planning and rational distribution, notary institutions may be established in counties, cities not divided into districts, cities divided into districts, municipalities directly under the Central Government or municipal districts; one or several notary institutions may be established in a city divided into districts or a municipality directly under the Central Government. Notary institutions shall not be established level by level according to administrative divisions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The establishment of a notary institution shall meet the following conditions:\n(a) it has its own name;\n(b) it has fixed premises;\n(c) it has two or more notaries; and\n(d) it has the funds necessary for conducting notarial business."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "For the establishment of a notary institution, the local judicial administrative department shall report to the judicial administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government and, after approval in accordance with the prescribed procedures, a practising certificate for the notary institution shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The person in charge of a notary institution shall be elected from among notaries with three or more years of practising experience, subject to verification by the local judicial administrative department and filing with the judicial administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Upon the application of a natural person, legal person or other organisation, a notary institution shall handle the following notarial matters:\n(a) contracts;\n(b) succession;\n(c) mandate, declarations, gifts and wills;\n(d) partition of property;\n(e) bidding and tendering, and auctions;\n(f) marital status, kinship and adoptive relationships;\n(g) birth, survival, death, identity, experience, educational background, academic degrees, positions and professional titles, and whether there is any record of illegal or criminal acts;\n(h) articles of association of companies;\n(i) preservation of evidence;\n(j) signatures, seals and dates on documents, and the conformity of copies and photocopies of documents with the originals; and\n(k) other notarial matters for which natural persons, legal persons or other organisations voluntarily apply.\nWhere laws or administrative regulations provide that certain matters shall be notarised, the natural persons, legal persons or other organisations concerned shall apply to a notary institution for notarisation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Upon the application of a natural person, legal person or other organisation, a notary institution may handle the following matters:\n(a) matters that laws and administrative regulations provide shall be registered by notary institutions;\n(b) escrow;\n(c) custody of wills, estates or other property, articles and documents related to notarial matters;\n(d) drafting of legal documents related to notarial matters on behalf of the applicant; and\n(e) provision of notarial legal advice."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A notary institution may not commit the following acts:\n(a) issuing a notarial certificate for an untrue or unlawful matter;\n(b) damaging or tampering with notarial documents or notarial archives;\n(c) competing for notarial business by improper means such as denigrating other notary institutions or notaries or paying kickbacks or commissions;\n(d) disclosing State secrets, trade secrets or personal privacy learned in the course of practising;\n(e) collecting notarisation fees in violation of the prescribed fee standards; or\n(f) other acts prohibited by laws, regulations or the judicial administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A notary institution shall establish management systems for business, finance and assets, supervise the practice of notaries and establish a system for pursuing liability for practising faults."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Notary institutions shall participate in notarial practice liability insurance."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Notary Institutions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A notary is a practising professional who meets the conditions prescribed by this Law and engages in notarial business in a notary institution."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The number of notaries shall be determined according to the needs of notarial business. The judicial administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government shall, in light of the establishment of notary institutions and the needs of notarial business, verify the staffing plan for notaries and file it with the judicial administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "To serve as a notary, a person shall meet the following conditions:\n(a) having the nationality of the People's Republic of China;\n(b) being at least 25 years of age and not more than 65 years of age;\n(c) being fair and upright, abiding by the law and having good conduct;\n(d) having passed the national unified legal professional qualification examination and obtained the legal professional qualification; and\n(e) having completed two or more years of internship in a notary institution, or having three or more years of other legal professional experience and having completed one or more years of internship in a notary institution, and having passed the assessment."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Persons engaged in legal teaching or research with senior professional titles, or public servants or lawyers with a bachelor's degree or higher who have been engaged in adjudication, procuratorial work, legislative affairs or legal services for ten full years, may serve as notaries if they have left their original posts and passed the assessment."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A person in any of the following circumstances may not serve as a notary:\n(a) having no capacity for civil conduct or limited capacity for civil conduct;\n(b) having been subjected to criminal punishment for an intentional crime or a crime of negligent dereliction of duty;\n(c) having been dismissed from public office; or\n(d) having had his notary's or lawyer's practising certificate revoked."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "To serve as a notary, a person meeting the conditions for notaries shall submit an application; upon the recommendation of a notary institution, the local judicial administrative department shall report it to the judicial administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government and, after examination and consent, request the judicial administrative department under the State Council to appoint the person, and the judicial administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall issue the notary's practising certificate."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Notaries shall abide by the law, strictly observe professional ethics, perform notarial duties in accordance with law and keep practice secrets confidential.\nNotaries have the right to obtain labour remuneration and to enjoy insurance and welfare benefits; they have the right to resign, appeal or lodge complaints; and they shall not be removed from office or punished except on statutory grounds and through statutory procedures."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A notary may not commit the following acts:\n(a) practising simultaneously in two or more notary institutions;\n(b) engaging in other paid occupations;\n(c) handling notarisation for himself or his close relatives, or handling notarisation in which he or his close relatives have an interest;\n(d) issuing notarial certificates privately;\n(e) issuing notarial certificates for untrue or unlawful matters;\n(f) encroaching upon or misappropriating notarisation fees, or encroaching upon or stealing articles exclusively used for notarisation;\n(g) damaging or tampering with notarial documents or notarial archives;\n(h) disclosing State secrets, trade secrets or personal privacy learned in the course of practising; or\n(i) other acts prohibited by laws, regulations or the judicial administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a notary is in any of the following circumstances, the local judicial administrative department shall report to the judicial administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government, which shall request the judicial administrative department under the State Council to remove him from office:\n(a) losing the nationality of the People's Republic of China;\n(b) reaching the age of 65 or being unable to continue to perform his duties for health reasons;\n(c) voluntarily resigning from the post of notary; or\n(d) having his notary's practising certificate revoked."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Notaries"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A natural person, legal person or other organisation applying for notarisation may apply to the notary institution at the place of domicile, the place of habitual residence, the place where the act is performed or the place where the fact occurs.\nAn application for notarisation involving immovable property shall be made to the notary institution at the place where the immovable property is located; an application for notarisation of a mandate, declaration, gift or will involving immovable property may be governed by the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A natural person, legal person or other organisation may entrust another person to handle notarisation, except where notarisation of a will, survival or adoptive relationship shall be handled by the person himself."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A party applying for notarisation shall truthfully explain to the notary institution the circumstances relating to the matter for which notarisation is applied and provide authentic, lawful and sufficient supporting materials; where the supporting materials provided are insufficient, the notary institution may require supplementation.\nAfter accepting a notarisation application, the notary institution shall inform the party of the legal significance and possible legal consequences of the matter applied for and shall keep a record of the information given on file."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In handling notarisation, a notary institution shall, in accordance with the rules for handling certificates for different notarial matters, examine the following matters respectively:\n(a) the identity of the party, the party's qualification to apply for the notarisation and the corresponding rights;\n(b) whether the contents of the documents provided are complete, whether their meaning is clear and whether the signatures and seals are complete;\n(c) whether the supporting materials provided are authentic, lawful and sufficient; and\n(d) whether the matter applied for is authentic and lawful."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where, in accordance with the relevant rules for handling certificates, verification is required or doubts exist as to the matter applied for or the supporting materials provided by the party, the notary institution shall verify them or entrust a notary institution in another place to verify them on its behalf, and the relevant entities or individuals shall provide assistance in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where, after examination, a notary institution considers that the supporting materials provided with the application are authentic, lawful and sufficient and that the matter applied for is authentic and lawful, it shall issue a notarial certificate to the party within 15 working days from the date of accepting the notarisation application. However, where force majeure occurs, supporting materials are supplemented or the relevant circumstances need to be verified, the time required shall not be counted within the time limit."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A notary institution shall not handle notarisation in any of the following circumstances:\n(a) a person with no capacity for civil conduct or with limited capacity for civil conduct applies for notarisation without a guardian acting on his behalf;\n(b) the party has no interest in the matter applied for;\n(c) the matter applied for is a matter of specialised technical appraisal or evaluation;\n(d) there is a dispute between the parties over the matter applied for;\n(e) the party fabricates or conceals facts or provides false supporting materials;\n(f) the supporting materials provided by the party are insufficient or the party refuses to supplement them;\n(g) the matter applied for is untrue or unlawful;\n(h) the matter applied for is contrary to social morality; or\n(i) the party refuses to pay the notarisation fee in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A notarial certificate shall be made in the format prescribed by the judicial administrative department under the State Council, shall be signed by the notary or affixed with his signature seal and shall be affixed with the seal of the notary institution. A notarial certificate takes effect from the date of issuance.\nA notarial certificate shall be written in the language commonly used throughout the country; in ethnic autonomous areas, a text in the ethnic language commonly used locally may be made according to the request of the party."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a notarial certificate is to be used abroad and the country of use requires prior authentication, it shall be authenticated by the Ministry of Foreign Affairs of the People's Republic of China or an institution authorised by the Ministry of Foreign Affairs and by the embassy (consulate) of the relevant country in the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Parties shall pay notarisation fees in accordance with the provisions.\nFor parties eligible for legal aid, notary institutions shall reduce or waive notarisation fees in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Notary institutions shall classify notarial documents into files and keep them on file. For important notarial archives, such as those relating to matters that laws and administrative regulations provide shall be notarised, upon the expiry of the retention period at the notary institution, they shall be transferred to the local archives for custody in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Notarisation Procedures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Notarised civil juristic acts, facts and documents of legal significance shall serve as the basis for determining facts, unless there is contrary evidence sufficient to overturn the notarisation."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Effect of Notarisation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a debtor fails to perform or does not properly perform an instrument of creditor's rights that has been notarised, that provides for payment as its content and that states the debtor's commitment to accept compulsory enforcement, the creditor may, in accordance with law, apply to the people's court having jurisdiction for enforcement.\nWhere there is indeed an error in the instrument of creditor's rights as mentioned in the preceding paragraph, the people's court shall rule not to enforce it and shall serve the written ruling on both parties and on the notary institution."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Effect of Notarisation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where laws or administrative regulations provide that matters not notarised have no legal effect, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Effect of Notarisation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a party or an interested party to a notarial matter considers that a notarial certificate contains an error, he may apply to the notary institution that issued the certificate for review. Where the contents of a notarial certificate are unlawful or inconsistent with the facts, the notary institution shall revoke the certificate and make a public announcement, and the certificate shall be void from the outset; where a notarial certificate contains other errors, the notary institution shall correct them."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Effect of Notarisation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a party or an interested party to a notarial matter has a dispute over the contents of a notarial certificate, he may institute civil proceedings in the people's court in respect of the dispute."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Effect of Notarisation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a notary institution or its notaries commit any of the following acts, the judicial administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government, or of a city divided into districts, shall give a warning; where the circumstances are serious, it shall impose a fine of not less than 10,000 yuan but not more than 50,000 yuan on the notary institution and a fine of not less than 1,000 yuan but not more than 5,000 yuan on the notary, and may impose a penalty of suspension of practice for not less than three months but not more than six months; where there are illegal gains, the illegal gains shall be confiscated:\n(a) competing for notarial business by improper means such as denigrating other notary institutions or notaries or paying kickbacks or commissions;\n(b) collecting notarisation fees in violation of the prescribed fee standards;\n(c) practising simultaneously in two or more notary institutions;\n(d) engaging in other paid occupations;\n(e) handling notarisation for himself or his close relatives, or handling notarisation in which he or his close relatives have an interest; or\n(f) other acts that shall be punished in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a notary institution or its notaries commit any of the following acts, the judicial administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government, or of a city divided into districts, shall give a warning to the notary institution and concurrently impose a fine of not less than 20,000 yuan but not more than 100,000 yuan, and may impose a penalty of suspension of business for rectification for not less than one month but not more than three months; shall give a warning to the notary and concurrently impose a fine of not less than 2,000 yuan but not more than 10,000 yuan, and may impose a penalty of suspension of practice for not less than three months but not more than 12 months; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, the judicial administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall revoke the notary's practising certificate; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) issuing notarial certificates privately;\n(b) issuing notarial certificates for untrue or unlawful matters;\n(c) encroaching upon or misappropriating notarisation fees, or encroaching upon or stealing articles exclusively used for notarisation;\n(d) damaging or tampering with notarial documents or notarial archives;\n(e) disclosing State secrets, trade secrets or personal privacy learned in the course of practising; or\n(f) other acts that shall be punished in accordance with the provisions of laws and administrative regulations.\nA person who has been subjected to criminal punishment for an intentional crime or a crime of negligent dereliction of duty shall have his notary's practising certificate revoked.\nA person whose notary's practising certificate has been revoked may not serve as a defender or agent ad litem, except where he is the guardian or a close relative of a party in criminal, civil or administrative proceedings."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a notary institution or its notaries cause losses to a party or an interested party to a notarial matter through fault, the notary institution shall bear the corresponding liability for compensation; after compensation, the notary institution may seek recovery from the notary who acted intentionally or with gross negligence.\nWhere a dispute arises between a party or an interested party to a notarial matter and a notary institution over compensation, the party or interested party may institute civil proceedings in the people's court."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a party or any other individual or organisation commits any of the following acts and thereby causes losses to others, civil liability shall be borne in accordance with law; where public security administration is violated, a public security administration penalty shall be imposed in accordance with law; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) providing false supporting materials to fraudulently obtain a notarial certificate;\n(b) using a false notarial certificate to engage in fraudulent activities; or\n(c) forging or altering notarial certificates or seals of notary institutions, or buying or selling forged or altered notarial certificates or seals of notary institutions."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The embassy (consulate) of the People's Republic of China stationed abroad may handle notarisation in accordance with the provisions of this Law or the provisions of international treaties concluded or acceded to by the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The fee standards for notarisation shall be formulated by the competent pricing department of the people's government of the province, autonomous region or municipality directly under the Central Government together with the judicial administrative department at the same level."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "This Law comes into force on 1 March 2006."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0122'] = {
+    "lawId": "CN-LAW-0122",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 30 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to protect the lawful rights and interests of returned overseas Chinese and the relatives of overseas Chinese, this Law is formulated in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Returned overseas Chinese means overseas Chinese who have returned to China and settled there. Overseas Chinese means Chinese citizens who have settled abroad.\nRelatives of overseas Chinese means the relatives in China of overseas Chinese and returned overseas Chinese.\nThe relatives of overseas Chinese referred to in this Law include: the spouse, parents, children and their spouses, brothers and sisters, paternal and maternal grandparents, grandchildren through sons and grandchildren through daughters of overseas Chinese and returned overseas Chinese, and other relatives who have a long-term dependency relationship with overseas Chinese or returned overseas Chinese."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Returned overseas Chinese and the relatives of overseas Chinese shall enjoy the rights of citizens prescribed by the Constitution and the laws and shall perform the obligations of citizens prescribed by the Constitution and the laws, and no organisation or individual shall discriminate against them.\nThe State shall, in light of the actual situation and the characteristics of returned overseas Chinese and the relatives of overseas Chinese, give them appropriate preferential treatment, and the specific measures shall be prescribed by the State Council or the relevant competent departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The people's governments at all levels at or above the county level and their bodies responsible for overseas Chinese affairs shall organise and coordinate the relevant departments in properly carrying out the work of protecting the lawful rights and interests of returned overseas Chinese and the relatives of overseas Chinese."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall provide resettlement to overseas Chinese who return to China to settle."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The National People's Congress and the local people's congresses of areas with a relatively large number of returned overseas Chinese shall have an appropriate number of deputies who are returned overseas Chinese."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Returned overseas Chinese and the relatives of overseas Chinese have the right to apply, in accordance with the law, for the establishment of social organisations and to carry out lawful social activities suited to the needs of returned overseas Chinese and the relatives of overseas Chinese.\nThe property of social organisations lawfully established by returned overseas Chinese and the relatives of overseas Chinese shall be protected by law, and no organisation or individual shall encroach upon it."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The All-China Federation of Returned Overseas Chinese and the local federations of returned overseas Chinese shall represent the interests of returned overseas Chinese and the relatives of overseas Chinese and safeguard their lawful rights and interests in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall give support to enterprises such as farms and forestry farms that resettle returned overseas Chinese, and no organisation or individual shall encroach upon the land they lawfully use or infringe upon their lawful rights and interests.\nIn places where enterprises such as farms and forestry farms that resettle returned overseas Chinese are located, schools and medical and health care institutions may be reasonably established as needed, and the State shall provide assistance in terms of personnel, equipment and funds."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall safeguard, in accordance with the law, the social security rights and interests of returned overseas Chinese and relatives of overseas Chinese who are employees. Employers and such employees shall participate in local social insurance and pay social insurance contributions in accordance with the law.\nThe local people's government shall provide relief to returned overseas Chinese and relatives of overseas Chinese who have lost the capacity to work and have no source of income, or whose living conditions are genuinely difficult."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State shall encourage and guide returned overseas Chinese and the relatives of overseas Chinese to invest, in accordance with the law, in the establishment of industries, in particular high and new technology enterprises; the people's governments at all levels shall give support, and their lawful rights and interests shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where returned overseas Chinese and the relatives of overseas Chinese establish public welfare undertakings in China, the people's governments at all levels shall give support, and their lawful rights and interests shall be protected by law.\nWhere materials donated by relatives and friends abroad of returned overseas Chinese and the relatives of overseas Chinese are used for public welfare undertakings in China, customs duty and value-added tax at the import stage shall be reduced or exempted in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State shall protect, in accordance with the law, the ownership of private houses in China of returned overseas Chinese and the relatives of overseas Chinese.\nWhere private houses in China of returned overseas Chinese and the relatives of overseas Chinese are expropriated, requisitioned or demolished in accordance with the law, the construction unit shall give reasonable compensation and make proper resettlement in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The people's governments at all levels shall give preferential treatment to returned overseas Chinese and the relatives of overseas Chinese in employment and provide the necessary guidance and services.\nWhere returned overseas Chinese students, the children of returned overseas Chinese and the children in China of overseas Chinese proceed to higher education, preferential treatment shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall protect the remittance income of returned overseas Chinese and the relatives of overseas Chinese."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Returned overseas Chinese and the relatives of overseas Chinese have the right to accept legacies or gifts from relatives and friends abroad.\nThe right of returned overseas Chinese and the relatives of overseas Chinese to inherit estates abroad shall be protected by law.\nReturned overseas Chinese and the relatives of overseas Chinese have the right to dispose of their property abroad."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The contacts and correspondence between returned overseas Chinese and the relatives of overseas Chinese and their relatives and friends abroad shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where returned overseas Chinese or relatives of overseas Chinese apply to leave the country, the relevant competent department shall complete the formalities within the prescribed time limit.\nWhere returned overseas Chinese or relatives of overseas Chinese genuinely need to leave the country urgently because of special circumstances such as the critical illness or death of a direct relative abroad or the need to deal with property abroad within a time limit, the relevant competent department shall give priority to completing the formalities on the basis of valid certification provided by the applicant."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall guarantee the right of returned overseas Chinese and the relatives of overseas Chinese to leave the country to visit relatives.\nReturned overseas Chinese and relatives of overseas Chinese who are employees shall enjoy the treatment for leaving the country to visit relatives in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Returned overseas Chinese and the relatives of overseas Chinese may apply to settle abroad in accordance with the relevant provisions of the State; where they are approved to settle abroad, no organisation or individual shall harm their lawful rights and interests.\nWhere returned overseas Chinese and relatives of overseas Chinese who are employees and who have retired with honours, retired or resigned from their posts settle abroad, their pension for retirement with honours, retirement pension, resignation allowance and old-age pension shall continue to be paid."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where returned overseas Chinese or relatives of overseas Chinese apply to study or give lectures abroad at their own expense, or to leave the country for business purposes, their work units and the relevant departments shall provide facilities."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall protect the legitimate rights and interests abroad of returned overseas Chinese and the relatives of overseas Chinese in accordance with international treaties concluded or acceded to by the People's Republic of China or with international practice."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the lawful rights and interests of returned overseas Chinese or relatives of overseas Chinese are infringed upon, the injured person has the right to request the relevant competent department to deal with the matter in accordance with the law or to bring a suit before a people's court. The federations of returned overseas Chinese shall give support and assistance."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a staff member of a State organ neglects his duties or abuses his powers, thereby causing harm to the lawful rights and interests of returned overseas Chinese or relatives of overseas Chinese, his work unit or the competent authority at a higher level shall order him to make correction or impose an administrative disciplinary sanction on him; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where any organisation or individual infringes upon the lawful rights and interests of returned overseas Chinese or relatives of overseas Chinese and causes property loss or other harm to them, civil liability shall be borne in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where, in violation of paragraph 1 of Article 9 of this Law, land lawfully used by farms and forestry farms that resettle returned overseas Chinese is illegally occupied, the relevant competent department shall order its return; where loss is caused, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where, in violation of Article 13 of this Law, private houses in China of returned overseas Chinese or relatives of overseas Chinese are illegally occupied, the relevant competent department shall order their return; where loss is caused, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where, in violation of paragraph 2 of Article 20 of this Law, the pension for retirement with honours, retirement pension, resignation allowance or old-age pension of returned overseas Chinese or relatives of overseas Chinese who have settled abroad is suspended, withheld, encroached upon or misappropriated, the unit concerned or the relevant competent department shall order its retroactive payment and give compensation in accordance with the law; an administrative disciplinary sanction shall be imposed in accordance with the law on the person in charge directly responsible and other persons directly responsible; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State Council shall formulate implementing measures in accordance with this Law.\nThe standing committee of the people's congress of a province, autonomous region or municipality directly under the Central Government may formulate implementing measures in accordance with this Law and the implementing measures of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "This Law shall come into force on 1 January 1991."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0127'] = {
+    "lawId": "CN-LAW-0127",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 42 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to disseminate and strengthen national defence education, carry forward the spirit of patriotism, promote national defence development and the development of socialist cultural and ethical progress, and in accordance with the Constitution, the National Defence Law of the People's Republic of China and the Education Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State shall conduct national defence education among all citizens, which centres on patriotism, aims at fulfilment of national defence obligations, and covers theories, knowledge and skills relating to national defence and military development as well as science and technology, law and psychology.\nNational defence education is the foundation for building and consolidating national defence, and an important means of enhancing national cohesion and improving the quality of the whole nation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "National defence education adheres to the guidance of Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the Important Thought of \"Three Represents\", the Scientific Outlook on Development and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era; upholds the holistic approach to national security; fosters and practises the socialist core values; forges a strong sense of community for the Chinese nation; enables all citizens to strengthen their national defence awareness, reinforce a sense of hardship, master national defence knowledge, improve national defence skills, and perform their national defence obligations in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Leadership by the Communist Party of China over national defence education shall be upheld, and a leadership system for national defence education that is centrally unified, assigned with divided responsibilities and coordinated between the military and the local authorities shall be established."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The central competent department for national defence education shall be responsible for the guidance, supervision and overall coordination of national defence education work throughout the country. The various departments of the Central State organs shall be responsible for national defence education work within their respective scopes of functions and duties. The relevant departments of the organs of the Central Military Commission shall, in accordance with the division of functions and duties, coordinate with the central competent department for national defence education in conducting national defence education.\nThe competent department for national defence education of the people's government at or above the county level shall be responsible for the guidance, supervision and overall coordination of national defence education work within its administrative area; other relevant departments shall conduct national defence education work within their prescribed scopes of functions and duties. The stationed military organ shall coordinate with the local competent department for national defence education in conducting national defence education."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "National defence education shall implement the principle of participation by the whole people, long-term persistence and emphasis on practical results, and shall follow the principles of combining regular education with intensive education, general education with focused education, and theoretical education with behavioural education, and shall, in light of different targets, determine the corresponding educational contents and organise their implementation by category."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Citizens of the People's Republic of China have the right and obligation to receive national defence education.\nDisseminating and strengthening national defence education is the joint responsibility of the whole of society.\nAll state organs and armed forces, all political parties and people's organisations, enterprises and undertakings, social organisations and other organisations shall organise national defence education in their respective regions, departments and units."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent departments for national defence mobilisation, military service, veterans' affairs, national defence scientific research and production, border and coastal defence, civil air defence and national defence transport shall, in accordance with this Law and the provisions of relevant laws and regulations, conduct national defence education.\nTrade unions, the Communist Youth League, the Women's Federation and other mass organisations shall conduct national defence education within their respective scopes of work."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The Chinese People's Liberation Army and the Chinese People's Armed Police Force shall conduct national defence education in accordance with the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State supports and encourages social organisations and individuals to conduct activities beneficial to national defence education."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Organisations and individuals that have made outstanding contributions to national defence education work shall be commended and rewarded in accordance with relevant state provisions."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The third Saturday of September each year shall be the National Defence Education Day."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "School national defence education is the foundation of national defence education for the whole nation and an important element in the implementation of quality education.\nThe administrative department for education shall include national defence education in its work plan, strengthen the organisation, guidance and supervision of school national defence education, and regularly assess school national defence education work.\nSchools shall include national defence education in their work and teaching plans, adopt effective measures, and guarantee the quality and effectiveness of national defence education."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Education in Schools"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Primary schools and junior secondary schools shall incorporate the contents of national defence education into relevant curricula, combine classroom teaching with extracurricular activities, and enable primary school pupils to acquire a certain degree of national defence awareness and junior secondary school students to master preliminary national defence knowledge and skills.\nPrimary schools and junior secondary schools may organise students to conduct young cadets' school activities with national defence education as the theme. The administrative department for education, the Communist Youth League and other relevant departments shall strengthen the guidance and management of young cadets' school activities.\nPrimary schools and junior secondary schools may, as needed, engage off-campus counsellors to assist the school in conducting national defence education activities in various forms."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Education in Schools"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Schools at the senior secondary level shall arrange special national defence education contents in relevant curricula, combine classroom teaching with military training, and enable students to master basic national defence theories, knowledge and skills and to possess a basic national defence awareness.\nRegular Institutions of Higher Learning shall set up national defence education courses, strengthen the development of disciplines relating to national defence education, conduct national defence education activities in diverse forms, and enable students to master the necessary national defence theories, knowledge and skills and to possess a stronger national defence awareness."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Education in Schools"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "School national defence education shall be combined with publicity and education on military service, enhance students' awareness of performing military service in accordance with the law, and foster a positive atmosphere in which performing military service is honourable."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Education in Schools"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Regular Institutions of Higher Learning and schools at the senior secondary level shall, in accordance with the provisions, organise military training for students.\nThe military training of students of Regular Institutions of Higher Learning and schools at the senior secondary level shall be organised and conducted by the institution or military instructors responsible for military training within the school.\nWhere a school organises military training activities, it shall adopt measures to strengthen safety guarantees.\nThe stationed military organ shall assist schools in organising military training for students."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Education in Schools"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The central competent department for national defence education, the administrative department for education of the State Council and the relevant departments of the organs of the Central Military Commission shall be responsible for student military training work throughout the country.\nThe administrative department for education of the people's government at or above the county level and the stationed military organ shall strengthen the organisation, guidance and supervision of student military training work."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Education in Schools"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Regular Institutions of Higher Learning and schools at the senior secondary level shall, in accordance with the student military training programme, strengthen military skills training, temper students' willpower and character, enhance their organisation and discipline, and raise the level of military training.\nThe student military training programme shall be jointly formulated by the administrative department for education of the State Council and the relevant departments of the organs of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Education in Schools"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "State organs shall, in light of their respective nature and characteristics of work, adopt various forms to conduct national defence education for their staff.\nStaff of state organs shall possess a relatively high level of national defence attainment, and play an exemplary and leading role in national defence education for the whole nation. Staff of state organs engaged in national defence development undertakings shall study and master the national defence theories, knowledge and skills necessary for the performance of their duties.\nLeading personnel of all regions and departments shall perform their duties of organising and leading national defence education in their respective regions and departments in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Education in Society"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Various educational institutions responsible for training staff of state organs shall incorporate national defence education into their training plans and set up appropriate national defence education courses.\nThe State shall, as needed, select and send leading persons of local authorities and departments to relevant military academies for training, to study and master the national defence theories, knowledge and skills necessary for the performance of leadership duties."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Education in Society"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Enterprises and undertakings shall include national defence education in their staff education plans, and conduct national defence education for their staff in combination with political education, professional training, cultural and sports activities and the like.\nEnterprises and undertakings undertaking tasks such as national defence scientific research and production, national defence facility construction and national defence transport support shall, in light of the tasks they bear, formulate corresponding national defence education plans and conduct targeted national defence education for their staff.\nSocial organisations shall conduct national defence education in light of their respective characteristics of activities."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Education in Society"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The provincial military command (garrison command, garrison area command), the military sub-command (garrison area command) and the people's armed departments of counties, autonomous counties, cities without districts and municipal districts shall, in accordance with the relevant provisions of the State and the military, conduct national defence education for the militia in combination with political education and organisation consolidation, military training, performance of duties, conscription work, and activities on major holidays and commemorative days.\nNational defence education for the militia shall focus on the core militia and militiamen holding leading posts, and shall establish and improve systems to ensure the implementation of the personnel receiving education, the education time and the education contents.\nThe unit to which reserve service personnel belong shall, in accordance with the relevant provisions, conduct education and training for reserve service personnel."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Education in Society"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Residents' committees and villagers' committees shall incorporate national defence education into the contents of socialist cultural and ethical progress, and conduct national defence education for residents and villagers in combination with conscription work, support for the military and preferential treatment for family members of servicemen and veterans, and activities on major holidays and commemorative days.\nResidents' committees and villagers' committees may engage veterans to assist in conducting national defence education."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Education in Society"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Departments and units such as culture and tourism, press and publication, radio and television, film, and cyberspace affairs shall, in light of the requirements of the situation and tasks, innovate the means of publicity and reporting, and conduct national defence education through such forms and channels as giving play to the educational functions of red resources, producing excellent literary and artistic works, publicising and releasing advanced models, and applying new platforms, new technologies and new products.\nRadio stations, television stations, newspapers and periodicals, news websites and other media of the Central Authorities, provinces, autonomous regions, municipalities directly under the Central Government and cities with districts shall open national defence education programmes or columns to disseminate national defence knowledge."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Education in Society"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "All regions and departments shall make use of major holidays, commemorative days and major themed activities to conduct extensive mass national defence education activities; and shall, on the National Defence Education Day, centrally conduct national defence education activities with clear themes and in diverse forms."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Education in Society"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Sites for commemorating heroes and martyrs, former revolutionary sites and other places with national defence education functions such as museums, memorial halls, science and technology museums, cultural centres and youth palaces shall provide convenience for citizens to receive national defence education, and shall offer free or preferential admission for organised national defence education activities.\nNational defence education bases shall be open free of charge to military personnel, veterans and students, and shall be open free of charge to the public on the National Defence Education Day."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Education in Society"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The people's government at or above the county level shall incorporate national defence education into its plan for national economic and social development and its annual plan, and include national defence education funds in its budget.\nThe funds needed by state organs, public institutions and mass organisations for conducting national defence education shall be listed and expended within the budget funds of the unit.\nThe funds needed by enterprises for conducting national defence education shall be listed and expended within the staff education funds of the unit.\nThe funds needed by schools for organising student military training shall be handled in accordance with relevant state provisions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Safeguards for National Defence Education"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State encourages enterprises and undertakings, social organisations and individuals to donate property to support the conduct of national defence education.\nProperty donated by enterprises and undertakings, social organisations and individuals to support national defence education shall be managed in accordance with the law by the relevant organisations in the field of national defence education.\nThe State encourages enterprises and undertakings, social organisations and individuals to provide or donate material objects collected by them that are of national defence education significance for use in national defence education. The unit using the provided material objects shall properly keep them and return them promptly after use."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Safeguards for National Defence Education"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "National defence education funds and property donated by enterprises and undertakings, social organisations and individuals to support national defence education must be used for national defence education, and no unit or individual shall encroach upon, misappropriate or deduct them."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Safeguards for National Defence Education"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A place that meets the following conditions may be designated by the competent department for national defence education at or above the level of a city with districts, together with the military organ at the same level, as a national defence education base:\nsubparagraph (a) it has a clear national defence education theme and contents;\nsubparagraph (b) it has a sound administrative organisation and rules and regulations;\nsubparagraph (c) it has corresponding national defence education facilities;\nsubparagraph (d) it has the necessary funding guarantee;\nsubparagraph (e) it has a conspicuous social education effect.\nA national defence education base shall strengthen its development, continuously improve, and give full play to its national defence education function.\nCompetent departments for national defence education at all levels shall, together with the relevant departments, strengthen the planning, development and management of national defence education bases, and provide the necessary guarantees for them to play their role.\nWhere a designated national defence education base no longer meets the conditions prescribed in paragraph 1 of this Article, the organ that designated it shall revoke the designation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Safeguards for National Defence Education"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "People's governments at all levels shall strengthen the survey, registration and protection of cultural relics of national defence education significance."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Safeguards for National Defence Education"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "National defence education for the whole nation shall use a unified national defence education programme. The national defence education programme shall be organised and formulated by the central competent department for national defence education.\nNational defence education textbooks applicable to education targets of different categories and regions shall, on the basis of the national defence education programme, be organised, compiled and reviewed by the relevant departments or local authorities in light of the characteristics of their departments and regions."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Safeguards for National Defence Education"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Competent departments for national defence education at all levels shall organise and coordinate the relevant departments to do a good job in the selection, training and management of national defence education instructors, and strengthen the building of the contingent of national defence education teachers.\nNational defence education instructors shall be selected from persons who are devoted to the cause of national defence education and possess solid national defence theories, knowledge and the necessary military skills; under equal conditions, veterans shall be given priority in recruitment and employment."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Safeguards for National Defence Education"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The Chinese People's Liberation Army and the Chinese People's Armed Police Force shall, as needed and in accordance with the relevant provisions, assign military instructors for organised national defence education activities and provide necessary military training venues, facilities, equipment and other conveniences.\nMilitary barracks that have been approved shall be opened to the public in accordance with the relevant provisions of the military."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Safeguards for National Defence Education"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a state organ, a people's organisation, an enterprise or undertaking, or a social organisation or other organisation violates the provisions of this Law and refuses to conduct national defence education activities, the relevant department or the superior organ shall give criticism and education and order it to make corrections within a prescribed time limit; where it refuses to make corrections and causes vile effects, the responsible leading personnel and directly responsible personnel shall be given sanctions in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where anyone, in violation of the provisions of this Law, encroaches upon, misappropriates or deducts national defence education funds or property donated by enterprises and undertakings, social organisations and individuals to support national defence education, the relevant competent department shall order the return of the property within a prescribed time limit; the responsible leading personnel and directly responsible personnel shall be given sanctions in accordance with the law. Personnel to whom sanctions do not apply shall be dealt with by the relevant competent department in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where anyone encroaches upon or destroys the facilities of a national defence education base or damages exhibits or equipment, the relevant competent department shall give criticism and education and order corrections within a prescribed time limit; the responsible person shall bear corresponding civil liability in accordance with the law; where the act constitutes a violation of the administration of public security, public security punishment shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where anyone provokes trouble or disturbs the order of national defence education work and activities, or fraudulently obtains money or property by falsely using the name of national defence education, the relevant competent department shall give criticism and education and stop the act; where personal, property or other damage is caused, corresponding civil liability shall be borne in accordance with the law; where the act constitutes a violation of the administration of public security, public security punishment shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a public servant responsible for national defence education abuses powers, neglects duties or commits malpractice for personal gain, sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "This Law shall come into force on 21 September 2024."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0128'] = {
+    "lawId": "CN-LAW-0128",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 16 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in accordance with the Constitution for the purpose of safeguarding the dignity of the national anthem, regulating the playing and singing, broadcasting and use of the national anthem, enhancing citizens' concept of the State, promoting the spirit of patriotism and fostering and practising the core socialist values."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The national anthem of the People's Republic of China shall be the March of the Volunteers."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The national anthem of the People's Republic of China shall be the symbol and sign of the People's Republic of China.\nAll citizens and organisations shall respect the national anthem and safeguard its dignity."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The national anthem shall be played and sung on the following occasions:\n(a) the opening and closing of the sessions of the National People's Congress and of the people's congresses at all local levels;\nthe opening and closing of the sessions of the National Committee of the Chinese People's Political Consultative Conference and of its local committees at all levels;\n(b) the congresses at all levels of the various political parties and people's organisations;\n(c) ceremonies for taking the oath to the Constitution;\n(d) ceremonies for raising the national flag;\n(e) major celebrations, commendation and commemorative ceremonies held or organised by State organs at all levels;\n(f) ceremonies of national public commemoration;\n(g) major diplomatic activities;\n(h) major sports events;\n(i) other occasions on which the national anthem should be played and sung."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State encourages citizens and organisations to play and sing the national anthem on suitable occasions to express patriotic feelings."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "When the national anthem is played and sung, the lyrics and musical score of the national anthem contained in the Annex to this Law shall be used, and no form of playing and singing that impairs the dignity of the national anthem shall be adopted."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "When the national anthem is played and sung, persons present shall stand at attention and behave solemnly, and shall not commit any act that shows disrespect for the national anthem."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The national anthem shall not be used, or used in a disguised form, for trademarks or commercial advertisements, shall not be used on unsuitable occasions such as private funeral activities, and shall not be used as background music in public places and the like."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The occasions and etiquette for playing and singing the national anthem in diplomatic activities shall be prescribed by the Ministry of Foreign Affairs.\nThe occasions and etiquette for playing and singing the national anthem in the armed forces shall be prescribed by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "When the national anthem is played and sung on the occasions specified in Article 4 of this Law, the standard musical score for playing the national anthem or the official recording of the national anthem shall be used.\nThe Ministry of Foreign Affairs and the diplomatic missions abroad shall provide the standard musical score for playing the national anthem and the official recording of the national anthem to the foreign affairs departments of the relevant States and the relevant international organisations for use in diplomatic activities.\nThe sports administration department under the State Council shall provide the standard musical score for playing the national anthem and the official recording of the national anthem to the relevant international sports organisations and the organisers of games for use at international sports events.\nThe standard musical score for playing the national anthem and the official recording of the national anthem shall be organised for examination and determination and for recording by the department designated by the State Council and shall be published on the website of the National People's Congress of China and on the website of the Chinese Government."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The national anthem shall be included in primary and secondary education.\nPrimary and secondary schools shall take the national anthem as important content of patriotism education, organise students to learn to sing the national anthem, and educate students to understand the history and spiritual connotation of the national anthem and to observe the etiquette for playing and singing the national anthem."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The news media shall actively publicise the national anthem and popularise knowledge of the etiquette for playing and singing the national anthem."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "On important national statutory festivals and commemorative days such as National Day and International Labour Day, the radio stations and television stations of the Central Government and of provinces, autonomous regions and municipalities directly under the Central Government shall broadcast the national anthem at the times prescribed by the competent radio and television authority under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The people's governments at or above the county level and their relevant departments shall, within the scope of their respective duties, supervise and administer the playing and singing, broadcasting and use of the national anthem."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where, in a public place, a person intentionally alters the lyrics or musical score of the national anthem, plays and sings the national anthem in a distorted or derogatory manner, or insults the national anthem in other ways, the public security organ shall impose a warning or detention of not more than 15 days; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "This Law shall come into force on 1 October 2017.\nAnnex: National Anthem of the People's Republic of China (staff notation version and numbered musical notation version)"
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0129'] = {
+    "lawId": "CN-LAW-0129",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 19 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in accordance with the Constitution for the purposes of upholding the dignity of the National Emblem, ensuring its correct use, strengthening the citizens' sense of the State, promoting the spirit of patriotism, and fostering and practising the core socialist values."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The National Emblem of the People's Republic of China consists of the Tiananmen Gate beneath five stars, encircled by ears of grain and a cogwheel.\nThe National Emblem of the People's Republic of China is made in accordance with the Design of the National Emblem of the People's Republic of China adopted by the Central People's Government Council in 1950 and the Directions for Making the Design of the National Emblem of the People's Republic of China published by the General Office of the Central People's Government Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The National Emblem of the People's Republic of China is the symbol and hallmark of the People's Republic of China.\nAll organisations and citizens shall respect and cherish the National Emblem."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The following organs shall display the National Emblem:\n(a) the standing committees of the people's congresses at all levels;\n(b) the people's governments at all levels;\n(c) the Central Military Commission;\n(d) the supervisory commissions at all levels;\n(e) the people's courts and the special people's courts at all levels;\n(f) the people's procuratorates and the special people's procuratorates at all levels;\n(g) the Ministry of Foreign Affairs;\n(h) the embassies, consulates and other diplomatic missions of the State stationed abroad;\n(i) the relevant institutions of the Central People's Government in the Hong Kong Special Administrative Region and the relevant institutions of the Central People's Government in the Macao Special Administrative Region.\nThe National Emblem shall be displayed in the centre above the main entrance of the organ."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The National Emblem shall be displayed at the following places:\n(a) the Tiananmen Rostrum in Beijing and the Great Hall of the People;\n(b) the assembly halls of the people's congresses at or above the county level and of their standing committees, and the meeting venues of the people's congresses of townships, ethnic townships and towns;\n(c) the courtrooms of the people's courts and the special people's courts at all levels;\n(d) the venues for taking the oath to the Constitution;\n(e) appropriate places at exit and entry ports."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The seals of the following organs shall bear the design of the National Emblem:\n(a) the Standing Committee of the National People's Congress, the State Council, the Central Military Commission, the National Commission of Supervision, the Supreme People's Court and the Supreme People's Procuratorate;\n(b) the special committees of the National People's Congress and the General Office and the working committees of the Standing Committee of the National People's Congress; the ministries, commissions, directly affiliated institutions and the General Office of the State Council, and the administrative offices that the State Council provides shall use seals bearing the design of the National Emblem; and the General Office of the Central Military Commission and other institutions that the Central Military Commission provides shall use seals bearing the design of the National Emblem;\n(c) the standing committees of the local people's congresses at all levels at or above the county level, and the people's governments, supervisory commissions, people's courts and people's procuratorates at the corresponding levels, as well as the special people's courts and the special people's procuratorates;\n(d) the embassies, consulates and other diplomatic missions of the State stationed abroad."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The organs specified in Article 6 of this Law shall use the design of the National Emblem in a prominent position on the home page of their websites.\nThe standard version of the design of the National Emblem for use on websites is published on the website of the National People's Congress and on the Chinese government website."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The design of the National Emblem shall be printed on the following documents and publications:\n(a) the certificates of honour, letters of appointment and diplomatic documents issued by the Standing Committee of the National People's Congress, the President of the People's Republic of China and the State Council;\n(b) the envelopes, letterheads, invitations and other such items used externally in an official capacity by the President and Vice-President of the People's Republic of China, the Chairman and Vice-Chairmen of the Standing Committee of the National People's Congress, the Premier, Vice-Premiers and State Councillors of the State Council, the Chairman and Vice-Chairmen of the Central Military Commission, the Director of the National Commission of Supervision, the President of the Supreme People's Court and the Procurator-General of the Supreme People's Procuratorate;\n(c) the covers of the gazettes of the Standing Committee of the National People's Congress, of the State Council, of the Supreme People's Court and of the Supreme People's Procuratorate;\n(d) the covers of the official versions of the laws and regulations published by the State."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The design of the National Emblem may be used on the boundary stakes and boundary tablets marking the national boundary line, on the marker tablets indicating the bearing of the base points of the territorial sea, and on other markers used to display national sovereignty.\nThe design of the National Emblem may be used on the lawful currency issued by the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The design of the National Emblem may be used on the following certificates and licences:\n(a) the work certificates and law enforcement certificates of the staff of State organs;\n(b) the business licences, licence certificates, certificates of approval, qualification certificates, certificates of right and other such certificates issued by State organs;\n(c) the residence identity cards, the passports of the People's Republic of China and other lawful exit and entry documents.\nThe badges of State organs and the armed forces may use the design of the National Emblem as the core design.\nCitizens may wear the National Emblem badge on solemn occasions to express patriotic feelings."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The measures for the use of the design of the National Emblem in foreign affairs activities and by the embassies, consulates and other diplomatic missions of the State stationed abroad shall be prescribed by the Ministry of Foreign Affairs and shall come into force after being submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where the National Emblem needs to be displayed or its design needs to be used outside the scope prescribed by this Law, the matter shall be prescribed by the General Office of the Standing Committee of the National People's Congress or the General Office of the State Council together with the competent departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The National Emblem and its design shall not be used for:\n(a) trademarks, industrial designs for which patent rights are granted, or commercial advertisements;\n(b) articles of daily use or furnishings for daily life;\n(c) private celebrations or mourning activities;\n(d) other occasions on which the General Office of the State Council provides that the National Emblem and its design shall not be used."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A National Emblem that is damaged, soiled or not of the prescribed specifications shall not be displayed."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The National Emblem shall be an important part of patriotic education.\nPrimary and secondary schools shall educate students to understand the history and the spiritual significance of the National Emblem.\nThe news media shall actively disseminate knowledge about the National Emblem and guide citizens and organisations in the correct use of the National Emblem and its design."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The National Emblem displayed shall be made in a unified manner by enterprises designated by the State, and its general dimensions in diameter are the following three:\n(a) 100 centimetres;\n(b) 80 centimetres;\n(c) 60 centimetres.\nWhere a National Emblem of a non-general dimension needs to be displayed, it shall be appropriately enlarged or reduced in proportion to the general dimensions and shall be suited to the purpose of use, the building in which it is placed and the surrounding environment."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The General Office of the State Council shall coordinate the work relating to the administration of the National Emblem throughout the country. The local people's governments at all levels shall coordinate the work relating to the administration of the National Emblem within their respective administrative areas.\nThe market regulation departments of the people's governments at all levels shall supervise and administer the making and sale of the National Emblem.\nThe department designated by the county-level people's government shall supervise and administer the display, use and recall of the National Emblem within its administrative area."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Whoever intentionally insults the National Emblem of the People's Republic of China in a public place by burning, destroying, defacing, soiling, trampling on it or by other such means shall be investigated for criminal responsibility in accordance with law; where the circumstances are relatively minor, the public security organ shall impose detention of not more than 15 days."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "This Law comes into force on 1 October 1991.\nAppendix:\nDesign of the National Emblem of the People's Republic of China\n(Adopted at the 8th Meeting of the Central People's Government Council on 28 June 1950)\nExplanation: The National Emblem consists of the national flag, Tiananmen Gate, a cogwheel and ears of wheat and rice, symbolising the new-democratic revolutionary struggle of the Chinese people since the May Fourth Movement and the birth of New China, a people's democratic dictatorship led by the working class and based on the alliance of workers and peasants.\nDirections for Making the Design of the National Emblem of the People's Republic of China\n(Published by the General Office of the Central People's Government Council on 20 September 1950)\n(i) Two ears of wheat and rice form a perfectly round ring. The cogwheel is placed at the point where the stalks of the ears of wheat and rice cross below. A red ribbon is tied at the centre of the cogwheel. The red ribbon binds the ears of wheat and rice on the left and right and hangs down, dividing the cogwheel into an upper and a lower part.\n(ii) A vertical straight line is drawn through the centre of the design, and its left and right parts are completely symmetrical.\n(iii) The position and dimensions of each part of the design may be enlarged or reduced according to the proportions of the squared ink-line drawing.\n(iv) Where a relief is made, the height of each part may be enlarged or reduced according to the proportions of the cross-section drawing.\n(v) The National Emblem is coloured in gold and red: the ears of wheat and rice, the five stars, Tiananmen Gate and the cogwheel are gold, and the ground within the ring and the hanging ribbon are red; the red is pure red (the same as the national flag), and the gold is pure gold (a light-coloured and lustrous gold).\nSquared Ink-line Drawing of the National Emblem of the People's Republic of China\nLongitudinal Section Drawing of the National Emblem of the People's Republic of China"
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0130'] = {
+    "lawId": "CN-LAW-0130",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 18 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The acquisition, loss and restoration of the nationality of the People's Republic of China shall be governed by this Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The People's Republic of China is a unified multi-ethnic State, and all persons of all ethnic groups in China have Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The People's Republic of China does not recognise dual nationality for Chinese citizens."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Any person born in China whose parents are both Chinese nationals or one of whose parents is a Chinese national has Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Any person born abroad whose parents are both Chinese nationals or one of whose parents is a Chinese national has Chinese nationality; however, a person whose parents are both Chinese nationals or one of whose parents is a Chinese national and who have settled abroad, and who has foreign nationality at the time of birth, does not have Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Any person born in China whose parents are stateless or of uncertain nationality and who have settled in China has Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A foreign national or a stateless person who is willing to comply with the Constitution and the laws of China and who meets one of the following conditions may, upon application and approval, acquire Chinese nationality:\n(a) being a close relative of a Chinese national;\n(b) having settled in China;\n(c) having other legitimate reasons."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A person whose application to acquire Chinese nationality has been approved thereby acquires Chinese nationality; a person approved to acquire Chinese nationality shall not retain foreign nationality."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A Chinese national who has settled abroad and who voluntarily joins or acquires foreign nationality automatically loses Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A Chinese national who meets one of the following conditions may, upon application and approval, renounce Chinese nationality:\n(a) being a close relative of a foreign national;\n(b) having settled abroad;\n(c) having other legitimate reasons."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A person whose application to renounce Chinese nationality has been approved thereby loses Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "State functionaries and persons in active military service shall not renounce Chinese nationality."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A foreign national who formerly held Chinese nationality and who has legitimate reasons may apply for restoration of Chinese nationality; a person approved for restoration of Chinese nationality shall not retain foreign nationality."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Except as provided in Article 9, the acquisition, loss and restoration of Chinese nationality must be subject to application procedures. A person under the age of 18 may have the application handled on his or her behalf by his or her parents or other legal representatives."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The organs that accept applications concerning nationality are, within China, the public security bureaus of the local city or county, and, abroad, the diplomatic missions and consular offices of China."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Applications to acquire, renounce or restore Chinese nationality shall be examined and approved by the Ministry of Public Security of the People's Republic of China. Where an application is approved, the Ministry of Public Security shall issue a certificate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Nationality already acquired or already lost before the promulgation of this Law shall remain valid."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "This Law shall come into force on the date of its promulgation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0133'] = {
+    "lawId": "CN-LAW-0133",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 38 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to regulate the formulation of national development plans and ensure their implementation, strengthen the strategic guiding role of national development plans, improve the system of macroeconomic governance, promote high-quality development, advance the modernisation of the national governance system and governance capacity, and comprehensively build a modern socialist country, this Law is formulated in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law shall apply to the compilation, review and approval, implementation and supervision of national development plans.\nNational development plans referred to in this Law mean the outlines of the five-year plans for national economic and social development of the People's Republic of China, including the long-range goals put forward as needed."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Work on national development plans shall uphold the leadership of the Communist Party of China, uphold Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era as the guide, comprehensively implement the Party's line, principles and policies and the decisions and arrangements of the Central Committee of the Party, uphold the people-centred philosophy of development, practise whole-process people's democracy, uphold the complete, accurate and comprehensive implementation of the new development philosophy, strive to promote high-quality development, coordinate development and security, comprehensively deepen reform, build a high-level socialist market economy system, give full play to the decisive role of the market in allocating resources and better play the role of the government, and comprehensively advance the great rejuvenation of the Chinese nation through Chinese modernisation."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "National development plans are the phased deployment and arrangements of the strategy of socialist modernisation within the planning period; they mainly state the strategic intent of the State, define the priorities of government work, and guide and regulate the behaviour of social actors; they are the blueprint and programme of action for economic and social development within the planning period, an important basis for the government to perform its functions of economic regulation, market regulation, social management, public services and ecological and environmental protection, and the general guideline for all other plans at all levels and of all types.\nThe State shall establish and improve a national planning system that takes national development plans as the guide, territorial space plans as the basis, and special plans and regional plans as the support, that is composed jointly of national and local plans, and that has accurate positioning, clear boundaries, complementary functions and unified connection, so as to form a synergy of planning."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The formulation and implementation of national development plans shall uphold the centralised and unified leadership of the Central Committee of the Party, proceed from reality, uphold the principle that the whole country is one chessboard, uphold the development of democracy and the pooling of wisdom, and uphold the principle of statutory planning.\nThe formulation of national development plans shall reflect strategic, macro-level and policy-oriented features, strengthen their guiding and binding functions, and raise the level of scientific, democratic, rule-of-law-based and standardised plan compilation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall strengthen the organisation and coordination of the implementation of national development plans, establish and improve the mechanisms for plan connection, policy coordination, monitoring and assessment and supervision, and ensure the effective implementation of national development plans."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "National development plans shall be organised and compiled by the State Council on the basis of the proposals and the decisions and arrangements of the Central Committee of the Party on the formulation of five-year plans for national economic and social development.\nThe competent department of the State Council responsible for drafting national development plans (hereinafter referred to as the competent national development planning department of the State Council) shall, together with the relevant departments of the State, undertake the specific compilation of national development plans."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "National development plans shall include the following main contents:\n(a) analysis of the development environment;\n(b) guiding principles;\n(c) main objectives and indicators;\n(d) major strategic tasks, major policy measures and major engineering projects;\n(e) the guarantees for the implementation of the plan."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In compiling national development plans, the laws of nature, the laws of the economy and the laws of social development shall be observed, and the following shall be adhered to: coordinating domestic and international considerations, combining goal orientation with problem orientation, linking medium- and long-term objectives with short-term objectives, coordinating comprehensive planning with emphasis on key areas, and unifying strategic and operational features."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Preliminary research shall be carried out in compiling national development plans.\nPreliminary research shall comprehensively and thoroughly study the overall, forward-looking, key and deep-seated major issues of economic and social development, focus on the national development strategic arrangements, scientifically assess the development environment and development trends, accurately grasp the characteristics of the current stage and the direction of development, and put forward the basic approach to promoting high-quality development."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In compiling national development plans, factors such as the conditions supporting production factors, the carrying capacity of resources and the environment, fiscal affordability and major risk prevention shall be taken into overall consideration, the management of medium- and long-term government expenditure items shall be strengthened, and multi-angle demonstration and comparison of multiple options shall be strengthened for the main objectives and indicators of economic and social development, the major strategic tasks, major policy measures and major engineering projects proposed."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In compiling national development plans, top-level design and consulting the people shall be unified, the mechanism for public participation shall be improved, social participation shall be encouraged, opinions and suggestions shall be solicited openly from society through the Internet and other channels, and the opinions and suggestions of the people, enterprises and institutions and all sectors of society shall be widely listened to in various ways."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In compiling national development plans, the system of expert consultation and demonstration shall be improved; experts in the relevant fields shall be organised to demonstrate the relevant major issues in the compilation of national development plans, and a demonstration report shall be formed.\nExperts participating in consultation and demonstration shall safeguard national interests and public interests, provide consultation and demonstration opinions in an objective, fair, scientific and rigorous manner, and bear the obligation of confidentiality in accordance with the law with respect to State secrets, work secrets and the like that they learn of in the course of the consultation and demonstration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In compiling national development plans, the means of compilation shall be innovated, modern information technology shall be applied comprehensively, and the auxiliary and supporting role of institutions of higher learning, scientific research institutions, think tanks and industry associations shall be given full play."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The draft national development plan shall be drafted by the competent national development planning department of the State Council together with the relevant departments of the State and submitted to the Central Committee of the Party and the State Council for deliberation in accordance with the prescribed procedures.\nWhen submitting the draft national development plan, the competent national development planning department of the State Council shall attach the demonstration report and other relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Formulation of National Development Plans"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After the draft national development plan has been submitted to the Central Committee of the Party and the State Council for deliberation, the State Council shall, in accordance with the procedures prescribed by law, submit it to the National People's Congress for review and approval.\nWhen submitting the draft national development plan to the National People's Congress, the State Council shall attach the summary assessment report on the implementation of the national development plan of the previous planning period and other relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Review and Approval of National Development Plans"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Before the draft national development plan is submitted to the National People's Congress for review and approval, the Standing Committee of the National People's Congress shall organise the relevant special committees of the National People's Congress and the working bodies of the Standing Committee to carry out, in a timely manner, special investigations and research centred on the compilation of national development plans."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Review and Approval of National Development Plans"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Before a session of the National People's Congress is held, the competent national development planning department of the State Council shall report the basic situation of the compilation of the national development plan, the preliminary scheme and the like to the Financial and Economic Affairs Committee of the National People's Congress and the relevant special committees, and the Financial and Economic Affairs Committee shall conduct a preliminary review. The opinions of the preliminary review shall be sent to the competent national development planning department of the State Council.\nWhen the Financial and Economic Affairs Committee conducts the preliminary review, it shall invite deputies to the National People's Congress to participate."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Review and Approval of National Development Plans"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "When the National People's Congress holds a session, the draft national development plan shall be reviewed by the various delegations and by the Financial and Economic Affairs Committee and the relevant special committees.\nThe Financial and Economic Affairs Committee shall, on the basis of the review opinions of the various delegations and the relevant special committees, review the draft national development plan and submit a report on the review results to the Presidium of the National People's Congress.\nAfter the Presidium of the National People's Congress deliberates and adopts the report on the review results, the report shall be printed and distributed to the session, and the draft resolution on approving the national development plan shall be submitted to the plenary meeting of the National People's Congress for voting."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Review and Approval of National Development Plans"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The national development plan shall be published and implemented after being reviewed and approved by the National People's Congress.\nAfter a national development plan is published, it may not be adjusted without statutory procedures."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Review and Approval of National Development Plans"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a national development plan needs to be adjusted after assessment in the course of implementation, the State Council shall put forward an adjustment scheme and, after the Central Committee of the Party agrees, submit it to the Standing Committee of the National People's Congress for review and approval.\nThe adjustment scheme of the national development plan reviewed and approved by the Standing Committee of the National People's Congress shall be published in a timely manner and reported to the next session of the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Review and Approval of National Development Plans"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State Council shall be responsible for organising the implementation of national development plans.\nThe competent national development planning department of the State Council shall, together with the relevant departments of the State, draft the implementation opinions on the national development plan, which shall be implemented after approval in accordance with the prescribed procedures.\nAll regions and all departments shall, on the basis of the national development plan and its implementation opinions, define the specific work arrangements and promotion measures relating to their respective regions and fields."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "When the State Council organises the compilation of the annual plan for national economic and social development, it shall keep the annual plan connected with the national development plan, implement the development objectives and major strategic tasks put forward in the national development plan, break down the main indicators set by the national development plan and incorporate them into the annual indicator system, set annual targets, achieve overall balance between years, and reasonably determine the annual priorities in accordance with the major strategic tasks set by the national development plan.\nThe annual plan for national economic and social development shall be implemented after being submitted to the National People's Congress for review and approval in accordance with the procedures prescribed by law. The State Council shall, in accordance with the procedures prescribed by law, report to the National People's Congress and its Standing Committee on the implementation of the annual plan for national economic and social development.\nThe competent national development planning department of the State Council shall, together with the relevant departments of the State, undertake the specific compilation of the annual plan for national economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall coordinate the compilation of plans at all levels and of all types and strengthen the connection and coordination between plans.\nNational-level territorial space plans, special plans and regional plans shall be compiled on the basis of the national development plan and adjusted in a timely manner as prescribed.\nThe State shall improve the mechanism by which territorial space plans, special plans, regional plans and other plans at all levels and of all types implement the national development plan, improve and standardise the management systems for the list of plan compilation catalogues, record filing and connection and coordination, strengthen information sharing, and ensure that plans at all levels and of all types are consistent with the national development plan in terms of main objectives, direction of development, overall layout, major strategic tasks, major policy measures, major engineering projects and risk prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall improve the mechanism for coordination between national development plans and macro policies and for work synergy, reasonably determine the orientation of macro policies in light of the economic and social development situation and around the implementation of national development plans, promote the synergy of fiscal, monetary, industrial, scientific and technological, pricing, employment, consumption, investment, trade and land policies, and enhance the consistency of macro policy orientations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In formulating policies, all regions and all departments shall conform to the direction of industrial development and structural adjustment and the direction of regional development and spatial layout optimisation set by the national development plan.\nThe formulation of the layout of major productive forces and of public policies on natural resources, population, the ecological environment and society shall be subordinate to the national development plan and serve its implementation."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "All regions and all departments shall reasonably allocate public resources and actively guide social resources to support the implementation of the major strategic tasks, major policy measures and major engineering projects set by the national development plan.\nCentral fiscal funds shall be preferentially invested in the major strategic tasks, major policy measures and major engineering projects set by the national development plan, and the management and use of central fiscal funds shall be carried out in accordance with the relevant laws and regulations on budgets."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State Council shall strengthen the dynamic monitoring and assessment of the implementation of national development plans, and the monitoring and assessment results shall serve as an important basis for strengthening and improving the implementation of national development plans.\nThe competent national development planning department of the State Council shall, together with the relevant departments of the State, undertake the specific work of dynamic monitoring and assessment."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The National People's Congress and its Standing Committee shall, in accordance with the law, supervise the implementation of national development plans.\nThe Financial and Economic Affairs Committee of the National People's Congress and the relevant special committees shall undertake the specific work of supervising the implementation of national development plans."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of the Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "At the mid-term stage of the implementation of a national development plan, the State Council shall organise a mid-term assessment of its implementation, form a mid-term assessment report and, after the Central Committee of the Party agrees, submit it to the Standing Committee of the National People's Congress for deliberation.\nAfter deliberation, the Standing Committee of the National People's Congress shall refer its deliberation opinions to the State Council for study and handling, and the State Council shall submit a written report on the study and handling to the Standing Committee of the National People's Congress.\nThe mid-term assessment report on the implementation of the national development plan, the deliberation opinions of the members of the Standing Committee of the National People's Congress and the State Council's study and handling of the deliberation opinions shall be notified to the deputies to the National People's Congress and made public to society in an appropriate manner, and shall be subject to social supervision.\nBefore the Standing Committee of the National People's Congress deliberates on the mid-term assessment report on the implementation of the national development plan, the Financial and Economic Affairs Committee shall, together with the relevant special committees, carry out special investigations and research and submit a research report to the Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of the Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Before the end of the planning period of a national development plan, the State Council shall organise a summary assessment of its implementation, form a summary assessment report and, after the Central Committee of the Party agrees, submit it together with the draft national development plan for the next planning period submitted for review and approval to the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of the Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent national development planning department of the State Council shall, together with the relevant departments of the State, undertake the specific work of the mid-term assessment and the summary assessment of the implementation of national development plans."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of the Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The supervisory organs and the audit organs shall, within the scope of their respective functions, supervise the implementation of national development plans in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of the Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The implementation of national development plans shall serve as an important reference for assessing the performance of duties in accordance with the law by all regions and all departments."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of the Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where State functionaries abuse their power, neglect their duty, engage in malpractices for personal gain or commit other illegal acts in work on national development plans, liability shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of the Implementation of National Development Plans"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The draft outline of the five-year plan for national economic and social development of a province, an autonomous region or a municipality directly under the Central Government shall be submitted to the competent national development planning department of the State Council so as to be connected with the national development plan; after being reviewed and approved by the people's congress at the corresponding level, it shall be submitted to the competent national development planning department of the State Council for the record.\nThe outline of the five-year plan for national economic and social development within the administrative region of a local area at or above the county level shall be connected with the outline of the five-year plan for national economic and social development at the next higher level, and shall be suited to local conditions and highlight local characteristics.\nThe procedures for the compilation, review and approval, implementation and supervision of the outline of the five-year plan for national economic and social development within the administrative region of a local area at or above the county level shall be implemented with reference to the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State upholds the principle of 'one country, two systems' and supports the Hong Kong Special Administrative Region and the Macao Special Administrative Region in proactively aligning themselves with the national development plan and in integrating into and serving the overall national development."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "This Law shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0135'] = {
+    "lawId": "CN-LAW-0135",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 42 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in accordance with the Constitution in order to safeguard the right of citizens, legal persons and other organisations to obtain state compensation in accordance with law, and to promote the exercise of functions and powers by state organs in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a state organ or a functionary of a state organ, in exercising functions and powers, commits an act specified in this Law that infringes upon the lawful rights and interests of a citizen, legal person or other organisation and causes damage, the victim shall have the right to obtain state compensation in accordance with this Law.\nAn organ obligated to make compensation as specified in this Law shall fulfil its obligation to make compensation in a timely manner in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where an administrative organ or a functionary thereof, in exercising administrative functions and powers, commits any of the following acts infringing upon the right of the person, the victim shall have the right to obtain compensation:\n(a) unlawful detention, or unlawful adoption of compulsory administrative measures restricting the personal freedom of a citizen;\n(b) unlawful detention or unlawful deprivation of the personal freedom of a citizen by other means;\n(c) causing bodily injury to or death of a citizen by such acts as beating or abuse, or by instigating or conniving at another person's commission of such acts as beating or abuse;\n(d) unlawful use of weapons or police instruments causing bodily injury to or death of a citizen;\n(e) other unlawful acts causing bodily injury to or death of a citizen."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Compensation"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where an administrative organ or a functionary thereof, in exercising administrative functions and powers, commits any of the following acts infringing upon property rights, the victim shall have the right to obtain compensation:\n(a) unlawful imposition of such administrative penalties as fines, revocation of licences and permits, order to suspend production or business, and confiscation of property;\n(b) unlawful adoption of compulsory administrative measures against property such as sealing up, seizure or freezing;\n(c) unlawful expropriation or requisition of property;\n(d) other unlawful acts causing damage to property."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Compensation"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall not bear liability for compensation in any of the following circumstances:\n(a) the personal act of a functionary of an administrative organ, which is unrelated to the exercise of functions and powers;\n(b) damage arising from the act of the citizen, legal person or other organisation itself;\n(c) other circumstances provided by law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Compensation"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A citizen, legal person or other organisation that suffers damage shall have the right to claim compensation.\nWhere a citizen who suffers damage dies, his successor and other relatives having a relationship of maintenance shall have the right to claim compensation.\nWhere a legal person or other organisation that suffers damage is terminated, the person that succeeds to its rights shall have the right to claim compensation."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Section 2 Claimants for Compensation and Organs Liable for Compensation"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where an administrative organ or a functionary thereof, in exercising administrative functions and powers, infringes upon the lawful rights and interests of a citizen, legal person or other organisation and causes damage, the said administrative organ shall be the organ obligated to make compensation.\nWhere two or more administrative organs, in jointly exercising administrative functions and powers, infringe upon the lawful rights and interests of a citizen, legal person or other organisation and cause damage, the administrative organs jointly exercising the said functions and powers shall be the joint organs obligated to make compensation.\nWhere an organisation authorised by a law or regulation, in exercising the administrative power conferred upon it, infringes upon the lawful rights and interests of a citizen, legal person or other organisation and causes damage, the said authorised organisation shall be the organ obligated to make compensation.\nWhere an organisation or individual entrusted by an administrative organ, in exercising the entrusted administrative power, infringes upon the lawful rights and interests of a citizen, legal person or other organisation and causes damage, the said entrusting administrative organ shall be the organ obligated to make compensation.\nWhere an organ obligated to make compensation is revoked, the administrative organ that continues to exercise its functions and powers shall be the organ obligated to make compensation; where there is no administrative organ that continues to exercise the said functions and powers, the administrative organ that revoked the said organ obligated to make compensation shall be the organ obligated to make compensation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Section 2 Claimants for Compensation and Organs Liable for Compensation"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a case has been reconsidered by the administrative reconsideration organ, the administrative organ that originally committed the infringing act shall be the organ obligated to make compensation; however, where the reconsideration decision of the administrative reconsideration organ aggravated the damage, the said organ shall fulfil the obligation to make compensation for the aggravated part."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Section 2 Claimants for Compensation and Organs Liable for Compensation"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where an organ obligated to make compensation falls under any of the circumstances specified in Article 3 or Article 4 of this Law, it shall make compensation.\nA claimant for compensation shall, when claiming compensation, first submit the claim to the organ obligated to make compensation; the claim may also be filed together with an application for administrative reconsideration or the filing of administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A claimant for compensation may claim compensation from any one of the joint organs obligated to make compensation, and the said organ obligated to make compensation shall make compensation in advance."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A claimant for compensation may, in light of the different damage suffered, simultaneously file several claims for compensation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A claim for compensation shall be made by submitting an application, and the application shall state the following matters:\n(a) the name, sex, age, work unit and domicile of the victim, and, in the case of a legal person or other organisation, its name, domicile, and the name and position of its legal representative or principal person in charge;\n(b) the specific claim, the factual basis and the reasons;\n(c) the year, month and day of the application.\nWhere a claimant for compensation has genuine difficulty in writing the application, he may entrust another person to write it on his behalf; he may also make the application orally, and the organ obligated to make compensation shall make a record thereof.\nWhere a claimant for compensation is not the victim himself, he shall explain his relationship with the victim and provide corresponding evidence.\nWhere a claimant for compensation submits the application in person, the organ obligated to make compensation shall issue on the spot a written voucher bearing the special seal of the said administrative organ and noting the date of receipt. Where the application materials are incomplete, the organ obligated to make compensation shall notify the claimant for compensation, on the spot or within five days, of all the contents that need to be supplemented and corrected at one time."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An organ obligated to make compensation shall, within two months from the date of receipt of the application, make a decision on whether or not to make compensation; in making a decision on compensation, the organ obligated to make compensation shall fully listen to the opinions of the claimant for compensation, and may, in accordance with the provisions of Chapter IV of this Law, consult with the claimant for compensation on the method, items and amount of compensation.\nWhere an organ obligated to make compensation decides to make compensation, it shall prepare a written decision on compensation and serve it on the claimant for compensation within 10 days from the date of making the decision.\nWhere an organ obligated to make compensation decides not to make compensation, it shall notify the claimant for compensation in writing within 10 days from the date of making the decision and explain the reasons for not making compensation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where an organ obligated to make compensation fails to make a decision on whether or not to make compensation within the prescribed time limit, the claimant for compensation may file a lawsuit in a people's court within three months from the date of expiry of the time limit.\nWhere a claimant for compensation raises an objection to the method, items or amount of compensation, or where the organ obligated to make compensation makes a decision not to make compensation, the claimant for compensation may file a lawsuit in a people's court within three months from the date on which the organ obligated to make compensation makes the decision on compensation or the decision not to make compensation."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "In the trial of a case of administrative compensation by a people's court, the claimant for compensation and the organ obligated to make compensation shall provide evidence for the claims they have advanced.\nWhere, during the period in which an organ obligated to make compensation takes administrative detention or compulsory measures restricting personal freedom, the person whose personal freedom is restricted dies or loses his capacity for conduct, the organ obligated to make compensation shall provide evidence on whether there is a causal relationship between its act and the death or loss of capacity for conduct of the said person."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After making compensation for losses, an organ obligated to make compensation shall order a functionary who acted intentionally or by gross negligence, or an entrusted organisation or individual, to bear part or all of the compensation expenses.\nWith respect to a responsible person who acted intentionally or by gross negligence, the relevant organ shall impose a sanction in accordance with law; where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where an organ exercising the functions and powers of investigation, procuratorial work or trial, or a detention house or prison administration organ, or a functionary thereof, in exercising functions and powers, commits any of the following acts infringing upon the right of the person, the victim shall have the right to obtain compensation:\n(a) taking detention measures against a citizen in violation of the provisions of the Criminal Procedure Law, or taking detention measures against a citizen in accordance with the conditions and procedures prescribed by the Criminal Procedure Law but for a period exceeding the time limit prescribed by the said Law, where a decision is thereafter made to dismiss the case, not to prosecute, or to declare the person innocent by judgment, thereby terminating the investigation of criminal responsibility;\n(b) after arrest measures are taken against a citizen, a decision is made to dismiss the case, not to prosecute, or to declare the person innocent by judgment, thereby terminating the investigation of criminal responsibility;\n(c) retrial in accordance with the procedure for trial supervision resulting in a judgment of innocence, where the punishment originally imposed has already been executed;\n(d) extorting a confession by torture, or causing bodily injury to or death of a citizen by such acts as beating or abuse, or by instigating or conniving at another person's commission of such acts as beating or abuse;\n(e) unlawful use of weapons or police instruments causing bodily injury to or death of a citizen."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Compensation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an organ exercising the functions and powers of investigation, procuratorial work or trial, or a detention house or prison administration organ, or a functionary thereof, in exercising functions and powers, commits any of the following acts infringing upon property rights, the victim shall have the right to obtain compensation:\n(a) unlawful adoption of measures against property such as sealing up, seizure, freezing or recovery;\n(b) retrial in accordance with the procedure for trial supervision resulting in a judgment of innocence, where the fine or confiscation of property originally imposed has already been executed."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Compensation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall not bear liability for compensation in any of the following circumstances:\n(a) detention or punishment imposed on a citizen because he intentionally made a false confession or fabricated other evidence of guilt;\n(b) detention of a person who, under Article 17 or Article 18 of the Criminal Law, does not bear criminal responsibility;\n(c) detention of a person against whom criminal responsibility is not pursued in accordance with Article 15, the second paragraph of Article 173, the second paragraph of Article 273 or Article 279 of the Criminal Procedure Law;\n(d) the personal act of a functionary of an organ exercising the functions and powers of investigation, procuratorial work or trial, or of a detention house or prison administration organ, which is unrelated to the exercise of functions and powers;\n(e) damage caused by such intentional acts of a citizen as self-injury or self-mutilation;\n(f) other circumstances provided by law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 Scope of Compensation"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The determination of a claimant for compensation shall follow the provisions of Article 6 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Claimants for Compensation and Organs Liable for Compensation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where an organ exercising the functions and powers of investigation, procuratorial work or trial, or a detention house or prison administration organ, or a functionary thereof, in exercising functions and powers, infringes upon the lawful rights and interests of a citizen, legal person or other organisation and causes damage, the said organ shall be the organ obligated to make compensation.\nWhere detention measures are taken against a citizen and state compensation shall be made in accordance with the provisions of this Law, the organ that made the detention decision shall be the organ obligated to make compensation.\nWhere, after arrest measures are taken against a citizen, a decision is made to dismiss the case, not to prosecute, or to declare the person innocent by judgment, the organ that made the arrest decision shall be the organ obligated to make compensation.\nWhere a retrial results in a judgment of innocence, the people's court that rendered the original effective judgment shall be the organ obligated to make compensation. Where a judgment of innocence is rendered in the second instance, or where, after the second instance remands the case for retrial, the person is found innocent, the people's court that rendered the judgment of guilt in the first instance shall be the organ obligated to make compensation."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Claimants for Compensation and Organs Liable for Compensation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an organ obligated to make compensation falls under any of the circumstances specified in Article 17 or Article 18 of this Law, it shall make compensation.\nA claimant for compensation shall, when claiming compensation, first submit the claim to the organ obligated to make compensation.\nThe filing of a claim for compensation shall be governed by the provisions of Article 11 and Article 12 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "An organ obligated to make compensation shall, within two months from the date of receipt of the application, make a decision on whether or not to make compensation. In making a decision on compensation, the organ obligated to make compensation shall fully listen to the opinions of the claimant for compensation, and may, in accordance with the provisions of Chapter IV of this Law, consult with the claimant for compensation on the method, items and amount of compensation.\nWhere an organ obligated to make compensation decides to make compensation, it shall prepare a written decision on compensation and serve it on the claimant for compensation within 10 days from the date of making the decision.\nWhere an organ obligated to make compensation decides not to make compensation, it shall notify the claimant for compensation in writing within 10 days from the date of making the decision and explain the reasons for not making compensation."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an organ obligated to make compensation fails to make a decision on whether or not to make compensation within the prescribed time limit, the claimant for compensation may, within 30 days from the date of expiry of the time limit, apply for reconsideration to the organ at the next higher level than the organ obligated to make compensation.\nWhere a claimant for compensation raises an objection to the method, items or amount of compensation, or where the organ obligated to make compensation makes a decision not to make compensation, the claimant for compensation may, within 30 days from the date on which the organ obligated to make compensation makes the decision on compensation or the decision not to make compensation, apply for reconsideration to the organ at the next higher level than the organ obligated to make compensation.\nWhere the organ obligated to make compensation is a people's court, the claimant for compensation may, in accordance with the provisions of this Article, apply to the compensation commission of the people's court at the next higher level for a decision on compensation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The administrative reconsideration organ shall make a decision within two months from the date of receipt of the application.\nWhere a claimant for compensation refuses to accept the reconsideration decision, he may, within 30 days from the date of receipt of the reconsideration decision, apply to the compensation commission of the people's court at the same level in the locality of the administrative reconsideration organ for a decision on compensation; where the administrative reconsideration organ fails to make a decision within the time limit, the claimant for compensation may, within 30 days from the date of expiry of the time limit, apply to the compensation commission of the people's court at the same level in the locality of the administrative reconsideration organ for a decision on compensation."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the compensation commission of a people's court handles a claim for compensation, the claimant for compensation and the organ obligated to make compensation shall provide evidence for the claims they have advanced.\nWhere a detained person dies or loses his capacity for conduct during detention, the organ obligated to make compensation shall provide evidence on whether there is a causal relationship between its act and the death or loss of capacity for conduct of the detained person."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The compensation commission of a people's court shall handle claims for compensation by means of written review. When necessary, it may investigate the circumstances of relevant units and persons and collect evidence. Where the claimant for compensation and the organ obligated to make compensation have a dispute over the facts of damage or the causal relationship, the compensation commission may hear the statements and defences of the claimant for compensation and the organ obligated to make compensation, and may conduct cross-examination."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The compensation commission of a people's court shall make a decision within three months from the date of receipt of the application for compensation; where the case is difficult, complex or major, the period may be extended by three months upon approval by the president of the said court."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "People's courts at or above the intermediate level shall establish compensation commissions, each composed of three or more judges of the people's court, and the number of members shall be an odd number.\nIn making a decision on compensation, a compensation commission shall follow the principle that the minority is subordinate to the majority.\nA decision on compensation made by a compensation commission shall be a decision with legal effect and must be executed."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a claimant for compensation or an organ obligated to make compensation considers that a decision made by a compensation commission is truly erroneous, it may file a petition with the compensation commission of the people's court at the next higher level.\nWhere, after a decision on compensation made by a compensation commission becomes effective, it is found that the said decision violates the provisions of this Law, the compensation commission shall, upon decision by the president of the said court or instruction by the people's court at a higher level, review the case anew within two months and make a decision in accordance with law; the compensation commission of the people's court at the next higher level may also review the case directly and make a decision.\nWhere the Supreme People's Procuratorate finds that a decision made by the compensation commission of a people's court at any level, or a people's procuratorate at a higher level finds that a decision made by the compensation commission of a people's court at a lower level, violates the provisions of this Law, it shall present its opinion to the compensation commission of the people's court at the same level, and the said commission shall review the case anew within two months and make a decision in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "After making compensation, an organ obligated to make compensation shall recover from a functionary who falls under any of the following circumstances part or all of the compensation expenses:\n(a) falling under any of the circumstances specified in subparagraph (d) or (e) of Article 17 of this Law;\n(b) committing embezzlement, accepting bribes, malpractices for personal gain, or bending the law in rendering judgment in the handling of a case.\nWith respect to a responsible person who falls under any of the circumstances specified in the preceding paragraph, the relevant organ shall impose a sanction in accordance with law; where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Compensation Procedures"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "State compensation shall be made mainly by payment of compensation.\nWhere property can be returned or the original state can be restored, the property shall be returned or the original state shall be restored."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Methods of Compensation and Standards of Calculation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the personal freedom of a citizen is infringed upon, the daily amount of compensation shall be calculated on the basis of the average daily wage of staff members and workers of the State for the preceding year."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Methods of Compensation and Standards of Calculation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where the right to life or health of a citizen is infringed upon, the amount of compensation shall be calculated in accordance with the following provisions:\n(a) where bodily injury is caused, medical expenses and nursing expenses shall be paid, and compensation shall be made for the loss of income arising from missed work; the daily amount of compensation for the reduced income shall be calculated on the basis of the average daily wage of staff members and workers of the State for the preceding year, and the maximum amount shall be five times the average annual wage of staff members and workers of the State for the preceding year;\n(b) where there is a partial or total loss of the ability to work, medical expenses, nursing expenses, expenses for appliances for the daily living of persons with disabilities, rehabilitation expenses and other necessary expenses increased due to the disability, expenses necessary for continued treatment, and a disability compensation shall be paid; the disability compensation shall be determined on the basis of the degree of loss of the ability to work in accordance with the grades of disability prescribed by the State, and shall not exceed 20 times the average annual wage of staff members and workers of the State for the preceding year; where there is a total loss of the ability to work, living expenses shall also be paid to the persons without the ability to work who are maintained by the victim;\n(c) where death is caused, a death compensation and funeral expenses shall be paid, the total amount of which shall be 20 times the average annual wage of staff members and workers of the State for the preceding year; living expenses shall also be paid to the persons without the ability to work who were maintained by the deceased during his lifetime.\nThe standard for the payment of the living expenses provided for in subparagraphs (b) and (c) of the preceding paragraph shall be implemented with reference to the local minimum living standard. Where the person maintained is a minor, the living expenses shall be paid until he reaches the age of 18; for other persons without the ability to work, the living expenses shall be paid until their death."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Methods of Compensation and Standards of Calculation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where any of the circumstances specified in Article 3 or Article 17 of this Law causes mental damage to a person, the adverse effects shall be eliminated for the victim within the scope of the influence of the infringing act, his reputation shall be restored and an apology shall be made; where serious consequences are caused, corresponding consolation money for mental damage shall be paid."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Methods of Compensation and Standards of Calculation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where damage is caused to the property rights of a citizen, legal person or other organisation, the matter shall be handled in accordance with the following provisions:\n(a) where a fine, a penalty or recovery of payment has been imposed, or property has been confiscated, unlawfully expropriated or requisitioned, the property in question shall be returned;\n(b) where property has been sealed up, seized or frozen, the sealing up, seizure or freezing shall be lifted; where damage to or destruction of the property has been caused, compensation shall be made in accordance with the provisions of subparagraphs (c) and (d) of this Article;\n(c) where the property that should be returned is damaged, the original state shall be restored if it can be restored; if the original state cannot be restored, corresponding compensation shall be paid in light of the degree of damage;\n(d) where the property that should be returned has been destroyed, corresponding compensation shall be paid;\n(e) where the property has been auctioned or sold, the proceeds from the auction or sale shall be paid; where the proceeds from the sale are obviously lower than the value of the property, corresponding compensation shall be paid;\n(f) where licences and permits have been revoked or an order to suspend production or business has been imposed, the necessary and recurrent expenses during the period of suspension shall be compensated;\n(g) where a fine or penalty that has been executed, or money that has been recovered or confiscated, is returned, or where frozen deposits or remittances are released, interest on bank deposits for the corresponding period shall be paid;\n(h) where other damage is caused to property rights, compensation shall be made for the direct losses."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Methods of Compensation and Standards of Calculation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Compensation expenses shall be included in the fiscal budgets at all levels.\nA claimant for compensation may, on the strength of an effective written judgment, written reconsideration decision, written decision on compensation or written mediation agreement, apply to the organ obligated to make compensation for payment of compensation.\nAn organ obligated to make compensation shall, within seven days from the date of receipt of the application for payment of compensation, submit an application for payment to the relevant finance department in accordance with the limits of authority for budget administration, and the finance department shall pay the compensation within 15 days from the date of receipt of the application for payment.\nThe specific measures for the administration of the budget and payment of compensation expenses shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Methods of Compensation and Standards of Calculation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where, in the course of civil litigation or administrative litigation, a people's court unlawfully adopts compulsory measures against obstruction of litigation or measures for preservation, or erroneously executes a judgment, ruling or other effective legal document, and causes damage, the procedure for a claim for compensation by the claimant shall be governed by the provisions of this Law regarding the procedure for criminal compensation."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Other Provisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The time limit for a claimant for compensation to claim state compensation shall be two years, calculated from the date on which he knows or should know that an act of a state organ or its functionary in exercising functions and powers infringes upon his right of the person or property rights, except that the period of detention or other restriction of personal freedom shall not be included in the calculation. Where a claim for compensation is filed together with an application for administrative reconsideration or the filing of administrative litigation, the provisions of the Administrative Reconsideration Law and the Administrative Litigation Law on time limits shall apply.\nWhere, in the last six months of the time limit for a claim for compensation, a claimant for compensation is unable to exercise his right of claim due to force majeure or other obstacles, the time limit shall be suspended. The time limit for a claim for compensation shall continue to be calculated from the date on which the cause for the suspension of the time limit is eliminated."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Other Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "This Law shall apply where a foreigner, foreign enterprise or foreign organisation claims state compensation of the People's Republic of China within the territory of the People's Republic of China.\nWhere the country to which a foreigner, foreign enterprise or foreign organisation belongs does not protect or restricts the right of citizens, legal persons and other organisations of the People's Republic of China to claim state compensation of that country, the People's Republic of China and the said country shall apply the principle of reciprocity."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Other Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a claimant for compensation claims state compensation, the organ obligated to make compensation, the administrative reconsideration organ and the people's court shall not collect any fees from the claimant for compensation.\nNo tax shall be levied on the compensation obtained by a claimant for compensation."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 1995."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0136'] = {
+    "lawId": "CN-LAW-0136",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in accordance with the Constitution in order to strengthen and safeguard national intelligence work and safeguard national security and interests."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "National intelligence work adheres to a holistic approach to national security, provides intelligence reference for major decisions of the State, provides intelligence support for preventing and resolving risks endangering national security, and safeguards State power, sovereignty, unity and territorial integrity, the well-being of the people, sustainable economic and social development and other major interests of the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State establishes and improves a centralised, unified, scientifically and efficiently organised national intelligence system with a division of work and coordination.\nThe central leading institution for national security exercises unified leadership over national intelligence work, formulates guidelines and policies for national intelligence work, plans the overall development of national intelligence work, establishes and improves coordination mechanisms for national intelligence work, coordinates national intelligence work in all fields, and studies and decides major matters in national intelligence work.\nThe Central Military Commission exercises unified leadership over and organises intelligence work of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "National intelligence work adheres to the principles of combining overt work with covert work, combining specialised work with the mass line, and combining the assumption of separate responsibilities with coordination and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The intelligence institutions of State security organs and public security organs and the intelligence institutions of the armed forces (hereinafter collectively referred to as national intelligence work institutions) shall, in accordance with the division of duties, cooperate with one another in doing a good job in intelligence work and carrying out intelligence operations.\nThe relevant State organs shall, in accordance with their respective functions and division of tasks, cooperate closely with national intelligence work institutions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "National intelligence work institutions and their staff members shall be loyal to the State and the people, abide by the Constitution and the laws, be loyal to their duties, strictly observe discipline, be honest and upright, make selfless contributions, and resolutely safeguard national security and interests."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "All organisations and citizens shall, in accordance with the law, support, assist and cooperate with national intelligence work and keep confidential the secrets of national intelligence work that they have learned of.\nThe State protects individuals and organisations that support, assist and cooperate with national intelligence work."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "National intelligence work shall be carried out in accordance with the law, respect and protect human rights, and safeguard the lawful rights and interests of individuals and organisations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State commends and rewards individuals and organisations that have made major contributions to national intelligence work."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "National intelligence work institutions may, in light of the needs of work and in accordance with the law, use necessary methods, means and channels to carry out intelligence work within and outside China."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "National intelligence work institutions shall, in accordance with the law, collect and process intelligence relating to acts committed by overseas institutions, organisations or individuals, or by persons instigated, funded or otherwise assisted by them, or by institutions, organisations or individuals at home and abroad in collusion, that endanger the national security and interests of the People's Republic of China, and shall provide an intelligence basis or reference for preventing, stopping and punishing such acts."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "National intelligence work institutions may, in accordance with the relevant provisions of the State, establish cooperative relationships with the relevant individuals and organisations and entrust them with the conduct of related work."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "National intelligence work institutions may, in accordance with the relevant provisions of the State, carry out external exchanges and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In carrying out intelligence work in accordance with the law, national intelligence work institutions may require the relevant organs, organisations and citizens to provide the necessary support, assistance and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "National intelligence work institutions may, in light of the needs of work, in accordance with the relevant provisions of the State and after strict approval procedures, adopt technical reconnaissance measures and identity protection measures."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "When staff members of national intelligence work institutions carry out tasks in accordance with the law, they may, in accordance with the relevant provisions of the State, after approval and upon producing the appropriate certificates, enter the relevant areas and premises to which entry is restricted, obtain information about and make inquiries of the relevant organs, organisations and individuals, and consult or obtain the relevant files, materials and articles."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where staff members of national intelligence work institutions need to carry out urgent tasks, they may, upon producing the appropriate certificates, enjoy conveniences in passage.\nStaff members of national intelligence work institutions may, in light of the needs of work and in accordance with the relevant provisions of the State, have priority in using or requisition in accordance with the law the means of transport and communication, premises and buildings of the relevant organs, organisations and individuals, and where necessary, may set up the relevant workplaces, equipment and facilities; and after the tasks are completed, they shall promptly return the property or restore it to its original state and pay the corresponding fees in accordance with the provisions, and where losses are caused, compensation shall be given."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "National intelligence work institutions may, in light of the needs of work and in accordance with the relevant provisions of the State, request the customs, border inspection for entry and exit and other authorities to provide conveniences such as exemption from inspection."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "National intelligence work institutions and their staff members shall strictly act in accordance with the law, and may not exceed or abuse their functions and powers, infringe upon the lawful rights and interests of citizens and organisations, take advantage of their position to seek personal gain for themselves or others, or disclose State secrets, trade secrets or personal information."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers of National Intelligence Work Institutions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "National intelligence work institutions and their staff members carrying out intelligence work in accordance with the law are protected by law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Safeguards for National Intelligence Work"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State strengthens the development of national intelligence work institutions, exercises special management over their institutional structure, personnel, staffing, funds and assets, and gives them special safeguards.\nThe State establishes management systems for the recruitment, selection and transfer, assessment, training, remuneration and exit of personnel that meet the needs of intelligence work."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Safeguards for National Intelligence Work"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "National intelligence work institutions shall, in keeping with the needs of intelligence work, improve their capacity to carry out intelligence work.\nNational intelligence work institutions shall use scientific and technological means to improve their level of identification, screening, synthesis and analysis of intelligence information."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Safeguards for National Intelligence Work"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the personal safety of staff members of national intelligence work institutions, who are carrying out tasks, or of persons who have established cooperative relationships with national intelligence work institutions and are assisting national intelligence work, or of their close relatives is threatened, the relevant State authorities shall take the necessary measures to protect and rescue them."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Safeguards for National Intelligence Work"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall make proper arrangements for persons who have made contributions to national intelligence work and who need to be resettled.\nThe relevant departments for public security, civil affairs, finance, health, education, human resources and social security, affairs of veterans, medical security and other fields, as well as State-owned enterprises and public institutions, shall assist national intelligence work institutions in doing a good job in resettlement."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Safeguards for National Intelligence Work"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Persons who are injured, disabled or sacrificed or die as a result of carrying out national intelligence work or of supporting, assisting and cooperating with national intelligence work shall be given corresponding pensions and preferential treatment in accordance with the relevant provisions of the State.\nWhere individuals and organisations suffer property losses as a result of supporting, assisting and cooperating with national intelligence work, compensation shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Safeguards for National Intelligence Work"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "National intelligence work institutions shall establish and improve strict supervision and security review systems, supervise their staff members in observing the law and discipline, and take the necessary measures in accordance with the law to conduct security reviews on a regular or irregular basis."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Safeguards for National Intelligence Work"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Any individual or organisation has the right to report or accuse national intelligence work institutions and their staff members of exceeding or abusing their functions and powers or committing other unlawful or disciplinary acts. The relevant authorities accepting such reports or accusations shall promptly investigate and handle them and inform the informants or accusers of the results.\nNo individual or organisation may suppress or take reprisals against individuals or organisations that report or accuse national intelligence work institutions and their staff members in accordance with the law.\nNational intelligence work institutions shall provide convenient channels for individuals and organisations to report, accuse or reflect situations, and shall keep informants and accusers confidential."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Safeguards for National Intelligence Work"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, obstructs national intelligence work institutions and their staff members in carrying out intelligence work in accordance with the law shall be subject to a proposal by the national intelligence work institution that the unit concerned give a disciplinary sanction, or shall be given a warning or detention of not more than 15 days by the State security organ or the public security organ; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Whoever discloses State secrets relating to national intelligence work shall be subject to a proposal by the national intelligence work institution that the unit concerned give a disciplinary sanction, or shall be given a warning or detention of not more than 15 days by the State security organ or the public security organ; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Whoever impersonates a staff member of a national intelligence work institution or other related person to swindle and cheat, commit fraud, extort or engage in other such acts shall be punished in accordance with the provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where national intelligence work institutions or their staff members exceed or abuse their functions and powers, infringe upon the lawful rights and interests of citizens and organisations, take advantage of their position to seek personal gain for themselves or others, disclose State secrets, trade secrets or personal information, or commit other unlawful or disciplinary acts, disciplinary sanctions shall be given in accordance with the law; and where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "This Law shall come into force on 28 June 2017."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0137'] = {
+    "lawId": "CN-LAW-0137",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 28 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to promote the standardisation, normalisation and sound development of the standard spoken and written Chinese language, enable the standard spoken and written Chinese language to play a better role in social life, and promote economic and cultural exchanges among all ethnic groups and all regions, this Law is formulated in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The standard spoken and written Chinese language referred to in this Law is Putonghua and standardised Chinese characters."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State promotes Putonghua and standardised Chinese characters."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Citizens have the right to learn and use the standard spoken and written Chinese language.\nThe State provides conditions for citizens to learn and use the standard spoken and written Chinese language.\nThe local people's governments at all levels and their relevant departments shall take measures to promote Putonghua and standardised Chinese characters."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The use of the standard spoken and written Chinese language shall be conducive to safeguarding national sovereignty and national dignity, to national unity and ethnic solidarity, and to the building of socialist material civilisation and spiritual civilisation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State promulgates the norms and standards of the standard spoken and written Chinese language, administers its social application, supports teaching and scientific research on the standard spoken and written Chinese language, and promotes its standardisation, enrichment and development."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall reward organisations and individuals that have made outstanding contributions to the cause of the standard spoken and written Chinese language."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "All ethnic groups have the freedom to use and develop their own spoken and written languages.\nThe use of the spoken and written languages of ethnic minorities shall be governed by the relevant provisions of the Constitution, the Law on Regional Ethnic Autonomy and other laws."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "State organs shall use Putonghua and standardised Chinese characters as the spoken and written language for official purposes, unless otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Schools and other educational institutions shall use Putonghua and standardised Chinese characters as the basic spoken and written language for education and teaching, unless otherwise provided by law.\nSchools and other educational institutions shall teach Putonghua and standardised Chinese characters through Chinese language courses. The Chinese language teaching materials used shall conform to the norms and standards of the standard spoken and written Chinese language."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Publications in Chinese shall conform to the norms and standards of the standard spoken and written Chinese language.\nWhere foreign languages and scripts need to be used in publications in Chinese, necessary annotations shall be made in the standard spoken and written Chinese language."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Radio stations and television stations shall use Putonghua as the basic broadcasting language.\nWhere a foreign language needs to be used as the broadcasting language, approval by the broadcasting and television department of the State Council must be obtained."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The public service industry shall use standardised Chinese characters as the basic written language for its services. Where, out of the needs of public services, foreign scripts are used in shop signs, advertisements, notices, signboards and the like together with Chinese, standardised Chinese characters shall be used.\nThe public service industry is encouraged to use Putonghua as the service language."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In the following circumstances, the standard spoken and written Chinese language shall be used as the basic spoken and written language:\n(a) the spoken and written language used in broadcasting, films and television;\n(b) the written language used on facilities in public places;\n(c) the written language used in shop signs and advertisements;\n(d) the names of enterprises and institutions;\n(e) the packaging and instructions of commodities sold within the territory."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The standard spoken and written Chinese language used in information processing and in information technology products shall conform to the norms and standards of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In the relevant provisions of this Chapter, dialect may be used in the following circumstances:\n(a) where staff members of State organs genuinely need to use it in performing official duties;\n(b) broadcasting languages approved by the broadcasting and television department of the State Council or by the broadcasting and television department at the provincial level;\n(c) where it needs to be used in artistic forms such as traditional opera, film and television;\n(d) where it genuinely needs to be used in publication, teaching and research."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In the relevant provisions of this Chapter, traditional Chinese characters and variant characters may be retained or used in the following circumstances:\n(a) cultural relics and historic sites;\n(b) variant characters in surnames;\n(c) works of art such as calligraphy and seal cutting;\n(d) handwritten characters in inscriptions and shop signs;\n(e) where they need to be used in publication, teaching and research;\n(f) special circumstances approved by the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The standard spoken and written Chinese language uses the Scheme for the Chinese Phonetic Alphabet as the tool for spelling and phonetic notation.\nThe Scheme for the Chinese Phonetic Alphabet is the unified norm for the Roman-letter spelling of Chinese personal names, place names and Chinese documents, and is also used in fields where Chinese characters are inconvenient or cannot be used.\nTeaching of the Chinese phonetic alphabet shall be conducted in primary education."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For all posts that use Putonghua as the working language, the persons holding those posts shall have the ability to speak Putonghua.\nThe Putonghua proficiency of announcers, programme hosts, film, television and drama actors, teachers and staff members of State organs who use Putonghua as their working language shall respectively reach the grade standards prescribed by the State; those who have not yet reached the Putonghua grade standards prescribed by the State shall be trained in light of their respective circumstances."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Teaching Chinese as a foreign language shall teach Putonghua and standardised Chinese characters."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The work concerning the standard spoken and written Chinese language shall be planned and guided, administered and supervised by the department of the State Council in charge of spoken and written languages.\nThe relevant departments of the State Council shall administer the use of the standard spoken and written Chinese language within their respective systems."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The local departments in charge of spoken and written languages and other relevant departments shall administer and supervise the use of the standard spoken and written Chinese language within their own administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The industry and commerce administration departments of the people's governments at all levels at or above the county level shall, in accordance with law, administer and supervise the spoken and written language used in the names of enterprises, the names of commodities and in advertisements."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The department of the State Council in charge of spoken and written languages shall promulgate the grade standards for Putonghua proficiency testing."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The translation of proper nouns such as foreign personal names and place names, and of scientific and technological terms, into the standard spoken and written Chinese language shall be organised and examined and approved by the department of the State Council in charge of spoken and written languages or by other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the relevant provisions of Chapter II of this Law are violated and the spoken and written language is used not in accordance with the norms and standards of the standard spoken and written Chinese language, citizens may put forward criticism and suggestions.\nWhere the persons specified in paragraph 2 of Article 19 of this Law use language in violation of the relevant provisions of Chapter II of this Law, the unit concerned shall give criticism and education to the persons directly responsible; where they refuse to make corrections, the unit concerned shall deal with the matter.\nWhere the written language used on facilities in public places in cities and in shop signs and advertisements violates the relevant provisions of Chapter II of this Law, the relevant administrative department shall order correction; where correction is refused, a warning shall be given and the party shall be urged to make correction within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person interferes with another person's learning and use of the standard spoken and written Chinese language, the relevant administrative department shall order correction within a time limit and give a warning."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2001."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0138'] = {
+    "lawId": "CN-LAW-0138",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated in accordance with the Constitution in order to promote the standardisation and regularisation of the standard spoken and written Chinese language and its sound development, give better play to its role in social life and in promoting economic and cultural exchanges among all ethnic groups and all regions, forge a strong sense of community for the Chinese nation and strengthen cultural confidence."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The standard spoken and written Chinese language as referred to in this Law means Putonghua and standardised Chinese characters, and is the language and script that the State prescribes for nationwide use."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State promotes and popularises the standard spoken and written Chinese language."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Citizens have the right to learn and use the standard spoken and written Chinese language. No organisation or individual may hinder citizens in learning and using the standard spoken and written Chinese language.\nThe State provides conditions for citizens to learn and use the standard spoken and written Chinese language."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The cause of the spoken and written language of the State adheres to the leadership of the Communist Party of China.\nThe use of the standard spoken and written Chinese language shall be conducive to safeguarding national sovereignty and national dignity, to national unity and ethnic solidarity, to fostering and carrying forward the core socialist values, to inheriting and developing fine traditional Chinese culture and building the common spiritual home of the Chinese nation, and to socialist material and cultural-ethical progress."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State promulgates the norms and standards of the standard spoken and written Chinese language, administers its social application, supports teaching and scientific research in the standard spoken and written Chinese language, advances the development of information technology, digitalisation and intelligent application in respect of the standard spoken and written Chinese language, and promotes its standardisation, enrichment and development."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate the cause of the spoken and written language into the relevant plans for national economic and social development and include the funds needed for work on the spoken and written language in their own budgets.\nPeople's governments at all levels and their relevant departments shall take measures to promote and popularise the standard spoken and written Chinese language.\nThe State strengthens the guarantee of conditions for promoting and popularising the standard spoken and written Chinese language in ethnic minority areas, rural areas and remote areas."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Organisations and individuals that have made outstanding contributions to the cause of the standard spoken and written Chinese language shall be commended and rewarded in accordance with the relevant provisions of the State.\nThe third week of September each year shall be the publicity week for promoting and popularising the standard spoken and written Chinese language."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "All ethnic groups have the freedom to use and develop their own spoken and written languages.\nThe use of the spoken and written languages of ethnic minorities shall be governed by the relevant provisions of the Constitution, the Law on Regional Ethnic Autonomy and other laws."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "State organs shall use the standard spoken and written Chinese language as their working language and script, unless otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Schools and other educational institutions shall use the standard spoken and written Chinese language as the basic language and script for education and teaching.\nTeaching materials used by schools and other educational institutions shall conform to the norms and standards of the standard spoken and written Chinese language. Schools and other educational institutions shall use nationally compiled teaching materials in accordance with the relevant provisions of the State.\nPersons receiving education shall be able to grasp the standard spoken and written Chinese language in the main upon completion of compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Publications in Chinese shall conform to the norms and standards of the standard spoken and written Chinese language.\nWhere foreign languages and scripts need to be used in publications in Chinese, necessary annotations shall be provided in the standard spoken and written Chinese language."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Radio stations and television stations shall use Putonghua as the basic broadcasting language.\nWhere a foreign language needs to be used as the broadcasting language, approval by the competent radio and television department of the State Council must be obtained."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The public service sector shall use standardised Chinese characters as the basic characters for its services. Where, for the needs of public services, foreign scripts are used on signboards, advertisements, notices and signposts together with Chinese, standardised Chinese characters shall be used and shall predominate.\nThe public service sector is encouraged to use Putonghua as the language of service."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "In the following circumstances, the standard spoken and written Chinese language shall be the basic language and script used:\n(a) the language and script used in radio broadcasts, films and television programmes;\n(b) the language and script used in online audio-visual programmes such as online literary and artistic programmes, online drama series and online films, and in online publications such as online games;\n(c) the characters used on facilities in public places;\n(d) the characters used on signboards and advertisements;\n(e) the names of enterprises and public institutions;\n(f) the names, packaging and descriptions of commodities sold within China;\n(g) other circumstances provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where foreign languages and scripts need to be used in the signs, signboards and publicity materials of international exhibitions, international conferences and similar events held within China, the standard spoken and written Chinese language shall be used at the same time."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The standard spoken and written Chinese language used in information processing and information technology products, and in internet information platforms such as portal websites and mobile applications sponsored by the government or providing public services, shall conform to the norms and standards of the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Under the relevant provisions of this Chapter, dialects may be used in the following circumstances:\n(a) where staff members of State organs genuinely need to use them when performing official duties;\n(b) broadcasting languages approved by the competent radio and television department of the State Council or the competent radio and television department of a provincial people's government;\n(c) where they need to be used in artistic forms such as traditional Chinese opera and film and television productions;\n(d) where they genuinely need to be used in publication, teaching and research."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Under the relevant provisions of this Chapter, traditional Chinese characters and variant Chinese characters may be retained or used in the following circumstances:\n(a) cultural relics and historical sites;\n(b) variant characters in surnames;\n(c) works of art such as calligraphy and seal carving;\n(d) inscriptions and handwritten characters on signboards;\n(e) where they need to be used in publication, teaching and research;\n(f) special circumstances approved by the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The Scheme for the Chinese Phonetic Alphabet shall be used as the tool for spelling and phonetic notation of the standard spoken and written Chinese language.\nThe Scheme for the Chinese Phonetic Alphabet is the unified norm for the Roman-letter spelling of Chinese personal names, place names and Chinese documents, and is used in fields where Chinese characters are inconvenient or cannot be used.\nPrimary education shall include teaching of the Chinese phonetic alphabet."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Persons holding posts in which Putonghua is the working language shall have the ability to speak Putonghua.\nThe Putonghua proficiency of announcers, programme hosts, film, television and drama actors, teachers and staff members of State organs shall reach the Putonghua grading standards prescribed by the State; those who have not yet reached the Putonghua grading standards prescribed by the State shall be trained in light of their respective circumstances.\nThe Putonghua grading standards to be met by public-facing practitioners in sectors such as culture and tourism and transport shall be prescribed by the relevant competent industry departments of the State Council together with the department of the State Council responsible for the spoken and written language."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "International Chinese language education shall teach the standard spoken and written Chinese language and promote exchanges and mutual learning among human civilisations through international exchange and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Use of the Standard Spoken and Written Chinese Language"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Work on the standard spoken and written Chinese language shall be under the planning, guidance, administration and supervision of the department of the State Council responsible for the spoken and written language.\nThe relevant departments of the State Council shall administer the use of the standard spoken and written Chinese language in their respective systems and sectors."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The local departments responsible for the spoken and written language and other relevant departments shall administer and supervise the use of the standard spoken and written Chinese language within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The market regulation departments of people's governments at or above the county level shall, in accordance with the law, administer and supervise the language and script used in enterprise names and in the names, packaging and descriptions of commodities and in advertisements."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The department of the State Council responsible for the spoken and written language shall promulgate the grading standards for the Putonghua proficiency test."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The translation of proper nouns such as foreign personal names and place names and of scientific and technological terms into the standard spoken and written Chinese language shall be organised for examination and determination by the department of the State Council responsible for the spoken and written language or other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the relevant provisions of Chapter II of this Law are violated and language or script is used not in accordance with the norms and standards of the standard spoken and written Chinese language, citizens and organisations may offer criticism and suggestions and may complain to or report to the relevant authorities. The authorities receiving such complaints or reports shall handle them promptly in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Management and Supervision"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the language used by the persons specified in paragraph 2 of Article 21 of this Law violates the relevant provisions of Chapter II of this Law, the unit concerned shall criticise and educate the persons directly responsible and order them to correct; and where they refuse to correct, the unit concerned shall deal with the matter."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the relevant provisions of Chapter II of this Law are violated, the relevant departments for education, the press and publication, radio and television, market regulation, housing and urban-rural development, culture and tourism, film, transport, civil affairs, public security, cultural relics, cyberspace administration, industry and information technology and other fields shall, in accordance with their respective duties, order correction; and where correction is refused, a warning or a circulated notice of criticism shall be given, and disciplinary sanctions shall be given in accordance with the law to the person in charge who is directly responsible and the other persons directly responsible. Where laws or administrative regulations provide otherwise, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, interferes with another person's learning and use of the standard spoken and written Chinese language shall be criticised and educated and ordered to correct by the relevant department, and may be given a warning; and where the act constitutes a violation of public security administration, a public security administration punishment shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2026."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0139'] = {
+    "lawId": "CN-LAW-0139",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 21 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to commend outstanding persons who have made prominent contributions to the building of socialism with Chinese characteristics, carry forward the national spirit and the spirit of the times, arouse the enthusiasm of the people of all ethnic groups throughout the country for building a prosperous, strong, democratic, culturally advanced and harmonious modern socialist country, and achieve the great rejuvenation of the Chinese nation, this Law is formulated in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "National medals and national honorary titles are the highest honours of the State.\nThe establishment and conferment of national medals and national honorary titles shall be governed by this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State establishes the Medal of the Republic, which shall be conferred on outstanding persons who have made enormous contributions and rendered outstanding services in the building of socialism with Chinese characteristics and in safeguarding the country.\nThe State establishes the Friendship Medal, which shall be conferred on foreigners who have made outstanding contributions to the socialist modernisation of our country, to the promotion of exchanges and cooperation between China and other countries, and to the maintenance of world peace."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State establishes national honorary titles, which shall be conferred on outstanding persons who have made major contributions and enjoy high prestige in various fields and trades such as the economy, society, national defence, foreign affairs, education, science and technology, culture, health and sports.\nThe names of national honorary titles shall be preceded by the word \"People\", and other names may also be used. The specific names of national honorary titles shall be determined by the Standing Committee of the National People's Congress when it decides to confer them."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The Council of Chairpersons of the Standing Committee of the National People's Congress shall, on the basis of suggestions from all quarters, submit to the Standing Committee of the National People's Congress motions on the conferment of national medals and national honorary titles.\nThe State Council and the Central Military Commission may submit to the Standing Committee of the National People's Congress motions on the conferment of national medals and national honorary titles."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The Standing Committee of the National People's Congress shall decide on the conferment of national medals and national honorary titles."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The President of the People's Republic of China shall, in accordance with the decisions of the Standing Committee of the National People's Congress, confer national medals and the medals of national honorary titles on the recipients of national medals and national honorary titles, and issue certificates."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "When conducting activities of State affairs, the President of the People's Republic of China may directly confer the Friendship Medal on foreign statesmen, international friends and other persons."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall hold ceremonies for the conferment of national medals and national honorary titles on the National Day or on other major festivals and commemorative days; where necessary, such ceremonies may also be held at other times."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State establishes a National Register of Honours to record the recipients of national medals and national honorary titles and their meritorious services."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Recipients of national medals and national honorary titles shall be respected by the State and society and shall enjoy lofty treatment such as being invited to attend State celebrations and other major activities, as well as the treatment prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State and society shall, through various forms, publicise the outstanding services and remarkable deeds of the recipients of national medals and national honorary titles."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "National medals and national honorary titles shall be enjoyed by their recipients for life, unless they are revoked in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Recipients of national medals and national honorary titles shall wear national medals and the medals of national honorary titles in accordance with the provisions, and shall properly keep the medals and certificates."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a recipient of a national medal or a national honorary title dies, the medals and certificates he or she obtained shall be kept by his or her heirs or by a designated person; where there are no heirs or designated persons, they may be kept by the State.\nNational medals, the medals of national honorary titles and certificates shall not be sold, leased or used for other profit-making activities."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a person who made prominent contributions during his or her lifetime and meets the conditions for the conferment of a national medal or a national honorary title under this Law dies after this Law comes into force, a national medal or a national honorary title may be conferred on him or her posthumously."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Recipients of national medals and national honorary titles shall cherish and maintain the honour conferred by the State, comply with the Constitution and the laws in an exemplary manner, strive to serve the people, and consciously safeguard the reputation of national medals and national honorary titles."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a recipient of a national medal or a national honorary title is sentenced to a penalty in accordance with law for committing a crime, or commits other serious illegal or disciplinary acts, and continued enjoyment of the national medal or national honorary title would seriously damage the reputation of the highest honour of the State, the Standing Committee of the National People's Congress shall decide to revoke his or her national medal or national honorary title and make a public announcement."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The specific matters relating to national medals and national honorary titles shall be handled by the working body for the commendation of national honours and distinctions."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State Council and the Central Military Commission may, within the scope of their respective functions and powers, carry out work of commendation and reward for meritorious services and honours."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "This Law shall come into force on 1 January 2016."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0141'] = {
+    "lawId": "CN-LAW-0141",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 24 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to safeguard the dignity of the National Flag, regulate the use of the National Flag, strengthen the citizens' sense of the State, carry forward the spirit of patriotism, and cultivate and practise the core socialist values."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The National Flag of the People's Republic of China is a red flag with five stars.\nThe National Flag of the People's Republic of China shall be made in accordance with the Directions for the Making of the National Flag published by the Presidium of the First Plenary Session of the Chinese People's Political Consultative Conference."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The standard dimensions of the National Flag are the five dimensions specified in the Directions for the Making of the National Flag. Where a National Flag of other dimensions is used under special circumstances, it shall be appropriately enlarged or reduced in proportion to the standard dimensions.\nThe dimensional proportion of the National Flag to the flagpole shall be appropriate and shall be suited to the purpose of use, the surrounding buildings and the surrounding environment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The National Flag of the People's Republic of China is the symbol and emblem of the People's Republic of China.\nEvery citizen and organisation shall respect and cherish the National Flag."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The National Flag shall be raised daily at the following places or at the premises of the following institutions:\n(a) Tiananmen Square and Xinhuamen in Beijing;\n(b) the Central Committee of the Communist Party of China, the Standing Committee of the National People's Congress, the State Council, the Central Military Commission, the Central Commission for Discipline Inspection of the Communist Party of China and the National Commission of Supervision, the Supreme People's Court and the Supreme People's Procuratorate;\nthe National Committee of the Chinese People's Political Consultative Conference;\n(c) the Ministry of Foreign Affairs;\n(d) airports, ports, railway stations and other border ports for exit and entry, and frontier and coastal defence posts."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The National Flag shall be raised at the premises of the following institutions on working days:\n(a) the departments of the Central Committee of the Communist Party of China and the committees at all local levels;\n(b) the departments of the State Council;\n(c) the standing committees of the people's congresses at all local levels;\n(d) the people's governments at all local levels;\n(e) the local commissions for discipline inspection of the Communist Party of China at all levels and the local commissions of supervision at all levels;\n(f) the local people's courts at all levels and the special people's courts;\n(g) the local people's procuratorates at all levels and the special people's procuratorates;\n(h) the local committees of the Chinese People's Political Consultative Conference at all levels;\n(i) the democratic parties and the people's organisations;\n(j) the relevant institutions of the Central People's Government stationed in the Hong Kong Special Administrative Region and the relevant institutions of the Central People's Government stationed in the Macao Special Administrative Region.\nSchools shall raise the National Flag daily except during the winter vacation, the summer vacation and rest days. Kindergartens that meet the conditions shall raise the National Flag by reference to the provisions on schools.\nPublic cultural and sports facilities such as libraries, museums, cultural centres, art galleries, science and technology museums, memorial halls, exhibition halls, gymnasiums and youth palaces shall raise or hang the National Flag on the days when they are open."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "On important festivals and commemorative days such as National Day, International Labour Day, New Year's Day, the Spring Festival and National Constitution Day, State organs at all levels, people's organisations and public activity venues such as large squares and parks shall raise the National Flag; enterprises and public institutions, villagers' committees, residents' committees and residential compounds (buildings, neighbourhoods) that meet the conditions shall raise the National Flag.\nIn regional ethnic autonomous areas, the National Flag shall be raised on the commemorative day of the establishment of the regional ethnic autonomous area and on the major traditional ethnic festivals.\nWhen a ceremony of swearing allegiance to the Constitution is held, the National Flag shall be hung at the venue of the ceremony."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The National Flag may be raised on the occasion of major celebrations and commemorative activities, large-scale cultural and sports activities and large-scale exhibitions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State advocates that citizens and organisations use the National Flag and its design on appropriate occasions to express patriotic feelings.\nWhere citizens and organisations use the design of the National Flag on the Internet, they shall comply with the relevant provisions on Internet administration and shall not impair the dignity of the National Flag.\nThe standard version of the design of the National Flag for use on the Internet is published on the website of the National People's Congress of China and on the website of the Chinese Government."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The measures for raising and using the National Flag in diplomatic activities and by the embassies, consulates and other diplomatic representative institutions of the State stationed abroad shall be prescribed by the Ministry of Foreign Affairs."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The measures for raising and using the National Flag by the Chinese People's Liberation Army and the Chinese People's Armed Police Force shall be prescribed by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The measures for raising the National Flag by civil vessels and by foreign vessels entering the territorial waters of China shall be prescribed by the competent department of transport of the State Council.\nThe measures for raising the National Flag by vessels performing tasks of exit and entry frontier inspection, frontier management and public security shall be prescribed by the public security department of the State Council.\nThe measures for raising the National Flag by vessels of the national comprehensive fire and rescue forces shall be prescribed by the emergency management department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the National Flag is raised in accordance with the provisions of Articles 5, 6 and 7 of this Law, it shall be raised in the morning and lowered in the evening.\nWhere the National Flag is to be raised in accordance with the provisions of this Law, it may be dispensed with in case of severe weather."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "When the National Flag is raised, a flag-raising ceremony may be held.\nWhen a flag-raising ceremony is held, the national anthem shall be played and sung. While the National Flag is being raised, the persons present shall stand facing the National Flag, gaze at it with respect or salute as required by the provisions, and shall not commit any act impairing the dignity of the National Flag.\nA flag-raising ceremony is held daily at Tiananmen Square in Beijing.\nSchools shall hold a flag-raising ceremony once a week except during vacations."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The National Flag shall be flown at half-mast as a token of mourning on the death of the following persons:\n(a) the President of the People's Republic of China, the Chairman of the Standing Committee of the National People's Congress, the Premier of the State Council and the Chairman of the Central Military Commission;\n(b) the Chairman of the National Committee of the Chinese People's Political Consultative Conference;\n(c) persons who have made outstanding contributions to the People's Republic of China;\n(d) persons who have made outstanding contributions to world peace or to the cause of human progress.\nWhere a national memorial ceremony is held, or where a severe natural disaster, a public health emergency or another unfortunate event causes especially heavy casualties, the National Flag may be flown at half-mast throughout the country, or in some areas or at specific venues.\nThe flying of the National Flag at half-mast in accordance with the provisions of subparagraphs (c) and (d) of paragraph 1 and of paragraph 2 of this Article shall be decided by the State Council upon the report of the relevant department of the State Council or of the people's government of the province, autonomous region or municipality directly under the Central Government.\nThe dates and venues for flying the National Flag at half-mast in accordance with the provisions of this Article shall be decided by the funeral affairs institution established by the State or by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a mourning ceremony is held on the death of the following persons, the National Flag may be draped over their remains, coffins or cinerary caskets:\n(a) the persons specified in subparagraphs (a) to (c) of paragraph 1 of Article 15 of this Law;\n(b) martyrs;\n(c) other persons prescribed by the State.\nWhen the National Flag is draped, it shall not touch the ground, and after the ceremony the National Flag shall be retrieved and kept."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "When the National Flag is raised, it shall be placed in a prominent position.\nWhen the National Flag and other flags are carried in formation on the march, the National Flag shall be placed in front of the other flags.\nWhen the National Flag is raised together with other flags, the National Flag shall be placed in the centre, in a higher position or in a prominent position.\nWhen the national flags of two or more countries are raised at the same time in foreign-related activities, they shall be raised in accordance with the provisions of the Ministry of Foreign Affairs or with international practice."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The National Flag shall be raised and lowered slowly on an upright flagpole. When it is raised, it must be raised to the top of the pole; when it is lowered, the National Flag shall not be allowed to touch the ground.\nWhen the National Flag is flown at half-mast, it shall first be raised to the top of the pole and then lowered to the position where the distance between the top of the flag and the top of the pole is one third of the total length of the flagpole; when it is to be lowered, it shall first be raised to the top of the pole and then lowered."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A damaged, soiled, faded or substandard National Flag shall not be raised or used, and the National Flag shall not be raised or used upside down, inverted or in any other manner impairing the dignity of the National Flag.\nThe National Flag shall not be discarded at will. A damaged, soiled, faded or substandard National Flag shall be retrieved and disposed of in accordance with the relevant provisions of the State. After a large-scale mass activity concludes, the organiser of the activity shall retrieve or properly dispose of the National Flags used at the venue of the activity."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The National Flag and its design shall not be used as a trademark, as a design for which a patent right is granted or as a commercial advertisement, and shall not be used in inappropriate circumstances such as private funeral activities."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The National Flag shall be an important part of patriotic education.\nPrimary and secondary schools shall educate students to understand the history and spiritual connotation of the National Flag and to comply with the norms for raising and using the National Flag and the etiquette of the flag-raising ceremony.\nThe news media shall actively disseminate knowledge about the National Flag and guide citizens and organisations to correctly use the National Flag and its design."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The General Office of the State Council shall coordinate the work relating to the administration of the National Flag throughout the country. The people's governments at all local levels shall coordinate the work relating to the administration of the National Flag within their respective administrative areas.\nThe market supervision and administration departments of the people's governments at all levels shall supervise and administer the making and sale of the National Flag.\nThe department designated by the people's government at the county level shall supervise and administer the raising, use and retrieval of the National Flag within its administrative area.\nThe Ministry of Foreign Affairs, the competent department of transport of the State Council and the relevant departments of the Central Military Commission shall supervise and administer the raising, use and retrieval of the National Flag within their respective jurisdictions."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Whoever intentionally insults the National Flag of the People's Republic of China in a public place by burning, destroying, defacing, staining, trampling or other means shall be pursued for criminal responsibility in accordance with law; where the circumstances are relatively minor, the public security organ shall impose a detention of not more than 15 days."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "This Law shall come into force on 1 October 1990.\nAppendix:\nDirections for the Making of the National Flag\n(Published by the Presidium of the First Plenary Session of the Chinese People's Political Consultative Conference on 28 September 1949)\nThe shape and colour of the National Flag are the same on both sides, and the five stars on the flag face each other on the two sides. For convenience, this document takes only the side with the flagpole on the left as the standard for description. As to the side with the flagpole on the right, wherever this document refers to the left, it shall read the right, and wherever it refers to the right, it shall read the left.\n(a) The face of the flag is red and rectangular, the ratio of its length to its height being three to two, and five yellow five-pointed stars are arranged in the upper left part of the flag face. One star is larger, with the diameter of its circumscribed circle being three tenths of the height of the flag, and is situated on the left; the other four stars are smaller, with the diameter of each circumscribed circle being one tenth of the height of the flag, and are arranged in an arc to the right of the large star. The flagpole sleeve is white.\n(b) The positions of the five stars and the method of drawing them are as follows:\nA. To facilitate determining the positions of the five stars, the flag face is first divided into four equal rectangles, and the upper left rectangle is divided vertically into ten equal parts and horizontally into fifteen equal parts.\nB. The centre point of the large five-pointed star is located at five parts from the top and five parts from the bottom, and five parts from the left and ten parts from the right, of that rectangle. The method of drawing is as follows: with this point as the centre and three equal parts as the radius, draw a circle. On the circumference of this circle, mark off five equidistant points, one of which must be located directly above the centre of the circle. Then connect each pair of the points that are separated by one point, so that each connection forms a straight line. The outline formed by these five straight lines is the required large five-pointed star. One point of the star is directed straight upwards.\nC. As to the centre points of the four small five-pointed stars, the first point is located at two parts from the top and eight parts from the bottom, and ten parts from the left and five parts from the right, of that rectangle; the second point at four parts from the top and six parts from the bottom, and twelve parts from the left and three parts from the right; the third point at seven parts from the top and three parts from the bottom, and twelve parts from the left and three parts from the right; and the fourth point at nine parts from the top and one part from the bottom, and ten parts from the left and five parts from the right. The method of drawing is as follows: with the above four points as centres and one equal part as the radius, draw four circles respectively. On each circle, mark off five equidistant points, one of which must in each case be located on the line connecting the centre point of the large five-pointed star with the centre of that circle. Then, by the same method as that used for forming the large five-pointed star, form the small five-pointed stars. Each of the four small five-pointed stars has one point directed straight towards the centre point of the large five-pointed star.\n(c) The standard dimensions of the National Flag are set as the following five, to be selected as appropriate by all sectors:\nA. 288 centimetres in length and 192 centimetres in height.\nB. 240 centimetres in length and 160 centimetres in height.\nC. 192 centimetres in length and 128 centimetres in height.\nD. 144 centimetres in length and 96 centimetres in height.\nE. 96 centimetres in length and 64 centimetres in height.\nDesign drawing of the making of the National Flag"
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0142'] = {
+    "lawId": "CN-LAW-0142",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 20 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to improve the organisational and working systems of the State Council and to safeguard and regulate the exercise of functions and powers by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State Council of the People's Republic of China, that is, the Central People's Government, is the executive body of the highest organ of State power and the highest organ of State administration."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State Council upholds the leadership of the Communist Party of China and takes Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the important thought of Three Represents, the Scientific Outlook on Development and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era as its guide; it resolutely safeguards the authority and the centralised, unified leadership of the Party Central Committee, resolutely implements the decisions and arrangements of the Party Central Committee, applies the new development philosophy, adheres to law-based administration, and fully and correctly performs government functions in accordance with the Constitution and the provisions of law.\nThe State Council adheres to a people-centred approach and serves the people wholeheartedly, upholds and develops whole-process people's democracy, always maintains close ties with the people, listens to the opinions and suggestions of the people, and builds a law-based, innovative, clean and service-oriented government that the people are satisfied with."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State Council is responsible to the National People's Congress and reports its work to it; when the National People's Congress is not in session, it is responsible to the Standing Committee of the National People's Congress and reports its work to it.\nThe State Council shall consciously accept the supervision of the National People's Congress and its Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State Council is composed of the Premier, the Vice-Premiers, the State Councillors, the ministers of the ministries, the chairpersons of the commissions, the Governor of the People's Bank of China, the Auditor-General and the Secretary-General.\nThe State Council practises the system of responsibility of the Premier. The Premier leads the work of the State Council.\nThe Vice-Premiers and the State Councillors assist the Premier in their work and are responsible for the work in the areas under their respective portfolios according to the division of work; they are entrusted by the Premier to take charge of work in other areas or of special tasks; and they represent the State Council in foreign affairs activities in accordance with unified arrangements."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State Council exercises the functions and powers prescribed by the Constitution and the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State Council practises the systems of the plenary meeting of the State Council and the executive meeting of the State Council. The plenary meeting of the State Council is composed of all the members of the State Council. The executive meeting of the State Council is composed of the Premier, the Vice-Premiers, the State Councillors and the Secretary-General. The Premier convenes and presides over the plenary meeting and the executive meeting of the State Council. Major issues in the work of the State Council must be discussed and decided by the executive meeting or the plenary meeting of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The main tasks of the plenary meeting of the State Council are to discuss and decide major matters in the work of the State Council such as the government work report and the plans for national economic and social development, and to make arrangements for the important work of the State Council.\nThe main tasks of the executive meeting of the State Council are to discuss draft laws, deliberate draft administrative regulations, and discuss, decide and announce important matters in the work of the State Council.\nMatters discussed and decided at the plenary meeting and the executive meeting of the State Council shall, except those that need to be kept confidential in accordance with law, be made public in a timely manner.\nThe State Council convenes meetings of the Premier's office and special meetings of the State Council as required."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The administrative regulations, decisions and orders promulgated by the State Council, the bills submitted to the National People's Congress or its Standing Committee, and the appointment and removal of personnel shall be signed by the Premier."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The Secretary-General of the State Council, under the leadership of the Premier, is responsible for handling the daily work of the State Council.\nThe State Council has a number of Deputy Secretaries-General, who assist the Secretary-General in their work.\nThe State Council establishes a General Office, which is headed by the Secretary-General."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The establishment, abolition or merger of the constituent departments of the State Council shall be proposed by the Premier and decided by the National People's Congress; when the National People's Congress is not in session, it shall be decided by the Standing Committee of the National People's Congress. After the constituent departments of the State Council are determined or adjusted, they shall be made public by the National People's Congress or its Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Each constituent department of the State Council shall have one minister (chairperson, governor or auditor-general) and two to four vice-ministers (vice-chairpersons, deputy governors or deputy auditors-general); a commission may have five to ten members.\nThe constituent departments of the State Council practise the system of responsibility of the minister (chairperson, governor or auditor-general). The minister (chairperson, governor or auditor-general) leads the work of the department, convenes and presides over the ministry (commission, bank or audit office) affairs meeting to discuss and decide major matters in the work of the department, and signs the important requests for instructions and reports submitted to the State Council and the orders and instructions issued. The vice-ministers (vice-chairpersons, deputy governors or deputy auditors-general) assist the minister (chairperson, governor or auditor-general) in their work.\nThe Deputy Secretaries-General of the State Council, the vice-ministers of the ministries, the vice-chairpersons of the commissions, the deputy governors of the People's Bank of China and the deputy auditors-general shall be appointed and removed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State Council may, in accordance with the needs of work and the principle of optimisation, coordination, efficiency and simplification, and in accordance with the prescribed procedures, establish a number of directly affiliated institutions to take charge of specialised business and a number of administrative offices to assist the Premier in handling specialised matters. Each institution shall have two to five persons in charge, who shall be appointed and removed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "With respect to the guidelines, policies, plans and major administrative measures in the work of the constituent departments of the State Council, requests for instructions and reports shall be submitted to the State Council, and the State Council shall decide. In accordance with laws and the administrative regulations, decisions and orders of the State Council, the competent department may issue orders and instructions within the limits of its powers.\nThe constituent departments of the State Council, the directly affiliated institutions performing administrative functions and the institutions prescribed by law may, in accordance with laws and the administrative regulations, decisions and orders of the State Council, formulate rules within the limits of their powers."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State Council exercises unified leadership over the work of the local State administrative organs at all levels throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State Council adheres to scientific, democratic and law-based decision-making, improves the institutional systems for administrative decision-making, regulates the procedures for major administrative decisions, strengthens the implementation and evaluation of administrative decisions, and improves the quality and efficiency of decision-making."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State Council improves the administrative supervision system, strengthens administrative reconsideration, recording and review, supervision of administrative law enforcement, government inspection and other work, adheres to the openness of government affairs, consciously accepts supervision from all quarters, and strengthens the restraint and supervision of the exercise of administrative power."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The members of the State Council shall resolutely safeguard the authority and the centralised, unified leadership of the Party Central Committee, exemplarily abide by the Constitution and the laws, conscientiously perform their duties, take the lead in opposing formalism and bureaucratism, act in a pragmatic manner for the people, strictly observe discipline, and be diligent and honest."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The constituent departments, directly affiliated institutions and administrative offices of the State Council shall each perform their own functions, each bear their own responsibilities, strengthen coordination and cooperate closely, so as to ensure the implementation of the various work arrangements of the Party Central Committee and the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "This Law shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0145'] = {
+    "lawId": "CN-LAW-0145",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 23 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Constitution in order to strengthen the building of the customs contingent, enhance the sense of responsibility, the sense of honour and the sense of organisational discipline of customs staff members, and facilitate the performance of their duties in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A system of customs ranks shall be implemented by the customs. Customs ranks may be conferred on the public servants of the State in the General Administration of Customs, its sub-administrations, the offices of commissioners, the customs offices directly under the General Administration of Customs, the customs offices subordinate thereto and their offices.\nThe customs anti-smuggling police shall implement the system of people's police ranks."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A customs rank is the title and insignia that distinguish the grades of customs staff members, indicate the status of customs staff members, and the honour conferred on customs staff members by the State."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Customs ranks shall be established for customs staff members according to the level of their posts."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "As between a customs staff member holding a higher customs rank and a customs staff member holding a lower customs rank, the one holding the higher rank shall be the superior. Where a customs staff member holding a higher customs rank is subordinate in post to a customs staff member holding a lower customs rank, the one holding the higher post shall be the superior."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The General Administration of Customs shall be in charge of the work concerning customs ranks."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Customs ranks shall be divided into the following five grades and thirteen classes:\n(a) Customs Commissioner-General and Deputy Customs Commissioner-General;\n(b) Customs Supervisor: First Class, Second Class and Third Class;\n(c) Customs Inspector: First Class, Second Class and Third Class;\n(d) Customs Assistant Inspector: First Class, Second Class and Third Class;\n(e) Customs Officer: First Class and Second Class."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Customs Rank Grades"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The following customs ranks shall be established for customs staff members according to the level of their posts:\n(a) principal post at the General Administration level: Customs Commissioner-General;\n(b) deputy post at the General Administration level: Deputy Customs Commissioner-General;\n(c) principal post at the bureau level: Customs Supervisor, First Class to Customs Supervisor, Second Class;\n(d) deputy post at the bureau level: Customs Supervisor, Second Class to Customs Supervisor, Third Class;\n(e) principal post at the division level: Customs Supervisor, Third Class to Customs Inspector, Second Class;\n(f) deputy post at the division level: Customs Inspector, First Class to Customs Inspector, Third Class;\n(g) principal post at the section level: Customs Inspector, Second Class to Customs Assistant Inspector, Second Class;\n(h) deputy post at the section level: Customs Inspector, Third Class to Customs Assistant Inspector, Third Class;\n(i) section member post: Customs Assistant Inspector, First Class to Customs Officer, First Class;\n(j) clerk post: Customs Assistant Inspector, Second Class to Customs Officer, Second Class."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Customs Rank Grades"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The conferment of customs ranks shall be based on the current post of the customs staff member, his moral integrity and ability, the time of his appointment and the number of years of his service."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter III Conferment of Customs Ranks"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the customs recruits customs staff members through examination or transfers customs staff members from other departments, the corresponding customs ranks shall be conferred after the posts are determined."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter III Conferment of Customs Ranks"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The conferment of customs ranks shall be approved within the following limits of authority:\n(a) Customs Commissioner-General, Deputy Customs Commissioner-General, Customs Supervisor, First Class and Customs Supervisor, Second Class shall be conferred upon approval by the Premier of the State Council;\n(b) Customs Supervisor, Third Class to Customs Inspector, Third Class shall be conferred upon approval by the Director General of the General Administration of Customs;\n(c) customs ranks below Customs Assistant Inspector, First Class in the bodies of the General Administration of Customs and in the agencies dispatched by the General Administration of Customs shall be conferred upon approval by the Director of the Political Department of the General Administration of Customs;\n(d) customs ranks below Customs Assistant Inspector, First Class in the customs offices directly under the General Administration of Customs and in the customs offices subordinate thereto shall be conferred upon approval by the heads of the respective customs offices directly under the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Conferment of Customs Ranks"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Customs staff members holding customs ranks below Customs Inspector, Second Class shall be promoted within the range of customs ranks established for their post level in accordance with the following time limits:\nfrom Customs Officer, Second Class to Customs Assistant Inspector, First Class, one class shall be promoted every three years;\nfrom Customs Assistant Inspector, First Class to Customs Inspector, First Class, one class shall be promoted every four years."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter IV Promotion in Customs Rank"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Customs staff members holding customs ranks below Customs Inspector, Second Class shall, upon expiry of the time limit for promotion and after examination confirming that they meet the conditions for promotion, be promoted class by class; where they do not meet the conditions for promotion, their promotion shall be postponed. Where they have made outstanding achievements in their work, they may, upon approval, be promoted ahead of schedule."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter IV Promotion in Customs Rank"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The promotion of customs staff members holding customs ranks of Customs Inspector, First Class or above shall be effected by selection within the range of customs ranks established for their post level, on the basis of their moral integrity and ability and their actual work performance."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter IV Promotion in Customs Rank"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a customs staff member is promoted to a higher post and his customs rank is lower than the lowest customs rank established for the level of the new post, he shall be promoted to the lowest customs rank established for the level of the new post."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Promotion in Customs Rank"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Promotion from Customs Officer to Customs Assistant Inspector, from Customs Assistant Inspector to Customs Inspector and from Customs Inspector to Customs Supervisor may be effected only after the person has passed the relevant training."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Promotion in Customs Rank"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The limits of authority for approving the promotion of customs ranks shall be governed by the provisions of Article 11 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Promotion in Customs Rank"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "After a customs staff member retires, his customs rank shall be retained, but he shall not wear the insignia.\nWhere a customs staff member is transferred away, resigns or is dismissed, his customs rank shall not be retained."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter V Retention, Demotion and Revocation of Customs Ranks"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a customs staff member is transferred to a lower post because he is not competent for his current post, and his customs rank is higher than the highest customs rank established for the level of the new post, he shall be demoted to the highest customs rank established for the level of the new post. The limits of authority for approving the demotion of a customs rank shall be the same as those for approving the original customs rank."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter V Retention, Demotion and Revocation of Customs Ranks"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a customs staff member is given an administrative sanction of demotion or of removal from post, his customs rank shall be lowered accordingly. The limits of authority for approving the demotion of a customs rank shall be the same as those for approving the original customs rank. After the demotion of a customs rank, the time limit for the promotion of his customs rank shall be recalculated according to the rank class after demotion.\nDemotion of a customs rank shall not apply to Customs Officer, Second Class."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter V Retention, Demotion and Revocation of Customs Ranks"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a customs staff member is given an administrative sanction of dismissal, or is sentenced in accordance with the law to deprivation of political rights or to a penalty of fixed-term imprisonment or a heavier penalty for a crime, his customs rank shall be cancelled accordingly, and no approval formalities shall be gone through.\nWhere a retired customs staff member commits a crime, the provisions of the preceding paragraph shall apply."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter V Retention, Demotion and Revocation of Customs Ranks"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The designs of the insignia of customs ranks and the measures for wearing them shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -5019,6 +17073,582 @@
         },
         "chapter": {
           "en": "Chapter XVI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0153'] = {
+    "lawId": "CN-LAW-0153",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 48 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is formulated for the purposes of regulating and strengthening the planning, construction, maintenance and protection of waterways, ensuring that waterways are unblocked and that navigation is safe, and promoting the development of waterway transport."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, waterways mean the channels in the inland waters, such as rivers and lakes, within the territory of the People's Republic of China that can be used for the navigation of ships, and the channels in the internal sea and the territorial sea that can be used for the navigation of ships after construction and maintenance. Waterways include navigation structures, waterway regulation structures, and navigation aids and other waterway facilities."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The planning, construction, maintenance and protection of waterways shall, according to the needs of economic and social development and national defence construction, follow the principles of the comprehensive utilisation and protection of water resources and the protection of the ecological environment, be subordinate to the development of the comprehensive transport system and the overall arrangements for flood control, give overall consideration to the needs of water supply, irrigation, power generation and fisheries, and bring the comprehensive benefits of water resources into play."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State Council and the relevant local people's governments at or above the county level shall strengthen leadership over waterway work, organise, coordinate and urge the relevant departments to adopt measures so as to maintain and improve the navigation conditions of waterways, protect the safety of waterways, and safeguard the integrity and smoothness of the waterway network.\nThe State Council and the relevant local people's governments at or above the county level shall, in light of the level of economic and social development and the needs of waterway construction and maintenance, make reasonable arrangements in their fiscal budgets for funds for waterway construction and maintenance."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The transport administrative department of the State Council shall be in charge of the administration of waterways nationwide and shall, in accordance with the provisions of the State Council, directly administer important waterways such as the major trunk waterways across provinces, autonomous regions and municipalities directly under the Central Government and the international and border waterways.\nThe transport administrative departments of the local people's governments at or above the county level shall, in accordance with the provisions of the governments of provinces, autonomous regions and municipalities directly under the Central Government, be in charge of the administration of the waterways within their jurisdiction.\nThe agencies for the administration of waterways established by the transport administrative department of the State Council in accordance with the provisions of the State Council and the departments or agencies responsible for the administration of waterways of the local people's governments at or above the county level (hereinafter collectively referred to as the departments responsible for waterway administration) shall undertake the administration of waterways prescribed by this Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Waterway planning is divided into national waterway planning, river basin waterway planning, regional waterway planning and the waterway planning of provinces, autonomous regions and municipalities directly under the Central Government.\nWaterway planning shall include the functional positioning of waterways, the objectives of planning, the technical grades for development planning, the steps for the implementation of planning and the safeguard measures.\nWaterway planning shall comply with the comprehensive river basin and regional plans formulated in accordance with the law, comply with water resources planning, flood control planning and marine functional zoning, and be coordinated with the relevant specialised plans relating to the comprehensive utilisation of water resources as well as other relevant plans such as urban and rural planning and environmental protection planning formulated in accordance with the law and the plans for the protection of military facilities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Waterway Planning"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Waterways shall be classified into technical grades. The technical grades of waterways include the current technical grade and the technical grade for development planning. The technical grade of a waterway for development planning shall be assessed on the basis of the relevant natural conditions, the requirements for flood control, water supply and the protection of water resources and the ecological environment, the needs of the development of shipping and other factors."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Waterway Planning"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The national waterway plan shall be formulated by the transport administrative department of the State Council in conjunction with the development and reform department and the water administrative department of the State Council and other departments, and shall be submitted to the State Council for approval and publication; the river basin waterway plans and regional waterway plans shall be formulated and published by the transport administrative department of the State Council.\nThe waterway plans of provinces, autonomous regions and municipalities directly under the Central Government shall be formulated by the transport administrative departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in conjunction with the development and reform departments and water administrative departments at the corresponding levels and other departments, and shall be submitted to the people's governments of provinces, autonomous regions and municipalities directly under the Central Government for approval and publication in conjunction with the transport administrative department of the State Council.\nIn the formulation of waterway plans, the opinions of the relevant departments and the relevant military organs shall be solicited and environmental impact assessment shall be conducted in accordance with the law; where the plans involve sea areas or important fishery waters, the maritime administrative department and the fishery administrative department at the corresponding level shall participate; the formulation of the national waterway plan and the river basin and regional waterway plans shall solicit the opinions of the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government.\nThe river basin waterway plans, the regional waterway plans and the waterway plans of provinces, autonomous regions and municipalities directly under the Central Government shall comply with the national waterway plan."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Waterway Planning"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Waterway plans formulated and published in accordance with the law shall be complied with in implementation; where a waterway plan truly needs to be amended, the matter shall be handled in accordance with the procedures for the formulation of the plan."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Waterway Planning"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The construction of new waterways and waterway projects carried out for the purpose of improving the navigation conditions of waterways shall comply with the provisions of laws and administrative regulations on the quality management, safety management and ecological environmental protection of construction projects, conform to waterway planning, implement the relevant national standards, industry standards and technical specifications, and complete the relevant formalities in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter III Construction of Waterways"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Waterway construction entities shall, according to the technical requirements of waterway construction projects, select survey, design, construction and supervision entities with the corresponding qualifications by means of tendering and other means in accordance with the law to carry out the construction of the projects, exercise supervision and inspection over the quality and safety of the projects, and be responsible for the quality and safety of the projects.\nThe survey, design, construction and supervision entities engaged in the construction of waterway projects shall obtain the corresponding qualifications in accordance with the provisions of laws and administrative regulations, engage in waterway construction activities within the scope permitted by their qualification grades, and be responsible for the quality and safety of the survey, design, construction and supervision in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Construction of Waterways"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The relevant transport administrative departments of the people's governments at or above the county level shall strengthen supervision and inspection over the quality and safety of waterway construction projects so as to ensure the quality and safety of waterway construction projects."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Construction of Waterways"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "After a waterway construction project is completed, completion acceptance shall be organised in accordance with the relevant provisions of the State, and the project may be put into official use only after it has passed acceptance.\nThe waterway construction entity shall, within 60 days from the date on which the waterway construction project passes completion acceptance, submit the completion survey drawings to the departments responsible for waterway administration; the completion survey drawings of coastal waterways shall also be submitted to the nautical support department of the Navy."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Construction of Waterways"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The construction of waterway projects shall maintain the stability of the river regime, comply with the requirements for flood control, and shall not endanger the safety of other projects or facilities constructed in accordance with the law; where the construction of a waterway project damages other projects or facilities constructed in accordance with the law, the waterway construction entity shall repair them or pay compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Construction of Waterways"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The transport administrative department of the State Council shall formulate technical specifications for waterway maintenance.\nThe departments responsible for waterway administration shall carry out waterway maintenance in accordance with the technical specifications for waterway maintenance so as to ensure that waterways are kept in a good technical state for navigation."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The departments responsible for waterway administration shall, according to the current technical grade or the natural conditions of the waterway, determine and publish the maintenance dimensions of the waterway and the inland waterway charts.\nThe maintenance dimensions of a waterway mean the technical requirements for the depth, width and curvature radius that the waterway shall maintain in different water-level periods."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The departments responsible for waterway administration shall conduct patrols of waterways in accordance with the provisions of the transport administrative department of the State Council; where the actual dimensions of a waterway fail to meet the maintenance dimensions of the waterway or there are other circumstances that do not meet the requirements for ensuring the navigation safety of ships, they shall carry out maintenance, promptly issue waterway notices and notify the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a maritime safety administration discovers circumstances such as damage to a waterway that endanger navigation safety, it shall promptly notify the departments responsible for waterway administration and adopt the necessary safety safeguard measures.\nWhere any other entity or individual discovers circumstances such as damage to a waterway that endanger navigation safety, it shall promptly report the same to the departments responsible for waterway administration or the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The departments responsible for waterway administration shall make reasonable arrangements for waterway maintenance operations, avoiding concentrated operations that restrict navigation and operations during peak navigation periods.\nWhere the departments responsible for waterway administration carry out waterway maintenance activities affecting navigation, such as the dredging of waterways and the removal of obstructions, or where maintenance operations that genuinely require navigation restrictions are carried out, obvious operation signs shall be set up, the necessary safety measures shall be adopted, the maritime safety administration shall be notified in advance, and the passage of passing ships and the safety of projects and facilities constructed in accordance with the law shall be ensured; after the maintenance operations are completed, the operation signs affecting the navigation conditions of the waterway and other remaining objects shall be promptly removed and normal navigation shall be restored."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where waterway maintenance operations may cause blockage of a waterway, the relevant departments responsible for waterway administration shall, in conjunction with the maritime safety administration, notify in advance the departments responsible for waterway administration and the maritime safety administrations in the relevant regions, jointly formulate plans for diverting ships, and make an announcement to the public."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a waterway is damaged or blocked by an emergency such as a natural disaster or an accident, the departments responsible for waterway administration shall, in accordance with the emergency response plan, carry out repairs and clear the waterway as soon as possible; where necessary, the people's government at or above the county level shall organise the repairs and clearance as soon as possible.\nWhere a ship, installation or other object sinks in waterway waters, affecting the smoothness of the waterway and the safety of navigation, its owner or operator shall immediately report the same to the departments responsible for waterway administration and the maritime safety administration, shall, in accordance with the provisions, set up signs itself or himself or herself or entrust the departments responsible for waterway administration or the maritime safety administration to set up signs on its behalf, and shall salvage and remove the object within the time limit prescribed by the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The installation, maintenance, protection and administration of navigation aids shall be carried out in accordance with the provisions of the relevant laws and administrative regulations and of national or industry standards."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the armed forces need to use waterways for the performance of missions or combat readiness training, the departments responsible for waterway administration shall provide the necessary support and assistance."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Maintenance of Waterways"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Bridges, tunnels, pipelines, cables and other buildings and structures newly built, rebuilt or expanded (hereinafter collectively referred to as construction) that cross over or pass through waterways shall meet the requirements of the technical grade of the waterway for development planning for waterway navigation conditions such as the clearance height, clearance width and burial depth for navigation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where permanent dams are to be built across navigable rivers, the construction entity shall build navigation structures in accordance with the technical grade of the waterway for development planning; the navigation structures shall be planned, designed, constructed, accepted and put into use simultaneously with the principal works.\nWhere it is difficult to maintain the original navigation capacity of the waterway during the construction of a dam, the construction entity shall adopt remedial measures such as constructing temporary waterways and arranging for transshipment across the dam, and the costs incurred shall be borne by the construction entity.\nWhere a river that is not navigable can become navigable after the construction of a dam, the dam construction entity shall construct navigation structures simultaneously or reserve positions for navigation structures; unless otherwise provided by the State, the costs of constructing the navigation structures shall be borne by the transport administrative department.\nThe operation of navigation structures shall meet the needs of the passage of ships, the operation plan shall be subject to the consent of the departments responsible for waterway administration and shall be published, and the construction entity or the management entity of the navigation structures shall carry out maintenance and upkeep in accordance with the provisions so as to keep the navigation structures in normal operation."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where buildings or structures are to be constructed along rivers, lakes or the sea within the scope of waterway protection, they shall meet the requirements for the navigation conditions of the waterway.\nThe scope of waterway protection shall be delineated by the transport administrative department of the local people's government at or above the county level in conjunction with the water administrative department or the river basin administrative agency and the land and resources administrative department, according to the technical grade of the waterway for development planning and the actual needs of waterway protection, and shall be submitted to the people's government at the corresponding level for approval and publication; the scope of protection of a waterway directly administered by the transport administrative department of the State Council shall be delineated and published by the transport administrative department of the State Council in conjunction with the water administrative department and the land and resources administrative department of the State Council and the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government; where the scope of waterway protection involves sea areas or important fishery waters, it shall also be delineated in conjunction with the maritime administrative department and the fishery administrative department at the corresponding level respectively."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Except for special projects such as flood control and water supply projects carried out in accordance with laws, administrative regulations or the provisions of the State Council, the construction of the projects prescribed in Article 24, paragraph 1 of Article 25 and paragraph 1 of Article 26 of this Law (hereinafter collectively referred to as projects related to waterways) shall not cause the navigation conditions of the waterway to be lowered as a result of the construction of the project."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a project related to waterways is to be constructed, the construction entity shall, at the stage of feasibility study of the construction project, carry out an assessment of the impact of the construction project on the navigation conditions of the waterway and submit the assessment to the transport administrative department or the waterway administration agency that has the power of examination and approval for examination and approval, except for the following projects:\n(a) the treatment projects of small and medium-sized rivers along rivers and lakes;\n(b) water projects constructed on rivers that are not navigable;\n(c) projects that do not affect the navigation conditions of the waterway, such as the repair of flood damage to existing water projects, reinforcement for risk elimination, and the renovation and upgrading of water projects that do not involve navigation structures and do not change the original navigation conditions of the waterway.\nWhere the materials for the assessment of the impact on the navigation conditions of the waterway submitted by the construction entity do not conform to the provisions of this Law, such materials may be supplemented or amended and resubmitted to the examination and approval department for examination and approval.\nWhere no assessment of the impact on the navigation conditions of the waterway has been carried out or the examination and approval department considers upon examination that the construction project does not conform to the provisions of this Law, the construction entity shall not carry out construction; where a government investment project has not been subject to an assessment of the impact on the navigation conditions of the waterway or the examination and approval department considers upon examination that the construction project does not conform to the provisions of this Law, the department responsible for the examination and approval of the construction project shall not grant approval."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The assessment of the impact on the navigation conditions of the waterway for construction projects approved or verified by the State Council or the relevant departments of the State Council and for construction projects relating to waterways directly administered by the transport administrative department of the State Council shall be examined and verified by the transport administrative department of the State Council; the assessment of the impact on the navigation conditions of the waterway for other construction projects shall be examined and verified by the transport administrative departments of the local people's governments at or above the county level or the waterway administration agencies in accordance with the provisions of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The connection of navigable water levels between adjacent dams across a waterway shall comply with the navigation standards and technical requirements prescribed by the State; water projects located on a waterway and on its upstream tributaries shall, in their design, construction and operation, take into overall consideration the discharge flow required for the lowest navigable water level of the downstream waterway, except where the hydrological conditions exceed the actual standards.\nThe determination of the minimum discharge flow required to ensure the navigation of the downstream waterway and of the permissible changes in water level that meet the navigation conditions of the waterway shall solicit the opinions of the departments responsible for waterway administration.\nWhere a water project needs to reduce the flow substantially or discharge water in large quantities, the departments responsible for waterway administration and the maritime safety administration shall be notified in advance so as to leave reasonable time for ships to take avoiding action."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the construction of a project related to waterways affects the normal functions of the waterway, the departments responsible for waterway administration and the maritime safety administration shall, according to needs, make temporary adjustments to the positions or directions of the navigation aids or of the waterway; after the effects are eliminated, the original state shall be promptly restored; the costs incurred shall be borne by the construction entity, except where the adjustments are caused by flood control and emergency repair projects."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Before the completion acceptance of a project related to waterways, the construction entity shall promptly remove the temporary facilities affecting the navigation conditions of the waterway and their remains."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The construction activities of projects related to waterways shall not endanger the safety of waterways.\nWhere the construction activities of a project related to waterways damage a waterway, the construction entity shall repair the damage or pay compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where buildings such as bridges are to be constructed on navigable waters, the construction entity shall install facilities such as navigation aids in accordance with the relevant provisions of the State and the technical requirements, and shall bear the corresponding costs.\nThe water navigation aids in bridge areas shall be managed and maintained by the departments responsible for waterway administration and the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The following acts that endanger the navigation safety of waterways are prohibited:\n(a) installing fishing gear or aquaculture facilities in a waterway;\n(b) dumping sand, stones, soil, refuse and other wastes in a waterway or within the scope of waterway protection;\n(c) engaging in the loading and unloading of goods, refuelling of ships on the water, the repair of ships, fishing and other activities in a navigation structure, its approach channel or a ship dispatch area, thereby affecting the normal operation of the navigation structure;\n(d) endangering the safety of waterway facilities;\n(e) other acts that endanger the navigation safety of waterways."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Sand mining within a river course shall be carried out in accordance with the provisions of the relevant laws and administrative regulations; illegal sand mining acts such as mining sand in zones where sand mining is prohibited as delimited in accordance with the law within a river course, mining sand without a licence, and mining sand not in accordance with the approved scope and operating methods are prohibited.\nSand mining in a waterway or within the scope of waterway protection shall not damage the navigation conditions of the waterway."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a dam across a river constructed before the entry into force of this Law has caused the interruption of navigation on a navigable river and it is necessary to restore navigation and the conditions for building navigation structures are available, the development and reform department shall, in conjunction with the water administrative department and the transport administrative department, put forward a plan for restoring navigation, which shall be submitted to the people's government at the corresponding level for decision."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a waterway construction, survey, design, construction or supervision entity violates the provisions of this Law in its waterway construction activities, it shall be penalised by the transport administrative department of the people's government at or above the county level in accordance with the provisions of the relevant laws and administrative regulations on bidding and tendering and on the administration of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a construction entity commences construction without submitting the materials for the assessment of the impact on the navigation conditions of the waterway in accordance with the law, the transport administrative department or the waterway administration agency that has the power of examination and approval shall order it to stop construction, complete the formalities within a time limit and impose a fine of not more than RMB 30,000; if it fails to complete the formalities within the time limit and continues construction, the transport administrative department or the waterway administration agency that has the power of examination and approval shall order it to restore the original state and impose a fine of not less than RMB 200,000 and not more than RMB 500,000.\nWhere a construction entity commences construction when the materials for the assessment of the impact on the navigation conditions of the waterway that it has submitted have not passed examination and verification, the transport administrative department or the waterway administration agency that has the power of examination and approval shall order it to stop construction and restore the original state, and impose a fine of not less than RMB 200,000 and not more than RMB 500,000.\nWhere a project constructed in violation of the provisions on the assessment of the impact on the navigation conditions of the waterway has caused a serious decline in the navigation conditions of the waterway, the transport administrative department or the waterway administration agency prescribed in the preceding two paragraphs shall order the construction entity to adopt remedial measures or demolish the project within a time limit; if the entity fails to adopt remedial measures or demolish the project within the time limit, the transport administrative department or the waterway administration agency shall adopt remedial measures or organise the demolition on its behalf in accordance with the law, and the costs incurred shall be borne by the construction entity."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the construction entity of a project related to waterways violates the provisions of this Law by failing to promptly remove the temporary facilities affecting the navigation conditions of the waterway and their remains, the departments responsible for waterway administration shall order it to remove them within a time limit and impose a fine of not more than RMB 20,000; if it still fails to remove them within the time limit, a fine of not less than RMB 30,000 and not more than RMB 200,000 shall be imposed, and the departments responsible for waterway administration shall organise the removal in accordance with the law, with the costs incurred being borne by the construction entity."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a construction entity fails to install facilities such as navigation aids in accordance with the provisions when constructing buildings such as bridges on navigable waters, the departments responsible for waterway administration or the maritime safety administration shall order it to rectify and impose a fine of not more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an entity or individual violates the provisions of this Law and commits any of the following acts, the departments responsible for waterway administration shall order it to rectify and impose a fine of not more than RMB 50,000 on the institution or a fine of not more than RMB 2,000 on the individual; where harm is caused, the entity or individual shall bear liability for compensation in accordance with the law:\n(a) installing fishing gear or aquaculture facilities in a waterway;\n(b) dumping sand, stones, soil, refuse and other wastes in a waterway or within the scope of waterway protection;\n(c) engaging in the loading and unloading of goods, refuelling of ships on the water, the repair of ships, fishing and other activities in a navigation structure, its approach channel or a ship dispatch area, thereby affecting the normal operation of the navigation structure;\n(d) endangering the safety of waterway facilities;\n(e) other acts that endanger the navigation safety of waterways."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where an entity or individual mines sand illegally in zones where sand mining is prohibited as delimited in accordance with the law within a river course, mines sand without a licence, or mines sand not in accordance with the approved scope and operating methods, it shall be penalised in accordance with the provisions of the relevant laws and administrative regulations.\nWhere an entity or individual, in violation of the provisions of this Law, mines sand in a waterway or within the scope of waterway protection, thereby damaging the navigation conditions of the waterway, the departments responsible for waterway administration shall order it to stop the illegal act, confiscate the illegal gains, may detain or confiscate the ship used for illegal sand mining, and impose a fine of not less than RMB 50,000 and not more than RMB 300,000; where harm is caused, the entity or individual shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an entity or individual, in violation of the provisions of the law, pollutes the environment, damages the ecology or commits other acts in violation of environmental law, it shall be penalised in accordance with the provisions of laws such as the Environmental Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the transport administrative department or any other relevant department fails to perform the duties prescribed by this Law in accordance with the law, the person directly in charge and other persons directly responsible shall be given disciplinary sanctions in accordance with the law.\nWhere an agency responsible for waterway administration fails to perform the duties prescribed by this Law in accordance with the law, the competent department at the next higher level shall order it to rectify, and the person directly in charge and other persons directly responsible shall be given disciplinary sanctions in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an act violates the provisions of this Law and constitutes a violation of the administration of public security, an administrative penalty for public security shall be imposed on the offender in accordance with the law; where the act constitutes a crime, the offender shall be investigated for criminal responsibility in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "This Law shall not apply to special-purpose waterways leading to military ports and fishery ports; special-purpose waterways shall be administered by the special-purpose departments."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "This Law shall enter into force on 1 March 2015."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

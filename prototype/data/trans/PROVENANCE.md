@@ -7,55 +7,55 @@
 
 | 项目 | 数值 |
 | :--- | :--- |
-| 分卷数 | 13 |
-| 覆盖法规 | 255 部 |
-| 译文条目 | 5814 条 |
-| 最近更新 | 2026-10-17 |
+| 分卷数 | 21 |
+| 覆盖法规 | 1219 部 |
+| 译文条目 | 31396 条 |
+| 语向 | zh → en |
+| 最近更新 | 2026-10-21 |
 
 ## 二、分卷清单
 
-| 分卷文件 | 语向 | 法规数 | 条目数 | 生成引擎 |
-| :--- | :--- | ---: | ---: | :--- |
-| `cn-p01.en.js` | zh→en | 26 | 26 | llm |
-| `cn-p02.en.js` | zh→en | 3 | 421 | llm |
-| `cn-p03.en.js` | zh→en | 1 | 306 | llm |
-| `cn-p04.en.js` | zh→en | 3 | 507 | llm |
-| `cn-p05.en.js` | zh→en | 14 | 796 | llm |
-| `cn-p06.en.js` | zh→en | 52 | 510 | llm |
-| `cn-p07.en.js` | zh→en | 46 | 46 | llm |
-| `cn-p08.en.js` | zh→en | 16 | 16 | llm |
-| `cn-p09.en.js` | zh→en | 3 | 3 | llm |
-| `cn-p10.en.js` | zh→en | 3 | 3 | llm |
-| `cn-p11.en.js` | zh→en | 16 | 16 | llm |
-| `cn-p12.en.js` | zh→en | 48 | 190 | llm |
-| `cn.en.js` | zh→en | 24 | 2974 | llm |
+| 分卷文件 | 语向 | 法规数 | 条目数 |
+| :--- | :--- | ---: | ---: |
+| `cn-p01.en.js` | zh→en | 80 | 2659 |
+| `cn-p02.en.js` | zh→en | 33 | 1530 |
+| `cn-p03.en.js` | zh→en | 26 | 1191 |
+| `cn-p04.en.js` | zh→en | 26 | 1125 |
+| `cn-p05.en.js` | zh→en | 39 | 1740 |
+| `cn-p06.en.js` | zh→en | 80 | 912 |
+| `cn-p07.en.js` | zh→en | 80 | 536 |
+| `cn-p08.en.js` | zh→en | 80 | 1006 |
+| `cn-p09.en.js` | zh→en | 80 | 1561 |
+| `cn-p10.en.js` | zh→en | 80 | 1641 |
+| `cn-p11.en.js` | zh→en | 76 | 880 |
+| `cn-p12.en.js` | zh→en | 74 | 771 |
+| `cn-p13.en.js` | zh→en | 60 | 1880 |
+| `cn-p14.en.js` | zh→en | 67 | 1469 |
+| `cn-p15.en.js` | zh→en | 60 | 1857 |
+| `cn-p16.en.js` | zh→en | 61 | 1942 |
+| `cn-p17.en.js` | zh→en | 57 | 1745 |
+| `cn-p18.en.js` | zh→en | 57 | 1526 |
+| `cn-p19.en.js` | zh→en | 52 | 1530 |
+| `cn-p20.en.js` | zh→en | 26 | 908 |
+| `cn.en.js` | zh→en | 25 | 2987 |
 
-## 三、入库批次
+## 三、生成方式与校验
 
-| 批次 | 引擎 | 模型 | 生成日期 | 复核 |
-| :--- | :--- | :--- | :--- | :--- |
-| `CALR-TRANS-CN-EN-2026-10-14-1430` | llm | deepseek-v4.1-flash | 2026-10-14 | machine |
-| `CALR-TRANS-CN-EN-OFFICIAL-CC` | official | — | 2020-12-31 | human |
+- 生成：`_work/trans/ingest-trans.js`（把回执按 `calr-trans-v2` 契约写入分卷）
+- 索引：`manifest.js` 的 `byLaw` 记录每部法规的译文在哪个分卷，界面按需加载该分卷
+- 校验：`_work/mm/verify-trans-full.py` 做全量一致性检查（manifest↔分卷↔法规库↔回执）
 
-## 四、再入库方式（若需重放）
+## 四、一致性校验结果
 
-```bash
-# 校验回执包
-node tools/verify-trans-return.js <回执包目录>
+| 检查 | 结果 |
+| :--- | :--- |
+| A manifest 声明 → 分卷内容 | ✓ 通过 |
+| B 分卷内容 → manifest 登记 | ✓ 通过 |
+| C 译文对应法规存在于 laws/ | ✓ 通过 |
+| D 与 returns 回执条文数一致 | ✓ 通过 |
 
-# 落盘到本目录（会重写 cn*.js 与 manifest.js）
-node _work/trans/ingest-trans.js <任务包目录> <回执包目录>
-```
+## 五、红线说明
 
-## 五、与原文层的分离原则
-
-- 原文（A/B/C 层）存于 `prototype/data/laws/`，是**唯一权威源**
-- 译文（D 层）存于本目录，**从不写回原文**；界面读取时在内存中合并
-- 每条译文保留 `provenance{engine, model, promptVersion, translatedAt, reviewed, glossaryVersion}`
-
-## 六、已知数据瑕疵
-
-- `CN-LAW-0293`（中华人民共和国刑法）译文含 53 处「之一」式条号（如 `308.1`）
-  - 这是刑法的真实条号形式（第三百零八条之一），非错误
-  - `tools/verify-trans-return.js` 的 R19 规则暂不识别此类插入条号，会误报；
-    阅读层按 `no` 精确匹配，显示不受影响
+- 译文与官方原文**物理分离**：译文只写在 `data/trans/`，绝不写回 `data/laws/`
+- 界面读取时在内存中合并，磁盘上的原文文件保持逐字原样
+- 每条译文记录带 `provenance`（engin / model / promptVersion / translatedAt / reviewed）

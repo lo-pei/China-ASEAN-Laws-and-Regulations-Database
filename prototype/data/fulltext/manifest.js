@@ -7,7 +7,7 @@
   'use strict';
   root.CALR_FULLTEXT_MANIFEST = {
  "version": "1.0.0",
- "updatedAt": "2026-10-18",
+ "updatedAt": "2026-10-20",
  "files": [
   "bn",
   "cn",

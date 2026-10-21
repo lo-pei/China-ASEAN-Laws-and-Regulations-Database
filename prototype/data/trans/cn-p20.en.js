@@ -1,12 +1,5487 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p20
-   法规 1 部 / 译文 10 条
+   法规 26 部 / 译文 908 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-REG-0580'] = {
+    "lawId": "CN-REG-0580",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 17 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Units and individuals that produce, have processed under commission or import consumer goods prescribed by these Regulations within the territory of the People's Republic of China, and other units and individuals determined by the State Council that sell consumer goods prescribed by these Regulations, are taxpayers of consumption tax and shall pay consumption tax in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The taxable items and tax rates of consumption tax shall be governed by the Consumption Tax Taxable Items and Tax Rates Table appended to these Regulations.\nAdjustments to the taxable items and tax rates of consumption tax shall be decided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a taxpayer concurrently deals in taxable consumer goods that are subject to consumption tax at different tax rates (hereinafter referred to as taxable consumer goods), it shall separately account for the sales amount and sales volume of the taxable consumer goods at different tax rates; where the sales amount and sales volume are not separately accounted for, or where taxable consumer goods at different tax rates are sold in sets of consumer goods, the higher tax rate shall apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Tax on taxable consumer goods produced by a taxpayer shall be paid at the time the taxpayer sells them. Where taxable consumer goods produced and used by a taxpayer itself are used for the continuous production of taxable consumer goods, no tax shall be paid; where they are used for other purposes, tax shall be paid at the time they are transferred for use.\nFor taxable consumer goods processed under commission, unless the commissioned party is an individual, the commissioned party shall collect and remit the tax on behalf of the State when delivering the goods to the commissioning party. Where the commissioning party uses taxable consumer goods processed under commission for the continuous production of taxable consumer goods, the tax paid shall be credited in accordance with the provisions.\nTax on imported taxable consumer goods shall be paid at the time of customs declaration for import."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Consumption tax shall be calculated by the method of ad valorem taxation at a fixed rate, specific taxation at a fixed amount, or a combination of ad valorem taxation at a fixed rate and specific taxation at a fixed amount (hereinafter referred to as combined taxation). The formula for calculating the amount of tax payable is as follows:\namount of tax payable under ad valorem taxation at a fixed rate = sales amount × proportional tax rate\namount of tax payable under specific taxation at a fixed amount = sales volume × fixed-amount tax rate\namount of tax payable under combined taxation = sales amount × proportional tax rate + sales volume × fixed-amount tax rate\nWhere a taxpayer sells taxable consumer goods, the sales amount shall be calculated in RMB. Where a taxpayer settles the sales amount in a currency other than RMB, the amount shall be converted into RMB for calculation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The sales amount means the total price and off-price charges collected by a taxpayer from the purchaser for the sale of taxable consumer goods."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For taxable consumer goods produced and used by a taxpayer itself, tax shall be calculated and paid on the basis of the sales price of similar consumer goods produced by the taxpayer; where there is no sales price for similar consumer goods, tax shall be calculated and paid on the basis of the composite assessable price.\nThe formula for the composite assessable price for calculating tax under ad valorem taxation at a fixed rate is as follows:\ncomposite assessable price = (cost + profit) ÷ (1 - proportional tax rate)\nThe formula for the composite assessable price for calculating tax under combined taxation is as follows:\ncomposite assessable price = (cost + profit + quantity produced and used by the taxpayer itself × fixed-amount tax rate) ÷ (1 - proportional tax rate)"
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For taxable consumer goods processed under commission, tax shall be calculated and paid on the basis of the sales price of similar consumer goods of the commissioned party; where there is no sales price for similar consumer goods, tax shall be calculated and paid on the basis of the composite assessable price.\nThe formula for the composite assessable price for calculating tax under ad valorem taxation at a fixed rate is as follows:\ncomposite assessable price = (cost of materials + processing fee) ÷ (1 - proportional tax rate)\nThe formula for the composite assessable price for calculating tax under combined taxation is as follows:\ncomposite assessable price = (cost of materials + processing fee + quantity processed under commission × fixed-amount tax rate) ÷ (1 - proportional tax rate)"
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "For imported taxable consumer goods, tax shall be calculated and paid on the basis of the composite assessable price.\nThe formula for the composite assessable price for calculating tax under ad valorem taxation at a fixed rate is as follows:\ncomposite assessable price = (dutiable value for customs duty + customs duty) ÷ (1 - proportional consumption tax rate)\nThe formula for the composite assessable price for calculating tax under combined taxation is as follows:\ncomposite assessable price = (dutiable value for customs duty + customs duty + quantity imported × fixed-amount consumption tax rate) ÷ (1 - proportional consumption tax rate)"
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the assessable price of a taxpayer's taxable consumer goods is obviously low and there are no legitimate reasons, the competent tax authority shall determine the assessable price."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Consumption tax shall be exempted on taxable consumer goods exported by taxpayers, unless otherwise provided by the State Council. The measures for exemption from tax on exported taxable consumer goods shall be prescribed by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Consumption tax shall be collected by tax authorities; consumption tax on imported taxable consumer goods shall be collected by the customs on behalf of the State.\nConsumption tax on taxable consumer goods brought into the territory by individuals or sent into the territory by post shall be assessed and collected together with customs duty. The specific measures shall be formulated by the Customs Tariff Commission of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "For taxable consumer goods sold by a taxpayer and taxable consumer goods produced and used by a taxpayer itself, unless otherwise provided by the competent departments of finance and taxation of the State Council, the taxpayer shall declare and pay tax to the competent tax authority at the place where its establishment is located or where it resides.\nFor taxable consumer goods processed under commission, unless the commissioned party is an individual, the commissioned party shall pay over the consumption tax to the competent tax authority at the place where its establishment is located or where it resides.\nFor imported taxable consumer goods, tax shall be declared and paid to the customs at the place of customs declaration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The tax payment periods for consumption tax shall be one day, three days, five days, 10 days, 15 days, one month or one quarter respectively. The specific tax payment period for a taxpayer shall be determined separately by the competent tax authority according to the amount of tax payable by the taxpayer; where tax cannot be paid on a fixed period basis, tax may be paid on a transaction-by-transaction basis.\nWhere a taxpayer has one month or one quarter as one tax payment period, it shall declare and pay tax within 15 days from the date of expiry of the period; where a taxpayer has one day, three days, five days, 10 days or 15 days as one tax payment period, it shall prepay the tax within five days from the date of expiry of the period, and shall declare and pay tax and settle the tax payable for the preceding month within 15 days from the first day of the following month."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a taxpayer imports taxable consumer goods, it shall pay the tax within 15 days from the date on which the customs issues the special payment document for import consumption tax."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The administration of the collection of consumption tax shall be governed by the Law of the People's Republic of China on the Administration of Tax Collection and the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2009.\nAppendix:\nConsumption Tax Taxable Items and Tax Rates Table\nTable continued\nTable continued\nTable continued\nTaxable items\nTax rate\nI. Tobacco\n1. Cigarettes\n(1) Grade A cigarettes\n(2) Grade B cigarettes\n2. Cigars\n3. Cut tobacco\n45 per cent plus RMB 0.003/piece\n30 per cent plus RMB 0.003/piece\n25 per cent\n30 per cent\nII. Alcoholic beverages and alcohol\n1. Chinese spirits\n2. Yellow rice wine\n3. Beer\n(1) Grade A beer\n(2) Grade B beer\n4. Other alcoholic beverages\n5. Alcohol\n20 per cent plus RMB 0.5/500 g (or 500 ml)\nRMB 240/tonne\nRMB 250/tonne\nRMB 220/tonne\n10 per cent\n5 per cent\nIII. Cosmetics\n30 per cent\nIV. Precious jewellery, jade and precious stones\n1. Gold and silver jewellery, platinum jewellery, and diamonds and diamond ornaments\n2. Other precious jewellery, jade and precious stones\n5 per cent\n10 per cent\nV. Firecrackers and fireworks\n15 per cent\nRefined oil products\n1. Petrol\n(1) Leaded petrol\n(2) Unleaded petrol\n2. Diesel\nRMB 0.28/litre\nRMB 0.20/litre\nRMB 0.10/litre\n3. Aviation kerosene\n4. Naphtha\n5. Solvent oil\n6. Lubricating oil\n7. Fuel oil\nRMB 0.10/litre\nRMB 0.20/litre\nRMB 0.20/litre\nRMB 0.20/litre\nRMB 0.10/litre\nVII. Motor vehicle tyres\n3 per cent\nVIII. Motorcycles\n1. With a cylinder capacity (displacement, the same below) of 250 ml or less (including 250 ml)\n2. With a cylinder capacity of more than 250 ml\n3 per cent\n10 per cent\nIX. Passenger cars\n1. Passenger vehicles\n(1) With a cylinder capacity (displacement, the same below) of 1.0 litre or less (including 1.0 litre)\n(2) With a cylinder capacity of more than 1.0 litre but not more than 1.5 litres (including 1.5 litres)\n(3) With a cylinder capacity of more than 1.5 litres but not more than 2.0 litres (including 2.0 litres)\n(4) With a cylinder capacity of more than 2.0 litres but not more than 2.5 litres (including 2.5 litres)\n1 per cent\n3 per cent\n5 per cent\n9 per cent\n(5) With a cylinder capacity of more than 2.5 litres but not more than 3.0 litres (including 3.0 litres)\n(6) With a cylinder capacity of more than 3.0 litres but not more than 4.0 litres (including 4.0 litres)\n(7) With a cylinder capacity of more than 4.0 litres\n2. Medium and light commercial passenger vehicles\n12 per cent\n25 per cent\n40 per cent\n5 per cent\nX. Golf balls and golf equipment\n10 per cent\nXI. High-grade watches\n20 per cent\nXII. Yachts\n10 per cent\nXIII. Disposable wooden chopsticks\n5 per cent\nXIV. Solid wood flooring\n5 per cent"
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0584'] = {
+    "lawId": "CN-REG-0584",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 25 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Interim Measures are formulated in accordance with the Regulations on Academic Degrees of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Academic degrees shall be conferred in the following disciplines: philosophy, economics, law, education, literature, history, science, engineering, agriculture and medicine.\nBachelor's Degrees"
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Bachelor's degrees shall be conferred by institutions of higher learning authorised by the State Council.\nWhere an undergraduate student of an institution of higher learning has completed all the requirements of the teaching programme, has been examined and permitted to graduate, and the results of the student's course study and graduation thesis (graduation design or other graduation practice) show that the student has fairly well mastered the basic theories, specialised knowledge and basic skills of the discipline and has the preliminary ability to engage in scientific research or to undertake specialised technical work, a bachelor's degree shall be conferred on the student."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "An institution of higher learning that confers bachelor's degrees shall have its departments examine, one by one, the results, graduation appraisals and other materials of graduating undergraduate students, and for those who meet the provisions of Article 3 of these Interim Measures and the relevant provisions, the departments may nominate them to the degree evaluation committee of the institution for inclusion in the list of persons to be awarded bachelor's degrees.\nWhere an institution of higher learning does not confer bachelor's degrees, for graduating undergraduate students who have reached the academic level for a bachelor's degree, the departments shall submit a list to the institution, and after the institution gives its consent, the institution shall, choosing the nearest institution, recommend them to institutions of higher learning that confer bachelor's degrees within the same system or the same region. The relevant department of the institution of higher learning that confers bachelor's degrees shall examine and assess the graduating undergraduate students recommended by institutions that do not confer bachelor's degrees and, where it considers that they meet the provisions of Article 3 of these Interim Measures and the relevant provisions, may nominate them to the degree evaluation committee of the institution for inclusion in the list of persons to be awarded bachelor's degrees."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The list of persons to be awarded bachelor's degrees shall, after examination and approval by the degree evaluation committee of the institution of higher learning that confers bachelor's degrees, be used by that institution to confer bachelor's degrees.\nMaster's Degrees"
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Master's degrees shall be conferred by institutions of higher learning and scientific research institutions authorised by the State Council.\nA person applying for a master's degree shall, within the time limit prescribed by the degree-conferring unit, submit to the unit an application and the academic thesis and other materials for the master's degree. The degree-conferring unit shall conduct an examination within two months after the closing date for applications, decide whether to approve the application, and notify the applicant and the applicant's unit of the result.\nA postgraduate student graduating in the current year from a unit that does not confer degrees shall, when applying, submit a letter of recommendation for the master's degree from the student's own unit.\nA person of equivalent academic attainments shall, when applying, submit letters of recommendation from two associate professors, professors or experts of equivalent professional titles. For applicants who do not have the educational background of university graduation, the degree-conferring unit may, before accepting the application, assess them in an appropriate manner on certain university courses.\nAn applicant shall not submit applications to two degree-conferring units at the same time."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The examination courses and requirements for a master's degree are: (i) Marxist theory courses. The student is required to master the basic theories of Marxism. (ii) Basic theory courses and specialised courses, generally three to four in number. The student is required to master solid basic theories and systematic specialised knowledge. (iii) One foreign language. The student is required to read fairly proficiently foreign-language materials in the student's speciality.\nThe master's degree course examinations for postgraduate students of a degree-conferring unit may be conducted in accordance with the above course requirements and in the light of the arrangements of the training programme.\nThe master's degree course examinations for postgraduate students of units that do not confer degrees shall be organised and conducted by the degree-conferring unit. Where, upon examination by the degree-conferring unit, the content and results of the course examinations taken at the student's original unit are considered qualified, part or all of the course examinations may be waived.\nThe master's degree course examinations for persons of equivalent academic attainments shall be organised and conducted by the degree-conferring unit.\nA person applying for a master's degree must pass the prescribed course examinations with satisfactory results before the person may take the thesis defence. If the person fails one of the prescribed examination courses, the person may apply to retake that examination once within six months; a person who fails the retake may not take the thesis defence.\nA degree-conferring unit that operates a trial credit system shall, in accordance with the above course requirements, prescribe the course credits to be obtained for the conferral of a master's degree. A person applying for a master's degree must obtain the prescribed credits before the person may take the thesis defence."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A master's thesis shall contain new views on the subject studied and show that the author has the ability to engage in scientific research or to undertake specialised technical work independently.\nA degree-conferring unit shall engage one or two experts in the discipline related to the thesis to review the thesis. The reviewers shall write detailed academic comments on the thesis for the reference of the thesis defence committee.\nA master's thesis defence committee shall consist of three to five members. Its members shall generally include experts from outside the unit. The chairman of the thesis defence committee shall be an associate professor, a professor or an expert of an equivalent professional title.\nThe thesis defence committee shall, on the basis of the defence, adopt a resolution on whether to confer a master's degree. The resolution shall be adopted by secret ballot and shall be passed with the consent of two-thirds or more of all its members. The resolution shall, after being signed by the chairman of the thesis defence committee, be submitted to the degree evaluation committee. The meeting shall be recorded.\nWhere a master's thesis defence is not passed, the candidate may, with the consent of the thesis defence committee, revise the thesis and defend it once again within one year."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the majority of the members of a master's thesis defence committee consider that the applicant's thesis has reached the academic level of a doctoral degree, they may, in addition to adopting a resolution to confer a master's degree, make a recommendation to the unit that confers doctoral degrees, and that unit shall handle the matter in accordance with the relevant provisions in the part on doctoral degrees of these Interim Measures.\nDoctoral Degrees"
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Doctoral degrees shall be conferred by institutions of higher learning and scientific research institutions authorised by the State Council.\nA person applying for a doctoral degree shall, within the time limit prescribed by the degree-conferring unit, submit to the unit an application and the academic thesis and other materials for the doctoral degree. The degree-conferring unit shall conduct an examination within two months after the closing date for applications, decide whether to approve the application, and notify the applicant and the applicant's unit of the result.\nA person of equivalent academic attainments shall, when applying, submit letters of recommendation from two professors or experts of equivalent professional titles. For applicants who have not obtained a master's degree, the degree-conferring unit may, before accepting the application, assess them in an appropriate manner on certain basic theory courses and specialised courses for the master's degree.\nAn applicant shall not submit applications to two degree-conferring units at the same time."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The examination courses and requirements for a doctoral degree are:\n(i) Marxist theory courses. The student is required to have a fairly good mastery of the basic theories of Marxism.\n(ii) Basic theory courses and specialised courses. The student is required to master solid and broad basic theories and systematic and in-depth specialised knowledge. The scope of the examinations shall be examined and determined by the degree evaluation committee of the degree-conferring unit. The examinations in basic theory courses and specialised courses shall be presided over by an examination committee composed of three experts designated by the degree evaluation committee of the degree-conferring unit. The chairman of the examination committee must be a professor, an associate professor or an expert of an equivalent professional title.\n(iii) Two foreign languages. For the first foreign language, the student is required to read proficiently foreign-language materials in the student's speciality and to have a certain writing ability; for the second foreign language, the student is required to have the preliminary ability to read foreign-language materials in the student's speciality. For particular disciplines or specialities, only the first foreign language may be examined upon examination and determination by the degree evaluation committee of the degree-conferring unit.\nThe course examinations for postgraduate students studying for a doctoral degree may be conducted in accordance with the above course requirements and in the light of the arrangements of the training programme."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A person applying for a doctoral degree must pass the course examinations for the doctoral degree with satisfactory results before the person may take the defence of the doctoral thesis.\nWhere a person applying for a doctoral degree has important works, inventions, discoveries or developments in science or specialised technology, the person shall submit to the degree-conferring unit the relevant published works, appraisals or certificates of the inventions and other materials and, upon recommendation by two professors or experts of equivalent professional titles and upon examination and approval by the degree-conferring unit in accordance with Article 11 of these Interim Measures, part or all of the course examinations may be waived."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A doctoral thesis shall show that the author has the ability to engage in scientific research independently and has made creative achievements in science or specialised technology. A doctoral thesis or its abstract shall be printed and sent to the relevant units three months before the defence and shall be subject to peer review.\nA degree-conferring unit shall engage two experts in the discipline related to the thesis to review the thesis, one of whom shall be an expert from outside the unit. The reviewers shall write detailed academic comments on the thesis for the reference of the thesis defence committee."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A doctoral thesis defence committee shall consist of five to seven members. Half or more of its members shall be professors or experts of equivalent professional titles. Its members must include two or three experts from outside the unit. The chairman of the thesis defence committee shall generally be a professor or an expert of an equivalent professional title.\nThe thesis defence committee shall, on the basis of the defence, adopt a resolution on whether to confer a doctoral degree. The resolution shall be adopted by secret ballot and shall be passed with the consent of two-thirds or more of all its members. The resolution shall, after being signed by the chairman of the thesis defence committee, be submitted to the degree evaluation committee. The meeting shall be recorded.\nThe defence of a doctoral thesis shall generally be held in public; an approved doctoral thesis or its abstract shall be published publicly (except for classified specialities).\nWhere a doctoral thesis defence is not passed, the candidate may, with the consent of the thesis defence committee, revise the thesis and defend it once again within two years."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a doctoral thesis defence committee considers that the applicant's thesis, although not reaching the academic level of a doctoral degree, has reached the academic level of a master's degree, and the applicant has not yet obtained a master's degree in that discipline, the committee may adopt a resolution to confer a master's degree and submit it to the degree evaluation committee.\nHonorary Doctoral Degrees"
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Honorary doctoral degrees shall be conferred by the units authorised by the State Council to confer doctoral degrees."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The conferral of an honorary doctoral degree must be discussed and approved by the degree evaluation committee of the degree-conferring unit, and the degree-conferring unit shall submit it to the Academic Degrees Committee of the State Council for approval before the degree is conferred.\nDegree Evaluation Committees"
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The degree evaluation committee of a degree-conferring unit shall, in accordance with the degree-conferring authority approved by the State Council, perform the following duties respectively:\n(a) examining and approving the list of persons accepted as applicants for master's degrees and doctoral degrees;\n(b) determining the examination subjects and number of courses for master's degrees and the scope of examinations in basic theory courses and specialised courses for doctoral degrees, and approving the examiners and the lists of members of thesis defence committees;\n(c) approving the list of persons to be awarded bachelor's degrees;\n(d) making decisions on the conferral of master's degrees;\n(e) examining and approving the list of persons applying for doctoral degrees who are exempted from part or all of the course examinations;\n(f) making decisions on the conferral of doctoral degrees;\n(g) approving the list of persons on whom honorary doctoral degrees are to be conferred;\n(h) making decisions to revoke degrees conferred in violation of the provisions;\n(i) studying and handling disputes over the conferral of degrees and other matters."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The degree evaluation committee of a degree-conferring unit shall consist of nine to 25 members, with a term of two to three years. Its members shall include the principal persons in charge of the degree-conferring unit and teaching and research personnel.\nIn an institution of higher learning that confers bachelor's degrees, the teaching personnel participating in the degree evaluation committee shall be selected from among the teachers of the institution at the level of lecturer or above. In a unit that confers bachelor's, master's and doctoral degrees, the teaching and research personnel participating in the degree evaluation committee shall mainly be selected from among the associate professors, professors or experts of equivalent professional titles of the unit. In a unit that confers doctoral degrees, at least half of the members of the degree evaluation committee shall be professors or experts of equivalent professional titles.\nThe chairman of the degree evaluation committee shall be a principal person in charge of the degree-conferring unit who holds the title of professor or associate professor or an equivalent professional title (the president of an institution of higher learning, the vice-president in charge of teaching, scientific research and postgraduate work, or a person of an equivalent professional title in a scientific research institution).\nThe degree evaluation committee may, according to the disciplines of the degrees, establish a number of sub-committees, each consisting of seven to 15 members with a term of two to three years. The chairman of a sub-committee must be a member of the degree evaluation committee. The sub-committees shall assist the degree evaluation committee in its work.\nThe list of members of the degree evaluation committee shall be submitted by each degree-conferring unit to the competent department for approval, and the competent department shall transmit it to the Academic Degrees Committee of the State Council for the record.\nThe degree evaluation committee may, as required, be staffed with the necessary full-time or part-time personnel to handle routine work."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Each degree-conferring unit shall, every year, submit the number of bachelor's degrees conferred and the lists of persons awarded master's degrees and doctoral degrees together with the relevant materials to the competent department and to the Academic Degrees Committee of the State Council respectively for the record.\nOther Provisions"
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Foreign students studying in China who apply for a bachelor's degree shall be handled with reference to Article 3 of these Interim Measures and the relevant provisions.\nForeign students studying in China and foreign scholars engaged in research or teaching work who apply for a master's degree or a doctoral degree shall be handled with reference to the relevant provisions of these Interim Measures."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The format of certificates for bachelor's degrees shall be prescribed by the Ministry of Education. The format of certificates for master's degrees and doctoral degrees shall be prescribed by the Academic Degrees Committee of the State Council. The degree certificates of degree holders shall be issued by the degree-conferring unit."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "One copy of each master's thesis and doctoral thesis that has been approved shall be deposited in the library of the degree-conferring unit; one copy of each approved doctoral thesis shall also be deposited in the Beijing Library and in the relevant specialised library respectively."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a person in employment applies for a master's degree or a doctoral degree and, after examination and approval by the degree-conferring unit, is permitted to take the course examinations and the thesis defence, the person may, in preparation for the examinations and defence, enjoy leave of not more than two months."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A degree-conferring unit may, in accordance with these Interim Measures, formulate its own detailed rules for the conferral of degrees."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0588'] = {
+    "lawId": "CN-REG-0588",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in order to protect, develop and rationally utilise wild plant resources, protect biological diversity and maintain ecological balance."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Anyone engaging in activities of protection, development and utilisation of wild plants within the territory of the People's Republic of China must comply with this Regulation.\nThe wild plants protected by this Regulation mean the precious plants growing naturally in their places of origin and the endangered and rare plants growing naturally in their places of origin that are of important economic, scientific research or cultural value.\nThe protection of medicinal wild plants and of wild plants in urban gardens, nature reserves and scenic and historic interest areas shall also be governed by the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State applies the policy of strengthening protection, actively developing and rationally utilising wild plant resources."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State protects the lawful rights and interests of units and individuals that develop, utilise, operate and administer wild plant resources in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State encourages and supports scientific research on wild plants and the in-situ and ex-situ conservation of wild plants.\nUnits and individuals that achieve notable success in the protection of wild plant resources, scientific research, cultivation and utilisation and publicity and education shall be rewarded by the people's government."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The relevant competent departments of people's governments at or above the county level shall carry out publicity and education on the protection of wild plants, popularise knowledge about wild plants and raise citizens' awareness of protecting wild plants."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "All units and individuals shall have the obligation to protect wild plant resources and shall have the right to report and complain about the encroachment upon or destruction of wild plants and their living environment."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent department of forestry administration under the State Council shall be in charge of the supervision and administration of wild plants in forest areas and of precious wild trees outside forest areas throughout the country. The competent department of agriculture administration under the State Council shall be in charge of the supervision and administration of other wild plants throughout the country.\nThe administrative department of construction under the State Council shall be responsible for the supervision and administration of wild plants in urban gardens and scenic and historic interest areas. The department of environmental protection under the State Council shall be responsible for the coordination and supervision of the work of environmental protection of wild plants throughout the country. Other relevant departments under the State Council shall, in accordance with the division of functions and responsibilities, be responsible for the relevant work of wild plant protection.\nThe departments of local people's governments at or above the county level responsible for the administration of wild plants and their functions and responsibilities shall be prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in light of local specific conditions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State protects wild plants and their living environment. No unit or individual may unlawfully collect wild plants or destroy their living environment."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Wild Plants"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Wild plants are divided into wild plants under special protection of the State and wild plants under special local protection.\nWild plants under special protection of the State are divided into wild plants under first-class State protection and wild plants under second-class State protection. The list of wild plants under special protection of the State shall be formulated by the competent department of forestry administration and the competent department of agriculture administration under the State Council (hereinafter referred to as the competent departments of wild plant administration under the State Council) in consultation with the relevant departments under the State Council, such as environmental protection and construction, and shall be published after approval by the State Council.\nWild plants under special local protection mean wild plants protected by a province, an autonomous region or a municipality directly under the Central Government other than wild plants under special protection of the State. The list of wild plants under special local protection shall be formulated and published by the people's government of the province, autonomous region or municipality directly under the Central Government and reported to the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Wild Plants"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In areas where the species of wild plants under special protection of the State and the species of wild plants under special local protection are naturally concentrated in distribution, nature reserves shall be established in accordance with the provisions of the relevant laws and administrative regulations; in other areas, the competent departments of wild plant administration and other relevant departments of local people's governments at or above the county level may, in light of the actual situation, establish protection points for wild plants under special protection of the State and under special local protection or set up protection markers.\nIt is prohibited to destroy the protection facilities and protection markers of protection points for wild plants under special protection of the State and under special local protection."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Wild Plants"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent departments of wild plant administration and other relevant departments shall monitor and observe the impact of the environment on the growth of wild plants under special protection of the State and under special local protection, and shall take measures to maintain and improve the growing conditions of such plants. Where environmental impact causes harm to the growth of wild plants under special protection of the State or under special local protection, the competent department of wild plant administration shall, together with other relevant departments, investigate the matter and deal with it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Wild Plants"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a construction project produces adverse effects on the growing environment of wild plants under special protection of the State and under special local protection, the construction unit must make an assessment of such effects in the environmental impact report it submits; when examining and approving the environmental impact report, the department of environmental protection shall solicit the opinions of the competent department of wild plant administration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Wild Plants"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent departments of wild plant administration and the units concerned shall take rescue measures for wild plants under special protection of the State and under special local protection whose growth is threatened, protect or restore their growing environment and, where necessary, establish breeding bases or germplasm resource banks or take measures for ex-situ conservation."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Wild Plants"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The competent departments of wild plant administration shall periodically organise surveys of the resources of wild plants under special protection of the State and under special local protection and establish resource archives."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Wild Plants"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "It is prohibited to collect wild plants under first-class State protection. Where wild plants under first-class State protection need to be collected for special purposes such as scientific research, artificial cultivation or cultural exchange, an application shall be made, in accordance with the limits of authority for administration, to the competent department of forestry administration under the State Council or to an institution authorised by it, or to the competent department of agriculture administration of the people's government of the province, autonomous region or municipality directly under the Central Government at the place of collection or to an institution authorised by it, for a collection permit.\nTo collect wild plants under second-class State protection, an application for a collection permit shall, after the competent department of wild plant administration of the county-level people's government at the place of collection has signed its opinion, be made to the competent department of wild plant administration of the people's government of the province, autonomous region or municipality directly under the Central Government or to an institution authorised by it.\nTo collect wild plants under first-class or second-class State protection in urban gardens or scenic and historic interest areas, the consent of the administrative institution of the urban garden or scenic and historic interest area shall first be obtained, and an application for a collection permit shall be made respectively in accordance with the provisions of the preceding two paragraphs.\nThe collection of precious wild trees or of wild plants in forest areas or on grasslands shall be handled in accordance with the provisions of the Forest Law and the Grassland Law.\nAfter issuing a collection permit, the competent department of wild plant administration shall send a copy to the department of environmental protection for the record.\nThe format of the collection permit shall be prescribed by the competent departments of wild plant administration under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Wild Plants"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Units and individuals collecting wild plants under special protection of the State must collect them in accordance with the species, quantities, places, time limits and methods specified in the collection permit.\nThe competent department of wild plant administration of the county-level people's government shall supervise and inspect activities of collecting wild plants under special protection of the State within its administrative area and promptly report to the competent department of wild plant administration that approved the collection or to an institution authorised by it."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Wild Plants"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "It is prohibited to sell or purchase wild plants under first-class State protection.\nThe sale or purchase of wild plants under second-class State protection must be approved by the competent department of wild plant administration of the people's government of the province, autonomous region or municipality directly under the Central Government or by an institution authorised by it."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Wild Plants"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The competent departments of wild plant administration shall supervise and inspect activities of operating and utilising wild plants under second-class State protection."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Wild Plants"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The export of wild plants under special protection of the State, or the import or export of wild plants whose import and export are restricted by international conventions to which China is a party, shall, in accordance with the limits of authority for administration, be approved by the competent department of forestry administration under the State Council or, after examination by the competent department of agriculture administration of the people's government of the province, autonomous region or municipality directly under the Central Government at the place where the importer or exporter is located, be submitted to the competent department of agriculture administration under the State Council for approval, and a permit certificate for import and export or a label verified and issued by the State institution administering the import and export of endangered species shall be obtained. The customs shall examine and release the goods against the permit certificate for import and export or the label. The competent departments of wild plant administration under the State Council shall send copies of the data on the import and export of wild plants to the department of environmental protection under the State Council.\nIt is prohibited to export wild plants that have not been named or that have been newly discovered and are of important value."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Wild Plants"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Foreigners may not collect or purchase wild plants under special protection of the State within the territory of China.\nWhere foreigners conduct field surveys within the territory of China of wild plants under special protection of the State administered by the competent department of agriculture administration, approval shall be obtained from the competent department of agriculture administration of the people's government of the province, autonomous region or municipality directly under the Central Government at the place where such wild plants are located."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Wild Plants"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The measures for the administration of wild plants under special local protection shall be formulated by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Wild Plants"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Whoever collects wild plants under special protection of the State without obtaining a collection permit or not in accordance with the provisions of the collection permit shall have the wild plants collected and the unlawful income confiscated by the competent department of wild plant administration, and may additionally be fined not more than 10 times the unlawful income; where a collection permit is held, the permit may additionally be revoked."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Regulation, sells or purchases wild plants under special protection of the State shall have the wild plants and the unlawful income confiscated by the administrative department of industry and commerce or the competent department of wild plant administration in accordance with the division of functions and responsibilities, and may additionally be fined not more than 10 times the unlawful income."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Whoever unlawfully imports or exports wild plants shall be penalised by the customs in accordance with the provisions of the Customs Law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Whoever forges, resells or transfers collection permits, permit certificates for import and export, the relevant approval documents or labels shall have them seized and the unlawful income confiscated by the competent department of wild plant administration or the administrative department of industry and commerce in accordance with the division of functions and responsibilities, and may additionally be fined not more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a foreigner collects or purchases wild plants under special protection of the State within the territory of China, or conducts field surveys without approval of wild plants under special protection of the State administered by the competent department of agriculture administration, the competent department of wild plant administration shall confiscate the wild plants collected or purchased and the survey materials, and may additionally impose a fine of not more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the provisions of this Regulation are violated and a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a staff member of the competent department of wild plant administration abuses his power, neglects his duty or commits malpractices for personal gain and a crime is constituted, criminal responsibility shall be pursued in accordance with law; where a crime is not constituted, administrative disciplinary sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The physical articles confiscated in accordance with the provisions of this Regulation shall be disposed of by the authority that made the decision on confiscation in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where an international treaty relating to the protection of wild plants concluded or acceded to by the People's Republic of China provides differently from this Regulation, the provisions of the international treaty shall apply, except the clauses to which the People's Republic of China has declared reservations."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "This Regulation shall come into force on 1 January 1997."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0590'] = {
+    "lawId": "CN-REG-0590",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 29 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of Article 48 of the Maritime Traffic Safety Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to vessels, installations and persons that navigate, berth or operate in the fishing ports and the waters of fishing ports which are mainly devoted to fishery along the coast of the People's Republic of China (hereinafter referred to as \"fishing ports\" and \"the waters of fishing ports\"), and to the owners and operators of such vessels and installations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The fishery and fishing port supervision and administration organ of the People's Republic of China is the competent organ exercising supervision and administration over traffic safety in the waters of fishing ports, and is responsible for the investigation and handling of traffic accidents between fishing vessels in coastal waters."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The terms used in these Regulations have the following meanings:\nA fishing port means an artificial port or natural harbour mainly serving fishery production and used by fishing vessels for berthing, sheltering from wind, loading and unloading of catches and replenishment of fishery supplies.\nThe waters of a fishing port mean the harbour basin, anchorage, shelter bay and navigation channel of a fishing port.\nFishing vessels mean vessels engaged in fishery production and vessels under the aquatic products system serving fishery production, including catching vessels, aquaculture vessels, aquatic product transport and marketing vessels, refrigerated processing vessels, oil tankers, supply vessels, fishery guidance vessels, scientific research and survey vessels, training vessels, fishing port engineering vessels, tugs, service launches, barges, fishery administration vessels and fishery supervision vessels."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where there are different opinions on the determination of a fishing port, the matter shall be determined by the people's government at or above the county level in accordance with the subordinate relationship of the port."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Vessels entering or leaving a fishing port must comply with the rules for the administration of the fishing port and the International Regulations for Preventing Collisions at Sea, and shall report to the fishery and fishing port supervision and administration organ and undergo safety inspection in accordance with the provisions.\nVessels within a fishing port must submit to the administration of water traffic safety order by the fishery and fishing port supervision and administration organ."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Vessels berthing, sheltering from wind or loading and unloading materials in a fishing port shall not damage the facilities and equipment of the fishing port; where damage is caused, they shall report to the fishery and fishing port supervision and administration organ and bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Vessels loading or unloading dangerous goods such as flammable, explosive or toxic goods in a fishing port must comply with the State provisions on the administration of dangerous goods, and shall apply in advance to the fishery and fishing port supervision and administration organ and, after approval, load or unload at the designated safe place."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where various installations are to be newly built, reconstructed or expanded, or other above-water or underwater construction operations are to be carried out, in a fishing port, approval shall be applied for and obtained from the fishery and fishing port supervision and administration organ in addition to the completion of the examination and approval procedures in accordance with the State provisions. After granting approval, the fishery and fishing port supervision and administration organ shall issue a navigational notice in advance."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In the navigation channels, harbour basins, anchorages and berthing areas of a fishing port, production activities such as fishing and aquaculture that impede maritime traffic safety are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "State official vessels entering or leaving a fishing port while performing official duties may be exempted from inspection after notifying the fishery and fishing port supervision and administration organ. The fishery and fishing port supervision and administration organ shall facilitate the berthing, mooring and replenishment of State official vessels performing maritime patrol tasks."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Fishing vessels may fly the national flag of the People's Republic of China and navigate only after they have applied to the fishery and fishing port supervision and administration organ for vessel registration and obtained a nationality certificate for fishing vessels or a registration certificate for fishing vessels."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Fishing vessels must pass inspection by the vessel inspection department and obtain a vessel technical certificate before they may engage in fishery production."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The master, chief engineer, navigating officer, engineer officer, electrical officer, radio telegraph operator and radio telephone operator of a fishing vessel must pass the examination of the fishery and fishing port supervision and administration organ and obtain a certificate of competency; other personnel shall undergo the corresponding professional training."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Local people's governments at all levels shall strengthen technical training for the crew of fishing vessels within their respective administrative regions. For State-owned and collectively owned fishing vessels, technical training of their crew shall be the responsibility of the unit to which the fishing vessels belong; for individually owned fishing vessels, technical training of their crew shall be the responsibility of the competent fishery administrative department of the local people's government."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a traffic accident occurs between fishing vessels, a report shall be made to the nearest fishery and fishing port supervision and administration organ, and an accident report and the relevant materials shall be submitted to the fishery and fishing port supervision and administration organ within 48 hours after entering the first port, and investigation and handling shall be accepted."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The fishery and fishing port supervision and administration organ shall promptly ascertain the cause, determine responsibility and make a handling decision in respect of traffic accidents occurring in the waters of fishing ports and other traffic accidents between fishing vessels occurring in coastal waters."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a vessel or installation in a fishing port is in any of the following circumstances, the fishery and fishing port supervision and administration organ has the power to prohibit it from leaving the port, or to order it to suspend navigation, change course or suspend operations:\n(a) it violates laws, regulations or rules of the People's Republic of China;\n(b) it is in an unseaworthy or untowable condition;\n(c) a traffic accident has occurred and the relevant formalities have not been completed;\n(d) it has not paid to the fishery and fishing port supervision and administration organ or the relevant departments the charges it should bear, nor provided security;\n(e) the fishery and fishing port supervision and administration organ considers that there are other circumstances impeding or likely to impede maritime traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an accident occurs to a vessel or installation in a fishing port and causes or is likely to cause danger to maritime traffic safety, the fishery and fishing port supervision and administration organ has the power to take compulsory disposal measures against it."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a vessel entering or leaving a fishing port fails to report to the fishery and fishing port supervision and administration organ as required by the provisions, or fails, within a fishing port, to submit to the administration of water traffic safety order by the fishery and fishing port supervision and administration organ, the fishery and fishing port supervision and administration organ shall order it to make rectification and may concurrently impose a warning or a fine; where the circumstances are serious, it shall detain or revoke the master's certificate of competency (the period of detention of a certificate of competency shall not exceed six months at most; the same below)."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where any of the following acts is committed in violation of these Regulations, the fishery and fishing port supervision and administration organ shall order the cessation of the illegal act and may concurrently impose a warning or a fine; where losses are caused, liability for compensation shall be borne; administrative sanctions shall be given to the persons directly responsible by the units to which they belong or by the competent authorities at higher levels:\n(a) loading or unloading dangerous goods such as flammable, explosive or toxic goods in a fishing port without the approval of the fishery and fishing port supervision and administration organ or not in accordance with the provisions of the approval document;\n(b) constructing, reconstructing or expanding various installations, or carrying out other above-water or underwater construction operations, in a fishing port without the approval of the fishery and fishing port supervision and administration organ;\n(c) engaging in production activities such as fishing and aquaculture that impede maritime traffic safety in the navigation channels, harbour basins, anchorages and berthing areas of a fishing port."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where, in violation of these Regulations, a vessel does not carry a vessel certificate or is not manned with a full complement of crew, the fishery and fishing port supervision and administration organ shall order it to make rectification and may concurrently impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where, in violation of these Regulations, a party fails to comply with a decision made by the fishery and fishing port supervision and administration organ to leave the port, suspend navigation, change course or suspend operations, or violates such decision in the course of compliance, the fishery and fishing port supervision and administration organ shall order it to make rectification and may concurrently impose a warning or a fine; where the circumstances are serious, it shall detain or revoke the master's certificate of competency."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a party is dissatisfied with an administrative penalty decision made by the fishery and fishing port supervision and administration organ, it may bring a suit before a people's court within 15 days from the date of receipt of the notice of penalty; where it neither brings a suit nor performs upon expiry of that period, the fishery and fishing port supervision and administration organ shall apply to the people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Civil disputes arising from traffic accidents occurring in the waters of fishing ports or from other traffic accidents between fishing vessels occurring in coastal waters may be mediated and handled by the fishery and fishing port supervision and administration organ; where mediation fails or the parties are unwilling to undergo mediation, the parties may bring a suit before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a person refuses or obstructs a staff member of the fishery and fishing port supervision and administration in the lawful performance of official duties and a penalty for the administration of public security should be imposed, the public security organ shall impose the penalty in accordance with the relevant provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security; where a crime is constituted, the judicial organs shall pursue criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a staff member of the fishery and fishing port supervision and administration, in the work of supervision and administration of traffic safety in fishing ports and the waters thereof, derelicts his duty, abuses his functions and powers or engages in malpractices for personal gain, administrative sanctions shall be given by the unit to which he belongs or by the competent authority at a higher level; where a crime is constituted, the judicial organs shall pursue criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The Implementing Rules of these Regulations shall be formulated by the Ministry of Agriculture and Rural Affairs."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "These Regulations shall come into force on 1 August 1989."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0591'] = {
+    "lawId": "CN-REG-0591",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 40 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purpose of regulating the inspection of fishing vessels, ensuring that fishing vessels meet the conditions for safe navigation and operation, safeguarding the safety of fishing vessels and the lives and property of fishermen, and preventing pollution of the environment, this Regulation is formulated in accordance with the Fisheries Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Regulation applies to the inspection of fishing vessels registered or to be registered in the People's Republic of China (hereinafter referred to as fishing vessels). Fishing auxiliary vessels engaged in international shipping are excepted."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent fisheries administration department of the State Council shall be in charge of fishing vessel inspection and the supervision and administration thereof throughout the country.\nThe Fishing Vessel Inspection Bureau of the People's Republic of China (hereinafter referred to as the State fishing vessel inspection institution) shall exercise the functions of fishing vessel inspection and the supervision and administration thereof.\nLocal fishing vessel inspection institutions shall, in accordance with the provisions of this Regulation, be responsible for the relevant fishing vessel inspection work.\nThe public security border defence, quality supervision, administration of industry and commerce and other departments at various levels shall, within the scope of their respective duties, provide assistance in fishing vessel inspection and the supervision and administration thereof."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State applies a system of compulsory inspection to fishing vessels. Compulsory inspection is divided into initial inspection, operational inspection and provisional inspection."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Fishing vessel inspection shall follow the principles of safety first, quality assurance and convenience for fishermen."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The initial inspection of a fishing vessel means the comprehensive inspection carried out by a fishing vessel inspection institution on the fishing vessel before it is put into operation."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Initial Inspection"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Owners or operators of the following fishing vessels shall apply for initial inspection:\n(a) fishing vessels built;\n(b) fishing vessels converted (including non-fishing vessels converted into fishing vessels and fishing vessels operating domestically converted into fishing vessels operating on the high seas);\n(c) fishing vessels imported."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Initial Inspection"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For a fishing vessel to be built or converted, the design drawings and technical documents shall be examined and approved by a fishing vessel inspection institution, and an application for initial inspection shall be made before the building or conversion commences. The fishing vessel inspection institution shall, within 20 working days from the date of receipt of the design drawings and technical documents, make a review decision and notify the party concerned in writing.\nUnits engaged in the design, building or conversion of fishing vessels shall meet the conditions prescribed by the State and comply with the State technical rules for fishing vessels."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Initial Inspection"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The initial inspection of a fishing vessel to be built or converted shall be carried out concurrently with the building or conversion of the fishing vessel.\nImportant equipment, components and materials relating to navigation, operation, personal and property safety and prevention of pollution of the environment that are used for building or converting fishing vessels shall, before use, be inspected by a fishing vessel inspection institution, and may be used only after passing inspection.\nThe catalogue of important equipment, components and materials that must be inspected as provided in the preceding paragraph shall be formulated by the competent fisheries administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Initial Inspection"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "For an imported fishing vessel, the design drawings and technical documents shall be examined and confirmed by a fishing vessel inspection institution, and an application for initial inspection shall be made before the vessel is put into operation. For the import of a used fishing vessel, a technical evaluation certificate for used fishing vessels issued by the State fishing vessel inspection institution shall also be obtained before import."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Initial Inspection"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "For a fishing vessel that passes inspection, the fishing vessel inspection institution shall, within 5 working days from the date of completion of the inspection, issue a fishing vessel inspection certificate; for a fishing vessel that fails inspection, it shall notify the party concerned in writing and explain the reasons.\nFor a fishing vessel that has passed inspection, no unit or individual may without authorisation alter its tonnage, load line, main engine power, manning quota or navigable area, or without authorisation remove its important equipment and components relating to navigation, operation, personal and property safety and prevention of pollution of the environment. Where alteration or removal is genuinely necessary, approval shall be obtained from the original fishing vessel inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Initial Inspection"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The initial inspection of imported fishing vessels and ocean-going fishing vessels shall be organised and implemented in a unified manner by the State fishing vessel inspection institution. The initial inspection of other fishing vessels shall be implemented by the fishing vessel inspection institution of the port of registry; where the place of building or conversion is not the same as the port of registry, the initial inspection shall be implemented by the fishing vessel inspection institution of the place of building or conversion, and that institution shall, within 5 working days from the date of completion of the inspection, transfer the inspection report, inspection records and other technical materials to the fishing vessel inspection institution of the port of registry."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Initial Inspection"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The operational inspection of a fishing vessel means the routine inspection carried out by a fishing vessel inspection institution on a fishing vessel in operation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Operational Inspection"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Owners or operators of fishing vessels in operation shall apply for operational inspection within the time prescribed by the competent fisheries administration department of the State Council.\nFishing vessel inspection institutions shall, in accordance with the provisions of the competent fisheries administration department of the State Council and in light of the years in service and the safety requirements of fishing vessels, inspect the following items:\n(a) the structure and electromechanical equipment of the fishing vessel;\n(b) equipment and components relating to the safety of the fishing vessel;\n(c) equipment and components relating to the prevention of pollution of the environment;\n(d) other inspection items prescribed by the competent fisheries administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Operational Inspection"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A fishing vessel inspection institution shall carry out the inspection within 3 working days from the date the fishing vessel applying for operational inspection arrives at the place of inspection. Where the vessel passes inspection, it shall, within 5 working days from the date of completion of the inspection, endorse the fishing vessel inspection certificate or issue a fishing vessel inspection certificate; the time limit for issuing an inspection certificate for an ocean-going fishing vessel inspected outside the territory of China may be extended to 15 working days. Where the vessel fails inspection, it shall notify the party concerned in writing and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Operational Inspection"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a fishing vessel needs to be repaired after inspection, the owner or operator of the vessel shall select a repair unit that meets the conditions prescribed by the State. The repair of fishing vessels shall comply with the State technical rules for fishing vessels.\nImportant equipment, components and materials relating to navigation, operation, personal and property safety and prevention of pollution of the environment that are used for repairing fishing vessels shall, before use, be inspected by a fishing vessel inspection institution, and may be used only after passing inspection."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Operational Inspection"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a fishing vessel in operation needs to replace important equipment, components or materials relating to navigation, operation, personal and property safety and prevention of pollution of the environment, the owner or operator of the vessel shall comply with the provisions of paragraph 2 of Article 16 of this Regulation."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Operational Inspection"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The operational inspection of ocean-going fishing vessels shall be organised and implemented in a unified manner by the State fishing vessel inspection institution. The operational inspection of other fishing vessels shall be implemented by the fishing vessel inspection institution of the port of registry; for a fishing vessel that cannot return to the port of registry for operational inspection for any reason, the fishing vessel inspection institution of the port of registry shall entrust the fishing vessel inspection institution of the place of operation or repair of the vessel with the inspection; the institution carrying out the inspection shall, within 5 working days from the date of completion of the inspection, transfer the inspection report, inspection records and other technical materials to the fishing vessel inspection institution of the port of registry."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Operational Inspection"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The provisional inspection of a fishing vessel means the non-routine inspection carried out by a fishing vessel inspection institution on a fishing vessel in operation where a specific circumstance arises."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Provisional Inspection"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where any of the following circumstances applies to a fishing vessel, the owner or operator shall apply for provisional inspection:\n(a) the vessel is unable to return to the port of registry in a timely manner because its inspection certificate has become invalid;\n(b) the vessel is ordered to be inspected because it fails to meet the relevant requirements of laws and regulations on water traffic safety or environmental protection;\n(c) any other specific circumstance prescribed by the competent fisheries administration department of the State Council applies."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Provisional Inspection"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A fishing vessel inspection institution shall carry out the inspection within 2 working days from the date the fishing vessel applying for provisional inspection arrives at the place of inspection. Where the vessel passes inspection, it shall, within 3 working days from the date of completion of the inspection, endorse the fishing vessel inspection certificate or issue a fishing vessel inspection certificate; where the vessel fails inspection, it shall notify the party concerned in writing and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Provisional Inspection"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The division of jurisdiction over the provisional inspection of fishing vessels shall be governed by the provisions of Article 18 of this Regulation on jurisdiction over operational inspection."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Provisional Inspection"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where any of the following circumstances applies to a fishing vessel, the fishing vessel inspection institution shall not accept it for inspection:\n(a) the design drawings and technical documents have not been examined and approved or confirmed by a fishing vessel inspection institution;\n(b) the vessel was built or converted in violation of the provisions of paragraph 2 of Article 8 and paragraph 2 of Article 9 of this Regulation;\n(c) the vessel was repaired in violation of the provisions of Article 16 or Article 17 of this Regulation;\n(d) the vessel shall be scrapped in accordance with the relevant State provisions."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Local fishing vessel inspection institutions shall carry out inspection business within the scope approved by the State fishing vessel inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Persons engaged in fishing vessel inspection may engage in the corresponding fishing vessel inspection work only after passing the examination of the State fishing vessel inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Fishing vessel inspection institutions and their inspection personnel shall strictly comply with the rules for fishing vessel inspection, carry out on-site inspection and be responsible for their inspection conclusions.\nThe rules for fishing vessel inspection shall be formulated by the State fishing vessel inspection institution and promulgated for implementation after approval by the competent fisheries administration department of the State Council.\nFor fishing vessels or marine products of a novel nature for which the State has not yet formulated corresponding inspection rules, the inspection rules recognised by the State fishing vessel inspection institution may be applied."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a party concerned objects to the inspection conclusion of a local fishing vessel inspection institution, it may apply for re-inspection in accordance with the provisions of the competent fisheries administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Charges for fishing vessel inspection shall be collected in accordance with the charging standards prescribed by the pricing department and the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The forms of fishing vessel inspection certificates, inspection records and inspection reports and the seal for inspection business shall be uniformly prescribed by the State fishing vessel inspection institution."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "When performing their functions in accordance with the law, fishing vessel inspection personnel shall have the right to inspect the inspection certificates and technical condition of fishing vessels, and the units and individuals concerned shall provide cooperation.\nInspection personnel of fishing vessel inspection institutions shall participate in the investigation and handling of major marine casualties of fishing vessels."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where any of the following circumstances applies to a fishing vessel, the owner or operator shall, within 7 working days before the date of scrapping, change of registry or conversion of the fishing vessel, or within 20 working days from the date of loss of the fishing vessel, apply to the fishing vessel inspection institution for cancellation of its fishing vessel inspection certificate; where no application is made upon expiry of that period, the fishing vessel inspection certificate shall become invalid from the date of completion of the change of registry or conversion, or from the date of scrapping or loss of the fishing vessel, and the fishing vessel inspection institution shall cancel the fishing vessel inspection certificate:\n(a) the vessel is scrapped in accordance with the relevant State provisions;\n(b) the vessel's Chinese nationality is changed to foreign nationality;\n(c) the fishing vessel is converted into a non-fishing vessel;\n(d) the vessel is lost due to sinking or other reasons."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a fishing vessel is launched for operation without inspection and without obtaining a fishing vessel inspection certificate, the fishing vessel shall be confiscated.\nWhere a fishing vessel that shall be scrapped in accordance with the provisions continues to operate, it shall be ordered to stop operation immediately, its invalid fishing vessel inspection certificate shall be collected, the fishing vessel that shall be scrapped shall be compulsorily dismantled, and a fine of RMB 2,000 to RMB 50,000 shall be imposed; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, a fishing vessel that shall apply for operational inspection or provisional inspection fails to do so, it shall be ordered to stop operation immediately and to apply for inspection within a prescribed period; where it still fails to apply for inspection upon expiry of that period, a fine of RMB 1,000 to RMB 10,000 shall be imposed, and its fishing vessel inspection certificate may be temporarily withheld."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, any of the following acts is committed, the offender shall be ordered to make correction immediately and a fine of RMB 2,000 to RMB 20,000 shall be imposed; where the vessel is in operation, it shall be ordered to stop operation immediately; where the offender refuses to make correction or refuses to stop operation, the important equipment, components and materials illegally used shall be compulsorily removed or the fishing vessel inspection certificate shall be temporarily withheld; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law:\n(a) using important equipment, components and materials relating to navigation, operation, personal and property safety and prevention of pollution of the environment that have not passed inspection to build, convert or repair a fishing vessel;\n(b) without authorisation, removing important equipment or components relating to navigation, operation, personal and property safety and prevention of pollution of the environment from a fishing vessel;\n(c) without authorisation, altering the tonnage, load line, main engine power, manning quota or navigable area of a fishing vessel."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a staff member of a fishing vessel inspection institution engages in fishing vessel inspection work without having passed the examination, the person shall be ordered to stop inspection work immediately and a fine of RMB 1,000 to RMB 5,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where, in violation of the provisions of this Regulation, any of the following circumstances applies, the offender shall be ordered to make correction immediately, and a sanction of demotion, removal from post or cancellation of inspection qualification shall be imposed in accordance with the law on the person in charge who is directly responsible and the other persons directly responsible; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law; and the fishing vessel inspection certificate already issued shall be invalid:\n(a) inspection is not carried out in accordance with the relevant provisions of the competent fisheries administration department of the State Council;\n(b) the fishing vessel inspection certificate issued, or the inspection records or inspection report, do not conform to the actual condition of the fishing vessel;\n(c) fishing vessel inspection is carried out beyond the prescribed authority."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Fishing vessel inspection certificates, inspection records and inspection reports that are forged or altered, or seals for fishing vessel inspection business that are privately engraved, shall be confiscated; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The administrative penalties provided in this Regulation shall be decided, in accordance with their functions and powers, by the competent fisheries administration department of the people's government at or above the county level or by the fisheries law enforcement agency under it.\nWhere an organ deciding administrative penalties as provided in the preceding paragraph, or a staff member thereof, takes advantage of the convenience of office to accept property or other benefits from others, or fails to perform supervisory duties or fails to investigate and handle a violation discovered, or commits other acts of neglect of duty, abuse of power or malpractices for personal gain, and the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law against the person in charge who is directly responsible and the other persons directly responsible; where the act does not constitute a crime, an administrative disciplinary sanction shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the flag State of a foreign fishing vessel entrusts the People's Republic of China with the inspection of that vessel, the provisions of this Regulation shall apply."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "This Regulation shall come into force on 1 August 2003."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0592'] = {
+    "lawId": "CN-REG-0592",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 42 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the provisions of Article 34 of the Fisheries Law of the People's Republic of China (hereinafter referred to as the Fisheries Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The following terms used in the Fisheries Law and in these Rules have the following meanings:\n(a) 'inland waters of the People's Republic of China' means the sea areas on the landward side of the baseline of the territorial sea of the People's Republic of China and inland waters such as rivers and lakes;\n(b) 'all other sea areas under the jurisdiction of the People's Republic of China' means the sea areas that are under the jurisdiction of the People's Republic of China in accordance with the laws of the People's Republic of China, the international treaties and agreements concluded or acceded to by the People's Republic of China, or other relevant international law;\n(c) 'fishery waters' means the spawning grounds, feeding grounds, wintering grounds and migratory routes of fish, shrimps, crabs and shellfish in the waters under the jurisdiction of the People's Republic of China, and the culture sites of fish, shrimps, crabs, shellfish, algae and other aquatic animals and plants."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State exercises unified leadership and administration at different levels over the supervision and administration of fisheries.\nFisheries in the sea areas under the jurisdiction of the People's Republic of China on the outer side of the 'prohibited fishing zone line for bottom trawling by motorised fishing vessels' delimited by the State Council shall be supervised and administered by the competent department of fisheries administration under the State Council and the fishery administration institutions of the sea areas subordinate to it; fisheries in the sea areas on the inner side of that line shall, unless otherwise provided by the State, be supervised and administered by the competent departments of fisheries administration of the people's governments of the adjacent provinces, autonomous regions and municipalities directly under the Central Government.\nInland water fisheries shall, according to administrative divisions, be supervised and administered by the competent departments of fisheries administration of the local people's governments at or above the county level; inland water fisheries spanning administrative regions shall be dealt with by the relevant people's governments at or above the county level through consultation in formulating administrative measures, or shall be supervised and administered by the competent department of fisheries administration of the people's government at the next higher level and the fishery administration institution subordinate to it; fisheries in large rivers spanning provinces, autonomous regions and municipalities directly under the Central Government may be supervised and administered by the competent department of fisheries administration under the State Council.\nImportant migratory shared fishery resources shall be administered uniformly by the State; sedentary and minor fishery resources shall be administered by the competent departments of fisheries administration of the local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration of Fisheries"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "With respect to fisheries in the sea areas on the inner side of the 'prohibited fishing zone line for bottom trawling by motorised fishing vessels', the competent departments of fisheries administration of the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government shall delimit the scope of supervision and administration through consultation; where it is difficult to delimit such scope, overlapping zones or jointly administered zones may be designated for administration, and where necessary the competent department of fisheries administration under the State Council shall decide."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration of Fisheries"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Fishing grounds and fishing season production shall be arranged in an overall manner on the basis of the allowable catch of fishery resources and in accordance with the principles of being conducive to the protection, propagation and rational utilisation of fishery resources and of giving priority to adjacent areas while taking other areas into account.\nThe catching operations in major fishing grounds, fishing seasons and cross-sea-area management lines, such as the winter hairtail season in the Zhoushan fishing ground, the large yellow croaker season in the Zhejiang fishing ground, the large yellow croaker season in the eastern and central Fujian fishing grounds, the large yellow croaker, small yellow croaker and pomfret seasons in the Lvsi fishing ground, and the autumn prawn season in the Bohai fishing ground, shall be arranged by the competent department of fisheries administration under the State Council or by a unit authorised by it."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration of Fisheries"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The fishery administration and fishing port supervision and administration institution of the competent department of fisheries administration under the State Council shall exercise the power of fishery administration and fishing port supervision and administration on behalf of the State.\nThe competent department of fisheries administration under the State Council shall establish fishery administration institutions in the three sea areas of the Yellow Sea and Bohai Sea, the East China Sea and the South China Sea, and shall establish fishery administration and fishing port supervision and administration institutions as needed in important fishing ports, border waters and large rivers spanning provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration of Fisheries"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Fishery administration inspectors shall have the power to inspect the certificates of various fisheries and of fishing vessels, as well as fishing vessels, fishing gear, catches and fishing methods.\nFishery administration inspectors may perform official duties only after passing the examination conducted by the competent department of fisheries administration under the State Council or by the competent department of fisheries administration of the provincial people's government."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration of Fisheries"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent departments of fisheries administration and the fishery administration institutions subordinate to them shall cooperate with the relevant departments of public security, maritime surveillance, communications, environmental protection and industry and commerce administration in supervising and inspecting the implementation of fishery laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration of Fisheries"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Mass organisations for the protection of fisheries shall, under the professional guidance of the competent department of fisheries administration of the local people's government at or above the county level, carry out fishery protection administration in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration of Fisheries"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "State-owned and collectively-owned units that use water surfaces and mudflats owned by the whole people for aquaculture production shall apply to the local people's government at or above the county level for an aquaculture use certificate.\nWhere water surfaces and mudflats owned by the whole people are situated within the administrative region of one county, the people's government of that county shall issue the aquaculture use certificate; where they span several counties, the relevant counties shall issue the aquaculture use certificate through consultation, and where necessary the people's government at a higher level shall decide on the issuance of the aquaculture use certificate."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter III Aquaculture Industry"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a unit that has obtained an aquaculture use certificate fails, without justified reasons, to engage in aquaculture production, or its stocking density is lower than 60 per cent of the average stocking density of similar aquaculture waters in the locality, the waters shall be deemed to be barren."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Aquaculture Industry"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The natural spawning grounds, breeding grounds and feeding grounds of fish, shrimps, crabs, shellfish and algae and the important migratory routes in water surfaces and mudflats owned by the whole people must be protected and may not be designated as aquaculture sites."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Aquaculture Industry"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the State requisitions water surfaces and mudflats owned by collectives for construction, the matter shall be handled in accordance with the laws and regulations of the State on land administration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Aquaculture Industry"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The division between offshore fishing grounds and open-sea fishing grounds is as follows:\n(a) the Bohai Sea and the Yellow Sea are offshore fishing grounds.\n(b) the sea areas on the inner side of the lines connecting the following four base points are the offshore fishing grounds of the East China Sea; the sea areas on the outer side of the lines connecting the four base points are the open-sea fishing grounds of the East China Sea. The four base points are:\n1. 33 degrees north latitude, 125 degrees east longitude;\n2. 29 degrees north latitude, 125 degrees east longitude;\n3. 28 degrees north latitude, 124 degrees 30 minutes east longitude;\n4. 27 degrees north latitude, 123 degrees east longitude.\n(c) the sea areas on the inner side of the following two isobaths are the offshore fishing grounds of the South China Sea; the sea areas on the outer side of the two isobaths are the open-sea fishing grounds of the South China Sea. The two isobaths are:\n1. the 80-metre isobath east of 112 degrees east longitude;\n2. the 100-metre isobath west of 112 degrees east longitude."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter IV Fishing Industry"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State applies a fishing licensing system to the fishing industry.\nPersons engaging in open-sea and distant-water fishing shall submit an application, which shall be examined by the competent department of fisheries administration of the people's government of the province, autonomous region or municipality directly under the Central Government and then submitted to the competent department of fisheries administration under the State Council for approval. Fishing vessels engaged in open-sea production must operate in the approved sea areas and within the approved fishing periods and may not enter offshore waters for fishing without authorisation.\nFishing licences for large-scale trawling and purse seining in offshore waters shall be approved and issued by the competent department of fisheries administration under the State Council; fishing licences for other operations in offshore waters shall be approved and issued by the competent departments of fisheries administration of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in accordance with the control targets for vessels and gear assigned by the State.\nFishing licences for inland waters shall be approved and issued by the competent departments of fisheries administration of the local people's governments at or above the county level.\nThe format of fishing licences shall be formulated by the competent department of fisheries administration under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Fishing Industry"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Fishery enterprises with foreign investment in waters under the jurisdiction of the People's Republic of China may not engage in offshore fishing without the approval of the relevant competent department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Fishing Industry"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Fishing licences shall not be issued in any of the following circumstances:\n(a) fishing gear or fishing methods that damage fishery resources and are expressly prohibited are used;\n(b) fishing vessels are built, renewed, modified, purchased or imported without completing the approval formalities in accordance with the provisions of the State;\n(c) the fishery vessel certificate, voyage endorsement book, certificate of the crew member holding a post, vessel residence booklet, fisherman's certificate and other certificates are not obtained in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Fishing Industry"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Recreational angling and the manual collection of scattered aquatic products on mudflats that have not yet been used for aquaculture or brought under administration do not require an application for a fishing licence, but administration shall be strengthened to prevent damage to fishery resources. The specific administrative measures shall be formulated by the people's governments at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Fishing Industry"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where fishing is carried out in prohibited fishing areas or during prohibited fishing periods, or prohibited fishing gear or fishing methods are used, or fishery resource species under key protection are caught, for special needs such as scientific research, approval must be obtained from the competent department of fisheries administration of the people's government at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Fishing Industry"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Fishing by means of electric power, fishing with cormorants and knocking operations are prohibited. Where it is truly necessary to use electric power or cormorants for fishing in specific waters, approval must be obtained from the competent department of fisheries administration of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The competent departments of fisheries administration of the people's governments at or above the county level shall, in accordance with the limits of administration provided in Article 3 of these Rules, determine the species of fishery resources under key protection and the standards for catching them. In the spawning grounds, feeding grounds, wintering grounds and migratory routes of important fish, shrimps, crabs, shellfish and algae and other important aquatic organisms, they shall designate prohibited fishing areas and prohibited fishing periods, prohibit or restrict the use of certain fishing gear and fishing methods, prescribe the minimum mesh size, and formulate other measures for protecting fishery resources."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The construction of artificial fish reefs on the inner side of the 'prohibited fishing zone line for bottom trawling by motorised fishing vessels' must be approved by the competent department of fisheries administration of the people's government of the relevant province, autonomous region or municipality directly under the Central Government or by a unit authorised by it.\nThe construction of artificial fish reefs shall avoid major navigable channels and important anchorages, and the relevant communications and marine administration departments shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Fixed fishing may not, in general, be carried out across counties. The competent departments of fisheries administration of the people's governments at or above the county level shall limit the number of net stakes and the operating sites and shall prescribe prohibited fishing periods. Marine fixed fishing may not go beyond the 'prohibited fishing zone line for bottom trawling by motorised fishing vessels'."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where fry of aquatic animals of important economic value such as eels, Reeves' shad, Chinese mitten crabs, red sea bream and grouper, or egg-bearing parent fish whose catching is prohibited, are caught for aquaculture or other special needs, approval must be obtained from the competent department of fisheries administration under the State Council or from the competent department of fisheries administration of the people's government of the province, autonomous region or municipality directly under the Central Government, and a special permit must be obtained, before they may be caught in designated areas and within designated times and up to the approved quota. The authority to approve the catching of fry of other aquatic animals of important economic value shall be prescribed by the competent departments of fisheries administration of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The catching of fry of Chinese prawns and of spring parent prawns is prohibited. Where egg-bearing parent prawns of Chinese prawns are needed for aquaculture, the aquaculture units shall breed them themselves within a prescribed period, and the period and the administrative measures shall be formulated by the competent department of fisheries administration under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Any unit or individual that directly diverts or uses water in the key production areas of the fry of fish, shrimps, crabs and shellfish shall take protective measures such as avoiding the periods and areas in which the fry are dense, or installing screens."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The competent departments of fisheries administration at all levels shall monitor the pollution of fishery waters; the fishery environmental protection monitoring network shall be incorporated into the national environmental monitoring network. Where pollution causes fishery losses, the fishery administration and fishing port supervision and administration department shall, in coordination with the environmental protection department, investigate and handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Ship-breaking operations may not be carried out in key fishery waters. Where ship-breaking operations are carried out in other fishery waters and cause damage to fishery resources, the ship-breaking unit shall be liable for compensation in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Propagation and Protection of Fishery Resources"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 28 of the Fisheries Law, it shall be enforced in accordance with the following provisions:\n(a) for blasting or poisoning fish, for fishing in violation of the provisions on prohibited fishing areas and prohibited fishing periods, or for catching without authorisation precious aquatic animals whose catching is prohibited by the State, a fine of RMB 50 to RMB 5,000 in inland waters and RMB 500 to RMB 50,000 in the sea;\n(b) for knocking operations, a fine of RMB 1,000 to RMB 50,000;\n(c) for using cormorants for fishing without approval, a fine of RMB 50 to RMB 200;\n(d) for using electric power for fishing without approval, a fine of RMB 200 to RMB 1,000 in inland waters and RMB 500 to RMB 3,000 in the sea;\n(e) for fishing with gear smaller than the prescribed minimum mesh size, a fine of RMB 50 to RMB 1,000."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 29 of the Fisheries Law, it shall be enforced as a fine of not more than RMB 1,000."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a fine needs to be imposed in accordance with the provisions of Article 30 of the Fisheries Law, it shall be enforced in accordance with the following provisions:\n(a) for non-motorised fishing vessels in inland fisheries, a fine of RMB 50 to RMB 150;\n(b) for motorised fishing vessels in inland fisheries and non-motorised fishing vessels in marine fisheries, a fine of RMB 100 to RMB 500;\n(c) for motorised fishing vessels in marine fisheries, a fine of RMB 200 to RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a fine needs to be imposed in accordance with the provisions of Article 31 of the Fisheries Law, it shall be enforced in accordance with the following provisions:\n(a) for non-motorised fishing vessels in inland fisheries, a fine of RMB 25 to RMB 50;\n(b) for motorised fishing vessels in inland fisheries and non-motorised fishing vessels in marine fisheries, a fine of RMB 50 to RMB 100;\n(c) for motorised fishing vessels in marine fisheries, a fine of RMB 50 to RMB 3,000;\n(d) for open-sea fishing vessels entering offshore waters for fishing without authorisation, a fine of RMB 3,000 to RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Anyone who buys, sells, leases or otherwise unlawfully transfers or alters a fishing licence shall have the illegal gains confiscated and the fishing licence revoked, and may concurrently be fined RMB 100 to RMB 1,000."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a fine needs to be imposed in accordance with the provisions of Articles 28, 30, 31 and 32 of the Fisheries Law, the vessel master or the person in charge of the unit may, in light of the circumstances, be additionally fined RMB 100 to RMB 500."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Anyone who fails to take protective measures in accordance with the relevant provisions of the Fisheries Law and these Rules and causes loss of fishery resources, or who reclaims land from lakes or encloses and cultivates coastal mudflats without approval, shall bear liability in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a fishery enterprise with foreign investment violates the provisions of Article 16 of these Rules, its catches and illegal gains shall be confiscated, and it may concurrently be fined RMB 3,000 to RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where foreigners or foreign fishing vessels violate the provisions of Article 8 of the Fisheries Law by entering waters under the jurisdiction of the People's Republic of China without authorisation to engage in fishing production or fishery resource survey activities, the competent department of fisheries administration or the fishery administration institution subordinate to it shall order them to leave or expel them, and may impose a fine and confiscate their catches and fishing gear."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "When the competent department of fisheries administration or the fishery administration institution subordinate to it imposes a penalty, it shall fill in and issue a penalty decision; where a fine is imposed or fishing gear, catches and illegal gains are confiscated, receipts shall be issued and the matter shall be recorded in the fishing licence."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where any of the following acts is committed, the public security organ shall impose a penalty in accordance with the provisions of the Regulations of the People's Republic of China on Administrative Penalties for Public Security; where a crime is constituted, the judicial organs shall investigate criminal responsibility in accordance with the law:\n(a) refusing or obstructing fishery administration inspectors in the lawful performance of their duties;\n(b) stealing, forcibly seizing or damaging fishing gear, fishing vessels or catches."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a fishery administration inspector neglects his duty or perverts the law for personal gain, the unit to which he belongs or the competent department at a higher level shall give him administrative sanctions; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "These Rules shall be interpreted by the Ministry of Agriculture, Animal Husbandry and Fisheries."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "These Rules shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0595'] = {
+    "lawId": "CN-REG-0595",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 28 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Entities and individuals that sell goods or provide processing, repair and replacement services (hereinafter referred to as services) within the territory of the People's Republic of China, or that sell services, intangible assets or immovable property, or import goods, are taxpayers for value-added tax and shall pay value-added tax in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The value-added tax rates are as follows:\n(a) where a taxpayer sells goods, services or leasing services of tangible movable property, or imports goods, the tax rate shall be 17 per cent, unless otherwise provided in subparagraphs (b), (d) and (e) of this Article.\n(b) where a taxpayer sells transportation, postal, basic telecommunications, construction or immovable property leasing services, sells immovable property, transfers land use rights, or sells or imports the following goods, the tax rate shall be 11 per cent:\n(i) grain and other agricultural products, edible vegetable oil and edible salt;\n(ii) tap water, heating, cooling, hot water, coal gas, liquefied petroleum gas, natural gas, dimethyl ether, biogas and coal products for residential use;\n(iii) books, newspapers, magazines, audio-visual products and electronic publications;\n(iv) feed, chemical fertilisers, pesticides, agricultural machinery and plastic film for agricultural use;\n(v) other goods prescribed by the State Council.\n(c) where a taxpayer sells services or intangible assets, the tax rate shall be 6 per cent, unless otherwise provided in subparagraphs (a), (b) and (e) of this Article.\n(d) where a taxpayer exports goods, the tax rate shall be zero, unless otherwise provided by the State Council.\n(e) where entities and individuals within China sell services or intangible assets across the border within the scope prescribed by the State Council, the tax rate shall be zero.\nAdjustments to the tax rates shall be decided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a taxpayer concurrently engages in projects to which different tax rates apply, it shall separately account for the sales amounts of the projects to which different tax rates apply; where the sales amounts are not separately accounted for, the higher tax rate shall apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Except as provided in Article 11 of these Regulations, where a taxpayer sells goods, services, intangible assets or immovable property (hereinafter collectively referred to as taxable sales activities), the tax payable shall be the balance of the output tax for the current period after deducting the input tax for the current period. The formula for calculating the tax payable is:\nTax payable = output tax for the current period - input tax for the current period\nWhere the output tax for the current period is less than the input tax for the current period and the input tax is insufficient to be credited, the excess portion may be carried forward to the next period for continued crediting."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a taxpayer carries out taxable sales activities, the value-added tax charged on the basis of the sales amount and the tax rate prescribed in Article 2 of these Regulations is the output tax. The formula for calculating the output tax is:\nOutput tax = sales amount × tax rate"
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The sales amount is the total consideration and off-price charges received by a taxpayer for carrying out taxable sales activities, but excludes the output tax collected.\nThe sales amount shall be calculated in RMB. Where a taxpayer settles the sales amount in a currency other than RMB, it shall be converted into RMB for calculation."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the price of a taxable sales activity carried out by a taxpayer is obviously low and there is no legitimate reason, the competent tax authority shall determine the sales amount."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The value-added tax paid or borne by a taxpayer for purchasing goods, services, intangible assets or immovable property is the input tax.\nThe following input tax may be credited against the output tax:\n(a) the value-added tax amount stated on the special value-added tax invoice obtained from the seller.\n(b) the value-added tax amount stated on the special payment form for import value-added tax of the Customs obtained from the Customs.\n(c) for agricultural products purchased, except where a special value-added tax invoice or a special payment form for import value-added tax of the Customs is obtained, the input tax calculated on the basis of the purchase price of the agricultural products stated on the agricultural product purchase invoice or sales invoice and the deduction rate of 11 per cent, unless otherwise provided by the State Council. The formula for calculating the input tax is:\nInput tax = purchase price × deduction rate\n(d) where services, intangible assets or immovable property within China are purchased from an entity or individual outside China, the value-added tax amount stated on the tax payment certificate for the withheld and remitted tax obtained from the tax authority or the withholding agent.\nAdjustments to the items eligible for crediting and to the deduction rate shall be decided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a taxpayer purchases goods, services, intangible assets or immovable property and the value-added tax deduction voucher obtained does not conform to the relevant provisions of laws, administrative regulations or the competent tax department under the State Council, the input tax shall not be credited against the output tax."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The input tax on the following items shall not be credited against the output tax:\n(a) goods, services, intangible assets and immovable property purchased for projects subject to the simplified method of tax calculation, projects exempt from value-added tax, collective welfare or personal consumption;\n(b) goods purchased that are subject to abnormal losses, and the related services and transportation services;\n(c) goods purchased (excluding fixed assets), services and transportation services consumed in work in progress and finished products that are subject to abnormal losses;\n(d) other items prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a small-scale taxpayer carries out taxable sales activities, the simplified method of calculating the tax payable on the basis of the sales amount and the levy rate shall apply, and the input tax shall not be credited. The formula for calculating the tax payable is:\nTax payable = sales amount × levy rate\nThe criteria for small-scale taxpayers shall be prescribed by the competent departments of finance and taxation under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The value-added tax levy rate for small-scale taxpayers shall be 3 per cent, unless otherwise provided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Taxpayers other than small-scale taxpayers shall register with the competent tax authority. The specific measures for registration shall be formulated by the competent tax department under the State Council.\nWhere a small-scale taxpayer has a sound accounting system and can provide accurate tax information, it may register with the competent tax authority, and it shall not be treated as a small-scale taxpayer but shall calculate the tax payable in accordance with the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a taxpayer imports goods, the tax payable shall be calculated on the basis of the composite assessable price and the tax rate prescribed in Article 2 of these Regulations. The formulas for calculating the composite assessable price and the tax payable are:\nComposite assessable price = dutiable value for customs duty + customs duty + consumption tax\nTax payable = composite assessable price × tax rate"
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The following items shall be exempt from value-added tax:\n(a) self-produced agricultural products sold by agricultural producers;\n(b) contraceptive medicines and devices;\n(c) second-hand books;\n(d) instruments and equipment imported for direct use in scientific research, scientific experiments and teaching;\n(e) materials and equipment imported as gratuitous aid from foreign governments or international organisations;\n(f) articles for the exclusive use of disabled persons imported directly by organisations of disabled persons;\n(g) articles used by the seller itself and sold.\nApart from the provisions of the preceding paragraph, the items exempt from or subject to reduction of value-added tax shall be prescribed by the State Council. No region or department shall prescribe items exempt from or subject to reduction of value-added tax."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a taxpayer concurrently engages in projects exempt from or subject to reduction of tax, it shall separately account for the sales amounts of the projects exempt from or subject to reduction of tax; where the sales amounts are not separately accounted for, the tax exemption or reduction shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the sales amount of a taxpayer does not reach the value-added tax threshold prescribed by the competent departments of finance and taxation under the State Council, value-added tax shall be exempt; where the threshold is reached, value-added tax shall be calculated and paid on the full amount in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an entity or individual outside the territory of the People's Republic of China sells services within China and has no business establishment within China, its agent within China shall be the withholding agent; where it has no agent within China, the purchaser shall be the withholding agent."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The time when the value-added tax liability arises is as follows:\n(a) where taxable sales activities are carried out, the day on which the sales amount is received or the evidence for claiming the sales amount is obtained; where an invoice is issued first, the day on which the invoice is issued.\n(b) where goods are imported, the day of customs declaration for import.\nThe time when the value-added tax withholding obligation arises shall be the day on which the taxpayer's value-added tax liability arises."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Value-added tax shall be collected by the tax authorities, and value-added tax on imported goods shall be collected by the Customs on their behalf.\nValue-added tax on articles for personal use brought into China by individuals or sent by post shall be assessed and collected together with customs duty. The specific measures shall be formulated by the Customs Tariff Commission of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a taxpayer carries out taxable sales activities, it shall issue a special value-added tax invoice to a purchaser that requests one, and shall state the sales amount and the output tax separately on the special value-added tax invoice.\nA special value-added tax invoice shall not be issued in any of the following circumstances:\n(a) the purchaser in the taxable sales activity is an individual consumer;\n(b) the taxable sales activity is subject to the tax exemption provisions."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The places for the payment of value-added tax are as follows:\n(a) a fixed business household shall declare and pay tax to the competent tax authority at the place where its organisation is located. Where the head office and its branches are not in the same county (city), they shall separately declare and pay tax to the competent tax authority at their respective locations; with the approval of the competent departments of finance and taxation under the State Council or the finance and tax authorities authorised by them, the head office may consolidate the declaration and payment of tax to the competent tax authority at the place where the head office is located.\n(b) where a fixed business household sells goods or services in another county (city), it shall report the out-of-town business to the competent tax authority at the place where its organisation is located and declare and pay tax to that authority; where it fails to report, it shall declare and pay tax to the competent tax authority at the place of sale or the place where the services are provided; where it fails to declare and pay tax to the competent tax authority at the place of sale or the place where the services are provided, the competent tax authority at the place where its organisation is located shall recover the tax.\n(c) where a non-fixed business household sells goods or services, it shall declare and pay tax to the competent tax authority at the place of sale or the place where the services are provided; where it fails to declare and pay tax to the competent tax authority at the place of sale or the place where the services are provided, the competent tax authority at the place where its organisation is located or where it resides shall recover the tax.\n(d) where goods are imported, tax shall be declared and paid to the Customs at the place of customs declaration.\nA withholding agent shall declare and pay the tax it withholds to the competent tax authority at the place where its organisation is located or where it resides."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The tax payment periods for value-added tax are 1 day, 3 days, 5 days, 10 days, 15 days, 1 month or 1 quarter respectively. The specific tax payment period for a taxpayer shall be determined respectively by the competent tax authority on the basis of the amount of tax payable; where tax cannot be paid on a fixed period basis, tax may be paid on a per-transaction basis.\nWhere a taxpayer adopts 1 month or 1 quarter as one tax payment period, it shall declare and pay tax within 15 days from the date of expiry of the period; where it adopts 1 day, 3 days, 5 days, 10 days or 15 days as one tax payment period, it shall prepay the tax within 5 days from the date of expiry of the period and shall, within 15 days from the first day of the following month, declare and pay tax and settle the tax payable for the preceding month.\nThe time limit for a withholding agent to remit the tax shall be governed by the provisions of the preceding two paragraphs."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a taxpayer imports goods, it shall pay the tax within 15 days from the date on which the Customs issues the special payment form for import value-added tax of the Customs."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a taxpayer exports goods to which the tax refund (exemption) provisions apply, it shall complete the export formalities with the Customs and, on the strength of the export declaration and other relevant vouchers, declare to the competent tax authority on a monthly basis within the prescribed period for declaring export tax refund (exemption) for the refund (exemption) of tax on the exported goods; where entities and individuals within China selling services and intangible assets across the border are subject to the tax refund (exemption) provisions, they shall declare to the competent tax authority for the refund (exemption) within the prescribed time limit. The specific measures shall be formulated by the competent departments of finance and taxation under the State Council.\nWhere goods are returned or withdrawn from customs after the tax refund has been processed for exported goods, the taxpayer shall repay the refunded tax in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The collection and administration of value-added tax shall be governed by the Law of the People's Republic of China on the Administration of Tax Collection and the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Matters relating to the payment of value-added tax by taxpayers shall, where the State Council or the competent departments of finance and taxation under the State Council with the consent of the State Council provide otherwise, be governed by those provisions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2009."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0599'] = {
+    "lawId": "CN-REG-0599",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Customs Law of the People's Republic of China in order to implement customs protection of intellectual property, promote foreign economic and trade relations and scientific, technological and cultural exchanges and safeguard the public interest."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"customs protection of intellectual property\" means the protection implemented by the customs in respect of the exclusive right to use a trademark, copyright and rights related to copyright, and patent right (hereinafter collectively referred to as intellectual property) that relate to imported and exported goods and are protected by the laws and administrative regulations of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State prohibits the import and export of goods that infringe intellectual property.\nThe customs shall implement intellectual property protection in accordance with the relevant laws and the provisions of these Regulations and shall exercise the relevant powers provided in the Customs Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where an intellectual property right holder requests the customs to implement intellectual property protection, it shall submit to the customs an application for the adoption of protection measures."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The consignee of imported goods or its agent, and the consignor of exported goods or its agent, shall, in accordance with the provisions of the State, truthfully declare to the customs the status of the intellectual property relating to the imported and exported goods and submit the relevant supporting documents."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In implementing intellectual property protection, the customs shall keep confidential the trade secrets of the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "An intellectual property right holder may, in accordance with the provisions of these Regulations, apply to the General Administration of Customs for the record of its intellectual property; to apply for the record, it shall submit a written application. The written application shall include the following contents:\n(a) the name or title, place of registration or nationality, and the like of the intellectual property right holder;\n(b) the name and contents of the intellectual property and the relevant information;\n(c) the status of the licensing of the intellectual property;\n(d) the names, places of origin, customs of the place of entry and exit, importers and exporters, main features, prices and the like of the goods in respect of which the intellectual property right holder lawfully exercises the intellectual property; and\n(e) the manufacturers, importers and exporters, customs of the place of entry and exit, main features, prices and the like, so far as known, of the goods infringing the intellectual property.\nWhere the contents of the written application provided in the preceding paragraph are supported by documents, the intellectual property right holder shall attach the supporting documents."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Filing of Intellectual Property"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The General Administration of Customs shall, within 30 working days from the date of receipt of all the application documents, decide whether to grant the record and notify the applicant in writing; where the record is not granted, it shall state the reasons.\nThe General Administration of Customs shall not grant the record in any of the following circumstances:\n(a) the application documents are incomplete or invalid;\n(b) the applicant is not the intellectual property right holder; or\n(c) the intellectual property is no longer protected by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Filing of Intellectual Property"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the customs finds that an intellectual property right holder applying for the record of intellectual property has failed to truthfully provide the relevant information or documents, the General Administration of Customs may revoke the record."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Filing of Intellectual Property"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A record of customs protection of intellectual property shall take effect from the date on which the General Administration of Customs grants the record and shall be valid for 10 years.\nWhere the intellectual property remains valid, the intellectual property right holder may, within six months before the expiry of the term of validity of the record of customs protection of intellectual property, apply to the General Administration of Customs for renewal of the record. Each renewal of the record shall be valid for 10 years.\nWhere the term of validity of the record of customs protection of intellectual property expires without an application for renewal, or the intellectual property is no longer protected by laws and administrative regulations, the record of customs protection of intellectual property shall become invalid immediately."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Filing of Intellectual Property"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a change occurs in the recorded intellectual property, the intellectual property right holder shall, within 30 working days from the date of the change, complete with the General Administration of Customs the formalities for modification or cancellation of the record.\nWhere an intellectual property right holder fails to complete the formalities for modification or cancellation in accordance with the provisions of the preceding paragraph and thereby seriously affects the lawful import and export of others or the performance by the customs of its supervisory duties in accordance with law, the General Administration of Customs may, upon application by an interested party, revoke the record, or may revoke it on its own initiative."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Filing of Intellectual Property"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an intellectual property right holder discovers that goods suspected of infringement are about to be imported or exported, it may submit to the customs of the place of entry and exit of the goods an application for detention of the goods suspected of infringement."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where an intellectual property right holder requests the customs to detain goods suspected of infringement, it shall submit a written application and the relevant supporting documents and provide evidence sufficient to prove the obvious existence of the facts of infringement.\nThe written application shall include the following main contents:\n(a) the name or title, place of registration or nationality, and the like of the intellectual property right holder;\n(b) the name and contents of the intellectual property and the relevant information;\n(c) the names of the consignee and consignor of the goods suspected of infringement;\n(d) the names, specifications and the like of the goods suspected of infringement; and\n(e) the ports, time, means of transport and the like through or at which the goods suspected of infringement may enter or leave the country.\nWhere the goods suspected of infringement are suspected of infringing recorded intellectual property, the written application shall also include the customs record number."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where an intellectual property right holder requests the customs to detain goods suspected of infringement, it shall provide the customs with security not exceeding the equivalent value of the goods, to be used for compensating losses that may be caused to the consignee or consignor by an improper application and for paying the costs of storage, custody and disposal of the goods after their detention by the customs; where the intellectual property right holder pays the storage and custody costs directly to the warehouse operator, such costs shall be deducted from the security. The specific measures shall be formulated by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an intellectual property right holder applies for detention of goods suspected of infringement and the application complies with the provisions of Article 13 of these Regulations and security has been provided in accordance with Article 14 of these Regulations, the customs shall detain the goods suspected of infringement, notify the intellectual property right holder in writing and serve the customs detention receipt on the consignee or consignor.\nWhere an application for detention of goods suspected of infringement does not comply with the provisions of Article 13 of these Regulations, or security has not been provided in accordance with Article 14 of these Regulations, the customs shall reject the application and notify the intellectual property right holder in writing."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the customs discovers that imported or exported goods are suspected of infringing recorded intellectual property, it shall immediately notify the intellectual property right holder in writing. Where the intellectual property right holder, within three working days from the date of service of the notice, submits an application in accordance with Article 13 of these Regulations and provides security in accordance with Article 14 of these Regulations, the customs shall detain the goods suspected of infringement, notify the intellectual property right holder in writing and serve the customs detention receipt on the consignee or consignor. Where the intellectual property right holder fails to submit an application or to provide security within the time limit, the customs may not detain the goods."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "With the consent of the customs, the intellectual property right holder and the consignee or consignor may inspect the goods concerned."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the consignee or consignor considers that its goods do not infringe the intellectual property of the intellectual property right holder, it shall submit a written statement to the customs together with the relevant evidence."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the consignee or consignor of goods suspected of infringing a patent right considers that its imported or exported goods do not infringe the patent right, it may, after providing the customs with a security deposit equivalent to the value of the goods, request the customs to release its goods. Where the intellectual property right holder fails to bring an action before a people's court within a reasonable period, the customs shall refund the security deposit."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the customs discovers that imported or exported goods are suspected of infringing recorded intellectual property and, after notifying the intellectual property right holder, the intellectual property right holder requests the customs to detain the goods suspected of infringement, the customs shall, within 30 working days from the date of detention, investigate and determine whether the detained goods suspected of infringement infringe the intellectual property; where it cannot make a determination, it shall immediately notify the intellectual property right holder in writing."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the customs requests the competent department of intellectual property to provide assistance in investigating detained goods suspected of infringement, the competent department of intellectual property concerned shall provide assistance.\nWhere the competent department of intellectual property requests the customs to provide assistance in handling infringement cases involving imported and exported goods, the customs shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the customs investigates detained goods suspected of infringement and the relevant circumstances, the intellectual property right holder and the consignee or consignor shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "After submitting to the customs an application for the adoption of protection measures, an intellectual property right holder may, in accordance with the provisions of the Trademark Law of the People's Republic of China, the Copyright Law of the People's Republic of China, the Patent Law of the People's Republic of China or other relevant laws, apply to a people's court for measures ordering cessation of the infringing act or for property preservation in respect of the detained goods suspected of infringement.\nWhere the customs receives a notice from a people's court requesting assistance in execution of an order to cease the infringing act or of a measure for property preservation, it shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The customs shall release detained goods suspected of infringement in any of the following circumstances:\n(a) where the customs detained the goods suspected of infringement in accordance with Article 15 of these Regulations and has not received a notice from a people's court requesting assistance in execution within 20 working days from the date of detention;\n(b) where the customs detained the goods suspected of infringement in accordance with Article 16 of these Regulations and has not received a notice from a people's court requesting assistance in execution within 50 working days from the date of detention, and upon investigation it cannot be determined that the detained goods suspected of infringement infringe intellectual property;\n(c) where the consignee or consignor of goods suspected of infringing a patent right, after providing the customs with a security deposit equivalent to the value of the goods, requests the customs to release its goods;\n(d) where the customs considers that the consignee or consignor has sufficient evidence to prove that its goods do not infringe the intellectual property of the intellectual property right holder; or\n(e) where the intellectual property right holder withdraws its application for detention of the goods suspected of infringement before the customs determines that the detained goods suspected of infringement are infringing goods."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the customs detains goods suspected of infringement in accordance with the provisions of these Regulations, the intellectual property right holder shall pay the relevant costs of storage, custody and disposal. Where the intellectual property right holder fails to pay the relevant costs, the customs may deduct them from the security deposit provided by the right holder to the customs, or require the guarantor to perform the relevant guarantee obligation.\nWhere goods suspected of infringement are determined to infringe intellectual property, the intellectual property right holder may include the relevant costs of storage, custody and disposal it has paid in the reasonable expenses it has incurred to stop the infringing act."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the customs, in implementing intellectual property protection, discovers a case suspected of a crime, it shall transfer the case to the public security organ for handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Application for Detention of Goods Suspected of Infringement and Handling Thereof"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where detained goods suspected of infringement are determined upon investigation by the customs to infringe intellectual property, the customs shall confiscate them.\nAfter confiscating goods infringing intellectual property, the customs shall notify the intellectual property right holder in writing of the relevant circumstances of the goods infringing intellectual property.\nWhere confiscated goods infringing intellectual property can be used for social welfare undertakings, the customs shall transfer them to the relevant public welfare institution for use in social welfare undertakings; where the intellectual property right holder is willing to purchase them, the customs may transfer them to the intellectual property right holder for consideration. Where confiscated goods infringing intellectual property cannot be used for social welfare undertakings and the intellectual property right holder is unwilling to purchase them, the customs may auction them in accordance with law after eliminating the infringing features; however, in respect of imported goods bearing counterfeit trademarks, except in special circumstances, they may not be allowed to enter commercial channels merely after the trademark marks on the goods are removed; where the infringing features cannot be eliminated, the customs shall destroy them."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where, after the customs accepts a record of intellectual property protection and an application for the adoption of intellectual property protection measures, infringing goods are not discovered, protection measures are not taken in a timely manner, or protection measures taken are ineffective, because the intellectual property right holder failed to provide accurate information, the intellectual property right holder shall bear the responsibility itself.\nWhere, after an intellectual property right holder requests the customs to detain goods suspected of infringement, the customs cannot determine that the detained goods suspected of infringement infringe the intellectual property of the intellectual property right holder, or a people's court rules that they do not infringe the intellectual property of the intellectual property right holder, the intellectual property right holder shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where goods infringing intellectual property are imported or exported and a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a staff member of the customs neglects duty, abuses power or engages in malpractices for personal gain in implementing intellectual property protection and a crime is constituted, criminal responsibility shall be pursued in accordance with law; where no crime is constituted, administrative disciplinary sanction shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where articles carried by an individual into or out of the country or sent by post exceed the reasonable quantity for personal use and infringe the intellectual property provided in Article 2 of these Regulations, they shall be dealt with as infringing goods."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "These Regulations shall come into force on 1 March 2004. The Regulations of the People's Republic of China on Customs Protection of Intellectual Property promulgated by the State Council on 5 July 1995 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0600'] = {
+    "lawId": "CN-REG-0600",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 49 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted in accordance with the Seed Law of the People's Republic of China for the purpose of protecting the rights to new plant varieties, encouraging the breeding, extension and application of new plant varieties, and promoting the development of agriculture and of the forestry and grassland sectors."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, a new plant variety means a plant variety that has been bred through artificial selection or improved from a discovered wild plant and that possesses novelty, distinctness, uniformity, stability and an appropriate denomination."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The work of protecting new plant varieties shall adhere to the leadership of the Communist Party of China, implement the strategic arrangements of the Party and the State on intellectual property rights, promote innovation in breeding, and advance the high-quality development of the seed industry."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent departments for agriculture and for forestry and grassland under the State Council shall, in accordance with the division of responsibilities, be responsible for the work of protecting new plant varieties throughout the country, shall carry out the acceptance and examination of applications for the rights to new plant varieties, and shall grant the rights to new plant varieties (hereinafter referred to as the variety rights) to new plant varieties that meet the conditions prescribed in these Regulations; they shall improve the testing system for new plant varieties, improve the preservation and administration of propagating material, and strengthen publicity, training and relevant technical research on the protection of new plant varieties.\nThe competent departments for agriculture and for forestry and grassland of the local people's governments at or above the county level shall, in accordance with their respective responsibilities, be responsible for the work of protecting new plant varieties within their administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Units and individuals that have made outstanding contributions to the breeding, extension and application of new plant varieties and other related work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The production, business operation and extension of new plant varieties that have been granted variety rights (hereinafter referred to as the granted varieties) shall comply with the provisions of the laws and regulations on the administration of seeds."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The owner of the variety right (hereinafter referred to as the variety right holder) shall have an exclusive right in the granted variety. Except as otherwise provided by laws and these Regulations, no unit or individual may, without the licence of the variety right holder, commit any of the following acts in respect of the propagating material of the granted variety:\n(a) to produce or propagate the granted variety, or to process it for the purpose of propagation;\n(b) to offer the granted variety for sale or sell it;\n(c) to import or export the granted variety;\n(d) to store propagating material for the purpose of committing the acts specified in subparagraphs (a) to (c) of this paragraph.\nWhere any of the acts prescribed in the preceding paragraph is committed in respect of harvested material obtained from the unauthorised use of propagating material of the granted variety, the licence of the variety right holder shall be obtained, unless the variety right holder has already had a reasonable opportunity to exercise its rights in respect of the propagating material.\nWhere any of the acts prescribed in paragraph 1 and paragraph 2 of this Article is committed in respect of any of the following varieties, the licence of the variety right holder of the granted variety shall be obtained:\n(a) an essentially derived variety of the granted variety, provided that the granted variety is not itself an essentially derived variety;\n(b) a variety which, compared with the granted variety, does not possess the distinctness prescribed in Article 16 of these Regulations;\n(c) another variety produced or propagated by the repeated use of the granted variety for commercial purposes."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Contents and Ownership of Variety Rights"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall implement the essentially derived variety system in a step-by-step manner; the competent departments for agriculture and for forestry and grassland under the State Council shall determine the specific scope of implementation in the form of catalogues, and shall promulgate the catalogues for implementation after reporting them to the State Council for approval.\nAn essentially derived variety shall be determined mainly on the basis of the results of molecular testing and phenotypic testing and, where necessary, such factors as the breeding method, the breeding process and the genetic relationship shall be taken into comprehensive consideration. The competent departments for agriculture and for forestry and grassland under the State Council shall formulate guidelines for the determination of essentially derived varieties, determine the scope of application, the testing and examination methods, the determination thresholds and the technical procedures, and specify the conditions that testing and examination institutions shall meet.\nThe competent departments for agriculture and for forestry and grassland under the State Council shall establish a pool of experts in breeding, testing, examination, administration and law, so as to provide professional support for the implementation of the essentially derived variety system."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Contents and Ownership of Variety Rights"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a service breeding is accomplished by performing the tasks of the entity concerned or mainly by using the material and technical conditions of the entity concerned, the right to apply for the variety right shall belong to that entity; where the breeding is a non-service breeding, the right to apply for the variety right shall belong to the individual who has accomplished the breeding. Where a breeding is accomplished by using the material and technical conditions of the entity concerned and the entity and the individual who has accomplished the breeding have agreed on the right to apply for the variety right in a contract, the agreement shall prevail.\nWhere a breeding is conducted on an entrusted or cooperative basis, the parties may agree in the contract on the ownership of the right to apply for the variety right; where there is no agreement in the contract, the right to apply for the variety right shall belong to the entity or individual that has accomplished the breeding upon entrustment or jointly.\nAfter the application is approved, the variety right shall belong to the applicant."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Contents and Ownership of Variety Rights"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Only one variety right may be granted for one new plant variety. Where two or more applicants separately apply for the variety right for the same new plant variety, the variety right shall be granted to the applicant who filed the application first; where the applications are filed simultaneously, the variety right shall be granted to the person who first accomplished the breeding of the new plant variety."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Contents and Ownership of Variety Rights"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The right to apply for the variety right and the variety right may be transferred in accordance with the law.\nWhere a Chinese entity or individual transfers to a foreigner, a foreign enterprise or a foreign organisation the right to apply for, or the variety right in respect of, a new plant variety bred within the territory of China, the transfer shall be subject to the approval of the competent departments for agriculture and for forestry and grassland under the State Council.\nWhere the right to apply for the variety right or the variety right is transferred, the parties shall conclude a written contract, register the transfer with the competent departments for agriculture and for forestry and grassland under the State Council, which shall announce the registration. The transfer shall take effect from the date of registration.\nWhere a variety right is pledged, the pledgor and the pledgee shall jointly go through the formalities for the registration of the pledge with the competent departments for agriculture and for forestry and grassland under the State Council, which shall announce the pledge."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Contents and Ownership of Variety Rights"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In any of the following circumstances, a granted variety may be used without the licence of the variety right holder and without payment of a royalty to the variety right holder, provided that the other rights enjoyed by the variety right holder in accordance with these Regulations and the relevant laws and administrative regulations shall not be infringed:\n(a) to use the granted variety for breeding and other scientific research activities;\n(b) for farmers to propagate propagating material of the granted variety for their own use."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Contents and Ownership of Variety Rights"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In the national interest or in the public interest, the competent departments for agriculture and for forestry and grassland under the State Council may decide to grant a compulsory licence for the exploitation of a variety right, and shall register and announce the decision.\nThe entity or individual that has obtained the compulsory licence shall pay the variety right holder a reasonable royalty, the amount of which shall be determined by agreement between the two parties; where the two parties fail to reach an agreement, the competent departments for agriculture and for forestry and grassland under the State Council shall make a ruling.\nWhere the variety right holder refuses to accept the decision on the compulsory licence, or the variety right holder or the entity or individual that has obtained the compulsory licence refuses to accept the ruling on the royalty for the compulsory licence, an action may be instituted in accordance with the law.\nThe entity or individual that has obtained the compulsory licence shall not enjoy an exclusive right of exploitation and shall have no right to authorise any other person to exploit the variety."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Contents and Ownership of Variety Rights"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A new plant variety for which an application for a variety right is filed shall belong to a genus or species of plant listed in the national catalogue for the protection of plant varieties. The catalogue for the protection of plant varieties shall be determined and published by the competent departments for agriculture and for forestry and grassland under the State Council.\nNo variety right shall be granted to a new plant variety that violates the law or endangers the public interest of society or the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Conditions for the Grant of Variety Rights"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A new plant variety for which a variety right is to be granted shall possess novelty. Novelty means that the propagating material or harvested material of the new plant variety for which the variety right is applied for has not been sold or extended before the date of application, or that the propagating material or harvested material of the variety has been sold or extended by the applicant or with the consent of the applicant for not more than one year within the territory of China; outside the territory of China, the period shall be not more than six years for varieties of woody or vine plants and not more than four years for other plant varieties.\nFor a genus or species of plant newly included in the catalogue for the protection of plant varieties after the Seed Law of the People's Republic of China entered into force on 1 January 2016, where an application for the variety right is filed within one year from the date of publication of the catalogue, the variety shall possess novelty if the propagating material or harvested material of the variety has not been sold or extended within the territory of China for more than four years before the date of application.\nExcept for the loss of novelty through sale or extension, any of the following circumstances shall be deemed to constitute a loss of novelty:\n(a) where the competent departments for agriculture and for forestry and grassland of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government confirm, on the basis of the area sown, that the variety has in fact spread;\n(b) where an application for the right to a new plant variety has not been filed within two years after the variety of agricultural crop has been approved or registered."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Conditions for the Grant of Variety Rights"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A new plant variety for which a variety right is to be granted shall possess distinctness. Distinctness means that a plant variety is clearly distinguished by one or more characteristics from known varieties."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Conditions for the Grant of Variety Rights"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A new plant variety for which a variety right is to be granted shall possess uniformity. Uniformity means that, except for foreseeable natural variation, the relevant characteristics or traits of the individuals within the population of the plant variety are expressed in a uniform manner."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Conditions for the Grant of Variety Rights"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A new plant variety for which a variety right is to be granted shall possess stability. Stability means that the main characteristics of the plant variety remain unchanged after repeated propagation or at the end of a specific propagation cycle."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Conditions for the Grant of Variety Rights"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A new plant variety for which a variety right is to be granted shall possess an appropriate denomination, which shall be distinguished from the names of known varieties in the same or a similar genus or species of plant. Upon grant, the denomination shall become the generic name of the new plant variety. Whether or not the term of protection of the granted variety has expired, the granted denomination shall be used in the sale or extension of the granted variety.\nThe following denominations shall not be used in the naming of varieties:\n(a) denominations consisting only of numerals;\n(b) denominations that violate social morality;\n(c) denominations that are liable to mislead as to the characteristics or traits of the new plant variety or the identity of the breeder;\n(d) denominations that prejudice the prior rights of others;\n(e) other circumstances in which use is prohibited by laws, administrative regulations or the provisions of the State.\nThe same plant variety shall use only one and the same denomination in the application for the protection of the new variety, in the approval and registration of the variety, and in the sale and extension of the variety."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Conditions for the Grant of Variety Rights"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a Chinese entity or individual applies for a variety right, it or the individual may file an application directly or through an entrusted agency with the competent departments for agriculture and for forestry and grassland under the State Council.\nWhere a new plant variety for which a Chinese entity or individual applies for a variety right involves national security or major interests and needs to be kept confidential, the matter shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Application for and Acceptance of Variety Rights"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a foreigner, a foreign enterprise or a foreign organisation applies for a variety right in China, the application shall be handled in accordance with any agreement concluded between the country to which it belongs and the People's Republic of China or any international treaty to which both are parties, or, on the principle of reciprocity, in accordance with these Regulations.\nWhere a foreigner, a foreign enterprise or a foreign organisation that has no habitual residence or place of business in China files an application for a variety right with the competent departments for agriculture and for forestry and grassland under the State Council, it shall entrust an agency lawfully established in China to handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Application for and Acceptance of Variety Rights"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "An applicant for a variety right shall submit to the competent departments for agriculture and for forestry and grassland under the State Council application documents that meet the prescribed format requirements.\nThe application documents shall be written in the Chinese language."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Application for and Acceptance of Variety Rights"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The date on which the competent departments for agriculture and for forestry and grassland under the State Council receive the application documents for a variety right shall be the date of application; where the application documents are sent by post, the date of the postmark at dispatch shall be the date of application."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Application for and Acceptance of Variety Rights"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an applicant has first filed an application for a variety right in a foreign country and, within 12 months from the date of that first application, again files an application in China for the variety right for the same new plant variety, the applicant may enjoy the right of priority in accordance with any agreement concluded between the foreign country and the People's Republic of China or any international treaty to which both are parties, or on the principle of mutual recognition of the right of priority.\nWhere an applicant claims the right of priority, the applicant shall, at the time of filing the application, submit a written statement and, within three months, submit a copy of the application documents for the first-filed application as confirmed by the original receiving organ; where the applicant fails to submit the written statement or the copy of the application documents in accordance with the provisions of these Regulations, the applicant shall be deemed not to have claimed the right of priority."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Application for and Acceptance of Variety Rights"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an application for a variety right conforms to the provisions of Article 22 of these Regulations, the competent departments for agriculture and for forestry and grassland under the State Council shall accept the application, specify the date of application, assign an application number, and notify the applicant to pay the application fee within one month from the date of receipt of the application.\nWhere an application for a variety right does not conform to the provisions of Article 22 of these Regulations or still does not conform to the said provisions after amendment, the competent departments for agriculture and for forestry and grassland under the State Council shall not accept the application and shall notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Application for and Acceptance of Variety Rights"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "An applicant may amend or withdraw the application for a variety right before the variety right is granted."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Application for and Acceptance of Variety Rights"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where any unit or individual files an application abroad for a variety right for a new plant variety bred within the territory of China, it or the individual shall register the application with the competent departments for agriculture and for forestry and grassland under the State Council; where propagating material is provided abroad, the provisions of the Seed Law of the People's Republic of China on the provision of germplasm resources abroad shall be complied with."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Application for and Acceptance of Variety Rights"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "After the applicant has paid the application fee, the competent departments for agriculture and for forestry and grassland under the State Council shall conduct a preliminary examination of the following aspects of the application for the variety right:\n(a) whether it falls within the scope of the genera or species of plants listed in the catalogue for the protection of plant varieties;\n(b) whether it conforms to the provisions of Article 21 of these Regulations;\n(c) whether it conforms to the provisions on novelty;\n(d) whether the denomination of the new plant variety is appropriate."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Variety Rights"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The competent departments for agriculture and for forestry and grassland under the State Council shall complete the preliminary examination within three months from the date of acceptance of the application for the variety right; where the circumstances are complicated, the period may be extended by three months. For an application for the variety right that has passed the preliminary examination, the competent departments for agriculture and for forestry and grassland under the State Council shall announce it and notify the applicant to pay the examination fee within three months.\nFor an application for the variety right that has failed the preliminary examination, the competent departments for agriculture and for forestry and grassland under the State Council shall notify the applicant to make a statement of opinions or to make corrections within three months. Where the applicant fails to reply within the time limit, the application for the variety right shall be deemed to have been withdrawn; where the application still fails to pass the examination after correction, it shall be rejected."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Variety Rights"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "After the applicant has paid the examination fee in accordance with the relevant provisions, the competent departments for agriculture and for forestry and grassland under the State Council shall conduct a substantive examination of the distinctness, uniformity and stability of the new plant variety applied for.\nWhere the applicant fails to pay the examination fee in accordance with the relevant provisions, the application for the variety right shall be deemed to have been withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Variety Rights"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The competent departments for agriculture and for forestry and grassland under the State Council shall conduct the substantive examination mainly on the basis of the application documents and other relevant written materials. Where the competent departments for agriculture and for forestry and grassland under the State Council consider it necessary, they may entrust a designated testing institution to conduct tests or to examine the results of completed cultivation or other trials.\nWhere it is necessary for the examination, the applicant shall, at the request of the competent departments for agriculture and for forestry and grassland under the State Council, provide the necessary materials and the propagating material of the new plant variety."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Variety Rights"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For an application for the variety right that conforms to the provisions of these Regulations upon substantive examination, the competent departments for agriculture and for forestry and grassland under the State Council shall make a decision to grant the variety right, issue a variety right certificate, and register and announce the grant, and the variety right shall take effect from the date of the announcement of the grant.\nFor an application for the variety right that does not conform to the provisions of these Regulations upon substantive examination, the competent departments for agriculture and for forestry and grassland under the State Council shall reject the application and notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Variety Rights"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The competent departments for agriculture and for forestry and grassland under the State Council shall establish a board for the re-examination of new plant varieties (hereinafter referred to as the re-examination board).\nWhere an applicant refuses to accept the decision to reject the application for the variety right, the applicant may, within three months from the date of receipt of the notification, request the re-examination board to conduct a re-examination. Where the request for re-examination conforms to the relevant provisions, the re-examination board shall make a decision within six months from the date of receipt of the request and notify the applicant. Where testing or expert examination is required in accordance with the law, the time required shall not be counted within the prescribed time limit.\nWhere an applicant refuses to accept the re-examination decision of the re-examination board, the applicant may institute an action in accordance with the law.\nThe specific provisions on re-examination shall be formulated by the competent departments for agriculture and for forestry and grassland under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Variety Rights"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "After a variety right has been granted, where any unit or individual, during the period from the date of the announcement of passing the preliminary examination to the date of the grant of the variety right, acts in violation of the provisions of Article 7 of these Regulations, the variety right holder shall have the right to claim compensation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Examination and Approval of Variety Rights"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The term of protection of a variety right shall be, from the date of the announcement of the grant, 25 years for varieties of woody or vine plants and 20 years for other plant varieties."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Term, Termination and Invalidation of Variety Rights"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The variety right holder shall pay annual fees starting from the year in which the variety right is granted and shall, at the request of the competent departments for agriculture and for forestry and grassland under the State Council, provide the propagating material of the granted variety for testing and examination."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Term, Termination and Invalidation of Variety Rights"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A variety right shall terminate before the expiry of its term of protection under any of the following circumstances:\n(a) where the variety right holder renounces the variety right by a written statement;\n(b) where the variety right holder fails to pay the annual fee in accordance with the relevant provisions;\n(c) where the variety right holder fails to provide the propagating material of the granted variety required for testing and examination at the request of the competent departments for agriculture and for forestry and grassland under the State Council;\n(d) where, upon testing and examination, the granted variety no longer conforms to the characteristics and traits on the basis of which the variety right was granted.\nThe termination of a variety right shall be registered and announced by the competent departments for agriculture and for forestry and grassland under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Term, Termination and Invalidation of Variety Rights"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "From the date of the announcement of the grant of the variety right, the re-examination board may, ex officio or upon the written request of any unit or individual, declare the variety right invalid where the new plant variety does not conform to the provisions of Articles 15 to 18 of these Regulations; where the new plant variety does not conform to the provisions of Article 19 of these Regulations, the re-examination board shall order a change of denomination and, where the party concerned refuses to change the denomination, shall declare the variety right invalid. The decision to declare the variety right invalid or to order a change of denomination shall be registered and announced by the competent departments for agriculture and for forestry and grassland under the State Council, and the parties concerned shall be notified by the re-examination board.\nWhere a party concerned refuses to accept the decision of the re-examination board to declare the variety right invalid, the party may institute an action in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Term, Termination and Invalidation of Variety Rights"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A variety right that has been declared invalid shall be deemed never to have existed.\nA decision to declare a variety right invalid shall not have retroactive effect on judgments and mediation documents on the infringement of new plant varieties that were rendered and have been executed by the people's courts before the declaration, on decisions on the handling of the infringement of new plant varieties that were rendered and have been executed by the competent departments for agriculture and for forestry and grassland of the people's governments at or above the county level before the declaration, or on contracts for the exploitation licence of the variety right and contracts for the transfer of the variety right that have already been performed. However, reasonable compensation shall be paid for losses caused to others by the bad faith of the variety right holder.\nWhere the non-return of compensation for the infringement of the new plant variety, of royalties for the variety right or of fees for the transfer of the variety right in accordance with the provisions of the preceding paragraph would obviously violate the principle of fairness, the said amounts shall be returned in whole or in part."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Term, Termination and Invalidation of Variety Rights"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a party concerned fails to comply with a time limit prescribed in these Regulations or a time limit specified by the competent departments for agriculture and for forestry and grassland under the State Council due to force majeure, resulting in the loss of its rights, the party may, within two months from the date on which the impediment is removed and within two years from the date of expiry of the time limit, state the reasons to the competent departments for agriculture and for forestry and grassland under the State Council, attach the relevant supporting documents, and request the restoration of its rights.\nWhere a party concerned fails to comply with a time limit prescribed in these Regulations or a time limit specified by the competent departments for agriculture and for forestry and grassland under the State Council due to other legitimate reasons, resulting in the loss of its rights, the party may, within two months from the date of receipt of the notification of the competent departments for agriculture and for forestry and grassland under the State Council, state the reasons to the said departments and request the restoration of its rights; however, where the time limit for filing a request for re-examination has been missed, the party may, within two months from the date of expiry of the time limit for filing the request for re-examination, request the said departments to restore its rights.\nWhere a party concerned requests an extension of a time limit specified by the competent departments for agriculture and for forestry and grassland under the State Council, the party shall, before the expiry of the time limit, state the reasons to the said departments and complete the relevant formalities.\nThe provisions of paragraph 1 and paragraph 2 of this Article shall not apply to the time limits prescribed in Articles 15, 24 and 35 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Term, Termination and Invalidation of Variety Rights"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an act infringing a variety right is committed in violation of the provisions of Article 7 of these Regulations, the dispute shall be settled by the parties concerned through consultation. Where the parties concerned are unwilling to hold consultations or the consultations fail, the variety right holder or the interested party may request the competent departments for agriculture and for forestry and grassland of the people's government at or above the county level to handle the matter in accordance with their respective functions and powers, or may institute an action in accordance with the law.\nThe competent departments for agriculture and for forestry and grassland of the people's government at or above the county level may, in accordance with their respective functions and powers and on the principle of voluntariness of the parties concerned, mediate the compensation for damage caused by the infringement of the variety right. Where an agreement is reached through mediation, the parties concerned shall perform it; where a party concerned fails to perform the agreement or no agreement is reached through mediation, the variety right holder or the interested party may institute an action in accordance with the law.\nWhen handling cases of the infringement of variety rights, the competent departments for agriculture and for forestry and grassland of the people's government at or above the county level shall, in order to safeguard the public interest of society, order the infringer to cease the infringing act and confiscate the unlawful gains and the propagating material of the plant variety; where the value of the goods involved is less than RMB 50,000, the infringer shall in addition be fined not less than RMB 10,000 but not more than RMB 250,000; where the value of the goods involved is RMB 50,000 or more, the infringer shall in addition be fined not less than five times but not more than ten times the value of the goods involved."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a person passes off a granted variety, the competent departments for agriculture and for forestry and grassland of the people's government at or above the county level shall order the cessation of the act of passing off and confiscate the unlawful gains and the propagating material of the plant variety; where the value of the goods involved is less than RMB 50,000, the person shall in addition be fined not less than RMB 10,000 but not more than RMB 250,000; where the value of the goods involved is RMB 50,000 or more, the person shall in addition be fined not less than five times but not more than ten times the value of the goods involved; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "When investigating and handling cases of the infringement of variety rights and cases of passing off granted varieties, the competent departments for agriculture and for forestry and grassland of the people's government at or above the county level shall have the power to adopt the following measures in accordance with the law:\n(a) to enter the production or business premises to conduct on-site inspection;\n(b) to sample, test, conduct trials or inspect the propagating material and harvested material of plant varieties;\n(c) to consult and copy contracts, bills, account books, production and business records and other relevant materials related to the suspected unlawful acts;\n(d) to seal up or detain propagating material of plant varieties that is proved by evidence to be material infringing variety rights or passing off granted varieties, as well as the tools, equipment and means of transport used for infringing variety rights or passing off granted varieties;\n(e) to seal up the premises used for activities infringing variety rights or passing off granted varieties.\nWhen the competent departments for agriculture and for forestry and grassland of the people's government at or above the county level exercise the functions and powers prescribed in the preceding paragraph in accordance with the law, the parties concerned shall assist and cooperate with them and shall not refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the parties concerned have a dispute over the ownership of the right to apply for a variety right or of a variety right, they may institute an action in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a person commits any of the following acts in respect of propagating material or harvested material which the person does not know to be material infringing a variety right, and can prove that the material has a legitimate source, the person shall not bear the liability for compensation:\n(a) to process the material for the purpose of propagation for another person;\n(b) to offer the material for sale or sell it;\n(c) to store the material for the purpose of committing the acts specified in the two preceding subparagraphs."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Any staff member of the competent departments for agriculture and for forestry and grassland of the people's government at or above the county level or of the relevant departments who abuses his or her power, neglects his or her duty, engages in malpractices for personal gain, or solicits or accepts bribes shall be given a disciplinary sanction in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where any act of bad faith such as deception, concealment or falsification is committed in the course of an application for a variety right, the competent departments for agriculture and for forestry and grassland under the State Council shall record the act in the credit records of the entity concerned in accordance with the relevant provisions of the State and announce it to the public."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "For the purposes of these Regulations, the meanings of the following terms are as follows:\n(a) propagating material means a whole plant or a part of a plant that can be used for propagation, including grains, fruits, roots, stems, seedlings, buds, leaves and flowers;\n(b) harvested material means a whole plant or a part of a plant obtained through planting."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 June 2025."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0602'] = {
+    "lawId": "CN-REG-0602",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 37 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the administration of registered architects, improve the quality and level of architectural design, safeguard the safety of citizens' lives and property, and protect the public interests of society."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, a registered architect means a person who has lawfully obtained a certificate of registered architect and is engaged in building design and related business.\nRegistered architects are divided into first-class registered architects and second-class registered architects."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "These Regulations shall apply to the examination, registration and practice of registered architects."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent construction administrative department and the competent personnel administrative department of the State Council, and the competent construction administrative department and the competent personnel administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government shall, in accordance with the provisions of these Regulations, provide guidance and supervision over the examination, registration and practice of registered architects."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The National Registration Architects Management Committee and the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government shall, in accordance with the provisions of these Regulations, be responsible for the specific work of the examination and registration of registered architects.\nThe National Registration Architects Management Committee shall be composed of representatives of the competent construction administrative department, the competent personnel administrative department and other relevant competent administrative departments of the State Council, and experts in architectural design.\nThe Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government shall be composed of representatives of the competent construction administrative department, the competent personnel administrative department and other relevant competent administrative departments of the province, autonomous region or municipality directly under the Central Government, and experts in architectural design."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Registered architects may form a registered architects association to safeguard the lawful rights and interests of its members."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall implement the national unified examination system for registered architects. The measures for the national unified examination for registered architects shall be jointly formulated by the competent construction administrative department of the State Council jointly with the competent personnel administrative department of the State Council in consultation with other relevant competent administrative departments of the State Council, and shall be organised and implemented by the National Registration Architects Management Committee."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A person who meets any of the following conditions may apply to take the examination for first-class registered architects:\n(a) having obtained a master's degree or above in architecture or a doctoral degree in engineering in a related speciality, and having been engaged in architectural design or related business for not less than two years;\n(b) having obtained a bachelor's degree in architecture or a master's degree in engineering in a related speciality, and having been engaged in architectural design or related business for not less than three years;\n(c) having the educational background of graduation from a regular university undergraduate programme in the speciality of architecture and having been engaged in architectural design or related business for not less than five years, or having the educational background of graduation from a regular university undergraduate programme in a speciality related to architecture and having been engaged in architectural design or related business for not less than seven years;\n(d) having obtained the technical title of senior engineer and having been engaged in architectural design or related business for not less than three years, or having obtained the technical title of engineer and having been engaged in architectural design or related business for not less than five years;\n(e) not meeting the conditions prescribed in the preceding four items but having outstanding design achievements and being recognised by the National Registration Architects Management Committee as reaching the professional level prescribed in the preceding four items.\nThe persons referred to in items (c) to (e) of the preceding paragraph shall have obtained a bachelor's degree."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A person who meets any of the following conditions may apply to take the examination for second-class registered architects:\n(a) having an educational background of graduation from a regular university undergraduate programme or above in architecture or a related speciality, and having been engaged in architectural design or related business for not less than two years;\n(b) having an educational background of graduation from a junior college or above in the speciality of architectural design technology or a related speciality, and having been engaged in architectural design or related business for not less than three years;\n(c) having the educational background of graduation from a four-year secondary technical school in the speciality of architectural design technology, and having been engaged in architectural design or related business for not less than five years;\n(d) having the educational background of graduation from a secondary technical school in a speciality related to architectural design technology, and having been engaged in architectural design or related business for not less than seven years;\n(e) having obtained a technical title of assistant engineer or above, and having been engaged in architectural design or related business for not less than three years."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Architectural design personnel who had obtained senior or intermediate technical titles before the coming into force of these Regulations may, upon recommendation by their employing unit, be exempted from the examination of some subjects in accordance with the provisions of the measures for the national unified examination for registered architects."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A person who passes the examination for registered architects and obtains the corresponding qualification of registered architect may apply for registration."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The registration of first-class registered architects shall be the responsibility of the National Registration Architects Management Committee; the registration of second-class registered architects shall be the responsibility of the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Registration shall not be granted where any of the following circumstances exists:\n(a) the person does not have full capacity for civil conduct;\n(b) the person has received criminal punishment and less than five years have elapsed from the date of completion of the execution of the punishment to the date of application for registration;\n(c) the person, having committed an error in architectural design or related business, has received an administrative penalty or an administrative sanction of dismissal from post or above, and less than two years have elapsed from the date of the decision of penalty or sanction to the date of application for registration;\n(d) the person has received an administrative penalty of revocation of the certificate of registered architect, and less than five years have elapsed from the date of the decision of penalty to the date of application for registration;\n(e) there are other circumstances in which registration shall not be granted as prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the National Registration Architects Management Committee or the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government decides not to grant registration in accordance with the provisions of Article 13 of these Regulations, it shall notify the applicant in writing within fifteen days from the date of the decision; where the applicant has an objection, it may apply for reconsideration to the competent construction administrative department of the State Council or the competent construction administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government within fifteen days from the date of receipt of the notice."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The National Registration Architects Management Committee shall file the list of first-class registered architects whose registration is approved with the competent construction administrative department of the State Council for the record; the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government shall file the list of second-class registered architects whose registration is approved with the competent construction administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government for the record.\nWhere the competent construction administrative department of the State Council or the competent construction administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government discovers that the registration by the relevant Registration Architects Management Committee does not conform to the provisions of these Regulations, it shall notify the relevant Registration Architects Management Committee to revoke the registration and recover the certificate of registered architect."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The applicant whose registration is approved shall be issued, respectively by the National Registration Architects Management Committee or the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government, a first-class registered architect certificate or a second-class registered architect certificate uniformly produced by the competent construction administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The term of validity of the registration of a registered architect is two years. Where continued registration is required upon expiry of the term, the registration formalities shall be completed within thirty days before the expiry."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A person who has obtained a certificate of registered architect, except in the circumstances provided for in paragraph 2 of Article 15 of these Regulations, shall, where any of the following circumstances exists after registration, have his registration revoked and his certificate of registered architect recovered by the National Registration Architects Management Committee or the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government that approved the registration:\n(a) having completely lost capacity for civil conduct;\n(b) having received criminal punishment;\n(c) having, as a result of committing an error in architectural design or related business, received an administrative penalty or an administrative sanction of dismissal from post or above;\n(d) having voluntarily ceased the business of registered architect for a full two years.\nWhere the party whose registration is revoked has an objection to the revocation of registration and recovery of the certificate of registered architect, it may apply for reconsideration to the competent construction administrative department of the State Council or the competent construction administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government within fifteen days from the date of receipt of the notice of revocation of registration and recovery of the certificate of registered architect."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A person whose registration is revoked may re-register in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Examinations and Registration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The scope of practice of a registered architect comprises:\n(a) architectural design;\n(b) technical consultation on architectural design;\n(c) investigation and appraisal of buildings;\n(d) construction guidance and supervision of projects designed under his own charge;\n(e) other business prescribed by the competent construction administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Practice"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A registered architect practising his business shall join an architectural design unit.\nThe qualification grades of architectural design units and their scopes of business shall be prescribed by the competent construction administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Practice"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The scope of practice of a first-class registered architect is not restricted by the scale of buildings and the complexity of the project. The scope of practice of a second-class registered architect shall not exceed the scale of buildings and the complexity of the project prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Practice"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a registered architect practises his business, the architectural design unit shall uniformly accept the entrustment and uniformly charge fees."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Practice"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Economic losses caused by the quality of design shall be compensated by the architectural design unit; the architectural design unit shall have the right to recover from the registered architect who signed."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Practice"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A registered architect shall have the right to practise as a registered architect in the name of a registered architect.\nA person who is not a registered architect shall not practise as a registered architect in the name of a registered architect. A second-class registered architect shall not practise in the name of a first-class registered architect, nor practise beyond the scope of practice of second-class registered architects prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Rights and Obligations"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Buildings with a span, cross-section and height above a certain level as prescribed by the State shall be designed by a registered architect."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Rights and Obligations"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where any unit or individual modifies the design drawings of a registered architect, it shall obtain the consent of that registered architect; provided, however, that this does not apply where, under special circumstances, the consent of that registered architect cannot be obtained."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Rights and Obligations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A registered architect shall perform the following obligations:\n(a) to comply with laws and regulations and professional ethics, and protect the public interests of society;\n(b) to ensure the quality of architectural design and sign the design drawings for which he is responsible;\n(c) to keep confidential the secrets of units and individuals learned in the course of practice;\n(d) not to be employed by more than two architectural design units at the same time to practise;\n(e) not to permit another person to practise in his own name."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Rights and Obligations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a person obtains the qualification of passing the examination for registered architects or a certificate of registered architect by improper means, the National Registration Architects Management Committee or the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government shall cancel the qualification of passing the examination or revoke the certificate of registered architect; the person in charge who is held directly responsible and other persons directly responsible shall be given administrative sanctions in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a person, without registration, arbitrarily practises as a registered architect in the name of a registered architect, the competent construction administrative department of the people's government at or above the county level shall order him to cease the illegal activity, confiscate the illegal gains, and may impose a fine of not more than five times the illegal gains; where losses are caused, he shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a registered architect, in violation of the provisions of these Regulations, commits any of the following acts, the competent construction administrative department of the people's government at or above the county level shall order him to cease the illegal activity, confiscate the illegal gains, and may impose a fine of not more than five times the illegal gains; where the circumstances are serious, he may be ordered to cease practising or his certificate of registered architect may be revoked by the National Registration Architects Management Committee or the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government:\n(a) accepting registered architect business and charging fees in his personal name;\n(b) being employed by more than two architectural design units at the same time to practise;\n(c) infringing upon the lawful rights and interests of another person in architectural design or related business;\n(d) permitting another person to practise in his own name;\n(e) a second-class registered architect practising in the name of a first-class registered architect or practising beyond the scope of practice prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a major liability accident is caused by unqualified architectural design quality, resulting in major losses, the registered architect directly responsible for the architectural design shall be ordered by the competent construction administrative department of the people's government at or above the county level to cease practising; where the circumstances are serious, his certificate of registered architect shall be revoked by the National Registration Architects Management Committee or the Registration Architects Management Committee of a province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where anyone, in violation of the provisions of these Regulations, arbitrarily modifies the design drawings of a registered architect without the consent of the registered architect, the competent construction administrative department of the people's government at or above the county level shall order correction; where losses are caused, he shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a crime is constituted in violation of the provisions of these Regulations, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "For the purposes of these Regulations, architectural design units include engineering design units specially engaged in architectural design and other engineering design units engaged in architectural design."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Applications by foreign nationals to take the national unified examination for registered architects of China and to register, and applications by foreign architects to practise as registered architects within the territory of China, shall be handled in accordance with the principle of reciprocity."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "These Regulations shall come into force as of the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0603'] = {
+    "lawId": "CN-REG-0603",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 38 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in accordance with the Copyright Law of the People's Republic of China (hereinafter referred to as the Copyright Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of the Copyright Law, \"works\" means intellectual achievements in the fields of literature, art and science that are original and can be reproduced in some tangible form."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of the Copyright Law, \"creation\" means the intellectual activity that directly produces works of literature, art and science.\nOrganisational work, the provision of consultancy opinions or material conditions, or other auxiliary work carried out for the creation of another person shall not be regarded as creation."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In the Copyright Law and this Regulation, the following works have the following meanings:\n(a) written works mean works expressed in written form, such as novels, poems, prose and theses;\n(b) oral works mean works expressed in spoken language, such as impromptu speeches, lectures and courtroom debates;\n(c) musical works mean works, with or without words, that can be sung or performed, such as songs and symphonies;\n(d) dramatic works mean works for stage performance, such as stage plays, operas and local operas;\n(e) works of quyi mean works performed mainly in the form of narrating and singing, such as comic dialogues, clapper talks, drumsong and storytelling;\n(f) choreographic works mean works expressing thoughts and feelings through continuous movements, postures and facial expressions;\n(g) works of acrobatic art mean works expressed through bodily movements and skills, such as acrobatics, magic and circus performances;\n(h) works of fine art mean two-dimensional or three-dimensional works of plastic art with aesthetic significance composed of lines, colours or other means, such as paintings, calligraphy and sculptures;\n(i) works of architecture mean works with aesthetic significance expressed in the form of buildings or structures;\n(j) photographic works mean works of art that record the image of an objective object on photosensitive material or another medium by means of an instrument;\n(k) cinematographic works and works created by a process analogous to cinematography mean works fixed on a certain medium, consisting of a series of frames with or without accompanying sound, and capable of being projected by suitable devices or disseminated in other ways;\n(l) graphic works mean works such as engineering design drawings and product design drawings drawn for construction and production, and maps and schematic diagrams reflecting geographical phenomena or illustrating the principles or structure of things; and\n(m) model works mean three-dimensional works made to a certain scale on the basis of the shape and structure of an object for purposes such as display, testing or observation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In the Copyright Law and this Regulation, the following terms have the following meanings:\n(a) news of current events means mere factual information reported through media such as newspapers, periodicals, radio stations and television stations;\n(b) sound recordings mean any recording of the sounds of a performance and other sounds;\n(c) video recordings mean any recording of a series of related images, with or without accompanying sound, other than cinematographic works and works created by a process analogous to cinematography;\n(d) producer of sound recordings means the person who first produces a sound recording;\n(e) producer of video recordings means the person who first produces a video recording; and\n(f) performer means an actor, a performing unit or another person who performs a work of literature or art."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Copyright shall arise on the date on which a work is created."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Copyright in the works of foreigners or stateless persons first published within the territory of China as provided in paragraph 3 of Article 2 of the Copyright Law shall be protected from the date of first publication."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a work of a foreigner or stateless person is first published outside the territory of China and is published within the territory of China within 30 days thereafter, the work shall be deemed to have been published simultaneously within the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a work of joint authorship cannot be used separately, its copyright shall be enjoyed jointly by the co-authors and exercised through unanimity. Where unanimity cannot be reached and there is no proper reason, no party may prevent the other parties from exercising the other rights except the right of transfer, but the proceeds obtained shall be reasonably distributed among all the co-authors."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the copyright owner authorises another person to make his work into a cinematographic work or a work created by a process analogous to cinematography, he shall be deemed to have agreed to necessary modifications to his work, provided that such modifications may not distort or mutilate the original work."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "\"Work tasks\" in the provisions on works created in the course of employment in paragraph 1 of Article 16 of the Copyright Law mean the duties that a citizen ought to perform in the legal person or organisation concerned.\n\"Material and technical conditions\" in the provisions on works created in the course of employment in paragraph 2 of Article 16 of the Copyright Law mean the funds, equipment or materials specially provided by the legal person or organisation concerned for the citizen to complete the creation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Within two years after the completion of a work created in the course of employment, where the author, with the consent of the unit, authorises a third party to use the work in the same manner as the unit uses it, the remuneration obtained shall be distributed between the author and the unit in the proportion agreed upon.\nThe two-year period after the completion of the work shall be calculated from the date on which the author delivers the work to the unit."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In the case of a work whose author is unidentified, the copyright, except the right of authorship, shall be exercised by the owner of the original copy of the work. Once the author is identified, the copyright shall be exercised by the author or his heir."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where, after the death of one of the co-authors, the rights he enjoyed in the work of joint authorship under items 5 to 17 of paragraph 1 of Article 10 of the Copyright Law are neither inherited nor bequeathed to anyone, they shall be enjoyed by the other co-authors."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "After the death of an author, the right of authorship, the right of modification and the right of integrity in his copyright shall be protected by his heir or legatee.\nWhere a copyright is neither inherited nor bequeathed to anyone, the right of authorship, the right of modification and the right of integrity shall be protected by the copyright administration department."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The use of works in which copyright is enjoyed by the State shall be administered by the copyright administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In the case of a work not published during the author's lifetime, if the author did not expressly state that it should not be published, the right of publication may, within 50 years after the author's death, be exercised by his heir or legatee; where there is no heir and no legatee, it shall be exercised by the owner of the original copy of the work."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "In the case of a work whose author is unidentified, the term of protection of the rights provided in items 5 to 17 of paragraph 1 of Article 10 of the Copyright Law shall expire on 31 December of the fiftieth year after the first publication of the work. Once the author is identified, the provisions of Article 21 of the Copyright Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a work of another person is used, the name of the author and the title of the work shall be indicated, unless otherwise agreed by the parties or unless this is impossible because of the particular manner in which the work is used."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "For the purposes of the Copyright Law, a work that has been published means a work that the copyright owner has made known to the public itself or has authorised another person to make known to the public."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a published work is used without the permission of the copyright owner in accordance with the relevant provisions of the Copyright Law, this shall not affect the normal use of the work and shall not unreasonably prejudice the lawful interests of the copyright owner."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The rates of remuneration for the use of works in accordance with the provisions of Article 23, paragraph 2 of Article 33 and paragraph 3 of Article 40 of the Copyright Law shall be formulated and published by the copyright administration department under the State Council together with the competent department of prices under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "To use a work of another person, a contract for licensing the use shall be concluded with the copyright owner; where the right licensed is an exclusive right of use, the contract shall be in writing, except where a newspaper or periodical publishes the work."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The content of the exclusive right of use provided in Article 24 of the Copyright Law shall be agreed in the contract; where the contract is silent or the agreement is unclear, the licensee shall be deemed to have the right to exclude any person, including the copyright owner, from using the work in the same manner; unless otherwise agreed in the contract, the licensee must obtain the permission of the copyright owner in order to license a third party to exercise the same right."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A contract for exclusive licensing of use or a contract of assignment concluded with a copyright owner may be filed with the copyright administration department for the record."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "For the purposes of the Copyright Law and this Regulation, rights related to copyright mean the rights enjoyed by publishers in the typographical design of the books and periodicals they publish, the rights enjoyed by performers in their performances, the rights enjoyed by producers of sound and video recordings in the sound and video recordings they produce and the rights enjoyed by radio stations and television stations in the radio and television programmes they broadcast."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "In exercising their rights, publishers, performers, producers of sound and video recordings and radio and television stations may not prejudice the rights of the copyright owners of the works used and of the original works."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a book publishing contract provides that the book publisher enjoys an exclusive right of publication but does not specify its content, the book publisher shall be deemed to enjoy the exclusive right, within the term of validity of the contract and within the geographical scope agreed in the contract, to publish the book in the original edition and revised editions in the same language."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where two orders sent by the copyright owner to the book publisher are not executed within six months, the book shall be deemed out of stock for the purposes of Article 32 of the Copyright Law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a copyright owner declares in accordance with paragraph 2 of Article 33 of the Copyright Law that his work may not be reprinted or excerpted, the declaration shall be attached when the work is published in a newspaper or periodical."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a copyright owner declares in accordance with paragraph 3 of Article 40 of the Copyright Law that no sound recording of his work may be made, the declaration shall be made when the work is lawfully recorded as a sound recording."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a work of another person is used in accordance with the provisions of Article 23, paragraph 2 of Article 33 and paragraph 3 of Article 40 of the Copyright Law, remuneration shall be paid to the copyright owner within two months from the date of use of the work."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Performances of foreigners or stateless persons within the territory of China shall be protected by the Copyright Law.\nThe rights enjoyed by foreigners or stateless persons in their performances under international treaties to which China is a party shall be protected by the Copyright Law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Sound recordings produced and distributed within the territory of China by foreigners or stateless persons shall be protected by the Copyright Law.\nThe rights enjoyed by foreigners or stateless persons in the sound recordings they produce and distribute under international treaties to which China is a party shall be protected by the Copyright Law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The rights enjoyed by foreign radio stations and television stations in the radio and television programmes they broadcast under international treaties to which China is a party shall be protected by the Copyright Law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where an act of infringement listed in Article 48 of the Copyright Law also prejudices the public interest and the unlawful turnover is RMB 50,000 or more, the copyright administration department may impose a fine of not less than one time and not more than five times the unlawful turnover; where there is no unlawful turnover or the unlawful turnover is less than RMB 50,000, the copyright administration department may, in light of the seriousness of the circumstances, impose a fine of not more than RMB 250,000."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an act of infringement listed in Article 48 of the Copyright Law also prejudices the public interest, the copyright administration department of the local people's government shall be responsible for investigating and handling it.\nThe copyright administration department under the State Council may investigate and handle infringements that have a major impact nationwide."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "This Regulation shall come into force on 15 September 2002. The Regulations for the Implementation of the Copyright Law of the People's Republic of China approved by the State Council on 24 May 1991 and promulgated by the National Copyright Administration on 30 May 1991 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0605'] = {
+    "lawId": "CN-REG-0605",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 44 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the construction and administration of nature reserves and protecting the natural environment and natural resources."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, nature reserves mean areas of land, land water bodies or sea areas where protected objects, such as representative natural ecosystems, natural concentrated distribution areas of rare and endangered species of wildlife and plants, and natural relics of special significance, are located, and which are delimited in accordance with law as areas of a certain size for special protection and administration."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "All construction and administration of nature reserves within the territory of the People's Republic of China and other sea areas under the jurisdiction of the People's Republic of China must comply with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall adopt economic and technological policies and measures conducive to the development of nature reserves, and incorporate the development plans of nature reserves into the national economic and social development plans."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The construction and administration of nature reserves shall properly handle the relationship with local economic development and the production and livelihood of the residents."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The management bodies of nature reserves or their competent administrative departments may accept donations from organisations and individuals at home and abroad for the construction and administration of nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The people's governments at or above the county level shall strengthen their leadership over the work of nature reserves.\nAll units and individuals shall have the obligation to protect the natural environment and natural resources within nature reserves, and shall have the right to report and make accusations against units and individuals that damage or occupy nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall implement a management system for nature reserves that combines comprehensive administration with administration by the respective departments.\nThe competent administrative department for environmental protection under the State Council shall be responsible for the comprehensive administration of nature reserves throughout the country.\nThe competent administrative departments under the State Council for forestry, agriculture, geology and mineral resources, water conservancy, marine affairs and other relevant fields shall administer the relevant nature reserves within their respective functions and duties.\nThe establishment and functions of the departments responsible for the administration of nature reserves under the local people's governments at or above the county level shall be determined by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in light of the specific local conditions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Units and individuals that have made outstanding achievements in the construction and administration of nature reserves and in the relevant scientific research shall be rewarded by the people's governments."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A nature reserve shall be established where any of the following conditions is met:\n(a) typical natural geographical areas, areas of representative natural ecosystems, and areas of the same type of natural ecosystem that have been damaged but can be restored through protection;\n(b) natural concentrated distribution areas of rare and endangered species of wildlife and plants;\n(c) sea areas, coasts, islands, wetlands, inland waters, forests, grasslands and deserts with special protection value;\n(d) natural relics such as geological structures, famous karst caves, fossil distribution areas, glaciers, volcanoes and hot springs with major scientific and cultural value;\n(e) other natural areas which, upon approval by the State Council or by the people's government of a province, autonomous region or municipality directly under the Central Government, need to be given special protection."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Nature reserves are divided into national nature reserves and local nature reserves.\nNature reserves that have typical significance at home and abroad, major international influence in science or special value for scientific research shall be listed as national nature reserves.\nNature reserves other than those listed as national nature reserves that have typical significance or important value for scientific research shall be listed as local nature reserves. Local nature reserves may be subject to graded administration; the specific measures shall be formulated by the competent administrative departments under the State Council for the relevant nature reserves or by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in light of the actual circumstances, and shall be reported to the competent administrative department for environmental protection under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For the establishment of a national nature reserve, an application shall be filed by the people's government of the province, autonomous region or municipality directly under the Central Government where the nature reserve is located or by the competent administrative department under the State Council for the relevant nature reserve; after examination by the National Nature Reserve Examination Committee, the competent administrative department for environmental protection under the State Council shall conduct coordination and put forward a proposal for examination and approval, and the matter shall be submitted to the State Council for approval.\nFor the establishment of a local nature reserve, an application shall be filed by the people's government of the county, autonomous county, city or autonomous prefecture where the nature reserve is located or by the competent administrative department for the relevant nature reserve under the people's government of the province, autonomous region or municipality directly under the Central Government; after examination by the Local Nature Reserve Examination Committee, the competent administrative department for environmental protection under the people's government of the province, autonomous region or municipality directly under the Central Government shall conduct coordination and put forward a proposal for examination and approval, and the matter shall be submitted to the people's government of the province, autonomous region or municipality directly under the Central Government for approval, and shall be reported to the competent administrative department for environmental protection under the State Council and the competent administrative department under the State Council for the relevant nature reserve for the record.\nFor the establishment of a nature reserve that spans two or more administrative regions, an application shall be filed after the people's governments of the relevant administrative regions reach agreement through consultation, and examination and approval shall be conducted in accordance with the procedures prescribed in the preceding two paragraphs.\nThe establishment of a maritime nature reserve shall be subject to approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "For an application for the establishment of a nature reserve, an application form for the establishment of the nature reserve shall be filled in in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The boundaries and limits of a nature reserve shall be determined by the people's government that approved the establishment of the nature reserve, the boundaries of the zone shall be marked, and an announcement shall be made.\nThe determination of the boundaries and limits of a nature reserve shall take into account both the integrity and appropriateness of the protected objects and the needs of local economic development and the production and livelihood of the residents."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The rescission of a nature reserve and the adjustment or modification of its nature, boundaries and limits shall be subject to approval by the people's government that originally approved the establishment of the nature reserve.\nNo unit or individual may, without authorisation, move the boundary markers of a nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Nature reserves shall be named in accordance with the following methods:\nNational nature reserve: the name of the place where the nature reserve is located, followed by National Nature Reserve.\nLocal nature reserve: the name of the place where the nature reserve is located, followed by Local Nature Reserve.\nFor a nature reserve with a special protected object, the name of the special protected object may be added after the name of the place where the nature reserve is located."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The competent administrative department for environmental protection under the State Council shall, together with the competent administrative departments under the State Council for the relevant nature reserves, and on the basis of investigations and assessments of the state of the natural environment and natural resources throughout the country, formulate the national development plan for nature reserves; after comprehensive balancing by the planning department under the State Council, the plan shall be submitted to the State Council for approval and implementation.\nThe management body of a nature reserve or the competent administrative department for that nature reserve shall organise the formulation of a construction plan for the nature reserve, incorporate it into the investment plan of the State, of the local area or of the department concerned in accordance with the prescribed procedures, and organise its implementation."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A nature reserve may be divided into a core zone, a buffer zone and an experimental zone.\nWell-preserved natural-state ecosystems within a nature reserve and the concentrated distribution areas of rare and endangered wildlife and plants shall be designated as the core zone, and entry by any unit or individual is prohibited; except with approval in accordance with the provisions of Article 27 of these Regulations, entry for scientific research activities is also not permitted.\nA buffer zone of a certain size may be delimited on the periphery of the core zone, in which entry is permitted only for scientific research and observation activities.\nThe area on the periphery of the buffer zone shall be designated as the experimental zone, in which entry is permitted for activities such as scientific experiments, teaching practice, visits and investigations, and tourism, as well as the domestication and breeding of rare and endangered wildlife and plants.\nWhere the people's government that originally approved the establishment of a nature reserve considers it necessary, an outer protection belt of a certain size may be delimited on the periphery of the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Nature Reserves"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The technical norms and standards for the administration of nature reserves throughout the country shall be formulated by the competent administrative department for environmental protection under the State Council by organising the competent administrative departments under the State Council for the relevant nature reserves.\nThe competent administrative departments under the State Council for the relevant nature reserves may, in accordance with the division of functions and duties, formulate technical norms for the administration of the relevant types of nature reserves, which shall be reported to the competent administrative department for environmental protection under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The competent administrative departments for environmental protection under the people's governments at or above the county level shall have the power to conduct supervision and inspection over the administration of all types of nature reserves within their respective administrative regions; the competent administrative departments under the people's governments at or above the county level for the relevant nature reserves shall have the power to conduct supervision and inspection over the administration of the nature reserves under their administration. The units subject to inspection shall truthfully report the relevant circumstances and provide the necessary materials. The inspectors shall keep technical secrets and business secrets for the units subject to inspection."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A national nature reserve shall be administered by the competent administrative department for the relevant nature reserve under the people's government of the province, autonomous region or municipality directly under the Central Government where it is located, or by the competent administrative department under the State Council for the relevant nature reserve. A local nature reserve shall be administered by the competent administrative department for the relevant nature reserve under the local people's government at or above the county level where it is located.\nThe competent administrative departments for the relevant nature reserves shall establish special management bodies within the nature reserves, staff them with specialised technical personnel, and be responsible for the specific administration of the nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The main functions and duties of the management body of a nature reserve are:\n(a) to implement the laws and regulations of the State on nature conservation and the relevant guidelines and policies;\n(b) to formulate the various management rules of the nature reserve and administer the nature reserve in a unified manner;\n(c) to investigate the natural resources and establish archives, organise environmental monitoring, and protect the natural environment and natural resources within the nature reserve;\n(d) to organise or assist the relevant departments in carrying out scientific research on the nature reserve;\n(e) to conduct publicity and education on nature conservation;\n(f) to organise and carry out visits and tourism and other activities, provided that the natural environment and natural resources of the nature reserve are not affected."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The funds required for the administration of a nature reserve shall be arranged by the local people's government at or above the county level where the nature reserve is located. The State shall give appropriate financial subsidies for the administration of national nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The public security organ at the place where a nature reserve is located may, where necessary, establish a public security sub-station within the nature reserve to maintain public order within the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Units, residents within a nature reserve and persons who have entered the nature reserve with approval must comply with the various management rules of the nature reserve and accept the administration of the management body of the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Activities such as felling, grazing, hunting, fishing, gathering of medicinal herbs, reclamation, burning of wasteland, mining, quarrying and sand extraction are prohibited within nature reserves, except as otherwise provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "No person may enter the core zone of a nature reserve. Where it is necessary to enter the core zone for scientific research, observation or survey activities on account of the needs of scientific research, an application and an activity plan shall be submitted to the management body of the nature reserve in advance and shall be subject to approval by the management body of the nature reserve; where entry is into the core zone of a national nature reserve, approval shall be obtained from the competent administrative department for the relevant nature reserve under the people's government of the province, autonomous region or municipality directly under the Central Government.\nWhere the original residents within the core zone of a nature reserve genuinely need to be relocated, the local people's government at the place where the nature reserve is located shall resettle them properly."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "It is prohibited to carry out tourism or production and business activities in the buffer zone of a nature reserve. Where, for the purposes of teaching and scientific research, it is necessary to enter the buffer zone of a nature reserve to carry out non-destructive scientific research, teaching practice or specimen collection activities, an application and an activity plan shall be submitted to the management body of the nature reserve in advance and shall be subject to approval by the management body of the nature reserve.\nThe units and individuals that carry out the activities prescribed in the preceding paragraph shall submit copies of the results of their activities to the management body of the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where visits or tourism activities are carried out in the experimental zone of a nature reserve, the management body of the nature reserve shall formulate a plan, and the plan shall conform to the management objectives of the nature reserve.\nWhere visits or tourism activities are organised in a nature reserve, they shall be carried out in strict accordance with the plan prescribed in the preceding paragraph and shall be strengthened in administration; units and individuals entering the nature reserve for visits or tourism shall comply with the administration of the management body of the nature reserve.\nIt is strictly prohibited to offer visit or tourism projects that are inconsistent with the direction of protection of the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the interior of a nature reserve is not divided into zones, it shall be administered in accordance with the provisions of these Regulations on the core zone and the buffer zone."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a foreign national enters a nature reserve, an activity plan shall be submitted to the management body of the nature reserve in advance and shall be subject to approval by the management body of the nature reserve; where the foreign national enters a national nature reserve, approval shall be obtained from the competent administrative departments for environmental protection, marine affairs, fisheries and other relevant nature reserves under the people's government of the province, autonomous region or municipality directly under the Central Government in accordance with their respective functions and duties.\nForeign nationals entering a nature reserve shall comply with the laws, regulations and provisions on nature reserves and shall not, without approval, carry out activities such as specimen collection within the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "No production facility may be constructed in the core zone or the buffer zone of a nature reserve. In the experimental zone of a nature reserve, no production facility that pollutes the environment or damages resources or landscapes may be constructed; where other projects are constructed, the discharge of pollutants therefrom shall not exceed the pollutant discharge standards prescribed by the State or the local area. Where a facility already constructed in the experimental zone of a nature reserve discharges pollutants in excess of the discharge standards prescribed by the State or the local area, rectification shall be completed within a prescribed time limit; where damage has been caused, remedial measures must be taken.\nProjects constructed in the outer protection belt of a nature reserve shall not damage the environmental quality within the nature reserve; where damage has already been caused, rectification shall be completed within a prescribed time limit.\nThe decision to complete rectification within a prescribed time limit shall be made by the organ prescribed by laws or regulations, and the enterprise or institution subject to the time-limited rectification must complete the rectification task within the prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Units and individuals that cause or may cause pollution or damage to a nature reserve as a result of an accident or another sudden event must immediately take measures to deal with the matter, promptly notify the units and residents that may be harmed, and report to the management body of the nature reserve, the competent administrative department for environmental protection of the local area and the competent administrative department for the relevant nature reserve, and shall accept investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Units and individuals that violate the provisions of these Regulations and commit any of the following acts shall be ordered by the management body of the nature reserve to rectify the matter and may, in light of the different circumstances, be fined not less than 100 yuan but not more than 5,000 yuan:\n(a) moving or damaging the boundary markers of a nature reserve without authorisation;\n(b) entering a nature reserve without approval or failing to comply with the administration of the management body within a nature reserve;\n(c) failing to submit copies of the results of their activities to the management body of the nature reserve, in the case of units and individuals that have, with approval, carried out scientific research, teaching practice or specimen collection in the buffer zone of a nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Units and individuals that violate the provisions of these Regulations by carrying out within a nature reserve activities such as felling, grazing, hunting, fishing, gathering of medicinal herbs, reclamation, burning of wasteland, mining, quarrying or sand extraction shall, unless punishment may be imposed in accordance with the provisions of the relevant laws or administrative regulations, have their illegal gains confiscated by the competent administrative department for the relevant nature reserve under the people's government at or above the county level or by the management body of the nature reserve authorised thereby, be ordered to stop the illegal act, restore the original state within a prescribed time limit or take other remedial measures; where damage has been caused to the nature reserve, they may be fined not less than 300 yuan but not more than 10,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where the management body of a nature reserve violates the provisions of these Regulations by refusing supervision and inspection by the competent administrative department for environmental protection or by the competent administrative department for the relevant nature reserve, or by resorting to falsification when being inspected, the competent administrative department for environmental protection under the people's government at or above the county level or the competent administrative department for the relevant nature reserve shall impose a fine of not less than 300 yuan but not more than 3,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the management body of a nature reserve violates the provisions of these Regulations and commits any of the following acts, the competent administrative department for the relevant nature reserve under the people's government at or above the county level shall order it to rectify the matter within a prescribed time limit; the persons directly responsible shall be given administrative sanctions by the unit in which they work or by the organ at the next higher level:\n(a) failing to formulate a plan for carrying out visits or tourism activities, or formulating a plan that does not conform to the management objectives of the nature reserve;\n(b) offering visit or tourism projects that are inconsistent with the direction of protection of the nature reserve;\n(c) failing to carry out visits or tourism activities in accordance with the formulated plan;\n(d) unlawfully approving the entry of persons into the core zone of a nature reserve, or unlawfully approving the entry of foreign nationals into a nature reserve;\n(e) committing other acts of abuse of power, dereliction of duty or malpractices for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Units and individuals that violate the provisions of these Regulations and cause losses to a nature reserve shall be ordered by the competent administrative department for the relevant nature reserve under the people's government at or above the county level to compensate for the losses."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a person obstructs the performance of official duties by the administrative personnel of a nature reserve, punishment shall be imposed by the public security organ in accordance with the provisions of the Public Security Administration Punishments Law of the People's Republic of China; where the circumstances are serious and a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations causes a major pollution accident or a major damage accident in a nature reserve, resulting in serious consequences such as major losses to public or private property or personal injury or death, and a crime is constituted, the persons directly in charge and the other persons directly responsible shall be investigated for criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the administrative personnel of a nature reserve abuse their power, neglect their duty or commit malpractices for personal gain, and a crime is constituted, criminal responsibility shall be investigated in accordance with law; where the circumstances are minor and a crime is not constituted, administrative sanctions shall be imposed by the unit in which they work or by the organ at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The competent administrative departments under the State Council for the relevant nature reserves may, in accordance with these Regulations, formulate measures for the administration of the relevant types of nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with these Regulations, formulate implementing measures."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "These Regulations shall come into force on 1 December 1994."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0606'] = {
+    "lawId": "CN-REG-0606",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 48 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated to advance the development of nature reserves with high quality, strengthen the protection and management of nature reserves, comprehensively promote the development of an ecological civilisation and a beautiful China, and accelerate the modernisation of harmony between humanity and nature."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the establishment of nature reserves within the territory of the People's Republic of China and the other sea areas under its jurisdiction, and to the protection and management of nature reserves and related activities.\nFor the purposes of these Regulations, \"nature reserve\" means a specific land or sea area approved for establishment by the State Council or by the people's government of a province, autonomous region or municipality directly under the Central Government, with the main purpose of protecting typical natural ecosystems, naturally concentrated distribution areas of rare and endangered wild animal and plant species, natural relics with special significance and the like, so as to realise the scientific protection and rational utilisation of natural resources."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The development of nature reserves shall implement the lines, principles and policies and the decisions and arrangements of the Party and the State, practise the concept that lucid waters and lush mountains are invaluable assets, adhere to the philosophy of people-centred development, give priority to ecological protection while coordinating protection and development, and suit measures to local conditions and highlight characteristics, so as to build a mechanism featuring government leadership, multi-party participation and social sharing, and realise the unity of ecological protection, green development and the improvement of people's livelihood."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State Council and the local people's governments at or above the county level where nature reserves are located shall strengthen overall coordination of the development of nature reserves, improve policies and measures supporting the development of nature reserves, and incorporate the development of nature reserves into the relevant plans for national economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall establish a diversified fund guarantee system for nature reserves. The people's governments at or above the county level shall include the funds required for the management of nature reserves in their budgets at the corresponding level in accordance with the principles for the division of fiscal powers and expenditure responsibilities.\nThe State shall encourage the provision of support for the development of nature reserves by means of establishing funds, making donations and providing subsidies, among others."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent department for forestry and grassland under the State Council shall be responsible for the supervision and administration of nature reserves nationwide. The relevant departments under the State Council, such as those for natural resources, ecology and environment, water administration, agriculture and rural affairs, and transport, shall be responsible for the relevant supervision and administration of nature reserves within their respective scope of duties.\nThe competent departments for forestry and grassland of the local people's governments at or above the county level shall be responsible for the supervision and administration of nature reserves within their respective administrative regions. Other relevant departments of the local people's governments at or above the county level shall be responsible for the relevant supervision and administration of nature reserves within their respective scope of duties.\nThe management bodies of the nature reserves established in accordance with the provisions shall, in accordance with these Regulations and their prescribed duties, be responsible for the protection and management of the respective nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent department for forestry and grassland under the State Council and the relevant departments shall, according to their duties, establish and improve the system of technical norms and standards relating to nature reserves, and organise the formulation and timely revision of the technical norms and standards relating to nature reserves in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall encourage and support the research, development, application and dissemination of science and technology relating to nature reserves, strengthen the training of professionals in relevant fields relating to nature reserves, and strengthen the supporting role of scientific and technological innovation in the development of nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department for forestry and grassland under the State Council and the relevant departments, the local people's governments at or above the county level where nature reserves are located and their relevant departments, and the management bodies of nature reserves shall organise and carry out publicity and education activities on the protection of nature reserves in various forms.\nNews media shall carry out public welfare publicity on the protection of nature reserves and conduct supervision by public opinion in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall support and promote international exchanges and cooperation in the field of nature reserves through various means."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The establishment of a nature reserve shall satisfy one of the following conditions:\n(a) typical natural geographical regions, natural ecosystem regions, and regions of similar natural ecosystems that have been damaged but can be restored through protection and restoration;\n(b) naturally concentrated distribution areas of rare and endangered wild animal and plant species;\n(c) sea areas, coasts, islands, wetlands, inland waters, forests, grasslands and deserts with special conservation value;\n(d) natural relics such as geological sections, geological structures, concentrated distribution areas of palaeontological fossils, landform landscapes and relics of geological catastrophes with significant scientific and cultural value; and\n(e) other natural regions that need to be specially protected.\nThe establishment of a nature reserve shall be based on fully heeding the opinions of the relevant parties and properly handling the relationship with local economic and social development and the production and livelihood of residents."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Nature reserves are divided into national nature reserves and provincial nature reserves.\nNature reserves that are of typical significance at home and abroad, have significant international influence in science or have special scientific research value, and nature reserves involving national maritime rights and interests, shall be designated as national nature reserves. Other nature reserves shall be designated as provincial nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a national nature reserve is proposed to be established, an application shall be submitted by the people's government of the province, autonomous region or municipality directly under the Central Government where the proposed nature reserve is located, or by the relevant departments under the State Council; after the competent department for forestry and grassland under the State Council organises, together with the relevant departments, a review, it shall put forward suggestions on examination and approval and report them to the State Council for approval.\nWhere a provincial nature reserve is proposed to be established, an application shall be submitted by the people's government of the city with districts or of the county where the proposed nature reserve is located; after the competent department for forestry and grassland of the people's government of the province, autonomous region or municipality directly under the Central Government organises, together with the relevant departments, a review, it shall put forward suggestions on examination and approval and report them to the people's government of the province, autonomous region or municipality directly under the Central Government for approval, with copies sent to the competent department for forestry and grassland under the State Council and the relevant departments.\nWhere a proposed nature reserve spans two or more administrative regions, except where an application is submitted by the relevant departments under the State Council, the application shall be submitted by the people's governments of the relevant administrative regions after they reach agreement through consultation, and shall be examined and approved in accordance with the procedures prescribed in paragraph 1 or paragraph 2 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A national nature reserve shall be named after the name of the place where it is located plus \"National Nature Reserve\"; a provincial nature reserve shall be named after the name of the place where it is located plus \"Provincial Nature Reserve\". Where a nature reserve has special protection targets, the name of the special protection targets may be added after the name of the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The delineation of the boundaries and zones of a nature reserve shall take into overall account the integrity of the distribution areas of protection targets such as natural ecosystems, the feasibility of management and the needs of the surrounding economic and social development, adhere to a realistic, scientific and rational approach, and be based on full investigation and scientific demonstration.\nProtected areas of the nature park type shall no longer be retained within the boundaries and zones of a nature reserve. Where a nature reserve is entirely included within the boundaries and zones of a national park, it shall no longer be retained; where it is partially included, the portion not included shall, after scientific evaluation and approval in accordance with the prescribed procedures, be integrated or revoked."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A nature reserve shall be divided into a core protection zone and a general control zone, and zoned control shall be implemented.\nThe following areas of a nature reserve shall be designated as the core protection zone:\n(a) areas where the natural ecosystem is preserved intact or where the ecosystem is fragile and needs to rest and recuperate;\n(b) key distribution areas of rare and endangered wild animal and plant species and important nodes of ecological corridors;\n(c) concentrated distribution areas of important natural relics; and\n(d) other areas that need to be protected as a priority.\nAreas outside the core protection zone shall be designated as the general control zone."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After a nature reserve is established, the people's government of the province, autonomous region or municipality directly under the Central Government where the nature reserve is located shall, in accordance with the relevant provisions, promptly organise the completion of the boundary survey of the nature reserve; for a nature reserve involving national maritime rights and interests, the relevant departments under the State Council shall organise the completion of the boundary survey. The management body of a nature reserve shall, according to the needs of protection and management, promptly set up boundary markers such as boundary monuments and stakes, electronic signs or electronic fences.\nThe damage, alteration, obstruction, or dismantling or moving without authorisation, of the boundary markers of a nature reserve is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The names, the boundaries and zones, and the control sub-zones of national nature reserves and provincial nature reserves shall be officially replied to by the State Council and by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government where they are located at the time of approving their establishment, and shall be published in accordance with the law by the competent department for forestry and grassland under the State Council and by the competent departments for forestry and grassland of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government where they are located, respectively.\nThe competent department for forestry and grassland under the State Council and the competent departments for forestry and grassland of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall share with the relevant departments information such as the coordinates of the boundaries and zones and of the control sub-zones of nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the living environment of the main protection targets of a nature reserve has undergone significant changes and it is truly necessary to adjust the boundaries and zones of the nature reserve, the adjustment shall be subject to the approval of the people's government that originally approved the establishment of the nature reserve in accordance with the procedures for the establishment of nature reserves. A change in the name of a nature reserve shall be handled in accordance with the aforementioned procedures.\nThe adjustment of the control sub-zones of national nature reserves and provincial nature reserves shall be subject to the approval of the competent department for forestry and grassland under the State Council and of the competent departments for forestry and grassland of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government where they are located, respectively, after a review is organised together with the relevant departments at the same level.\nAfter a nature reserve is established, it shall not in principle be revoked; where it loses its conservation value due to special circumstances, it may be revoked upon the approval of the people's government that originally approved its establishment."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Nature Reserves"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State shall adhere to the integrated protection of mountains, rivers, forests, farmlands, lakes, grasslands and deserts, and, according to the characteristics and inherent laws of natural ecosystems, implement overall protection, systematic restoration and comprehensive governance of nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "On the basis of comprehensive scientific surveys and special investigations, the management body of a nature reserve shall, according to needs, organise the formulation of the relevant plans for the nature reserve under its management (hereinafter referred to as the nature reserve plan), specifying the targets and tasks of protection and management, the protection targets, the management requirements, the protection measures and other matters, and making arrangements for the production and livelihood activities of the original residents, among others. The organisation of the formulation of a nature reserve plan shall be based on extensively heeding the opinions of the relevant parties and conducting in-depth demonstration.\nThe plan for a national nature reserve shall, after being reviewed and agreed to by the competent department for forestry and grassland of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located, be reported to the competent department for forestry and grassland under the State Council for approval and implementation; the plan for a nature reserve involving national maritime rights and interests shall, after being reviewed and agreed to by the relevant departments under the State Council, be reported to the competent department for forestry and grassland under the State Council for approval and implementation. The plan for a provincial nature reserve shall be reported to the competent department for forestry and grassland of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located for approval and implementation. Before a plan is examined and approved, the opinions of the relevant departments at the same level shall be solicited.\nA nature reserve plan shall be aligned with the plans for national economic and social development and the overall territorial space plan, among others, be incorporated into the information system for supervising the implementation of the territorial space plan, and be subject to unified supervision. A nature reserve plan shall be made public in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The management body of a nature reserve shall, on the basis of laws, regulations, the relevant provisions of the State and the nature reserve plan, establish and improve the rules and regulations for the protection and management of the nature reserve and strengthen the day-to-day protection and management of the nature reserve.\nUnits and individuals within the boundaries and zones of a nature reserve and persons entering the nature reserve shall comply with laws, regulations and the rules and regulations for the protection and management of the nature reserve, and accept the management of the management body of the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The natural resources within the boundaries and zones of a nature reserve shall be registered for the confirmation of rights in accordance with the relevant provisions of the State on the registration of the confirmation of rights over natural resources, and the nature reserve shall be treated as an independent registration unit in the registration of the confirmation of rights."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall strengthen the development of the monitoring network system for nature reserves, give full play to the role of various monitoring stations, and use information-based means to strengthen the integrated analysis, sharing and comprehensive application of monitoring data, so as to fully grasp the composition and distribution of natural ecosystems, their dynamic changes, the state of biodiversity, the quality of the ecological environment and the interference of human activities, and to assess and give early warning of ecological risks in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The restoration of damaged natural ecosystems, the connectivity of ecological corridors and the restoration of important habitats within the boundaries and zones of a nature reserve shall be based mainly on natural restoration; where it is truly necessary to carry out artificial restoration activities such as population regulation and tree species renewal, the opinions of the relevant parties shall be fully heeded, and a scientific and rational restoration plan shall be formulated and implemented in accordance with the law in accordance with the relevant provisions.\nThe management body of a nature reserve shall take measures to strengthen the prevention of and response to the invasion of alien species, safeguard ecosystem security and improve ecosystem quality."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Except for the following activities, human activities are prohibited within the core protection zone of a nature reserve:\n(a) activities such as investigation and monitoring, ecological restoration, management, protection and patrol carried out for the protection of the nature reserve, activities of scientific research and observation, basic surveying and mapping, the protection of cultural relics and other cultural heritage, disaster prevention and mitigation, and emergency rescue, as well as activities that state organs truly need to carry out in performing their law enforcement duties in accordance with the law;\n(b) the production and livelihood activities necessary for the original residents, and the operation, maintenance and renovation of existing important infrastructure that is truly necessary to retain and cannot be avoided;\n(c) the construction of linear infrastructure that is indispensable and unavoidable and crosses underground, underwater or through the air by means of ecologically and environmentally harmless methods;\n(d) activities that are truly necessary for safeguarding national security and implementing major national strategies, and the construction of major national projects that cannot be avoided; and\n(e) other activities provided by laws and administrative regulations or approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Within the general control zone of a nature reserve, only the following human activities are allowed:\n(a) activities allowed in the core protection zone;\n(b) the construction, operation and maintenance of important infrastructure that complies with the territorial space plan and cannot be avoided;\n(c) the investigation and excavation of palaeontological fossils, basic geological surveys, prospective surveys of strategic mineral resources and the exploration of strategic mineral resources within the prescribed scope;\n(d) the rewilding and breeding of rare and endangered wild animals and plants, and non-destructive specimen collection activities;\n(e) forest management activities such as the tending and tree species renewal of artificial commercial forests that are consistent with the conservation targets of the nature reserve;\n(f) public service activities such as science popularisation and publicity, ecotourism, education, culture and sports; and\n(g) other activities provided by laws and administrative regulations or approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "For nature reserves falling under the following circumstances, differentiated control measures may be implemented after scientific demonstration and on the premise of ensuring the safety of the main protection targets and not impairing ecological functions:\n(a) for a nature reserve whose main protection targets are natural relics, necessary facilities such as protection, display and exhibition facilities may be constructed in the core protection zone, and public service activities such as the investigation and excavation of palaeontological fossils and appropriate science popularisation and publicity, ecotourism, education, culture and sports may be carried out;\n(b) for a nature reserve whose main protection targets are located underground, the above-ground part of its core protection zone may be protected and managed as the general control zone; and\n(c) for a nature reserve where natural ecological processes and the survival and reproduction of the main protection targets have obvious seasonal variation patterns, seasonal differentiated control measures may be implemented."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The production and livelihood activities of the original residents within the boundaries and zones of a nature reserve shall be premised on not exceeding the existing scale and intensity of utilisation and on rationally improving the conditions of production and livelihood.\nWhere, according to the needs of protection and management, it is truly necessary for the original residents within the boundaries and zones of a nature reserve to move out, they shall be properly resettled by the relevant local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Without approval, foreigners shall not engage in specimen collection or other activities within the boundaries and zones of a nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the activities prescribed in Article 26, Article 27 or Article 28 of these Regulations are carried out in a nature reserve and the relevant formalities need to be handled in accordance with the law, the relevant units and individuals shall handle them in accordance with the law; where the construction of facilities is involved, the consent of the competent department for forestry and grassland under the State Council or of the competent department for forestry and grassland of the people's government of the province, autonomous region or municipality directly under the Central Government where the nature reserve is located shall also be obtained, except for the production and livelihood activities necessary for the original residents, the operation and maintenance of existing linear infrastructure, and the construction by the management body of the nature reserve, on the basis of the nature reserve plan, of facilities for management, protection and patrol, scientific research and observation, science popularisation and publicity, and disaster prevention and mitigation.\nUnits and individuals carrying out investigation and monitoring, scientific research and observation, and specimen collection in a nature reserve shall submit the results of the relevant activities as required by the management body of the nature reserve. Where the activities prescribed in Article 26, Article 27 or Article 28 of these Regulations are carried out in a nature reserve, necessary measures shall be taken to avoid or reduce adverse effects on natural ecosystems, ecological corridors, important habitats, and natural and cultural landscapes. The management body of a nature reserve shall, according to the actual circumstances and needs, specify the boundaries and intensity of the relevant activities and the protective measures to be taken, among others."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The management body of a nature reserve shall establish a day-to-day patrol system, rationally equip patrol personnel and patrol equipment, and strengthen the development of patrol stations. Patrol personnel shall observe and record the habitat conditions of the main protection targets and their changes, and dissuade, stop and promptly report acts violating the provisions on the protection and management of the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The management body of a nature reserve shall formulate an emergency response plan for emergencies in the nature reserve, strengthen coordination and cooperation with the relevant departments of the local people's government, do a good job in disaster prevention and mitigation, safety management, emergency support and other relevant work, and improve emergency support capacity."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "On the premise of ensuring that the ecology is protected, the management body of a nature reserve shall improve the public service system of the nature reserve and enhance its public service functions. Appropriate areas may be designated in the general control zone of a nature reserve and necessary auxiliary facilities and equipment may be set up to provide support for public service activities such as relevant scientific research, science popularisation and publicity, ecotourism, education, culture and sports.\nThe management body of a nature reserve shall strengthen the management of and services for visitors to the nature reserve, rationally determine visitor capacity, specify codes of conduct for visitors, provide necessary accessible services in accordance with the relevant provisions of the State, and improve relevant mechanisms such as visitor safety guarantees and emergency assistance.\nNo visit or tourism project inconsistent with the conservation targets may be opened within the boundaries and zones of a nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The competent departments for forestry and grassland of the people's governments at or above the county level, the relevant departments such as those for natural resources, ecology and environment, water administration, and agriculture and rural affairs, and the management bodies of nature reserves shall, according to their duties, strengthen supervision and inspection of the protection of nature reserves and investigate and punish illegal acts in accordance with the law.\nThe coast guard authorities shall, in accordance with the provisions of the Coast Guard Law of the People's Republic of China and within their scope of duties, conduct supervision and inspection of the protection of the seaward side of the coastline within the boundaries and zones of nature reserves, and investigate and punish illegal acts in accordance with the law.\nSupervision and inspection personnel conducting supervision and inspection shall proactively present their law enforcement certificates. The units and individuals under inspection shall cooperate and shall not refuse or obstruct.\nPublic security organs may, according to needs, set up work stations in nature reserves and carry out ecological police work.\nWhere relevant state organs perform their statutory duties in a nature reserve in accordance with the law, the management body of the nature reserve shall provide necessary facilitation."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Any unit or individual shall have the right to report acts violating the provisions on the protection and management of nature reserves to the management body of a nature reserve or the relevant departments, and the management body of the nature reserve and the relevant departments receiving the report shall handle the matter in a timely manner in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The management body of a nature reserve shall make public, in a timely manner and in accordance with the law, information on the protection and management of the nature reserve and other work, and consciously accept supervision by society and by public opinion."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration of Nature Reserves"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a staff member of the management body of a nature reserve, of a local people's government at or above the county level or its relevant departments, or of the relevant departments under the State Council abuses power, neglects duty or engages in malpractices for personal gain in the protection and management of a nature reserve or other work, a disciplinary sanction shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A person who damages, alters, obstructs, or dismantles or moves without authorisation, the boundary markers of a nature reserve shall be ordered by the management body of the nature reserve to stop the illegal act and take remedial measures, and may be fined not more than 20,000 yuan; where losses are caused, the person shall bear liability for compensation in accordance with the law.\nWhere a unit or individual carrying out investigation and monitoring, scientific research and observation, or specimen collection in a nature reserve fails to submit the results of the relevant activities to the management body of the nature reserve, it shall be ordered by the management body of the nature reserve to rectify and may be fined not more than 5,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an activity other than those prescribed in Article 26 of these Regulations is carried out within the core protection zone of a nature reserve, the relevant departments of the people's government at or above the county level, such as those for forestry and grassland, natural resources, ecology and environment, water administration, and agriculture and rural affairs, shall, according to the division of duties, order the cessation of the illegal act and the confiscation of illegal gains, and may impose a fine of not more than 100,000 yuan; where the illegal construction of facilities or the carrying out of project construction is involved, the party concerned shall be ordered to dismantle the facilities within a prescribed time limit and restore the original state, and shall be fined not less than 100,000 yuan but not more than 1 million yuan; where ecological damage is caused, the party concerned shall be ordered to carry out restoration within a prescribed time limit or take other remedial measures, and shall be fined not less than 1 million yuan but not more than 5 million yuan."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an activity other than those prescribed in Article 27 of these Regulations is carried out within the general control zone of a nature reserve, the relevant departments of the people's government at or above the county level, such as those for forestry and grassland, natural resources, ecology and environment, water administration, and agriculture and rural affairs, shall, according to the division of duties, order the cessation of the illegal act and the confiscation of illegal gains, and may impose a fine of not more than 50,000 yuan; where the illegal construction of facilities or the carrying out of project construction is involved, the party concerned shall be ordered to dismantle the facilities within a prescribed time limit and restore the original state, and shall be fined not less than 50,000 yuan but not more than 500,000 yuan; where ecological damage is caused, the party concerned shall be ordered to carry out restoration within a prescribed time limit or take other remedial measures, and shall be fined not less than 500,000 yuan but not more than 2 million yuan."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an original resident within the boundaries and zones of a nature reserve carries out production and livelihood activities in violation of the provisions of paragraph 1 of Article 29 of these Regulations, the resident shall be ordered by the management body of the nature reserve to rectify and, according to the seriousness of the circumstances, may be fined not more than 2,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the activities prescribed in Article 26, Article 27 or Article 28 of these Regulations are carried out within the boundaries and zones of a nature reserve but necessary measures are not taken to avoid or reduce adverse effects on natural ecosystems, ecological corridors, important habitats, and natural and cultural landscapes, the relevant departments of the people's government at or above the county level, such as those for forestry and grassland, natural resources, ecology and environment, water administration, and agriculture and rural affairs, shall, according to the division of duties, order rectification and may impose a fine of not more than 100,000 yuan; where ecological damage is caused, the party concerned shall be ordered to carry out restoration within a prescribed time limit or take other remedial measures, and, where the relevant activity is carried out in the core protection zone, shall be fined not less than 100,000 yuan but not more than 500,000 yuan, or, where the activity is carried out in the general control zone, shall be fined not less than 50,000 yuan but not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an illegal act prescribed in Article 40, Article 41 or Article 43 of these Regulations occurs on the seaward side of the coastline within the boundaries and zones of a nature reserve, the coast guard authorities shall impose a penalty in accordance with the law within their scope of duties.\nWhere the amount of a fine prescribed by the relevant administrative regulations is higher than that prescribed by these Regulations for an illegal act prescribed in Article 40, Article 41 or Article 43 of these Regulations, the provisions of the administrative regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a unit or individual within the boundaries and zones of a nature reserve or a person entering the nature reserve fails to obey the management of the management body of the nature reserve, the management body of the nature reserve shall have the right to dissuade or stop the conduct; where the conduct constitutes a breach of public security administration such as disturbing public order, a penalty for public security administration shall be imposed by the public security organ in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Anyone who violates the provisions of these Regulations by damaging natural resources or polluting the environment or damaging the ecology shall bear civil liability in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "For a nature reserve involving national maritime rights and interests, the competent department for forestry and grassland under the State Council shall, together with the relevant departments, formulate specific administrative measures in accordance with these Regulations.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government may formulate implementing measures in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "These Regulations shall enter into force on 15 March 2026."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0608'] = {
+    "lawId": "CN-REG-0608",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 26 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to improve the quality of varieties of traditional Chinese medicines, protect the lawful rights and interests of enterprises producing traditional Chinese medicines and promote the development of the traditional Chinese medicine undertaking, these Regulations are formulated."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to varieties of traditional Chinese medicines manufactured within the territory of China, including Chinese patent medicines, extracts of natural medicines and their preparations, and artificially manufactured finished products of traditional Chinese medicine.\nVarieties of traditional Chinese medicines for which a patent is applied for shall be handled in accordance with the provisions of the Patent Law and these Regulations shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State encourages the research and development of clinically effective varieties of traditional Chinese medicines, and implements a system of protection by grade for varieties of traditional Chinese medicines with stable quality and definite therapeutic effect."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The drug regulatory department of the State Council shall be responsible for the supervision and administration of the protection of varieties of traditional Chinese medicines throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "A variety of traditional Chinese medicine protected under these Regulations must be a variety included in the national drug standards. A variety that has been recognised by the drug regulatory department of the State Council and listed in the drug standards of a province, autonomous region or municipality directly under the Central Government may also apply for protection.\nProtected varieties of traditional Chinese medicines are divided into Grade I and Grade II."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Approval of Grades of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A variety of traditional Chinese medicine meeting any of the following conditions may apply for Grade I protection:\n(a) it has a special therapeutic effect on a specific disease;\n(b) it is an artificially manufactured finished product equivalent to a species of wild medicinal material under Grade I State protection;\n(c) it is used for the prevention and treatment of a specific disease."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Approval of Grades of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A variety of traditional Chinese medicine meeting any of the following conditions may apply for Grade II protection:\n(a) it is a variety conforming to the provisions of Article 6 of these Regulations or a variety for which Grade I protection has already been released;\n(b) it has a marked therapeutic effect on a specific disease;\n(c) it is an effective substance or a special preparation extracted from natural medicines."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Approval of Grades of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "New drugs approved by the drug regulatory department of the State Council shall be protected for the protection period prescribed by the drug regulatory department of the State Council; where such a drug conforms to the provisions of Article 6 or Article 7 of these Regulations, protection may, within six months before the expiry of the protection period approved by the drug regulatory department of the State Council, be applied for anew in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Approval of Grades of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The procedure for applying for protection of a variety of traditional Chinese medicine is as follows:\n(a) an enterprise producing traditional Chinese medicines may, in respect of a variety of traditional Chinese medicine it produces that conforms to the provisions of Article 5, Article 6, Article 7 or Article 8 of these Regulations, apply to the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where it is located, and the said department shall, after preliminary examination and signing its opinion, report the application to the drug regulatory department of the State Council. Under special circumstances, the enterprise producing traditional Chinese medicines may also apply directly to the drug regulatory department of the State Council.\n(b) the drug regulatory department of the State Council shall entrust the National Committee for the Evaluation of Protected Varieties of Traditional Chinese Medicine with the evaluation of the variety of traditional Chinese medicine for which protection is applied. The National Committee for the Evaluation of Protected Varieties of Traditional Chinese Medicine shall reach an evaluation conclusion within six months from the date of receipt of the application report.\n(c) on the basis of the evaluation conclusion of the National Committee for the Evaluation of Protected Varieties of Traditional Chinese Medicine, the drug regulatory department of the State Council shall decide whether to grant protection. For an approved protected variety of traditional Chinese medicine, the drug regulatory department of the State Council shall issue a Certificate of Protected Variety of Traditional Chinese Medicine.\nThe drug regulatory department of the State Council shall be responsible for organising the National Committee for the Evaluation of Protected Varieties of Traditional Chinese Medicine, whose members shall be experts in traditional Chinese medicine in the fields of medical treatment, scientific research, inspection, and business and administration engaged by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Approval of Grades of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "An enterprise applying for protection of a variety of traditional Chinese medicine shall, in accordance with the provisions of the drug regulatory department of the State Council, submit complete materials to the National Committee for the Evaluation of Protected Varieties of Traditional Chinese Medicine."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Approval of Grades of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Approved protected varieties of traditional Chinese medicines and varieties of traditional Chinese medicines whose protection period has expired shall be announced by the drug regulatory department of the State Council in designated professional newspapers and periodicals."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Approval of Grades of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The protection periods for protected varieties of traditional Chinese medicines are as follows:\nFor Grade I protected varieties of traditional Chinese medicines, the periods are 30 years, 20 years and 10 years respectively.\nThe period for a Grade II protected variety of traditional Chinese medicine is seven years."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The prescription composition and the manufacturing process of a Grade I protected variety of traditional Chinese medicine shall, within the protection period, be kept confidential by the enterprise that has obtained the Certificate of Protected Variety of Traditional Chinese Medicine and by the relevant drug regulatory departments and the relevant units and individuals, and shall not be made public.\nThe relevant departments, enterprises and units bearing the duty of confidentiality shall, in accordance with the relevant State provisions, establish the necessary confidentiality systems."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the prescription composition or manufacturing process of a Grade I protected variety of traditional Chinese medicine is transferred abroad, the matter shall be handled in accordance with the relevant State provisions on confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where the protection period of a Grade I protected variety of traditional Chinese medicine needs to be extended under special circumstances, the producing enterprise shall, six months before the expiry of the protection period of that variety, file an application in accordance with the procedure prescribed in Article 9 of these Regulations. The extended protection period shall be determined by the drug regulatory department of the State Council on the basis of the evaluation result of the National Committee for the Evaluation of Protected Varieties of Traditional Chinese Medicine; however, the protection period extended each time shall not exceed the protection period approved for the first time."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The protection period of a Grade II protected variety of traditional Chinese medicine may be extended by seven years after its expiry.\nFor a Grade II protected variety of traditional Chinese medicine for which an extension of the protection period is applied, the producing enterprise shall, six months before the expiry of the protection period, file an application in accordance with the procedure prescribed in Article 9 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "An approved protected variety of traditional Chinese medicine shall, within the protection period, be produced only by the enterprise that has obtained the Certificate of Protected Variety of Traditional Chinese Medicine; however, this shall not apply where Article 19 of these Regulations provides otherwise."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a variety of traditional Chinese medicine approved for protection by the drug regulatory department of the State Council was produced by several enterprises before approval, an enterprise among them that has not applied for the Certificate of Protected Variety of Traditional Chinese Medicine shall, within six months from the date of publication of the announcement, file a declaration with the drug regulatory department of the State Council and provide the relevant materials in accordance with the provisions of Article 10 of these Regulations, and the drug regulatory department of the State Council shall designate a drug inspection institution to conduct a quality inspection of the declared variety against the same variety. On the basis of the inspection result, the drug regulatory department of the State Council may take the following measures:\n(a) for a variety that meets the national drug standards, issue the Certificate of Protected Variety of Traditional Chinese Medicine additionally;\n(b) for a variety that does not meet the national drug standards, revoke the approval number of that variety of traditional Chinese medicine in accordance with the provisions of the laws and administrative regulations on drug administration."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The imitation of a protected variety of traditional Chinese medicine that is in short supply for clinical use must be approved by the drug regulatory department of the State Council, which shall issue an approval number. The imitating enterprise shall pay a reasonable royalty to the enterprise that holds the Certificate of Protected Variety of Traditional Chinese Medicine and has transferred the prescription composition and manufacturing process of that variety of traditional Chinese medicine; the amount shall be agreed upon by both parties; where the parties fail to reach an agreement, it shall be ruled upon by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "An enterprise producing a protected variety of traditional Chinese medicine shall, in accordance with the requirements put forward by the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government, improve production conditions and raise the quality of the variety."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where an application is made abroad for the registration of a protected variety of traditional Chinese medicine within the protection period, it must be approved by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Protected Traditional Chinese Medicine Varieties"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the provisions of Article 13 of these Regulations are violated and a confidentiality breach is caused, administrative sanctions shall be imposed on the responsible personnel by the unit to which they belong or by the organ at the higher level; where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Penalty Provisions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the provisions of Article 17 of these Regulations are violated by imitating a protected variety of traditional Chinese medicine without authorisation, the department responsible for drug supervision and administration of the people's government at or above the county level shall deal with the matter as the production of counterfeit drugs in accordance with law.\nWhere the Certificate of Protected Variety of Traditional Chinese Medicine or the relevant supporting documents are forged for production or sale, the department responsible for drug supervision and administration of the people's government at or above the county level shall confiscate all the drugs concerned and the illegal gains and may impose a fine of not more than three times the price of the genuine drugs concerned.\nWhere the above acts constitute a crime, the judicial organ shall investigate criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Penalty Provisions"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a party is dissatisfied with a penalty decision of the department responsible for drug supervision and administration, it may, in accordance with the provisions of the relevant laws and administrative regulations, apply for administrative reconsideration or institute administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Penalty Provisions"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The declaration requirements, declaration forms and the like for protected varieties of traditional Chinese medicines shall be formulated by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 1993."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
 
   TR['CN-REG-0609'] = {
     "lawId": "CN-REG-0609",
@@ -108,6 +5583,4818 @@
         },
         "noLabel": {
           "en": "Article 10."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0610'] = {
+    "lawId": "CN-REG-0610",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 15 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in order to regulate the charging of arbitration fees by arbitration commissions."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a party applies for arbitration, it shall pay arbitration fees to the arbitration commission in accordance with the provisions of these Measures. The arbitration fees include the case acceptance fee and the case handling fee."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The case acceptance fee is used for the remuneration of arbitrators and for the necessary expenses of maintaining the normal operation of the arbitration commission."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The applicant shall, within 15 days from the date of receiving the notice of acceptance issued by the arbitration commission, pay the case acceptance fee in advance in accordance with the provisions of the Schedule of Case Acceptance Fees for Arbitration. The respondent shall, at the same time as it submits a counterclaim, pay the case acceptance fee in advance in accordance with the provisions of the Schedule of Case Acceptance Fees for Arbitration.\nThe specific rates of the case acceptance fee for arbitration shall be determined by the arbitration commission within the range provided in the Schedule of Case Acceptance Fees for Arbitration, and shall be submitted to the price administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where the arbitration commission is located for approval."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The amount in dispute stated in the Schedule of Case Acceptance Fees for Arbitration shall be the amount claimed by the applicant; where the amount claimed is inconsistent with the actual amount in dispute, the actual amount in dispute shall prevail.\nWhere the amount in dispute is not determined at the time of applying for arbitration, the arbitration commission shall determine the amount of the case acceptance fee to be collected in advance on the basis of the specific circumstances of the rights and interests involved in the dispute."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a party indeed has difficulty in paying the case acceptance fee in advance, it may, upon its own application and with the approval of the arbitration commission, defer payment.\nWhere a party fails to pay the case acceptance fee in advance within the time limit provided in paragraph 1 of Article 4 of these Measures and does not apply for deferred payment, it shall be deemed to have withdrawn the application for arbitration."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The case handling fee includes:\n(a) the accommodation, travel and other reasonable expenses incurred by arbitrators in travelling on business and holding hearings for the arbitration case;\n(b) the accommodation and travel expenses and the compensation for loss of working time incurred by witnesses, expert witnesses, interpreters and others in attending the hearing;\n(c) expenses for consultation, expert appraisal, inspection, translation and the like;\n(d) expenses for copying and serving case materials and documents;\n(e) other reasonable expenses that should be borne by the parties.\nThe case handling fees provided in subparagraphs (b) and (c) of this Article shall be paid in advance by the party that makes the application."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The rates for the case handling fee shall be implemented in accordance with the relevant provisions of the State; where the State has no such provisions, a reasonable amount shall be charged on the basis of actual expenditure."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In principle, the arbitration fees shall be borne by the losing party; where a party wins in part and loses in part, the arbitral tribunal shall determine the proportion of the arbitration fees to be borne by each party according to the extent of the responsibility of each party. Where the parties settle on their own or the case is concluded through mediation by the arbitral tribunal, the parties may determine by agreement the proportion of the arbitration fees to be borne by each of them.\nThe arbitral tribunal shall state in the mediation statement or the award the amount of arbitration fees ultimately payable by both parties."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In accordance with the provisions of Article 61 of the Arbitration Law, where the arbitral tribunal agrees to conduct the arbitration anew, the arbitration commission shall not collect the case acceptance fee again.\nWhere the arbitral tribunal corrects, in accordance with law, clerical or computational errors in the award, or matters that have been ruled upon but are omitted from the award, no fee shall be charged."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where an applicant, having been notified in writing, fails to appear before the tribunal without justified reason or withdraws from the hearing midway without the permission of the arbitral tribunal, it may be deemed to have withdrawn the application for arbitration, and the case acceptance fee and the handling fee shall not be refunded."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where, after the arbitration commission has accepted the application for arbitration and before the arbitral tribunal is formed, the applicant withdraws the application for arbitration, or the parties reach a settlement agreement on their own and withdraw the application for arbitration, the case acceptance fee shall be refunded in full.\nWhere, after the arbitral tribunal is formed, the applicant withdraws the application for arbitration, or the parties reach a settlement agreement on their own and withdraw the application for arbitration, part of the case acceptance fee shall be refunded as appropriate in light of the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The provisions of Article 5 and Article 12 of these Measures shall likewise apply where the respondent makes a counterclaim."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In collecting the case acceptance fee for arbitration, the arbitration commission shall use the fee receipts uniformly printed by the finance department of the people's government of the province, autonomous region or municipality directly under the Central Government, and shall, in accordance with the relevant provisions of the State, establish and improve its financial accounting system, strengthen the management of finances and of revenue and expenditure, and accept supervision by the finance, audit, taxation, price and other departments."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "These Measures shall come into force on 1 September 1995.\nAppendix:\nSchedule of Case Acceptance Fees for Arbitration Cases of Arbitration Commissions\nAmount in dispute (RMB)                    Case acceptance fee (RMB)\nPortion not exceeding RMB 1,000            RMB 40-100\nPortion from RMB 1,001 to RMB 50,000       4 per cent to 5 per cent of the amount\nPortion from RMB 50,001 to RMB 100,000     3 per cent to 4 per cent of the amount\nPortion from RMB 100,001 to RMB 200,000    2 per cent to 3 per cent of the amount\nPortion from RMB 200,001 to RMB 500,000    1 per cent to 2 per cent of the amount\nPortion from RMB 500,001 to RMB 1,000,000  0.5 per cent to 1 per cent of the amount\nPortion above RMB 1,000,001                0.25 per cent to 0.5 per cent of the amount"
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0611'] = {
+    "lawId": "CN-REG-0611",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 49 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to rapidly control and eliminate major animal epidemics, safeguard the safety of animal production, protect public health and safety, and maintain normal social order, these Regulations are formulated in accordance with the Animal Disease Prevention Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, a major animal epidemic means a situation in which an animal disease with high morbidity or mortality, such as highly pathogenic avian influenza, occurs suddenly and spreads rapidly, posing a serious threat to or harm to the safety of animal production, and possibly endangering public health and safety, including a particularly major animal epidemic."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Emergency response to major animal epidemics shall adhere to the principles of strengthening leadership and close coordination, relying on science and lawful prevention and control, and mass prevention, mass control and resolute handling, so as to detect epidemics in a timely manner, respond rapidly, handle them strictly and reduce losses."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Emergency response to major animal epidemics shall, in accordance with the principle of territorial management, be carried out under the unified leadership of the government and with the division of responsibilities among departments, and a responsibility system shall be established level by level.\nThe competent departments for veterinary medicine of the people's governments at or above the county level shall be specifically responsible for organising emergency response work such as the monitoring, investigation, control and elimination of major animal epidemics.\nThe competent departments for forestry and the competent departments for veterinary medicine of the people's governments at or above the county level shall, on the basis of the division of duties, strengthen the monitoring of epidemic sources and diseases in terrestrial wild animals.\nThe other relevant departments of the people's governments at or above the county level shall, within their respective scope of duties, carry out emergency response work for major animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The entry and exit inspection and quarantine organs shall collect information on major animal epidemics abroad in a timely manner, strengthen the inspection and quarantine of animals and animal products entering and leaving the country, and prevent the introduction and spread of animal diseases. The competent departments for veterinary medicine shall promptly notify the entry and exit inspection and quarantine organs of major animal epidemics in the country."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall encourage and support scientific research and international exchanges and cooperation on technologies relating to the monitoring, prevention and emergency handling of major animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The people's governments at or above the county level shall provide appropriate subsidies to persons participating in the emergency handling of major animal epidemics, and commend and reward those who make contributions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Any entity or individual shall have the right to report and accuse any act of failing to perform, or failing to perform as required, the duties of emergency handling of a major animal epidemic."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department for veterinary medicine under the State Council shall formulate a national emergency response plan for major animal epidemics, submit it to the State Council for approval, and, according to the different types of animal diseases and their epidemic characteristics and the degree of harm, formulate separate implementation plans and submit them to the State Council for the record.\nThe local people's governments at or above the county level shall, in light of the actual conditions of their respective regions, formulate emergency response plans for major animal epidemics within their respective administrative regions and submit them to the competent department for veterinary medicine of the people's government at the next higher level for the record. The competent departments for veterinary medicine of the local people's governments at or above the county level shall, according to the different types of animal diseases and their epidemic characteristics and the degree of harm, formulate separate implementation plans.\nEmergency response plans for major animal epidemics and their implementation plans shall be promptly revised and improved in light of the development and evolution of the epidemic situation and the implementation of the plans."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Emergency Preparedness"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The emergency response plan for a major animal epidemic shall mainly include the following contents:\n(a) the duties and composition of the emergency response headquarters and the division of work among its member entities;\n(b) the monitoring of major animal epidemics and the collection, reporting and notification of information;\n(c) the confirmation of animal diseases, the classification of major animal epidemics and the corresponding emergency response work plans;\n(d) the tracing of epidemic sources of major animal epidemics and epidemiological investigation and analysis;\n(e) the sources of funds, and the stockpiling and deployment of materials and technologies, required for the prevention, control and elimination of major animal epidemics; and\n(f) the building of emergency response facilities for major animal epidemics and professional teams."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Emergency Preparedness"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The relevant departments under the State Council and the local people's governments at or above the county level and their relevant departments shall, in accordance with the requirements of the emergency response plan for major animal epidemics, ensure the stockpiling of materials such as vaccines, medicines, facilities and equipment, and protective supplies required for emergency response."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Emergency Preparedness"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The people's governments at or above the county level shall establish and improve the monitoring network and prevention and control system for major animal epidemics, strengthen the building of animal disease prevention infrastructure and township animal disease prevention organisations, ensure their normal operation, and improve their emergency response capacity for major animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Emergency Preparedness"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The local people's governments at or above the county level may, in light of the needs of emergency response to major animal epidemics, establish emergency reserve teams which shall, under the command of the emergency response headquarters for major animal epidemics, specifically undertake the tasks of controlling and eliminating the epidemic.\nAn emergency reserve team shall be composed of local veterinary administrative personnel, animal disease prevention workers, relevant experts and licensed veterinarians; where necessary, persons in society with certain professional knowledge may be organised and mobilised to participate. The public security organs and the Chinese People's Armed Police Force shall assist them in carrying out their tasks in accordance with the law.\nEmergency reserve teams shall conduct regular technical training and emergency drills."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Emergency Preparedness"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The people's governments at or above the county level and their competent departments for veterinary medicine shall strengthen the publicity of emergency response knowledge on major animal epidemics and of scientific knowledge on major animal diseases, and enhance the awareness of prevention throughout society."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Emergency Preparedness"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The animal disease prevention and supervision institutions shall be responsible for the monitoring of major animal epidemics; entities and individuals engaged in raising or trading animals or producing or trading animal products shall cooperate and shall not refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The relevant entities and individuals engaged in activities such as animal quarantine, epidemic monitoring, disease research and treatment, inspection and quarantine, as well as animal raising, slaughtering and processing, transport and trading shall, upon discovering the mass onset of disease or death of animals, immediately report to the animal disease prevention and supervision institution of the county (or city) where they are located."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After receiving a report, the animal disease prevention and supervision institution of the county (or city) shall immediately rush to the scene to investigate and verify. Where it preliminarily believes that a major animal epidemic is involved, it shall report the situation level by level to the animal disease prevention and supervision institution of the province, autonomous region or municipality directly under the Central Government within two hours, and simultaneously report to the competent department for veterinary medicine of the people's government at the place where it is located; the competent department for veterinary medicine shall promptly notify the competent department for health at the same level.\nThe animal disease prevention and supervision institution of the province, autonomous region or municipality directly under the Central Government shall, within one hour of receiving the report, report to the competent department for veterinary medicine of the people's government of the province, autonomous region or municipality directly under the Central Government and to the animal disease prevention and supervision institution subordinate to the competent department for veterinary medicine under the State Council.\nThe competent department for veterinary medicine of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within one hour of receiving the report, report to the people's government at the same level and to the competent department for veterinary medicine under the State Council.\nAfter a major animal epidemic occurs, the people's government of the province, autonomous region or municipality directly under the Central Government and the competent department for veterinary medicine under the State Council shall report to the State Council within four hours."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A report on a major animal epidemic shall include the following contents:\n(a) the time and place of the occurrence of the epidemic;\n(b) the types and number of infected and suspected infected animals, the number of animals in the same herd, the immunisation status, the number of deaths, the clinical symptoms, the pathological changes and the diagnosis;\n(c) the epidemiology and the tracing of epidemic sources;\n(d) the control measures already taken; and\n(e) the entity reporting the epidemic, the person in charge, the reporting person and their contact information."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A major animal epidemic shall be confirmed by the competent department for veterinary medicine of the people's government of the province, autonomous region or municipality directly under the Central Government; where necessary, it shall be confirmed by the competent department for veterinary medicine under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The competent department for veterinary medicine under the State Council shall promptly and accurately announce major animal epidemics in accordance with the procedures prescribed by the State; no other entity or individual shall announce a major animal epidemic."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Samples of major animal diseases shall be collected by the animal disease prevention and supervision institutions. Where any other entity or individual collects samples of disease, it shall meet the following conditions:\n(a) the purpose of collecting samples of major animal diseases and the use of pathogenic microorganisms shall conform to the provisions of the competent department for veterinary medicine under the State Council;\n(b) it shall have laboratory conditions for animal pathogenic microorganisms commensurate with the collection of samples of disease; and\n(c) it shall have equipment commensurate with the biosafety level required for the collection of samples of disease, as well as effective measures to prevent the infection and spread of pathogens.\nThe isolation of pathogens of major animal diseases shall comply with the relevant national provisions on biosafety management so as to prevent the spread of pathogens."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The competent department for veterinary medicine under the State Council shall promptly notify the relevant departments under the State Council, the relevant departments of the armed forces and the competent departments for veterinary medicine of the people's governments of all provinces, autonomous regions and municipalities directly under the Central Government of the occurrence of major animal epidemics and the handling of the epidemics."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a major animal epidemic may infect people, the competent department for health shall monitor the susceptible population in the epidemic area and adopt corresponding prevention and control measures. The competent department for health and the competent department for veterinary medicine shall promptly notify each other of the relevant situation."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The relevant entities and individuals shall not conceal, falsely report or delay the reporting of a major animal epidemic, shall not instigate others to conceal, falsely report or delay the reporting of the epidemic, and shall not obstruct others from reporting the epidemic."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "During the period of reporting a major animal epidemic, the relevant animal disease prevention and supervision institutions shall immediately adopt temporary isolation and control measures; where necessary, the local people's government at or above the county level may make a blockade decision and adopt measures such as culling and destruction. The relevant entities and individuals shall comply."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring, Reporting and Publication"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After a major animal epidemic occurs, the emergency response headquarters for major animal epidemics established by the State Council and the relevant local people's governments shall exercise unified leadership and command over emergency response work for the major animal epidemic."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "After a major animal epidemic occurs, the competent department for veterinary medicine of the local people's government at or above the county level shall immediately delineate the epidemic point, the epidemic area and the threatened area, investigate the source of the epidemic, and put forward to the people's government at the same level suggestions on activating the emergency response command system and emergency response plan for the major animal epidemic and imposing a blockade on the epidemic area, and the relevant people's government shall promptly make a decision.\nThe scope of the epidemic point, the epidemic area and the threatened area shall be delineated according to the different types of animal diseases and their epidemic characteristics and the degree of harm, and the specific delineation standards shall be formulated by the competent department for veterinary medicine under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State shall implement classified administration of the emergency handling of major animal epidemics, and the relevant people's governments shall adopt corresponding emergency control measures according to the epidemic grades determined in the emergency response plan."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The following measures shall be taken for the epidemic point:\n(a) culling and destroying infected animals and susceptible animals and their products;\n(b) conducting harmless treatment of dead animals, animal excrement, contaminated feed, bedding and sewage; and\n(c) conducting strict disinfection of contaminated articles, utensils, animal houses and premises."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The following measures shall be taken for the epidemic area:\n(a) setting up warning signs around the epidemic area, setting up temporary animal quarantine and disinfection stations at traffic intersections leading into and out of the epidemic area, and disinfecting the personnel and vehicles entering and leaving the epidemic area;\n(b) culling and destroying infected and suspected infected animals and animals in the same herd, destroying the products of infected and suspected infected animals, and keeping other susceptible animals in captivity or grazing them at designated places, with draught animals restricted to working within the epidemic area;\n(c) monitoring susceptible animals, carrying out emergency immunisation in accordance with the provisions of the competent department for veterinary medicine under the State Council, and, where necessary, culling susceptible animals;\n(d) closing markets for trading in animals and animal products, and prohibiting animals from entering or leaving the epidemic area and animal products from being transported out of the epidemic area; and\n(e) disinfecting or conducting harmless treatment of animal houses, animal excrement, bedding, sewage and other possibly contaminated articles and premises."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The following measures shall be taken for the threatened area:\n(a) monitoring susceptible animals; and\n(b) carrying out emergency immunisation of susceptible animals as required."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where, in the emergency handling of a major animal epidemic, temporary animal quarantine and disinfection stations are set up and control and elimination measures such as isolation, culling, destruction, disinfection and emergency immunisation are adopted, the relevant emergency response headquarters for the major animal epidemic shall make the decision, and the relevant entities and individuals must comply; where compliance is refused, the public security organ shall assist in enforcement."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall implement emergency immunisation of susceptible animals in epidemic areas and threatened areas free of charge; reasonable compensation shall be given for the confirmed losses caused to the parties concerned by measures such as culling and destruction. The costs required for emergency immunisation and compensation shall be shared by the central finance and the local finance."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The emergency response headquarters for a major animal epidemic shall, in light of the needs of emergency handling, have the power to urgently assemble personnel, materials, means of transport and relevant facilities and equipment.\nWhere the materials, means of transport and relevant facilities and equipment of an entity or individual are requisitioned for use, the relevant people's government shall promptly return them and give reasonable compensation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "After a major animal epidemic occurs, the competent department for veterinary medicine of the people's government at or above the county level shall promptly put forward a handling plan for the epidemic point, the epidemic area and the threatened area, strengthen epidemic monitoring, epidemiological investigation and the tracing of epidemic sources, provide technical guidance for the culling and destruction of infected and suspected infected animals, animals in the same herd and other susceptible animals, and organise the implementation of inspection and quarantine, disinfection, harmless treatment and emergency immunisation."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "In the emergency handling of a major animal epidemic, the relevant departments of the people's government at or above the county level shall, within their respective scope of duties, carry out such work as the emergency deployment and transport of materials required for emergency response to the major animal epidemic, the arrangement of emergency funds, the relief of people in epidemic areas, the prevention and treatment of diseases in people, the supply of meat and food, the supervision of the market for animals and animal products, entry and exit inspection and quarantine, and the maintenance of public order.\nThe Chinese People's Liberation Army and the Chinese People's Armed Police Force shall support and cooperate with the local people's governments in carrying out emergency response work for major animal epidemics."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "In the emergency handling of a major animal epidemic, the township people's governments, villagers' committees and residents' committees shall organise forces to publicise to villagers and residents the relevant knowledge of the prevention and treatment of animal diseases, and assist in the collection and reporting of epidemic information and the implementation of various emergency response measures."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The people's government of the place where a major animal epidemic occurs and the people's governments of adjacent areas shall make concerted efforts and cooperate with each other in the control and elimination of the major animal epidemic."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The relevant people's governments and their relevant departments shall adopt necessary measures such as health protection and technical guidance for persons participating in the emergency handling of a major animal epidemic."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where, starting from the completion of the handling of the last diseased animal in the epidemic area and the animals in the same herd, monitoring has been carried out for more than one incubation period and no new cases have appeared, thorough disinfection has been carried out and the animal disease prevention and supervision institution at the next higher level has verified that the requirements are met upon acceptance inspection, the people's government that originally issued the blockade order shall announce the lifting of the blockade and the revocation of the epidemic area; the temporary animal quarantine and disinfection station established in the epidemic area shall be revoked by the original approving organ."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The people's governments at or above the county level shall include in their budgets at the same level such emergency funds as those for the confirmation of major animal epidemics, the blockade of epidemic areas, culling and compensation therefor, disinfection, harmless treatment, the tracing of epidemic sources, epidemic monitoring and the stockpiling of emergency materials."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where the competent department for veterinary medicine or the animal disease prevention and supervision institution subordinate thereto violates the provisions of these Regulations by committing any of the following acts, the people's government at the same level or the relevant department of the people's government at a higher level shall order immediate rectification, circulate a notice of criticism and give a warning; the principal person in charge, the person in charge with responsibility and other persons with responsibility shall be given administrative disciplinary sanctions of a major demerit, demotion, removal from post and up to dismissal in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(a) failing to perform the duty of epidemic reporting, concealing, falsely reporting or delaying the reporting of an epidemic, or instigating others to conceal, falsely report or delay the reporting of an epidemic, or obstructing others from reporting a major animal epidemic;\n(b) failing to adopt temporary isolation and control measures during the period of reporting a major animal epidemic, thereby causing the spread of the animal epidemic;\n(c) failing to promptly delineate the epidemic point, the epidemic area and the threatened area, failing to promptly put forward emergency handling suggestions to the people's government at the same level, or failing to adopt prevention, control and elimination measures for the epidemic point, the epidemic area and the threatened area as required;\n(d) failing to put forward to the people's government at the same level suggestions on activating the emergency response command system and emergency response plan and imposing a blockade on the epidemic area;\n(e) failing to provide technical guidance for the culling and destruction of animals, providing ineffective guidance, or failing to organise the implementation of inspection and quarantine, disinfection, harmless treatment and emergency immunisation; or\n(f) failing to perform other duties prescribed in these Regulations, thereby causing the spread or prevalence of animal diseases or seriously endangering the safety of animal production and public health and safety."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a relevant department of the people's government at or above the county level violates the provisions of these Regulations by failing to perform emergency handling duties, failing to implement the measures adopted for the epidemic point, the epidemic area and the threatened area, or failing to cooperate with, obstructing or refusing the epidemic investigation conducted by the relevant department of the people's government at a higher level, the people's government at the same level or the relevant department of the people's government at a higher level shall order immediate rectification, circulate a notice of criticism and give a warning; the principal person in charge, the person in charge with responsibility and other persons with responsibility shall be given administrative disciplinary sanctions of a major demerit, demotion, removal from post and up to dismissal in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the relevant local people's government violates the provisions of these Regulations by obstructing the reporting of a major animal epidemic, failing to perform emergency handling duties, failing to adopt prevention, control and elimination measures for the epidemic point, the epidemic area and the threatened area as required, or failing to cooperate with, obstructing or refusing the epidemic investigation conducted by the relevant department of the people's government at a higher level, the people's government at a higher level shall order immediate rectification, circulate a notice of criticism and give a warning; the principal leaders of the government shall be given administrative disciplinary sanctions of a major demerit, demotion, removal from post and up to dismissal in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where emergency funds for a major animal epidemic are withheld or misappropriated, or emergency stockpiled materials are appropriated or misappropriated, the matter shall be handled in accordance with the provisions of the Regulations on the Punishment of Fiscal Violations; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, refuses or obstructs the monitoring of a major animal epidemic conducted by an animal disease prevention and supervision institution, or fails to report to the local animal disease prevention and supervision institution upon discovering the mass onset of disease or death of animals, shall be given a warning and, in addition, be fined not less than 2,000 yuan but not more than 5,000 yuan by the animal disease prevention and supervision institution; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, collects samples of major animal diseases without meeting the corresponding conditions, or fails to comply with the relevant national provisions on biosafety management in the isolation of pathogens of major animal diseases, shall be given a warning and, in addition, be fined not more than 5,000 yuan by the animal disease prevention and supervision institution; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, during the period of the occurrence of a major animal epidemic, a person drives up prices, deceives consumers, spreads rumours, or disturbs social order or market order, the competent department for prices, the administrative department for industry and commerce or the public security organ shall impose an administrative penalty in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "These Regulations shall enter into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0612'] = {
+    "lawId": "CN-REG-0612",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 44 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Constitution, the Organic Law of the Local People's Congresses and Local People's Governments at All Levels and other provisions, with a view to improving the mechanisms for scientific, democratic and law-based decision-making, standardising the procedures for major administrative decisions, enhancing the quality and efficiency of decision-making, and clarifying decision-making accountability."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations shall apply to the procedures for making and adjusting major administrative decisions of local people's governments at or above the county level (hereinafter referred to as decision-making bodies)."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The matters involving major administrative decisions as referred to in these Regulations (hereinafter referred to as decision matters) include:\n(a) the formulation of major public policies and measures concerning public services, market regulation, social administration, environmental protection and the like;\n(b) the formulation of important plans concerning economic and social development and the like;\n(c) the formulation of major public policies and measures for the development, utilisation and protection of important natural resources and cultural resources;\n(d) decisions on major public construction projects to be implemented within the administrative region;\n(e) decisions on other major matters that have a significant impact on economic and social development, that involve major public interests, or that bear on the vital interests of the public.\nWhere laws or administrative regulations provide otherwise on the decision-making procedures for the matters prescribed in paragraph 1 of this Article, such provisions shall apply. These Regulations shall not apply to macro-regulatory decisions such as fiscal policy and monetary policy, to government legislative decisions, or to decisions on the emergency handling of unexpected events.\nA decision-making body may, on the basis of paragraph 1 of this Article and in light of its functions and powers and local realities, determine the catalogue and criteria of decision matters, publish them to the public upon the consent of the Party committee at the same level, and adjust them in light of the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Major administrative decisions must uphold and strengthen the overall leadership of the Communist Party of China, comprehensively implement the Party's line, principles, policies and decisions and arrangements, give play to the Party's role as the core of leadership, and carry the Party's leadership through the entire process of major administrative decision-making."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Major administrative decisions shall follow the principle of scientific decision-making, implement the development philosophy of innovation, coordination, green development, openness and sharing, proceed from reality, apply scientific techniques and methods, respect objective laws, and meet the requirements of economic and social development and of deepening reform in all respects."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Major administrative decisions shall follow the principle of democratic decision-making, fully heed the views of all quarters, and ensure that the people participate in decision-making through various channels and forms."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Major administrative decisions shall follow the principle of law-based decision-making, strictly observe statutory powers, perform statutory procedures in accordance with the law, and ensure that the contents of decisions comply with the provisions of laws, regulations and rules."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Major administrative decisions shall be subject, in accordance with the law, to the supervision of the people's congress at the corresponding level and its standing committee; matters that, pursuant to the provisions of laws and regulations, fall within the scope of major matters to be discussed and decided by the people's congress at the corresponding level or its standing committee, or that shall be reported to the standing committee of the people's congress at the corresponding level before being introduced, shall be handled in accordance with the relevant provisions.\nAdministrative organs at a higher level shall strengthen supervision over the major administrative decisions of administrative organs at a lower level. Audit organs shall supervise major administrative decisions in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The state of major administrative decision-making shall constitute an important element in the assessment and evaluation of decision-making bodies and their leading personnel."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Proposals on decision matters submitted by various quarters shall, after research and deliberation conducted in accordance with the following provisions, be submitted to the decision-making body for a decision on whether to initiate the decision-making procedure:\n(a) where a proposal on a decision matter is submitted by the leading personnel of the decision-making body, it shall be referred to the relevant unit for research and deliberation;\n(b) where a proposal on a decision matter is submitted by a department subordinate to the decision-making body or by the people's government at the next lower level, it shall deliberate on the main problems to be resolved, the reasons and basis for the proposal, the preliminary plan for resolving the problems and its necessity and feasibility;\n(c) where a proposal on a decision matter is submitted by deputies to the people's congress or members of the Chinese People's Political Consultative Conference by way of a recommendation or proposal, or submitted in writing by a citizen, legal person or other organisation, it shall be referred to the relevant unit for research and deliberation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Initiation of Decision-making"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a decision-making body decides to initiate the decision-making procedure, it shall specify the unit undertaking the decision matter (hereinafter referred to as the decision undertaking unit), which shall be responsible for the drafting of the draft major administrative decision and related work. Where a decision matter requires two or more units to undertake it, the leading decision undertaking unit shall be specified."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Initiation of Decision-making"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The decision undertaking unit shall prepare a draft decision on the basis of extensive and in-depth investigation and research, a comprehensive and accurate grasp of the relevant information, and full consultation and coordination.\nThe decision undertaking unit shall comprehensively review the laws, regulations, rules and policies relating to the decision matter so as to ensure that the draft decision is lawful and compliant and is aligned with the relevant policies.\nThe decision undertaking unit shall, as necessary, analyse and forecast the costs of the decision matter in terms of human, financial and material inputs, resource consumption and environmental impact, as well as its economic, social and environmental benefits.\nWhere there are significant differences among the parties concerned regarding the decision matter, the decision undertaking unit may propose two or more options."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Initiation of Decision-making"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a decision matter involves the functions and duties of, or is closely connected with, a department subordinate to the decision-making body, the people's government at the next lower level or another unit, the decision undertaking unit shall fully consult with it; where no consensus can be reached, the decision undertaking unit shall explain to the decision-making body the main issues in dispute, the views of the unit concerned, and its own views, reasons and basis."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Initiation of Decision-making"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The decision undertaking unit shall, by means that facilitate public participation, fully heed the views of the public, except for decision matters that are not to be disclosed in accordance with the law.\nThe hearing of views may take the form of symposia, hearings, on-site visits, solicitation of written comments, public solicitation of comments, questionnaires, opinion polls or other means.\nWhere a decision matter concerns the interests of a particular group, the decision undertaking unit shall communicate and consult with the relevant people's organisations, social organisations and representatives of the masses, and fully heed the views and suggestions of the group concerned."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Public Participation"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a decision matter is subject to public solicitation of comments, the decision undertaking unit shall publish the draft decision and its explanatory materials through government websites, government new media, and newspapers, radio, television and other channels that facilitate public awareness, and shall clearly indicate the means and period for submitting comments. The period for public solicitation of comments shall generally be not less than 30 days; where the period needs to be shortened owing to urgent circumstances or other reasons, an explanation shall be given when the comments are publicly solicited.\nWith respect to issues of general public concern or of a highly specialised or technical nature, the decision undertaking unit may provide explanations by means such as interviews with experts."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Public Participation"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a decision matter directly bears on the vital interests of citizens, legal persons or other organisations, or where significant differences exist, a hearing may be held. Where laws, regulations or rules provide otherwise on the holding of hearings, such provisions shall apply.\nThe decision undertaking unit or the other unit organising the hearing shall publish the draft decision and its explanatory materials in advance, and shall specify information such as the time and place of the hearing.\nWhere participants in the hearing need to be selected, the decision undertaking unit or the other unit organising the hearing shall publish the method for selecting the participants in advance, organise the selection in a fair and open manner, and ensure that all parties concerned are represented at the hearing. The list of participants in the hearing shall be published to the public in advance. The materials for the hearing shall be delivered to the participants seven days before the hearing is held."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Public Participation"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A hearing shall be held publicly in accordance with the following procedures:\n(a) the decision undertaking unit introduces the draft decision, the basis and the relevant circumstances;\n(b) the participants in the hearing state their views and conduct questioning, cross-examination and debate, and where necessary the decision undertaking unit or the relevant experts may provide explanations;\n(c) the participants in the hearing confirm the record of the hearing and sign it."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Public Participation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The decision undertaking unit shall summarise, collate, study and deliberate on the views put forward by all sectors of society, fully adopt reasonable views, and improve the draft decision."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Public Participation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "With respect to decision matters of a highly specialised or technical nature, the decision undertaking unit shall organise experts and professional institutions to deliberate on their necessity, feasibility, scientific soundness and the like, and shall provide the necessary support.\nExperts and professional institutions shall conduct the deliberation independently, put forward deliberation opinions in an objective, impartial and scientific manner, and fulfil their confidentiality obligations in accordance with the law in respect of the State secrets, trade secrets and personal privacy of which they are aware; where written deliberation opinions are provided, they shall be signed and sealed."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 3 Expert Argumentation"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The decision undertaking unit may organise expert deliberation by means of deliberation meetings, written consultation, entrusted consultation and deliberation or other means. In selecting experts and professional institutions to participate in the deliberation, it shall adhere to the requirements of professionalism, representativeness and neutrality, give weight to the selection of experts and professional institutions holding different views, and shall not select experts or professional institutions that have a direct interest in the decision matter."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 3 Expert Argumentation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The people's government of a province, autonomous region or municipality directly under the Central Government shall establish an expert database for decision-making consultation and deliberation, standardise the management system for the operation of the expert database, and improve the mechanisms for the assessment of experts' integrity and for their withdrawal.\nThe people's government of a city or county may establish an expert database for decision-making consultation and deliberation as needed.\nWhere a decision-making body has not established an expert database for decision-making consultation and deliberation, it may use the expert database of the administrative organ at a higher level."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 3 Expert Argumentation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the implementation of a major administrative decision may have an adverse impact on social stability, public safety or other aspects, the decision undertaking unit or the other unit responsible for risk assessment shall organise an assessment of the controllability of the risks of the draft decision.\nWhere the relevant risks have already been evaluated or assessed in accordance with the relevant provisions, no repeated assessment shall be conducted."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 4 Risk Assessment"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Risk assessment may be conducted by means such as tracking public sentiment, key visits and joint consultation and analysis, and by applying methods such as qualitative analysis and quantitative analysis, so as to make scientific forecasts and comprehensive judgements on the risks of the implementation of the decision.\nIn conducting risk assessment, the views of the relevant departments shall be heard, a risk assessment report shall be prepared, the risk points shall be identified, and risk prevention measures and response plans shall be proposed.\nRisk assessment may be entrusted to a third party such as a professional institution or a social organisation."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 4 Risk Assessment"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The results of risk assessment shall serve as an important basis for major administrative decisions. Where the decision-making body considers the risks controllable, it may make the decision; where it considers the risks uncontrollable, it may make the decision after taking measures such as adjusting the draft decision to ensure that the risks are controllable."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 4 Risk Assessment"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Before a draft decision is submitted to the decision-making body for discussion, it shall undergo a legality review by the department responsible for legality review. The solicitation of views or other means shall not be used as a substitute for legality review.\nA draft decision that has not undergone legality review, or that is found to be unlawful upon review, shall not be submitted to the decision-making body for discussion. With respect to exploratory reform decision matters for which the State has no explicit provisions, the legal risks may be expressly indicated and the matter submitted to the decision-making body for discussion."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 1 Legality Review"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a matter is submitted for legality review, the draft decision and the relevant materials shall be provided, including the basis in the relevant laws, regulations and rules and an explanation of the statutory decision-making procedures performed. Where the materials provided do not meet the requirements, the department responsible for legality review may return them or request supplementation.\nWhere a matter is submitted for legality review, the necessary time for review shall be guaranteed, which shall generally be not less than seven working days."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 1 Legality Review"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The contents of the legality review include:\n(a) whether the decision matter falls within the statutory powers;\n(b) whether the relevant statutory procedures have been performed in the formation of the draft decision;\n(c) whether the contents of the draft decision comply with the provisions of the relevant laws, regulations, rules and State policies."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 1 Legality Review"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The department responsible for legality review shall promptly put forward its opinion on the legality review and shall be responsible for that opinion. In the course of the legality review, legal advisers and government lawyers shall be organised to put forward legal opinions. The decision undertaking unit shall make the necessary adjustments or supplements on the basis of the opinion on the legality review."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 1 Legality Review"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the decision undertaking unit submits a draft decision to the decision-making body for discussion, it shall submit the following materials:\n(a) the draft decision and the relevant materials; where the draft decision concerns the economic activities of market entities, it shall contain information on the fair competition review;\n(b) where the public participation procedure has been performed, the results of the study and adoption of the main views put forward by the public shall be submitted at the same time;\n(c) where the expert deliberation procedure has been performed, the results of the study and adoption of the experts' deliberation opinions shall be submitted at the same time;\n(d) where the risk assessment procedure has been performed, the risk assessment report and other relevant materials shall be submitted at the same time;\n(e) the opinion on the legality review;\n(f) other materials that need to be submitted."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 2 Collective Deliberation and Decision and Publication of Decisions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A draft decision shall be discussed at an executive meeting or a plenary meeting of the decision-making body. The administrative head of the decision-making body shall make the decision on the basis of collective discussion.\nIn discussing a draft decision, the members of the meeting shall fully express their views, and the administrative head shall express his or her views last. Where the decision that the administrative head intends to make is inconsistent with the views of the majority of the members of the meeting, the reasons shall be stated at the meeting.\nThe circumstances of the collective discussion and decision shall be recorded truthfully, and dissenting views shall be stated truthfully."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 2 Collective Deliberation and Decision and Publication of Decisions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Before a major administrative decision is introduced, a request for instructions and a report shall be submitted to the Party committee at the same level in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 2 Collective Deliberation and Decision and Publication of Decisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The decision-making body shall promptly publish major administrative decisions through the gazette of the people's government at the corresponding level and the government website, as well as through newspapers distributed within the administrative region and other channels. With respect to major administrative decisions of general public concern or of a highly specialised or technical nature, it shall explain the adoption of public views and experts' deliberation opinions, and conduct publicity and interpretation by means such as press conferences and interviews, except where they are not to be disclosed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 2 Collective Deliberation and Decision and Publication of Decisions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The decision-making body shall establish a system for recording the process of major administrative decision-making and for archiving materials, under which the relevant units shall promptly and completely archive the records and materials formed in the performance of the decision-making procedures."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 2 Collective Deliberation and Decision and Publication of Decisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The decision-making body shall specify the unit responsible for the implementation of a major administrative decision (hereinafter referred to as the decision implementation unit) and shall supervise and inspect the implementation of the decision. The decision implementation unit shall implement the major administrative decision comprehensively, promptly and correctly in accordance with the law, and shall report on the implementation of the decision to the decision-making body."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation and Adjustment of Decisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the decision implementation unit discovers that a major administrative decision has problems, that the objective circumstances have changed significantly, or that force majeure or other circumstances occurring in the course of implementation seriously affect the realisation of the objectives of the decision, it shall promptly report to the decision-making body.\nWhere a citizen, legal person or other organisation considers that there are problems with a major administrative decision or its implementation, it may submit views and suggestions to the decision-making body or the decision implementation unit by letter, telephone, electronic mail or other means."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation and Adjustment of Decisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where one of the following circumstances is present, the decision-making body may organise a post-decision evaluation and determine the unit that shall undertake the specific evaluation work:\n(a) the implementation of the major administrative decision has obviously failed to achieve the expected effect;\n(b) a considerable number of views have been put forward by citizens, legal persons or other organisations;\n(c) the decision-making body considers it necessary.\nA post-decision evaluation may be entrusted to a third party such as a professional institution or a social organisation, except to a unit that undertook the main deliberation and evaluation work before the decision was made.\nIn conducting a post-decision evaluation, emphasis shall be placed on hearing the views of the public, and deputies to the people's congress, members of the Chinese People's Political Consultative Conference, people's organisations, grassroots organisations and social organisations shall be engaged to participate in the evaluation.\nThe results of the post-decision evaluation shall serve as an important basis for adjusting the major administrative decision."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation and Adjustment of Decisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A major administrative decision made in accordance with the law shall not be arbitrarily altered or suspended without statutory procedures; where the circumstances prescribed in Article 35 of these Regulations arise in the course of implementation and the situation is urgent, the administrative head of the decision-making body may first decide to suspend implementation; where a major adjustment is required, the relevant statutory procedures shall be performed in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Implementation and Adjustment of Decisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a decision-making body violates the provisions of these Regulations, the administrative organ at the next higher level shall order it to rectify, and the administrative head of the decision-making body, other leading personnel who bear responsibility and the persons directly responsible shall be held accountable in accordance with the law.\nWhere a decision-making body violates the provisions of these Regulations and causes a serious error in decision-making, or where it fails to make a decision in a timely manner as required by law and delays the decision for a long period, thereby causing major losses or adverse effects, responsibility shall be traced retrospectively and lifelong accountability shall be applied, and the administrative head of the decision-making body, other leading personnel who bear responsibility and the persons directly responsible shall be held accountable in accordance with the law.\nWhere, during the collective discussion of a draft decision by the decision-making body, the persons concerned have expressed dissenting views on a decision that turns out to be a serious error, their liability shall be reduced or exempted in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the decision undertaking unit or a unit undertaking work relating to the decision fails to perform the decision-making procedures in accordance with these Regulations, or neglects its duties, commits dereliction of duty or engages in falsification in performing the decision-making procedures, the decision-making body shall order it to rectify, and the leading personnel who bear responsibility and the persons directly responsible shall be held accountable in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the decision implementation unit refuses to implement, evades implementation of, or delays the implementation of a major administrative decision, or conceals, falsely reports or omits to report major problems discovered in the course of implementation, the decision-making body shall order it to rectify, and the leading personnel who bear responsibility and the persons directly responsible shall be held accountable in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where experts, professional institutions or social organisations undertaking deliberation and evaluation work violate professional ethics or the provisions of these Regulations, they shall be circulated for criticism and ordered to rectify within a specified period; where serious consequences are caused, their evaluation qualifications shall be cancelled and they shall bear the corresponding liability."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The procedures for making and adjusting major administrative decisions of the departments of people's governments at or above the county level and of people's governments at the township level shall be implemented with reference to the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The people's government of a province, autonomous region or municipality directly under the Central Government shall, in accordance with these Regulations, formulate specific systems for the procedures for major administrative decisions within its administrative region.\nThe relevant departments of the State Council shall, with reference to the provisions of these Regulations, formulate specific systems for the procedures for major administrative decisions of their own departments."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 September 2019."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0615'] = {
+    "lawId": "CN-REG-0615",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 47 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the administration of housing provident funds, safeguarding the lawful rights and interests of the owners of housing provident funds, promoting the construction of urban housing and raising the housing standards of urban residents."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the deposit, withdrawal and use of housing provident funds and the administration of and supervision over housing provident funds within the territory of the People's Republic of China.\nFor the purposes of these Regulations, \"housing provident fund\" means the long-term housing savings deposited by State organs, State-owned enterprises, urban collective enterprises, foreign-invested enterprises, urban private enterprises and other urban enterprises, public institutions, people-run non-enterprise units and social organisations (hereinafter collectively referred to as \"entities\") and by their serving employees."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The housing provident funds deposited by an employee individually and the housing provident funds deposited by the entity for which the employee works for the employee shall be owned by the employee."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The administration of housing provident funds shall follow the principle of decision-making by the housing provident fund management committee, operation by the housing provident fund management centre, deposit in special accounts with banks and supervision by the finance department."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Housing provident funds shall be used for employees to purchase, construct, rebuild or carry out major repairs of self-occupied housing, and no entity or individual may misappropriate them for other purposes."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The deposit and loan interest rates for housing provident funds shall be proposed by the People's Bank of China and, after soliciting the opinions of the competent construction administrative department under the State Council, submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent construction administrative department under the State Council shall, together with the finance department under the State Council and the People's Bank of China, formulate policies on housing provident funds and supervise their implementation.\nThe competent construction administrative department of the people's government of a province or autonomous region shall, together with the finance department at the same level and the branch of the People's Bank of China, be responsible for supervising the implementation of laws, regulations and policies on the administration of housing provident funds within its administrative region."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Municipalities directly under the Central Government, the cities where the people's governments of provinces and autonomous regions are located and other cities divided into districts (prefectures and leagues) shall establish housing provident fund management committees as the decision-making bodies for the administration of housing provident funds. Among the members of a housing provident fund management committee, the leading members of the people's government, the leading members of the competent construction, finance, people's bank and other relevant departments and relevant experts shall account for one third, representatives of trade unions and representatives of employees shall account for one third, and representatives of entities shall account for one third.\nThe chairperson of a housing provident fund management committee shall be held by a person enjoying public credibility in society."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A housing provident fund management committee shall perform the following functions in the administration of housing provident funds:\n(a) formulating and adjusting specific administrative measures for housing provident funds in accordance with relevant laws, regulations and policies, and supervising their implementation;\n(b) drafting the specific deposit proportions for housing provident funds in accordance with the provisions of Article 18 of these Regulations;\n(c) determining the maximum amount of housing provident fund loans;\n(d) examining and approving plans for the collection and use of housing provident funds;\n(e) deliberating on schemes for the distribution of the value-added income of housing provident funds; and\n(f) examining and approving reports on the implementation of plans for the collection and use of housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Municipalities directly under the Central Government, the cities where the people's governments of provinces and autonomous regions are located and other cities divided into districts (prefectures and leagues) shall, in accordance with the principle of simplification and efficiency, establish one housing provident fund management centre responsible for the administration and operation of housing provident funds. Counties (county-level cities) shall not establish housing provident fund management centres.\nA housing provident fund management centre as mentioned in the preceding paragraph may establish branch offices in counties (county-level cities) where conditions permit. The housing provident fund management centre and its branch offices shall apply uniform rules and regulations and conduct unified accounting.\nA housing provident fund management centre is an independent public institution directly under the municipal people's government and not for profit."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A housing provident fund management centre shall perform the following functions:\n(a) preparing and implementing plans for the collection and use of housing provident funds;\n(b) recording the deposit, withdrawal and use of employees' housing provident funds;\n(c) keeping accounts of housing provident funds;\n(d) examining and approving the withdrawal and use of housing provident funds;\n(e) preserving and returning housing provident funds;\n(f) preparing reports on the implementation of plans for the collection and use of housing provident funds; and\n(g) handling other matters decided by the housing provident fund management committee."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A housing provident fund management committee shall, in accordance with the relevant provisions of the People's Bank of China, designate the commercial bank entrusted with handling the financial business of housing provident funds (hereinafter referred to as the \"entrusted bank\"); the housing provident fund management centre shall entrust the entrusted bank with the handling of loan, settlement and other financial business of housing provident funds and the procedures for opening, depositing into and returning housing provident fund accounts.\nThe housing provident fund management centre shall conclude a contract of mandate with the entrusted bank."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The housing provident fund management centre shall open a special housing provident fund account with the entrusted bank.\nAn entity shall register the deposit of housing provident funds with the housing provident fund management centre and complete the procedures for opening housing provident fund accounts for its employees. Each employee may have only one housing provident fund account.\nThe housing provident fund management centre shall establish subsidiary ledgers of employees' housing provident funds, recording the deposit and withdrawal of individual employees' housing provident funds and other particulars."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A newly established entity shall, within 30 days from the date of establishment, register the deposit of housing provident funds with the housing provident fund management centre and, within 20 days from the date of registration, complete the procedures for opening housing provident fund accounts for its employees.\nWhere an entity is merged, divided, revoked, dissolved or declared bankrupt, the original entity or the liquidation group shall, within 30 days from the date of occurrence of the aforesaid circumstances, register the modification or cancellation of registration with the housing provident fund management centre and, within 20 days from the date of completion of such registration, complete the procedures for transferring or sealing the housing provident fund accounts of its employees."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an entity recruits employees, it shall, within 30 days from the date of recruitment, register the deposit with the housing provident fund management centre and complete the procedures for opening or transferring the employees' housing provident fund accounts.\nWhere an entity terminates the labour relationship with an employee, the entity shall, within 30 days from the date of termination of the labour relationship, register the modification with the housing provident fund management centre and complete the procedures for transferring or sealing the employee's housing provident fund account."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The monthly deposit of an employee's housing provident fund shall be the employee's average monthly wages in the preceding year multiplied by the employee's housing provident fund deposit proportion.\nThe monthly deposit of the housing provident fund paid by an entity for an employee shall be the employee's average monthly wages in the preceding year multiplied by the entity's housing provident fund deposit proportion."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "An employee who has newly started work shall deposit housing provident funds from the second month of taking up work, and the monthly deposit shall be the employee's wages for the current month multiplied by the employee's housing provident fund deposit proportion.\nAn employee newly transferred into an entity shall deposit housing provident funds from the date on which the transferring-in entity pays wages, and the monthly deposit shall be the employee's wages for the current month multiplied by the employee's housing provident fund deposit proportion."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Neither the housing provident fund deposit proportion for employees nor that for entities may be lower than 5 per cent of the employee's average monthly wages in the preceding year; cities where conditions permit may appropriately raise the deposit proportion. The specific deposit proportion shall be drafted by the housing provident fund management committee and, after examination by the people's government at the same level, submitted to the people's government of the province, autonomous region or municipality directly under the Central Government for approval."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The housing provident funds deposited by an employee shall be withheld monthly by the entity for which the employee works from the employee's wages and paid on his behalf.\nAn entity shall, within 5 days from the date of paying wages to employees each month, remit the housing provident funds deposited by the entity and those paid on behalf of employees to the special housing provident fund account, and the entrusted bank shall credit them to the employees' housing provident fund accounts."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Entities shall deposit housing provident funds on time and in full and may not delay such deposit or deposit less than the amount due.\nWhere an entity indeed has difficulties in depositing housing provident funds, it may, after deliberation and approval by the employees' congress or the trade union of the entity, upon examination by the housing provident fund management centre and with the approval of the housing provident fund management committee, lower the deposit proportion or postpone the deposit; after its economic performance improves, it shall raise the deposit proportion or make up the postponed deposits."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Interest shall accrue on housing provident funds from the date on which they are credited to the employee's housing provident fund account at the interest rate prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The housing provident fund management centre shall issue to employees who deposit housing provident funds valid certificates of the deposit of housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The housing provident funds deposited by an entity for employees shall be defrayed in accordance with the following provisions:\n(a) State organs shall defray them in their budgets;\n(b) public institutions shall, after the finance department has verified their revenues and expenditures, defray them in their budgets or expenses; and\n(c) enterprises shall defray them in their costs."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "An employee may withdraw the balance in his housing provident fund account under any of the following circumstances:\n(a) purchasing, constructing, rebuilding or carrying out major repairs of self-occupied housing;\n(b) retiring or leaving his post with honours;\n(c) completely losing the capacity to work and terminating the labour relationship with the entity;\n(d) settling abroad;\n(e) repaying the principal and interest of a housing purchase loan; or\n(f) housing rent exceeding the prescribed proportion of the household wage income.\nWhere an employee withdraws housing provident funds in accordance with the provisions of subparagraphs (b), (c) and (d) of the preceding paragraph, his housing provident fund account shall be cancelled at the same time.\nWhere an employee dies or is declared dead, the employee's successors or donees by bequest may withdraw the balance in the employee's housing provident fund account; where there is neither a successor nor a donee by bequest, the balance in the employee's housing provident fund account shall be included in the value-added income of housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an employee withdraws the balance in his housing provident fund account, the entity for which the employee works shall verify the matter and issue a withdrawal certificate.\nThe employee shall, with the withdrawal certificate, apply to the housing provident fund management centre for withdrawal of housing provident funds. The housing provident fund management centre shall, within 3 days from the date of accepting the application, decide whether or not to permit the withdrawal and notify the applicant; where withdrawal is permitted, the entrusted bank shall handle the payment procedures."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "An employee who deposits housing provident funds may, when purchasing, constructing, rebuilding or carrying out major repairs of self-occupied housing, apply to the housing provident fund management centre for a housing provident fund loan.\nThe housing provident fund management centre shall, within 15 days from the date of accepting the application, decide whether or not to grant the loan and notify the applicant; where the loan is granted, the entrusted bank shall handle the loan procedures.\nThe risks of housing provident fund loans shall be borne by the housing provident fund management centre."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "An applicant for a housing provident fund loan shall provide security."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A housing provident fund management centre may, on the premise of ensuring the withdrawal and lending of housing provident funds and with the approval of the housing provident fund management committee, use housing provident funds to purchase government bonds.\nA housing provident fund management centre may not provide security to others."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The value-added income of housing provident funds shall be deposited in the special account for the value-added income of housing provident funds opened by the housing provident fund management centre with the entrusted bank, and shall be used for establishing the loan risk reserve fund for housing provident funds, for the administrative expenses of the housing provident fund management centre and as supplementary funds for the construction of urban low-rent housing."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The administrative expenses of the housing provident fund management centre shall be covered by the centre by preparing the total annual budgeted expenditure in accordance with the prescribed standards and, after approval by the finance department of the people's government at the same level, handing over the amount from the value-added income of housing provident funds to the finance at the same level, which shall allocate it.\nThe standards for the administrative expenses of housing provident fund management centres shall be formulated by the competent construction administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government together with the finance department at the same level in accordance with standards slightly higher than those prescribed by the State for public institutions."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The finance departments of the relevant local people's governments shall strengthen supervision over the collection, withdrawal and use of housing provident funds within their respective administrative regions and report thereon to the housing provident fund management committee of the people's government at the same level.\nThe housing provident fund management centre shall, when preparing plans for the collection and use of housing provident funds, solicit the opinions of the finance department.\nThe finance department must participate when the housing provident fund management committee examines and approves plans for the collection and use of housing provident funds and reports on the implementation of such plans."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The annual budget and final accounts of housing provident funds prepared by the housing provident fund management centre shall, after examination by the finance department, be submitted to the housing provident fund management committee for deliberation.\nThe housing provident fund management centre shall regularly submit financial reports to the finance department and the housing provident fund management committee each year and shall publish the financial reports to the public."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The housing provident fund management centre shall accept audit supervision by the audit department in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The housing provident fund management centre and employees have the right to urge entities to perform the following obligations on time:\n(a) registration of the deposit of housing provident funds or registration of modification or cancellation of registration;\n(b) opening, transfer or sealing of housing provident fund accounts; and\n(c) depositing housing provident funds in full."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The housing provident fund management centre shall urge the entrusted bank to handle in a timely manner the business agreed upon in the contract of mandate.\nThe entrusted bank shall, in accordance with the contract of mandate, regularly provide the housing provident fund management centre with relevant business materials."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Employees and entities have the right to inquire about the deposit and withdrawal of their own or their entity's housing provident funds, and the housing provident fund management centre and the entrusted bank may not refuse.\nWhere an employee or entity objects to the balance in a housing provident fund account, it may apply to the entrusted bank for a recheck; where it objects to the result of the recheck, it may apply to the housing provident fund management centre for a new recheck. The entrusted bank and the housing provident fund management centre shall give a written reply within 5 days from the date of receipt of the application.\nEmployees have the right to expose, report and accuse acts of misappropriating housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an entity, in violation of the provisions of these Regulations, fails to register the deposit of housing provident funds or fails to complete the procedures for opening housing provident fund accounts for its employees, the housing provident fund management centre shall order it to complete the procedures within a specified time limit; where it fails to do so at the expiry of the time limit, it shall be fined not less than 10,000 yuan but not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where an entity, in violation of the provisions of these Regulations, delays the deposit or deposits less housing provident funds than due, the housing provident fund management centre shall order it to make the deposit within a specified time limit; where it still fails to do so at the expiry of the time limit, the centre may apply to the people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a housing provident fund management committee, in violation of the provisions of these Regulations, examines and approves plans for the use of housing provident funds, the competent construction administrative department under the State Council together with the finance department under the State Council, or the competent construction administrative department of the people's government of a province or autonomous region together with the finance department at the same level, shall, in accordance with its administrative functions and powers, order it to make corrections within a specified time limit."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a housing provident fund management centre, in violation of the provisions of these Regulations, commits any of the following acts, the competent construction administrative department under the State Council or the competent construction administrative department of the people's government of a province or autonomous region shall, in accordance with its administrative functions and powers, order it to make corrections within a specified time limit, and shall impose administrative disciplinary sanctions in accordance with law on the responsible persons in charge and other persons directly responsible:\n(a) failing to open a special housing provident fund account as required;\n(b) failing to examine and approve the withdrawal and use of housing provident funds by employees as required;\n(c) failing to use the value-added income of housing provident funds as required;\n(d) entrusting an institution other than the bank designated by the housing provident fund management committee with the handling of financial business of housing provident funds;\n(e) failing to establish subsidiary ledgers of employees' housing provident funds;\n(f) failing to issue to employees who deposit housing provident funds valid certificates of the deposit of housing provident funds; or\n(g) failing to use housing provident funds to purchase government bonds as required."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where housing provident funds are misappropriated in violation of the provisions of these Regulations, the competent construction administrative department under the State Council or the competent construction administrative department of the people's government of a province or autonomous region shall, in accordance with its administrative functions and powers, recover the misappropriated housing provident funds and confiscate the illegal gains; the leading members of the people's government and of the relevant government departments responsible for misappropriating or approving the misappropriation of housing provident funds, as well as the responsible persons in charge and other persons directly responsible in the housing provident fund management centre, shall, in accordance with the provisions of the Criminal Law on the crime of misappropriating public funds or other crimes, be investigated for criminal responsibility in accordance with law; where the case is not serious enough for criminal punishment, they shall be given administrative disciplinary sanctions of demotion or removal from office."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a housing provident fund management centre violates fiscal laws and regulations, the finance department shall impose an administrative penalty on it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a housing provident fund management centre, in violation of the provisions of these Regulations, provides security to others, administrative disciplinary sanctions shall be imposed in accordance with law on the persons directly in charge and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a functionary of a State organ, in the supervision and administration of housing provident funds, abuses his power, neglects his duty or commits malpractices for personal gain and the act constitutes a crime, he shall be investigated for criminal responsibility in accordance with law; where the act does not constitute a crime, he shall be given an administrative disciplinary sanction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Measures for the financial management and accounting of housing provident funds shall be formulated by the finance department under the State Council in consultation with the competent construction administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Entities that have not yet completed the registration of the deposit of housing provident funds and the procedures for opening employees' housing provident fund accounts before these Regulations come into force shall, within 60 days from the date these Regulations come into force, register the deposit with the housing provident fund management centre and complete the procedures for opening employees' housing provident fund accounts with the entrusted bank."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "These Regulations come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0616'] = {
+    "lawId": "CN-REG-0616",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 50 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the administration of housing provident funds, protect the lawful rights and interests of the owners of housing provident funds, better satisfy the diverse needs for housing consumption, promote the construction of housing in urban areas, and raise the housing standards of urban residents."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the contribution, withdrawal, use, administration and supervision of housing provident funds within the territory of the People's Republic of China.\nFor the purposes of these Regulations, housing provident funds refer to long-term housing savings contributed by state organs, state-owned enterprises, urban collectively owned enterprises, foreign-invested enterprises, urban private enterprises and other urban enterprises, public institutions, private non-enterprise units and social organisations (hereinafter collectively referred to as units), and by their employees in service."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Housing provident funds contributed by an employee individually and housing provident funds contributed by the employee's unit for the employee shall be owned by the employee personally."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The administration of housing provident funds shall follow the principles of decision-making by the housing provident fund management committee, operation by the housing provident fund management centre, storage in special bank accounts, and supervision by the finance department."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Housing provident funds shall be withdrawn and used in accordance with the provisions of these Regulations, and no unit or individual shall divert them to other uses."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The deposit and loan interest rates of housing provident funds shall be determined by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent department for housing and urban-rural development under the State Council shall, jointly with the finance department of the State Council, the People's Bank of China and the banking regulatory authority of the State Council, formulate policies on housing provident funds and supervise their implementation.\nThe competent department for housing and urban-rural development of the people's government of a province or autonomous region shall, jointly with the finance department at the same level, the branch of the People's Bank of China and the dispatched office of the banking regulatory authority of the State Council, be responsible for supervising the implementation of laws, regulations and policies on the administration of housing provident funds within its administrative region."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A municipality directly under the Central Government, a city where the people's government of a province or autonomous region is located, and any other city with districts (prefecture, autonomous prefecture or league) shall establish a housing provident fund management committee as the decision-making body for the administration of housing provident funds. Among the members of the housing provident fund management committee, persons in charge of the people's government, persons in charge of the relevant departments such as the competent department for housing and urban-rural development, the finance department, the People's Bank of China and the banking regulatory authority, and relevant experts shall account for one third; representatives of trade unions and representatives of employees shall account for one third; and representatives of units shall account for one third.\nThe chairperson of the housing provident fund management committee shall be a person of public credibility."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The housing provident fund management committee shall perform the following duties in the administration of housing provident funds:\n(a) formulate and adjust specific measures for the administration of housing provident funds in accordance with the relevant laws, regulations and policies, and supervise their implementation;\n(b) draft the specific contribution rates of housing provident funds in accordance with the provisions of Article 18 of these Regulations;\n(c) determine the maximum loan amount of housing provident funds;\n(d) examine and approve the plan for the collection and use of housing provident funds;\n(e) deliberate on the plan for the distribution of the value-added income of housing provident funds;\n(f) examine and approve the report on the implementation of the plan for the collection and use of housing provident funds; and\n(g) examine and approve applications for the write-off of bad debts of housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A municipality directly under the Central Government, a city where the people's government of a province or autonomous region is located, and any other city with districts (prefecture, autonomous prefecture or league) shall, in adherence to the principles of simplicity and efficiency, establish one housing provident fund management centre, which shall be responsible for the administration and operation of housing provident funds. No housing provident fund management centre shall be established in a county (city).\nA housing provident fund management centre as mentioned in the preceding paragraph may establish a branch office in a county (city) where conditions permit. A housing provident fund management centre and its branch offices shall apply unified rules and regulations and conduct unified accounting.\nA housing provident fund management centre is an independent public institution directly under the municipal people's government and does not operate for profit."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A housing provident fund management centre shall perform the following duties:\n(a) prepare and implement the plan for the collection and use of housing provident funds;\n(b) be responsible for recording the contribution, withdrawal and use of housing provident funds by employees;\n(c) be responsible for the accounting of housing provident funds;\n(d) examine and approve the withdrawal and use of housing provident funds;\n(e) be responsible for preserving the value of housing provident funds and repaying them;\n(f) prepare the report on the implementation of the plan for the collection and use of housing provident funds; and\n(g) undertake other matters decided by the housing provident fund management committee."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A housing provident fund management committee shall, in accordance with the relevant provisions of the People's Bank of China and the banking regulatory authority of the State Council, designate commercial banks to be entrusted with handling banking business relating to housing provident funds (hereinafter referred to as entrusted banks); a housing provident fund management centre shall entrust an entrusted bank with handling banking business such as housing provident fund loans and settlement, as well as procedures such as the opening, contribution and repayment of housing provident fund accounts.\nA housing provident fund management centre shall sign an entrustment contract with the entrusted bank."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A housing provident fund management centre shall open a special housing provident fund account with an entrusted bank.\nA unit shall go through the registration of housing provident fund contribution with a housing provident fund management centre and complete the procedures for opening housing provident fund accounts for its employees. Each employee may have only one housing provident fund account.\nA housing provident fund management centre shall establish detailed accounts of employees' housing provident funds, recording the contribution and withdrawal of employees' personal housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A newly established unit shall, within 30 days from the date of its establishment, go through the registration of housing provident fund contribution with a housing provident fund management centre, and shall, within 20 days from the date of registration, complete the procedures for opening housing provident fund accounts for its employees.\nWhere a unit is merged, divided, revoked, dissolved or goes bankrupt, the original unit or the liquidation organisation shall, within 30 days from the date on which any of the aforesaid circumstances occurs, go through the registration of alteration or cancellation with a housing provident fund management centre, and shall, within 20 days from the date on which the registration of alteration or cancellation is completed, complete the procedures for the transfer or sealing of housing provident fund accounts for its employees."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a unit employs an employee, it shall, within 30 days from the date of employment, go through the registration of contribution with a housing provident fund management centre and complete the procedures for opening or transferring the employee's housing provident fund account.\nWhere a unit terminates its labour relationship with an employee, the unit shall, within 30 days from the date of termination of the labour relationship, go through the registration of alteration with a housing provident fund management centre and complete the procedures for transferring or sealing the employee's housing provident fund account."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The monthly contribution to an employee's housing provident fund shall be the employee's average monthly wage for the previous year multiplied by the employee's housing provident fund contribution rate.\nThe monthly contribution to the housing provident fund made by a unit for an employee shall be the employee's average monthly wage for the previous year multiplied by the unit's housing provident fund contribution rate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "An employee newly participating in work shall contribute to the housing provident fund from the second month of participation in work, and the monthly contribution shall be the employee's wage for the current month multiplied by the employee's housing provident fund contribution rate.\nAn employee newly transferred into a unit shall contribute to the housing provident fund from the date on which the receiving unit pays wages, and the monthly contribution shall be the employee's wage for the current month multiplied by the employee's housing provident fund contribution rate."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The contribution rates of both the employee and the unit to the housing provident fund shall be neither lower than 5 per cent of the employee's average monthly wage for the previous year nor higher than the maximum contribution rate prescribed by the State. The specific contribution rate shall be drafted by the housing provident fund management committee and, after being examined by the people's government at the corresponding level, reported to the people's government of the province, autonomous region or municipality directly under the Central Government for approval."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The housing provident fund contributed by an employee personally shall be withheld and paid on the employee's behalf by the employing unit from the employee's wages each month.\nA unit shall, within five days from the date on which it pays employees' wages each month, remit into the special housing provident fund account the housing provident funds contributed by the unit and withheld and paid on behalf of employees, and the entrusted bank shall credit them to the employees' housing provident fund accounts."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A unit shall contribute to the housing provident fund on time and in full, and shall not make late contributions or contribute less than the required amount.\nWhere a unit has genuine difficulties in contributing to the housing provident fund, upon discussion and approval by the employees' congress or trade union of the unit, examination by the housing provident fund management centre and approval by the housing provident fund management committee, the unit may lower the contribution rate or defer contribution; after the unit's economic efficiency improves, the contribution rate shall be raised again or the deferred contribution shall be made up."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Housing provident funds shall accrue interest at the rate prescribed by the State from the date on which they are deposited into the employee's housing provident fund account."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A housing provident fund management centre shall issue valid vouchers for the contribution of housing provident funds to employees who contribute to housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Housing provident funds contributed by a unit for an employee shall, in accordance with the relevant provisions, be included in the relevant costs and expenses; for state organs and public institutions, such funds shall be paid out of their budgets."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Contributions"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "An employee may withdraw the balance stored in the employee's housing provident fund account under any of the following circumstances:\n(a) the employee pays housing rent;\n(b) the employee purchases, builds, renovates or undertakes major repairs of a self-occupied house;\n(c) the employee repays the principal and interest of a house purchase loan;\n(d) the employee decorates a self-occupied house;\n(e) the employee pays property management fees for a self-occupied house;\n(f) the employee leaves office with honours or retires;\n(g) the employee has completely lost the ability to work and has terminated the labour relationship with the unit;\n(h) the employee settles abroad; and\n(i) other circumstances of housing consumption approved by the State Council.\nWhere the balance of an employee's housing provident fund is withdrawn in accordance with the provisions of items (f), (g) and (h) of the preceding paragraph, the employee's housing provident fund account may be cancelled at the same time.\nWhere an employee dies or is declared dead, the employee's successors or legatees may withdraw the balance stored in the employee's housing provident fund account; where there is neither a successor nor a legatee, the balance stored in the employee's housing provident fund account shall be incorporated into the value-added income of housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an employee applies for the withdrawal of housing provident funds, the housing provident fund management centre shall, within three days from the date of accepting the application, make a decision on whether to approve the withdrawal and notify the applicant; where the withdrawal is approved, the entrusted bank shall complete the payment procedures."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "An employee who contributes to housing provident funds may apply to the housing provident fund management centre for a housing provident fund loan when purchasing, building, renovating or undertaking major repairs of a self-occupied house.\nThe housing provident fund management centre shall, within 10 days from the date of accepting the application, make a decision on whether to approve the loan and notify the applicant; where the loan is approved, the entrusted bank shall complete the loan procedures.\nThe risks of housing provident fund loans shall be borne by the housing provident fund management centre."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "An applicant applying for a housing provident fund loan shall provide security."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "On the premise of ensuring the withdrawal and lending of housing provident funds, and upon approval by the housing provident fund management committee, a housing provident fund management centre may use housing provident funds to purchase treasury bonds and policy-based financial bonds.\nA housing provident fund management centre shall not provide security for others."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The value-added income of housing provident funds shall be deposited into the special account for the value-added income of housing provident funds opened by the housing provident fund management centre with an entrusted bank, and shall be used mainly to establish risk reserves for housing provident fund loans, to cover the administration expenses of the housing provident fund management centre, and to serve as supplementary funds for relevant public expenditures in the housing field, such as the construction, raising, operation and maintenance of public rental housing and the safety management of houses throughout their whole life cycle."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The administration expenses of a housing provident fund management centre shall be prepared by the centre as the total annual budgeted expenditure in accordance with the prescribed standards and, after being reported to the finance department of the people's government at the corresponding level for approval, paid over to the finance authorities at the corresponding level out of the value-added income of housing provident funds and appropriated by the finance authorities at the corresponding level.\nThe standards for the administration expenses of a housing provident fund management centre shall be formulated by the competent department for housing and urban-rural development of the people's government of a province, autonomous region or municipality directly under the Central Government, jointly with the finance department at the same level, in accordance with the expense standards for public institutions prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The competent department for housing and urban-rural development under the State Council, the competent departments for housing and urban-rural development of the people's governments of provinces and autonomous regions, and housing provident fund management centres shall strengthen digital and intelligent development, improve the efficiency of housing provident fund administration and services, achieve mutual trust and mutual recognition of housing provident fund contribution records and the like nationwide, and facilitate the convenient and efficient handling of such services as the transfer and continuation of housing provident funds and cross-region loans."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Withdrawal and Use"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The finance departments of the relevant local people's governments shall strengthen supervision over the collection, withdrawal and use of housing provident funds within their administrative regions, and shall report to the housing provident fund management committees of the people's governments at the corresponding level.\nWhen preparing the plan for the collection and use of housing provident funds, a housing provident fund management centre shall seek the opinions of the finance department.\nWhen examining and approving the plan for the collection and use of housing provident funds and the report on the implementation of the plan, a housing provident fund management committee must have the participation of the finance department."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The annual budget and final accounts of housing provident funds prepared by a housing provident fund management centre shall, after being examined by the finance department, be submitted to the housing provident fund management committee for deliberation.\nA housing provident fund management centre shall report financial statements to the finance department, the competent department for housing and urban-rural development and the housing provident fund management committee at regular intervals each year, and shall publish the financial statements to the public."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A housing provident fund management centre shall accept audit supervision by audit departments in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A housing provident fund management centre shall urge units to perform the following obligations on time:\n(a) registration of housing provident fund contribution or registration of alteration or cancellation;\n(b) opening, transfer or sealing of housing provident fund accounts; and\n(c) contribution of housing provident funds in full.\nEmployees shall have the right to urge units to perform the obligations prescribed in the preceding paragraph on time."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A housing provident fund management centre shall urge entrusted banks to promptly handle the business agreed upon in the entrustment contract.\nAn entrusted bank shall, in accordance with the stipulations of the entrustment contract, periodically provide the housing provident fund management centre with the relevant business materials."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Employees and units shall have the right to inquire about the contribution and withdrawal of their own or their units' housing provident funds, and housing provident fund management centres and entrusted banks shall not refuse.\nWhere an employee or a unit objects to the balance stored in a housing provident fund account, it may apply to the entrusted bank for review; where it objects to the result of the review, it may apply to the housing provident fund management centre for re-review. The entrusted bank and the housing provident fund management centre shall give a written reply within five days from the date of receiving the application.\nEmployees shall have the right to expose, report and accuse the misappropriation of housing provident funds."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The competent department for housing and urban-rural development under the State Council shall determine the public credit information in the field of housing provident funds, and housing provident fund management centres shall establish comprehensive, complete and accurate credit records and include them in the national credit information sharing platform."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a unit, in violation of the provisions of these Regulations, fails to go through the registration of housing provident fund contribution or fails to complete the procedures for opening housing provident fund accounts for its employees, the housing provident fund management centre shall order it to complete the procedures within a time limit; where it fails to complete the procedures within the time limit, it shall be fined not less than RMB 50,000 and not more than RMB 300,000."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a unit, in violation of the provisions of these Regulations, fails to make contribution or contributes less than the required amount beyond the time limit, the housing provident fund management centre shall order it to make the contribution within a time limit; where it still fails to make the contribution beyond the time limit, the centre may apply to the people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where housing provident funds are withdrawn illegally by means of fraud, forged supporting materials or other means, the housing provident fund management centre shall order the return of the illegally withdrawn housing provident funds within a time limit, and the withdrawal of housing provident funds or the use of housing provident fund loans shall be prohibited for three years.\nWhere a housing provident fund loan is illegally obtained by means of fraud, forged supporting materials or other means, the housing provident fund management centre shall order the return of the loan funds within a time limit, and the withdrawal of housing provident funds or the use of housing provident fund loans shall be prohibited for five years."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a housing provident fund management committee examines and approves a plan for the use of housing provident funds in violation of the provisions of these Regulations, the competent department for housing and urban-rural development under the State Council jointly with the finance department of the State Council, or the competent department for housing and urban-rural development of the people's government of a province or autonomous region jointly with the finance department at the same level shall, in accordance with the administrative authority, order rectification within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a housing provident fund management centre, in violation of the provisions of these Regulations, commits any of the following acts, the competent department for housing and urban-rural development under the State Council or the competent department for housing and urban-rural development of the people's government of a province or autonomous region shall, in accordance with the administrative authority, order rectification within a time limit, and the persons in charge with responsibility and other persons directly responsible shall be given disciplinary sanctions in accordance with the law:\n(a) failing to open a special housing provident fund account in accordance with the relevant provisions;\n(b) failing to examine and approve the withdrawal or use of housing provident funds by employees in accordance with the relevant provisions;\n(c) failing to use the value-added income of housing provident funds in accordance with the relevant provisions;\n(d) entrusting an institution other than the banks designated by the housing provident fund management committee with handling banking business relating to housing provident funds;\n(e) failing to establish detailed accounts of employees' housing provident funds;\n(f) failing to issue valid vouchers for the contribution of housing provident funds to employees who contribute to housing provident funds;\n(g) using housing provident funds to purchase treasury bonds or policy-based financial bonds without approval; and\n(h) failing to urge units to perform obligations such as the registration of housing provident fund contribution on time."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where housing provident funds are misappropriated in violation of the provisions of these Regulations, the competent department for housing and urban-rural development under the State Council or the competent department for housing and urban-rural development of the people's government of a province or autonomous region shall, in accordance with the administrative authority, recover the misappropriated housing provident funds and confiscate the illegal gains; the persons in charge of the people's government and the persons in charge of the relevant departments of the government who misappropriate or approve the misappropriation of housing provident funds, and the persons in charge with responsibility and other persons directly responsible in the housing provident fund management centre, shall be investigated for criminal liability in accordance with the provisions of the Criminal Law on the crime of misappropriating public funds or other crimes; where the circumstances are not serious enough for criminal punishment, disciplinary sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a housing provident fund management centre violates fiscal laws and regulations, the finance department shall impose an administrative penalty on it in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a housing provident fund management centre, in violation of the provisions of these Regulations, provides security for others, the directly responsible persons in charge and other persons directly responsible shall be given disciplinary sanctions in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a staff member of a state organ abuses power, neglects duty or commits fraud for personal gain in the supervision and administration of housing provident funds, and a crime is constituted, criminal liability shall be investigated in accordance with the law; where no crime is constituted, disciplinary sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The measures for the financial administration and accounting of housing provident funds shall be formulated by the finance department of the State Council in consultation with the competent department for housing and urban-rural development under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Individually owned businesses, part-time employees and other persons in flexible employment may contribute to housing provident funds on a voluntary basis and shall enjoy corresponding policy support in accordance with the relevant provisions. The specific measures shall be formulated by the local people's governments at or above the level of a city with districts.\nThe competent department for housing and urban-rural development under the State Council and other relevant departments shall strengthen guidance for the contribution of housing provident funds by persons in flexible employment."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0617'] = {
+    "lawId": "CN-REG-0617",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 50 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to regulate housing leasing activities, protect the lawful rights and interests of the parties to housing leasing activities, stabilise housing leasing relationships, promote the high-quality development of the housing leasing market, and accelerate the establishment of a housing system that attaches equal importance to renting and purchasing."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to housing leasing activities on urban state-owned land and the supervision and administration thereof."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The development of the housing leasing market shall carry out the lines, principles and policies of the Party and the State and their decisions and arrangements, and adhere to the combination of market leadership with government guidance."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department for housing and urban-rural development under the State Council shall be responsible for the supervision and administration of housing leasing activities nationwide.\nThe real estate administration departments of the local people's governments at or above the county level shall be responsible for the supervision and administration of housing leasing activities within their respective administrative regions.\nThe market supervision and administration, public security and other departments of the people's governments at or above the county level shall, in accordance with the provisions of these Regulations and other relevant laws and regulations, be responsible for the supervision and administration of housing leasing activities within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall encourage resident households to use their own housing resources for leasing, support enterprises in revitalising and renovating old factory buildings, commercial and office buildings, self-held commercial housing and the like for leasing purposes, and increase the supply of leased housing through multiple channels.\nThe State shall encourage lessors and lessees to establish stable housing leasing relationships in accordance with the law, and promote equal rights for rented and purchased housing in the enjoyment of public services."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Those engaging in housing leasing activities shall abide by laws and regulations and follow the principles of equality, voluntariness, fairness and good faith, shall not endanger State security, harm the public interest or the lawful rights and interests of others, and shall not violate public order and good morals."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Housing to be leased shall comply with the laws, regulations, rules and mandatory standards on construction, fire prevention, gas, interior decoration and renovation, and shall not endanger personal safety or health.\nNon-residential spaces such as kitchens, bathrooms, balconies, passageways, underground storage rooms and garages shall not be separately leased for residential purposes.\nThe maximum number of persons per room of leased housing and the minimum per capita floor area for leased housing shall comply with the standards prescribed by the local people's governments at or above the level of a city with districts."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Letting and Renting"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A lessor and a lessee shall sign a housing lease contract under their real names.\nA lessor shall, in accordance with the relevant provisions, file the housing lease contract with the real estate administration department at the place where the leased housing is located through such means as the housing leasing administration and service platform. The real estate administration department shall improve the level of its services for the filing of housing lease contracts and shall not charge any fee for the filing of housing lease contracts.\nWhere a lessor fails to complete the filing of a housing lease contract, the lessee may complete the filing."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Letting and Renting"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A lessor shall comply with the following provisions:\n(a) presenting to the lessee identification materials, the immovable property ownership certificate for the housing to be leased or other materials proving that the lessor has the lawful right to lease the housing, and cooperating with the lessee in making inquiries and verifying the relevant information on the housing to be leased in accordance with the law;\n(b) verifying the lessee's identification materials, and not leasing the housing to any unit or individual that refuses to present identification materials; and\n(c) not entering the leased housing without authorisation, except with the consent of the lessee or where entry is permitted by law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Letting and Renting"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a lessor charges a deposit, it shall agree in the housing lease contract on such matters as the amount of the deposit, the time for its return, and the circumstances under which the deposit may be deducted. Except in the circumstances agreed upon in the housing lease contract, a lessor shall not deduct from the deposit without justified reasons."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Letting and Renting"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A lessee shall comply with the following provisions:\n(a) presenting identification materials to the lessor;\n(b) using the leased housing in a safe and reasonable manner, not damaging, dismantling without authorisation or disabling fire prevention facilities, not altering the load-bearing structure of the leased housing, and not connecting water, electricity or gas pipelines without authorisation;\n(c) not changing the use of the leased housing, dismantling or altering indoor facilities, or altering other structures of the leased housing without the lessor's consent;\n(d) complying with the property management stipulations, and not discarding waste at will, discharging pollutants in excess of the standards or generating noise, keeping animals in violation of the relevant provisions, building structures in violation of the relevant provisions, occupying public passageways, throwing objects from heights, or committing other acts that harm the lawful rights and interests of others; and\n(e) cooperating where the lessor genuinely needs to enter the leased housing in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Letting and Renting"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a lessor rescinds a housing lease contract in accordance with the law, it shall notify the lessee and leave reasonable time for the lessee to vacate and return the leased housing.\nA lessor shall not use violence, threats or other unlawful means to force the lessee to rescind the housing lease contract or to vacate and return the leased housing."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Letting and Renting"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a housing lease contract has been performed continuously for the prescribed period, the lessor shall enjoy corresponding policy support and the lessee shall enjoy corresponding basic public services in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Letting and Renting"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State shall improve policies and measures and foster market-oriented and specialised housing leasing enterprises.\nHousing leasing enterprises refer to enterprises that carry out housing leasing business using their own housing or other persons' housing for which they have lawfully obtained the right to operation and management. A housing leasing enterprise shall have own funds, practitioners and management capabilities commensurate with its scale of operation.\nWhere a housing leasing enterprise leases housing, the provisions of these Regulations on lessors shall apply."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Housing Leasing Enterprises"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The business scope registered by a housing leasing enterprise in accordance with the law shall use the expression 'housing leasing'.\nA housing leasing enterprise shall, within 30 days from the date of obtaining its business licence, submit information on the commencement of business to the real estate administration department of the local people's government at or above the county level at the place where it is located. The real estate administration department shall make public the information on the commencement of business of housing leasing enterprises.\nA housing leasing enterprise shall publish such information as its business commencement information, service norms and standards in a prominent position at its business premises."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Housing Leasing Enterprises"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The housing listing information such as the address, floor area and rent of housing released by a housing leasing enterprise shall be true, accurate and complete; the housing listing information released through different channels such as its business premises and the Internet shall be consistent; and the pictures of housing released shall be consistent with the physical housing. A housing leasing enterprise shall not release false or misleading housing listing information, and shall not conceal or refuse to provide important information on the housing to be leased."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Housing Leasing Enterprises"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A housing leasing enterprise shall establish housing leasing archives, truthfully record the relevant information, and improve internal management systems such as the inspection and verification of housing leasing information.\nA housing leasing enterprise shall not unlawfully collect, use, process or transmit other persons' personal information, and shall not unlawfully buy, sell, provide or disclose other persons' personal information."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Housing Leasing Enterprises"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A housing leasing enterprise shall, in accordance with the relevant provisions, submit information on the leased housing under its operation and changes thereto to the real estate administration department of the local people's government at or above the county level at the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Housing Leasing Enterprises"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A housing leasing enterprise engaged in subleasing business shall, in accordance with the relevant provisions, open an account for the supervision of housing leasing funds and make the account public, and shall handle the receipt and payment of housing leasing funds through such account. The specific measures shall be formulated by the competent department for housing and urban-rural development under the State Council jointly with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Housing Leasing Enterprises"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a natural person subleases other persons' housing to carry out housing leasing business and the scale of operation reaches the standards prescribed by the competent department for housing and urban-rural development under the State Council jointly with the market supervision and administration department of the State Council and other relevant departments, the provisions of these Regulations on housing leasing enterprises shall apply."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Housing Leasing Enterprises"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A real estate brokerage organisation engaged in housing leasing business (hereinafter referred to as a housing leasing brokerage organisation) shall have own funds, practitioners and management capabilities commensurate with its scale of operation."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Brokerage Institutions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A housing leasing brokerage organisation shall file the list of its practitioners with the real estate administration department of the local people's government at or above the county level at the place where it is located. Practitioners of a housing leasing brokerage organisation shall not engage in business in two or more housing leasing brokerage organisations at the same time.\nPractitioners of a housing leasing brokerage organisation shall not undertake housing leasing brokerage business in their personal names."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Brokerage Institutions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Before releasing housing listing information, a housing leasing brokerage organisation shall verify and record the client's identity information and information on the ownership of the housing, conduct on-site inspection of the housing, sign a housing leasing brokerage service contract with the client, and prepare a statement of housing conditions. The housing leasing brokerage service contract and the statement of housing conditions shall be affixed with the seal of the housing leasing brokerage organisation and shall be preserved in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Brokerage Institutions"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The provisions of paragraphs 2 and 3 of Article 15, Article 16 and Article 17 of these Regulations shall apply to housing leasing brokerage organisations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Brokerage Institutions"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A housing leasing brokerage organisation shall not commit any of the following acts:\n(a) providing brokerage services for the leasing of housing that fails to comply with the laws, regulations, rules or mandatory standards on construction, fire prevention, gas, interior decoration or renovation;\n(b) providing brokerage services for the separate leasing of non-residential spaces such as kitchens, bathrooms, balconies, passageways, underground storage rooms or garages for residential purposes;\n(c) providing brokerage services for the leasing of housing where the maximum number of persons per room or the minimum per capita floor area fails to comply with the prescribed standards;\n(d) collecting or paying rent or deposits for housing on behalf of others;\n(e) signing a housing lease contract in the name of a party without that party's consent; and\n(f) engaging in other acts prohibited by laws, regulations or rules."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Brokerage Institutions"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A housing leasing brokerage organisation shall clearly mark the prices of its paid service items, and shall not charge prices above the marked prices or collect fees that are not marked."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Brokerage Institutions"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a lessor and a lessee sign a housing lease contract through a housing leasing brokerage organisation, the housing lease contract shall be filed by the housing leasing brokerage organisation."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Brokerage Institutions"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The competent department for housing and urban-rural development under the State Council shall, jointly with the market supervision and administration department of the State Council, formulate and publish model texts for housing lease contracts and housing leasing brokerage service contracts."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Local people's governments at or above the level of a city with districts shall establish a monitoring mechanism for housing rents and regularly publish information on rent levels for housing of different types in different areas within their administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The real estate administration departments of local people's governments at or above the county level shall, through housing leasing administration and service platforms, carry out administration and services such as contract filing, information management of leased housing and statistical monitoring, and shall establish information sharing mechanisms with the civil affairs, natural resources, education, market supervision and administration, financial regulation, public security, taxation and statistics departments."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The real estate administration departments of local people's governments at or above the county level shall, jointly with the relevant departments, strengthen supervision and inspection of housing leasing activities and promptly handle violations of the law in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The real estate administration departments of local people's governments at or above the county level may entrust implementing units to undertake supporting and auxiliary work relating to the administration of housing leasing and other relevant specific work. An implementing unit entrusted by a real estate administration department shall not operate for profit.\nThe real estate administration departments of local people's governments at or above the county level shall strengthen supervision over the implementing units they have entrusted and shall bear legal liability for the consequences of the acts of the implementing units within the scope of the entrustment."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The real estate administration departments of local people's governments at or above the county level shall, jointly with the relevant departments and industry organisations relating to housing leasing, strengthen the building of integrity in the housing leasing industry, establish a credit evaluation system for housing leasing enterprises, housing leasing brokerage organisations and their practitioners, record relevant violations of laws and regulations in credit records and include them in the national credit information sharing platform, and carry out tiered and categorised supervision on the basis of credit standing."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Industry organisations relating to housing leasing shall establish and improve industry norms, strengthen industry self-discipline management, and promote the sound development of the industry."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where disputes arise in housing leasing activities over the return of deposits, the repair of housing, or the vacating and return of housing, they shall be resolved through consultation between the lessor and the lessee; where consultation fails, the parties may apply for mediation or arbitration, or file a lawsuit, in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "An operator of an online platform that provides services for the release of housing leasing information (hereinafter referred to as an online platform operator) shall verify the true identity information of the person releasing housing leasing information.\nWhere an online platform operator knows or should know that a person releasing information provides false information or is in other unlawful circumstances, it shall take necessary measures such as deleting the relevant information in accordance with the law, preserve the relevant records, and report to the relevant departments.\nAn online platform operator shall not collect or pay rent or deposits for housing on behalf of others."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A lessor shall, in accordance with the relevant provisions, truthfully register and submit information on the lessee and the actual occupants, and shall promptly report to the public security organ upon discovering any unlawful or criminal activity. The specific measures shall be formulated by the public security department of the State Council.\nA lessee shall not use leased housing to carry out unlawful or criminal activities."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Whoever commits any of the following acts shall be punished in accordance with the provisions of the relevant laws, regulations and rules:\n(a) leasing housing that fails to comply with the laws, regulations, rules or mandatory standards on construction, fire prevention, gas, interior decoration or renovation;\n(b) damaging, dismantling without authorisation or disabling fire prevention facilities;\n(c) altering the load-bearing structure of leased housing; and\n(d) connecting water, electricity or gas pipelines without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where non-residential spaces such as kitchens, bathrooms, balconies, passageways, underground storage rooms or garages are separately leased for residential purposes, or where the maximum number of persons per room or the minimum per capita floor area of leased housing fails to comply with the prescribed standards, the real estate administration department of the local people's government at or above the county level shall order rectification and give a warning; where rectification is refused, a fine of not less than RMB 20,000 and not more than RMB 100,000 shall be imposed on a unit, and a fine of not less than RMB 2,000 and not more than RMB 10,000 shall be imposed on an individual; where there are illegal gains, the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a housing leasing enterprise or housing leasing brokerage organisation does not have own funds, practitioners or management capabilities commensurate with its scale of operation, the real estate administration department of the local people's government at or above the county level shall order rectification and give a warning; where rectification is refused and serious consequences are caused, the enterprise or organisation shall be ordered to suspend business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a housing leasing enterprise or housing leasing brokerage organisation is under any of the following circumstances, the real estate administration department of the local people's government at or above the county level shall order rectification and give a warning; where rectification is refused, a fine of not less than RMB 20,000 and not more than RMB 100,000 shall be imposed:\n(a) failing to submit information on the commencement of business in accordance with the relevant provisions;\n(b) failing to publish such information as its business commencement information, service norms and standards in a prominent position at its business premises;\n(c) failing to establish housing leasing archives and truthfully record the relevant information, or failing to improve internal management systems such as the inspection and verification of housing leasing information; and\n(d) failing to complete the filing of a housing lease contract in accordance with the relevant provisions.\nWhere a housing leasing enterprise fails to submit information on the leased housing under its operation and changes thereto in accordance with the relevant provisions, or a housing leasing brokerage organisation fails to sign a housing leasing brokerage service contract with the client or fails to prepare a statement of housing conditions in accordance with the relevant provisions, it shall be punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a housing leasing enterprise or housing leasing brokerage organisation releases false or misleading housing listing information, conceals or refuses to provide important information on the housing to be leased, the real estate administration department of the local people's government at or above the county level shall order rectification, give a warning and impose a fine of not less than RMB 20,000 and not more than RMB 100,000; where there are illegal gains, the illegal gains shall be confiscated; where rectification is refused, the enterprise or organisation shall be ordered to suspend business for rectification; where the circumstances are serious, the real estate administration department of the local people's government at or above the county level shall request the market supervision and administration department at the same level to revoke its business licence in accordance with the law.\nWhere a housing leasing enterprise or housing leasing brokerage organisation unlawfully collects, uses, processes or transmits other persons' personal information, or unlawfully buys, sells, provides or discloses other persons' personal information, it shall be punished in accordance with the provisions of the relevant laws and regulations on the protection of personal information."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a housing leasing enterprise engaged in subleasing business fails to open an account for the supervision of housing leasing funds and make the account public in accordance with the relevant provisions, or fails to handle the receipt and payment of housing leasing funds through such account in accordance with the relevant provisions, the real estate administration department of the local people's government at or above the county level shall order rectification, give a warning and impose a fine of not less than RMB 20,000 and not more than RMB 100,000; where rectification is refused, a fine of not less than RMB 100,000 and not more than RMB 500,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a housing leasing brokerage organisation is under any of the following circumstances, the real estate administration department of the local people's government at or above the county level shall order rectification, give a warning and impose a fine of not less than RMB 20,000 and not more than RMB 100,000; where there are illegal gains, the illegal gains shall be confiscated; where rectification is refused, the organisation shall be ordered to suspend business for rectification:\n(a) failing to verify and record the client's identity information and information on the ownership of the housing, or failing to conduct on-site inspection of the housing, before releasing housing listing information;\n(b) providing brokerage services for the leasing of housing that fails to comply with the laws, regulations, rules or mandatory standards on construction, fire prevention, gas, interior decoration or renovation;\n(c) providing brokerage services for the separate leasing of non-residential spaces such as kitchens, bathrooms, balconies, passageways, underground storage rooms or garages for residential purposes;\n(d) providing brokerage services for the leasing of housing where the maximum number of persons per room or the minimum per capita floor area fails to comply with the prescribed standards;\n(e) collecting or paying rent or deposits for housing on behalf of others;\n(f) signing a housing lease contract in the name of a party without that party's consent; and\n(g) failing to file the list of its practitioners in accordance with the relevant provisions.\nWhere an online platform operator collects or pays rent or deposits for housing on behalf of others, it shall be punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a practitioner of a housing leasing brokerage organisation engages in business in two or more housing leasing brokerage organisations at the same time, or undertakes housing leasing brokerage business in his or her personal name, the real estate administration department of the local people's government at or above the county level shall order rectification and give a warning, and may impose a fine of not more than RMB 10,000; where there are illegal gains, the illegal gains shall be confiscated; where rectification is refused, the person shall be prohibited from engaging in housing leasing brokerage business for one year; where the circumstances are serious, the person shall be prohibited from engaging in housing leasing brokerage business for five years."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an online platform operator fails to perform its verification responsibility, the real estate administration department of the local people's government at or above the county level shall notify the cyberspace administration, which shall dispose of the matter on the basis of its duties and may impose a fine of not more than RMB 100,000; where the circumstances are serious, the operator may be ordered to suspend the relevant business or suspend business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a staff member of a real estate administration department or another relevant department abuses power, neglects duty or commits fraud for personal gain in the supervision and administration of housing leasing activities, disciplinary sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a person, in violation of the provisions of these Regulations, causes losses to another, the person shall bear liability for compensation in accordance with the law; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administrative penalty in accordance with the law; where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the State provides otherwise for the leasing activities of government-subsidised housing and the supervision and administration thereof, such provisions shall prevail.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall formulate administrative measures for housing leasing activities on collective land in light of the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "These Regulations shall come into force on 15 September 2025."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0618'] = {
+    "lawId": "CN-REG-0618",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 48 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Copyright Law of the People's Republic of China (hereinafter referred to as the Copyright Law) for the purposes of regulating collective copyright management activities and facilitating copyright owners and holders of rights related to copyright (hereinafter referred to as right holders) to exercise their rights and users to use works."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Collective management of copyright as referred to in these Regulations means the following activities conducted by a copyright collective management organisation, upon the authorisation of right holders, to centrally exercise the relevant rights of right holders in its own name:\n(a) concluding licensing contracts for copyright or rights related to copyright with users (hereinafter referred to as licensing contracts);\n(b) collecting royalties from users;\n(c) transferring the collected royalties to right holders; and\n(d) conducting litigation, arbitration and other activities involving copyright or rights related to copyright."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A copyright collective management organisation as referred to in these Regulations means a social organisation that is established in accordance with the law for the interests of right holders and conducts collective management of the copyright or rights related to copyright of right holders upon their authorisation.\nA copyright collective management organisation shall undergo registration and carry out activities in accordance with the administrative regulations on the registration and administration of social organisations and the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The rights of performance, screening, broadcasting, rental, communication through information networks and reproduction, which are difficult for right holders to exercise effectively by themselves as prescribed in the Copyright Law, may be subject to collective management by a copyright collective management organisation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The copyright administrative department of the State Council shall be in charge of the administration of collective copyright management throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Except for copyright collective management organisations established in accordance with the provisions of these Regulations, no organisation or individual shall engage in collective copyright management activities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Chinese citizens, legal persons or other organisations that enjoy copyright or rights related to copyright in accordance with the law may initiate the establishment of a copyright collective management organisation.\nThe establishment of a copyright collective management organisation shall meet the following conditions:\n(a) the number of right holders who initiate the establishment of the copyright collective management organisation is not less than 50;\n(b) its business scope does not overlap or coincide with that of an already registered copyright collective management organisation;\n(c) it is capable of representing the interests of relevant right holders on a nationwide scale; and\n(d) it has the draft articles of association of the copyright collective management organisation, the draft standards for the collection of royalties and the draft measures for the transfer of royalties to right holders (hereinafter referred to as the measures for the transfer of royalties)."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The articles of association of a copyright collective management organisation shall state the following matters:\n(a) its name and domicile;\n(b) the purpose of its establishment;\n(c) its business scope;\n(d) its organisational structure and the functions and powers thereof;\n(e) the minimum number of members of the members' assembly;\n(f) the duties of the board of directors and the conditions for, and the procedures for the election and removal of, the person in charge of the board of directors;\n(g) the measures for the withdrawal and use of the management fee;\n(h) the conditions and procedures for the admission and withdrawal of members;\n(i) the procedures for the amendment of the articles of association; and\n(j) the conditions and procedures for the termination of the copyright collective management organisation and the disposal of its assets after termination."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To apply for the establishment of a copyright collective management organisation, an applicant shall submit to the copyright administrative department of the State Council the materials proving that the conditions prescribed in Article 7 of these Regulations are met. The copyright administrative department of the State Council shall, within 60 days from the date of receipt of the materials, make a decision on approval or disapproval. Where the application is approved, a licence for collective copyright management shall be issued; where the application is disapproved, the reasons shall be given."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The applicant shall, within 30 days from the date on which the copyright administrative department of the State Council issues the licence for collective copyright management, go through the registration formalities with the civil affairs department of the State Council in accordance with the administrative regulations on the registration and administration of social organisations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A copyright collective management organisation registered in accordance with the law shall, within 30 days from the date on which the civil affairs department of the State Council issues the registration certificate, submit a copy of the registration certificate to the copyright administrative department of the State Council for the record; the copyright administrative department of the State Council shall announce the copy of the registration certificate submitted for the record as well as the articles of association of the copyright collective management organisation, the standards for the collection of royalties and the measures for the transfer of royalties."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a copyright collective management organisation establishes a branch, it shall be subject to the approval of the copyright administrative department of the State Council and shall go through the registration formalities with the civil affairs department of the State Council in accordance with the administrative regulations on the registration and administration of social organisations. Where the branch has been registered in accordance with the law, a copy of its registration certificate shall be submitted to the copyright administrative department of the State Council for the record, and the copyright administrative department of the State Council shall make an announcement thereon."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A copyright collective management organisation shall formulate the standards for the collection of royalties on the basis of the following factors:\n(a) the time, manner and territorial scope of the use of works, audio and video recordings, etc.;\n(b) the types of rights; and\n(c) the degree of complexity of the work of concluding licensing contracts and collecting royalties."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A copyright collective management organisation shall formulate the measures for the transfer of royalties on the basis of the use of the works or audio and video recordings, etc. of right holders."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a copyright collective management organisation amends its articles of association, the amendment shall, upon verification and approval by the civil affairs department of the State Council in accordance with the law, be announced by the copyright administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the registration of a copyright collective management organisation is cancelled in accordance with the law, it shall not engage in collective copyright management activities any longer from the date of cancellation of registration."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The members' assembly of a copyright collective management organisation (hereinafter referred to as the members' assembly) shall be the organ of power of the copyright collective management organisation.\nThe members' assembly shall be convened by the board of directors in accordance with the provisions of these Regulations. The board of directors shall announce the time and place of the meeting and the matters to be deliberated 60 days before the members' assembly is convened; members attending the members' assembly shall enrol 30 days before the meeting is convened. Where the number of members who have enrolled to attend the members' assembly is less than the minimum number prescribed in the articles of association, the board of directors shall announce the enrolment situation of the members' assembly, members may make supplementary enrolment five days before the meeting is convened, and the members' assembly shall be held by all the members who have enrolled to attend it.\nThe members' assembly shall exercise the following functions and powers:\n(a) formulating and amending the articles of association;\n(b) formulating and amending the standards for the collection of royalties;\n(c) formulating and amending the measures for the transfer of royalties;\n(d) electing and removing directors;\n(e) deliberating and approving the work report and the financial report of the board of directors;\n(f) formulating internal management rules;\n(g) deciding on the plan for the transfer of royalties and the proportion of the management fee to be withdrawn by the copyright collective management organisation; and\n(h) deciding on other major matters.\nThe members' assembly shall be convened once a year; an interim members' assembly may be convened upon the proposal of 10 per cent or more of the members or of the board of directors. A decision of the members' assembly shall be adopted by a vote of more than half of the members present at the meeting."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Structure of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A copyright collective management organisation shall establish a board of directors, which shall be responsible to the members' assembly and implement the decisions of the members' assembly. The number of members of the board of directors shall not be less than nine.\nThe term of office of the board of directors shall be four years, and a general election shall be held upon the expiry of the term of office. Under special circumstances, the general election may be held in advance or postponed; however, the postponement shall not exceed one year."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Structure of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A right holder may conclude a contract for collective copyright management with a copyright collective management organisation in written form, authorising the organisation to manage the copyright or rights related to copyright that it enjoys in accordance with the law. Where a right holder meets the conditions for admission prescribed in the articles of association, the copyright collective management organisation shall conclude a contract for collective copyright management with the right holder and shall not refuse to do so.\nWhere a right holder concludes a contract for collective copyright management with a copyright collective management organisation and completes the corresponding formalities in accordance with the provisions of the articles of association, the right holder becomes a member of the copyright collective management organisation."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "After a right holder concludes a contract for collective copyright management with a copyright collective management organisation, the right holder shall not, within the term agreed in the contract, exercise by himself, or licence another person to exercise, the rights agreed in the contract to be exercised by the copyright collective management organisation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A right holder may, in accordance with the procedures prescribed in the articles of association, withdraw from the copyright collective management organisation and terminate the contract for collective copyright management. However, where the copyright collective management organisation has already concluded a licensing contract with another person, the contract shall remain valid until the expiry of its term; within the valid term of the contract, the right holder shall have the right to obtain the corresponding royalties and may consult the relevant business materials."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Foreigners and stateless persons may, through overseas organisations of the same kind that have concluded reciprocal representation agreements with Chinese copyright collective management organisations, authorise the Chinese copyright collective management organisations to manage the copyright or rights related to copyright that they enjoy within the territory of China in accordance with the law.\nA reciprocal representation agreement as referred to in the preceding paragraph means an agreement between a Chinese copyright collective management organisation and an overseas organisation of the same kind by which each authorises the other to carry out collective management activities in the country or region where it is located.\nA reciprocal representation agreement concluded between a copyright collective management organisation and an overseas organisation of the same kind shall be submitted to the copyright administrative department of the State Council for the record and be announced by the copyright administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a copyright collective management organisation licences another person to use the works, audio and video recordings, etc. under its management, it shall conclude a licensing contract with the user in written form.\nA copyright collective management organisation shall not conclude an exclusive licensing contract with a user.\nWhere a user requests, on reasonable terms, the conclusion of a licensing contract with a copyright collective management organisation, the organisation shall not refuse.\nThe term of a licensing contract shall not exceed two years; upon the expiry of the term, the contract may be renewed."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A copyright collective management organisation shall establish a right information search system for right holders and users to make enquiries. The right information search system shall include the types of rights managed by the copyright collective management organisation, the names of the works, audio and video recordings, etc., the names of the right holders and the period of authorised management.\nWhere a right holder or a user makes an enquiry about the information of the rights managed by a copyright collective management organisation, the organisation shall give a reply."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Except for the royalties which shall be paid under Article 23, paragraph 2 of Article 33, paragraph 3 of Article 40, paragraph 2 of Article 43 and Article 44 of the Copyright Law, a copyright collective management organisation shall, in accordance with the standards for the collection of royalties announced by the copyright administrative department of the State Council, agree with users on the specific amounts of royalties to be collected."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where two or more copyright collective management organisations collect royalties from the same user for the same manner of use, they may, through prior consultation, determine that one of them shall collect the royalties in a unified manner. The royalties collected in a unified manner shall be distributed among the copyright collective management organisations concerned through consultation."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a user pays royalties to a copyright collective management organisation, it shall provide information on the relevant use, such as the names of the works, audio and video recordings, etc. used, the names of the right holders and the manner, quantity and time of use, unless otherwise agreed in the licensing contract.\nWhere the information on use provided by a user involves the trade secrets of the user, the copyright collective management organisation shall be under the duty of confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A copyright collective management organisation may withdraw a certain proportion from the royalties collected as the management fee for maintaining its normal business activities.\nThe proportion of the management fee withdrawn by a copyright collective management organisation shall be gradually reduced as the royalty income increases."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The royalties collected by a copyright collective management organisation shall, after the withdrawal of the management fee, be transferred in full to right holders and shall not be diverted to other uses.\nWhere a copyright collective management organisation transfers royalties, it shall prepare records of the transfer of royalties. The records of the transfer of royalties shall state the total amount of royalties, the amount of the management fee, the names of the right holders, the names of the works or audio and video recordings, etc., the relevant information on use and the specific amounts of royalties transferred to each right holder, and shall be kept for 10 years or more."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Copyright Collective Management Activities"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A copyright collective management organisation shall establish financial and accounting rules and an asset management system in accordance with the law, and set up accounting books in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The use of assets and the financial management of a copyright collective management organisation shall be subject to the supervision of the copyright administrative department of the State Council and the civil affairs department.\nA copyright collective management organisation shall, at the end of each accounting year, prepare a financial and accounting report, entrust an accounting firm to conduct an audit in accordance with the law, and publish the audit results."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A copyright collective management organisation shall keep records of the following matters for right holders and users to consult:\n(a) the licensing of works;\n(b) the collection and transfer of royalties; and\n(c) the withdrawal and use of the management fee.\nRight holders shall have the right to consult and copy the financial reports, work reports and other business materials of the copyright collective management organisation, and the organisation shall provide convenience for doing so."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a right holder believes that a copyright collective management organisation falls under any of the following circumstances, the right holder may report the matter to the copyright administrative department of the State Council:\n(a) the right holder meets the conditions for admission prescribed in the articles of association and requests to join the copyright collective management organisation, or a member requests to withdraw from the organisation in accordance with the procedures prescribed in the articles of association, but the organisation refuses;\n(b) the copyright collective management organisation fails to collect or transfer royalties, or fails to withdraw or use the management fee, in accordance with the provisions; or\n(c) the right holder requests to consult the records and business materials prescribed in Article 32 of these Regulations, but the organisation refuses to provide them."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a user believes that a copyright collective management organisation falls under any of the following circumstances, the user may report the matter to the copyright administrative department of the State Council:\n(a) the copyright collective management organisation refuses, in violation of the provisions of Article 23 of these Regulations, to conclude a licensing contract with the user;\n(b) the copyright collective management organisation fails to agree on the specific amount of royalties to be collected on the basis of the announced standards for the collection of royalties; or\n(c) the user requests to consult the records prescribed in Article 32 of these Regulations, but the organisation refuses to provide them."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation other than a right holder or user believes that a copyright collective management organisation has committed an act in violation of the provisions of these Regulations, it may report the matter to the copyright administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The copyright administrative department of the State Council shall, within 60 days from the date of receiving a report, investigate the reported matter and handle it in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The copyright administrative department of the State Council may supervise copyright collective management organisations by the following means and shall keep records of the supervision activities:\n(a) examining whether the business activities of a copyright collective management organisation conform to the provisions of these Regulations and its articles of association;\n(b) verifying the accounting books, annual budget and final accounts reports and other relevant business materials of a copyright collective management organisation; and\n(c) sending personnel to attend the important meetings of a copyright collective management organisation, such as the members' assembly and meetings of the board of directors."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A copyright collective management organisation shall accept the supervision of the civil affairs department of the State Council and other relevant departments in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision of Copyright Collective Management Organisations"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a copyright collective management organisation falls under any of the following circumstances, the copyright administrative department of the State Council shall order it to make rectification within a prescribed time limit:\n(a) it fails, in violation of the provisions of Article 22 of these Regulations, to submit the reciprocal representation agreement concluded with an overseas organisation of the same kind to the copyright administrative department of the State Council for the record;\n(b) it fails, in violation of the provisions of Article 24 of these Regulations, to establish a right information search system; or\n(c) it fails to agree on the specific amount of royalties to be collected on the basis of the announced standards for the collection of royalties.\nWhere a copyright collective management organisation manages the rights of right holders beyond its business scope, the copyright administrative department of the State Council shall order it to make rectification within a prescribed time limit, and the licensing contracts concluded by it with users shall be invalid; where damage is caused to right holders or users, it shall bear civil liability in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a copyright collective management organisation falls under any of the following circumstances, the copyright administrative department of the State Council shall order it to make rectification within a prescribed time limit; if it fails to make rectification within the time limit, the members' assembly or the board of directors shall be ordered to remove or dismiss the person directly in charge in accordance with the authorities prescribed in these Regulations:\n(a) it refuses, in violation of the provisions of Article 19 of these Regulations, to conclude a contract for collective copyright management with a right holder, or refuses, in violation of the provisions of Article 21 of these Regulations, a member's request to withdraw from the organisation;\n(b) it refuses, in violation of the provisions of Article 23 of these Regulations, to conclude a licensing contract with a user;\n(c) it withdraws the management fee in violation of the provisions of Article 28 of these Regulations;\n(d) it transfers royalties in violation of the provisions of Article 29 of these Regulations; or\n(e) it refuses to provide, or provides false, accounting books, annual budget and final accounts reports or other relevant business materials."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a copyright collective management organisation has not, within six months from the date on which the civil affairs department of the State Council issues the registration certificate, carried out collective copyright management activities without justified reasons, or has suspended collective copyright management activities for six months or more consecutively, the copyright administrative department of the State Council shall revoke its licence for collective copyright management, and the civil affairs department of the State Council shall cancel its registration."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a copyright collective management organisation engages in profit-making business activities, the administrative department for industry and commerce shall ban such activities in accordance with the law and confiscate the illegal gains; if a crime is constituted, criminal responsibility shall be investigated for in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a user, in violation of the provisions of Article 27 of these Regulations, refuses to provide the relevant information on use although it is able to do so, or resorts to deception in providing the information on use, the copyright administrative department of the State Council shall order it to make rectification; the copyright collective management organisation may suspend the licensing contract."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a copyright collective management organisation or a branch is established without authorisation, or collective copyright management activities are carried out without authorisation, the copyright administrative department of the State Council or the civil affairs department shall ban such activities in accordance with the division of duties and confiscate the illegal gains; if a crime is constituted, criminal responsibility shall be investigated for in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a staff member of a state administrative organ engaged in the examination, approval and supervision of copyright collective management organisations in accordance with the provisions of these Regulations neglects his duties, abuses his power or commits malpractice for personal gain, and a crime is constituted, criminal responsibility shall be investigated for in accordance with the law; if a crime is not constituted, he shall be given an administrative disciplinary sanction in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A copyright collective management organisation already established before the entry into force of these Regulations shall, within three months from the date on which these Regulations take effect, submit its articles of association, the standards for the collection of royalties, the measures for the transfer of royalties and other relevant materials to the copyright administrative department of the State Council for examination, and submit the reciprocal representation agreement concluded with an overseas organisation of the same kind to the copyright administrative department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a person uses the work of another person in accordance with the provisions of Article 23, paragraph 2 of Article 33 and paragraph 3 of Article 40 of the Copyright Law but fails to pay the right holder the royalties in accordance with the provisions of Article 32 of the Regulations on the Implementation of the Copyright Law of the People's Republic of China, the person shall send the royalties, together with the postage and the relevant information on the use of the work, to the copyright collective management organisation that manages the relevant rights, and the organisation shall transfer the royalties to the right holder.\nThe copyright collective management organisation responsible for the transfer of royalties shall establish a search system for information on the use of works for right holders and users to make enquiries.\nThe copyright collective management organisation responsible for the transfer of royalties may withdraw a management fee from the royalties it receives, and the management fee shall be withdrawn at one half of the proportion of the management fee of the collective management organisation as decided by the members' assembly. Except for the management fee, the copyright collective management organisation shall not withdraw any other fees from the royalties it receives."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 March 2005."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0619'] = {
+    "lawId": "CN-REG-0619",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 32 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Regulation is formulated in accordance with the Patent Law of the People's Republic of China in order to regulate the conduct of patent agency, protect the lawful rights and interests of clients, patent agencies and patent agents, maintain the normal order of patent agency activities and promote the sound development of the patent agency industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Regulation, patent agency means the act whereby a patent agency, having accepted the entrustment of a client, handles patent matters such as patent applications and requests for declaration of invalidation of patent rights in the name of the client and within the limits of the authority entrusted to it."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Any unit or individual may itself apply for a patent and handle other patent matters in China, or may entrust a patent agency established in accordance with law to handle them, unless otherwise provided by law.\nA patent agency shall handle patent matters in accordance with the entrustment of the client."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Patent agencies and patent agents shall, in practising, comply with laws and administrative regulations, strictly observe professional ethics and practice discipline and safeguard the lawful rights and interests of clients.\nThe practice of patent agencies and patent agents in accordance with law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The patent administration department under the State Council shall be responsible for the administration of patent agency throughout the country.\nThe departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government that administer patent work shall be responsible for the administration of patent agency within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Patent agencies and patent agents may, in accordance with law, establish and join industry organisations for patent agency.\nIndustry organisations for patent agency shall formulate norms of self-discipline for the patent agency industry. Such norms may not contravene laws or administrative regulations.\nThe patent administration department under the State Council shall, in accordance with law, supervise and guide industry organisations for patent agency."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A patent agency shall be organised in the form of a partnership, a limited liability company or the like."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Patent Agencies and Patent Agents"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A patent agency in the form of a partnership or a limited liability company engaging in patent agency business shall satisfy the following conditions:\n(a) it has a name for the patent agency that conforms to the provisions of laws and administrative regulations;\n(b) it has a written partnership agreement or articles of association;\n(c) it has an independent place of business; and\n(d) its partners or shareholders conform to the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Patent Agencies and Patent Agents"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To engage in patent agency business, an application shall be filed with the patent administration department under the State Council, the relevant materials shall be submitted and a practising licence for the patent agency shall be obtained. The patent administration department under the State Council shall, within 20 days from the date of accepting the application, make a decision on whether to issue the practising licence for the patent agency.\nWhere matters such as the partners, shareholders or legal representative of a patent agency undergo changes, the formalities for modification shall be completed."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Patent Agencies and Patent Agents"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Chinese citizens with an educational background at or above the level of a college diploma in science or engineering from an institution of higher education may sit the national qualification examination for patent agents; those who pass the examination shall be issued a patent agent qualification certificate by the patent administration department under the State Council. The measures for the qualification examination for patent agents shall be formulated by the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Patent Agencies and Patent Agents"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A patent agent shall, in order to practise, obtain a patent agent qualification certificate, complete one year of internship in a patent agency and practise in one patent agency."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Patent Agencies and Patent Agents"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A patent agent who practises for the first time shall, within 30 days from the date of commencement of practice, file a record with the department of the people's government of the province, autonomous region or municipality directly under the Central Government that administers patent work at the place where the patent agency is located.\nThe department of the people's government of the province, autonomous region or municipality directly under the Central Government that administers patent work shall provide facilities for patent agents to file records via the Internet."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Patent Agencies and Patent Agents"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A patent agency may accept entrustment to act in patent matters such as patent applications, requests for declaration of invalidation of patent rights, assignment of the right to apply for a patent or of patent rights and conclusion of contracts for licensing the exploitation of patents, and may also, at the request of a party, provide consultancy on patent matters."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A patent agency accepting entrustment shall conclude a written contract of mandate with the client. After accepting entrustment, a patent agency may not accept the entrustment of another party with a conflicting interest in respect of the same patent application or patent right.\nA patent agency shall designate a patent agent practising in the agency to handle the patent agency business, and the designated patent agent and his close relatives may not have a conflict of interest with the patent agency business he handles."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a patent agency is dissolved, or its practising licence is revoked or cancelled, it shall properly deal with all patent agency business that has not been concluded."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A patent agent shall handle patent agency business as designated by the patent agency and may not accept entrustment on his own.\nA patent agent may not engage in patent agency business in two or more patent agencies at the same time.\nA patent agent shall be responsible for the patent agency business handled with his signature."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Patent agencies and patent agents shall be obliged to keep confidential the contents of inventions and creations learned in the course of practice, except where the patent application has already been published or announced."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Patent agencies and patent agents may not apply for a patent or request declaration of invalidation of a patent right in their own names."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Staff members of the patent administration department under the State Council and of the departments of local people's governments that administer patent work may not engage in patent agency work within the period prescribed by laws and administrative regulations after leaving their posts.\nA patent agent who has previously held a post in the patent administration department under the State Council or in a department of a local people's government that administers patent work may not act in respect of patent applications or patent cases that he has examined, heard or handled."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Patent agencies shall charge fees in accordance with the principles of voluntariness, fairness and good faith, with regard to both economic and social benefits.\nThe State encourages patent agencies and patent agents to provide patent agency assistance services to small and micro enterprises and to inventors or designers with no or low income."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Industry organisations for patent agency shall strengthen self-disciplinary management of their members, organise training in patent agency business and education in professional ethics and practice discipline for patent agents, and impose disciplinary sanctions on members that violate the norms of industry self-discipline."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The patent administration department under the State Council and the departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government that administer patent work shall, by such means as random spot checks, inspect and supervise the practice activities of patent agencies and patent agents, promptly deal with any violation of the provisions of this Regulation found in accordance with law and publish the results of inspection and handling to society. No fee may be charged for inspection."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The patent administration department under the State Council and the departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government that administer patent work shall strengthen the publication of public information on patent agency and provide inquiry services for the public to learn about the business operations of patent agencies and the practice of patent agents."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Practice of Patent Agency"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a practising licence for a patent agency or a patent agent qualification certificate is obtained by concealing the true situation or by fraud, the patent administration department under the State Council shall cancel the practising licence for the patent agency or the patent agent qualification certificate.\nWhere, after obtaining a practising licence, a patent agency no longer meets the conditions prescribed by this Regulation because of changed circumstances, the patent administration department under the State Council shall order it to rectify within a prescribed period; where it fails to rectify upon expiry of that period or fails to pass the rectification, the practising licence shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a patent agency commits any of the following acts, the department of the people's government of the province, autonomous region or municipality directly under the Central Government that administers patent work shall order it to make correction within a prescribed period, give it a warning and may impose a fine of not more than RMB 100,000; where the circumstances are serious or correction is not made upon expiry of the prescribed period, the patent administration department under the State Council shall order it to cease accepting new patent agency business for six to twelve months and even revoke its practising licence for the patent agency:\n(a) failing to complete the formalities for modification where matters such as its partners, shareholders or legal representative undergo changes;\n(b) accepting the entrustment of another party with a conflicting interest in respect of the same patent application or patent right;\n(c) designating a patent agent to handle patent agency business in which he or his close relatives have a conflict of interest;\n(d) disclosing the contents of the client's inventions and creations, or applying for a patent or requesting declaration of invalidation of a patent right in its own name; or\n(e) being lax in management, thereby causing serious consequences.\nWhere a patent agency discloses the contents of the client's inventions and creations in the course of practice, involving disclosure of State secrets or infringement of trade secrets, or offers bribes to staff members of the relevant administrative or judicial organs or provides false evidence, it shall bear legal liability in accordance with the provisions of the relevant laws and administrative regulations; and the patent administration department under the State Council shall revoke its practising licence for the patent agency."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a patent agent commits any of the following acts, the department of the people's government of the province, autonomous region or municipality directly under the Central Government that administers patent work shall order him to make correction within a prescribed period, give him a warning and may impose a fine of not more than RMB 50,000; where the circumstances are serious or correction is not made upon expiry of the prescribed period, the patent administration department under the State Council shall order him to cease handling new patent agency business for six to twelve months and even revoke his patent agent qualification certificate:\n(a) failing to file a record in accordance with the provisions of this Regulation;\n(b) accepting entrustment on his own to handle patent agency business;\n(c) engaging in patent agency business in two or more patent agencies at the same time;\n(d) in violation of the provisions of this Regulation, acting in respect of patent applications or patent cases that he has examined, heard or handled; or\n(e) disclosing the contents of the client's inventions and creations, or applying for a patent or requesting declaration of invalidation of a patent right in his own name.\nWhere a patent agent discloses the contents of the client's inventions and creations in the course of practice, involving disclosure of State secrets or infringement of trade secrets, or offers bribes to staff members of the relevant administrative or judicial organs or provides false evidence, he shall bear legal liability in accordance with the provisions of the relevant laws and administrative regulations; and the patent administration department under the State Council shall revoke his patent agent qualification certificate."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Regulation, carries out patent agency business without authorisation shall be ordered by the department of the people's government of the province, autonomous region or municipality directly under the Central Government that administers patent work to stop the unlawful act, the unlawful income shall be confiscated and a fine of not less than one time and not more than five times the unlawful income shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a staff member of the patent administration department under the State Council or of a department of the people's government of a province, autonomous region or municipality directly under the Central Government that administers patent work violates the provisions of this Regulation by abusing his power, neglecting his duty or committing malpractices for personal gain, disciplinary sanctions shall be imposed in accordance with law; where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The establishment of a permanent representative office within the territory of the People's Republic of China by a foreign patent agency shall be subject to approval by the patent administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A law firm may, in accordance with the Lawyers Law of the People's Republic of China, the Civil Procedure Law of the People's Republic of China and other laws and administrative regulations, carry out business relating to patents, but in engaging in the business of acting in patent applications and requests for declaration of invalidation of patent rights it shall comply with the provisions of this Regulation; the specific measures shall be formulated separately by the patent administration department under the State Council in consultation with the judicial administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The measures for the administration of patent agencies and patent agents acting in defence patent matters shall be formulated separately by the patent administration department under the State Council in consultation with the competent organ of the State defence patent institutions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "This Regulation shall come into force on 1 March 2019.\nPatent agencies established in accordance with law and patent agents practising in accordance with law before this Regulation comes into force may, after it comes into force, continue to carry out patent agency business in the name of patent agencies and patent agents."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0620'] = {
+    "lawId": "CN-REG-0620",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 18 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Firearms Administration Law of the People's Republic of China (hereinafter referred to as the Firearms Administration Law) and with reference to the Regulations of the People's Republic of China on the Use of Police Instruments and Weapons by the People's Police, in order to strengthen the administration of firearms for official use in guarding and escorting and to ensure that full-time guarding and escorting personnel use firearms correctly."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, full-time guarding and escorting personnel means the full-time guarding and escorting personnel of the military industry, finance, important State storage, large water conservancy, electric power and telecommunications engineering and confidential communications systems that are equipped with firearms for official use in accordance with the law, as well as the full-time guarding and escorting personnel of security service companies approved by the public security organ of the provincial, autonomous regional or municipal people's government to engage in armed guarding and escorting services."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Full-time guarding and escorting personnel equipped with firearms for official use must meet the following conditions:\n(a) being a Chinese citizen aged 20 or above, physically and mentally healthy and of good conduct;\n(b) having no history of mental illness or any other disease that prevents the person from controlling his or her own conduct;\n(c) having no record of administrative detention, custody and education, compulsory drug rehabilitation, shelter and rehabilitation, re-education through labour or criminal punishment;\n(d) having received professional training and being familiar with the provisions of the laws, regulations and rules on the use and administration of firearms;\n(e) being proficient in the skills of using and maintaining firearms.\nFull-time guarding and escorting personnel equipped with firearms for official use must, in strict accordance with the conditions specified in the preceding paragraph, be examined by the unit to which they belong and then reported to the public security organ of the municipal people's government with districts at their place of residence for examination and assessment; where they pass the examination and assessment, they shall, in accordance with the provisions of the Firearms Administration Law, be reported to the public security organ of the provincial, autonomous regional or municipal people's government for examination and approval, and the public security organ of the provincial, autonomous regional or municipal people's government shall issue them firearm carrying certificates."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Full-time guarding and escorting personnel may carry and use firearms in accordance with the provisions of these Regulations only when performing guarding and escorting duties.\nThe carrying and use of firearms by full-time guarding and escorting personnel in accordance with the law is protected by law; those who carry or use firearms unlawfully shall bear legal liability in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where full-time guarding and escorting personnel performing guarding and escorting duties are able to protect the safety of the guarded target or the escorted property by other means, they shall not use firearms; where it is truly necessary to use firearms, they shall act for the purpose of protecting the guarded target or the escorted property from infringement and shall do their best to avoid or reduce casualties and property losses."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where, in the course of performing guarding and escorting duties, full-time guarding and escorting personnel encounter any of the following emergency circumstances and the use of firearms is indispensable to stop an act of violent crime, they may use firearms:\n(a) the guarded target or the escorted property is subjected to a violent attack or is in imminent danger of such an attack;\n(b) the full-time guarding and escorting personnel are subjected to a violent attack endangering their lives, or the firearms and ammunition they carry are being seized or robbed."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Full-time guarding and escorting personnel shall not use firearms in places where large quantities of dangerous articles such as flammable, explosive, highly toxic and radioactive articles are stored, except where failure to use firearms to stop a criminal act would directly lead to serious harmful consequences."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where any of the following circumstances occurs, full-time guarding and escorting personnel shall immediately stop using firearms:\n(a) the person concerned stops committing the act of violent crime;\n(b) the person concerned loses the ability to continue committing the act of violent crime."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "After using firearms, full-time guarding and escorting personnel shall immediately report to the unit to which they belong and to the public security organ at the place where the incident occurred; upon receiving the report, the unit to which they belong and the public security organ at the place where the incident occurred shall immediately send personnel to the scene.\nUpon receiving a report from full-time guarding and escorting personnel on the use of firearms, the unit to which they belong shall immediately report to the local public security organ and shall afterwards submit a written report on the use of firearms to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Units lawfully equipped with firearms for official use in guarding and escorting shall establish and improve a responsibility system for the management of personnel carrying firearms, a system for the custody and receipt of firearms and ammunition, and a firearm safety responsibility system; they shall strengthen legal and safety education for the personnel carrying firearms approved in accordance with Article 3 of these Regulations, organise training on a regular basis, and frequently inspect the custody and use of firearms."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Units lawfully equipped with firearms for official use in guarding and escorting shall set up special firearm storage depots (rooms) or use special safes to keep the firearms and ammunition equipped to them in a centralised and unified manner. Firearms and ammunition must be stored separately, with two persons holding two locks, and someone must be on duty 24 hours a day. The doors and windows of the depots (rooms) storing firearms and ammunition must be solid and fitted with anti-theft alarm facilities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Full-time guarding and escorting personnel carrying firearms and ammunition while performing duties must keep them properly and strictly guard against loss, theft, seizure or other accidents; upon completion of the duty, they must immediately return the firearms and ammunition.\nIt is strictly prohibited to carry firearms and ammunition when not performing guarding and escorting duties, and it is strictly prohibited to drink alcohol while carrying firearms and ammunition or to carry firearms and ammunition after drinking alcohol."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Public security organs shall, on a regular basis, inspect and supervise the establishment and implementation of firearm management systems by the units lawfully equipped with firearms for official use in guarding and escorting within their jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where any of the following circumstances applies to full-time guarding and escorting personnel, the unit to which they belong shall suspend them from performing armed guarding and escorting duties, take back their firearm carrying certificates and promptly surrender the certificates to the public security organ:\n(a) being about to be transferred away from the post of full-time guarding and escorting;\n(b) failing the assessment on theory and live firing;\n(c) being placed under investigation or inquiry in a criminal case or in another case of unlawful or undisciplined conduct;\n(d) altering firearms or replacing firearm parts without authorisation;\n(e) carrying or using firearms in violation of provisions, or handing firearms to others, thereby losing control of the firearms;\n(f) losing firearms, or being responsible in an incident of firearm theft or seizure.\nWhere full-time guarding and escorting personnel commit the acts specified in items (d), (e) and (f) of the preceding paragraph and cause serious consequences, criminal responsibility shall be pursued in accordance with the law under the provisions of the Criminal Law on the crimes of unlawfully possessing or concealing firearms and ammunition, unlawfully carrying firearms and ammunition endangering public safety, unlawfully leasing or lending firearms, or failing to report the loss of firearms; where the act is not serious enough for criminal punishment, an administrative penalty shall be imposed in accordance with the provisions of the Firearms Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a unit lawfully equipped with firearms for official use in guarding and escorting violates the provisions on firearm administration and any of the following circumstances applies, the directly responsible person in charge and other directly responsible persons shall be given an administrative sanction of recording a major demerit, demotion or removal from office, or a corresponding disciplinary sanction, in accordance with the law; where serious consequences are caused, criminal responsibility shall be pursued in accordance with the law under the provisions of the Criminal Law on the crime of dereliction of duty, the crime of abuse of power, the crime of failing to report the loss of firearms or other crimes:\n(a) failing to establish or failing to effectively implement a responsibility system for the management of personnel carrying firearms;\n(b) reporting full-time guarding and escorting personnel who do not meet the statutory conditions to the public security organ for examination and approval, or allowing persons without firearm carrying certificates to carry or use firearms;\n(c) failing to report to the public security organ after using firearms;\n(d) failing to establish or failing to effectively implement a management system for firearms and ammunition, resulting in the theft, seizure or loss of firearms and ammunition;\n(e) failing to promptly report to the public security organ the theft, seizure or loss of firearms and ammunition;\n(f) failing to inspect and verify firearms in accordance with the provisions;\n(g) failing to surrender firearms that are to be scrapped;\n(h) the occurrence of other cases of unlawful or undisciplined conduct involving firearms."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where full-time guarding and escorting personnel use firearms in accordance with the provisions of these Regulations and cause injury or death to innocent persons or property losses, the unit to which they belong shall compensate the victims for their losses in accordance with the law.\nWhere full-time guarding and escorting personnel use firearms in violation of the provisions of these Regulations and cause casualties or property losses, they shall, in addition to being subject to criminal punishment or administrative penalty in accordance with the law, also bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a public security organ commits any of the following acts and causes serious consequences, the directly responsible person in charge and other directly responsible persons shall be pursued for criminal responsibility in accordance with the law under the provisions of the Criminal Law on the crime of abuse of power and the crime of dereliction of duty; where the act is not serious enough for criminal punishment, an administrative sanction of recording a major demerit, demotion or removal from office shall be imposed in accordance with the law:\n(a) approving the equipment of firearms for official use in guarding and escorting by the unit concerned beyond the statutory scope;\n(b) issuing firearm carrying certificates for firearms for official use in guarding and escorting to persons who do not meet the statutory conditions;\n(c) failing to perform the supervision and administration duties provided for in these Regulations, thereby causing consequences."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0621'] = {
+    "lawId": "CN-REG-0621",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 35 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to regulate natural disaster relief work and guarantee the basic livelihood of persons affected by disasters, these Regulations are formulated."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Natural disaster relief work shall observe the principles of putting people first, government leadership, administration at different levels, mutual assistance in society and self-rescue by disaster victims."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A system of responsibility of the administrative leadership of people's governments at all levels shall apply to natural disaster relief work.\nThe National Commission for Disaster Reduction shall be responsible for organising and leading natural disaster relief work throughout the country and for coordinating major natural disaster relief activities. The emergency management department under the State Council shall be responsible for natural disaster relief work throughout the country and shall undertake the specific work of the National Commission for Disaster Reduction. The relevant departments under the State Council shall, according to their respective functions, properly carry out the relevant work of natural disaster relief throughout the country.\nThe local people's governments at or above the county level or the comprehensive emergency coordination bodies for natural disaster relief of the people's governments shall organise and coordinate natural disaster relief work within their respective administrative regions. The emergency management departments of the local people's governments at or above the county level shall be responsible for natural disaster relief work within their respective administrative regions. The relevant departments of the local people's governments at or above the county level shall, according to their respective functions, properly carry out the relevant work of natural disaster relief within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate natural disaster relief work into national economic and social development plans, establish and improve funding and material guarantee mechanisms suited to the needs of natural disaster relief, and include the natural disaster relief funds and working funds for natural disaster relief arranged by the people's governments in their fiscal budgets."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Village committees, residents' committees and social organisations such as the Red Cross Society, charitable associations and public fund-raising foundations shall assist people's governments in carrying out natural disaster relief work in accordance with the law.\nThe State encourages and guides units and individuals to participate in activities such as donations and volunteer services for natural disaster relief."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's governments at all levels shall strengthen publicity and education on disaster prevention and reduction and enhance citizens' awareness of disaster prevention and risk avoidance and their capacity for self-rescue and mutual rescue.\nVillage committees, residents' committees, enterprises and institutions shall, in accordance with the requirements of the local people's government and in light of their own actual circumstances, carry out activities to publicise and popularise emergency knowledge on disaster prevention and reduction."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Units and individuals that have made outstanding contributions in natural disaster relief shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Local people's governments at or above the county level and their relevant departments shall, on the basis of the relevant laws, regulations and rules, the emergency plans of the people's governments at higher levels and their relevant departments, and the findings of the natural disaster risk survey of their respective administrative regions, formulate corresponding emergency plans for natural disaster relief.\nAn emergency plan for natural disaster relief shall include the following content:\n(a) the emergency organisation and command system for natural disaster relief and its duties;\n(b) the emergency teams for natural disaster relief;\n(c) the emergency funds, materials and equipment for natural disaster relief;\n(d) early warning and forecasting of natural disasters and the reporting and handling of disaster information;\n(e) the levels of emergency response for natural disaster relief and the corresponding measures;\n(f) measures for post-disaster emergency relief and for the recovery and reconstruction of residential housing."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Rescue"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "People's governments at or above the county level shall establish and improve the technical support system for emergency command in natural disaster relief and shall provide the necessary transport, communications and other equipment for natural disaster relief work."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Rescue"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall establish a system for the reserve of natural disaster relief materials. The emergency management department under the State Council shall, together with the finance department, the development and reform department, the industry and information technology department and the food and strategic reserves department under the State Council respectively, formulate national plans for the reserve of natural disaster relief materials and plans for reserve warehouses and organise their implementation. Among them, the food and strategic reserves department under the State Council shall, together with the relevant departments, formulate the plan for the central reserve warehouses of relief materials and organise its implementation.\nThe people's governments at or above the level of a city divided into districts and the people's governments at the county level in areas where natural disasters occur frequently or are likely to occur shall, according to the characteristics of natural disasters and the size and distribution of the resident population and in accordance with the principles of reasonable layout and moderate scale, establish reserve warehouses for natural disaster relief materials."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Rescue"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, according to the size and distribution of the local resident population and other circumstances, make overall plans for the establishment of emergency shelters using public facilities such as parks, squares and sports venues, and shall provide conspicuous signs.\nWhere the launch of an early warning response or emergency response to a natural disaster requires informing residents to go to emergency shelters, the local people's government at or above the county level or the comprehensive emergency coordination body for natural disaster relief of the people's government shall, through broadcasting, television, mobile phone text messages, electronic display screens, the Internet and other means, promptly announce the specific addresses of and routes to the emergency shelters."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Rescue"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen the building of the contingent of natural disaster relief personnel and their professional training, and village committees, residents' committees, enterprises and institutions shall designate full-time or part-time natural disaster information officers."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Preparations for Rescue"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "People's governments at or above the county level or the comprehensive emergency coordination bodies for natural disaster relief of the people's governments shall, on the basis of early warning and forecasting of natural disasters, launch an early warning response and take one or more of the following measures:\n(a) issuing warnings to society against the risks of natural disasters, publicising common knowledge and skills for risk avoidance, and reminding the public to prepare for self-rescue and mutual rescue;\n(b) opening emergency shelters, evacuating and relocating persons and property vulnerable to natural disasters and, in urgent circumstances, carrying out organised risk-avoidance relocation;\n(c) strengthening safety guarantees for villages, communities and public places vulnerable to natural disasters;\n(d) instructing the emergency management and other departments to prepare for basic livelihood relief."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Emergency Relief"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a natural disaster occurs and the conditions for launching the emergency plan for natural disaster relief are met, the people's government at or above the county level or the comprehensive emergency coordination body for natural disaster relief of the people's government shall promptly launch the emergency response for natural disaster relief and take one or more of the following measures:\n(a) immediately making public to society the government's response measures and the precautionary measures for the public;\n(b) urgently evacuating and resettling persons affected by the disaster;\n(c) urgently allocating and transporting emergency funds and materials for natural disaster relief, promptly providing emergency relief such as food, drinking water, clothing and bedding, heating, temporary shelter, medical treatment and epidemic prevention to persons affected by the disaster, and guaranteeing their basic livelihood;\n(d) comforting persons affected by the disaster and handling the aftermath of persons who died in the disaster;\n(e) organising persons affected by the disaster to carry out self-rescue and mutual rescue;\n(f) analysing and assessing the trend of the disaster situation and the needs of the disaster area, and taking corresponding natural disaster relief measures;\n(g) organising donation activities for natural disaster relief.\nThe competent departments of transport at all levels shall organise priority transport for emergency relief materials."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Emergency Relief"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "During the period of emergency natural disaster relief, the local people's government at or above the county level or the comprehensive emergency coordination body for natural disaster relief of the people's government may urgently requisition materials, equipment, means of transport and sites within its administrative region, which shall be returned promptly after the completion of the emergency natural disaster relief work, and compensation shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Emergency Relief"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a natural disaster causes casualties or relatively large property losses, the emergency management department of the people's government at the county level of the disaster-stricken area shall immediately report to the people's government at the corresponding level and to the emergency management department of the people's government at the next higher level.\nWhere a natural disaster causes especially major or major casualties or property losses, the emergency management department of the people's government at the county level of the disaster-stricken area shall report promptly in accordance with the procedures provided by the relevant laws and administrative regulations and the emergency plans of the State Council and may, when necessary, report directly to the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Emergency Relief"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Before the disaster situation stabilises, the emergency management department of the people's government of the disaster-stricken area shall report daily, level by level, on the casualties, property losses and developments in natural disaster relief caused by the natural disaster, and shall promptly make them public to society.\nAfter the disaster situation stabilises, the people's government at or above the county level of the disaster-stricken area or the comprehensive emergency coordination body for natural disaster relief of the people's government shall assess, verify and publish the losses caused by the natural disaster."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Emergency Relief"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The people's government of the disaster-stricken area shall, on the premise of ensuring safety, provide transitional resettlement for persons affected by the disaster by combining on-the-spot resettlement with resettlement elsewhere and government resettlement with self-resettlement.\nOn-the-spot resettlement shall be at locations with convenient transport that facilitate the resumption of production and life, shall avoid areas where secondary natural disasters may occur, and shall occupy no or as little cultivated land as possible.\nThe people's government of the disaster-stricken area shall encourage and organise the disaster-affected masses to carry out self-rescue and mutual rescue and to restore and rebuild."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Relief"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "After the danger of the natural disaster is eliminated, the people's government of the disaster-stricken area shall make overall plans and studies for formulating plans and preferential policies for the recovery and reconstruction of residential housing, organise the reconstruction or repair of residential housing damaged or destroyed by the disaster, and give priority assistance to families that truly have difficulties in recovery and reconstruction.\nThe recovery and reconstruction of residential housing shall be suited to local conditions, economical and practical, and shall ensure that the quality of housing construction meets the requirements of disaster prevention and reduction.\nThe emergency management and other departments of the people's government of the disaster-stricken area shall issue subsidy funds and materials to the recipients of subsidies for the recovery and reconstruction of residential housing confirmed upon examination, and the departments of housing and urban-rural development and others shall provide the necessary technical support for persons affected by the disaster to rebuild or repair residential housing damaged or destroyed by the disaster."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Relief"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Recipients of subsidies for the recovery and reconstruction of residential housing shall be proposed by the persons affected by the disaster themselves or nominated by villagers' groups or residents' groups. Those that meet the relief conditions upon democratic appraisal by the village committee or residents' committee shall be publicly announced within the natural village or community; where there is no objection, or where an objection is not sustained upon democratic appraisal by the village committee or residents' committee, the village committee or residents' committee shall submit the appraisal opinions and the relevant materials to the township (town) people's government or the neighbourhood office for examination, and report them to the emergency management and other departments of the people's government at the county level for approval."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Relief"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In the winter of the year in which a natural disaster occurs and in the spring of the following year, the people's government of the disaster-stricken area shall provide basic livelihood relief to persons affected by the disaster who have difficulties in living.\nThe emergency management department of the people's government at the county level of the disaster-stricken area shall, before the end of October each year, compile statistics on and assess the basic livelihood difficulties and needs of the persons affected by the disaster within its administrative region in the winter of that year and the spring of the following year, verify the relief recipients, prepare work ledgers, formulate relief work plans, organise their implementation after approval by the people's government at the corresponding level, and report them to the emergency management department of the people's government at the next higher level for the record."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Relief"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The finance departments and emergency management departments of people's governments at or above the county level shall be responsible for the allocation and administration of natural disaster relief funds and for supervising their use.\nThe emergency management departments of people's governments at or above the county level shall be responsible for the allocation, distribution and administration of natural disaster relief materials."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Relief Funds and Materials"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The procurement by people's governments of goods, works and services for preparations for natural disaster relief and for post-disaster recovery and reconstruction shall be organised and implemented in accordance with the legal provisions on government procurement and tendering and bidding. Urgent procurement activities involving emergency rescue, emergency evacuation and resettlement and temporary relief in emergency natural disaster relief and post-disaster recovery and reconstruction shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Relief Funds and Materials"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Natural disaster relief funds and materials shall be used exclusively for the designated purposes and shall be used free of charge.\nFunds and materials donated for a designated purpose shall be used in accordance with the wishes of the donors. Funds and materials accepted by government departments for which the donors have not designated an intention shall be arranged in an overall manner by the emergency management departments of people's governments at or above the county level for use in natural disaster relief; funds and materials accepted by social organisations for which the donors have not designated an intention shall be used by the social organisations for natural disaster relief in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Relief Funds and Materials"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Natural disaster relief funds and materials shall be used for expenditures such as the emergency evacuation and resettlement of persons affected by the disaster, basic livelihood relief, medical relief, the recovery and reconstruction of public service facilities such as education and medical facilities and of housing, the procurement, storage and transport of natural disaster relief materials, and the comforting of the relatives of persons who died in the disaster."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Relief Funds and Materials"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The emergency management, finance and other departments of the people's government of the disaster-stricken area and the relevant social organisations shall, through newspapers and periodicals, broadcasting, television and the Internet, take the initiative to make public to society the sources, quantities and use of the natural disaster relief funds and materials and donated funds and materials they have accepted.\nThe village committees and residents' committees of the disaster-stricken area shall publish the relief recipients and the amounts and use of the relief funds and materials they have received."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Relief Funds and Materials"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "People's governments at all levels shall establish and improve supervision and inspection systems for natural disaster relief funds and materials and donated funds and materials, and shall promptly accept complaints and reports."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Relief Funds and Materials"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The supervisory organs and audit organs of people's governments at or above the county level shall, in accordance with the law, supervise and inspect the administration and use of natural disaster relief funds and materials and donated funds and materials, and the emergency management and finance departments and the relevant social organisations shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Relief Funds and Materials"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where staff of administrative organs violate the provisions of these Regulations and commit any of the following acts, the organ with the power of appointment and removal or the supervisory organ shall give them sanctions in accordance with laws and regulations; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(a) delaying the report, making a false report or concealing the losses caused by a natural disaster, resulting in consequences;\n(b) failing to promptly organise the evacuation and resettlement of persons affected by the disaster, or performing work ineffectively in providing basic livelihood relief or organising recovery and reconstruction, resulting in consequences;\n(c) withholding, misappropriating or privately dividing natural disaster relief funds and materials or donated funds and materials;\n(d) failing to promptly return requisitioned property, or failing to give compensation in accordance with the provisions;\n(e) other acts of abusing power, neglecting duty or engaging in malpractices for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where anyone obtains natural disaster relief funds and materials or donated funds and materials by fraud through false reporting, concealment, forgery or other means, the emergency management department of the people's government at or above the county level shall order the return of the funds and materials unlawfully obtained within a prescribed period; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where anyone seizes or gathers a crowd to seize natural disaster relief funds and materials or donated funds and materials, the emergency management department of the people's government at or above the county level shall order the cessation of the illegal act; where the act constitutes a violation of public security administration, the public security organ shall impose a penalty for the administration of public security in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where anyone obstructs natural disaster relief workers in the lawful performance of their duties by violence or threats and the act constitutes a violation of public security administration, the public security organ shall impose a penalty for the administration of public security in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where unexpected incidents such as accidents and disasters, public health incidents or social security incidents occur and the emergency management departments of people's governments at or above the county level need to carry out livelihood relief, these Regulations shall apply with reference."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where laws and administrative regulations provide otherwise on disaster prevention, disaster resistance and disaster relief, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2010."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0623'] = {
+    "lawId": "CN-REG-0623",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 23 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to define the functions and powers and the status of the chief accountant and to give play to the role of the chief accountant in strengthening economic management and improving economic efficiency."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Large and medium-sized enterprises owned by the whole people shall establish the position of chief accountant; institutions and the competent departments in charge of business may, as needed and upon approval, establish the position of chief accountant.\nThe establishment, functions and powers, appointment and removal, and rewards and punishments of the chief accountant shall be governed by the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The chief accountant is a member of the administrative leadership of the unit, assists the principal administrative leader of the unit in his work, and is directly responsible to the principal administrative leader of the unit."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In any unit where a chief accountant is established, no deputy position whose functions and powers overlap with those of the chief accountant shall be established among the members of the administrative leadership of the unit."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The chief accountant shall organise and lead the work of the unit in financial management, cost management, budget management, accounting and accounting supervision, and shall participate in the analysis of and decision-making on important economic issues of the unit."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The chief accountant shall specifically organise the unit in implementing the State laws, regulations, guidelines, policies and systems relating to finance and economics, and shall protect State property.\nThe functions and powers of the chief accountant shall be protected by the laws of the State. The principal administrative leader of the unit shall support and guarantee the chief accountant in exercising his functions and powers in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The chief accountant shall be responsible for organising the following work of the unit:\n(a) formulating and implementing budgets, plans for financial revenue and expenditure and credit plans, drafting schemes for raising and using funds, opening up sources of funds and using funds effectively;\n(b) forecasting, planning, controlling, accounting for, analysing and assessing costs and expenses, and urging the relevant departments of the unit to reduce consumption, economise on expenses and improve economic efficiency;\n(c) establishing and improving the system of economic accounting and using financial and accounting data to analyse economic activities;\n(d) undertaking other work assigned by the principal administrative leader of the unit."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Duties of the Chief Accountant"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The chief accountant shall be responsible for putting forward proposals on the establishment of the accounting and finance bodies of the unit, the staffing of accounting personnel and the establishment and appointment of professional accounting positions; organising the professional training and assessment of accounting personnel; and supporting accounting personnel in exercising their functions and powers in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Duties of the Chief Accountant"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The chief accountant shall assist the principal administrative leader of the unit in making decisions on issues such as the production and operation of the enterprise, the development of the business of administrative institutions and the investment in capital construction.\nThe chief accountant shall participate in the formulation of schemes for the development of new products, technological transformation, scientific and technological research, and the prices of commodities (services) and wages and bonuses; and shall participate in the study and examination of major economic contracts and economic agreements."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Duties of the Chief Accountant"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The chief accountant shall have the right to stop or correct any act that violates the State laws, regulations, guidelines, policies and systems relating to finance and economics, or that may cause economic losses or waste. Where such stopping or correction is ineffective, the matter shall be submitted to the principal administrative leader of the unit for handling.\nWhere the principal administrative leader of the unit does not agree with the opinion of the chief accountant on handling the act specified in the preceding paragraph, the chief accountant shall act in accordance with the relevant provisions of the Accounting Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter III Powers of the Chief Accountant"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The chief accountant shall have the right to organise the work of the functional departments and the directly subordinate grassroots organisations of the unit in economic accounting, financial accounting and cost management."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Powers of the Chief Accountant"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The chief accountant shall be in charge of examining and approving financial revenue and expenditure. Except that ordinary financial revenue and expenditure may be examined and approved by the person in charge of the accounting and finance body or by other designated persons authorised by the chief accountant, major financial revenue and expenditure must be examined and approved by the chief accountant or be submitted by the chief accountant to the principal administrative leader of the unit for approval."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Powers of the Chief Accountant"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Budgets, plans for financial revenue and expenditure, cost and expense plans, credit plans, special financial reports and accounting final accounts statements shall be signed by the chief accountant.\nMajor business plans, economic contracts, economic agreements and the like involving financial revenue and expenditure shall be countersigned by the chief accountant within the unit."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Powers of the Chief Accountant"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The appointment, promotion, transfer, reward and punishment of accounting personnel shall be subject to the prior opinion of the chief accountant. The candidates for the person in charge of the accounting and finance body or for the person in charge of accounting shall be assessed professionally by the chief accountant and approved in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Powers of the Chief Accountant"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The chief accountant of an enterprise shall be nominated by the principal administrative leader of the unit and appointed or engaged by the competent department of the government; the procedure for removal from office or dismissal shall be the same as the procedure for appointment or engagement.\nThe chief accountant of an institution or of a competent department in charge of business shall be appointed or engaged in accordance with the limits of authority for the administration of cadres; the procedure for removal from office or dismissal shall be the same as the procedure for appointment or engagement."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Appointment, Removal, Rewards and Penalties"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A chief accountant must meet the following conditions:\n(a) adhering to the socialist orientation and actively serving socialist construction and reform and opening up;\n(b) adhering to principles and being honest and public-spirited in the discharge of duties;\n(c) having been in charge of the financial accounting work of a unit or of an important aspect of the work of a unit for not less than three years after obtaining the qualification for the position of accountant;\n(d) having a relatively high level of theory and policy, being familiar with the State laws, regulations, guidelines, policies and systems relating to finance and economics, and mastering the relevant knowledge of modern management;\n(e) having the basic professional knowledge of the industry concerned, being familiar with the situation of the industry and having relatively strong ability in organisation and leadership;\n(f) being in good health and competent for the work of the post."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Appointment, Removal, Rewards and Penalties"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a chief accountant achieves notable results in his work and any of the following circumstances applies, he shall be rewarded in accordance with the State provisions on rewards and punishments for enterprise employees or for staff members of State administrative organs:\n(a) achieving notable results in strengthening financial and accounting management, applying modern accounting methods and technical means, and raising the level of financial management and economic efficiency;\n(b) achieving notable results in organising economic accounting, tapping the potential for increasing production and practising economy and for increasing revenue and reducing expenditure, accelerating the turnover of funds and improving the effectiveness of the use of funds;\n(c) making outstanding contributions to safeguarding State financial and economic discipline, resisting illegal acts, protecting State property and preventing or avoiding major losses to State property;\n(d) having outstanding records in building a clean government;\n(e) having other outstanding achievements or exemplary records."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Appointment, Removal, Rewards and Penalties"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where any of the following circumstances applies to a chief accountant in his work, he shall, in light of the seriousness of the circumstances, be given a sanction in accordance with the State provisions on rewards and punishments for enterprise employees or for staff members of State administrative organs:\n(a) violating laws, regulations, guidelines, policies and financial and economic systems and causing serious confusion in financial and accounting work;\n(b) failing to resist, stop or report acts of tax evasion, withholding of revenue that should be turned over to the State, indiscriminate issuance of bonuses and subsidies, or squandering and wasting State assets, which damage the interests of the State, thereby causing losses to the interests of the State;\n(c) committing serious errors within the scope of the work under his charge, or causing losses to the interests of the State due to neglect of duty;\n(d) abusing his power for personal gain, practising fraud or engaging in malpractices for personal gain, thereby causing losses to the interests of the State or flagrant consequences;\n(e) committing other acts of dereliction of duty or serious errors.\nWhere a chief accountant commits any of the acts listed in the preceding paragraph, and the circumstances are serious enough to constitute a crime, criminal responsibility shall be investigated by the judicial organ in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Appointment, Removal, Rewards and Penalties"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the principal administrative leader of a unit obstructs the chief accountant in exercising his functions and powers, or retaliates against him or retaliates against him in a disguised form, the competent authority at the higher level shall impose an administrative disciplinary sanction in light of the circumstances. Where the circumstances are serious enough to constitute a crime, criminal responsibility shall be investigated by the judicial organ in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Appointment, Removal, Rewards and Penalties"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where urban and rural enterprises and institutions under collective ownership need to establish the position of chief accountant, these Regulations shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The provinces, autonomous regions and municipalities directly under the Central Government and the departments under the State Council may, in accordance with the provisions of these Regulations and in light of the actual conditions of their respective regions or departments, formulate implementing measures."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The Ministry of Finance shall be responsible for the interpretation of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation. The provisions relating to chief accountants in the Several Provisions on the Establishment of Chief Accountants in State-owned Industrial and Transport Enterprises (Draft), approved and transmitted by the State Council on 18 October 1963 upon the request of the State Economic Commission and the Ministry of Finance, and in the Regulations on the Functions and Powers of Accounting Personnel, promulgated by the State Council on 12 September 1978, are repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
         }
       }
     ]

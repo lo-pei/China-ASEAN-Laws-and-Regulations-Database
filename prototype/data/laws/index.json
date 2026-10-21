@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-18",
+  "generatedAt": "2026-10-20",
   "source": "prototype/data（A 法域全文层 / B 中国全量层 / C 东盟分卷层）+ dataset/data（2026-10-07 快照）",
   "generator": "_work/merge/rebuild-index.js",
   "note": "每部法规一个 JSON（文件名 = 法规ID）。本目录为唯一权威存储；prototype/data/{intl,cn,fulltext}/*.js 由 _work/merge/build-packs.js 从本目录派生生成，请勿手工编辑那些分卷。",
