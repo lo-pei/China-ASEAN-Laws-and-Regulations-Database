@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p04
-   法规 26 部 / 译文 1125 条
+   法规 29 部 / 译文 1237 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -2051,6 +2051,630 @@
     ]
   };
 
+  TR['CN-LAW-0245'] = {
+    "lawId": "CN-LAW-0245",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution for the purpose of safeguarding national security and public order, protecting the lawful rights and interests of citizens, strengthening the development of the ranks of the people's police, strictly administering the police, improving the quality of the people's police, ensuring that the people's police exercise their functions and powers in accordance with the law and ensuring the smooth progress of reform and opening up and of socialist modernisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The tasks of the people's police are to safeguard national security, maintain public order, protect citizens' personal safety, personal freedom and lawful property, protect public property and prevent, stop and punish illegal and criminal activities.\nThe people's police include the people's police of public security organs, State security organs, prisons and re-education through labour administrative organs, and the judicial police of people's courts and people's procuratorates."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The people's police must rely on the support of the people, maintain close ties with the people, listen to the opinions and suggestions of the people, accept the supervision of the people, safeguard the interests of the people and serve the people wholeheartedly."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The people's police must take the Constitution and the laws as the criterion of their activities, be loyal to their duties, be honest and upright, observe strict discipline, obey orders and enforce the law strictly."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Acts of the people's police in performing their duties in accordance with the law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The people's police of public security organs shall, in accordance with the division of duties, perform the following duties in accordance with the law:\n(1) preventing, stopping and investigating illegal and criminal activities;\n(2) maintaining public order and stopping acts that disrupt public order;\n(3) maintaining traffic safety and traffic order and handling traffic accidents;\n(4) organising and implementing fire prevention and control work and exercising fire supervision;\n(5) administering firearms and ammunition, controlled knives and dangerous articles such as inflammable and explosive, highly toxic and radioactive articles;\n(6) administering the special trades prescribed by laws and regulations;\n(7) guarding the specific persons prescribed by the State and guarding important sites and facilities;\n(8) administering assemblies, processions and demonstrations;\n(9) administering household registration, nationality, entry and exit affairs and matters relating to the residence and travel of foreigners within China;\n(10) maintaining public order in national (border) areas;\n(11) executing criminal punishment on offenders sentenced to criminal detention or deprived of political rights;\n(12) supervising and administering the security protection of computer information systems;\n(13) guiding and supervising public security protection work in State organs, social organisations, enterprises and institutions and key construction projects, and guiding the public security prevention work of mass organisations such as public security protection committees;\n(14) other duties prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The people's police of public security organs may, in accordance with the law, impose administrative compulsory measures and administrative penalties on individuals or organisations that violate the laws and regulations on public security administration or other public security administrative laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The people's police of public security organs may, in respect of persons who seriously endanger public order or threaten public security, forcibly remove them from the scene, lawfully detain them or take other measures prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In order to maintain public order, the people's police of public security organs may, upon presentation of the appropriate credentials, question and inspect on the spot persons suspected of illegal or criminal conduct; where, after questioning and inspection, any of the following circumstances exists, they may bring such persons to the public security organ and, with the approval of that public security organ, continue to question them:\n(1) the person is accused of criminal conduct;\n(2) the person is suspected of committing an offence at the scene;\n(3) the person is suspected of committing an offence and his or her identity is unclear;\n(4) the articles carried by the person may be booty.\nThe period for which a person questioned may be kept shall not exceed twenty-four hours from the time he or she is brought to the public security organ; in special circumstances, with the approval of a public security organ at or above the county level, it may be extended to forty-eight hours, and a record of the questioning shall be kept. Where continued questioning is approved, the family members of the person or the unit to which he or she belongs shall be notified immediately. Where continued questioning is not approved, the person questioned shall be released immediately.\nWhere, after continued questioning, the public security organ considers that detention or other compulsory measures need to be taken against the person questioned in accordance with the law, it shall make a decision within the period provided for in the preceding paragraph; where it cannot make such a decision within that period, it shall release the person questioned immediately."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In emergencies involving resistance to arrest, riots, prison breaks, seizure of firearms or other violent acts, the people's police of public security organs may use weapons in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where necessary to stop serious illegal and criminal activities, the people's police of public security organs may use police equipment in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where necessary for the investigation of criminal activities, the people's police of public security organs may, in accordance with the law, carry out detention, search, arrest or other compulsory measures."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where urgent needs in the performance of duties so require, the people's police of public security organs may, upon presentation of the appropriate credentials, have priority in taking public means of transport and shall have priority of passage where traffic is obstructed.\nWhere necessary for the investigation of criminal activities, public security organs may, in accordance with the relevant provisions of the State, have priority in using the means of transport, means of communication, sites and buildings of State organs, public organisations, enterprises and institutions and individuals, and shall promptly return them after use and pay appropriate expenses; where losses are caused, compensation shall be given."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The people's police of public security organs may take protective restraint measures against mentally ill persons who seriously endanger public security or the personal safety of others. Where such persons need to be sent to a designated unit or place for guardianship, the approval of the public security organ of the people's government at or above the county level shall be sought, and their guardians shall be notified promptly."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "In order to prevent and stop acts that seriously endanger public order, the public security organs of the people's governments at or above the county level may, within a certain area and for a certain period, restrict the passage or stay of persons and vehicles and may impose traffic control where necessary.\nThe people's police of public security organs may, in accordance with the preceding paragraph, take corresponding traffic control measures."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where necessary for the investigation of criminal activities, public security organs may, in accordance with the relevant provisions of the State and after strict approval procedures, adopt technical investigation measures."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The public security organs of the people's governments at or above the county level may, with the approval of the public security organ at the next higher level and of the people's government at the same level, impose on-site control according to the circumstances in respect of emergencies that seriously endanger public order.\nThe people's police of public security organs may, in accordance with the preceding paragraph, take necessary means to disperse persons forcibly and forcibly remove from the scene or immediately detain persons who refuse to obey."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The people's police of State security organs, prisons and re-education through labour administrative organs, and the judicial police of people's courts and people's procuratorates, shall perform their functions and powers in accordance with the provisions of the relevant laws and administrative regulations respectively."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the people's police encounter, outside working hours, an emergency within the scope of their duties, they shall perform their duties."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Functions and Powers"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The people's police must:\n(1) enforce the law impartially and act fairly in handling matters;\n(2) exemplarily observe social ethics;\n(3) treat people courteously and perform duties in a civilised manner;\n(4) respect the customs and habits of the people."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Duties and Discipline"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the people's police encounter infringement of a citizen's personal or property safety or other danger, they shall immediately provide assistance; they shall assist citizens who request the settlement of disputes; and they shall promptly investigate and handle cases reported to the police by citizens.\nThe people's police shall actively participate in emergency rescue and disaster relief and in work for the public good."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Duties and Discipline"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The people's police shall not commit any of the following acts:\n(1) spreading statements that damage the reputation of the State, joining illegal organisations, participating in assemblies, processions, demonstrations and other activities aimed against the State, or joining a strike;\n(2) disclosing State secrets or secrets of police work;\n(3) practising fraud, concealing the circumstances of a case, or shielding or conniving at illegal and criminal activities;\n(4) extorting confessions by torture, or imposing corporal punishment on or maltreating persons in custody;\n(5) unlawfully depriving or restricting the personal freedom of another person, or unlawfully searching another person's body, articles, residence or premises;\n(6) extorting or blackmailing, or demanding or accepting bribes;\n(7) beating another person or instigating another person to beat someone;\n(8) unlawfully imposing penalties or collecting fees;\n(9) accepting banquets or gifts from the parties concerned or their agents;\n(10) engaging in for-profit business activities or being employed by any individual or organisation;\n(11) neglecting duties or failing to perform statutory obligations;\n(12) other acts that violate the law or discipline."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Duties and Discipline"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The people's police must wear uniforms in accordance with the provisions, wear the insignia of the people's police or carry people's police credentials, and maintain a neat and proper appearance and dignified bearing."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Duties and Discipline"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall, in light of the nature, tasks and characteristics of the work of the people's police, prescribe the establishment of organisational structures and the sequence of posts."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Organisation and Management"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The people's police shall apply the system of police ranks in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Organisation and Management"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A person serving as a member of the people's police shall meet the following conditions:\n(1) being a citizen who has reached the age of eighteen;\n(2) upholding the Constitution of the People's Republic of China;\n(3) having good political and professional qualities and good conduct;\n(4) being in good health;\n(5) having an educational level of senior secondary school graduation or above;\n(6) being willing to engage in the work of the people's police.\nA person in any of the following circumstances may not serve as a member of the people's police:\n(1) having previously been subjected to criminal punishment for a crime;\n(2) having previously been dismissed from public office."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Organisation and Management"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The recruitment of the people's police must be carried out in accordance with the provisions of the State by means of open examination, strict assessment and selection of the best."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Organisation and Management"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A person holding a leading post in the people's police shall meet the following conditions:\n(1) having professional legal knowledge;\n(2) having experience in political and legal work and a certain capacity for organisation, management and command;\n(3) having an educational background of junior college or above;\n(4) having been trained at a people's police academy and passed the examination."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Organisation and Management"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State shall develop people's police education and provide the people's police with planned education and training in political ideology, the legal system, police operations and the like."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Organisation and Management"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The State shall, in light of the nature, tasks and characteristics of the work of the people's police, prescribe separately the length of service for different posts and the maximum age for holding different posts."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Organisation and Management"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a member of the people's police individually or collectively performs outstandingly in work and achieves notable results and special contributions, he or she shall be rewarded. The rewards shall be: commendation, third class merit, second class merit, first class merit, and the conferment of an honorary title.\nA member of the people's police who is rewarded may, in accordance with the relevant provisions of the State, be promoted in police rank ahead of time and be given a certain material reward."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Organisation and Management"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The people's police must execute the decisions and orders of their superiors.\nWhere a member of the people's police considers a decision or order to be erroneous, he or she may put forward an opinion in accordance with the provisions, but may not suspend or alter the execution of the decision or order; where the opinion put forward is not adopted, he or she must obey the decision or order; the consequences of executing the decision or order shall be borne by the superior who made it."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The people's police shall have the right to refuse to execute an instruction that exceeds the scope of the duties of the people's police as prescribed by laws and regulations, and shall at the same time report the matter to the authority at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where the people's police perform their duties in accordance with the law, citizens and organisations shall give support and assistance. Acts of citizens and organisations in assisting the people's police in performing their duties in accordance with the law shall be protected by law. Those who achieve notable results in assisting the people's police in performing their duties shall be commended and rewarded.\nWhere citizens or organisations suffer personal injury or death or property losses as a result of assisting the people's police in performing their duties, pensions or compensation shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a person refuses or obstructs the people's police in performing their duties in accordance with the law by committing any of the following acts, a public security administration penalty shall be imposed:\n(1) openly insulting a member of the people's police who is performing his or her duties;\n(2) obstructing the people's police in investigating and collecting evidence;\n(3) refusing or obstructing the people's police from entering the relevant residence or premises in carrying out tasks such as pursuit, search and emergency rescue;\n(4) intentionally placing obstacles in the way of police vehicles carrying out emergency tasks such as saving persons, rescue, pursuit and guarding;\n(5) other acts of refusing or obstructing the people's police in the performance of their duties.\nWhere the acts provided for in the preceding paragraph are committed by violence or threats and a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The police insignia, uniform clothing and police equipment of the people's police shall be manufactured under the unified supervision of the public security department of the State Council and administered in consultation with the other relevant State organs, and no other individual or organisation may unlawfully manufacture or sell them.\nThe police insignia, uniform clothing, police equipment and credentials of the people's police are for the exclusive use of the people's police, and no other individual or organisation may possess or use them.\nWhere the provisions of the preceding two paragraphs are violated, the police insignia, uniform clothing, police equipment and credentials of the people's police unlawfully manufactured, sold, possessed or used shall be confiscated, and the public security organ shall impose detention of not more than fifteen days or a warning, and may concurrently impose a fine of not more than five times the illegal gains; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall guarantee funding for the people's police. The funding for the people's police shall, in accordance with the principle of division of authority and responsibility, be included in the financial budgets of the central and local governments respectively."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The communications and training facilities and the transport, fire protection, police station, custodial and other infrastructure necessary for the work of the people's police shall be included by the people's governments at all levels in their capital construction plans and their overall urban and rural construction plans."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State shall strengthen the modernisation of the equipment of the people's police and strive to popularise and apply advanced scientific and technological achievements."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The people's police shall apply the wage system for State civil servants and shall enjoy police rank allowances, other allowances and subsidies, and insurance and welfare benefits as prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a member of the people's police becomes disabled in the line of duty, he or she shall enjoy the same pensions and preferential treatment from the State as military personnel in active service disabled in the line of duty.\nWhere a member of the people's police dies a heroic death or dies of illness in the line of duty, his or her family members shall enjoy the same pensions and preferential treatment from the State as the family members of military personnel in active service who die a heroic death or die of illness in the line of duty."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Police Support"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The people's police shall, in the performance of their duties, be subject to the supervision of the people's procuratorates and the administrative supervisory organs in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The authority at a higher level of the people's police shall supervise the law enforcement activities of the authority at a lower level and shall, where it finds that a disposition or decision made by the latter is erroneous, revoke or modify it."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The people's police shall, in the performance of their duties, consciously accept the supervision of society and of citizens. Provisions made by the people's police organs that are directly related to the public interest shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in handling a public security case, a member of the people's police falls under any of the following circumstances, he or she shall withdraw, and the party concerned or his or her legal agent shall also have the right to request that he or she withdraw:\n(1) being a party to the case or a close relative of a party;\n(2) he or she or a close relative of his or hers having an interest in the case;\n(3) having another relationship with a party to the case that may affect the fair handling of the case.\nWithdrawal as provided for in the preceding paragraph shall be decided by the public security organ concerned.\nThe withdrawal of a member of the people's police in handling a criminal case shall be governed by the provisions of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Citizens or organisations shall have the right to report or accuse the people's police of violations of law or discipline to the people's police organs, people's procuratorates or administrative supervisory organs. The organ that accepts the report or accusation shall promptly investigate and deal with the matter and inform the person who made the report or accusation of the outcome.\nNo one may suppress or take reprisals against citizens or organisations that make reports or accusations in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Public security organs shall establish an inspection system to supervise compliance with laws and regulations and with discipline by the people's police of public security organs."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision over Law Enforcement"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a member of the people's police commits any of the acts listed in Article 22 of this Law, he or she shall be given administrative sanctions; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law.\nAdministrative sanctions shall be: warning, recording of a demerit, recording of a major demerit, demotion, removal from post, and dismissal. A member of the people's police subjected to administrative sanctions may, in accordance with the relevant provisions of the State, be reduced in police rank or have his or her police rank cancelled.\nWhere necessary, a member of the people's police who violates discipline may be subjected to suspension from the performance of duties or confinement."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a member of the people's police uses weapons or police equipment in violation of the provisions and a crime is constituted, criminal responsibility shall be investigated in accordance with the law; where a crime is not yet constituted, administrative sanctions shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a member of the people's police, in the performance of his or her duties, infringes upon the lawful rights and interests of a citizen or organisation and causes damage, compensation shall be given in accordance with the State Compensation Law of the People's Republic of China and the provisions of other relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The Chinese People's Armed Police Force shall carry out the security protection tasks assigned by the State."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "This Law shall come into force on the date of promulgation. The Regulations of the People's Republic of China on the People's Police promulgated on 25 June 1957 shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0246'] = {
     "lawId": "CN-LAW-0246",
     "sourceLang": "zh",
@@ -2658,6 +3282,609 @@
         },
         "noLabel": {
           "en": "Article 32."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0248'] = {
+    "lawId": "CN-LAW-0248",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of regulating and safeguarding the performance of duties by the People's Armed Police Force, building a strong and modernised People's Armed Police Force, safeguarding national security and social stability, and protecting the lawful rights and interests of citizens, legal persons and other organisations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The People's Armed Police Force is an important component of the armed forces of the People's Republic of China and is under the centralised and unified leadership of the Party Central Committee and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The People's Armed Police Force shall uphold the absolute leadership of the Communist Party of China, implement Xi Jinping's thinking on strengthening the military, implement the military strategic guidelines for the new era, and, in accordance with the strategic requirements of being multi-capable and integrated and of maintaining stability and safeguarding rights, strengthen training and combat readiness, persist in strict administration in accordance with the law, accelerate its development and effectively perform its duties."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The People's Armed Police Force shall be charged with guard duty, handling sudden social security incidents, preventing and handling terrorist activities, maritime rights protection and law enforcement, emergency rescue and relief, and defensive operations, as well as other tasks assigned by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The People's Armed Police Force shall abide by the Constitution and the laws, be loyal to its duties and perform its duties in accordance with this Law and the relevant provisions of other laws.\nActs of the People's Armed Police Force in performing its duties in accordance with the law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's Armed Police personnel who make outstanding contributions in the performance of tasks shall be commended and rewarded in accordance with the relevant laws and the provisions of the Central Military Commission.\nIndividuals and organisations that make outstanding contributions in assisting People's Armed Police personnel in performing tasks shall be commended and rewarded in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The People's Armed Police Force applies a system of ranks, the specific contents of which shall be separately prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's Armed Police personnel shall enjoy the rights and interests of military personnel in active service as prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The People's Armed Police Force consists of the internal security force, the mobile force, the coast guard force, and academies, research institutions and the like.\nThe internal security force shall be organised on the basis of administrative divisions, the mobile force shall be organised on the basis of tasks, and the coast guard force shall be organised in coastal areas on the basis of administrative divisions and task areas. The specific organisation shall be determined by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Organisation and Command"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where the People's Armed Police Force performs tasks in peacetime, it shall be organised and commanded by the Central Military Commission or by the People's Armed Police Force as authorised by the Central Military Commission.\nWhere the People's Armed Police Force participates together with the People's Liberation Army in peacetime in emergency rescue and relief, maintaining stability and handling emergencies, joint training and exercises and other military operations other than war, it shall be commanded by the theatre commands as authorised by the Central Military Commission.\nWhere the People's Armed Police Force performs tasks in wartime, it shall be organised and commanded by the Central Military Commission or by the theatre commands as authorised by the Central Military Commission.\nThe specific measures for organisation and command shall be prescribed by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Organisation and Command"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Central State organs and the local people's governments at or above the county level shall establish task requirement and work coordination mechanisms with the People's Armed Police Force.\nWhere central State organs or the local people's governments at or above the county level require the assistance of the People's Armed Police Force for the security protection of major activities, the handling of sudden social security incidents, the prevention and handling of terrorist activities, emergency rescue and relief and the like, they shall submit their requirements in accordance with the relevant provisions of the State.\nA unit that is the target of guard duty may submit requirements to the People's Armed Police Force responsible for the guard duty."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Organisation and Command"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The deployment of the People's Armed Police Force to perform tasks shall adhere to the principles of using troops in accordance with the law and of strict examination and approval, and shall be organised and implemented in accordance with the command relationship, the duties and powers and the operating mechanisms. The authority and procedures for approval shall be prescribed by the Central Military Commission.\nIn emergencies such as major disasters, dangerous situations or violent terrorist incidents that seriously threaten public security or the personal and property safety of citizens, the People's Armed Police Force shall take action in accordance with the relevant provisions of the Central Military Commission and shall report at the same time."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Organisation and Command"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The People's Armed Police Force shall, as required for the performance of tasks, join the command organs established by central State organs or by the local people's governments at or above the county level, and shall exercise organisation and command under the leadership of such command organs in accordance with the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Organisation and Command"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Central State organs and the local people's governments at or above the county level shall provide professional guidance to the People's Armed Police Force in respect of guard duty, the handling of sudden social security incidents, the prevention and handling of terrorist activities and emergency rescue and relief.\nWhere the People's Armed Police Force performs tasks such as armed security guards, armed guarding, armed protection, armed surveillance, escorting persons under custody and armed escorting of goods, the unit that is the target of guard duty may provide professional guidance on guard duty to the People's Armed Police Force performing guard duty at that unit."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Organisation and Command"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The People's Armed Police Force shall mainly perform the following guard duties:\n(1) armed security guarding of persons under protection and important guard targets;\n(2) security protection of major activities;\n(3) armed guarding of the core and vital parts of important public facilities, nuclear facilities, enterprises, warehouses, water sources, water conservancy projects, power facilities, communications hubs and other targets;\n(4) armed protection of important bridges and tunnels;\n(5) armed surveillance of the outer perimeter of prisons, detention houses and other places;\n(6) armed patrols in key areas, during special periods and along specific inland borders of municipalities directly under the Central Government, the cities where the people's governments of provinces and autonomous regions are located, and other important cities (towns);\n(7) assisting public security organs and State security organs in carrying out arrests and pursuits in accordance with the law, assisting prisons, detention houses and other units that are targets of guard duty in carrying out escorting of persons under custody and pursuits, and assisting the People's Bank of China, national defence and military industry units and other units that are targets of guard duty in carrying out armed escorting of goods.\nThe specific scope of the guard duties provided for in the preceding paragraph shall be implemented in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the People's Armed Police Force participates in handling disturbances, riots, turmoil, illegal assembly, mass incidents and other emergencies, it shall mainly perform the following tasks:\n(1) safeguarding the security of important targets;\n(2) sealing off and controlling the places and roads concerned;\n(3) carrying out isolation, channelling, removal and dispersal operations and stopping illegal and criminal acts;\n(4) rescuing and providing medical aid to trapped persons;\n(5) conducting armed patrols, assisting in carrying out mass work and restoring social order."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the People's Armed Police Force participates in preventing and handling terrorist activities, it shall mainly perform the following tasks:\n(1) controlling the scene of a terrorist incident, carrying out rescue and providing medical aid, and conducting armed patrols and surveillance of key targets;\n(2) assisting public security organs in arresting and pursuing persons engaged in terrorist activities;\n(3) rescuing hostages and removing explosives;\n(4) participating in handling incidents of hijacking aircraft and other means of transport."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the People's Armed Police Force participates in emergency rescue and relief for natural disasters, accidents and calamities, public health incidents and other emergencies, it shall mainly perform the following tasks:\n(1) participating in the search for, rescue of, relocation of or evacuation of trapped persons;\n(2) participating in surveillance of the outer perimeter of dangerous areas, dangerous sites and cordoned areas;\n(3) participating in removing and bringing under control disasters and dangerous situations and preventing secondary and derivative disasters;\n(4) participating in specialised emergency operations such as nuclear, biological and chemical rescue, medical aid, epidemic prevention and control, and the rush repair and rush construction of transport facilities;\n(5) participating in the rescue, transport and relocation of important materials."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "In performing tasks, People's Armed Police personnel may take the following measures in accordance with the law:\n(1) inspect, in accordance with the provisions, the persons, articles and means of transport entering or leaving a cordoned area or passing through a cordon checkpoint; stop those not permitted to enter, leave or pass; and take necessary measures to stop those who forcibly enter, leave or pass;\n(2) during armed patrols, with the consent of the on-site commander and upon presentation of their People's Armed Police credentials, question on the spot persons suspected of illegal or criminal conduct and check their credentials, and inspect suspicious articles and means of transport;\n(3) assist in enforcing traffic control or on-site control;\n(4) take necessary measures to stop, remove or disperse persons who gather to disrupt public order, endanger the personal and property safety of citizens, or jeopardise public security or the security of guard targets;\n(5) as required for the performance of tasks, make enquiries of the units and persons concerned, or conduct necessary reconnaissance on the spot and at places related to the performance of tasks."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where, in performing tasks, People's Armed Police personnel find persons in any of the following circumstances, they shall, with the consent of the on-site commander, promptly bring them under control and transfer them to a public security organ, a State security organ or any other organ with jurisdiction for handling:\n(1) a person who is committing a crime;\n(2) a person who is wanted and at large;\n(3) a person unlawfully carrying articles that endanger public security;\n(4) a person who is committing an act that endangers the security of a guard target;\n(5) a person who obstructs People's Armed Police personnel in the performance of tasks by violence, threats or other means."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the People's Armed Police Force assists public security organs, State security organs and prisons in carrying out arrests and pursuits, it shall, in accordance with the decisions of the organs it assists, assist in searching the persons and residences of criminal suspects, defendants and convicts, as well as the places and means of transport suspected of concealing criminal suspects, defendants, convicts or unlawful articles."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The use of police equipment and weapons by People's Armed Police personnel in performing guard duty and in handling sudden social security incidents and preventing and handling terrorist activities shall be governed by the provisions on the use of police equipment and weapons by the people's police and by the provisions of other relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where People's Armed Police personnel encounter obstruction or interference in performing tasks, they may take necessary measures to remove the obstruction and enforce compliance.\nWhere People's Armed Police personnel need to take measures in performing tasks, such measures shall be strictly kept within the necessary limits, and where several measures are available for choice, the measure that is conducive to protecting the rights and interests of individuals and organisations to the greatest extent shall be chosen."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where urgent needs in the performance of tasks so require, People's Armed Police personnel may, upon presentation of their People's Armed Police credentials, have priority in taking public means of transport, and shall have priority of passage where traffic is obstructed."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the needs of performing tasks so require in an emergency, People's Armed Police personnel may, upon presentation of their People's Armed Police credentials by the on-site commander, have priority in using, or lawfully requisition, the equipment, facilities, sites, buildings, means of transport and other materials and apparatus of individuals and organisations, and shall promptly return them or restore them to their original state after the tasks are completed and pay the expenses in accordance with the relevant provisions of the State; where losses are caused, compensation shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the People's Armed Police Force goes abroad to perform tasks such as preventing and handling terrorist activities, the matter shall be governed by the relevant laws and regulations and the provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Tasks and Powers"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "People's Armed Police personnel shall obey orders, follow commands, perform their duties and fulfil their responsibilities in accordance with the law, and resolutely complete their tasks."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Duties and Discipline"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the personal and property safety of a citizen is infringed upon or the citizen is in other danger, People's Armed Police personnel shall promptly provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Duties and Discipline"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "People's Armed Police personnel shall not commit any of the following acts:\n(1) disobeying decisions and orders of superiors, being passive in action, or deserting in the face of the enemy;\n(2) using police equipment or weapons in violation of the provisions;\n(3) unlawfully depriving or restricting the personal freedom of another person, or unlawfully inspecting or searching the person, articles, means of transport, residence or premises of another person;\n(4) imposing corporal punishment on, maltreating or beating persons under supervision, custody or control;\n(5) abusing power, committing irregularities for personal gain, leaving their posts without permission, or neglecting their duties;\n(6) shielding or conniving at illegal and criminal activities;\n(7) disclosing State secrets or military secrets;\n(8) other acts in violation of laws or discipline."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Duties and Discipline"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "In performing tasks, People's Armed Police personnel shall wear uniforms as required, carry their People's Armed Police credentials, and use video recording equipment to collect evidence and present their credentials in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Duties and Discipline"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "People's Armed Police personnel shall behave in a civilised manner, treat people courteously, observe social ethics and respect the religious beliefs and ethnic customs and habits of citizens."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Duties and Discipline"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In order to safeguard the performance of tasks by the People's Armed Police Force, central State organs and the local people's governments at or above the county level and their relevant departments shall, in accordance with their duties, promptly notify the People's Armed Police Force of the following intelligence and information:\n(1) information on social security;\n(2) intelligence and information on terrorist incidents and emergencies;\n(3) information on meteorology, hydrology, the marine environment, geographic space, disaster warnings and the like;\n(4) other intelligence and information related to the performance of tasks.\nCentral State organs and the local people's governments at or above the county level shall establish intelligence and information sharing mechanisms with the People's Armed Police Force, and may provide intelligence, information and data resources related to the performance of tasks by such means as connecting security information networks and intelligence information systems and databases.\nThe People's Armed Police Force shall strictly keep confidential and lawfully use the relevant information it obtains."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State establishes a funding guarantee mechanism that is commensurate with economic and social development and coordinated with the tasks undertaken by the People's Armed Police Force and with its development. The funds required shall be included in the budget in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A unit that is the target of guard duty and its superior competent department shall, in accordance with the relevant provisions of the State, provide the People's Armed Police Force performing guard duty with guard facilities, living facilities and other necessary guarantees."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "People's Armed Police personnel who perform tasks at a unit that is the target of guard duty in a seriously polluted environment such as one with toxic substances, dust, radiation or noise, or in other harsh environments such as high or low temperatures or a lack of oxygen, shall enjoy the same protection conditions and welfare subsidies as the staff members of that unit, which shall be guaranteed by that unit or by its superior competent department."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The special emblems, uniform clothing, police equipment, credentials and seals of the People's Armed Police Force shall be manufactured under supervision and allocated in accordance with the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The People's Armed Police Force shall, in light of the needs of performing tasks, strengthen the education and training of the People's Armed Police personnel under its command and improve their ability to perform tasks in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where People's Armed Police personnel die or are disabled in the performance of tasks, they shall be given pensions and preferential treatment in accordance with the State's provisions on pensions and preferential treatment for military personnel."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the People's Armed Police Force performs tasks in accordance with the law, citizens, legal persons and other organisations shall provide the necessary support and assistance.\nActs of citizens, legal persons and other organisations in assisting the People's Armed Police Force in performing tasks shall be protected by law.\nWhere citizens, legal persons or other organisations die, are disabled or suffer property losses as a result of assisting the People's Armed Police Force in performing tasks, pensions and preferential treatment or corresponding compensation shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The People's Armed Police Force shall conduct supervisory inspections of the implementation of laws and regulations and the observance of discipline by the units and personnel under its command."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "People's Armed Police personnel shall be supervised by the Supervisory Commission of the Central Military Commission and the supervisory commissions at all levels of the People's Armed Police Force.\nPeople's Armed Police personnel performing guard duty and the tasks of handling sudden social security incidents, preventing and handling terrorist activities, maritime rights protection and law enforcement, and emergency rescue and relief shall be subject to the supervision of people's governments and their relevant departments, citizens, legal persons and other organisations."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "After receiving reports or accusations from citizens, legal persons or other organisations, or after receiving notifications from people's governments at or above the county level or their relevant departments concerning violations of the law or discipline by People's Armed Police personnel, the Supervisory Commission of the Central Military Commission and the supervisory commissions at all levels of the People's Armed Police Force shall promptly investigate and deal with the matter in accordance with the law and shall, in accordance with the relevant provisions, give feedback on the outcome to the persons who made the report or accusation or notify the people's governments at or above the county level and their relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where People's Armed Police personnel fail to perform their duties in the performance of tasks, or commit any of the acts listed in Article 29 of this Law, they shall be given disciplinary sanctions in accordance with the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a person obstructs People's Armed Police personnel in the lawful performance of tasks by committing any of the following acts, the public security organ shall impose a public security administration penalty in accordance with the law:\n(1) insulting, threatening, besieging, intercepting or assaulting People's Armed Police personnel who are performing tasks;\n(2) forcibly breaking through a cordon or cordoned area set up by the People's Armed Police Force;\n(3) refusing or obstructing People's Armed Police personnel in carrying out pursuit, inspection, search, emergency rescue, surveillance and other tasks;\n(4) obstructing the passage of the means of transport and personnel of the People's Armed Police Force performing tasks;\n(5) other acts that seriously obstruct People's Armed Police personnel in the performance of tasks."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a person unlawfully manufactures, buys, sells, possesses or uses the special emblems, police equipment, credentials or seals of the People's Armed Police Force, the public security organ shall impose detention of not more than 15 days or a warning, and may concurrently impose a fine of not less than one time and not more than five times the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The performance by the People's Armed Police Force of maritime rights protection and law enforcement tasks shall be separately prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The performance by the People's Armed Police Force of defensive operational tasks shall be carried out in accordance with the orders of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The performance by the People's Armed Police Force of martial law tasks shall be carried out in accordance with the relevant provisions of the Martial Law Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where civilian personnel of the People's Armed Police Force perform the tasks provided for in this Law, they shall lawfully perform the relevant duties and obligations of People's Armed Police personnel and enjoy the corresponding rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "This Law shall come into force on 21 June 2020."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -11064,6 +12291,102 @@
         },
         "chapter": {
           "en": "Chapter X Crimes of Servicemen’s Transgression of Duties"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0294'] = {
+    "lawId": "CN-LAW-0294",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "An article is added to the Criminal Law after Article 162 as Article 162bis, which reads: Whoever conceals or intentionally destroys accounting vouchers, account books or financial accounting reports that shall be kept in accordance with law, where the circumstances are serious, shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention, and shall also, or shall only, be fined not less than 20,000 yuan but not more than 200,000 yuan.\nWhere a unit commits the crime mentioned in the preceding paragraph, the unit shall be fined, and the persons directly in charge and other persons directly responsible shall be punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Article 168 of the Criminal Law is amended to read: Where a staff member of a State-owned company or enterprise, owing to serious irresponsibility or abuse of power, causes the bankruptcy of the State-owned company or enterprise or serious losses, thereby causing major losses to State interests, he shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention; where particularly major losses are caused to State interests, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years.\nWhere a staff member of a State-owned institution commits the act mentioned in the preceding paragraph, thereby causing major losses to State interests, he shall be punished in accordance with the provisions of the preceding paragraph.\nWhere a staff member of a State-owned company, enterprise or institution practises favouritism and irregularities and commits the crimes mentioned in the preceding two paragraphs, he shall be given a heavier punishment in accordance with the provisions of paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Article 174 of the Criminal Law is amended to read: Whoever, without approval of the competent State department, establishes without authorisation a commercial bank, a stock exchange, a futures exchange, a securities company, a futures brokerage company, an insurance company or any other financial institution shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall also, or shall only, be fined not less than 20,000 yuan but not more than 200,000 yuan; where the circumstances are serious, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than ten years, and shall also be fined not less than 50,000 yuan but not more than 500,000 yuan.\nWhoever forges, alters or transfers the business licence or approval document of a commercial bank, a stock exchange, a futures exchange, a securities company, a futures brokerage company, an insurance company or any other financial institution shall be punished in accordance with the provisions of the preceding paragraph.\nWhere a unit commits the crimes mentioned in the preceding two paragraphs, the unit shall be fined, and the persons directly in charge and other persons directly responsible shall be punished in accordance with the provisions of paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Article 180 of the Criminal Law is amended to read: Where a person who is an insider with knowledge of inside information on securities or futures trading, or a person who illegally obtains inside information on securities or futures trading, before the information concerning the issuance of securities, securities or futures trading, or other information that has a major effect on the prices of securities or futures, is made public, buys or sells the securities, or engages in futures trading related to the inside information, or discloses the information, where the circumstances are serious, he shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention, and shall also, or shall only, be fined not less than one time but not more than five times the illegal gains; where the circumstances are especially serious, he shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years, and shall also be fined not less than one time but not more than five times the illegal gains.\nWhere a unit commits the crime mentioned in the preceding paragraph, the unit shall be fined, and the persons directly in charge and other persons directly responsible shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention.\nThe scope of inside information and of insiders shall be determined in accordance with the provisions of laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Article 181 of the Criminal Law is amended to read: Whoever fabricates and disseminates false information that affects securities or futures trading, disrupts the securities or futures trading market and causes serious consequences shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention, and shall also, or shall only, be fined not less than 10,000 yuan but not more than 100,000 yuan.\nWhere an employee of a stock exchange, a futures exchange, a securities company or a futures brokerage company, or a staff member of a securities industry association, a futures industry association or the department supervising and administering securities and futures, intentionally provides false information, or forges, alters or destroys trading records, to induce investors to buy or sell securities or futures contracts, causing serious consequences, he shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention, and shall also, or shall only, be fined not less than 10,000 yuan but not more than 100,000 yuan; where the circumstances are especially flagrant, he shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years, and shall also be fined not less than 20,000 yuan but not more than 200,000 yuan.\nWhere a unit commits the crimes mentioned in the preceding two paragraphs, the unit shall be fined, and the persons directly in charge and other persons directly responsible shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Article 182 of the Criminal Law is amended to read: Whoever, under any of the following circumstances, manipulates the prices of securities or futures trading to obtain illegitimate benefits or shift risks, where the circumstances are serious, shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention, and shall also, or shall only, be fined not less than one time but not more than five times the illegal gains:\nacting alone or in collusion, concentrating the advantage in funds, in shareholding or in positions, or exploiting an advantage in information, to buy or sell jointly or continuously, thereby manipulating the prices of securities or futures trading;\ncolluding with others to conduct securities or futures transactions with each other at prearranged times, prices and manners, or to buy and sell securities that they do not hold, thereby affecting the prices or the volume of securities or futures trading;\nmaking oneself the counterparty to transactions and buying and selling securities without transfer of ownership, or making oneself the counterparty to transactions and buying and selling futures contracts on one's own account, thereby affecting the prices or the volume of securities or futures trading;\nmanipulating the prices of securities or futures trading by other methods.\nWhere a unit commits the crime mentioned in the preceding paragraph, the unit shall be fined, and the persons directly in charge and other persons directly responsible shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Article 185 of the Criminal Law is amended to read: Where a staff member of a commercial bank, a stock exchange, a futures exchange, a securities company, a futures brokerage company, an insurance company or any other financial institution, taking advantage of his position, misappropriates the funds of his unit or of clients, he shall be convicted and punished in accordance with the provisions of Article 272 of this Law.\nWhere a staff member of a State-owned commercial bank, stock exchange, futures exchange, securities company, futures brokerage company, insurance company or any other State-owned financial institution, or a person assigned by such an institution to a non-State-owned institution mentioned in the preceding paragraph to engage in public service, commits the act mentioned in the preceding paragraph, he shall be convicted and punished in accordance with the provisions of Article 384 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "An item is added to Article 225 of the Criminal Law as item 3, which reads: without approval of the competent State department, illegally engaging in securities, futures or insurance business; the original item 3 is renumbered as item 4."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "This Amendment shall enter into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 9."
         }
       }
     ]

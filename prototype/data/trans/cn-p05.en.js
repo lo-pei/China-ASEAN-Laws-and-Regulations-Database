@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p05
-   法规 39 部 / 译文 1740 条
+   法规 40 部 / 译文 1792 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -12537,6 +12537,624 @@
         },
         "noLabel": {
           "en": "Article 10."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0323'] = {
+    "lawId": "CN-LAW-0323",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of strengthening the supervision and administration of the banking industry, regulating supervisory and administrative conduct, preventing and resolving banking risks, protecting the lawful rights and interests of depositors and other customers and promoting the sound development of the banking industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall be responsible for the supervision and administration of banking financial institutions and their business activities throughout the country.\nFor the purposes of this Law, banking financial institutions mean commercial banks, urban credit cooperatives, rural credit cooperatives and other financial institutions that accept deposits from the public and that are established within the territory of the People's Republic of China, as well as policy banks.\nThe provisions of this Law on the supervision and administration of banking financial institutions shall apply to the supervision and administration of financial asset management companies, trust and investment companies, finance companies and financial leasing companies established within the territory of the People's Republic of China, and of other financial institutions established with the approval of the banking supervision and administration institution of the State Council.\nThe banking supervision and administration institution of the State Council shall, in accordance with the relevant provisions of this Law, supervise and administer the financial institutions established outside the territory of the People's Republic of China with its approval and the business activities outside the territory of the People's Republic of China of the financial institutions referred to in the preceding two paragraphs."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The objectives of banking supervision and administration are to promote the lawful and stable operation of the banking industry and to maintain public confidence in the banking industry.\nBanking supervision and administration shall protect fair competition in the banking industry and enhance its competitiveness."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In supervising and administering the banking industry, banking supervision and administration institutions shall follow the principles of lawfulness, openness, fairness and efficiency."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The performance by banking supervision and administration institutions and their staff engaged in supervision and administration of their supervisory and administrative duties in accordance with the law shall be protected by law. Local governments, government departments at all levels, social organisations and individuals may not interfere."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall establish a mechanism for sharing supervisory and administrative information with the People's Bank of China and the other financial supervision and administration institutions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council may establish supervisory and administrative cooperation mechanisms with the banking supervision and administration institutions of other countries or regions and conduct cross-border supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall establish dispatched offices as required for the performance of its duties. The banking supervision and administration institution of the State Council shall exercise unified leadership and administration over its dispatched offices.\nThe dispatched offices of the banking supervision and administration institution of the State Council shall perform supervisory and administrative duties within the scope of authorisation of the banking supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration Institutions"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Staff engaged in supervision and administration in banking supervision and administration institutions shall possess the professional knowledge and business experience appropriate to their posts."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration Institutions"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Staff of banking supervision and administration institutions shall be loyal to their duties, handle matters in accordance with the law, and be fair and honest; they may not take advantage of their position to seek improper benefits, and may not concurrently hold posts in financial institutions or other enterprises."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration Institutions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Staff of banking supervision and administration institutions shall keep State secrets confidential in accordance with the law and shall be responsible for keeping confidential the affairs of the banking financial institutions they supervise and administer and of the parties concerned.\nWhere the banking supervision and administration institution of the State Council exchanges supervisory and administrative information with the banking supervision and administration institutions of other countries or regions, it shall make arrangements for the confidentiality of such information."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration Institutions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall make its supervisory and administrative procedures public and establish a supervisory and administrative responsibility system and an internal supervision system."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration Institutions"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In supervisory and administrative activities such as handling risks of banking financial institutions and investigating and dealing with financial illegal acts, banking supervision and administration institutions shall be supported and assisted by local governments and the relevant departments at all levels."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration Institutions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The audit, supervisory and other organs of the State Council shall, in accordance with the provisions of the law, supervise the activities of the banking supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Supervision and Administration Institutions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall, in accordance with laws and administrative regulations, formulate and promulgate rules and regulations on the supervision and administration of banking financial institutions and their business activities."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall, in accordance with the conditions and procedures prescribed by laws and administrative regulations, examine and approve the establishment, modification and termination of banking financial institutions and the scope of their business."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where an application is made to establish a banking financial institution, or where a banking financial institution changes a shareholder holding more than the prescribed proportion of its total capital or total shares, the banking supervision and administration institution of the State Council shall examine the sources of the shareholder's funds, its financial condition, its capacity to replenish capital and its integrity."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Types of business within the scope of business of banking financial institutions shall, in accordance with the provisions, be subject to examination and approval or filing with the banking supervision and administration institution of the State Council. The types of business requiring examination and approval or filing shall be prescribed and promulgated by the banking supervision and administration institution of the State Council in accordance with laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Without the approval of the banking supervision and administration institution of the State Council, no unit or individual may establish a banking financial institution or engage in the business activities of banking financial institutions."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall administer the qualifications for holding posts of directors and senior managers of banking financial institutions. The specific measures shall be formulated by the banking supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The prudential operating rules for banking financial institutions shall be prescribed by laws and administrative regulations, and may also be formulated by the banking supervision and administration institution of the State Council in accordance with laws and administrative regulations.\nThe prudential operating rules provided for in the preceding paragraph include risk management, internal control, capital adequacy ratio, asset quality, loss reserves, risk concentration, related-party transactions, asset liquidity and other matters.\nBanking financial institutions shall strictly comply with the prudential operating rules."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall, within the prescribed time limits, make a written decision to approve or not to approve the following applications and, where it decides not to approve, shall state the reasons:\n(1) for the establishment of a banking financial institution, within six months from the date of receipt of the application documents;\n(2) for the modification or termination of a banking financial institution, and for its scope of business and additional types of business within that scope, within three months from the date of receipt of the application documents;\n(3) for the examination of the qualifications for holding posts of directors and senior managers, within 30 days from the date of receipt of the application documents."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Banking supervision and administration institutions shall conduct off-site supervision of the business activities and risk profile of banking financial institutions, establish information systems for the supervision and administration of banking financial institutions, and analyse and evaluate their risk profile."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Banking supervision and administration institutions shall conduct on-site inspections of the business activities and risk profile of banking financial institutions.\nThe banking supervision and administration institution of the State Council shall formulate on-site inspection procedures and regulate on-site inspection conduct."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall exercise consolidated supervision and administration over banking financial institutions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall, within 30 days from the date of receipt of a recommendation made by the People's Bank of China to inspect a banking financial institution, reply to the recommendation."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall establish a rating system for the supervision and administration of banking financial institutions and a risk early warning mechanism and, on the basis of the ratings and risk profile of banking financial institutions, determine the frequency and scope of on-site inspections and other measures to be taken in respect of them."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall establish a system of post responsibility for the detection and reporting of emergencies in the banking industry.\nWhere a banking supervision and administration institution detects an emergency that may trigger systemic banking risks or seriously affect social stability, it shall immediately report to the person in charge of the banking supervision and administration institution of the State Council; where the person in charge of the banking supervision and administration institution of the State Council considers that it needs to be reported to the State Council, he or she shall immediately report to the State Council and inform the People's Bank of China, the finance department of the State Council and the other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall, together with the People's Bank of China, the finance department of the State Council and the other relevant departments, establish a system for handling emergencies in the banking industry, formulate contingency plans for handling such emergencies and specify the handling institutions and personnel and their duties, the handling measures and the handling procedures, so as to handle emergencies in the banking industry promptly and effectively."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall be responsible for the unified compilation of the statistical data and statements of banking financial institutions throughout the country and shall publish them in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council shall guide and supervise the activities of self-regulatory organisations of the banking industry.\nThe articles of association of a self-regulatory organisation of the banking industry shall be filed with the banking supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The banking supervision and administration institution of the State Council may carry out international exchanges and cooperation activities relating to banking supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Supervision and Administration Duties"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Banking supervision and administration institutions shall, as required for the performance of their duties, have the power to require banking financial institutions to submit, in accordance with the provisions, balance sheets, income statements and other financial, accounting and statistical statements, information on business management, and audit reports issued by certified public accountants."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Banking supervision and administration institutions may, in accordance with the requirements of prudential supervision, take the following measures to conduct on-site inspections:\n(1) entering a banking financial institution to conduct an inspection;\n(2) questioning the staff of a banking financial institution and requiring them to explain the matters under inspection;\n(3) consulting and copying the documents and materials of a banking financial institution relating to the matters under inspection, and sealing up documents and materials that may be transferred, concealed or damaged;\n(4) inspecting the systems by which a banking financial institution uses computers to manage its business data.\nAn on-site inspection shall be subject to the approval of the person in charge of the banking supervision and administration institution. During an on-site inspection, there shall be not less than two inspectors, and they shall present their lawful credentials and a notice of inspection; where there are fewer than two inspectors or where lawful credentials and a notice of inspection are not presented, the banking financial institution shall have the right to refuse the inspection."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Banking supervision and administration institutions may, as required for the performance of their duties, hold supervisory talks with the directors and senior managers of banking financial institutions and require them to explain major matters concerning the business activities and risk management of the banking financial institution."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Banking supervision and administration institutions shall order banking financial institutions to truthfully disclose to the public, in accordance with the provisions, their financial and accounting reports, their risk management situation, changes in directors and senior managers and information on other major matters."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a banking financial institution violates the prudential operating rules, the banking supervision and administration institution of the State Council or its dispatched office at the provincial level shall order it to make correction within a specified time limit; where correction is not made within the time limit, or where its conduct seriously endangers the stable operation of the banking financial institution or harms the lawful rights and interests of depositors and other customers, the institution may, with the approval of the person in charge of the banking supervision and administration institution of the State Council or of its dispatched office at the provincial level, take the following measures according to the circumstances:\n(1) ordering the suspension of part of its business and ceasing to approve the opening of new business;\n(2) restricting the distribution of dividends and other income;\n(3) restricting the transfer of assets;\n(4) ordering the controlling shareholder to transfer its equity or restricting the rights of the shareholders concerned;\n(5) ordering the replacement of directors or senior managers or restricting their rights;\n(6) ceasing to approve the addition of branches.\nAfter rectification, the banking financial institution shall submit a report to the banking supervision and administration institution of the State Council or its dispatched office at the provincial level. Where, upon acceptance inspection, the institution conforms to the relevant prudential operating rules, the banking supervision and administration institution of the State Council or its dispatched office at the provincial level shall, within 3 days from the date of completion of the acceptance inspection, lift the measures provided for in the preceding paragraph that were taken against it."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a banking financial institution has already suffered or may suffer a credit crisis that seriously affects the lawful rights and interests of depositors and other customers, the banking supervision and administration institution of the State Council may, in accordance with the law, take it over or promote the reorganisation of the institution; the takeover and reorganisation shall be carried out in accordance with the relevant laws and the provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a banking financial institution engages in unlawful business operations or poor business management and its failure to be revoked would seriously endanger the financial order and harm the public interest, the banking supervision and administration institution of the State Council shall have the power to revoke it."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a banking financial institution is taken over, reorganised or revoked, the banking supervision and administration institution of the State Council shall have the power to require the directors, senior managers and other staff of the banking financial institution to perform their duties as required by the banking supervision and administration institution of the State Council.\nDuring the period of takeover, institutional reorganisation or revocation and liquidation, the following measures may, with the approval of the person in charge of the banking supervision and administration institution of the State Council, be taken in respect of the directors, senior managers and other persons directly responsible:\n(1) where the departure from the country of the directors, senior managers and other persons directly responsible would cause major losses to the interests of the State, notifying the exit administration authorities to prevent them from leaving the country in accordance with the law;\n(2) applying to the judicial authorities to prohibit them from transferring or assigning property or to impose other rights on their property."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "With the approval of the person in charge of the banking supervision and administration institution of the State Council or of its dispatched office at the provincial level, a banking supervision and administration institution shall have the power to inquire into the accounts of banking financial institutions suspected of financial violations and of their staff and related actors; where funds are suspected of being transferred or concealed in violation of the law, it may, with the approval of the person in charge of the banking supervision and administration institution, apply to the judicial authorities for freezing them."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a banking supervision and administration institution inspects a banking financial institution in accordance with the law, it may, with the approval of the person in charge of the banking supervision and administration institution at or above the level of a city divided into districts, take the following measures in respect of units and individuals related to the suspected violation:\n(1) questioning the unit or individual concerned and requiring it or him or her to explain the relevant circumstances;\n(2) consulting and copying the documents and materials relating to financial accounting, registration of property rights and the like;\n(3) placing on record and preserving in advance documents and materials that may be transferred, concealed, damaged or forged.\nWhere a banking supervision and administration institution takes the measures provided for in the preceding paragraph, there shall be not less than two investigators, and they shall present their lawful credentials and a notice of investigation; where there are fewer than two investigators or where lawful credentials and a notice of investigation are not presented, the unit or individual concerned shall have the right to refuse. The units and individuals concerned shall cooperate with measures lawfully taken, truthfully explain the relevant circumstances and provide the relevant documents and materials, and may not refuse, obstruct or conceal."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration Measures"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where any of the following circumstances applies to staff engaged in supervision and administration in a banking supervision and administration institution, administrative sanctions shall be imposed in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) examining and approving, in violation of the provisions, the establishment, modification or termination of a banking financial institution, or its scope of business and the types of business within that scope;\n(2) conducting on-site inspections of banking financial institutions in violation of the provisions;\n(3) failing to report an emergency in accordance with the provisions of Article 28 of this Law;\n(4) inquiring into accounts or applying to freeze funds in violation of the provisions;\n(5) taking measures against or imposing penalties on banking financial institutions in violation of the provisions;\n(6) investigating the unit or individual concerned in violation of the provisions of Article 42 of this Law;\n(7) other acts of abusing power or neglecting duty.\nWhere staff engaged in supervision and administration in a banking supervision and administration institution embezzle or accept bribes, or disclose State secrets, trade secrets or personal privacy, and a crime is constituted, criminal responsibility shall be investigated in accordance with the law; where a crime is not yet constituted, administrative sanctions shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a banking financial institution is established without authorisation, or where a person unlawfully engages in the business activities of banking financial institutions, the banking supervision and administration institution of the State Council shall ban it; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law; where a crime is not yet constituted, the banking supervision and administration institution of the State Council shall confiscate the illegal gains and, where the illegal gains are RMB 500,000 or more, concurrently impose a fine of not less than one time and not more than five times the illegal gains, and, where there are no illegal gains or the illegal gains are less than RMB 500,000, impose a fine of not less than RMB 500,000 and not more than RMB 2,000,000."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a banking financial institution falls under any of the following circumstances, the banking supervision and administration institution of the State Council shall order it to make correction; where there are illegal gains, the illegal gains shall be confiscated and, where the illegal gains are RMB 500,000 or more, a fine of not less than one time and not more than five times the illegal gains shall concurrently be imposed, and, where there are no illegal gains or the illegal gains are less than RMB 500,000, a fine of not less than RMB 500,000 and not more than RMB 2,000,000 shall be imposed; where the circumstances are especially serious or correction is not made within the time limit, it may order the institution to suspend business for rectification or revoke its business licence; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) establishing a branch without approval;\n(2) being modified or terminated without approval;\n(3) engaging in business activities that have not been approved or filed, in violation of the provisions;\n(4) raising or lowering deposit interest rates or loan interest rates in violation of the provisions."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a banking financial institution falls under any of the following circumstances, the banking supervision and administration institution of the State Council shall order it to make correction and concurrently impose a fine of not less than RMB 200,000 and not more than RMB 500,000; where the circumstances are especially serious or correction is not made within the time limit, it may order the institution to suspend business for rectification or revoke its business licence; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) appointing directors or senior managers without examination of their qualifications for holding the posts;\n(2) refusing or obstructing off-site supervision or on-site inspection;\n(3) providing false statements, reports or other documents or materials, or concealing important facts in them;\n(4) failing to make information disclosure in accordance with the provisions;\n(5) seriously violating the prudential operating rules;\n(6) refusing to implement the measures provided for in Article 37 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a banking financial institution fails to provide statements, reports or other documents or materials in accordance with the provisions, the banking supervision and administration institution shall order it to make correction and, where correction is not made within the time limit, impose a fine of not less than RMB 100,000 and not more than RMB 300,000."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a banking financial institution violates laws, administrative regulations or the relevant State provisions on banking supervision and administration, the banking supervision and administration institution may, in addition to imposing penalties in accordance with the provisions of Articles 44 to 47 of this Law, take the following measures according to the different circumstances:\n(1) ordering the banking financial institution to impose disciplinary sanctions on the directors, senior managers and other persons directly responsible;\n(2) where the conduct of the banking financial institution does not yet constitute a crime, giving a warning to the directors, senior managers and other persons directly responsible and imposing a fine of not less than RMB 50,000 and not more than RMB 500,000;\n(3) disqualifying the directors and senior managers directly responsible from holding their posts for a specified period or for life, and prohibiting the directors, senior managers and other persons directly responsible from engaging in banking work for a specified period or for life."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a person obstructs staff of a banking supervision and administration institution in lawfully performing their duties of inspection and investigation, the public security organ shall impose a public security administration penalty in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where laws or administrative regulations provide otherwise on the supervision and administration of the policy banks and financial asset management companies established within the territory of the People's Republic of China, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where laws or administrative regulations provide otherwise on the supervision and administration of foreign-funded banking financial institutions, Sino-foreign equity joint banking financial institutions and branches of foreign banking financial institutions established within the territory of the People's Republic of China, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "This Law shall come into force on 1 February 2004."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]

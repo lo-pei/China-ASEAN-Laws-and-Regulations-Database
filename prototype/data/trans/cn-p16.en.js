@@ -1,12 +1,624 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p16
-   法规 61 部 / 译文 1942 条
+   法规 64 部 / 译文 2050 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-REG-0264'] = {
+    "lawId": "CN-REG-0264",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Environmental Protection Law of the People's Republic of China and other relevant laws for the purpose of strengthening the administration of pollutant discharge permits, regulating the pollutant discharge behaviour of enterprises, public institutions and other producers and operators, controlling the discharge of pollutants and protecting and improving the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Enterprises, public institutions and other producers and operators that are subject to pollutant discharge permit administration in accordance with the provisions of the law (hereinafter referred to as pollutant discharging units) shall apply for and obtain a pollutant discharge permit in accordance with the provisions of these Regulations; those that have not obtained a pollutant discharge permit may not discharge pollutants.\nPollutant discharging units shall be subject to classified pollutant discharge permit administration on the basis of factors such as the quantity of pollutants generated, the quantity discharged and the degree of impact on the environment:\n(1) pollutant discharging units that generate or discharge a relatively large quantity of pollutants or have a relatively large impact on the environment shall be subject to priority administration under pollutant discharge permits;\n(2) pollutant discharging units that generate and discharge a relatively small quantity of pollutants and have a relatively small impact on the environment shall be subject to simplified administration under pollutant discharge permits.\nThe scope of pollutant discharging units subject to pollutant discharge permit administration, the implementation steps and the catalogue of administration categories shall be drafted by the competent department of ecological environment of the State Council and promulgated for implementation after approval by the State Council. In formulating the scope of pollutant discharging units subject to pollutant discharge permit administration, the implementation steps and the catalogue of administration categories, the opinions of the relevant departments, industry associations, enterprises, public institutions and the general public shall be solicited."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent department of ecological environment of the State Council shall be responsible for the unified supervision and administration of pollutant discharge permits throughout the country.\nThe competent departments of ecological environment of the local people's governments at or above the level of a city divided into districts shall be responsible for the supervision and administration of pollutant discharge permits within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of ecological environment of the State Council shall strengthen the development and administration of the national information platform for the administration of pollutant discharge permits and raise the level of online handling of pollutant discharge permits.\nThe examination and decision on pollutant discharge permits, the disclosure of information and the like shall be handled through the national information platform for the administration of pollutant discharge permits."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's governments at or above the level of a city divided into districts shall include the funds required for the administration of pollutant discharge permits in their own budgets."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A pollutant discharging unit shall apply to the competent department of ecological environment of the local people's government at or above the level of a city divided into districts in the place where its production and operating premises are located (hereinafter referred to as the approving department) for a pollutant discharge permit.\nWhere a pollutant discharging unit discharges pollutants from two or more production and operating premises, it shall apply separately for a pollutant discharge permit for each production and operating premises."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "To apply for a pollutant discharge permit, an application form for a pollutant discharge permit may be submitted through the national information platform for the administration of pollutant discharge permits, or by letter or other means.\nThe application form for a pollutant discharge permit shall include the following particulars:\n(1) information such as the name, domicile, legal representative or principal person in charge, location of the production and operating premises and unified social credit code of the pollutant discharging unit;\n(2) the document approving the environmental impact report (form) of the construction project, or the filing materials for the environmental impact registration form;\n(3) the types, concentrations and quantities of pollutants discharged as applied for by discharge outlet, by main production facility or workshop and by the boundary of the premises, the pollutant discharge standards applied and the total quantity control targets for key pollutants;\n(4) information such as the pollution prevention and control facilities, the location and number of pollutant discharge outlets, the manner and destination of pollutant discharge and the self-monitoring plan;\n(5) information such as the main production facilities, main products and production capacity, main raw and auxiliary materials, and the links at which pollutants are generated and discharged, together with an explanation of whether such information involves trade secrets or other circumstances unsuitable for disclosure."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Under any of the following circumstances, the corresponding materials shall also be submitted when applying for a pollutant discharge permit:\n(1) where the unit is subject to priority administration under pollutant discharge permits, the explanatory materials on the basic information of the unit and the matters for which a permit is applied, which the pollutant discharging unit has published through the national information platform for the administration of pollutant discharge permits before making the application;\n(2) where the unit operates a centralised treatment facility for urban and industrial sewage, the explanatory materials on the scope of the sewage catchment area, the layout of the pipe network and the final discharge destination of the pollutant discharging unit;\n(3) where the unit is a newly built, reconstructed or expanded project that discharges key pollutants or a project implementing technological transformation, the explanatory materials on how the pollutant discharging unit obtained the total quantity control target for key pollutants through the reduction and substitution of pollutant discharge quantities."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The approving department shall deal with the pollutant discharge permit applications it receives in accordance with the following circumstances:\n(1) where no application for a pollutant discharge permit is required by law, it shall immediately inform the applicant that no application for a pollutant discharge permit is required;\n(2) where the application does not fall within the scope of the functions and powers of the approving department, it shall immediately make a decision not to accept the application and inform the pollutant discharging unit to apply to the competent department of ecological environment that has the power of approval;\n(3) where the application materials contain errors that can be corrected on the spot, the pollutant discharging unit shall be allowed to correct them on the spot;\n(4) where the application materials are incomplete or do not conform to the statutory form, a notification shall be issued on the spot or within 3 days, informing the pollutant discharging unit at one time of all the materials that need to be supplemented or corrected; where no notification is given within that period, the application shall be deemed to have been accepted from the date of receipt of the application materials;\n(5) where the application falls within the scope of the functions and powers of the approving department, the application materials are complete and conform to the statutory form, or the pollutant discharging unit has supplemented and corrected all the application materials as required, the application shall be accepted.\nThe approving department shall publish on the national information platform for the administration of pollutant discharge permits its decision to accept or not to accept a pollutant discharge permit application, and shall at the same time issue to the pollutant discharging unit a written document bearing the special seal of the approving department and stating the date."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The approving department shall examine the application materials submitted by the pollutant discharging unit and may conduct on-site verification of its production and operating premises.\nThe approving department may organise a technical institution to conduct a technical assessment of the application materials for the pollutant discharge permit and shall bear the corresponding costs.\nThe technical institution shall be responsible for the technical assessment opinion it provides and may not charge any fees to the pollutant discharging unit."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A pollutant discharge permit shall be issued to a pollutant discharging unit that meets the following conditions:\n(1) it has lawfully obtained the document approving the environmental impact report (form) of the construction project, or has completed the filing formalities for the environmental impact registration form;\n(2) its pollutant discharge meets the requirements of the pollutant discharge standards, and the discharge of key pollutants meets the requirements of the technical specifications for the application for and issuance of pollutant discharge permits, the document approving the environmental impact report (form) and the total quantity control of key pollutants; where the production and operating premises of the pollutant discharging unit are located in a key area or river basin that has not attained the national environmental quality standards, it shall also meet the special requirements of the local people's government concerned on improving the quality of the ecological environment;\n(3) the pollution prevention and control facilities it uses can achieve the permitted discharge concentrations or conform to the feasible technologies for pollution prevention and control;\n(4) the monitoring points, indicators, frequency and the like of its self-monitoring plan conform to the national specifications for self-monitoring."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For a pollutant discharging unit subject to simplified administration under pollutant discharge permits, the approving department shall make a decision on approval within 20 days from the date of acceptance of the application; it shall issue a pollutant discharge permit to those that meet the conditions, and shall not grant a permit to those that do not meet the conditions and shall state the reasons in writing.\nFor a pollutant discharging unit subject to priority administration under pollutant discharge permits, the approving department shall make a decision on approval within 30 days from the date of acceptance of the application; where on-site verification is required, it shall make a decision on approval within 45 days from the date of acceptance of the application; it shall issue a pollutant discharge permit to those that meet the conditions, and shall not grant a permit to those that do not meet the conditions and shall state the reasons in writing.\nThe approving department shall generate a unified pollutant discharge permit number through the national information platform for the administration of pollutant discharge permits."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A pollutant discharge permit shall record the following information:\n(1) the name, domicile, legal representative or principal person in charge, and location of the production and operating premises of the pollutant discharging unit;\n(2) the period of validity of the pollutant discharge permit, the issuing authority, the date of issue, the certificate number and the QR code;\n(3) the links at which pollutants are generated and discharged, and the pollution prevention and control facilities;\n(4) the location and number of pollutant discharge outlets, and the manner and destination of pollutant discharge;\n(5) the types of pollutants discharged, the permitted discharge concentrations and the permitted discharge quantities;\n(6) the requirements for the operation and maintenance of pollution prevention and control facilities and for the standardised construction of pollutant discharge outlets;\n(7) the requirements prohibiting or restricting the discharge of pollutants during special periods;\n(8) the requirements on the content and frequency of self-monitoring, environmental management ledger records and pollutant discharge permit execution reports;\n(9) the requirements on the disclosure of environmental information by the pollutant discharging unit;\n(10) the requirements on the control of fugitive emissions where fugitive emissions of air pollutants exist;\n(11) other requirements on the control of pollutant discharge that pollutant discharging units shall observe as provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A pollutant discharge permit shall be valid for 5 years.\nWhere a pollutant discharging unit needs to continue discharging pollutants upon expiry of the period of validity of its pollutant discharge permit, it shall apply to the approving department 60 days before the expiry of the period of validity. The approving department shall complete its examination within 20 days from the date of acceptance of the application; it shall extend the permit for those that meet the conditions, and shall not extend it for those that do not meet the conditions and shall state the reasons in writing.\nWhere a pollutant discharging unit changes its name, domicile, legal representative or principal person in charge, it shall, within 30 days from the date of the change, apply to the approving department for the formalities of altering its pollutant discharge permit."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "During the period of validity of a pollutant discharge permit, a pollutant discharging unit shall re-apply for and obtain a pollutant discharge permit under any of the following circumstances:\n(1) it constructs a new, reconstructed or expanded project that discharges pollutants;\n(2) the production and operating premises, the location of pollutant discharge outlets, or the manner or destination of pollutant discharge changes;\n(3) the number of pollutant discharge outlets increases, or the types, quantities or concentrations of pollutants discharged increase."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the pollutant discharge standards applicable to a pollutant discharging unit or the requirements for the total quantity control of key pollutants change and its pollutant discharge permit therefore needs to be altered, the approving department may lawfully alter the corresponding matters in the pollutant discharge permit."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Application, Examination and Approval"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A pollutant discharge permit is the main basis for the ecological environment supervision of a pollutant discharging unit.\nA pollutant discharging unit shall observe the provisions of its pollutant discharge permit, operate and maintain pollution prevention and control facilities in accordance with the requirements of ecological environment management, establish environmental management systems and strictly control the discharge of pollutants."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Pollutant Discharge Management"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A pollutant discharging unit shall build standardised pollutant discharge outlets in accordance with the provisions of the competent department of ecological environment and set up signs.\nThe location and number of pollutant discharge outlets, and the manner and destination of pollutant discharge, shall conform to the provisions of the pollutant discharge permit.\nA pollutant discharging unit that implements a newly built, reconstructed or expanded project or a technological transformation shall build standardised pollutant discharge outlets at the same time as it builds pollution prevention and control facilities."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Pollutant Discharge Management"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A pollutant discharging unit shall, in accordance with the provisions of its pollutant discharge permit and the relevant standards and specifications, carry out self-monitoring in accordance with the law and keep the original monitoring records. The original monitoring records shall be kept for not less than 5 years.\nA pollutant discharging unit shall be responsible for the truthfulness and accuracy of its self-monitoring data and may not tamper with or falsify them."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Pollutant Discharge Management"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A pollutant discharging unit subject to priority administration under pollutant discharge permits shall, in accordance with the law, install, use and maintain automatic monitoring equipment for pollutant discharge and connect it to the monitoring equipment of the competent department of ecological environment.\nWhere a pollutant discharging unit discovers that the data transmitted by the automatic monitoring equipment for pollutant discharge is abnormal, it shall promptly report to the competent department of ecological environment and carry out inspection and repair."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Pollutant Discharge Management"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A pollutant discharging unit shall establish a system of environmental management ledger records and, in accordance with the format, content and frequency prescribed in its pollutant discharge permit, truthfully record the operation of the main production facilities and pollution prevention and control facilities and the concentrations and quantities of pollutants discharged. Environmental management ledger records shall be kept for not less than 5 years.\nWhere a pollutant discharging unit discovers abnormal circumstances such as pollutant discharge exceeding the pollutant discharge standards, it shall immediately take measures to eliminate or mitigate the harmful consequences, truthfully make the environmental management ledger records, and report to the competent department of ecological environment with an explanation of the causes. Pollutant discharge under abnormal circumstances such as discharge exceeding the pollutant discharge standards shall be counted in the quantity of pollutants discharged by the pollutant discharging unit."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Pollutant Discharge Management"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A pollutant discharging unit shall, in accordance with the content, frequency and time requirements prescribed in its pollutant discharge permit, submit pollutant discharge permit execution reports to the approving department, truthfully reporting its pollutant discharge behaviour, discharge concentrations and discharge quantities and the like.\nWhere production is suspended during the period of validity of the pollutant discharge permit, the pollutant discharging unit shall truthfully report the changes in pollutant discharge in its pollutant discharge permit execution report and explain the reasons.\nThe quantities of pollutants discharged reported in pollutant discharge permit execution reports may serve as the basis for annual ecological environment statistics, the assessment of total quantity control of key pollutants and the compilation of pollutant source discharge inventories."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Pollutant Discharge Management"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A pollutant discharging unit shall, in accordance with the provisions of its pollutant discharge permit, truthfully disclose information on pollutant discharge on the national information platform for the administration of pollutant discharge permits.\nThe information on pollutant discharge shall include the types, concentrations and quantities of pollutants discharged, as well as the construction and operation of pollution prevention and control facilities, the pollutant discharge permit execution reports and self-monitoring data; where water pollutants are discharged into a municipal drainage network, it shall also include information such as the location at which the sewage enters the municipal drainage network and the manner of discharge."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Pollutant Discharge Management"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Enterprises, public institutions and other producers and operators that generate and discharge very small quantities of pollutants and have a very small impact on the environment shall fill in pollutant discharge registration forms and need not apply for a pollutant discharge permit.\nThe catalogue of the scope of enterprises, public institutions and other producers and operators required to fill in pollutant discharge registration forms shall be formulated and promulgated by the competent department of ecological environment of the State Council. In formulating the catalogue of the scope of enterprises, public institutions and other producers and operators required to fill in pollutant discharge registration forms, the opinions of the relevant departments, industry associations, enterprises, public institutions and the general public shall be solicited.\nEnterprises, public institutions and other producers and operators required to fill in pollutant discharge registration forms shall fill in such information as their basic information, the destination of pollutant discharge, the pollutant discharge standards applied and the pollution prevention and control measures adopted on the national information platform for the administration of pollutant discharge permits; where the information filled in changes, they shall update the filing within 20 days from the date of the change."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Pollutant Discharge Management"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The competent departments of ecological environment shall strengthen the ongoing and ex post supervision of pollutant discharge permits, incorporate pollutant discharge permit enforcement inspections into their annual plans for ecological environment enforcement and reasonably determine the frequency and methods of inspection on the basis of factors such as the administration category of the pollutant discharge permit, the credit records of the pollutant discharging unit and the needs of ecological environment management.\nThe competent departments of ecological environment shall record on the national information platform for the administration of pollutant discharge permits the time, content and results of enforcement inspections and the penalty decisions, and shall at the same time incorporate the penalty decisions into the relevant national credit information systems and make them public."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A pollutant discharging unit shall cooperate with the supervisory inspections of the competent department of ecological environment, truthfully report the situation and provide, as required, its pollutant discharge permit, environmental management ledger records, pollutant discharge permit execution reports, self-monitoring data and other relevant materials.\nForging, altering or transferring pollutant discharge permits is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The competent department of ecological environment may monitor the pollutant discharge of a pollutant discharging unit through the national information platform for the administration of pollutant discharge permits; where it finds that the concentration of pollutants discharged by the pollutant discharging unit exceeds the permitted discharge concentration, it shall require the pollutant discharging unit to provide its pollutant discharge permit, environmental management ledger records, pollutant discharge permit execution reports, self-monitoring data and other relevant materials for verification, and may organise on-site monitoring when necessary."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The competent department of ecological environment shall, on the basis of the monitoring data collected in the course of administrative enforcement and of the pollutant discharging unit's pollutant discharge permit, environmental management ledger records, pollutant discharge permit execution reports, self-monitoring data and other relevant materials, verify the quantity of pollutants discharged by the pollutant discharging unit within the prescribed period and whether the operation and maintenance of its pollution prevention and control facilities conform to the provisions of the pollutant discharge permit."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The pollutant discharge data of a pollutant discharging unit obtained by the competent department of ecological environment in accordance with the law through on-site monitoring, the unit's automatic monitoring equipment for pollutant discharge and the national information platform for the administration of pollutant discharge permits may serve as evidence for determining whether the concentration of pollutants discharged exceeds the permitted discharge concentration.\nWhere the self-monitoring data of a pollutant discharging unit are inconsistent with the monitoring data collected by the competent department of ecological environment and its monitoring institutions in the course of administrative enforcement, the monitoring data collected by the competent department of ecological environment and its monitoring institutions shall serve as the basis for administrative enforcement."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The State encourages pollutant discharging units to adopt feasible technologies for pollution prevention and control. The competent department of ecological environment of the State Council shall formulate and promulgate guidelines on feasible technologies for pollution prevention and control.\nWhere a pollutant discharging unit has not adopted feasible technologies for pollution prevention and control, the competent department of ecological environment shall, on the basis of the pollutant discharge permit, environmental management ledger records, pollutant discharge permit execution reports, self-monitoring data and other relevant materials, as well as the monitoring data collected by the competent department of ecological environment and its monitoring institutions in the course of administrative enforcement, comprehensively determine whether the pollution prevention and control technologies adopted by the pollutant discharging unit can stably meet the provisions of the pollutant discharge permit; where they cannot stably meet such provisions, it shall set rectification requirements and may increase the frequency of inspection.\nIn formulating guidelines on feasible technologies for pollution prevention and control, the opinions of the relevant departments, industry associations, enterprises, public institutions and the general public shall be solicited."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Any unit or individual shall have the right to report to the competent department of ecological environment any act of a pollutant discharging unit that violates the provisions of these Regulations.\nThe competent department of ecological environment that receives a report shall handle the matter in accordance with the law, give feedback on the outcome to the informant in accordance with the relevant provisions and keep the informant confidential."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the competent department of ecological environment commits any of the following acts in the examination and approval or the supervision and administration of pollutant discharge permits, the superior authority shall order it to make correction, and disciplinary sanctions shall be imposed in accordance with the law on the person directly in charge and the other persons directly responsible:\n(1) failing to accept an application for a pollutant discharge permit that meets the statutory conditions, or failing to examine and approve it within the statutory time limit;\n(2) issuing a pollutant discharge permit to a pollutant discharging unit that does not meet the statutory conditions;\n(3) examining and approving a pollutant discharge permit in violation of the authority for approval;\n(4) failing to investigate and deal with illegal acts discovered;\n(5) other acts of failing to perform the duties of supervision and administration in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a pollutant discharging unit commits any of the following acts, the competent department of ecological environment shall order it to make correction or to restrict production or suspend production for rectification, and shall impose a fine of not less than RMB 200,000 and not more than RMB 1,000,000; where the circumstances are serious, it shall, after reporting to and obtaining the approval of the people's government with the power of approval, order it to suspend business or close down:\n(1) discharging pollutants without having obtained a pollutant discharge permit;\n(2) discharging pollutants upon expiry of the period of validity of the pollutant discharge permit without applying for extension, or discharging pollutants where the application for extension has not been approved;\n(3) discharging pollutants after its pollutant discharge permit has been lawfully annulled, cancelled or revoked;\n(4) discharging pollutants without re-applying for and obtaining a pollutant discharge permit where it is required by law to do so."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a pollutant discharging unit commits any of the following acts, the competent department of ecological environment shall order it to make correction or to restrict production or suspend production for rectification, and shall impose a fine of not less than RMB 200,000 and not more than RMB 1,000,000; where the circumstances are serious, it shall revoke its pollutant discharge permit and, after reporting to and obtaining the approval of the people's government with the power of approval, order it to suspend business or close down:\n(1) discharging pollutants in excess of the permitted discharge concentration or the permitted discharge quantity;\n(2) discharging pollutants unlawfully by evading supervision through concealed pipes, seepage wells, seepage pits or injection, through tampering with or falsifying monitoring data, or through the abnormal operation of pollution prevention and control facilities."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a pollutant discharging unit commits any of the following acts, the competent department of ecological environment shall order it to make correction and shall impose a fine of not less than RMB 50,000 and not more than RMB 200,000; where the circumstances are serious, it shall impose a fine of not less than RMB 200,000 and not more than RMB 1,000,000 and order it to restrict production or suspend production for rectification:\n(1) failing to control fugitive emissions of air pollutants in accordance with the provisions of the pollutant discharge permit;\n(2) failing to stop or restrict the discharge of pollutants during special periods in accordance with the provisions of the pollutant discharge permit."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a pollutant discharging unit commits any of the following acts, the competent department of ecological environment shall order it to make correction and shall impose a fine of not less than RMB 20,000 and not more than RMB 200,000; where it refuses to make correction, it shall be ordered to suspend production for rectification:\n(1) the location or number of pollutant discharge outlets not conforming to the provisions of the pollutant discharge permit;\n(2) the manner or destination of pollutant discharge not conforming to the provisions of the pollutant discharge permit;\n(3) damaging, or without authorisation moving or altering, the automatic monitoring equipment for pollutant discharge;\n(4) failing to install, use and connect automatic monitoring equipment for pollutant discharge to the monitoring equipment of the competent department of ecological environment in accordance with the provisions of the pollutant discharge permit, or failing to ensure the normal operation of such equipment;\n(5) failing to formulate a self-monitoring plan and carry out self-monitoring in accordance with the provisions of the pollutant discharge permit;\n(6) failing to keep original monitoring records in accordance with the provisions of the pollutant discharge permit;\n(7) failing to disclose information on pollutant discharge as provided in the pollutant discharge permit, or failing to disclose it truthfully;\n(8) failing to report abnormal circumstances such as abnormal data transmission by the automatic monitoring equipment for pollutant discharge or pollutant discharge exceeding the pollutant discharge standards;\n(9) other acts in violation of the requirements on the control of pollutant discharge provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a pollutant discharging unit commits any of the following acts, the competent department of ecological environment shall order it to make correction and shall impose a fine of not less than RMB 5,000 and not more than RMB 20,000 for each occasion; where the law provides otherwise, those provisions shall prevail:\n(1) failing to establish a system of environmental management ledger records, or failing to keep records in accordance with the provisions of the pollutant discharge permit;\n(2) failing to truthfully record the operation of the main production facilities and pollution prevention and control facilities, or the concentrations and quantities of pollutants discharged;\n(3) failing to submit pollutant discharge permit execution reports in accordance with the provisions of the pollutant discharge permit;\n(4) failing to truthfully report the behaviour of pollutant discharge or the concentrations and quantities of pollutants discharged."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a pollutant discharging unit discharges pollutants in violation of the provisions of these Regulations, is fined and is ordered to make correction, the competent department of ecological environment shall organise a re-inspection; where it is found that the unit continues to commit the illegal act or refuses or obstructs the re-inspection, a continuous daily penalty shall be imposed in accordance with the provisions of the Environmental Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a pollutant discharging unit refuses to cooperate with the supervisory inspection of the competent department of ecological environment, or practises fraud when accepting such inspection, the competent department of ecological environment shall order it to make correction and shall impose a fine of not less than RMB 20,000 and not more than RMB 200,000."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a pollutant discharging unit applies for and obtains a pollutant discharge permit by deception, bribery or other improper means, the approving department shall lawfully revoke its pollutant discharge permit, impose a fine of not less than RMB 200,000 and not more than RMB 500,000, and the unit may not apply again for a pollutant discharge permit within 3 years."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a pollutant discharge permit is forged, altered or transferred, the competent department of ecological environment shall confiscate the relevant certificate or revoke the pollutant discharge permit, impose a fine of not less than RMB 100,000 and not more than RMB 300,000, and the unit concerned may not apply again for a pollutant discharge permit within 3 years."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a technical institution for pollutant discharge permits engaged by the approving department practises fraud, the approving department shall terminate the engagement, record the relevant information in its credit record, publish it on the national information platform for the administration of pollutant discharge permits and at the same time incorporate it into the relevant national credit information systems and make it public; where the circumstances are serious, the institution shall be prohibited from providing technical services relating to pollutant discharge permits."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where an enterprise, public institution or other producer or operator required to fill in a pollutant discharge registration form fails to file pollutant discharge information in accordance with the provisions of these Regulations, the competent department of ecological environment shall order it to make correction and may impose a fine of not more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a pollutant discharging unit commits any of the following acts and a crime is not yet constituted, in addition to being penalised in accordance with the provisions of these Regulations, the person directly in charge and the other persons directly responsible shall be detained in accordance with the provisions of the Environmental Protection Law of the People's Republic of China:\n(1) discharging pollutants without having obtained a pollutant discharge permit, being ordered to stop discharging pollutants and refusing to comply;\n(2) discharging pollutants unlawfully by evading supervision through concealed pipes, seepage wells, seepage pits or injection, through tampering with or falsifying monitoring data, or through the abnormal operation of pollution prevention and control facilities."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes an act in violation of public security administration, a public security administration penalty shall be imposed in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A pollutant discharging unit that has actually been discharging pollutants before these Regulations came into force but does not meet the conditions provided for in these Regulations shall carry out rectification within the time limit prescribed by the competent department of ecological environment of the State Council, meet the conditions provided for in these Regulations and apply for and obtain a pollutant discharge permit; where it fails to obtain a pollutant discharge permit within the time limit, it may not continue to discharge pollutants. During the rectification period, the competent department of ecological environment shall issue to it a notice of rectification of pollutant discharge within a time limit, specifying the content of the rectification, the time limit for rectification and other requirements."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The requirements on the format and content of the application form for a pollutant discharge permit, environmental management ledger records, pollutant discharge permit execution reports and other documents, as well as the technical specifications for the application for and issuance of pollutant discharge permits, shall be formulated by the competent department of ecological environment of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an enterprise, public institution or other producer or operator is involved in State secrets, its pollutant discharge permit, supervision and administration and the like shall comply with the provisions of the laws and regulations on secrecy."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The administration of pollutant discharge from mobile pollution sources such as aircraft, vessels, motor vehicles and trains shall be carried out in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A pollutant discharging unit shall comply with work safety provisions, operate and maintain pollution prevention and control facilities in accordance with work safety management requirements, and establish a work safety management system.\nWhere work safety provisions are violated in the course of operating and maintaining pollution prevention and control facilities and a work safety accident occurs, the pollutant discharging unit responsible shall be penalised in accordance with the relevant provisions of the Work Safety Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "These Regulations shall come into force on 1 March 2021."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
 
   TR['CN-REG-0265'] = {
     "lawId": "CN-REG-0265",
@@ -342,6 +954,75 @@
         },
         "noLabel": {
           "en": "Article 36."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0266'] = {
+    "lawId": "CN-REG-0266",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Scope of the assessment and conferment of police ranks\npersons to be assessed and conferred police ranks must be people's police who are on the establishment and in service within the people's police structure. Units that are not of the nature of the people's police and persons who do not hold posts of the people's police shall not implement the police rank system.\nthe persons to be assessed and conferred police ranks are: people's police engaged in command and decision-making, supervision and support, and professional work in the public security departments at various levels (including the public security organs established by the public security departments in the railway, communications, civil aviation and forestry departments), the State security departments and the departments administering labour reform and re-education through labour; judicial police of the people's courts and people's procuratorates at various levels; and persons holding posts of the people's police in police specialised technical units, academies, newspapers and hospitals.\npersons within the scope of the assessment and conferment of police ranks who, owing to certain circumstances at present, such as their posts not yet being determined, their studying abroad or undergoing further training, their having been on continuous sick leave for more than two years without resuming work, their being incompetent in their work, or their being under investigation for breach of discipline or law, shall have the assessment and conferment of their police ranks deferred.\npersons working as police without being on the cadre establishment shall be assessed and conferred police ranks after the formalities for their recruitment as cadres have been completed.\nthe persons who are not to be assessed and conferred police ranks are: people's police who have been approved to retire with honours or to retire, or who had reached the age for retirement with honours or for retirement before 30 June 1992; people's police who disobey organisational assignment and refuse to take up their posts; persons who have been decided to be transferred away from posts of the people's police; persons in enterprises; persons in institutions of public service who do not hold posts of the people's police; persons in mass academic societies; contract-system civilian police; all logistic and service personnel; and other persons who do not hold posts of the people's police.\npublic security organs in enterprises and institutions of public service whose functions of government and of enterprise (or institution) are not separated, and their personnel, shall be determined later, after sorting out and rectification and the rationalisation of the system, as to whether the police rank system is to be implemented. The competent departments concerned shall do the ideological and political work well, requiring such personnel to remain at their posts, be faithful to their duties and continue to do the work of maintaining public order."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Standards for the first assessment and conferment of police ranks\nthe assessment and conferment of police ranks shall be based on the people's police officer's current post, moral character and ability, the time served in the current post and the length of service, and shall be considered as a whole and measured comprehensively.\n\"moral character and ability\" means the people's police officer's political quality, ideological awareness, observance of law and discipline, contact with the masses, seeking truth from facts, fairness and integrity, honesty and devotion to public service, bravery and self-sacrifice, as well as his or her degree of being educated and specialised, practical working ability and level of law enforcement.\n\"current post\" means the post formally appointed by the competent department in accordance with the authority for cadre management, and does not mean a post temporarily assigned or temporarily designated as an acting post.\n\"time served in the current post\" means the period of service in the current post calculated from the date on which the competent department formally issued the notice of appointment. Periods of continuous service in posts of the same grade may be calculated cumulatively.\n\"length of service\" means the sum of the time of formally taking part in work as calculated in accordance with the relevant State provisions. Twelve full months of work constitutes one year of length of service.\npeople's police officers engaged in specialised technical work in institutions of public service such as police specialised technical units, academies, newspapers and hospitals who have already been assessed and appointed to specialised technical posts may be assessed and conferred specialised technical police ranks according to the grades of their specialised technical posts. Among them, people's police officers who hold administrative posts concurrently with specialised technical posts shall in principle be assessed and conferred police ranks according to their administrative posts; where the rank so conferred is lower than that which would be conferred according to their specialised technical posts, they may also be assessed and conferred police ranks according to their specialised technical posts.\nin view of the fact that State organs have not yet carried out the appointment to specialised technical posts, people's police officers engaged in specialised technical work in the administrative organs of the public security departments, the State security departments and the departments administering labour reform and re-education through labour shall, regardless of whether they have been assessed and appointed to specialised technical posts, first be assessed and conferred police ranks according to the grades of their administrative posts. The question of assessing and conferring specialised technical police ranks according to specialised technical posts shall be studied and determined separately.\nwhere the departments concerned encounter special problems in implementing the standards for the assessment and conferment of police ranks, the competent departments shall put forward proposals for handling, which shall be studied and coordinated by the Ministry of Public Security, or handled after reporting to the State Council for consent.\nin individual special cases where it is necessary to confer a police rank one grade higher within the range of ranks established for the grade of police post, this shall be strictly controlled and submitted separately for approval in accordance with the authority for approval."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Arrangements for the steps of the first assessment and conferment of police ranks\nin order to facilitate stronger leadership and ensure the smooth conduct of the work, the first assessment and conferment of police ranks shall be carried out in stages and batches.\nfirst batch: people's police in administrative units of the following departments: the organs of the Ministry of Public Security (including the organs of the public security bureaux of the railway, communications, civil aviation and forestry departments), the organs of the Ministry of State Security, the organs of the Labour Reform Bureau and the Re-education through Labour Bureau of the Ministry of Justice, the organs of the public security departments and State security departments of the provinces and autonomous regions and the organs of their labour reform bureaux and re-education through labour bureaux (divisions), and the said departments in Beijing, Tianjin and Shanghai, in the cities where the governments of the provinces and autonomous regions are located, and in Chongqing, Shenzhen, Zhuhai and Xiamen.\nsecond batch: people's police in the said departments at the prefectural and municipal levels, and people's police in the various police specialised technical units, academies, newspapers and hospitals.\nthird batch: people's police in the public security departments, the State security departments and the departments administering labour reform and re-education through labour who fall within the scope of conferment of police ranks but were not arranged in the first and second batches.\nthe arrangements for the steps of the assessment and conferment of police ranks for judicial police shall be prescribed by the Supreme People's Court and the Supreme People's Procuratorate respectively.\nthe first assessment and conferment of police ranks shall be basically completed before the end of March 1993."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Organisation and implementation of the first assessment and conferment of police ranks\nin accordance with the Regulations and the relevant State provisions, and on the basis of conscientiously verifying the police structure, the establishment quotas and the grades of posts of the people's police, the specific persons who should be conferred ranks, whose conferment should be deferred and who should not be conferred ranks shall be clearly identified.\nthe discipline, work style and appearance and bearing of the people's police shall be seriously rectified, and persons who do not meet the standards shall be resolutely screened out. People's police officers who are incompetent in their work shall be organised for concentrated training; those who pass the training may be conferred police ranks, and those who fail shall be transferred out of the people's police.\nideological mobilisation and publicity and education shall be carried out well, so that the people's police clearly understand the purpose and significance of implementing the police rank system, acquaint themselves with the content of the Regulations and the relevant provisions, unify their thinking and understanding, and take a correct attitude towards the assessment and conferment of police ranks. Leading cadres at all levels in particular shall set an example, be strict with themselves and play an exemplary role in the assessment and conferment of police ranks.\npersisting in seeking truth from facts, organisational appraisal shall be conducted in an objective, accurate and comprehensive manner. For people's police officers at the principal and deputy ministerial levels, the appraisal shall be conducted by the competent cadre department; for people's police officers holding the principal or deputy posts of police organs at the provincial, prefectural and county levels, the appraisal shall, in accordance with the principle of supervision at one level below, be conducted by the competent people's police department at the next higher level respectively; for the remaining people's police, the appraisal shall be conducted by the political work department of the unit to which they belong. The content of the appraisal shall cover moral character, ability and achievements, with emphasis on performance in recent years.\nthe organs responsible for organising the appraisal shall fill in, person by person, the forms for examination and approval of the assessment and conferment of police ranks, which, after examination by the competent cadre department, shall be submitted level by level for examination and approval in accordance with the authority for approval, and orders conferring police ranks shall be issued. The time of the orders for the first conferment of police ranks shall uniformly be filled in as 1 September 1992.\nthe lists of persons proposed to be assessed and conferred police ranks of the third class of police supervisor and above, together with their forms for examination and approval, shall, after being summarised, studied and balanced in a unified manner by the Ministry of Public Security and the departments concerned, be used to determine the number and control quotas of persons to be conferred ranks of the third class of police supervisor and above, and a preliminary plan for the list of persons to be conferred ranks of the second class of police supervisor and above shall be put forward and submitted to the Premier of the State Council for examination and approval.\nthe ceremonies for the first conferment of the ranks of General Police Supervisor, Deputy General Police Supervisor, First Class Police Supervisor and Second Class Police Supervisor shall be organised and conducted by the State Council. The ceremonies for conferring the ranks of Third Class Police Supervisor and Police Superintendent shall be organised and conducted by the Ministry of Public Security and the departments concerned respectively. The ceremonies for conferring the ranks of Police Inspector and Police Constable shall be organised and conducted by the public security departments (bureaux) of the provinces, autonomous regions and municipalities directly under the Central Government and by the departments concerned respectively.\nAnnex:\nStandards for the First Assessment and Conferment of Police Ranks on People's Police"
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's police officers holding administrative posts shall be assessed and conferred police ranks in accordance with the following standards:\npersons holding posts at the principal ministerial level: may be conferred the rank of General Police Supervisor.\npersons holding posts at the deputy ministerial level: may be conferred the rank of Deputy General Police Supervisor.\npersons holding posts at the principal department (ting) level: those currently holding the post of assistant minister, with relatively good moral character and ability, may be conferred the rank of First Class Police Supervisor.\nother persons holding posts at the principal department (ting) level who have relatively good moral character and ability and who have served in their current posts for three full years and taken part in work for thirty full years, or who have served in their current posts for less than three years and taken part in work for thirty-five full years, may be conferred the rank of First Class Police Supervisor;\nthe remainder may be conferred the rank of Second Class Police Supervisor.\npersons holding posts at the deputy department (ting) level: those with relatively good moral character and ability who have served in their current posts for six full years and taken part in work for twenty-two full years, or who have served in their current posts for three full years and taken part in work for thirty full years, or who have served in their current posts for less than three years and taken part in work for thirty-five full years, may be conferred the rank of Second Class Police Supervisor;\nthe remainder may be conferred the rank of Third Class Police Supervisor.\npersons holding posts at the principal division (chu) level: those currently holding the posts of director of the public security bureau of a provincial capital (the capital of an autonomous region) city or of a prefecture-level city with a relatively large population and heavy public order tasks, with relatively good moral character and ability, who have served in their current posts for three full years and taken part in work for twenty-two full years, or who have served in their current posts for less than three years and taken part in work for twenty-six full years, may be conferred the rank of Third Class Police Supervisor; the remainder may be conferred the rank of First Class Police Superintendent.\nother persons holding posts at the principal division (chu) level who have relatively good moral character and ability and who have served in their current posts for five full years and taken part in work for thirty-two full years, or who have served in their current posts for less than five years and taken part in work for thirty-eight full years, may be conferred the rank of Third Class Police Supervisor;\nthose who have served in their current posts for three full years and taken part in work for eighteen full years, or who have served in their current posts for less than three years and taken part in work for twenty-two full years, may be conferred the rank of First Class Police Superintendent;\nthe remainder may be conferred the rank of Second Class Police Superintendent.\npersons holding posts at the deputy division (chu) level: those with relatively good moral character and ability who have served in their current posts for three full years and taken part in work for twenty-two full years, or who have served in their current posts for less than three years and taken part in work for twenty-six full years, may be conferred the rank of First Class Police Superintendent;\nthose who have served in their current posts for three full years and taken part in work for sixteen full years, or who have served in their current posts for less than three years and taken part in work for twenty full years, may be conferred the rank of Second Class Police Superintendent;\nthe remainder may be conferred the rank of Third Class Police Superintendent.\npersons holding posts at the principal section (ke) level: those currently holding the posts of director or political commissar of a county (city) public security bureau or of a public security sub-bureau under a prefecture-level city, with relatively good moral character and ability, who have served in their current posts for three full years and taken part in work for twenty-two full years, or who have served in their current posts for less than three years and taken part in work for twenty-six full years, may be conferred the rank of First Class Police Superintendent; the remainder may be conferred the rank of Second Class Police Superintendent.\nother persons holding posts at the principal section (ke) level who have relatively good moral character and ability and who have served in their current posts for five full years and taken part in work for thirty-two full years, or who have served in their current posts for less than five years and taken part in work for thirty-eight full years, may be conferred the rank of First Class Police Superintendent;\nthose who have served in their current posts for two full years and taken part in work for twenty full years, or who have served in their current posts for less than two years and taken part in work for twenty-four full years, may be conferred the rank of Second Class Police Superintendent;\nthose who have served in their current posts for two full years and taken part in work for ten full years, or who have served in their current posts for less than two years and taken part in work for fourteen full years, may be conferred the rank of Third Class Police Superintendent;\nthe remainder may be conferred the rank of First Class Police Inspector.\npersons holding posts at the deputy section (ke) level: those with relatively good moral character and ability who have served in their current posts for two full years and taken part in work for twenty-six full years, or who have served in their current posts for less than two years and taken part in work for thirty full years, may be conferred the rank of Second Class Police Superintendent;\nthose who have served in their current posts for two full years and taken part in work for sixteen full years, or who have served in their current posts for less than two years and taken part in work for twelve full years, may be conferred the rank of Third Class Police Inspector;\nthose who have served in their current posts for two full years and taken part in work for eight full years, or who have served in their current posts for less than two years and taken part in work for twelve full years, may be conferred the rank of First Class Police Inspector;\nthe remainder may be conferred the rank of Second Class Police Inspector.\npersons holding the posts of clerk (police sergeant): those with relatively good moral character and ability who have taken part in work for thirty full years, or who currently hold the posts of section, station or team head in a county (city) public security bureau and have taken part in work for twenty-two full years, may be conferred the rank of Third Class Police Superintendent;\nthose who have taken part in work for eighteen full years, or who currently hold the posts of section, station or team head in a county (city) public security bureau and have taken part in work for fourteen full years, may be conferred the rank of First Class Police Inspector;\nthose who have taken part in work for eight full years, or who currently hold the posts of section, station or team head in a county (city) public security bureau and do not meet the conditions for conferment of the rank of First Class Police Inspector, may be conferred the rank of Second Class Police Inspector;\nthe remainder may be conferred the rank of Third Class Police Inspector.\npersons holding the posts of administrative clerk (police constable): those with relatively good moral character and ability who have taken part in work for twenty full years may be conferred the rank of First Class Police Inspector;\nthose who have taken part in work for twelve full years may be conferred the rank of Second Class Police Inspector;\nthose who have taken part in work for eight full years may be conferred the rank of Third Class Police Inspector;\nthose who have taken part in work for four full years may be conferred the rank of First Class Police Constable;\nthe remainder may be conferred the rank of Second Class Police Constable."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's police officers holding specialised technical posts shall be assessed and conferred police ranks in accordance with the following standards:\npersons holding senior specialised technical posts such as professor or research fellow: those with relatively good moral character and ability who have made especially outstanding contributions in specialised technical work and who at the same time have served in their current posts for eight full years, or who have served in their current posts for three full years and taken part in work for thirty full years, or who have served in their current posts for less than three years and taken part in work for thirty-five full years, may be conferred the rank of First Class Police Supervisor;\nthose who have served in their current posts for eight full years, or who have served in their current posts for three full years and taken part in work for thirty full years, or who have served in their current posts for less than three years and taken part in work for thirty-five full years, may be conferred the rank of Second Class Police Supervisor;\nthe remainder may be conferred the rank of Third Class Police Supervisor.\npersons holding senior specialised technical posts such as associate professor or associate research fellow: those with relatively good moral character and ability who have made outstanding contributions in specialised technical work and who at the same time have served in their current posts for five full years and taken part in work for thirty-two full years, or who have served in their current posts for less than five years and taken part in work for thirty-eight full years, may be conferred the rank of Second Class Police Supervisor;\nthose who have served in their current posts for five full years and taken part in work for thirty-two full years, or who have served in their current posts for less than five years and taken part in work for thirty-eight full years, may be conferred the rank of Third Class Police Supervisor;\nthose who have served in their current posts for three full years and taken part in work for eighteen full years, or who have served in their current posts for less than three years and taken part in work for twenty-two full years, may be conferred the rank of First Class Police Superintendent;\nthe remainder may be conferred the rank of Second Class Police Superintendent.\npersons holding intermediate specialised technical posts such as lecturer, assistant research fellow or engineer: those with relatively good moral character and ability who have served in their current posts for five full years and taken part in work for twenty-four full years, or who have served in their current posts for less than five years and taken part in work for thirty full years, may be conferred the rank of First Class Police Superintendent;\nthose who have served in their current posts for three full years and taken part in work for eighteen full years, or who have served in their current posts for less than three years and taken part in work for twenty-two full years, may be conferred the rank of Second Class Police Superintendent;\nthose who have served in their current posts for two full years and taken part in work for twelve full years, or who have served in their current posts for less than two years and taken part in work for ten full years, may be conferred the rank of Third Class Police Superintendent;\nthose who have served in their current posts for two full years and taken part in work for six full years, or who have served in their current posts for less than two years and taken part in work for ten full years, may be conferred the rank of First Class Police Inspector;\nthe remainder may be conferred the rank of Second Class Police Inspector.\npersons holding junior specialised technical posts such as assistant, research intern or assistant engineer: those with relatively good moral character and ability who have served in their current posts for three full years and taken part in work for twenty-two full years, or who have served in their current posts for less than three years and taken part in work for twenty-six full years, may be conferred the rank of Third Class Police Superintendent;\nthose who have served in their current posts for two full years and taken part in work for ten full years, or who have served in their current posts for less than two years and taken part in work for sixteen full years, may be conferred the rank of First Class Police Inspector;\nthose who have taken part in work for six full years may be conferred the rank of Second Class Police Inspector;\nthe remainder may be conferred the rank of Third Class Police Inspector.\npersons holding junior specialised technical posts such as technician or laboratory technician: those with relatively good moral character and ability who have served in their current posts for two full years and taken part in work for twelve full years, or who have served in their current posts for less than two years and taken part in work for eighteen full years, may be conferred the rank of First Class Police Inspector;\nthose who have taken part in work for ten full years may be conferred the rank of Second Class Police Inspector;\nthose who have taken part in work for six full years may be conferred the rank of Third Class Police Inspector;\nthe remainder may be conferred the rank of First Class Police Constable."
+        },
+        "noLabel": {
+          "en": "Article 6."
         }
       }
     ]
@@ -20847,6 +21528,615 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0335'] = {
+    "lawId": "CN-REG-0335",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the administration of feed and feed additives, improving the quality of feed and feed additives, ensuring the quality and safety of animal products and safeguarding public health."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, feed means products that are industrially processed and manufactured for consumption by animals, including single feed, additive premix, concentrated feed, compound feed and supplementary concentrate.\nFor the purposes of these Regulations, feed additives means substances added in small or trace quantities during the processing, manufacture and use of feed, including nutritional feed additives and general feed additives.\nThe catalogue of feed raw materials and the catalogue of feed additive varieties shall be formulated and promulgated by the competent department of agriculture of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent department of agriculture of the State Council shall be responsible for the supervision and administration of feed and feed additives throughout the country.\nThe departments of the local people's governments at or above the county level responsible for the administration of feed and feed additives (hereinafter referred to as the feed administration departments) shall be responsible for the supervision and administration of feed and feed additives within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The local people's governments at or above the county level shall provide unified leadership over the supervision and administration of feed and feed additives within their respective administrative areas, establish and improve supervision and administration mechanisms and ensure that supervision and administration work is carried out."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Enterprises producing and dealing in feed and feed additives shall establish and improve quality and safety systems and shall be responsible for the quality and safety of the feed and feed additives they produce and deal in."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Any organisation or individual shall have the right to report acts that violate these Regulations in the production, dealing in or use of feed and feed additives, and shall have the right to put forward opinions and suggestions on the supervision and administration of feed and feed additives."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State encourages the research and development of new feed and new feed additives.\nIn researching and developing new feed and new feed additives, the principles of being scientific, safe, effective and environmentally friendly shall be followed, and the quality and safety of the new feed and new feed additives shall be ensured."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Examination, Approval and Registration"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Before new feed or new feed additives under research and development are put into production, the developer or the producing enterprise shall submit an application for examination and approval to the competent department of agriculture of the State Council, together with samples of the new feed or new feed additives and the following materials:\n(1) the name, main components, physical and chemical properties, research and development method, production process, quality standards, testing methods, inspection reports, stability test reports, environmental impact reports and pollution prevention and control measures;\n(2) reports on the feeding effects, the dynamics of residue depletion and the toxicological safety assessment of the new feed or new feed additives, issued by a testing institution designated by the competent department of agriculture of the State Council.\nAn applicant for the examination and approval of a new feed additive shall also explain the purpose of adding the new feed additive and the method of use, and provide an analysis and assessment report on the possible impact of residues of the feed additive on human health."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Examination, Approval and Registration"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department of agriculture of the State Council shall, within 5 working days from the date of acceptance of the application, refer the samples and application materials of the new feed or new feed additives to the National Feed Review Committee for review of their safety, effectiveness and impact on the environment.\nThe National Feed Review Committee shall be composed of experts in the fields of breeding, feed processing, animal nutrition, toxicology, pharmacology, metabolism, hygiene, chemical synthesis, biotechnology, quality standards, environmental protection and food safety risk assessment. The National Feed Review Committee shall review new feed and new feed additives in the form of review meetings; a review meeting shall be attended by not less than 9 experts of the National Feed Review Committee and, as needed, 1 to 2 experts from outside the Committee may also be invited to attend, and the experts participating in the review shall have the right to vote on the matters under review. A review meeting shall produce review opinions and minutes of the meeting, which shall be examined and signed by the experts participating in the review; dissenting opinions shall be noted. Experts participating in the review shall perform their duties fairly and impartially in accordance with the law, keep the review materials confidential, and shall voluntarily withdraw where grounds for withdrawal exist.\nThe National Feed Review Committee shall, within 9 months from the date of receipt of the samples and application materials of the new feed or new feed additives, issue the review result and submit it to the competent department of agriculture of the State Council; however, where the National Feed Review Committee decides that the applicant should carry out the relevant tests, the review period may be extended by 3 months with the consent of the competent department of agriculture of the State Council.\nThe competent department of agriculture of the State Council shall, within 10 working days from the date of receipt of the review result, decide whether to issue a certificate for the new feed or new feed additives; where it decides not to issue the certificate, it shall notify the applicant in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Examination, Approval and Registration"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "When the competent department of agriculture of the State Council issues a certificate for new feed or new feed additives, it shall at the same time publish the product quality standards for the new feed or new feed additives in accordance with its duties and powers."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Examination, Approval and Registration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The monitoring period for new feed and new feed additives shall be 5 years. During the monitoring period of new feed or new feed additives, no other applications for production or for import registration in respect of that new feed or those new feed additives shall be accepted, except where production has not commenced for more than 3 years.\nThe producing enterprise shall collect information on the quality stability of the new feed or new feed additives during the monitoring period and on their impact on the quality and safety of animal products, and shall report to the competent department of agriculture of the State Council; the competent department of agriculture of the State Council shall organise follow-up monitoring of the quality and safety of the new feed and new feed additives and, where safety problems are confirmed, shall revoke the certificate for the new feed or new feed additives and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Examination, Approval and Registration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where feed or feed additives not yet used within China but already approved for production and use in the exporting country are to be exported to China, the office in China of the exporter or the agent in China entrusted by it shall apply to the competent department of agriculture of the State Council for registration, and shall provide samples of the feed or feed additives and the following materials:\n(1) the trademark, label and information on promotion and application;\n(2) the certificate of approval for production and use in the place of production and the registration materials of other countries and regions outside the place of production;\n(3) the main components, physical and chemical properties, research and development method, production process, quality standards, testing methods, inspection reports, stability test reports, environmental impact reports and pollution prevention and control measures;\n(4) reports on the feeding effects, the dynamics of residue depletion and the toxicological safety assessment of the feed or feed additives, issued by a testing institution designated by the competent department of agriculture of the State Council.\nAn applicant for the import registration of a feed additive shall also explain the purpose of adding the feed additive and the method of use, and provide an analysis and assessment report on the possible impact of residues of the feed additive on human health.\nThe competent department of agriculture of the State Council shall organise the review in accordance with the review procedures for new feed and new feed additives provided for in Article 9 of these Regulations and decide whether to issue an import registration certificate for the feed or feed additives.\nWhere feed or feed additives already used within China and already approved for production and use in the exporting country are to be exported to China for the first time, registration shall be applied for in accordance with the provisions of the first and second paragraphs of this Article. The competent department of agriculture of the State Council shall examine the application materials within 10 working days from the date of acceptance of the application; where the examination is satisfactory, it shall refer the samples to a designated institution for verification testing; where the verification testing is satisfactory, the competent department of agriculture of the State Council shall, within 10 working days, issue the import registration certificate for the feed or feed additives.\nAn import registration certificate for feed or feed additives shall be valid for 5 years. Where feed or feed additives are to continue to be exported to China upon expiry of the period of validity of the import registration certificate, an application for renewal shall be made 6 months before the expiry of the period of validity.\nThe import of feed or feed additives without an import registration certificate for feed or feed additives is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Examination, Approval and Registration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State shall protect the undisclosed test data and other data obtained by the applicants themselves and submitted by applicants for feed or feed additives that contain new compounds and for which a certificate for new feed or new feed additives or an import registration certificate for feed or feed additives has been obtained.\nWithin 6 years from the date of issuance of the certificate, where other applicants use the data provided for in the preceding paragraph to apply for the examination and approval of new feed or new feed additives or for the import registration of feed or feed additives without the consent of the applicant that has obtained the certificate for new feed or new feed additives or the import registration certificate for feed or feed additives, the competent department of agriculture of the State Council shall not examine, approve or register the application; except where the other applicant submits data obtained by itself.\nExcept under the following circumstances, the competent department of agriculture of the State Council may not disclose the data provided for in the first paragraph of this Article:\n(1) where required by the public interest;\n(2) where measures have been taken to ensure that such information will not be used improperly for commercial purposes."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Examination, Approval and Registration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The establishment of an enterprise producing feed or feed additives shall conform to the development plan and industrial policy for the feed industry and shall meet the following conditions:\n(1) it has premises, equipment and storage facilities appropriate to the production of feed or feed additives;\n(2) it has full-time technical personnel appropriate to the production of feed or feed additives;\n(3) it has the necessary product quality inspection institution, personnel and facilities and a quality management system;\n(4) it has a production environment that meets the safety and hygiene requirements prescribed by the State;\n(5) it has pollution prevention and control measures that meet the State's environmental protection requirements;\n(6) it meets other conditions provided for in the good manufacturing practice for the quality and safety of feed and feed additives formulated by the competent department of agriculture of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "An enterprise applying to engage in the production of feed or feed additives shall submit an application to the feed administration department of the people's government of the province, autonomous region or municipality directly under the Central Government. The feed administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall conduct a documentary examination within 10 working days from the date of acceptance of the application; where the examination is satisfactory, it shall organise an on-site review and, on the basis of the review result, decide within 10 working days whether to issue a production licence.\nA production licence shall be valid for 5 years. Where an enterprise needs to continue producing feed or feed additives upon expiry of the period of validity of its production licence, it shall apply for renewal 6 months before the expiry of the period of validity."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After an enterprise producing feed additives or additive premix has obtained a production licence, the feed administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, in accordance with the provisions of the competent department of agriculture of the State Council, issue the corresponding product approval number."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Enterprises producing feed or feed additives shall, in accordance with the provisions of the competent department of agriculture of the State Council and the relevant standards, examine or inspect the feed raw materials, single feed, feed additives, medicated feed additives and additive premix they purchase and the raw materials used for the production of feed additives.\nWhere a feed producing enterprise uses restricted feed raw materials, single feed, feed additives, medicated feed additives or additive premix to produce feed, it shall comply with the restrictive provisions of the competent department of agriculture of the State Council. It is prohibited to use any substance outside the catalogue of feed raw materials, the catalogue of feed additive varieties and the catalogue of medicated feed additive varieties promulgated by the competent department of agriculture of the State Council to produce feed.\nEnterprises producing feed or feed additives shall truthfully record the names, places of origin, quantities, shelf lives, numbers of licensing documents, quality inspection information, names of the producing enterprises or suppliers and their contact details, dates of purchase and the like of the feed raw materials, single feed, feed additives, medicated feed additives and additive premix they purchase and of the raw materials used for the production of feed additives. Records shall be kept for not less than 2 years."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Enterprises producing feed or feed additives shall organise production in accordance with product quality standards and the good manufacturing practice for the quality and safety of feed and feed additives and the standards for the safe use of feed additives formulated by the competent department of agriculture of the State Council, exercise effective control over the production process and apply a system of production records and retention of product samples for observation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Enterprises producing feed or feed additives shall carry out product quality inspection of the feed and feed additives they produce; where the inspection is satisfactory, a product quality inspection certificate shall be attached. Products that have not undergone product quality inspection, that fail the inspection or that are not accompanied by a product quality inspection certificate may not leave the factory for sale.\nEnterprises producing feed or feed additives shall truthfully record the names, quantities, production dates, production batches, quality inspection information, names of purchasers and their contact details, dates of sale and the like of the feed and feed additives sold ex works. Records shall be kept for not less than 2 years."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Feed and feed additives sold ex works shall be packaged, and the packaging shall conform to the State's provisions on safety and hygiene.\nFeed produced by a feed producing enterprise and sold directly to breeders may be transported in tanker trucks. Tanker trucks shall conform to the State's provisions on safety and hygiene, and a label conforming to the provisions of Article 21 of these Regulations shall be attached to the tanker truck.\nThe packaging of flammable feed or feed additives or other special feed or feed additives shall bear warning signs or explanations and shall state precautions for storage and transport."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A label shall be attached to the packaging of feed and feed additives. The label shall, in Chinese or in applicable symbols, indicate the product name, the composition of raw materials, the guaranteed analysis values of the product components, the net weight or net content, the storage conditions, the instructions for use, the precautions, the production date, the shelf life, the name and address of the producing enterprise, the number of the licensing document and the product quality standards. Where a medicated feed additive is added, the words \"medicated feed additive added\" shall also be indicated, together with its generic name, content and withdrawal period. Feed of animal origin other than milk and dairy products shall also bear the words \"this product shall not be fed to ruminants\"."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Dealers in feed and feed additives shall meet the following conditions:\n(1) they have business premises and storage facilities appropriate to dealing in feed and feed additives;\n(2) they have technical personnel with knowledge of the use and storage of feed and feed additives;\n(3) they have the necessary product quality management and safety management systems."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Dealers in feed and feed additives shall, when purchasing goods, examine the product labels, product quality inspection certificates and the corresponding licensing documents.\nDealers in feed and feed additives may not unpack or repackage feed or feed additives, and may not reprocess feed or feed additives or add any substance to them.\nIt is prohibited to deal in feed produced with any substance outside the catalogue of feed raw materials, the catalogue of feed additive varieties and the catalogue of medicated feed additive varieties promulgated by the competent department of agriculture of the State Council.\nDealers in feed and feed additives shall establish purchase and sale ledgers and truthfully record the names, numbers of licensing documents, specifications, quantities, shelf lives, names of the producing enterprises or suppliers and their contact details, and times of purchase and sale of the products purchased and sold. Purchase and sale ledgers shall be kept for not less than 2 years."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Feed and feed additives exported to China shall be packaged, and the packaging shall conform to China's provisions on safety and hygiene, and a label conforming to the provisions of Article 21 of these Regulations shall be attached.\nFeed and feed additives exported to China shall meet China's requirements for inspection and quarantine; the entry-exit inspection and quarantine institutions shall carry out inspection and quarantine in accordance with the law and verify their packaging and labels. Where the packaging and labels do not meet the requirements, entry into China shall not be permitted.\nOverseas enterprises may not sell feed or feed additives directly in China. Where an overseas enterprise sells feed or feed additives in China, it shall lawfully establish a sales institution within China or entrust a qualified agency within China to sell on its behalf."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Breeders shall use feed in accordance with the instructions for use and the precautions of the product. Where feed additives are added to feed or to animals' drinking water, the requirements of the instructions for use and the precautions of the feed additives shall be met, and the standards for the safe use of feed additives formulated by the competent department of agriculture of the State Council shall be observed.\nWhere breeders use feed mixed by themselves, they shall observe the standards for the use of self-mixed feed formulated by the competent department of agriculture of the State Council, and may not provide self-mixed feed to others.\nWhere restricted substances are used to breed animals, the restrictive provisions of the competent department of agriculture of the State Council shall be observed. It is prohibited to add to feed or to animals' drinking water substances that are prohibited by announcement of the competent department of agriculture of the State Council or other substances that are directly or potentially harmful to human health, or to use the above substances directly to breed animals. It is prohibited to add ingredients of animal origin other than milk and dairy products to feed for ruminants."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The competent department of agriculture of the State Council and the feed administration departments of the local people's governments at or above the county level shall strengthen the dissemination of knowledge on the quality and safety of feed and feed additives, raise breeders' awareness of quality and safety, and guide breeders to use feed and feed additives safely and rationally."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where feed or feed additives are confirmed in the course of use to be harmful to farm animals, human health or the environment, the competent department of agriculture of the State Council shall decide to prohibit their use and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an enterprise producing feed or feed additives discovers that the feed or feed additives it produces are harmful to farm animals or human health or involve other safety hidden dangers, it shall immediately stop production, notify the dealers and users, report to the feed administration department, voluntarily recall the products and record the recall and the notifications. The recalled products shall be subjected to harmless treatment or destroyed under the supervision of the feed administration department.\nWhere a dealer in feed or feed additives discovers that the feed or feed additives it sells fall under the circumstances provided for in the preceding paragraph, it shall immediately stop selling, notify the producing enterprise, the supplier and the users, report to the feed administration department and record the notifications.\nWhere a breeder discovers that the feed or feed additives it uses fall under the circumstances provided for in the first paragraph of this Article, it shall immediately stop using them, notify the supplier and report to the feed administration department."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "It is prohibited to produce, deal in or use new feed or new feed additives for which no certificate for new feed or new feed additives has been obtained, and feed or feed additives that are prohibited.\nIt is prohibited to deal in or use feed or feed additives without product labels, without production licences, without product quality standards or without product quality inspection certificates. It is prohibited to deal in or use feed additives or additive premix without a product approval number. It is prohibited to deal in or use imported feed or imported feed additives for which no import registration certificate for feed or feed additives has been obtained."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "It is prohibited to make statements or carry out publicity claiming that feed or feed additives have the effect of preventing or treating animal diseases. However, where a medicated feed additive is added to feed, the effect of the medicated feed additive added may be explained."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The competent department of agriculture of the State Council and the feed administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with their duties and powers, monitor the quality and safety of feed and feed additives throughout the country or within their respective administrative areas, and shall release early warning information on the quality and safety of feed and feed additives on the basis of the monitoring results."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent department of agriculture of the State Council and the feed administration departments of the local people's governments at or above the county level shall, as needed, regularly or irregularly organise and conduct supervisory spot checks on feed and feed additives; the testing work for such supervisory spot checks shall be undertaken by institutions with the appropriate technical conditions designated by the competent department of agriculture of the State Council or by the feed administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government. No fees may be charged for supervisory spot checks on feed and feed additives.\nThe competent department of agriculture of the State Council and the feed administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall publish the results of supervisory spot checks in accordance with their duties and powers and may publish the lists of feed and feed additive producing enterprises and dealers with adverse records."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The feed administration departments of the local people's governments at or above the county level shall establish supervision and administration archives for feed and feed additives, recording routine supervisory inspections, the investigation and handling of illegal acts and the like."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent department of agriculture of the State Council and the feed administration departments of the local people's governments at or above the county level may take the following measures in supervisory inspections:\n(1) carry out on-site inspections of the places where feed and feed additives are produced, dealt in or used;\n(2) consult and copy the relevant contracts, invoices, account books and other relevant materials;\n(3) seal up or seize feed raw materials, single feed, feed additives, medicated feed additives and additive premix proven by evidence to be used for the illegal production of feed, raw materials used for the illegal production of feed additives, tools and facilities used for the illegal production of feed or feed additives, and feed or feed additives illegally produced, dealt in or used;\n(4) seal up the premises where feed or feed additives are illegally produced or dealt in."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Production, Dealing In and Use"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the competent department of agriculture of the State Council, the feed administration departments of the local people's governments at or above the county level or any other department exercising the power of supervision and administration in accordance with these Regulations, or their staff members, fail to perform the duties provided for in these Regulations, or abuse their power, neglect their duties or commit irregularities for personal gain, disciplinary sanctions shall be imposed in accordance with the law on the person directly in charge and the other persons directly responsible; where the person directly in charge and the other persons directly responsible commit a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a person obtains licensing documents by providing false materials or samples or by other deceptive means, the issuing authority shall revoke the relevant licensing documents, impose a fine of not less than RMB 50,000 and not more than RMB 100,000, and the applicant may not apply for an administrative licence for the same matter within 3 years. Where licensing documents are obtained by deception and losses are caused to others, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where licensing documents are counterfeited, forged, bought or sold, the competent department of agriculture of the State Council or the feed administration department of the local people's government at or above the county level shall, in accordance with its duties and powers, confiscate or revoke or annul the relevant licensing documents; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where feed or feed additives are produced without a production licence, the feed administration department of the local people's government at or above the county level shall order the production to be stopped, confiscate the illegal gains, the illegally produced products, the feed raw materials, single feed, feed additives, medicated feed additives and additive premix used for the illegal production of feed, and the raw materials used for the illegal production of feed additives, and, where the value of the illegally produced products is less than RMB 10,000, concurrently impose a fine of not less than RMB 10,000 and not more than RMB 50,000, and, where the value is RMB 10,000 or more, concurrently impose a fine of not less than 5 times and not more than 10 times the value; where the circumstances are serious, confiscate the production equipment, and the principal person in charge and the person directly in charge of the producing enterprise may not engage in the production or dealing in of feed or feed additives for 10 years.\nWhere an enterprise has obtained a production licence but continues to produce feed or feed additives without the conditions provided for in Article 14 of these Regulations, the feed administration department of the local people's government at or above the county level shall order the production to be stopped and correction to be made within a specified time limit, and shall concurrently impose a fine of not less than RMB 10,000 and not more than RMB 50,000; where correction is not made within the time limit, the issuing authority shall revoke the production licence.\nWhere an enterprise has obtained a production licence but produces feed additives or additive premix without a product approval number, the feed administration department of the local people's government at or above the county level shall order the production to be stopped, confiscate the illegal gains, the illegally produced products, the feed raw materials, single feed, feed additives and medicated feed additives used for the illegal production of feed and the raw materials used for the illegal production of feed additives, order the enterprise to complete the formalities for the product approval number within a specified time limit, and concurrently impose a fine of not less than 1 time and not more than 3 times the value of the illegally produced products; where the circumstances are serious, the issuing authority shall revoke the production licence."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where an enterprise producing feed or feed additives commits any of the following acts, the feed administration department of the local people's government at or above the county level shall order it to make correction, confiscate the illegal gains, the illegally produced products, the feed raw materials, single feed, feed additives, medicated feed additives and additive premix used for the illegal production of feed, and the raw materials used for the illegal production of feed additives, and, where the value of the illegally produced products is less than RMB 10,000, concurrently impose a fine of not less than RMB 10,000 and not more than RMB 50,000, and, where the value is RMB 10,000 or more, concurrently impose a fine of not less than 5 times and not more than 10 times the value; where the circumstances are serious, the issuing authority shall revoke or annul the relevant licensing documents, and the principal person in charge and the person directly in charge of the producing enterprise may not engage in the production or dealing in of feed or feed additives for 10 years; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) using restricted feed raw materials, single feed, feed additives, medicated feed additives or additive premix to produce feed without complying with the restrictive provisions of the competent department of agriculture of the State Council;\n(2) using substances outside the catalogue of feed raw materials, the catalogue of feed additive varieties and the catalogue of medicated feed additive varieties promulgated by the competent department of agriculture of the State Council to produce feed;\n(3) producing new feed or new feed additives for which no certificate for new feed or new feed additives has been obtained, or producing prohibited feed or feed additives."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an enterprise producing feed or feed additives commits any of the following acts, the feed administration department of the local people's government at or above the county level shall order it to make correction and impose a fine of not less than RMB 10,000 and not more than RMB 20,000; where it refuses to make correction, the department shall confiscate the illegal gains, the illegally produced products, the feed raw materials, single feed, feed additives, medicated feed additives and additive premix used for the illegal production of feed and the raw materials used for the illegal production of feed additives, and concurrently impose a fine of not less than RMB 50,000 and not more than RMB 100,000; where the circumstances are serious, the department shall order the production to be stopped, and the issuing authority may revoke or annul the relevant licensing documents:\n(1) failing to examine or inspect the feed raw materials, single feed, feed additives, medicated feed additives and additive premix it purchases and the raw materials used for the production of feed additives in accordance with the provisions of the competent department of agriculture of the State Council and the relevant standards;\n(2) failing to observe the good manufacturing practice for the quality and safety of feed and feed additives and the standards for the safe use of feed additives formulated by the competent department of agriculture of the State Council in the production of feed or feed additives;\n(3) producing feed or feed additives that have not undergone product quality inspection."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an enterprise producing feed or feed additives fails to apply the system of purchase, production and sale records or the system of retention of product samples for observation in accordance with the provisions of these Regulations, the feed administration department of the local people's government at or above the county level shall order it to make correction and impose a fine of not less than RMB 10,000 and not more than RMB 20,000; where it refuses to make correction, the department shall confiscate the illegal gains, the illegally produced products, the feed raw materials, single feed, feed additives, medicated feed additives and additive premix used for the illegal production of feed and the raw materials used for the illegal production of feed additives, impose a fine of not less than RMB 20,000 and not more than RMB 50,000, and the issuing authority may revoke or annul the relevant licensing documents.\nWhere the feed or feed additives sold by an enterprise producing feed or feed additives are not accompanied by a product quality inspection certificate, or their packaging or labels do not conform to the provisions, the feed administration department of the local people's government at or above the county level shall order it to make correction; where the circumstances are serious, the department shall confiscate the illegal gains and the illegally sold products and may impose a fine of not more than 30 per cent of the value of the illegally sold products."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where feed or feed additives are dealt in without meeting the conditions provided for in Article 22 of these Regulations, the feed administration department of the people's government at the county level shall order correction within a specified time limit; where correction is not made within the time limit, the department shall confiscate the illegal gains and the illegally dealt products and, where the value of the illegally dealt products is less than RMB 10,000, concurrently impose a fine of not less than RMB 2,000 and not more than RMB 20,000, and, where the value is RMB 10,000 or more, concurrently impose a fine of not less than 2 times and not more than 5 times the value; where the circumstances are serious, the department shall order the dealing to be stopped and notify the administration department for industry and commerce, which shall revoke the business licence."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a dealer in feed or feed additives commits any of the following acts, the feed administration department of the people's government at the county level shall order it to make correction, confiscate the illegal gains and the illegally dealt products and, where the value of the illegally dealt products is less than RMB 10,000, concurrently impose a fine of not less than RMB 2,000 and not more than RMB 20,000, and, where the value is RMB 10,000 or more, concurrently impose a fine of not less than 2 times and not more than 5 times the value; where the circumstances are serious, the department shall order the dealing to be stopped and notify the administration department for industry and commerce, which shall revoke the business licence; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) reprocessing feed or feed additives or adding substances to them;\n(2) dealing in feed or feed additives without product labels, without production licences or without product quality inspection certificates;\n(3) dealing in feed additives or additive premix without a product approval number;\n(4) dealing in feed produced with substances outside the catalogue of feed raw materials, the catalogue of feed additive varieties and the catalogue of medicated feed additive varieties promulgated by the competent department of agriculture of the State Council;\n(5) dealing in new feed or new feed additives for which no certificate for new feed or new feed additives has been obtained, imported feed or imported feed additives for which no import registration certificate for feed or feed additives has been obtained, or prohibited feed or feed additives."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a dealer in feed or feed additives commits any of the following acts, the feed administration department of the people's government at the county level shall order it to make correction, confiscate the illegal gains and the illegally dealt products, and concurrently impose a fine of not less than RMB 2,000 and not more than RMB 10,000:\n(1) unpacking or repackaging feed or feed additives;\n(2) failing to apply the system of purchase and sale ledgers in accordance with the provisions of these Regulations;\n(3) dealing in feed or feed additives that have deteriorated, become mouldy or passed their shelf life."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the producing enterprise fails to voluntarily recall the feed or feed additives referred to in Article 28 of these Regulations, the feed administration department of the local people's government at or above the county level shall order a recall and supervise the producing enterprise in subjecting the recalled products to harmless treatment or destruction; where the circumstances are serious, the department shall confiscate the illegal gains and impose a fine of not less than 1 time and not more than 3 times the value of the products that should be recalled, and the issuing authority may revoke or annul the relevant licensing documents; where the producing enterprise fails to subject the recalled products to harmless treatment or destruction, the feed administration department of the people's government at the county level shall destroy them on its behalf, and the costs incurred shall be borne by the producing enterprise.\nWhere a dealer fails to stop selling the feed or feed additives referred to in Article 28 of these Regulations, the feed administration department of the local people's government at or above the county level shall order it to stop selling; where it refuses to stop selling, the department shall confiscate the illegal gains and impose a fine of not less than RMB 1,000 and not more than RMB 50,000; where the circumstances are serious, the department shall order the dealing to be stopped and notify the administration department for industry and commerce, which shall revoke the business licence."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an enterprise producing or dealing in feed or feed additives commits any of the following acts, the feed administration department of the local people's government at or above the county level shall order the production or dealing to be stopped, confiscate the illegal gains and the illegally produced or dealt products and, where the value of the illegally produced or dealt products is less than RMB 10,000, concurrently impose a fine of not less than RMB 2,000 and not more than RMB 20,000, and, where the value is RMB 10,000 or more, concurrently impose a fine of not less than 2 times and not more than 5 times the value; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) in the course of production or dealing, passing off non-feed or non-feed additives as feed or feed additives, or passing off one kind of feed or feed additive as another kind;\n(2) producing or dealing in feed or feed additives without product quality standards or not conforming to product quality standards;\n(3) the feed or feed additives produced or dealt in being inconsistent with the contents indicated on the label.\nWhere an enterprise producing feed or feed additives commits an act provided for in the preceding paragraph and the circumstances are serious, the issuing authority shall revoke or annul the relevant licensing documents; where a dealer in feed or feed additives commits an act provided for in the preceding paragraph and the circumstances are serious, the matter shall be notified to the administration department for industry and commerce, which shall revoke the business licence."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a breeder commits any of the following acts, the feed administration department of the people's government at the county level shall confiscate the illegally used products and the illegally added substances, impose a fine of not less than RMB 10,000 and not more than RMB 50,000 on a unit and a fine of not more than RMB 5,000 on an individual; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) using new feed or new feed additives for which no certificate for new feed or new feed additives has been obtained, or imported feed or imported feed additives for which no import registration certificate for feed or feed additives has been obtained;\n(2) using feed or feed additives without product labels, without production licences, without product quality standards or without product quality inspection certificates;\n(3) using feed additives or additive premix without a product approval number;\n(4) adding feed additives to feed or to animals' drinking water without observing the standards for the safe use of feed additives formulated by the competent department of agriculture of the State Council;\n(5) using self-mixed feed without observing the standards for the use of self-mixed feed formulated by the competent department of agriculture of the State Council;\n(6) using restricted substances to breed animals without observing the restrictive provisions of the competent department of agriculture of the State Council;\n(7) adding ingredients of animal origin other than milk and dairy products to feed for ruminants.\nWhere substances that are prohibited by announcement of the competent department of agriculture of the State Council or other substances that are directly or potentially harmful to human health are added to feed or to animals' drinking water, or such substances are used directly to breed animals, the feed administration department of the local people's government at or above the county level shall order the breeder to subject the animals fed with the prohibited substances to harmless treatment and shall impose a fine of not less than RMB 30,000 and not more than RMB 100,000; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a breeder provides self-mixed feed to others, the feed administration department of the people's government at the county level shall order it to make correction and impose a fine of not less than RMB 2,000 and not more than RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "For the purposes of these Regulations, the following terms have the meanings given below:\n(1) Feed raw materials means feeding substances derived from animals, plants, micro-organisms or minerals that are used for processing and manufacturing feed but are not feed additives.\n(2) Single feed means feed derived from a single species of animal, plant or micro-organism or from a single mineral that is used for the production of feed products.\n(3) Additive premix means feed formulated in a certain proportion mainly from two or more types of nutritional feed additives, together with carriers or diluents, including compound premix, trace element premix and vitamin premix.\n(4) Concentrated feed means feed formulated in a certain proportion mainly from proteins, minerals and feed additives.\n(5) Compound feed means feed formulated in a certain proportion from various feed raw materials and feed additives according to the nutritional requirements of farm animals.\n(6) Supplementary concentrate means feed formulated in a certain proportion from various feed raw materials and feed additives for the purpose of supplementing the nutrition of herbivorous animals.\n(7) Nutritional feed additives means substances added to feed in small or trace quantities to supplement the nutritional components of feed, including feed-grade amino acids, vitamins, mineral trace elements, enzyme preparations and non-protein nitrogen.\n(8) General feed additives means substances added to feed in small or trace quantities to ensure or improve feed quality and raise feed utilisation efficiency.\n(9) Medicated feed additives means premixed veterinary medicinal substances incorporated into carriers or diluents for the prevention or treatment of animal diseases.\n(10) Licensing documents means the certificate for new feed or new feed additives, the import registration certificate for feed or feed additives, the production licence for feed or feed additives, and the product approval number for feed additives or additive premix."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The administration of medicated feed additives shall be carried out in accordance with the provisions of the Regulations on the Administration of Veterinary Drugs."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2012."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
         }
       }
     ]

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p13
-   法规 60 部 / 译文 1880 条
+   法规 63 部 / 译文 1903 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -6539,6 +6539,129 @@
     ]
   };
 
+  TR['CN-REG-0047'] = {
+    "lawId": "CN-REG-0047",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 12 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The local port administration committees and port offices are port administration organs under the direct leadership of the people's government of the province (autonomous region) or municipality where the port is located, and are responsible for administering and coordinating the work of the sea, land and air ports in their respective regions."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Responsible for implementing the principles, policies and provisions of the Party Central Committee and the State Council concerning port work, and for formulating rules for implementation in light of the specific circumstances of the ports in the region."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Preside over the balancing of the foreign trade transport plans for the ports under their jurisdiction, inspect the implementation of the transport plans balanced and issued by the central authorities, and strengthen forecasting and projection work."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Organise the collection and distribution of goods at the port. Organise the parties concerned to conclude economic agreements. Organise cooperation and coordination among the railway, port and foreign trade sectors, strengthen the connection between vehicles, vessels and goods, accelerate the turnover of vehicles and vessels and the collection and distribution of goods, and ensure that the port remains clear."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Urge and inspect the port inspection and examination units to supervise and administer, and to inspect, examine and quarantine, persons entering and leaving the country, means of transport, goods, and luggage and articles, in accordance with their respective functions and provisions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Responsible for coordinating and resolving conflicts among the various units at the port (including the units concerned with foreign trade transport, shipping and cargo agency, loading and unloading and tallying, warehousing and transhipment, inspection and examination, notarisation and appraisal, foreign claims, supply services, and reception and publicity), and having the function of arbitration. In coordinating and resolving conflicts among the units at the port, the following principles shall be observed:\nprovisions jointly issued by several departments of the State Council shall be implemented jointly. Where a provision is changed unilaterally without the consent of the departments that jointly issued it, the local port administration organ shall have the power not to implement the change.\nDisputes arising from inconsistencies among the rules and regulations of the competent departments of the State Council shall be promptly addressed by the local port administration organ with proposals for handling, which shall be reported to the Office of the Port Leading Group of the State Council for resolution.\nIn respect of foreign-related matters arising in the course of work, the local port administration organ must strictly implement the system of requesting instructions and submitting reports. Ordinary foreign-related matters that the units at the port are unable to decide on their own shall be referred, by way of request for instructions, to the units concerned of the province (autonomous region or municipality directly under the Central Government) for study and handling. Major foreign-related matters shall, together with the opinions of the units concerned of the province (autonomous region or municipality directly under the Central Government), be submitted to the competent department of the State Council for study and handling. For major foreign-related matters of extreme urgency, instructions may be requested directly from the competent department of the State Council, and the units concerned of the province (autonomous region or municipality directly under the Central Government) shall be informed.\nWhere the units at the port differ in their understanding of a matter in the course of work, they shall, in accordance with the relevant State provisions, first resolve the external aspects through consultation. Where consensus cannot be reached through consultation, a decision shall be made by the local port administration organ or, at its request for instructions, by the local people's government.\nConflicts and disputes in the field of cooperation and coordination shall be organised and coordinated by the local port administration organ in a timely manner, and in emergencies it shall have the power to make an arbitral decision.\nThe units concerned at the port must implement the decisions made by the local port administration organ in accordance with the above principles."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Responsible for organising the units at the port to conduct publicity and education among staff on foreign-related policies, discipline and the strengthening of public order, and, together with the departments concerned, to inspect major foreign-related problems and serious breaches of discipline at the port and to propose measures for handling."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Inspect and urge the organisation and implementation of port planning, construction and supporting technical transformation in the region, and promote their synchronous progress."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In accordance with the State policies and provisions on the opening of ports, responsible for the examination and submission for approval of the opening or closure of Class I and Class II ports, and for organising the implementation of the specific matters concerned."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Conduct investigation and research, sum up and exchange experience, report major conflicts and problems arising in port work to the higher authorities concerned, and propose solutions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Handle other matters assigned by the higher leading departments."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "These Provisions shall apply to the port administration committees or port offices of the provinces and municipalities where Class I ports are located. The scope of functions and powers of the administration organs of Class II ports may be prescribed by the people's government of the province (autonomous region or municipality directly under the Central Government) in light of the specific circumstances of the local port."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0048'] = {
     "lawId": "CN-REG-0048",
     "sourceLang": "zh",
@@ -12182,6 +12305,84 @@
     ]
   };
 
+  TR['CN-REG-0066'] = {
+    "lawId": "CN-REG-0066",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The offices of special commissioners are agencies dispatched by the Ministry of Foreign Economic Relations and Trade, named \"Office of the Special Commissioner of the Ministry of Foreign Economic Relations and Trade in XX\", and shall be under the direct leadership of, and responsible to, the Ministry of Foreign Economic Relations and Trade. Special commissioners shall maintain close contact with the local Party and government authorities, report on their work, obtain support and assistance from the local Party and government authorities, and promptly request instructions from and report to the Ministry of Foreign Economic Relations and Trade."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Functions of special commissioners\nIn accordance with the principles of unified policy, unified planning and unified dealings with foreign countries, and in a manner conducive to the development of foreign economic relations and trade, to supervise and guide the implementation of the import and export commodity coordination schemes formulated by the import and export commodity coordination groups. Problems arising in the implementation of import and export commodity coordination schemes that fall within the area under the jurisdiction of the special commissioner may be assisted in resolving on the spot; nationwide problems, such as major changes in markets, quantities, prices and customers, shall still be resolved by the coordination groups of the general companies;\nto strengthen administrative management and, within the scope of authorisation by the Ministry of Foreign Economic Relations and Trade, to examine, approve and issue licences for some import and export commodities;\nto assist the specialised national import and export general companies (including general companies combining industry and trade, the same below) in gradually implementing, for major export commodities, unified operation and joint operation by industry with key ports as the centres;\nin order to strengthen unified and joint dealings with foreign countries, to convene, as circumstances require, liaison meetings of the foreign economic relations and trade departments of the port where the office is located and of the provinces, municipalities and autonomous regions within its jurisdiction, to exchange information and to coordinate and resolve the relationship between the port and the interior. Personnel from the specialised general companies concerned and from the units concerned of the Ministry of Foreign Economic Relations and Trade may be sent to attend the meetings;\nto conduct investigation and research on the implementation of the principles and policies relating to foreign economic relations and trade and on strengthening import and export management and reforming the system of foreign economic relations and trade, and to make proposals to the Ministry of Foreign Economic Relations and Trade;\nto handle other matters assigned by the Ministry of Foreign Economic Relations and Trade."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Powers of special commissioners\nto have the power to intervene in and stop the business activities of import and export enterprises that violate the division of operations in import and export commodities and the coordination schemes;\nin respect of transactions that violate policies or the relevant State laws, decrees, rules and regulations, special commissioners shall have the power to stop them and to refuse to issue licences;\nthe import and export commodity coordination groups of the specialised general companies shall provide the special commissioners with business materials (including coordination schemes, minutes of meetings, bulletins, statistical data and reports) so that the special commissioners may inspect, supervise and adjudicate the coordination work;\nreports on management work by the administrative departments of foreign economic relations and trade of the local province and municipality and of the relevant provinces, municipalities and autonomous regions in the interior shall be copied to the special commissioners. Special commissioners shall, as required by their work, have the power to request the administrative and enterprise departments of foreign economic relations and trade of the local and relevant provinces, municipalities and autonomous regions to provide information and materials on coordination and management;\nin order to perform the tasks and duties prescribed in these Regulations, the local departments concerned with transport, ports, banking, customs and commodity inspection shall actively cooperate with the work of special commissioners."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Appointment, term of office, organisational relations, rewards and punishments of special commissioners\nAn office of special commissioners shall have one special commissioner and one deputy special commissioner, both nominated by the Ministry of Foreign Economic Relations and Trade and submitted to the State Council for appointment;\nthe term of office of a special commissioner shall generally be two years, with rotation upon expiry, and may be appropriately extended where necessary. The staff of the offices of special commissioners shall also be subject to a rotation system;\nthe ideological and political work of the offices of special commissioners shall be the responsibility of the Ministry of Foreign Economic Relations and Trade. Party and Youth League members among the special commissioners and the staff shall establish Party and Youth League organisations respectively, under the direct leadership of the Party committee and the Youth League committee of the Ministry of Foreign Economic Relations and Trade. Arrangements for the transmission of urgent and important reports and for the reading of documents shall be assisted by the local Party committees;\nrewards and punishments in respect of special commissioners and the staff of their offices shall be handled by the Ministry of Foreign Economic Relations and Trade."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Staffing, funds and living arrangements of the offices of special commissioners\nstaffing shall be determined on the principle of simplification, and cadres shall be dispatched by the Ministry of Foreign Economic Relations and Trade. Internal bodies shall be set up simply, with a view to improving efficiency;\nthe expenses of the offices shall be incorporated into the budget of the Ministry of Foreign Economic Relations and Trade;\nthe daily living arrangements of the staff of the offices shall be assisted by the departments concerned of the local people's government."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Work style of special commissioners and the staff of their offices\nSpecial commissioners and the staff of their offices shall endeavour to study the line, principles and policies of the Party, correctly implement foreign economic relations and trade policies and all provisions, and promote the development of foreign economic relations and trade; shall strengthen investigation and research, listen modestly to opinions from all sides, seek truth from facts and strengthen the overall perspective; and shall be selfless, conscientious in their work, carry forward the fine traditions of the Party, serve the people wholeheartedly and do well all the work they undertake."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Interim Regulations shall be implemented after approval by the State Council. Where supplementation or amendment is required, it shall be proposed by the Ministry of Foreign Economic Relations and Trade and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0068'] = {
     "lawId": "CN-REG-0068",
     "sourceLang": "zh",
@@ -15981,6 +16182,57 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0086'] = {
+    "lawId": "CN-REG-0086",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Under the leadership of the State Council, the State Education Commission shall be in charge of higher education throughout the country, and its main functions and responsibilities are as follows:\nto implement the principles and policies, laws and administrative regulations of the Party and the State concerning higher education, and to formulate specific policies and rules for higher education work.\nto guide and inspect the implementation by the provinces, autonomous regions and municipalities directly under the Central Government, the departments concerned of the State Council and institutions of higher education of the principles and policies, laws and administrative regulations of the Party and the State concerning higher education.\nto organise nationwide forecasting of the demand for specialised personnel, draw up plans for the development of higher education throughout the country and annual enrolment plans, and adjust the structure and distribution of higher education. To examine and approve the establishment, closure and adjustment of institutions of higher education (including junior colleges, the same below) and graduate schools. To formulate provisions on enrolment and on the assignment of graduates, and to draw up annual plans for the assignment of graduates under unified State allocation.\nto formulate standards for the establishment of institutions of higher education and graduate schools. To formulate the basic catalogue of specialities and the standards for the establishment of specialities in institutions of higher education, and to organise the examination and approval of the establishment of specialities.\njointly with the departments concerned of the State Council, to formulate the principles of the management systems and quota standards for capital construction investment, operating funds, staffing, labour and State-allocated materials and equipment for higher education; to put forward guiding proposals on the allocation plans for capital construction investment, education and scientific research funds, special-purpose expenses, foreign exchange and State-allocated materials and equipment for higher education at the central level; and to control the capital construction investment, operating funds and staffing used to regulate the coordinated development of higher education and support the building of key disciplines. To administer foreign aid and loans for higher education.\nto formulate rules and regulations for personnel management in institutions of higher education, and to plan and organise the building of the teaching and administrative cadre contingents of institutions of higher education. In accordance with the Provisions of the State Council on the Implementation of the System of Appointment to Specialised Technical Posts, to organise and guide the work of institutions of higher education in this respect.\nto guide the ideological and political work, teaching work, physical education work, health work and general affairs work of institutions of higher education. To determine the length of schooling and the training specifications for graduate students, undergraduates and junior college students. To formulate guiding teaching documents, and to plan and organise the compilation and examination of textbooks. To organise the inspection and evaluation of the quality of education in institutions of higher education.\nto guide and administer the enrolment and training of graduate students by institutions of higher education and scientific research institutions. To guide the conferment of academic degrees. To guide and administer the work of post-doctoral scientific research mobile stations in institutions of higher education.\nto guide the scientific research work of institutions of higher education. In coordination with the competent department of State scientific and technological research, to organise the formulation of plans and management systems for scientific research in institutions of higher education. To promote cooperation and association between institutions and the scientific research, production and social sectors, as well as inter-institutional cooperation.\nto guide and administer the work of persons studying at institutions of higher education abroad, persons coming to China to study and foreign intellectual aid, and to promote international academic exchanges and cooperation of institutions of higher education.\nto organise the provision of services to institutions of higher education in the fields of educational information, information on the demand for personnel and examinations.\nto exercise unified guidance over adult higher education in various forms, draw up plans for the development of adult higher education, and formulate and issue annual enrolment plans. Jointly with the departments concerned of the State Council, to draw up plans for continuing education.\nto directly administer a small number of institutions of higher education."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Under the guidance of the State Education Commission, the departments concerned of the State Council shall administer the institutions of higher education directly subordinate to them, and their main functions and responsibilities are as follows:\nto implement the principles and policies, laws and administrative regulations of the Party and the State concerning higher education.\nto organise forecasting of the demand for specialised personnel in their own system and sector, and to draw up development plans, annual enrolment plans and plans for the assignment of the portion of graduates to be assigned by themselves for the institutions of higher education under their direct administration. To guide enrolment and the assignment of graduates.\nto examine the establishment, closure and adjustment of the institutions of higher education under their direct administration, the establishment of the specialities under them and the building of key disciplines, and to submit applications or proposals to the State Education Commission. Entrusted by the State Education Commission, and in accordance with the relevant provisions, to examine and approve the addition and closure of specialities under junior colleges under their direct administration.\nto be responsible for the allocation of capital construction investment, State-allocated materials and equipment and operating fund budgets, and for the examination of final accounts, of the institutions of higher education under their direct administration.\nto guide the ideological and political work, teaching work, scientific research work and general affairs work of the institutions of higher education under their direct administration. To appoint and remove the principal leading officers of the institutions. In accordance with the Provisions of the State Council on the Implementation of the System of Appointment to Specialised Technical Posts, to organise and guide the work of the institutions of higher education under their direct administration in this respect.\nin accordance with the unified arrangements of the State Education Commission, and jointly with the provinces, autonomous regions and municipalities directly under the Central Government concerned, to organise evaluation of the quality of education in the corresponding specialities of institutions of higher education, and to organise and plan the compilation and examination of textbooks for the corresponding specialities.\nto guide and coordinate the production practice and social practice of students of institutions of higher education within their own system. To encourage the relevant specialities and research institutions of institutions of higher education to participate in the scientific and technological development of their own system, and to promote links between enterprises and institutions.\nto encourage the institutions of higher education under their direct administration to run schools with an orientation towards society, and to implement joint running of schools between the department and the departments concerned of the State Council and between the department and local authorities.\nto administer adult higher education, professional training, continuing education and the compilation and examination of the relevant textbooks of their own department."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The people's governments of the provinces, autonomous regions and municipalities directly under the Central Government shall administer the institutions of higher education in their respective regions, and their main functions and responsibilities are as follows:\nto be responsible for guiding and inspecting the implementation by the institutions of higher education in the region of the principles and policies, laws and regulations of the Party and the State concerning higher education.\nto organise forecasting of the demand for specialised personnel in the region, draw up development plans and annual enrolment plans for the institutions of higher education under their direct administration, and organise and lead enrolment and the assignment of graduates. To examine the establishment, closure and adjustment of the institutions of higher education under their direct administration and the establishment of specialities, and to submit applications or proposals to the State Education Commission. Entrusted by the State Education Commission, and in accordance with the relevant State provisions, to examine and approve the addition and closure of specialities under junior colleges under their direct administration.\nto be responsible for the allocation of capital construction investment, State-allocated materials and equipment and operating fund budgets, and for the examination of final accounts, of the institutions of higher education under their direct administration.\nto guide the ideological and political work, teaching work, scientific research work and general affairs work of the institutions of higher education under their direct administration. To appoint and remove the principal leading officers of the institutions. In accordance with the Provisions of the State Council on the Implementation of the System of Appointment to Specialised Technical Posts, to organise and guide the work of these institutions and of some institutions of higher education under the direct administration of the departments concerned of the State Council in this respect. To help the general affairs work of the institutions of higher education in the region to be gradually socialised.\nto organise inter-institutional cooperation and exchange of experience among the institutions of higher education in the region, and to inspect and evaluate the quality of education. To guide and coordinate the production practice and social practice of students of institutions of higher education within the region.\nto encourage the institutions of higher education in the region to run schools with an orientation towards society and to run schools jointly across regions and departments. Under the guidance of the State Education Commission, and on the conditions that investment, funds and the demand for personnel are guaranteed, to make unified arrangements for pilot projects of joint school running in respect of institutions of higher education under the direct administration of the departments concerned of the State Council. To promote association and cooperation between institutions of higher education and the scientific research, production and other sectors.\nto administer the adult higher education under the region."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The main contents of expanding the powers of administration of institutions of higher education and strengthening their capacity to meet the needs of economic and social development are as follows:\non the premise of ensuring completion of the tasks of training personnel assigned by the State, to implement joint school running across departments and regions in accordance with the proportions prescribed by the State, and to accept entrusted students and self-financed students. To put forward proposals on plans for the sources of enrolment, to enrol students in accordance with the relevant State provisions, and to deal with and eliminate students who do not meet the standards. To implement the plans for the assignment of graduates assigned by the State, to formulate schemes for the assignment of graduates, and to recommend some graduates to employing units.\nimplementing the principle of running schools diligently and thriftily and, on the premise of observing the State financial system, in accordance with the principle of budgetary management of funds under which funds are used under a lump-sum responsibility system, with no supplement for overspending, retention of savings for use and self-balancing, to arrange and use the annual operating funds verified by the competent department.\nincome obtained from accepting entrusted students and self-financed students, running cadre training courses, correspondence courses and evening universities, and providing social technical services and consultancy shall, in accordance with the relevant State provisions, be used for the development of the undertaking, collective welfare and individual awards.\nin accordance with the overall design task statement, overall plan and long-term and annual capital construction plans approved by the competent department, and on the premise of implementing a lump-sum investment responsibility system towards the competent department, to select design and construction units on a competitive basis by itself. On the premise of ensuring investment returns, and with the approval of the competent department, to examine and approve design documents by itself and to adjust long-term and annual capital construction plans. Savings on lump-sum investment shall be retained for use, and no supplement shall be given for overspending.\nin accordance with the authority for cadre management, to nominate, on the basis of the prescribed conditions for cadres, establishment and selection procedures, a vice-president for appointment and removal by submitting the nomination for approval; to appoint and remove other administrative personnel at various levels; and to appoint and dismiss teachers and dismiss staff.\napproved institutions of higher education may, in accordance with the relevant State provisions, assess the qualifications for holding the post of associate professor, and a small number of institutions of higher education that meet the conditions may assess the qualifications for holding the post of professor; examine and determine the disciplines and specialities for the conferment of master's degrees, and supplement doctoral supervisors.\nin accordance with the educational principles and policies of the Party and the State and the length of schooling and training specifications, to adjust the orientation of the services of specialities according to social needs, formulate teaching plans (training programmes) and teaching outlines, select textbooks, and carry out reform of teaching content and methods.\non the premise of ensuring completion of the scientific research tasks assigned by the State, to decide on its own participation in bids for scientific research projects, to undertake scientific research tasks entrusted by other units, and to provide technical services and consultancy to society.\nwhere there is no need for the competent department to increase capital construction investment, operating funds or staffing, to decide on its own to establish separately, or jointly with other units, scientific research institutions or integrated bodies of teaching, scientific research and production. To accept funding from enterprises and decide the priorities for its use.\nwithin the scope of the State foreign affairs policy and the relevant provisions, to actively carry out activities of external exchange. Where the funds are raised by the institution itself (including retained foreign exchange), and the superior competent department approves acceptance of the other party's funding, or within the quota of funds and foreign exchange allocated by the competent department, to decide on personnel for academic exchange going abroad and coming to China. Approved institutions may themselves be responsible for the political examination of personnel going abroad."
+        },
+        "noLabel": {
+          "en": "Article 4."
         }
       }
     ]

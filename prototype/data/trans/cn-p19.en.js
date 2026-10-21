@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p19
-   法规 52 部 / 译文 1530 条
+   法规 53 部 / 译文 1581 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -1959,6 +1959,606 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0510'] = {
+    "lawId": "CN-REG-0510",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Water Law of the People's Republic of China for the purpose of strengthening the administration of river courses, safeguarding flood control and giving play to the comprehensive benefits of rivers and lakes."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to river courses (including lakes, artificial waterways, flood discharge areas, flood storage areas and flood detention areas) within the territory of the People's Republic of China.\nNavigable channels within river courses shall also be governed by the Regulations of the People's Republic of China on the Administration of Navigable Channels."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The development and utilisation of the water resources of rivers and lakes and the prevention and control of water damage shall be carried out on the basis of comprehensive planning, overall coordination, comprehensive utilisation and regard for efficiency, shall be subordinate to the overall arrangements for flood control and shall promote the development of all undertakings."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of water administration of the State Council shall be the authority in charge of river courses throughout the country.\nThe competent departments of water administration of the provinces, autonomous regions and municipalities directly under the Central Government shall be the authorities in charge of river courses within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State applies to river courses the principle of combining unified management by water system with management by level.\nThe main reaches of major rivers such as the Yangtze, the Yellow River, the Huai River, the Hai River, the Pearl River, the Songhua River and the Liao River, the important reaches spanning provinces, autonomous regions or municipalities directly under the Central Government, the river courses forming boundaries between provinces, autonomous regions or municipalities directly under the Central Government, and river courses forming national boundaries shall be managed by the river basin management institutions authorised by the State, or by the authorities in charge of river courses of the provinces, autonomous regions or municipalities directly under the Central Government in which the said rivers are located in accordance with the unified basin plans. Other river courses shall be managed by the authorities in charge of river courses of the provinces, autonomous regions and municipalities directly under the Central Government or of the cities and counties."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "River courses shall be graded. The standards for grading river courses shall be formulated by the competent department of water administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A system under which the chief administrative officer of the local people's government is responsible shall be applied to flood control and the removal of obstructions in river courses."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The authorities in charge of river courses of the people's governments at all levels and the river course supervisors must, in accordance with the laws and regulations of the State, strengthen the administration of river courses, implement water supply plans and flood control operation orders, and safeguard the safety of water works and of people's lives and property."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "All units and individuals shall have the obligation to protect the safety of river embankments and to participate in flood control and emergency rescue."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The improvement and construction of river courses shall be subordinate to comprehensive basin plans, conform to the flood control standards, navigation standards and other relevant technical requirements prescribed by the State, safeguard the safety of embankments and maintain the stability of the river regime and the smooth flow of floodwater and navigation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "For the construction of all types of works for the development of water resources, the prevention and control of water damage and the improvement of river courses, and of structures and facilities such as bridges, wharves, roads, ferries, pipelines and cables that cross a river, pass through a river, pass through an embankment or are located alongside a river, the project owner must, in accordance with the authority for river course administration, submit the project construction plan to the authority in charge of river courses for examination and consent. Without the examination and consent of the authority in charge of river courses, the project owner may not commence construction.\nAfter a construction project is approved, the project owner shall notify the authority in charge of river courses of the construction arrangements."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The construction of bridges, wharves and other facilities must be carried out in accordance with the river width determined by the flood control standards prescribed by the State, and the flood discharge channel may not be narrowed.\nThe underside of the girders of bridges and trestle bridges must be higher than the design flood level, with a certain amount of freeboard retained in accordance with the requirements of flood control and navigation. The design flood level shall be determined by the authority in charge of river courses on the basis of the flood control plan.\nThe clearance height of pipelines and lines crossing a river course must meet the requirements of flood control and navigation."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where the department of transport improves navigable channels, it shall meet the requirements of flood control safety and shall seek in advance the opinions of the authority in charge of river courses on the relevant designs and plans.\nWhere the department of water administration improves river courses and navigable channels are involved, it shall take the needs of navigation into account and shall seek in advance the opinions of the department of transport on the relevant designs and plans.\nWhere river courses and navigable channels are improved in rivers in which the floating of bamboo and timber is permitted as prescribed by the State and in important fishery waters, the project owner shall take into account the needs of the water transport of bamboo and timber and of the development of fisheries, and shall in advance send the relevant designs and plans to the competent departments of forestry and fisheries at the same level for their opinions."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The authority in charge of river courses shall periodically inspect the culvert gates, pumping stations and embedded pipelines, cables and other structures and facilities that have been built on embankments and shall order the reconstruction within a specified time limit of those that do not meet the safety requirements for the works.\nThe construction of new structures and facilities referred to in the preceding paragraph on embankments shall be subject to the safety management of the authority in charge of river courses."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where it is truly necessary to use the crest of an embankment or a berm as a road as well, the approval of the authority in charge of river courses of the local people's government at or above the county level shall be obtained. The measures for the administration and maintenance of the embankment body and the road on its crest shall be formulated by the authority in charge of river courses in consultation with the department of transport."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Urban construction and development may not occupy the beach land of river courses. The riverside boundary in urban planning shall be determined by the authority in charge of river courses together with the departments concerned such as the department of urban planning. Towns along rivers shall, when preparing and examining urban plans, seek in advance the opinions of the authority in charge of river courses."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The use and development of the shoreline of a river course shall be subordinate to the river course improvement plan and the navigable channel improvement plan. The planning department shall, when examining and approving a construction project using the shoreline of a river course, seek in advance the opinions of the authority in charge of river courses.\nThe boundaries of the shoreline of a river course shall be demarcated by the authority in charge of river courses together with the departments concerned such as the department of transport, and reported to the local people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Land required for the dredging of river courses, for the borrowing of earth for strengthening embankments and for the improvement of river courses in accordance with the flood control plan shall be allocated and resolved by the local people's government.\nLand that becomes usable as a result of the construction of reservoirs and the improvement of river courses shall be owned by the State and may be used by the people's government at or above the county level for the resettlement of relocated persons and for river course improvement works."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a province, autonomous region or municipality directly under the Central Government has a river course as its boundary, no party may unilaterally construct water drainage, water blocking, water diversion or water storage works or river course improvement works within 10 kilometres outside either bank of the river course, or in a river course spanning provinces, autonomous regions or municipalities directly under the Central Government, without an agreement reached by all the parties concerned or the approval of the competent department of water administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II River Course Improvement and Construction"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "For a river course with embankments, the scope of administration shall be the waters, sandbars, beach land (including arable land) and flood discharge areas between the embankments on both banks, together with the embankments on both banks and the land protecting them.\nFor a river course without embankments, the scope of administration shall be determined on the basis of the highest historical flood level or the design flood level.\nThe specific scope of administration of river courses shall be demarcated by the local people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Within the scope of river course administration, the use of waters and land shall meet the requirements of floodwater flow, water conveyance and navigation of the river, and the use of beach land shall be carried out on the basis of a plan formulated by the authority in charge of river courses together with the departments concerned such as the department of land administration and approved by the local people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "It is prohibited to damage or destroy water works structures such as embankments, revetments, sluices and dams, and flood control facilities, hydrological monitoring and surveying facilities, river bank geological monitoring facilities, and communications and lighting facilities.\nDuring flood control and emergency rescue, persons and vehicles not involved in the work may not go onto the embankments.\nWhen the crest of an embankment is muddy as a result of rain or snow, vehicles are prohibited from passing, except flood control and emergency rescue vehicles."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "It is prohibited for persons other than the management personnel to operate the sluice gates on river courses, and it is prohibited for any organisation or individual to interfere with the normal work of the river course management unit."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Within the scope of river course administration, it is prohibited to build enclosing dikes, water-blocking channels or water-blocking roads; to plant tall-stem crops, reeds, purple willows, silvergrass or trees (other than embankment protection forests); to install fishing gear across a river; or to dump slag, stone debris, coal ash, earth, rubbish and the like.\nOn embankments and on the land protecting them, it is prohibited to build houses, graze livestock, cut channels, sink wells, dig cellars, bury the dead, dry grain, store materials, extract underground resources, carry out archaeological excavations or engage in fair trade activities."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The following activities within the scope of river course administration must be reported to the authority in charge of river courses for approval; where other departments are involved, the authority in charge of river courses shall grant approval together with the departments concerned:\n(1) extracting sand, borrowing earth, panning for gold, or dumping sand and gravel or silt;\n(2) blasting, drilling, or digging and building fish ponds;\n(3) storing materials, building factory buildings or other structures and facilities on the beach land of a river course;\n(4) extracting underground resources or carrying out archaeological excavations on the beach land of a river course."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "On the basis of the importance of an embankment, the soil conditions of its foundation and other factors, the authority in charge of river courses may, with the approval of the people's government at or above the county level, designate an embankment safety protection zone in the area adjoining the scope of river course administration. Within an embankment safety protection zone, activities that endanger the safety of the embankment, such as sinking wells, drilling, blasting, digging and building fish ponds, quarrying stone and borrowing earth, are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "It is prohibited to enclose lakes to reclaim land. Land already reclaimed by enclosure shall be improved in accordance with the flood control standards prescribed by the State, and the land shall gradually be returned to the lake. Plans for the development and utilisation of lakes must be examined and consented to by the authority in charge of river courses.\nIt is prohibited to enclose rivers to reclaim land; where enclosure is truly necessary, it must be supported by scientific demonstration and approved by the people's government at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Soil and water conservation on the beach land of river courses, on embankments and on river banks shall be strengthened so as to prevent soil erosion and the silting up of river courses."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Old courses of rivers, old embankments, existing engineering facilities and the like may not be filled in, occupied or demolished without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Trees and forests for the protection of embankments and banks shall be planted and managed by the river course management unit, and no other unit or individual may encroach upon, fell or destroy them.\nTending and regeneration felling of trees and forests for the protection of embankments and banks carried out by the river course management unit, and felling for flood control and emergency rescue, shall be exempt from the payment of forest cultivation funds in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "In reaches where speed limits are necessary to ensure the safety of embankments and banks, the authority in charge of river courses shall, together with the department of transport, erect signs limiting vessel speed, and vessels passing through may not travel at excessive speed.\nDuring the flood season, the movement and berthing of vessels must comply with the provisions of the flood control headquarters."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In reaches of mountain river courses where natural disasters such as landslides, bank collapses and mud-rock flows occur, the authority in charge of river courses shall, together with the departments of geology, transport and the like, strengthen monitoring. In the said reaches, activities that endanger the stability of the mountain body, such as quarrying on hillsides, mining and land reclamation, are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The floating of bamboo and timber in a river course may not affect floodwater flow, navigation or the safety of water works, and shall be subject to the safety management of the local authority in charge of river courses.\nDuring the flood season, the authority in charge of river courses shall have the power to take emergency measures in respect of bamboo, timber and other floating objects in the river course."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Before a pollutant discharging unit applies to the department of environmental protection for the establishment or enlargement of a discharge outlet through which pollutants are discharged into a river course or lake, it shall obtain the consent of the authority in charge of river courses."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Within the scope of river course administration, it is prohibited to pile up, dump, bury or discharge objects that pollute water bodies. It is prohibited to wash, in a river course, vehicles or containers that have held oil or toxic pollutants.\nThe authority in charge of river courses shall carry out monitoring of river water quality and shall, in coordination with the department of environmental protection, conduct supervision and administration of the prevention and control of water pollution."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III River Course Protection"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "In respect of obstructions to floodwater within the scope of river course administration, the principle of \"whoever creates the obstruction removes it\" shall be applied; the authority in charge of river courses shall propose an obstruction removal plan and an implementation scheme, and the flood control headquarters shall order the person who created the obstruction to remove it within a prescribed time limit. Where the obstruction is not removed within the time limit, the flood control headquarters shall organise its forcible removal, and the person who created the obstruction shall bear all the costs of removal."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Removal of Obstructions in River Courses"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "In respect of bridges, approach roads, wharves and other river-crossing engineering facilities that seriously obstruct or block water, the authority in charge of river courses shall, in accordance with the flood control standards prescribed by the State, put forward its opinions and, after approval by the people's government, require the original project owner to reconstruct or demolish them within a prescribed time limit. Where flood control safety is affected during the flood season, the emergency decisions of the flood control headquarters must be complied with."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Removal of Obstructions in River Courses"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The annual repair costs for flood control of river embankments shall, in accordance with the principle of management by level, be borne by the central finance and the local finances respectively and shall be included in the annual financial budgets of the central and local governments."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Funds"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In respect of embankments, revetments, sluices, polder areas, sea walls and drainage works with a clearly defined scope of beneficiaries, the authority in charge of river courses may collect river course construction, maintenance and administration fees from the beneficiary industrial and commercial enterprises and other units and from farming households, and the standards shall be determined on the basis of the costs of constructing, maintaining and administering the works. The specific standards and methods of collection shall be formulated by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Funds"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The extraction of sand, the borrowing of earth and the panning of gold within the scope of river course administration must be carried out in accordance with the approved scope and method of operation, and an administration fee shall be paid to the authority in charge of river courses. The standards and methods of collection shall be formulated by the competent department of water administration of the State Council together with the competent department of finance of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Funds"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Any unit or individual that damages embankments, revetments or other water works facilities or causes the silting up of a river course shall be responsible for repairing the damage, clearing the silt or bearing the costs of maintenance."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Funds"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The various fees collected by the authority in charge of river courses shall be used for the construction, administration and maintenance of river embankment works and for the renewal and improvement of facilities. Surplus funds may be carried forward for use in successive years, and no department may withhold or misappropriate them."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Funds"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "In the towns and villages on both banks of a river course, the local people's government at or above the county level may, during the flood season, organise the units and individuals within the embankment protection area to provide voluntary labour for the maintenance and strengthening of river embankment works."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Funds"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where any of the following acts is committed in violation of the provisions of these Regulations, the authority in charge of river courses of the local people's government at or above the county level shall, in addition to ordering the correction of the illegal act and the adoption of remedial measures, concurrently impose a warning, a fine or confiscation of the illegal gains; the persons responsible shall be given administrative sanctions by the unit to which they belong or by the superior competent authority; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) dumping or piling up objects that obstruct floodwater within the scope of river course administration; planting trees or tall-stem plants that obstruct floodwater; or building enclosing dikes, water-blocking channels or water-blocking roads;\n(2) building houses, grazing livestock, cutting channels, sinking wells, digging cellars, burying the dead, drying grain, storing materials, extracting underground resources, carrying out archaeological excavations or engaging in fair trade activities on embankments or on the land protecting them;\n(3) improving a river course or constructing water works structures and other facilities without approval or not in accordance with the flood control standards and engineering safety standards prescribed by the State;\n(4) extracting sand, borrowing earth, panning for gold, dumping sand and gravel or silt, blasting, drilling, or digging and building fish ponds within the scope of river course administration without approval or not in accordance with the provisions of the authority in charge of river courses;\n(5) storing materials, building factory buildings or other structures and facilities on the beach land of a river course, or extracting underground resources or carrying out archaeological excavations there, without approval;\n(6) enclosing lakes or rivers to reclaim land in violation of the provisions of Article 27 of these Regulations;\n(7) felling trees and forests for the protection of embankments and banks without authorisation;\n(8) violating the provisions or orders of the flood control headquarters during the flood season."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where any of the following acts is committed in violation of the provisions of these Regulations, the authority in charge of river courses of the local people's government at or above the county level shall, in addition to ordering the correction of the illegal act, compensation for losses and the adoption of remedial measures, concurrently impose a warning or a fine; where a public security administration penalty should be imposed, the penalty shall be imposed in accordance with the provisions of the Public Security Administration Punishments Law of the People's Republic of China; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) damaging or destroying embankments, revetments, sluices and dams or water works structures, or damaging or destroying flood control facilities, hydrological monitoring and surveying facilities, river bank geological monitoring facilities, or communications and lighting facilities;\n(2) carrying out activities that endanger the safety of an embankment, such as sinking wells, drilling, blasting, digging and building fish ponds, quarrying stone and borrowing earth, within an embankment safety protection zone;\n(3) operating the sluice gates on a river course when not a member of the management personnel, or interfering with the normal work of the river course management unit."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a party is dissatisfied with a decision on an administrative penalty, it may, within 15 days from the date of receipt of the notice of penalty, apply for reconsideration to the authority immediately superior to the authority that made the decision, and where it is dissatisfied with the decision on reconsideration, it may, within 15 days from the date of receipt of the decision on reconsideration, bring a suit before a people's court. The party may also, within 15 days from the date of receipt of the notice of penalty, bring a suit directly before a people's court. Where the party neither applies for reconsideration nor brings a suit before a people's court within the time limit and fails to comply with the decision on penalty, the authority that made the decision shall apply to a people's court for compulsory enforcement. Dissatisfaction with a public security administration penalty shall be dealt with in accordance with the provisions of the Public Security Administration Punishments Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations causes economic losses to the State, a collective or an individual, the injured party may request the authority in charge of river courses at or above the county level to deal with the matter. The injured party may also bring a suit directly before a people's court.\nWhere a party is dissatisfied with the decision of the authority in charge of river courses, it may, within 15 days from the date of receipt of the notice, bring a suit before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a staff member of the authority in charge of river courses or a river course supervisor neglects his or her duties, abuses his or her power or commits irregularities for personal gain, administrative sanctions shall be imposed by the unit to which he or she belongs or by the superior competent authority; where major losses are caused to public property or to the interests of the State and the people, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The people's governments of the provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the provisions of these Regulations and in light of the actual conditions of their respective regions, formulate measures for implementation."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "These Regulations shall be interpreted by the competent department of water administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

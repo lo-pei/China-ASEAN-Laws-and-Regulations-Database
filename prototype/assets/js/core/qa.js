@@ -545,11 +545,17 @@ var NON_LEGAL = [
     }
 
     var first = pass(true);
-    /* 选「值得加载分卷」的候选：库内尚无条文的法规，按得分从前到后取 */
+    /* 选「值得加载分卷」的候选。
+       判据不能是「有没有条文」——很多法规在 catalog 层只有平台整理的少量条文
+       （例如《数据安全法》在 cn 分卷里只有 4 条草稿，官方全文 55 条在 fulltext 分卷里），
+       若因「已有条文」就跳过加载，AI 永远只能看到这几条，检索不到真正内容，
+       中国法规在「数据法」这类问题上就会被整个排除在引用之外。
+       改为：只有 coverage === 'full'（即已在官方全文层）才跳过。 */
     var need = [];
     for (var i = 0; i < first.top.length && need.length < budget; i++) {
       var law = first.top[i].law;
-      if ((law.articles || []).length) continue;
+      var cv = String(law.coverage || '');
+      if (cv === 'full' && (law.articles || []).length) continue;
       if (CALR.fulltext && CALR.fulltext.packFor && CALR.fulltext.packFor(law.id)) need.push(law.id);
     }
     if (!need.length || !CALR.fulltext || !CALR.fulltext.ensureLaws) {

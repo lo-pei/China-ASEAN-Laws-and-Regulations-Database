@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p18
-   法规 57 部 / 译文 1526 条
+   法规 60 部 / 译文 1602 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -4751,6 +4751,621 @@
     ]
   };
 
+  TR['CN-REG-0445'] = {
+    "lawId": "CN-REG-0445",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the relevant provisions of the Military Service Law of the People's Republic of China for the purpose of improving the system of military service by soldiers, raising the quality of the ranks of soldiers and strengthening the revolutionary, modern and standardised development of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Soldiers in active service are conscripts and non-commissioned officers who, in accordance with the provisions of the law, have been approved by the military service organs to serve in active service and who, in accordance with the provisions of these Regulations, have been conferred the corresponding military ranks."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Soldiers must firmly establish the core values of contemporary revolutionary service personnel, be loyal to the Communist Party of China, be loyal to the motherland, love socialism and serve the people wholeheartedly; be loyal to their duties, assiduously study military technology, skilfully master weapons and equipment and possess the solid skills needed to carry out diversified military tasks; strictly observe the laws and regulations of the State and the orders and regulations of the armed forces, respect their superiors, obey orders and follow commands; and be ready at all times to fight, resist aggression and defend the motherland."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The General Staff Department of the Chinese People's Liberation Army (hereinafter referred to as the General Staff Department) shall be in charge of the work concerning military personnel throughout the armed forces, and the headquarters of the various levels shall be in charge of the work concerning military personnel of their respective units.\nThe relevant departments of the State Council and the local people's governments at all levels shall, in accordance with these Regulations and the provisions of the relevant laws and regulations, assist the armed forces in the work concerning military personnel."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Citizens who perform military service obligations in the Chinese People's Liberation Army in accordance with the provisions of the law must be approved by the military service organs at the county level.\nThe period of active service of a soldier shall be calculated from the date on which the military service organ approves active service to the date on which the unit issues the order for retirement from active service."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The term of active service of a conscript shall be 2 years."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Non-commissioned officers shall be selected from conscripts whose term of active service has expired, or appointed from among non-commissioned officer cadets who have graduated from military academies, or may be recruited directly from among citizens with specialised skills in non-military departments. Non-commissioned officers must meet the following basic conditions:\n(1) being willing to devote themselves to the cause of national defence;\n(2) being competent for their own work;\n(3) having an educational level of junior secondary school graduation or above;\n(4) being in good health and of good conduct."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A system of active service by grade shall be applied to non-commissioned officers. The terms of active service by grade for non-commissioned officers shall be: a maximum of 6 years for junior non-commissioned officers, a maximum of 8 years for intermediate non-commissioned officers, and 14 years or more for senior non-commissioned officers. The period of active service of junior and intermediate non-commissioned officers within the maximum term of active service for their grade shall be determined in accordance with the provisions on post establishment.\nThe authority to approve active service by grade for non-commissioned officers shall be: junior non-commissioned officers shall be approved by a unit at the regiment (brigade) level; intermediate non-commissioned officers shall be approved by a unit at the division (brigade) level; senior non-commissioned officers shall be approved by a unit at the corps level and, before approval, shall be reported level by level to the competent department for military personnel work of the General Staff Department for examination.\nEach unit shall report the approved non-commissioned officers level by level to the competent department for military personnel work of the General Staff Department for registration."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A non-commissioned officer who serves in a post of administrative or professional and technical leadership or management in a subunit other than that of deputy squad leader or squad leader must have been trained at a military academy.\nA non-commissioned officer who serves in a professional and technical post shall undergo the corresponding professional and technical training and reach the prescribed standard of skill grade.\nNon-commissioned officers recruited directly from among citizens with specialised skills in non-military departments shall undergo enlistment training and training for the post to which they are appointed."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The appointment and removal of soldiers serving as deputy squad leader, squad leader or a post equivalent to squad leader shall be made by the principal officer of a unit at the battalion level.\nIn battle, where casualties affect operational command, the principal officer of a unit at the company level may appoint deputy squad leaders, squad leaders or persons to posts equivalent to squad leader, but shall immediately report the matter for the record during lulls in the fighting.\nThe appointment and removal of non-commissioned officers serving in posts of administrative or professional and technical leadership or management in a subunit other than that of deputy squad leader or squad leader shall be made by the principal officer of a unit at the regiment (brigade) level."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The allocation and use of soldiers shall be carried out strictly in accordance with the provisions on establishment."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The transfer of a soldier within a unit at the corps, division (brigade) or regiment level shall be approved by the headquarters immediately superior to both the receiving and the releasing unit; the transfer across corps-level units within a military area command-level unit shall be approved by the competent department for military personnel work of the headquarters of the military area command-level unit; and the transfer across military area command-level units shall be approved by the competent department for military personnel work of the General Staff Department."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Newly enlisted soldiers must undergo enlistment training; soldiers in professional and technical specialities must undergo professional and technical training of not less than 3 months; and squad leaders must undergo concentrated training of not less than 3 months."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Units shall conduct a comprehensive assessment of soldiers every year, and the assessment results shall serve as the basis for the use, promotion, reward and punishment of soldiers and for the selection of non-commissioned officers."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Active Service of Soldiers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Military ranks of soldiers shall be classified according to the nature of military service as follows:\n(1) non-commissioned officers: first class master sergeant, second class master sergeant, third class master sergeant, fourth class master sergeant, staff sergeant, sergeant and corporal;\n(2) conscripts: private first class and private."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Military ranks of soldiers shall be classified according to rank grade as follows:\n(1) senior non-commissioned officers: first class master sergeant, second class master sergeant and third class master sergeant;\n(2) intermediate non-commissioned officers: fourth class master sergeant and staff sergeant;\n(3) junior non-commissioned officers: sergeant and corporal;\n(4) soldiers: private first class and private.\nAmong the military ranks of soldiers, private is the lowest rank and first class master sergeant is the highest rank."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The military ranks of soldiers of the navy and the air force shall be preceded by the words \"Navy\" and \"Air Force\" respectively."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The conferment and promotion of military ranks of soldiers shall be based on the post held by the person concerned, the length of active service and the person's moral integrity and ability."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The conferment and promotion of military ranks of soldiers shall be as follows:\n(1) soldiers: a conscript in the first year of active service shall be conferred the rank of private; a private in the second year of active service shall be promoted to private first class.\n(2) junior non-commissioned officers: a private first class selected as a junior non-commissioned officer upon expiry of the term of active service shall be promoted to corporal; a corporal who continues in active service upon expiry of 3 years shall be promoted to sergeant.\n(3) intermediate non-commissioned officers: a sergeant selected as an intermediate non-commissioned officer upon expiry of 3 years of active service shall be promoted to staff sergeant; a staff sergeant who continues in active service upon expiry of 4 years shall be promoted to fourth class master sergeant.\n(4) senior non-commissioned officers: a fourth class master sergeant selected as a senior non-commissioned officer upon expiry of 4 years of active service shall be promoted to third class master sergeant; a third class master sergeant who continues in active service upon expiry of 4 years shall be promoted to second class master sergeant; a second class master sergeant who continues in active service upon expiry of 4 years shall be promoted to first class master sergeant.\nFor non-commissioned officers recruited directly from among citizens with specialised skills in non-military departments, the rank grade conferred for the first time shall be determined on the basis of the time spent studying in an ordinary institution of higher education and the time spent working in the speciality concerned.\nThe promotion of the military ranks of non-commissioned officer cadets of military academies upon graduation shall be determined by reference to the rank grade of non-commissioned officers enlisted in the same year."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The military ranks of soldiers shall be promoted in accordance with the prescribed length of active service; where a private in the first year of active service is appointed to the post of squad leader, he shall be promoted to the rank of private first class."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The authority to approve the conferment and promotion of military ranks of soldiers shall be:\n(1) first class master sergeant and second class master sergeant shall be approved by the headquarters of a military area command-level unit; third class master sergeant shall be approved by the principal officer of a corps-level unit; fourth class master sergeant and staff sergeant shall be approved by the principal officer of a division (brigade) level unit; sergeant and corporal shall be approved by the principal officer of a regiment (brigade) level unit.\n(2) the military ranks of soldiers shall be approved by the principal officer of a company-level unit; where a private in the first year of active service serving as squad leader is promoted to the rank of private first class, the promotion shall be approved by the principal officer of a battalion-level unit."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The conferment and promotion of the military ranks of soldiers shall be announced before the unit by the principal officer of the company-level unit; the conferment and promotion of the military ranks of non-commissioned officers shall be issued by order of the principal officer of the approving unit."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The promotion of the military ranks of soldiers during their study at academies and training institutions shall be handled by the unit to which they belong.\nThe promotion of the military ranks of soldiers during hospitalisation for treatment shall be handled by their original unit. Where a soldier is hospitalised or on sick leave as a result of illness or of an injury or disability not incurred in the line of duty for a continuous period of more than half a year, the promotion of his or her military rank shall be deferred, and the period of deferment shall be not less than half a year; where the soldier meets the conditions for continued active service upon completion of medical treatment, the promotion shall be made on schedule."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a soldier is under investigation in accordance with the law on suspicion of a violation of law or discipline, his or her military rank shall not be promoted for the time being; where the investigation shows no violation of law or discipline, the promotion shall be made on schedule."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "As between a soldier of higher military rank and a soldier of lower military rank, the one of higher rank shall be the superior. Where a soldier of higher military rank is subordinate in post to a soldier of lower military rank, the one holding the higher post shall be the superior."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Soldiers must wear the insignia of military rank corresponding to their military rank in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The measures for the conferment and promotion of the military ranks of soldiers shall be prescribed by the General Staff Department."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Military Ranks of Soldiers"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Soldiers who perform outstandingly and achieve notable results in operations, training, guard duty and work, and who make other relatively great contributions to the State and the people, shall be rewarded. The items, conditions, authority for approval and procedures for implementation of rewards shall be governed by the provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Rewards and Punishments of Soldiers"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Soldiers who violate discipline, or who intentionally or negligently cause losses to the State, the armed forces and the people, or who produce an adverse effect among the masses, shall be given disciplinary sanctions. The items, conditions, authority for approval and procedures for implementation of disciplinary sanctions shall be governed by the provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Rewards and Punishments of Soldiers"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a soldier is subjected to the disciplinary sanction of expulsion from the ranks during active service, the approving authority shall issue a certificate and send a designated person to return the soldier's file materials to the military service organ at the county level in the place where the soldier was originally recruited; where a soldier is subjected to the disciplinary sanction of dishonourable discharge from military service, the approving authority shall issue a certificate and send a designated person to escort the soldier back, and the local people's government shall accept the soldier."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Rewards and Punishments of Soldiers"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Conscripts shall enjoy the living treatment under the supply system and shall be paid allowances in accordance with their military rank and length of active service.\nA wage system and a system of regular wage increases shall be applied to non-commissioned officers; their basic wage shall consist of the wage for their rank grade and the wage for their length of military service, and they shall enjoy allowances and subsidies in accordance with the relevant provisions of the State and the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Soldiers shall enjoy the insurance benefits prescribed by the State and the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Soldiers serving as deputy squad leader, squad leader or a post equivalent to squad leader, or in posts of administrative or professional and technical leadership or management in a subunit, shall be paid a post allowance in accordance with the provisions.\nDuring the period in which a soldier acts as an officer, he shall be paid a post allowance corresponding to the post he acts in, in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Soldiers shall enjoy free medical care during active service. The relevant departments shall make proper arrangements in accordance with the provisions for the convalescence of soldiers in special posts."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a soldier's family has difficulties in daily life, appropriate subsidies may be granted."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The joining of the armed forces by the family members of a non-commissioned officer, their employment, the transfer of their work, and the education of the children of non-commissioned officers shall enjoy preferential treatment from the State and society.\nFor senior non-commissioned officers and other non-commissioned officers meeting the conditions prescribed by the State, with the approval of the political organ of a unit at or above the division (brigade) level, their spouses and their minor children or children incapable of living independently may join them in the armed forces, and those with rural household registration shall be converted to urban household registration, and the local people's government shall grant them household registration. Where a unit is relocated or a non-commissioned officer is transferred to another post, the family members who have joined the armed forces may be transferred together."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the family members of a non-commissioned officer meet the conditions for joining the armed forces but have not done so, the armed forces shall pay a separation allowance and a medical subsidy."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a non-commissioned officer dies a heroic death or dies of illness, the family members who have joined the armed forces shall be transferred to the people's government for placement and administration in accordance with the provisions of the State Council and the Central Military Commission on the transfer to the people's government for placement and administration of the family members who have joined the armed forces of officers who die a heroic death or die of illness."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Non-commissioned officers shall enjoy housing subsidies, housing provident funds and rent subsidies in accordance with the relevant provisions of the State and the armed forces. For non-commissioned officers whose family members have joined the armed forces, a housing policy combining apartment housing with privately owned housing shall be applied, and the specific measures shall be prescribed by the relevant general departments of the armed forces.\nWhere the spouse of a non-commissioned officer who has not joined the armed forces comes to the unit to visit, the unit at or above the regiment level shall provide temporary accommodation for the visit in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Non-commissioned officers shall enjoy home leave and vacation in accordance with the following provisions:\n(1) an unmarried non-commissioned officer whose parents do not live in the same place shall enjoy two periods of leave to visit his or her parents during the term of service as a corporal, each period being 20 days; a non-commissioned officer of the rank of sergeant or above shall enjoy one period of leave to visit his or her parents each year, the period being 30 days. A married non-commissioned officer whose parents do not live in the same place shall enjoy one period of leave to visit his or her parents every two years, the period being 20 days.\n(2) a married non-commissioned officer whose spouse does not live in the same place shall enjoy one period of leave to visit his or her spouse each year, the period being 40 days.\n(3) where the spouse and parents of a married non-commissioned officer do not live in the same place as the non-commissioned officer, but the spouse lives in the same place as the parents or one of the parents, only the leave to visit the spouse shall be enjoyed; where the spouse and parents all live in places different from that of the non-commissioned officer and the conditions for leave to visit the spouse and leave to visit the parents are met in the same year, only one period of home leave shall be enjoyed, the period being 45 days.\n(4) a senior non-commissioned officer who does not enjoy leave to visit his or her parents or spouse shall enjoy one period of vacation each year, the period being 20 days where the length of active service is less than 20 years and 30 days where it is 20 years or more.\nThe home leave of non-commissioned officers shall not include travelling time, and the travelling expenses for the round trip shall be reimbursed in accordance with the prescribed standards.\nFor non-commissioned officers working on the high plateau, at the border and coastal defence or in special posts, the leave may be appropriately increased, and the specific measures shall be prescribed by the General Staff Department."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Non-commissioned officers of units carrying out operational tasks shall suspend home leave and vacation. Where the State issues a mobilisation order or the unit needs to recall them for urgent combat readiness, non-commissioned officers who are on home leave or vacation shall immediately end their leave or vacation and return to their unit."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Treatment of Soldiers"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A soldier shall retire from active service where he meets any of the following conditions:\n(1) a conscript whose term of active service has expired and who has not been selected as a non-commissioned officer;\n(2) a non-commissioned officer who has completed the maximum term prescribed for his or her grade without being selected as a non-commissioned officer of the next higher grade, and who cannot continue in active service within his or her term of active service for that grade owing to the limitations of post establishment;\n(3) a soldier who has completed 30 years of active service and needs to retire from active service, or who has reached the age of 55;\n(4) a soldier who, after being assessed for a grade of disability as a result of war, the line of duty or illness, is unable to persist in normal work;\n(5) a soldier who, upon expiry of the period of medical treatment for illness or upon completion of medical treatment, is certified by a military hospital and confirmed upon examination by the health department of a unit at or above the corps level as unsuitable for continued active service;\n(6) a soldier who needs to retire from active service owing to an adjustment in the establishment of the armed forces;\n(7) a soldier who needs to retire from active service for the needs of national construction;\n(8) a soldier whose family member suffers a serious illness, a major disaster or other change and whose presence is truly needed to maintain the normal life of the family, and who retires from active service with certification by the competent department for the placement of retired soldiers of the people's government at the county level in the place where the soldier's family is located and with the approval of the headquarters of a unit at or above the division (brigade) level;\n(9) a soldier who is unsuitable for continued active service for other reasons and who retires from active service with the approval of the headquarters of a unit at or above the division (brigade) level."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Retirement of Soldiers from Active Service"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A conscript whose term of active service has not expired may retire from active service ahead of time with the approval of the headquarters of a unit at or above the division (brigade) level where he meets the provisions of Article 20 of the Military Service Law of the People's Republic of China and other relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Retirement of Soldiers from Active Service"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "In wartime, where a soldier is certified by a hospital as unsuitable for continued active service after being hospitalised for treatment of injury or illness, he shall no longer be referred back to his original unit, and the formalities for retirement from active service shall be completed by the military hospital or by a unit at or above the regiment level in the rear."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Retirement of Soldiers from Active Service"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "When a soldier retires from active service, a retirement allowance shall be paid in accordance with the provisions; where the soldier suffers from a chronic illness, a medical subsidy shall be paid in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Retirement of Soldiers from Active Service"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a soldier violates the law or discipline on the way home after retiring from active service, the military organs along the route shall assist the local departments concerned in dissuading and stopping the soldier; where a crime is constituted, the local judicial organs shall deal with the matter in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Retirement of Soldiers from Active Service"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "A demobilised conscript or a demobilised non-commissioned officer shall report to the competent department for the placement of retired soldiers in the place of placement within 30 days from the date on which the unit issues the order for retirement from active service; where the soldier has been assessed for a grade of disability, he shall apply to the competent department of the people's government at the county level in the place of placement within 60 days for the transfer and continuation of the pension relationship."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Retirement of Soldiers from Active Service"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Soldiers who retire from active service shall be properly placed in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Retirement of Soldiers from Active Service"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a soldier who retires from active service is to serve in the reserve in accordance with the relevant provisions of the Military Service Law of the People's Republic of China, his or her reserve military rank shall be determined by the unit."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Retirement of Soldiers from Active Service"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "These Regulations shall apply to the Chinese People's Armed Police Force."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "These Regulations shall come into force on 1 August 2010."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0446'] = {
     "lawId": "CN-REG-0446",
     "sourceLang": "zh",
@@ -4851,6 +5466,138 @@
         },
         "noLabel": {
           "en": "Article 10."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0447'] = {
+    "lawId": "CN-REG-0447",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 13 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The police officer ranks of the Chinese People's Armed Police Force are the titles and insignia that distinguish the grades of police officers, indicate their status, and constitute the honour conferred on police officers by the State."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The establishment of the grades of police officer ranks for police officers in active service in the Chinese People's Armed Police Force shall be governed by reference to the provisions of Article 7 of Chapter II of the Regulations on the Military Ranks of Officers of the Chinese People's Liberation Army.\nPolice officers shall have the words \"Armed Police\" prefixed to their ranks. Police officers of specialised technical work shall have the words \"Armed Police Specialised Technical\" prefixed to their ranks."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Police officers in active service in the Chinese People's Armed Police Force shall have their ranks established according to the grades of their posts:\nCommander and Political Commissar of the Armed Police Force: Lieutenant General to Major General;\nDeputy Commander and Deputy Political Commissar of the Armed Police Force: Lieutenant General to Senior Colonel;\nthe establishment of ranks according to the grades of posts of police officers at or below the level of principal military post shall be governed by the provisions of Article 11 of Chapter III of the Regulations on the Military Ranks of Officers of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Police officers in active service in the following units who fall within the scope of officers in active service to be assessed and conferred military ranks as prescribed by the Central Military Commission shall be assessed and conferred police officer ranks:\nthe headquarters, corps and academies of the Chinese People's Armed Police Force;\nthe Armed Police Border Defence Force, Fire Fighting Force and Guard Force;\nthe Armed Police Water and Electricity Command, Gold Command and Communications Command and the troops under them, and the Armed Forest Police Corps."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The basic principles and standards for assessing and conferring police officer ranks on police officers in active service shall be implemented in accordance with the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Authority to approve the first conferment of police officer ranks on police officers in active service:\nLieutenant General, Major General, Senior Colonel and Colonel shall be approved and conferred by the Premier of the State Council and the Chairman of the Central Military Commission;\nLieutenant Colonel and Major shall be approved and conferred by the Minister of Public Security, the First Political Commissar of the Chinese People's Armed Police Force, and the Commander and Political Commissar;\nCaptain, First Lieutenant and Second Lieutenant shall be approved and conferred by the director of the public security department (bureau) of the province, autonomous region or municipality directly under the Central Government, the First Political Commissar of the corps of the Chinese People's Armed Police Force, and the corps commander and political commissar, or by the principal officer of an army or division-level unit otherwise having the power to appoint and remove police officers."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Authority to approve the promotion of police officer ranks in active service:\npromotion of the ranks of the Commander, Political Commissar, Deputy Commander and Deputy Political Commissar of the Armed Police Force and of police officers at the principal military post level shall be approved by the Premier of the State Council and the Chairman of the Central Military Commission;\npromotion of the ranks of police officers at or below the level of deputy military post shall be approved in accordance with the authority to appoint and remove police officers in active service. However, promotion of the ranks of the following police officers shall be approved in accordance with the following provisions:\nwhere a police officer at the deputy military post level or the principal division level or a police officer holding a senior specialised technical post is promoted to Major General, it shall be approved by the Premier of the State Council and the Chairman of the Central Military Commission;\nwhere a police officer at the deputy division level or a police officer holding a senior specialised technical post is promoted to Senior Colonel, it shall be approved by the Minister of Public Security;\nwhere a police officer at the principal regiment level or a police officer holding an intermediate specialised technical post is promoted to Colonel, it shall be approved by the First Political Commissar, the Commander and the Political Commissar of the Chinese People's Armed Police Force;\nwhere a police officer at the principal battalion level is promoted to Lieutenant Colonel, or a police officer at the deputy battalion level or a police officer holding a junior specialised technical post is promoted to Major, it shall be approved by the director of the public security department (bureau) of the province, autonomous region or municipality directly under the Central Government, the First Political Commissar of the corps of the Chinese People's Armed Police Force, and the corps commander and political commissar, or by the principal officer of an army or division-level unit otherwise having the power to appoint and remove police officers."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The reduction, cancellation and deprivation of police officer ranks in active service shall be governed by the provisions of Chapter VI of the Regulations on the Military Ranks of Officers of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The ceremony for conferring ranks on police officers in active service shall be held at the same time as the order conferring the rank is announced. The ceremony for conferring the ranks of general officers shall be organised and conducted by the headquarters of the Armed Police Force, and leading comrades of the State Council and the Central Military Commission, or the relevant comrades entrusted by the State Council and the Central Military Commission, shall attend to confer the ranks. The ceremony for conferring the ranks of field officers and junior officers shall be organised and conducted by the organs of the headquarters of the Armed Police Force, the corps, the detachments, the academies and other army or division-level units in light of the specific circumstances."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The patterns of the shoulder boards and insignia for police officer ranks of the Chinese People's Armed Police Force and the measures for wearing them shall be promulgated by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Matters not provided for in the above articles shall be governed by the relevant provisions of the Regulations on the Military Ranks of Officers of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "While implementing the police officer rank system, the Chinese People's Armed Police Force shall, in accordance with the Interim Regulations on Civilian Cadres of the Chinese People's Liberation Army promulgated by the Central Military Commission, implement the civilian cadre system. The transfer of some police officers in active service to civilian cadre status shall be organised and conducted by the headquarters of the Armed Police Force in light of the actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Soldiers of the Chinese People's Armed Police Force shall, in accordance with the Regulations on the Service of Soldiers in Active Service of the Chinese People's Liberation Army, implement the system of soldier ranks, which shall be distinguished in appellation from that of the People's Liberation Army; those conferred soldier ranks shall be renamed \"police sergeant major\", \"specialised police sergeant\" and \"police sergeant\", and soldiers shall have the words \"Armed Police\" prefixed to their ranks. The grading of the ranks of other soldiers shall be the same as the grading of the ranks of soldiers of the Chinese People's Liberation Army.\nThe system of soldier ranks in the Chinese People's Armed Police Force shall be organised and implemented by the headquarters of the Armed Police Force."
+        },
+        "noLabel": {
+          "en": "Article 13."
         }
       }
     ]
@@ -12069,6 +12816,162 @@
         },
         "noLabel": {
           "en": "Article 11."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0483'] = {
+    "lawId": "CN-REG-0483",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 12 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in order to safeguard the sovereignty of the national territorial airspace, regulate flight activities within the territory of the People's Republic of China, and ensure that flight activities are conducted safely and in an orderly manner.\nArticle 2 All units and individuals that have aircraft under their jurisdiction, and all personnel connected with flight and their flight activities, must comply with these Rules.\nArticle 3 The State exercises unified flight control over all flights within its territory.\nArticle 4 The Air Traffic Control Committee of the State Council and the Central Military Commission shall lead flight control work throughout the country.\nArticle 5 The person in charge of an aviation unit shall be responsible for compliance with these Rules by that unit. The aircraft commander shall be responsible for compliance with these Rules by the members of the flight crew.\nArticle 6 In organising and conducting flights, aviation units shall coordinate and cooperate with each other and exchange information on relevant matters.\nArticle 7 Flights shall be organised and conducted in the stages of advance preparation, immediate preparation, execution of the flight and post-flight debriefing. The specific content and requirements of the stages of flight shall be prescribed by the aviation administration departments respectively.\nArticle 8 All units and personnel connected with flight shall bear responsibility for ensuring flight safety, must comply with the relevant rules and regulations, and shall actively take measures to prevent accidents so as to ensure flight safety.\nFor an approved flight, the aerodromes and departments concerned shall diligently perform the work of organisation and command and of service support.\nArticle 9 In flight, flight personnel must obey commands, strictly observe discipline and operating procedures, and correctly handle air situations. In the event of a special situation, the commander of a civil aircraft shall have the right to take action in respect of the civil aircraft in order to ensure the safety of the civil aircraft and the persons carried on board; the commander of a non-civil aircraft (or the pilot of a single-seat aircraft, the same below) shall, when unable to request instructions, have the final power of decision on the handling of the aircraft.\nArticle 10 Standards relating to flight formulated by the aviation administration departments shall conform to the provisions of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Airspace management shall safeguard national security, take into account the needs of civil and military aviation and the public interest, and provide for unified planning and rational, full and effective use of airspace.\nArticle 12 The designation of airspace shall take into account such factors as national security, flight requirements, flight control capability, the construction of communication, navigation and radar facilities, the distribution of aerodromes and environmental protection.\nAirspace is generally divided into aerodrome flight airspace, air routes, flight routes, prohibited areas, restricted areas and danger areas. Where required for airspace management and flight tasks, air corridors, fuel-dumping areas and temporary flight airspace may be designated.\nArticle 13 The designation and adjustment of airspace shall be subject to the procedures of approval and record-filing in accordance with the relevant provisions of the State.\nArticle 14 Aerodrome flight airspace shall be designated outside air routes and air corridors. The boundary of instrument (in-cloud) flight airspace shall be not less than 10 kilometres from the boundaries of air routes, air corridors and other airspace.\nAerodrome flight airspace generally includes airspace for piloting practice (aerobatics, formation and instrument flight), airspace for scientific research test flights, airspace for firing flights, low-altitude flight airspace, very-low-altitude flight airspace, over-sea flight airspace, night flight airspace and holding airspace.\nHolding airspace is generally designated over a navigation station; for an aerodrome with frequent flight activities, it may be designated in the airspace near the aerodrome. The lowest holding level shall be not less than 600 metres above the true height of the highest obstacle above the ground. Below 8400 metres, each holding level is separated by 300 metres; from 8400 metres to 8900 metres, each holding level is separated by 500 metres; from 8900 metres to 12500 metres, each holding level is separated by 300 metres; above 12500 metres, each holding level is separated by 600 metres.\nThe designation of aerodrome flight airspace shall be proposed by the aviation unit stationed at the aerodrome and submitted for approval to the aviation unit at army level of the Chinese People's Liberation Army or to the air force of the military region in the area concerned.\nThe flight airspace of adjacent aerodromes may be adjusted and used reciprocally.\nArticle 15 Air routes are divided into international air routes and domestic air routes.\nThe width of an air route is 20 kilometres, being 10 kilometres on each side of its centre line; where a section of an air route is subject to constraints, the width may be reduced, but shall be not less than 8 kilometres. The upper and lower limits of an air route shall also be determined.\nArticle 16 Flight routes are divided into fixed flight routes and temporary flight routes.\nA temporary flight route shall generally not cross an air route or a fixed flight route, or pass over an aerodrome with frequent flight activities.\nArticle 17 Prohibited areas and temporary prohibited areas may be designated over important political, economic and military objectives of the State.\nWithout special approval in accordance with the relevant provisions of the State, no aircraft shall fly into a prohibited area or a temporary prohibited area.\nArticle 18 Restricted areas may be designated over military vital points and weapon testing grounds located near air routes and flight routes, and in the aerodrome flight airspace of aviation units such as aviation troops and flight academies. Temporary restricted areas may also be designated over other areas as required.\nWithin the prescribed time limits, an aircraft without the permission of the flight control department shall not fly into a restricted area or a temporary restricted area.\nArticle 19 For anti-aircraft firing ranges or launching sites located near aerodromes, air routes and flight routes, danger areas or temporary danger areas may be designated in the airspace above them according to their direction of fire, height of fire and extent.\nWithin the prescribed time limits, aircraft not concerned are prohibited from flying into a danger area or a temporary danger area.\nArticle 20 The designation, alteration or cancellation of prohibited areas, restricted areas and danger areas shall be published as required.\nArticle 21 Air corridors are generally designated in the airspace over areas near large and medium-sized cities where aerodromes are concentrated.\nThe designation of an air corridor shall specify its alignment, width and flight altitude, and shall also take into account the convenience of the arrival and departure of aircraft.\nThe width of an air corridor is generally 10 kilometres, being 5 kilometres on each side of its centre line. Where constrained by conditions, its width shall be not less than 8 kilometres.\nArticle 22 The designation of fuel-dumping areas shall be governed by the relevant provisions of the State.\nArticle 23 Temporary flight airspace shall be designated on a proposal submitted by the aviation unit applying to use the airspace, shall be designated by the flight control department concerned and shall be notified to the units concerned.\nTemporary flight airspace shall not be designated in the airspace over the belt extending 10 kilometres from the national (border) boundary line on our side. Where there is a special need for general aviation flights, such airspace shall be designated by the flight control department concerned after approval by the major military region in the locality.\nArticle 24 Within an aerodrome area, the provisions of the State on the protection of the aerodrome clear zone must be strictly implemented, and the construction near an aerodrome of firing ranges, buildings, structures, overhead lines and other obstacles affecting flight safety is prohibited.\nOutside an aerodrome and the clear zone protection area designated in accordance with the provisions of the State, tall buildings or installations that may affect flight safety shall be provided with aviation obstruction lights and markings in accordance with the relevant provisions of the State, and shall be kept in normal condition.\nArticle 25 In the belt within 30 kilometres of the boundary of an air route, the construction of firing ranges and other installations affecting flight safety is prohibited.\nThe construction of fixed or temporary ranges outside the belt specified in the preceding paragraph shall be approved in accordance with the relevant provisions of the State. The direction of firing or launching at a range and the direction of the approach of aircraft to the target shall not cross an air route.\nArticle 26 The construction of any fixed anti-aircraft firing range or artillery firing range must be submitted to the State Council and the Central Military Commission for approval. The establishment of temporary ranges and firing points shall, after the consent of the flight control department concerned, be submitted by the establishing unit to the people's government of the province, autonomous region or municipality directly under the Central Government in the locality and to the major military region for examination and approval.\nThe unit managing a fixed or temporary anti-aircraft firing range, launching site, artillery firing range or firing point shall be responsible for establishing effective communication with the flight control department in the area, and for formulating a system of coordinated notification; when firing or launching, it shall carry out air observation so as to ensure flight safety.\nArticle 27 The release of unmanned free balloons or of moored balloons that may affect flight safety shall be subject to the approval of the flight control department concerned. The specific measures for administration shall be drawn up by the Air Traffic Control Committee of the State Council and the Central Military Commission together with the competent civil aviation department under the State Council and the Air Force of the Chinese People's Liberation Army, and shall be implemented after approval by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Airspace Management"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Flight control within the territory of the People's Republic of China shall be organised and implemented in a unified manner by the Air Force of the Chinese People's Liberation Army, and the flight control departments concerned shall provide air traffic control services in accordance with their respective divisions of duties.\nArticle 29 The basic tasks of flight control are:\n(a) to supervise aircraft in flying strictly in accordance with the approved plan, maintain flight order, and prohibit unapproved aircraft from flying without authorisation;\n(b) to prohibit unapproved aircraft from flying into prohibited areas or temporary prohibited areas, or from crossing the national (border) boundary outwards or inwards;\n(c) to prevent collisions between aircraft, and between aircraft and ground obstacles;\n(d) to prevent ground anti-aircraft weapons or devices from firing at aircraft by mistake.\nArticle 30 Within the territory of the People's Republic of China, areas are divided, according to flight control responsibility, into flight control areas, flight control sub-areas and aerodrome flight control areas.\nIn air route and flight route belts and in civil aerodrome areas, high-altitude control areas, medium and low-altitude control areas, terminal (approach) control areas and aerodrome tower control areas shall be established.\nSeveral flight information regions shall be established in the airspace over the territory of the People's Republic of China, its contiguous zone, its exclusive economic zone and the high seas adjacent thereto.\nArticle 31 The designation of control areas of various types shall be subject to approval in accordance with the relevant provisions of the State.\nArticle 32 Flight control in control areas of various types shall be exercised by the flight control departments concerned in accordance with the division of duties.\nArticle 33 For flights in specific areas within the territory of the People's Republic of China and for flights carrying out special tasks, the provisions on special flight control shall apply.\nArticle 34 The aviation administration departments and aviation units charged with flight control tasks shall, within their respective functions and powers, formulate specific measures for the implementation of flight control on the basis of these Rules.\nThe flight control departments concerned shall establish a system of coordination among themselves.\nArticle 35 All flights must be applied for in advance, and may be conducted only after approval.\nAn aircraft permitted to fly out of or into the territorial airspace of the People's Republic of China must obtain the approval of the Air Force of the Chinese People's Liberation Army for a flight out of or into that territorial airspace and for a flight between flight control areas; a flight between flight control sub-areas within a flight control area shall be approved by the department responsible for flight control in that control area; and a flight within a flight control sub-area shall be approved by the department responsible for flight control in that sub-area.\nScheduled civil aviation flights shall be conducted along the prescribed air routes and flight routes and in accordance with the timetable; non-scheduled civil aviation transport flights shall be approved by the competent civil aviation department under the State Council and reported to the Air Force of the Chinese People's Liberation Army for record; where other aviation administration departments are involved, they shall also be reported to those departments for record.\nArticle 36 Combat flights shall be carried out in accordance with combat orders, and the flight control department must be notified in good time before or after the aircraft takes off.\nArticle 37 In respect of an aircraft that has taken off or become airborne without approval, the unit concerned must promptly ascertain the circumstances and take necessary measures, including compelling it to land.\nArticle 38 The take-off of a ferry aircraft, and the commencement and termination of flights within and outside the aerodrome area, shall comply with the scheduled times; where the take-off time is to be advanced or postponed, the permission of the flight control department at the next higher level shall be obtained.\nWhere a ferry aircraft has not taken off one hour after the scheduled take-off time and has not applied for an extension, its original flight application shall become invalid.\nArticle 39 In organising and conducting general aviation flight activities, the procedures for submission for approval must be completed in accordance with the relevant provisions, and a flight application shall be submitted to the local flight control department. A flight application shall include the nature of the task, the type of aircraft, the flight area, the starting and ending times, the flight altitude and the flight conditions. Aviation units shall organise and conduct the flight in accordance with the approved flight plan.\nArticle 40 Before an aircraft flies into an adjacent control area, control shall be transferred between the flight control departments. The transfer of control shall be effected in accordance with the relevant provisions on procedural control or radar control.\nArticle 41 An aircraft flying in the territorial airspace of the People's Republic of China must bear conspicuous identification markings, and the flight of aircraft without identification markings is prohibited.\nWhere an aircraft without identification markings needs to fly in special circumstances, it must be approved by the Air Force of the Chinese People's Liberation Army.\nThe identification markings of an aircraft must be approved in accordance with the relevant provisions of the State.\nArticle 42 Air traffic controllers and flight commanders (including flight controllers, the same below) shall, in accordance with the relevant provisions of the State, undergo specialised training and examination and obtain a licence and a certificate before they may take up their posts."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Flight Control"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "An aerodrome area means the aerodrome and the space of a defined extent designated for that aerodrome in which various flight airspaces are established.\nAn aerodrome area shall be designated on the basis of such factors as the terrain around the aerodrome, the types and task natures of the aircraft using the aerodrome, the positions of neighbouring aerodromes and the directions of their runways, the positions of the national (border) boundary, prohibited areas, anti-aircraft firing ranges or launching sites, air routes and air corridors near the aerodrome, and the public interest and safety assurance.\nWhere adjacent aerodromes are too close to each other, a single aerodrome area may be designated jointly.\nThe boundary of an aerodrome area is generally the same as the boundary of the aerodrome flight (tower) control area.\nArticle 44 Flights within an aerodrome area shall comply with the aerodrome operating instructions.\nThe formulation, approval and record-filing of aerodrome operating instructions shall be governed by the relevant provisions of the State.\nArticle 45 In flight, flight personnel must carry the requisite data, documents and certificates in accordance with the provisions.\nArticle 46 Flight preparation and the preparatory work for supporting the flight must be completed before the flight begins. A flight may begin only when all the preparations and the weather conditions meet the flight requirements.\nAn aerodrome that is to receive a ferry aircraft for landing must complete all preparatory work for supporting the landing 30 minutes before the aircraft arrives at the aerodrome.\nArticle 47 For daytime flights, before an aircraft takes off or lands, where the horizontal visibility is less than 2 kilometres, all aerodrome obstacle lights shall be switched on; where the horizontal visibility is less than 1 kilometre, the runway lights shall also be switched on at take-off, and at landing all lights supporting flight in the landing direction of the aircraft (the reciprocal of the landing direction) shall also be switched on.\nArticle 48 From engine start before take-off until engine shutdown after landing, flight personnel must maintain radio communication with the air traffic controller or flight commander, and shall strictly observe communication discipline.\nAn aircraft not equipped with radio communication equipment, or whose communication equipment has failed, shall communicate in accordance with the provisions of Annex I to these Rules.\nArticle 49 A pilot must obtain the permission of the air traffic controller or flight commander before starting the engine and taxiing. When taxiing or being towed, the following provisions shall be observed:\n(a) taxiing or towing shall follow the prescribed route or the route designated by the air traffic controller or flight commander.\n(b) the taxiing speed shall be in accordance with the flight manual or the pilot operating handbook of the aircraft concerned; when taxiing near obstacles, the speed shall not exceed 15 kilometres per hour.\n(c) where aircraft meet head-on, each shall taxi on the right side and maintain the necessary safe separation; where aircraft meet at an angle, a pilot who sees the other aircraft from the left side of the cockpit shall stop taxiing and give way.\n(d) where two or more aircraft taxi in succession, a following aircraft shall not overtake the aircraft ahead, and the distance between the following aircraft and the aircraft ahead shall be not less than 50 metres.\n(e) when taxiing or being towed at night, the navigation lights of the aircraft shall be switched on.\n(f) a helicopter may hover at a height of 1 metre to 10 metres instead of taxiing.\nWhere a water-based aircraft taxiing or being towed meets a vessel head-on or at an angle, it shall give way in the manner applicable to aircraft meeting while taxiing or being towed.\nArticle 50 Normally, an aircraft preparing for take-off may taxi onto the runway only when no other aircraft is entering to land after the fourth turn of the traffic pattern and with the permission of the air traffic controller or flight commander; it may take off only when the runway is free of obstacles.\nWhen aircraft take off or land, a following aircraft shall maintain the prescribed safe separation from the aircraft ahead.\nArticle 51 The traffic pattern of an aerodrome is generally a left-hand pattern; where constrained by terrain, cities or other conditions, or in order to avoid crossing the traffic pattern of a neighbouring aerodrome, it may also be a right-hand pattern; the flight altitude of the traffic pattern is generally 300 metres to 500 metres.\nWhen flying in the traffic pattern, overtaking an aircraft of the same type is prohibited; the distance between aircraft shall generally be maintained at more than 1500 metres; with the permission of the air traffic controller or flight commander, a faster aircraft may overtake a slower aircraft before the third turn, and shall do so on the outside of the aircraft ahead, with a separation of not less than 200 metres. Except for an aircraft that must land immediately, no aircraft shall overtake the aircraft ahead on the inside.\nJoining the traffic pattern must be permitted by the air traffic controller or flight commander, and the aircraft shall join along the pattern and shall not cut in laterally.\nArticle 52 An aircraft climbing within the aerodrome area after take-off, or descending within the aerodrome area before landing, must do so in accordance with the instructions of the air traffic controller or flight commander.\nAn aircraft leaving the aerodrome to join an air route or flight route, or leaving an air route or flight route to fly to the aerodrome, shall climb or descend along the routes and at the altitudes specified in the aerodrome operating instructions or in the arrival and departure procedures.\nArticle 53 Where the cloud-penetration climb routes and the cloud-penetration descent routes of adjacent aerodromes cross each other and flights conflict, the department responsible for flight control in the area shall make adjustments.\nArticle 54 When flying in airspace, an aircraft shall enter or leave the airspace along the prescribed route (heading), at the prescribed altitude and in the prescribed sequence, and shall remain within the prescribed airspace and altitude range.\nExcept for holding airspace, only one to three batches of aircraft may be scheduled to fly in a flight airspace at any one time. The altitude ranges of the flight activities of the respective batches shall generally be separated by an altitude difference of more than 2000 metres.\nArticle 55 During visual flight, flight personnel must maintain a vigilant air watch. An aircraft shall keep a certain horizontal and vertical distance from cloud.\nThe aircraft commander shall bear direct responsibility for the safety of visual flight.\nArticle 56 An aircraft entering to land shall obtain the permission of the air traffic controller or flight commander; where the conditions for landing are not met, it shall not force a landing.\nAfter landing, an aircraft shall vacate the runway promptly.\nArticle 57 For flight personnel to fly on instruments in complex weather conditions, the following conditions must be met at the same time:\n(a) the flight personnel have mastered the techniques of flying in complex weather;\n(b) the aircraft is equipped with serviceable navigation equipment and radio communication equipment.\nArticle 58 A flight entering an aerodrome area in complex weather conditions must be permitted by the air traffic controller or flight commander. When permitting an aircraft to enter the aerodrome area, the air traffic controller or flight commander shall promptly inform the pilot of the following:\n(a) the flight altitude for entry;\n(b) relevant flight information within the aerodrome area;\n(c) the horizontal visibility or runway visual range, the weather phenomena and the height of the cloud base over the aerodrome, the wind direction and wind speed at the ground and at the cloud-penetration altitude, the aerodrome pressure or the corrected sea-level pressure, or the zero-point altitude, and the ground atmospheric temperature;\n(d) the instrument approach or cloud-penetration procedure and the landing heading.\nArticle 59 An aircraft in holding airspace must remain at the prescribed holding level and fly in the manner instructed by the air traffic controller or flight commander, and shall not change without permission.\nAircraft waiting in holding airspace to land shall land in the prescribed sequence. In special circumstances, priority landing may be granted only with the permission of the air traffic controller or flight commander.\nArticle 60 An aircraft descending through cloud must do so in accordance with the instrument approach chart or cloud-penetration chart for the aerodrome. Where, on descending to the prescribed minimum altitude or decision altitude, it still cannot land by visual reference, it shall immediately stop descending and climb to a safe altitude along the prescribed heading.\nWhere an aircraft cannot land at the aerodrome for any reason, the air traffic controller, flight commander or airline dispatcher and their agents shall immediately notify the alternate aerodrome to prepare to receive the aircraft for landing, and shall at the same time indicate to the aircraft the heading and flight altitude for flying to the alternate aerodrome and communicate the weather conditions at the alternate aerodrome. Until the flight personnel have established radio contact with the alternate aerodrome and have reported that landing at the alternate aerodrome is assured, the air traffic controller, flight commander or airline dispatcher and their agents shall continue to maintain contact with the aircraft.\nArticle 61 Where, when an aircraft arrives at the aerodrome of landing, the weather conditions at the aerodrome are below the minimum meteorological conditions for flight by the aircraft commander and the aircraft is unable to fly to an alternate aerodrome, the air traffic controller or flight commander shall take all measures to direct the aircraft to land safely.\nArticle 62 When an aircraft tows a glider in the air, the towing aircraft and the glider shall be regarded as one aircraft. The glider pilot shall obey the commands of the pilot of the towing aircraft.\nA glider releasing from tow in the air must do so at the prescribed altitude and with the consent of the pilot of the towing aircraft, except in an emergency.\nArticle 63 The times of commencement and termination of flights within the aerodrome area, and the times of take-off and landing at the aerodrome of aircraft on other task flights, shall be reported promptly to the flight control department at the next higher level.\nAdjacent aerodromes shall take the initiative to inform each other of relevant flight information."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Flight Within the Aerodrome Area"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "An aircraft using an air route or flight route shall obtain the consent of the flight control department responsible for that air route or flight route.\nArticle 65 Necessary surveillance and navigation equipment shall be installed in air route and fixed flight route belts.\nThere shall be alternate aerodromes along air routes and fixed flight routes. An alternate aerodrome shall have the requisite equipment and adequate communication, navigation and meteorological support.\nA military aerodrome serving as a permanent alternate aerodrome for civil aircraft, or a civil aerodrome serving as a permanent alternate aerodrome for military aircraft, shall be approved in accordance with the relevant provisions of the State.\nArticle 66 For a flight crossing an air route or flight route, the crossing sector, altitude and time shall be specified, and the prescribed flight separation from aircraft flying on the air route or flight route shall be ensured during the crossing.\nArticle 67 A flight task order is the basic document authorising flight personnel to make a ferry flight or a civil aviation flight. A flight task order shall be issued by the person in charge of the aviation unit stationed at the aerodrome or of the airline.\nA flight task order shall specify the flight task, the take-off time, the route, the altitude, the minimum meteorological conditions permitting flight by the aircraft commander, and other relevant matters.\nArticle 68 Before an air route flight, flight route flight or ferry flight, the person in charge of the aviation unit stationed at the aerodrome or of the airline shall personally, or through a specially designated person, inspect the flight preparation of the flight personnel. The flight task may be carried out only when the quality of flight preparation meets the requirements.\nArticle 69 The take-off of an aircraft on an air route flight, flight route flight or ferry flight shall be determined on the basis of the state of preparation of the flight personnel and the aircraft, the state of preparation of the departure, landing and alternate aerodromes, and the weather conditions; in any of the following circumstances, take-off shall not be made:\n(a) the flight crew is incomplete, or is unfit for flight for reasons of skill, health or other reasons;\n(b) the flight personnel have not completed flight preparation, the quality of flight preparation does not meet the requirements, or the person in charge of the aviation unit stationed at the aerodrome or of the airline has not approved the flight;\n(c) the flight personnel have not carried the flight task order, flight weather documents and other requisite flight documents;\n(d) the flight personnel have not checked the air navigation, communication and navigation data and the instrument approach chart or cloud-penetration chart required for the flight;\n(e) the aircraft or the equipment on board has a fault that may affect flight safety, or the equipment of a civil aircraft is below the minimum equipment list requirements, or in the case of a military aircraft the aircraft commander has confirmed that the safety of the flight may be affected;\n(f) ice, frost or snow on the surface of the aircraft has not been completely removed;\n(g) the loading and carriage on board the aircraft do not conform to the provisions;\n(h) the aircraft has not carried reserve fuel as required;\n(i) the weather conditions are below the minimum meteorological conditions for flight by the aircraft commander, or the weather conditions endanger the safety of the flight.\nArticle 70 In flight, flight personnel must observe the relevant flight rules and the provisions of the flight task order, obey flight command, navigate accurately, maintain the prescribed navigation parameters, keep a vigilant watch on air situations, and report in good time and in accordance with the provisions the position of the aircraft, the flight situation and the weather conditions, in particular hazardous weather phenomena and their development.\nArticle 71 During visual flight, aircraft shall give way in accordance with the following provisions:\n(a) where aircraft meet head-on at the same altitude, each shall give way to the right and maintain a separation of more than 500 metres;\n(b) where aircraft meet at an angle at the same altitude, a pilot who sees the other aircraft from the left side of the cockpit shall descend, and a pilot who sees it from the right side of the cockpit shall climb;\n(c) when overtaking an aircraft ahead at the same altitude, an aircraft shall overtake on the right side of the aircraft ahead and maintain a separation of more than 500 metres;\n(d) a single aircraft shall give way to a formation or to an aircraft towing another aircraft, a powered aircraft shall give way to an unpowered aircraft, and a fighter aircraft shall give way to a transport aircraft.\nArticle 72 When flying on a temporary flight route that crosses or runs close to an air route or fixed flight route, flight personnel shall maintain a vigilant air watch so as to prevent collision with aircraft flying on the air route. Where a temporary flight route crosses an air route or fixed flight route, the aircraft shall pass at the prescribed flight altitude if the horizontal visibility is more than 8 kilometres; where flying in cloud or with a horizontal visibility of less than 8 kilometres, it shall pass in accordance with the instructions of the air traffic controller or flight commander. When flying on a flight route close to an air route, the prescribed safe separation from the boundary of the air route shall be maintained.\nArticle 73 For an aircraft not equipped for flight in complex weather, the aircraft commander shall, in accordance with the prescribed minimum meteorological conditions for flight, conduct visual flight above a safe altitude so as to avoid flying into cloud.\nArticle 74 Only when the weather conditions are not below the minimum meteorological conditions for flight by the aircraft commander may the aircraft commander conduct visual flight below 300 metres; in such flight the aircraft shall be not less than 50 metres from the base of the cloud layer.\nArticle 75 Where an aircraft flying along an air route or fixed flight route is to pass an intermediate aerodrome, the flight personnel shall, 100 to 50 kilometres before reaching it and unless otherwise agreed, report to the air traffic controller or flight commander of that aerodrome the estimated time and altitude of passage. The air traffic controller or flight commander of the intermediate aerodrome must direct aircraft flying within that aerodrome area to give way to the transiting aircraft so as to ensure its safe passage; absent special reasons, the route and altitude of the transiting aircraft shall not be changed.\nWhen an aircraft flying on a temporary flight route passes an intermediate aerodrome, it shall pass along the prescribed route and at the prescribed altitude, or in accordance with the instructions of the air traffic controller or flight commander of that aerodrome.\nArticle 76 In flight, where communication between the flight personnel and the ground is lost, they may discontinue the flight task and return to the original aerodrome or fly to the nearest alternate aerodrome to land. Where maintaining the original altitude in flying to the alternate aerodrome conforms to the provisions on the allocation of flight levels, the aircraft shall continue to fly at the original altitude; where maintaining the original altitude in flying to the alternate aerodrome does not conform to those provisions, it shall descend to the next lower level and fly to the alternate aerodrome; where it cannot descend to the next lower level because of the flight safety altitude, it shall climb to the next higher level and fly to the alternate aerodrome.\nArticle 77 Where an aircraft on an air route flight, flight route flight or ferry flight needs to continue its flight before take-off or after landing at an intermediate aerodrome, the aircraft commander or an agent shall go to the aerodrome flight control department to complete the flight formalities and check the relevant data, and may take off only after approval; where the aircraft needs to take off again after landing, the prior permission of the flight control department of the intermediate aerodrome must be obtained.\nAfter an aircraft on an air route flight, flight route flight or ferry flight has landed, the aircraft commander or an agent must report to the aerodrome flight control department or to the airline on the flight situation and on the weather conditions along the air route or flight route, and submit the flight task order and the flight weather report form.\nWhere an aircraft lands at an aerodrome other than the scheduled one without approval, the person in charge of the aviation unit stationed at that aerodrome must report to the higher level, and the aircraft may take off only after approval.\nArticle 78 After an aircraft on an air route flight, flight route flight or ferry flight arrives at the scheduled aerodrome, the support work shall be the responsibility of the departments concerned stationed at that aerodrome in accordance with the provisions or an agreement."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Flight on Airways and Routes"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Flight separation is the minimum safe distance to be maintained between aircraft, as prescribed in order to prevent flight conflicts, ensure flight safety and increase the utilisation of flight space and time. Flight separation includes vertical separation and horizontal separation. Horizontal separation is divided into longitudinal separation and lateral separation.\nThe aircraft commander must fly in accordance with the prescribed flight separation, and shall obtain the permission of the flight control department where a change is required.\nArticle 80 The vertical separation for air route flights, flight route flights and ferry flights shall be allocated by flight level. Flight levels are divided according to the following standards:\n(a) where the true course is within the range of 0 degrees to 179 degrees, at altitudes from 900 metres to 8100 metres each flight level is separated by 600 metres; at altitudes from 8900 metres to 12500 metres each flight level is separated by 600 metres; and above 12500 metres each flight level is separated by 1200 metres.\n(b) where the true course is within the range of 180 degrees to 359 degrees, at altitudes from 600 metres to 8400 metres each flight level is separated by 600 metres; at altitudes from 9200 metres to 12200 metres each flight level is separated by 600 metres; and above 13100 metres each flight level is separated by 1200 metres.\n(c) flight levels shall be calculated on the basis of the assumed sea level under standard atmospheric pressure conditions. The true course shall be measured from the starting point and the turning points of the route.\nThe specific standards for the allocation of flight levels are set out in Annex II to these Rules.\nArticle 81 The horizontal separation for air route flights, flight route flights and ferry flights shall be drawn up by the Air Force of the Chinese People's Liberation Army together with the competent civil aviation department under the State Council, and shall be submitted to the Air Traffic Control Committee of the State Council and the Central Military Commission for approval.\nArticle 82 The safe altitude for flight is the minimum flight altitude for avoiding collision between an aircraft and ground obstacles.\nThe safe altitude for air route flights, flight route flights and ferry flights shall, in plateaux and mountainous areas, be 600 metres above the highest elevation within 25 kilometres on each side of the centre line of the air route or of the flight route; in other areas it shall be 400 metres above the highest elevation within 25 kilometres on each side of the centre line of the air route or of the flight route.\nFor an aircraft with performance limitations, the safe altitude for air route flights, flight route flights and ferry flights shall be prescribed separately by the aviation administration department concerned.\nArticle 83 Where, for an aircraft on an air route flight, flight route flight or ferry flight, the highest elevation within 25 kilometres on each side of the centre line of the air route or of the flight route does not exceed 100 metres and the atmospheric pressure is not lower than 1000 hectopascals (750 millimetres of mercury), flight within the 600-metre flight level is permitted; where the highest elevation exceeds 100 metres and the atmospheric pressure is lower than 1000 hectopascals (750 millimetres of mercury), the lowest flight level must be raised accordingly so as to ensure that the true altitude of the flight is not lower than the safe altitude.\nArticle 84 The flight level for an air route flight, flight route flight or ferry flight shall be allocated in specific terms, through the flight control department, by the person in charge who approved that flight.\nFlight levels shall be allocated on the basis of the nature of the flight task, the performance of the aircraft, the flight area, and the terrain, weather and flight conditions along the route.\nArticle 85 Where several aircraft (or several batches of aircraft) fly simultaneously on the same air route or flight route and affect one another, each aircraft (or batch) shall be allocated to a different flight level; where they cannot be allocated to different flight levels, several aircraft (or several batches) may be permitted to fly on the same air route or flight route at the same flight level, provided that the prescribed longitudinal separation is maintained between them.\nArticle 86 Before an aircraft on an air route flight, flight route flight or ferry flight takes off, the aerodrome pressure value shall be set on the fixed index of the pressure altimeter of the aircraft so that the pointer of the pressure altimeter indicates zero.\nAfter an aircraft on an air route flight, flight route flight or ferry flight takes off, when it has climbed to a height of 600 metres above the aerodrome surface at an aerodrome for which no transition altitude or transition height is prescribed, the standard sea-level pressure value shall be set on the fixed index of the pressure altimeter of the aircraft, and the aircraft shall then continue to climb to the prescribed flight level; at an aerodrome for which a transition altitude or transition height is prescribed, the pressure altimeter shall be set to the standard sea-level pressure value when the aircraft climbs to the transition altitude or the transition height.\nAn aircraft on an air route flight, flight route flight or ferry flight shall, on entering the area of the aerodrome of landing and descending to the transition level of that aerodrome, or in accordance with the instructions of the air traffic controller or flight commander, set the aerodrome pressure value on the fixed index of the pressure altimeter of the aircraft.\nAt an aerodrome used only for the take-off and landing of civil aircraft, the corrected sea-level pressure value may be used as the altimeter setting for the pressure altimeter of the aircraft.\nAn aerodrome that provides for the take-off and landing of foreign aircraft may provide foreign aircraft with the corrected sea-level pressure value of the aerodrome.\nWhere military and civil aircraft fly simultaneously at the same aerodrome, the timing of the altimeter setting on board the aircraft must be unified.\nArticle 87 Where, before take-off at a plateaux aerodrome, the pressure scale of the pressure altimeter of the aircraft cannot be set to the aerodrome pressure value, the standard sea-level pressure value shall be set on the fixed index of the pressure altimeter (the altitude then indicated being the assumed zero-point altitude), and the aircraft shall then take off and climb to the prescribed flight altitude.\nWhen landing at a plateaux aerodrome, if the pressure scale of the pressure altimeter of the aircraft cannot be set to the aerodrome pressure value, the landing shall be made in accordance with the assumed zero-point altitude notified by the air traffic controller or flight commander. Where the aircraft has two pressure altimeters, the standard sea-level pressure value shall be set on the fixed index of one of them, and the corrected sea-level pressure value shall be set on the fixed index of the other.\nWhen flying in plateaux and mountainous areas, attention must be paid to the coordinated use of the pressure altimeter and the radio altimeter of the aircraft.\nArticle 88 Where, during an air route flight, flight route flight or ferry flight, a change of flight level is required because of an aircraft malfunction, icing, deviation around a thunderstorm area or other reasons, the aircraft commander shall report the reason and the exact position of the aircraft at that time to the flight control department and request the allocation of another flight level. When the flight control department permits the aircraft to change flight level, it must specify the flight level to be changed to, and the sector and time of the change.\nIn an emergency, where flight safety is threatened, the aircraft commander may decide to change the flight level originally allocated, but must immediately report to the flight control department and shall be responsible for that decision. The method of changing flight level is as follows: turn 30 degrees to the right from the direction of flight and fly on that heading for 20 kilometres, then turn left and climb or descend parallel to the original route to the new flight level, and then turn back onto the original route."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Flight Separation"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Flight command shall be organised and exercised in accordance with these Rules and the relevant provisions, and shall be correct, timely and uninterrupted.\nArticle 90 A flight commander must earnestly perform their duties, maintain order at the aerodrome and in the air and maintain flight discipline, and shall:\n(a) understand the flight task, the flight plan, the technical proficiency and state of health of the flight personnel, the performance of the aircraft and its airborne equipment, and the state of the various support work;\n(b) keep abreast of flight movements and weather changes, promptly inform the flight personnel of relevant air situations and direct them to fly accurately in accordance with the plan;\n(c) take timely measures and act correctly when air situations change.\nArticle 91 Flight command must arrange the sequence of flights in accordance with the following principles of coordination:\n(a) all flights give way to combat flights;\n(b) other flights give way to special aircraft flights and flights on important tasks;\n(c) domestic flights on ordinary tasks give way to scheduled flights;\n(d) training flights give way to task flights;\n(e) flights within the aerodrome give way to flights outside the aerodrome;\n(f) flights within and outside the aerodrome give way to ferry flights.\nArticle 92 During flight, all persons participating in or supporting the flight must obey the commands of the flight commander.\nArticle 93 Where military and civil aircraft stationed at the same aerodrome fly simultaneously, unified command must be exercised. The military aviation unit shall designate a flight commander and the civil aviation unit shall designate a deputy flight commander.\nThe deputy flight commander shall be responsible for reporting the navigation parameters and relevant flight information of civil aircraft to the flight commander and, in accordance with the instructions of the flight commander, for exercising command over civil aircraft.\nArticle 94 Where aircraft on different tasks or of different types fly simultaneously at the same aerodrome, the order of priority for take-off and landing shall be arranged according to the specific circumstances.\nAircraft on urgent or important tasks, aircraft on scheduled flights or ferry flights and faster aircraft shall be allowed to take off first; aircraft with malfunctions, aircraft with little fuel remaining, aircraft on urgent or important tasks, and aircraft on scheduled flights and air route or flight route flights or ferry flights shall be allowed to land first.\nArticle 95 Flight command shall be exercised by radio. Command phraseology shall be brief, clear, easy to understand and standardised.\nCommand over an aircraft not equipped with radio communication equipment, or whose radio is subject to interference or whose radio communication equipment has failed, shall be exercised in accordance with the provisions of Annex I to these Rules.\nArticle 96 An aerodrome in use shall have a flight control room, a take-off line tower (command tower) or an aerodrome control tower, so located as to command a good field of vision from which the aerodrome, the clear zone area and the flight of aircraft and their movement on the aerodrome can be observed.\nThe aerodrome flight control room, take-off line tower (command tower) or aerodrome control tower shall be equipped with communication equipment for commanding and supporting flight, radar display equipment or radar plotting facilities, and other relevant equipment and the necessary documents and charts.\nArticle 97 Command over combat flights shall be exercised in accordance with the relevant provisions of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Flight Command"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "A special situation in flight means a situation that arises suddenly and endangers flight safety.\nThe handling of a special situation in flight shall be determined according to the nature of the situation, the flight conditions and the time available for handling it. Measures for handling the various special situations in flight shall be prescribed by the aviation administration departments.\nArticle 99 Flight personnel, air traffic controllers, flight commanders and all persons supporting flight must be prepared in advance for the handling of special situations in flight. Flight personnel shall promptly perceive the various indications of a special situation arising in flight and be thoroughly familiar with the operating procedures and emergency handling methods for the various special situations; air traffic controllers or flight commanders shall be thoroughly familiar with command measures for special situations under different flight conditions and with the methods of organising the rescue of an aircraft in distress; and all persons supporting flight shall, under all circumstances, scrupulously fulfil their duties and keep the various support facilities in good condition at all times, so as to be ready at any time to provide favourable conditions for flight personnel, air traffic controllers and flight commanders to handle special situations correctly.\nArticle 100 Where a special situation arises in flight, the aircraft commander must, on the premise of ensuring the safety of the lives of the persons on board the aircraft, actively take measures to preserve the aircraft. Where time permits, the aircraft commander shall promptly report the situation that has arisen and the measures to be taken to the air traffic controller or flight commander, and shall act in accordance with their instructions.\nThe air traffic controller or flight commander shall, in the light of the specific air situation, promptly take correct measures to direct the aircraft.\nArticle 101 Where, in flight, a situation seriously endangering the safety of the aircraft and of the persons on board is encountered, flight personnel shall use all available means to transmit the prescribed distress signal repeatedly. Where flight personnel of another aircraft receive a distress signal in flight, they shall temporarily cease radio transmission and, where necessary, assist the aircraft in distress in transmitting the distress signal repeatedly.\nOn receiving a distress signal transmitted by an aircraft, the air traffic controller or flight commander shall promptly ascertain the position of the aircraft in distress and the nature of the distress, immediately take measures and report to the higher level.\nArticle 102 Where a military aircraft is in distress, the departments concerned shall promptly report to the local government and to the garrison. The local government and the garrison shall immediately organise search and rescue. In searching for and rescuing an aircraft in distress at sea, the national maritime search and rescue organisation and the nearby maritime search and rescue organisations shall also be notified, and the national maritime search and rescue organisation and the nearby maritime search and rescue organisations shall promptly carry out search and rescue.\nWhere a civil aircraft is in distress, the organisation and implementation of search and rescue activities shall be governed by the relevant provisions of the State.\nArticle 103 Where an aircraft is in distress outside the territory of the People's Republic of China, the internationally accepted distress signals and frequencies shall be used. Where distress occurs during flight over the sea, the distress signal shall, where the equipment permits, also be transmitted on the frequency of 500 kHz."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Handling of Special Situations in Flight"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The communication, navigation, radar, meteorological and aeronautical information support departments shall define their tasks, earnestly perform their duties, cooperate closely and organise and implement flight support work in a thorough manner.\nArticle 105 All communication and navigation equipment must be kept in good condition at all times, and main equipment shall be provided with backups, so as to ensure the reliability and stability of communication and navigation.\nThe departments concerned shall strengthen the management and protection of radio frequencies for aviation communication and navigation. Radio stations and other instruments and devices used by any unit or individual shall not interfere with the normal use of radio frequencies exclusively allocated for aviation.\nThe addition, removal or alteration of air-ground communication and navigation equipment along air routes and flight routes shall be subject to the consent of the Air Force of the Chinese People's Liberation Army or of the competent civil aviation department under the State Council. The removal of medium-wave navigation stations and of air-ground communication and navigation equipment shared by military and civil aviation shall also require the consent of all the users after consultation.\nArticle 106 In the course of a flight, flight personnel, air traffic controllers and flight commanders shall correctly use communication and navigation equipment in accordance with the provisions on communication and navigation support.\nArticle 107 The radar support department shall provide support for all flights within the territory of the People's Republic of China.\nRadar equipment shall be kept in good condition at all times so as to ensure the reliability and stability of radar operation.\nRadar support work shall be organised and implemented by control area or by radar area of responsibility.\nArticle 108 Radar support shall achieve the following:\n(a) timely, accurate and continuous determination and reporting of the positions of aircraft in the air;\n(b) close monitoring of aircraft flying in accordance with the scheduled air routes, flight routes, flight airspace and altitudes, and prompt detection and reporting of any deviation of an aircraft from its air route or flight route, change of flight altitude or exit from its flight airspace;\n(c) where it is learned that an aircraft in the air has lost its way or is in distress, organising the relevant radars for priority observation and promptly determining the aircraft that has lost its way or is in distress and the relevant circumstances;\n(d) where the weather in the flight area is unstable, promptly organising radar weather detection at the request of the air traffic controller or flight commander.\nArticle 109 Meteorological support for flight shall be the responsibility of the aviation meteorological support department.\nThe aviation meteorological support department must organise meteorological support rigorously, provide weather forecasts and actual weather conditions in a timely and accurate manner, and promptly issue important meteorological information, hazardous weather warnings and bulletins; where necessary, it may propose the dispatch of aircraft for weather reconnaissance and the use of detection equipment for weather detection.\nThe units concerned shall give priority to the transmission of important meteorological information, hazardous weather warnings and bulletins.\nThe meteorological station of an aerodrome shall, in accordance with the tasks assigned by the air traffic controller or flight commander, provide meteorological support for aircraft taking off from and landing at that aerodrome; the aerodrome meteorological station of a department that also undertakes flight control tasks for a flight control sub-area (area) shall also be responsible for meteorological support for ferry flights within that area.\nThe meteorological departments of the State and of the provinces, autonomous regions and municipalities directly under the Central Government shall, on application by aviation units, provide the necessary meteorological information.\nArticle 110 The organisation and implementation of meteorological support for flight shall be governed by the relevant provisions of the respective aviation units.\nWhere a flight support task involves two or more meteorological departments with no subordinate relationship to each other, it shall be organised and implemented in accordance with the relevant provisions on coordination.\nArticle 111 The aeronautical information department shall provide the various aeronautical information materials required to ensure the safety, regularity and efficiency of flight.\nThe units concerned shall cooperate actively and closely and provide aeronautical information promptly, so as to ensure that the navigation data are timely, accurate and complete."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Communication, Navigation, Radar, Meteorological and Aeronautical Information Support"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "A foreign aircraft flying into or out of the territorial airspace of the People's Republic of China, or flying or staying within the territory of the People's Republic of China, must obtain approval in accordance with the relevant provisions of the People's Republic of China.\nArticle 113 Where a foreign aircraft flies on an air route or flight route within the territory of the People's Republic of China, the competent civil aviation department under the State Council of the People's Republic of China shall be responsible for providing air traffic control services.\nArticle 114 A foreign aircraft flying into or out of the territorial airspace of the People's Republic of China must fly into or out of that airspace along the prescribed air route. Twenty to 15 minutes before flying into or out of the territorial airspace, its crew must report to the air traffic control department concerned of the People's Republic of China and obtain permission to fly into or out of the territorial airspace; it shall not fly into or out of that airspace without permission.\nArticle 115 In respect of a foreign civil aircraft that flies into or out of the territorial airspace of the People's Republic of China without approval, the authorities concerned of the People's Republic of China shall have the right to take necessary measures and order it to land at a designated aerodrome.\nWhere a foreign civil aircraft flying or staying within the territory of the People's Republic of China violates these Rules, the air traffic control department concerned of the People's Republic of China shall take measures and order it to rectify. Where the circumstances are serious, the departments concerned may take necessary measures, including compelling it to land at a designated aerodrome."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter X Special Provisions for Foreign Aircraft"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where these Rules are violated and the Civil Aviation Law of the People's Republic of China and the relevant regulations contain explicit provisions on the penalty for such violation, those provisions shall apply; where there are no such explicit provisions, the provisions of this Chapter shall apply.\nArticle 117 Where the procedures of approval, record-filing or other procedures are not completed as required by these Rules, the departments concerned shall, in accordance with the division of duties, order rectification; where the circumstances are serious, administrative disciplinary sanctions or disciplinary sanctions shall be imposed in accordance with the law on the directly responsible persons in charge and on other directly responsible persons; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law.\nArticle 118 Where flight personnel fail to perform their duties as required by these Rules, the departments concerned shall impose administrative disciplinary sanctions or disciplinary sanctions in accordance with the law; where the circumstances are serious, a penalty of suspension or withholding of the licence for one month to six months shall be imposed in accordance with the law, or the person shall be ordered to cease flying for one month to three months; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law.\nArticle 119 Where an air traffic controller or flight commander fails to perform their duties as required by these Rules, the departments concerned shall, in the light of the circumstances, impose the sanctions of criticism and education, a warning, a record of demerit, demotion, or cancellation of qualifications and removal from office; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law.\nArticle 120 Where a flight support department or its personnel fails to perform its duties as required by these Rules, the aviation administration department concerned shall, in the light of the circumstances, circulate a criticism; administrative disciplinary sanctions or disciplinary sanctions shall be imposed in accordance with the law on the directly responsible persons in charge or on other responsible persons; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where an aircraft of the People's Republic of China flies in the airspace over the contiguous zone, the exclusive economic zone and the high seas beyond its territorial sea, and a treaty concluded or acceded to by the People's Republic of China contains provisions different from these Rules, the provisions of that treaty shall apply, except for the provisions to which the People's Republic of China has declared reservations.\nArticle 122 The signals used to intercept an aircraft that violates these Rules and the signals with which the intercepted aircraft is to reply shall be governed by the provisions of Annex III to these Rules.\nArticle 123 The following terms used in these Rules have the meanings given below:\nAviation unit means an organ or unit that owns aircraft and engages in aviation flight activities, including air transport companies, flying clubs, aviation troops and flight academies.\nAviation administration department means an organ or unit exercising administrative functions over aviation units engaged in flight activities, including the General Administration of Civil Aviation of China, the General Administration of Sport of China, the Aviation Industry Corporation of China, and the Navy, the Air Force and the Army Aviation Bureau of the General Staff of the Chinese People's Liberation Army.\nTransition altitude means a specified altitude based on the corrected sea-level pressure. At and below this altitude, the vertical position of an aircraft is expressed by altitude based on the corrected sea-level pressure.\nTransition height means a specified height based on the aerodrome pressure. At and below this height, the vertical position of an aircraft is expressed by height based on the aerodrome pressure.\nTransition level means the lowest usable flight level above the transition altitude.\nTerminal control area means a control area established at the confluence of air traffic service routes near one or several major aerodromes.\nArticle 124 These Rules shall come into force at 00:00 on 1 August 2001. The Basic Flight Rules of the People's Republic of China issued by the State Council and the Central Military Commission on 21 April 1977 are repealed simultaneously.\nAnnex I Symbols and Signals for Auxiliary Command and Liaison (I) (omitted)\nSymbols and Signals for Auxiliary Command and Liaison (II) (omitted)\nAnnex II Diagram of the Standards for the Allocation of Flight Levels (omitted)\nAnnex III Manoeuvring Signals for Intercepting Aircraft and Intercepted Aircraft (omitted)"
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
         }
       }
     ]

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p15
-   法规 60 部 / 译文 1857 条
+   法规 61 部 / 译文 1908 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -5130,6 +5130,609 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0199'] = {
+    "lawId": "CN-REG-0199",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Construction Law of the People's Republic of China, the Law of the People's Republic of China on Protecting Against and Mitigating Earthquake Disasters and other laws for the purpose of improving the earthquake resistance and disaster prevention capacity of construction projects, reducing the risk of earthquake disasters and safeguarding the safety of people's lives and property."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the survey, design, construction, appraisal, strengthening and maintenance of construction projects for earthquake resistance within the territory of the People's Republic of China, as well as to the supervision and administration thereof."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Earthquake resistance of construction projects shall adhere to the principles of putting people first, providing comprehensive fortification and stressing key points."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of housing and urban-rural development of the State Council shall exercise unified supervision and administration over earthquake resistance of construction projects throughout the country. The transport, water conservancy, industry and information technology, energy and other relevant departments of the State Council shall, in accordance with the division of duties, be responsible for the supervision and administration of earthquake resistance of the relevant specialised construction projects throughout the country.\nThe competent departments of housing and urban-rural development of the local people's governments at or above the county level shall exercise supervision and administration over earthquake resistance of construction projects within their respective administrative areas. The transport, water conservancy, industry and information technology, energy and other relevant departments of the local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the supervision and administration of earthquake resistance of the relevant specialised construction projects within their respective administrative areas.\nThe other relevant departments of the people's governments at or above the county level shall, in accordance with these Regulations and the provisions of other relevant laws and regulations, be responsible for the work related to earthquake resistance of construction projects within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Units and persons engaged in activities related to earthquake resistance of construction projects shall be responsible for the earthquake resistance of construction projects in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages and supports research into, the development of and the application of technologies for the earthquake resistance of construction projects.\nPeople's governments at all levels shall organise the popularisation of knowledge on earthquake resistance of construction projects and raise public awareness of earthquake resistance and disaster prevention."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State establishes a survey system for earthquake resistance of construction projects.\nPeople's governments at or above the county level shall organise the relevant departments to conduct surveys on the seismic performance, the application of seismic technologies and the industrial development of construction projects, so as to gain a comprehensive understanding of the basic situation of earthquake resistance of construction projects and to promote the improvement of the level of administration of earthquake resistance of construction projects and scientific decision-making."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Construction projects shall avoid the dangerous sites designated in the special plans for earthquake resistance and disaster prevention. Where such sites truly cannot be avoided, seismic fortification measures that meet the requirements for the use functions of the construction project and that accommodate seismic effects shall be adopted."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Newly built, expanded or reconstructed construction projects shall comply with the mandatory standards for seismic fortification.\nThe relevant departments of the State Council and the administrative department for standardisation of the State Council shall, in accordance with their duties, formulate and promulgate the mandatory standards for seismic fortification in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The project owner shall be responsible for the entire process of survey, design and construction of the construction project, shall specify in the survey, design and construction contracts the mandatory standards for seismic fortification to be adopted, shall verify the survey and design deliverables in accordance with the requirements of the contracts, and shall organise the acceptance of the project, so as to ensure that the construction project complies with the mandatory standards for seismic fortification.\nThe project owner may not expressly or implicitly require the units and practitioners engaged in survey, design, construction and the like to violate the mandatory standards for seismic fortification and reduce the seismic performance of the project."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The survey documents of a construction project shall state the seismic site category, analyse the seismic effect on the site, and put forward recommendations on project siting and the treatment of unfavourable geological conditions.\nThe design documents of a construction project shall state the seismic fortification intensity, the seismic fortification category and the seismic fortification measures to be adopted. For a construction project using seismic isolation and energy dissipation technologies, the design documents shall set out clear requirements on the technical performance, inspection and testing, construction and installation, and use and maintenance of the seismic isolation and energy dissipation devices."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "For the following construction projects located in areas of high fortification intensity or in key earthquake monitoring and defence areas, the design unit shall, at the preliminary design stage, prepare a dedicated section on seismic fortification of the construction project in accordance with the relevant provisions of the State and make it part of the design documents:\n(1) major construction projects;\n(2) construction projects in which serious secondary disasters may occur during an earthquake;\n(3) construction projects whose use functions may not be interrupted during an earthquake or need to be restored as soon as possible."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "For high-rise building projects that exceed the limits, the design unit shall explain the matter in the design documents, and the project owner shall, at the preliminary design stage, submit the design documents and other materials to the competent department of housing and urban-rural development of the people's government of the province, autonomous region or municipality directly under the Central Government for examination and approval of seismic fortification. The competent department of housing and urban-rural development shall organise expert review and, where the seismic fortification measures adopted are reasonable and feasible, grant approval. The opinion on examination and approval of seismic fortification for high-rise building projects that exceed the limits shall serve as the basis for the design and review of construction drawings.\nHigh-rise building projects that exceed the limits as referred to in the preceding paragraph mean high-rise building projects that exceed the applicable height and applicable structural types specified in the current national standards, and high-rise building projects of a particularly irregular configuration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The general contracting unit, the construction unit and the project supervision unit shall establish a quality responsibility system for construction projects and strengthen the administration of the construction quality of seismic fortification measures for construction projects.\nThe State encourages the general contracting unit and the construction unit to use information technology to collect and retain information on the construction quality of concealed works.\nThe construction unit shall carry out construction in accordance with the mandatory standards for seismic fortification."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The project owner shall record in the user manual such particulars as the design service life, structural system, seismic fortification intensity and seismic fortification category of the building, as well as the requirements for use and maintenance, and shall deliver the user manual to the user or the buyer."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Construction projects are classified, on the basis of factors such as their use functions and their role in earthquake resistance and disaster relief, into the special fortification category, the key fortification category, the standard fortification category and the moderate fortification category. Buildings such as schools, kindergartens, hospitals, elderly care institutions, child welfare institutions, emergency command centres, emergency shelters and radio and television facilities shall be provided with seismic fortification measures at a level not lower than the requirements for the key fortification category.\nNewly built buildings such as schools, kindergartens, hospitals, elderly care institutions, child welfare institutions, emergency command centres, emergency shelters and radio and television facilities located in areas of high fortification intensity or in key earthquake monitoring and defence areas shall, in accordance with the relevant provisions of the State, adopt seismic isolation, energy dissipation and other technologies to ensure that they can meet the requirements for normal use when an earthquake of the fortification level for the region occurs.\nThe State encourages the adoption of seismic isolation, energy dissipation and other technologies in construction projects other than those provided for in the preceding paragraph so as to improve seismic performance."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The relevant departments of the State Council and the administrative department for standardisation of the State Council shall, in accordance with their respective duties, promote the formulation of technical standards for seismic isolation and energy dissipation devices and specify the general technical requirements. Manufacturers of seismic isolation and energy dissipation devices are encouraged to formulate enterprise standards that are stricter than national standards and industry standards.\nEnterprises that produce and deal in seismic isolation and energy dissipation devices shall establish a unique coding system and a system of seals for product inspection certificates, and shall collect and store information on the production, dealing in, testing and other aspects of the devices, so as to ensure that the quality information of the devices is traceable. The quality of seismic isolation and energy dissipation devices shall comply with the provisions of the relevant laws and regulations on product quality and the relevant national technical standards.\nThe project owner shall organise the survey, design, construction and project supervision units to establish a traceability system for the quality of seismic isolation and energy dissipation works, use information technology to collect and store information and materials on the entire process of the procurement, survey, design, on-site testing, installation and construction, and completion acceptance of seismic isolation and energy dissipation devices, and incorporate them into the project archives."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Before seismic isolation and energy dissipation devices are used in a construction project, the construction unit shall, under the supervision of the project owner or the project supervision unit, take samples and send them to an institution entrusted by the project owner that possesses the appropriate qualification for quality testing of construction projects for testing. The use of substandard seismic isolation and energy dissipation devices is prohibited.\nWhere general construction contracting is practised, the installation of seismic isolation and energy dissipation devices, being part of the construction of the main structure of the construction project, shall be completed by the general contracting unit itself.\nProject quality testing institutions shall establish systems for recording and retaining process data and result data, testing video materials and testing reports of construction projects, shall be responsible for the truthfulness and accuracy of the testing data and testing reports, and may not issue false testing data or testing reports."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Survey, Design and Construction"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State applies a system for appraising the seismic performance of construction projects.\nFor construction projects that shall undergo seismic performance appraisal in accordance with the provisions of Article 39 of the Law of the People's Republic of China on Protecting Against and Mitigating Earthquake Disasters, the owner shall entrust an institution with the appropriate technical conditions and technical capability to conduct the appraisal.\nThe State encourages seismic performance appraisal of completed construction projects other than those provided for in the preceding paragraph which have not adopted seismic fortification measures or have not met the mandatory standards for seismic fortification."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Appraisal, Strengthening and Maintenance"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The result of a seismic performance appraisal shall determine whether the construction project has serious seismic safety hidden dangers and whether seismic strengthening is required.\nThe result of a seismic performance appraisal shall be truthful, objective and accurate."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Appraisal, Strengthening and Maintenance"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The owner of a construction project shall conduct safety monitoring of construction projects that have serious seismic safety hidden dangers and, before strengthening, shall take measures such as suspending or restricting their use.\nWhere the result of a seismic performance appraisal determines that seismic strengthening is required and that strengthening is worthwhile, the owner shall carry out seismic strengthening of the completed construction project.\nWhere seismic strengthening is carried out on completed buildings such as schools, kindergartens, hospitals, elderly care institutions, child welfare institutions, emergency command centres, emergency shelters and radio and television facilities located in areas of high fortification intensity or in key earthquake monitoring and defence areas, seismic isolation, energy dissipation and other technologies shall be adopted after full demonstration so as to ensure that their seismic performance complies with the mandatory standards for seismic fortification."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Appraisal, Strengthening and Maintenance"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Seismic strengthening shall be carried out in accordance with the provisions of the Regulations on the Quality Administration of Construction Projects and the like, and shall comply with the mandatory standards for seismic fortification.\nAfter completion acceptance is passed, information such as the time of seismic strengthening and the subsequent service life shall be made public by information technology or by placing a permanent sign at a prominent part of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Appraisal, Strengthening and Maintenance"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The owner of a construction project shall, in accordance with the provisions, inspect, repair and maintain the seismic components, isolation trenches, isolation joints, seismic isolation and energy dissipation devices and isolation markings of the construction project, and promptly eliminate safety hidden dangers.\nNo unit or individual may without authorisation alter, damage or remove the seismic components, isolation trenches, isolation joints, seismic isolation and energy dissipation devices or isolation markings of a construction project.\nAny unit or individual that discovers the unauthorised alteration, damage or removal of the seismic components, isolation trenches, isolation joints, seismic isolation and energy dissipation devices or isolation markings of a construction project shall have the right to stop the act and to report it to the competent department of housing and urban-rural development or to another relevant supervision and administration department."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Appraisal, Strengthening and Maintenance"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "People's governments at all levels and the relevant departments shall strengthen the administration of seismic fortification of rural construction projects and improve the seismic performance of rural construction projects."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Seismic Fortification of Rural Construction Projects"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "People's governments at or above the county level shall give the necessary policy support for the seismic strengthening of rural villagers' residences and rural public facilities that, according to seismic performance appraisal, do not meet the mandatory standards for seismic fortification.\nIn carrying out the renovation of dilapidated rural housing, relocation of residents, and post-disaster recovery and reconstruction, it shall be ensured that the construction projects meet the mandatory standards for seismic fortification."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Seismic Fortification of Rural Construction Projects"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The local people's governments at or above the county level shall prepare and distribute collections of practical seismic technical drawings suitable for rural areas.\nIn the construction of rural villagers' residences, the collections of seismic technical drawings may be used, or a design unit may be engaged to carry out the design, and construction shall be carried out in accordance with the requirements of the drawings or the design."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Seismic Fortification of Rural Construction Projects"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The local people's governments at or above the county level shall strengthen guidance and services for the earthquake resistance of rural villagers' residences and rural public facilities, strengthen technical training, organise the construction of demonstration housing with earthquake resistance, and promote the application of structural forms and construction methods with good seismic performance."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Seismic Fortification of Rural Construction Projects"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen organisational leadership over the administration of earthquake resistance of construction projects, establish working mechanisms for the administration of earthquake resistance of construction projects, and incorporate the relevant work into their own plans for national economic and social development.\nPeople's governments at or above the county level shall include the funds required for earthquake resistance of construction projects in their own budgets.\nThe local people's governments at or above the county level shall organise the relevant departments to carry out earthquake risk analysis in light of local conditions and to apply classified administration according to the degree of risk."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "People's governments at or above the county level shall give the necessary policy support for the seismic strengthening of old housing that has not adopted seismic fortification measures or has not met the mandatory standards for seismic fortification.\nThe State encourages owners of construction projects to carry out seismic strengthening in conjunction with the installation of lifts, energy-saving renovation and the like so as to improve the seismic performance of old housing."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The State encourages financial institutions to develop and provide financial products and services, to promote the improvement of the earthquake resistance and disaster prevention capacity of construction projects, and to support the development of industries related to earthquake resistance of construction projects and the application of new technologies.\nThe local people's governments at or above the county level shall encourage and guide social forces to participate in seismic performance appraisal and seismic strengthening."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State encourages scientific research and educational institutions to establish laboratories for technologies for the earthquake resistance of construction projects and practical training bases for personnel.\nPeople's governments at or above the county level shall, in accordance with the law, give policy support in respect of land use, financing and the like for projects commercialising new technologies for the earthquake resistance of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent departments of housing and urban-rural development or other relevant supervision and administration departments of the people's governments at or above the county level shall formulate catalogues for the promotion of new technologies for the earthquake resistance of construction projects and strengthen the training of administrators and technicians in the earthquake resistance of construction projects."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "After an earthquake disaster occurs, the competent departments of housing and urban-rural development or other relevant supervision and administration departments of the people's governments at or above the county level shall carry out emergency safety assessment of construction projects and surveys of earthquake damage to construction projects, and shall collect and preserve the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent departments of housing and urban-rural development and other relevant supervision and administration departments of the people's governments at or above the county level shall, in accordance with the division of duties, strengthen supervisory inspections of the implementation of the mandatory standards for seismic fortification of construction projects.\nThe competent departments of housing and urban-rural development of the people's governments at or above the county level shall, together with the relevant departments, establish and improve databases of information on the seismic fortification of construction projects and share data in real time with the emergency management, earthquake and other departments."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "In performing their duties of supervision and administration of the earthquake resistance of construction projects, the competent departments of housing and urban-rural development or other relevant supervision and administration departments of the people's governments at or above the county level shall have the power to take the following measures:\n(1) conduct supervisory inspections of construction projects or construction sites;\n(2) make investigations and enquiries of the relevant units and persons;\n(3) consult and copy the documents and materials of the units under inspection relating to the earthquake resistance of construction projects;\n(4) conduct sampling tests of seismic structural materials, components and seismic isolation and energy dissipation devices;\n(5) seal up construction sites suspected of violating the mandatory standards for seismic fortification;\n(6) where problems that may affect seismic quality are discovered, order the units concerned to carry out the necessary testing and appraisal."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "When carrying out supervisory inspections, the competent departments of housing and urban-rural development or other relevant supervision and administration departments of the people's governments at or above the county level may entrust professional institutions with technical support work such as sampling tests and seismic performance appraisal."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The competent departments of housing and urban-rural development or other relevant supervision and administration departments of the people's governments at or above the county level shall establish a credit record system for enterprises and practitioners responsible for the earthquake resistance of construction projects and incorporate the relevant credit records into the national credit information sharing platform."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Any unit or individual shall have the right to report illegal acts that violate the provisions of these Regulations.\nThe competent department of housing and urban-rural development or other relevant supervision and administration department that receives a report shall conduct an investigation, handle the matter in accordance with the law and keep the informant confidential."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a staff member of the competent department of housing and urban-rural development or of another relevant supervision and administration department neglects his or her duties, abuses his or her power or commits irregularities for personal gain in supervision and administration in violation of the provisions of these Regulations, disciplinary sanctions shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the project owner expressly or implicitly requires the units and practitioners engaged in survey, design, construction and the like to violate the mandatory standards for seismic fortification and reduce the seismic performance of the project, it shall be ordered to make correction and shall be fined not less than RMB 200,000 and not more than RMB 500,000; where the circumstances are serious, it shall be fined not less than RMB 500,000 and not more than RMB 5,000,000; where losses are caused, it shall bear liability for compensation in accordance with the law.\nWhere, in violation of the provisions of these Regulations, the project owner carries out construction of a high-rise building project that exceeds the limits without the examination and approval of seismic fortification, it shall be ordered to stop construction and to make correction within a specified time limit, and shall be fined not less than RMB 200,000 and not more than RMB 1,000,000; where losses are caused, it shall bear liability for compensation in accordance with the law.\nWhere, in violation of the provisions of these Regulations, the project owner fails to organise the survey, design, construction and project supervision units to establish a traceability system for the quality of seismic isolation and energy dissipation works, or fails to collect and store information and materials on the entire process of the procurement, survey, design, on-site testing, installation and construction, and completion acceptance of seismic isolation and energy dissipation devices and incorporate them into the project archives, it shall be ordered to make correction and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where losses are caused, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a design unit commits any of the following acts, it shall be ordered to make correction and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where the circumstances are serious, it shall be ordered to suspend business for rectification and its qualification grade shall be lowered or its qualification certificate revoked; where losses are caused, it shall bear liability for compensation in accordance with the law:\n(1) failing to design construction drawings in accordance with the opinion on examination and approval of seismic fortification for high-rise building projects that exceed the limits;\n(2) failing to make the dedicated section on seismic fortification of the construction project part of the design documents at the preliminary design stage;\n(3) failing to carry out the design in accordance with the mandatory standards for seismic fortification."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit fails to carry out construction in accordance with the mandatory standards for seismic fortification, it shall be ordered to make correction and shall be fined not less than 2 per cent and not more than 4 per cent of the contract price of the project; where the construction project is thereby rendered non-compliant with the mandatory standards for seismic fortification, it shall be responsible for redoing the work and strengthening the project and shall compensate for the losses thus caused; where the circumstances are serious, it shall be ordered to suspend business for rectification and its qualification grade shall be lowered or its qualification certificate revoked."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction unit fails to take samples of seismic isolation and energy dissipation devices and send them for testing, or uses substandard seismic isolation and energy dissipation devices, it shall be ordered to make correction and shall be fined not less than RMB 100,000 and not more than RMB 200,000; where the circumstances are serious, it shall be ordered to suspend business for rectification and shall concurrently be fined not less than RMB 200,000 and not more than RMB 500,000, and its qualification grade shall be lowered or its qualification certificate revoked; where losses are caused, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a project quality testing institution fails to establish systems for recording and retaining process data and result data, testing video materials and testing reports of construction projects, it shall be ordered to make correction and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where the circumstances are serious, its qualification certificate shall be revoked; where losses are caused, it shall bear liability for compensation in accordance with the law.\nWhere, in violation of the provisions of these Regulations, a project quality testing institution issues false testing data or testing reports, it shall be ordered to make correction and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where the circumstances are serious, its qualification certificate and the practising qualification certificates of the registered practitioners directly responsible shall be revoked, and the person directly in charge and the other persons directly responsible shall be permanently prohibited from engaging in project quality testing; where losses are caused, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a seismic performance appraisal institution fails to conduct seismic performance appraisal in accordance with the mandatory standards for seismic fortification, it shall be ordered to make correction and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where the circumstances are serious, it shall be ordered to suspend business for rectification and shall concurrently be fined not less than RMB 300,000 and not more than RMB 500,000; where losses are caused, it shall bear liability for compensation in accordance with the law.\nWhere, in violation of the provisions of these Regulations, a seismic performance appraisal institution issues a false appraisal result, it shall be ordered to make correction and shall be fined not less than RMB 100,000 and not more than RMB 300,000; where the circumstances are serious, it shall be ordered to suspend business for rectification and shall concurrently be fined not less than RMB 300,000 and not more than RMB 500,000, the practising qualification certificates of the registered practitioners directly responsible shall be revoked, and the person directly in charge and the other persons directly responsible shall be permanently prohibited from engaging in seismic performance appraisal; where losses are caused, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the seismic components, isolation trenches, isolation joints, seismic isolation and energy dissipation devices or isolation markings of a construction project are altered, damaged or removed without authorisation, the illegal act shall be ordered to be stopped, the original state shall be restored or other remedial measures shall be taken, and a fine of not less than RMB 50,000 and not more than RMB 100,000 shall be imposed on an individual, and a fine of not less than RMB 100,000 and not more than RMB 300,000 shall be imposed on a unit; where losses are caused, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a unit is fined in accordance with the provisions of these Regulations, the person directly in charge and the other persons directly responsible shall be fined not less than 5 per cent and not more than 10 per cent of the amount of the fine imposed on the unit.\nThe administrative penalties of lowering the qualification grade or revoking the qualification certificate provided for in these Regulations shall be decided by the authority that issued the qualification certificate; other administrative penalties shall be decided by the competent department of housing and urban-rural development or other relevant supervision and administration department in accordance with its statutory functions and powers."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "For the purposes of these Regulations, the following terms have the meanings given below:\n(1) Construction project: mainly including civil engineering, building works, and the installation of lines, pipelines and equipment.\n(2) Mandatory standards for seismic fortification: the mandatory standards for engineering construction that cover the seismic fortification category, seismic performance requirements and seismic fortification measures.\n(3) Construction projects whose use functions may not be interrupted during an earthquake or need to be restored as soon as possible: construction projects that provide emergency medical care, water supply, power supply, transport, communications and other support, or that serve emergency command and evacuation and shelter functions, after an earthquake occurs.\n(4) Areas of high fortification intensity: areas with a seismic fortification intensity of degree 8 or above.\n(5) Key earthquake monitoring and defence areas: areas and cities where there is a risk of a destructive earthquake, or which may be affected by a destructive earthquake, in the coming 5 to 10 years and where serious earthquake disaster losses may be caused."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "These Regulations do not apply to emergency rescue and disaster relief projects and other temporary construction projects.\nWhere the Central Military Commission provides otherwise on the administration of earthquake resistance of military construction projects, the relevant provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2021."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]

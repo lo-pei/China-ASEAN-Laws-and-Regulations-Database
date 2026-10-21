@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p20
-   法规 26 部 / 译文 908 条
+   法规 28 部 / 译文 1041 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -6828,6 +6828,1608 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0613'] = {
+    "lawId": "CN-REG-0613",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 82 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Articles of Association are formulated in accordance with the Arbitration Law of the People's Republic of China (hereinafter referred to as the Arbitration Law) for the purpose of regulating the conduct of this Arbitration Commission, ensuring the fair and timely arbitration of economic disputes and protecting the lawful rights and interests of the parties."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a contract dispute or other dispute over property rights and interests arises between citizens, legal persons and other organisations that are equal subjects, they may apply to this Arbitration Commission for arbitration in accordance with the law.\nThis Arbitration Commission shall not accept applications for arbitration arising from labour disputes or from disputes over agricultural contracts within agricultural collective economic organisations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The seat of this Arbitration Commission (hereinafter referred to as the Arbitration Commission) shall be located in xx City."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The Arbitration Commission shall be composed of one chairman, two to four vice-chairmen and seven to eleven members. Of these, one to two shall be full-time resident members, and the other members shall serve part-time.\nThe Arbitration Commission shall have one secretary-general. The secretary-general may concurrently be a full-time resident member.\nThe list of the members of the Arbitration Commission shall be reported to the China Arbitration Association for the record."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Arbitration Commissions"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The term of each Arbitration Commission shall be three years. Upon expiry of the term, one third of the members shall be replaced.\nThe replacement of the members of the next Arbitration Commission shall be completed two months before the expiry of the term of the Arbitration Commission; where replacement cannot be completed under special circumstances, it shall be completed within three months after the expiry of the term.\nThe previous Arbitration Commission shall perform its duties until the new Arbitration Commission is constituted."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Arbitration Commissions"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The members of a new Arbitration Commission shall be nominated by the meeting of chairmen of the previous Arbitration Commission after consultation with the relevant departments of the municipal people's government and the chamber of commerce, and shall be appointed by the municipal people's government."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Arbitration Commissions"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Meetings of the Arbitration Commission shall be presided over by the chairman or by a vice-chairman entrusted by the chairman. A meeting may be held only when more than two thirds of the members are present. Amendment of the Articles of Association or the adoption of a resolution to dissolve the Arbitration Commission shall require the approval of more than two thirds of all the members, and other resolutions shall require the approval of more than two thirds of the members present at the meeting."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Arbitration Commissions"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The main duties of the meetings of the Arbitration Commission are:\n(1) to deliberate on important matters such as the working guidelines and work plans of the Arbitration Commission and to adopt the corresponding resolutions;\n(2) to deliberate on and adopt the annual work report and the financial report submitted by the secretary-general of the Arbitration Commission;\n(3) to decide on the candidates for the secretary-general of the Arbitration Commission and for the person in charge of the expert consultation body;\n(4) to deliberate on and adopt the plan for the establishment of the administrative office of the Arbitration Commission;\n(5) to decide on the appointment, dismissal and removal from the roll of arbitrators;\n(6) to decide on the withdrawal of the chairman where the chairman of the Arbitration Commission serves as an arbitrator;\n(7) to amend the Articles of Association of the Arbitration Commission;\n(8) to resolve to dissolve the Arbitration Commission;\n(9) other duties prescribed by the Arbitration Law, the arbitration rules and these Articles of Association."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Arbitration Commissions"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The chairman, vice-chairmen and secretary-general of the Arbitration Commission shall form a meeting of chairmen, which shall be responsible for the important day-to-day work of the Arbitration Commission during the period when the meetings of the Arbitration Commission are not in session."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Arbitration Commissions"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The Arbitration Commission may, as needed, establish an expert consultation body to provide the Arbitration Commission and arbitrators with advisory opinions on difficult issues.\nThe expert consultation body shall have one person in charge, who shall concurrently be a vice-chairman of the Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Arbitration Commissions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a resolution to dissolve is adopted at a meeting of the Arbitration Commission and the municipal people's government consents, the Arbitration Commission shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Arbitration Commissions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The Arbitration Commission shall have an administrative office under it. The administrative office shall, under the leadership of the secretary-general of the Arbitration Commission, be responsible for handling the day-to-day work of the Arbitration Commission.\nThe main duties of the administrative office are:\n(1) to handle specifically procedural matters such as the acceptance of arbitration cases, the service of arbitration documents and archives management;\n(2) to collect and manage arbitration fees;\n(3) to handle other matters assigned by the Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Offices"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The staff of the administrative office shall be employed upon the decision of the meeting of chairmen of the Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Administrative Offices"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The list of arbitrators shall be proposed by the meeting of chairmen, deliberated and adopted at a meeting of the Arbitration Commission, and thereafter the arbitrators shall be appointed by the Arbitration Commission and issued letters of appointment.\nThe term of appointment of arbitrators shall be three years and may be renewed upon expiry."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The Arbitration Commission shall establish panels of arbitrators according to different specialities.\nThe panels of arbitrators shall be reported to the China Arbitration Association for the record."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Arbitrators shall strictly observe the provisions of the arbitration rules and guarantee that the parties exercise the rights prescribed in the arbitration rules."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Arbitrators shall treat both parties equally and shall not represent or favour either party."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "After accepting a case, an arbitrator shall carefully and thoroughly review all the evidence and materials submitted by the parties and make preparations for the hearing."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an arbitrator holds a hearing to try an arbitration case, he or she shall fully hear the statements of both parties and earnestly ascertain the facts."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an arbitrator meets with a party or agent with the consent of the arbitral tribunal or the Arbitration Commission, the meeting shall be held at the office premises of the Arbitration Commission; without the consent of the arbitral tribunal or the Arbitration Commission, an arbitrator shall not meet privately with either party or agent, and shall not accept evidence or materials provided by one party or agent alone or discuss the circumstances of the arbitration case with one party or agent."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Arbitrators shall promptly deliberate after the conclusion of the trial of a case and prepare the arbitral award in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Arbitrators shall strictly keep arbitration secrets confidential and shall not disclose to the outside the process of the trial of a case, the deliberations of the arbitral tribunal, the business secrets involved in the case, etc."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where an arbitrator is in any of the following circumstances, the Arbitration Commission shall dismiss him or her:\n(1) concealing circumstances requiring withdrawal, thereby adversely affecting the trial of the case;\n(2) failing to appear at the hearing to try the case without justified reasons;\n(3) other circumstances making it inappropriate for him or her to continue to serve as an arbitrator."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where an arbitrator meets privately with a party or agent, or accepts invitations, gifts or entertainment from a party or agent, or in arbitrating a case solicits or accepts bribes, engages in malpractices for personal gain or perverts the law in making an award, he or she shall bear legal liability in accordance with the law, and the Arbitration Commission shall remove him or her from the roll."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Arbitrators"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The finances of the Arbitration Commission shall be subject to independent accounting."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Finance"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The sources of funds of the Arbitration Commission are:\n(1) government funding;\n(2) arbitration fees paid by the parties;\n(3) other lawful income."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Finance"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the Arbitration Commission terminates, its property shall be liquidated. After liquidation, the remaining property shall be owned by the State."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Finance"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "These Articles of Association shall be interpreted by the Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "These Articles of Association shall come into force on the date of approval by the municipal people's government.\nAnnex II:\nModel Text of the Interim Arbitration Rules of the Arbitration Commission"
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "These Interim Rules are formulated in accordance with the relevant provisions of the Arbitration Law of the People's Republic of China (hereinafter referred to as the Arbitration Law) and the Civil Procedure Law of the People's Republic of China (hereinafter referred to as the Civil Procedure Law) for the purpose of ensuring the fair and timely arbitration of economic disputes and protecting the lawful rights and interests of the parties."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a contract dispute or other dispute over property rights and interests arises between citizens, legal persons and other organisations that are equal subjects, they may apply to this Arbitration Commission for arbitration in accordance with the law.\nThis Arbitration Commission shall not accept applications for arbitration arising from labour disputes or from disputes over agricultural contracts within agricultural collective economic organisations."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the parties resolve a dispute by arbitration, they shall do so voluntarily and reach an arbitration agreement. Where there is no arbitration agreement and one party applies for arbitration, this Arbitration Commission shall not accept the application."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "An arbitration agreement includes the arbitration clause concluded in a contract and an agreement requesting arbitration reached in other written form before or after the occurrence of a dispute.\nAn arbitration agreement shall contain the following:\n(1) the expression of intent to request arbitration;\n(2) the matters to be arbitrated;\n(3) the expression of intent to choose this Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "An arbitration agreement exists independently, and the modification, rescission, termination or invalidity of the contract shall not affect the validity of the arbitration agreement.\nThe arbitral tribunal has the power to confirm the validity of the contract."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a party objects to the validity of the arbitration agreement, it may request this Arbitration Commission to make a decision or request a people's court to make a ruling. Where one party requests this Arbitration Commission to make a decision and the other party requests a people's court to make a ruling, the people's court shall make the ruling.\nWhere a party objects to the validity of the arbitration agreement, it shall raise the objection before the first hearing of the arbitral tribunal; where the parties have agreed not to hold a hearing, the objection shall be raised before the first submission of the statement of defence."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "An application for arbitration by a party shall meet the following conditions:\n(1) there is an arbitration agreement;\n(2) there are specific arbitration claims and facts and reasons;\n(3) the matter falls within the scope of acceptance of this Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "An applicant applying for arbitration shall submit to this Arbitration Commission the arbitration agreement, the application for arbitration and copies thereof."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "An application for arbitration shall state the following:\n(1) the name, sex, age, occupation, work unit and domicile of the applicant and the respondent, and, in the case of a legal person or other organisation, its name and domicile and the name and position of its legal representative or principal person in charge;\n(2) the arbitration claims and the facts and reasons on which they are based;\n(3) the evidence and the sources of the evidence, and the names and domiciles of witnesses."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where this Arbitration Commission, within five days from the date of receipt of the application for arbitration, considers that the conditions for acceptance are met, it shall accept the case and notify the parties, and may also accept the case immediately and notify the parties; where it considers that the conditions for acceptance are not met, it shall notify the parties in writing that the case is not accepted and explain the reasons.\nWhere, after receiving the application for arbitration, this Arbitration Commission considers that the application does not comply with the provisions of Article 9 of these Interim Rules, it may require the party to make supplements and corrections within a time limit; where no supplements or corrections are made within the time limit, the application shall be deemed not to have been made."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "After accepting an application for arbitration, this Arbitration Commission shall, within 15 days, serve these Interim Rules and the panel of arbitrators on the applicant, and serve a copy of the application for arbitration, the Interim Rules and the panel of arbitrators on the respondent.\nAfter receiving the copy of the application for arbitration, the respondent shall, within 15 days, submit a statement of defence to the Arbitration Commission. After receiving the statement of defence, the Arbitration Commission shall, within 15 days, serve a copy of the statement of defence on the applicant. Failure of the respondent to submit a statement of defence shall not affect the conduct of the arbitration proceedings."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The applicant may waive or modify its arbitration claims. The respondent may admit or rebut the arbitration claims and has the right to file a counterclaim.\nThis Arbitration Commission shall, within 15 days from the date of receipt of the respondent's application for a counterclaim, serve a copy of the application for a counterclaim on the applicant.\nThe applicant shall, within 15 days from the date of receipt of the application for a counterclaim, submit a written defence to this Arbitration Commission; failure to submit a written defence shall not affect the conduct of the arbitration proceedings."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, because of the conduct of the other party or other reasons, an award may not be enforceable or may be difficult to enforce, a party may apply for property preservation.\nWhere a party applies for property preservation, this Arbitration Commission shall submit the party's application to a people's court in accordance with the relevant provisions of the Civil Procedure Law.\nWhere the application is erroneous, the applicant shall compensate the respondent for the losses suffered as a result of the property preservation."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Parties and legal representatives may entrust lawyers and other agents to conduct arbitration activities. Where lawyers and other agents are entrusted to conduct arbitration activities, a power of attorney shall be submitted to this Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter II Application and Acceptance"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "An arbitral tribunal may be composed of three arbitrators or one arbitrator. Where it is composed of three arbitrators, a presiding arbitrator shall be designated."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the parties agree that the arbitral tribunal shall be composed of three arbitrators, each party shall select one arbitrator or entrust the chairman of this Arbitration Commission to designate one arbitrator, and the third arbitrator shall be jointly selected by the parties or jointly designated by the chairman of this Arbitration Commission upon their joint entrustment. The third arbitrator shall be the presiding arbitrator.\nWhere the parties agree that the arbitral tribunal shall be composed of one arbitrator, the arbitrator shall be jointly selected by the parties or designated by the chairman of this Arbitration Commission upon their joint entrustment."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the parties have not agreed on the manner of composition of the arbitral tribunal or have not selected arbitrators within 15 days from the date of receipt of the notice of acceptance of arbitration, the chairman of this Arbitration Commission shall designate them."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "After the arbitral tribunal is composed, this Arbitration Commission shall, within five days from the date of composition of the arbitral tribunal, notify the parties in writing of the composition of the arbitral tribunal, or may notify the parties in writing of the composition on the day of composition."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "An arbitrator must withdraw in any of the following circumstances, and the parties also have the right to apply for withdrawal:\n(1) being a party to the case or a close relative of a party or agent;\n(2) having an interest in the case;\n(3) having other relations with a party or agent to the case that may affect fair arbitration;\n(4) having met privately with a party or agent, or having accepted invitations, gifts or entertainment from a party or agent."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a party applies for withdrawal, it shall state the reasons and raise the application before the first hearing. Where the grounds for withdrawal become known after the first hearing, the application may be raised before the conclusion of the last hearing."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Whether an arbitrator shall withdraw shall be decided by the chairman of this Arbitration Commission; where the chairman of the Arbitration Commission serves as an arbitrator, it shall be decided by a meeting of this Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where an arbitrator is unable to perform his or her duties because of withdrawal or other reasons, an arbitrator shall be re-selected or designated in accordance with the provisions of the Arbitration Law and these Interim Rules.\nAfter an arbitrator is re-selected or designated because of withdrawal, the parties may request that the arbitration proceedings already conducted be re-conducted, and whether to permit this shall be decided by the arbitral tribunal; the arbitral tribunal may also decide on its own whether the arbitration proceedings already conducted shall be re-conducted."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an arbitrator meets privately with a party or agent, or accepts invitations, gifts or entertainment from a party or agent, and the circumstances are serious, or where an arbitrator in arbitrating a case solicits or accepts bribes, engages in malpractices for personal gain or perverts the law in making an award, he or she shall bear legal liability in accordance with the law, and this Arbitration Commission shall remove him or her from the roll."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter III Constitution of the Arbitral Tribunal"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Arbitration shall be conducted by way of hearing. Where the parties agree not to hold a hearing, the arbitral tribunal may make an award on the basis of the application for arbitration, the statement of defence and other materials."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Arbitration shall not be conducted in public. Where the parties agree to conduct it in public, it may be conducted in public, except where State secrets are involved."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The Arbitration Commission shall notify both parties of the date of the hearing 10 days before the hearing of the arbitral tribunal; where both parties agree upon consultation with the arbitral tribunal, the hearing may be held earlier. Where a party has justified reasons, it may request postponement of the hearing within seven days before the hearing; whether to postpone shall be decided by the arbitral tribunal."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where the applicant, having been notified in writing, fails to appear at the hearing without justified reasons or leaves the hearing midway without the permission of the arbitral tribunal, the application for arbitration may be deemed to have been withdrawn.\nWhere the respondent, having been notified in writing, fails to appear at the hearing without justified reasons or leaves the hearing midway without the permission of the arbitral tribunal, an award may be made by default."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The parties shall provide evidence in support of their claims.\nThe arbitral tribunal may collect evidence on its own where it considers it necessary."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Documentary evidence shall be submitted in original form. Physical evidence shall be submitted in original form. Where it is truly difficult to submit the originals, copies, photographs, duplicates or extracts may be submitted.\nDocumentary evidence in a foreign language shall be accompanied by a Chinese translation."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the arbitral tribunal considers that a specialised issue requires appraisal, it may refer it to an appraisal institution agreed upon by the parties, or to an appraisal institution designated by the arbitral tribunal.\nAt the request of the parties or the requirement of the arbitral tribunal, the appraisal institution shall send appraisers to attend the hearing. The parties may, with the permission of the arbitral tribunal, put questions to the appraisers."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Evidence shall be presented at the hearing, and the parties may cross-examine each other."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where evidence may be destroyed or is difficult to obtain later, a party may apply for evidence preservation. Where a party applies for evidence preservation, this Arbitration Commission shall submit the party's application to the basic-level people's court of the place where the evidence is located."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The parties have the right to debate in the course of arbitration. At the conclusion of the debate, the presiding arbitrator or the sole arbitrator shall ask the parties for their final opinions."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The arbitral tribunal shall record the hearing in minutes. Where a party or other participant in the arbitration considers that the record of his or her statements contains omissions or errors, he or she has the right to apply for correction; where correction is not made, the application shall be recorded.\nThe minutes shall be signed or sealed by the arbitrators, the recorder, the parties and other participants in the arbitration."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "After applying for arbitration, the parties may settle the dispute by themselves. Where a settlement agreement is reached, they may request the arbitral tribunal to make an award on the basis of the settlement agreement, or may withdraw the application for arbitration."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where the parties reach a settlement agreement and then repudiate it after withdrawing the application for arbitration, they may apply for arbitration on the basis of the arbitration agreement."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Before making an award, the arbitral tribunal may first conduct mediation. Where the parties voluntarily submit to mediation, the arbitral tribunal shall conduct mediation. Where mediation fails, the arbitral tribunal shall promptly make an award.\nWhere a mediation agreement is reached, the arbitral tribunal shall prepare a mediation statement or prepare an award on the basis of the result of the agreement. A mediation statement and an award shall have the same legal effect."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "A mediation statement shall state the arbitration claims and the result agreed upon by the parties. The mediation statement shall be signed by the arbitrators, sealed with the seal of this Arbitration Commission and served on both parties.\nA mediation statement shall take legal effect upon being signed for receipt by both parties.\nWhere a party repudiates the mediation statement before signing for receipt, the arbitral tribunal shall promptly make an award."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "An award shall be made in accordance with the opinion of the majority of the arbitrators, and the dissenting opinion of the minority arbitrators may be recorded in the minutes. Where the arbitral tribunal cannot form a majority opinion, the award shall be made in accordance with the opinion of the presiding arbitrator."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where, in arbitrating a dispute, part of the facts has become clear, the arbitral tribunal may first make a partial award on that part."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The arbitral tribunal shall make an arbitral award within four months after the composition of the arbitral tribunal. Where extension is needed under special circumstances, the presiding arbitrator or sole arbitrator may, upon approval by the chairman of this Arbitration Commission, extend it appropriately."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "An award shall state the arbitration claims, the facts in dispute, the reasons for the award, the result of the award, the bearing of the arbitration fees and the date of the award.\nWhere the parties agree not to state the facts in dispute and the reasons for the award, they may be omitted.\nThe award shall be signed by the arbitrators. An arbitrator holding a dissenting opinion on the award may sign or may not sign."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "After the award is signed by the arbitrators, the Arbitration Commission shall affix the seal of this Arbitration Commission to it."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "An award shall take legal effect from the date on which it is made."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The arbitral tribunal shall correct errors in the text or in calculation in the award and matters that have been decided by the arbitral tribunal but are omitted from the award; the parties may, within 30 days from the date of receipt of the award, request the arbitral tribunal to make corrections."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a party produces evidence proving that the award is in any of the following circumstances, it may, within six months from the date of receipt of the arbitral award, apply to the intermediate people's court of the place where this Arbitration Commission is located for the setting aside of the award:\n(1) there is no arbitration agreement;\n(2) the matters decided fall outside the scope of the arbitration agreement or the Arbitration Commission has no power to arbitrate;\n(3) the composition of the arbitral tribunal or the arbitration procedure violates statutory procedures;\n(4) the evidence on which the award is based was forged;\n(5) the other party concealed evidence sufficient to affect a fair award;\n(6) the arbitrator, in arbitrating the case, solicited or accepted bribes, engaged in malpractices for personal gain or perverted the law in making an award."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The parties shall perform the award within the time limit specified in the arbitral award. Where no time limit for performance is specified, the parties shall perform it immediately.\nWhere one party fails to perform the arbitral award, the other party may, in accordance with the relevant provisions of the Civil Procedure Law, apply to a people's court for enforcement."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IV Hearing and Award"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where the law provides for the limitation period for arbitration, those provisions shall apply; where the law does not provide for the limitation period for arbitration, the provisions on the limitation period for litigation shall apply."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Unless otherwise agreed by the parties or otherwise required by the arbitral tribunal, arbitration documents, notices and materials may be served directly on the parties or agents, or served on the parties or agents by post, fax, telegram or other means."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Periods shall be calculated by hour, day, month and year. The hour and the day on which a period begins shall not be counted in the period.\nWhere the last day of a period falls on a holiday, the first day after the holiday shall be the date on which the period expires.\nPeriods shall not include time in transit; where arbitration documents, materials or notices are handed to the post or dispatched before the expiry of the period, they shall not be deemed overdue."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a party delays beyond a time limit for reasons of force majeure or other justified reasons, it may, within 10 days after the obstacle is removed, apply for an extension of the time limit; whether to permit the extension shall be decided by this Arbitration Commission or the arbitral tribunal."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The remuneration of arbitrators shall be determined by this Arbitration Commission in accordance with the working time spent by the arbitrators on the arbitration case, the degree of difficulty, the amount in dispute, etc.\nThe remuneration of arbitrators shall be paid out of the arbitration case acceptance fees collected by this Arbitration Commission."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "These Interim Rules shall come into force on the date of their promulgation."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0614'] = {
+    "lawId": "CN-REG-0614",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the National Defence Law of the People's Republic of China, the Law of the People's Republic of China on the Protection of Military Facilities and other laws for the purpose of protecting the safety of important military industry facilities, safeguarding their operational effectiveness and the normal conduct of activities such as military industry research, production, testing and storage, and strengthening the modernisation of national defence."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, important military industry facilities mean the following buildings, sites and installations of enterprises and public institutions that undertake national defence research and production tasks and that are directly used for activities such as the research, production, testing and storage of important weapons and equipment:\n(1) the sites where research and production management bodies are located, and sites for technical research and development, manufacturing and assembly, and maintenance support;\n(2) sites and installations used for testing and trials;\n(3) finished product warehouses and warehouses storing major dangerous articles;\n(4) archives, communications centres and data centres;\n(5) communications, observation and navigation stations;\n(6) dedicated ports, wharves and airports, dedicated railway lines and dedicated railways, and dedicated roads;\n(7) other important military industry facilities prescribed by the State Council and the Central Military Commission.\nThe catalogue of important military industry facilities shall be prescribed by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The protection of important military industry facilities shall uphold the leadership of the Communist Party of China, uphold the holistic approach to national security, adhere to compatibility with the defence science, technology and industry system and its layout and coordination with economic and social development, and adhere to active prevention, attention to both the internal and the external, and comprehensive coordination, so as to ensure the safety of important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of defence science, technology and industry of the State Council shall supervise and administer the protection of important military industry facilities throughout the country, and the Equipment Development Department of the Central Military Commission shall perform the relevant duties in coordination. The other relevant departments of the State Council and of the Central Military Commission shall, in accordance with the division of duties, carry out the work related to the protection of important military industry facilities.\nThe local people's governments at or above the county level shall be responsible for the work related to the protection of important military industry facilities within their respective administrative areas. The local departments of defence science, technology and industry administration at or above the county level and the other relevant departments shall, within the scope of their respective duties, carry out the work related to the protection of important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The enterprise or public institution at which important military industry facilities are located shall be the management unit of the important military industry facilities and shall, in accordance with these Regulations, the relevant laws and regulations and the relevant provisions of the State, undertake the protection of the important military industry facilities, provide personnel, funding, materials and technical support for such protection and continuously raise the level of protection of important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Important military industry facilities shall be protected by designating protection zones for important military industry facilities.\nFor important military industry facilities for which protection zones cannot be designated, corresponding protection measures shall be taken in accordance with these Regulations, the relevant laws and regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Organisations and citizens of the People's Republic of China shall all have the obligation to protect important military industry facilities.\nNo organisation or individual may destroy or endanger important military industry facilities.\nAny organisation or individual shall have the right to report or accuse any act that destroys or endangers important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Organisations and individuals that make outstanding contributions to the protection of important military industry facilities shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The scope of a protection zone for important military industry facilities shall, in accordance with the principle of not exceeding the scope of the land and the sea areas and islands used by the management unit of the important military industry facilities, be drawn up by the management unit and reported to the provincial department of defence science, technology and industry administration; the provincial department of defence science, technology and industry administration shall, together with the other relevant departments of the provincial people's government, the local people's government at the county level or at the level of a city divided into districts, and the relevant military organs, examine it and report it for the consent of the people's government of the province, autonomous region or municipality directly under the Central Government. Within 15 days from the date of consent, the provincial department of defence science, technology and industry administration shall report the designation of the scope of the protection zone for important military industry facilities to the competent department of defence science, technology and industry of the State Council.\nAdjustments to the scope of a protection zone for important military industry facilities shall be handled in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Designation of Protection Zones for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The designation or adjustment of the scope of a protection zone for important military industry facilities shall, on the premise of ensuring the safety, confidentiality and operational effectiveness of the important military industry facilities, be coordinated with local economic construction, ecological and environmental protection and the protection of cultural relics, and shall minimise the impact on the production and daily life of local residents.\nWhere a protection zone for important military industry facilities needs to be designated or adjusted for the construction of important military industry facilities, the designation or adjustment shall be completed before construction of the important military industry facility project commences; except where approved by the competent department of defence science, technology and industry of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Designation of Protection Zones for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The local people's governments at or above the county level shall set up signs for protection zones for important military industry facilities in accordance with the pattern uniformly prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Designation of Protection Zones for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The management unit of important military industry facilities shall, in light of the specific conditions and in accordance with the designated scope of the protection zone, build walls, install fences and other obstacles for land protection zones for important military industry facilities, and install obstacles or boundary markers for water area protection zones for important military industry facilities.\nWhere walls, fences and other obstacles cannot be built for a land protection zone for important military industry facilities for objective reasons such as the topography and landforms, the management unit of the important military industry facilities shall install perimeter warning signs for the protection zone and adopt technical protection measures.\nWhere it is difficult to install obstacles or boundary markers for a water area protection zone for important military industry facilities, the maritime safety administration concerned shall, in accordance with the scope of the water area protection zone reported to it by the management unit of the important military industry facilities, announce to the public the location and boundaries of the water area protection zone. Protection zones for important military industry facilities in sea areas shall be marked on nautical charts."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A land protection zone for important military industry facilities shall be subject to enclosed management, and the management unit of the important military industry facilities shall adopt the following safety protection measures:\n(1) sentries shall be posted at the entrances and exits of important sites, technical protection measures such as electronic monitoring, identity recognition, access control and vehicle barriers shall be adopted, and the persons, means of transport, articles and materials entering and leaving shall be subject to security checks, with dangerous articles being detected where necessary;\n(2) in areas or parts with major risk factors or with special requirements for safety protection, electromagnetic protection or confidentiality, technical protection measures such as electronic monitoring, dangerous article detection, early warning detection, sensing and handling of dangerous situations, and anti-reconnaissance and anti-surveillance shall be adopted.\nA water area protection zone for important military industry facilities shall be guarded by sentries, and safety protection measures such as early warning detection, intrusion alarms and denial and countermeasures shall be adopted at the boundaries of the protection zone.\nThe specific standards for safety protection measures shall be prescribed by the competent department of defence science, technology and industry of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Without the consent of the management unit of important military industry facilities, persons, vehicles, vessels and the like other than those of the management unit may not enter the protection zone for important military industry facilities, and photography, video recording, sound recording, sketching and note-taking in the protection zone are prohibited. Where reconnaissance, surveying and positioning in a protection zone for important military industry facilities are truly necessary, the consent of the local provincial department of defence science, technology and industry administration shall be obtained.\nWhere a unit or individual other than the management unit of important military industry facilities uses materials from photography, video recording, sound recording, sketching, note-taking, reconnaissance, surveying or positioning in a protection zone for important military industry facilities, the consent of the local provincial department of defence science, technology and industry administration shall be obtained.\nAircraft flying over a protection zone for important military industry facilities shall obtain approval in accordance with the relevant provisions of the State and shall fly in accordance with the approved flight plan.\nDestroying or moving the walls, obstacles, boundary markers, warning signs or technical protection equipment of a protection zone for important military industry facilities is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Within a protection zone for important military industry facilities, it is prohibited to construct or install facilities that endanger the safety and operational effectiveness of the important military industry facilities.\nIt is prohibited to develop and utilise the underground space of a land protection zone for important military industry facilities, except where laws or administrative regulations provide otherwise or where the consent of the competent department of defence science, technology and industry of the State Council and of the people's government of the province, autonomous region or municipality directly under the Central Government has been obtained."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the protection measures adopted within a protection zone for important military industry facilities are insufficient to ensure the safety, confidentiality and operational effectiveness of the important military industry facilities, or where the important military industry facilities within the protection zone involve major risk factors, the people's government of the province, autonomous region or municipality directly under the Central Government may, on the basis of the nature of the important military industry facilities, the topography and the local conditions of economic construction and social development, designate a safety control area on the periphery of the protection zone and install safety warning signs along its outer edge.\nSafety warning signs shall be installed by the local people's government at or above the county level in accordance with the pattern uniformly prescribed by the State, and the locations shall be determined jointly by the provincial department of defence science, technology and industry administration and the local people's government at the county level or at the level of a city divided into districts.\nWhere it is difficult to install safety warning signs in actual waters in a safety control area on the periphery of a water area protection zone for important military industry facilities, the provisions of the third paragraph of Article 12 of these Regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The designation of a safety control area on the periphery of a protection zone for important military industry facilities shall not change the ownership of the original land, the attachments to the land or the waters. Within such a safety control area, local residents may carry on production and daily life as usual, but may not carry out blasting, shooting or other activities that endanger the safety and operational effectiveness of the important military industry facilities.\nWhere the designation of a safety control area on the periphery of a protection zone for important military industry facilities affects the exercise of rights by owners of immovable property or by holders of usufructuary rights, compensation shall be given in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The obstacle limitation surface area of an airport that is an important military industry facility shall be designated by reference to the obstacle limitation standards for military airports.\nWithin the obstacle limitation surface area of an airport, it is prohibited to construct buildings, structures or other facilities that exceed the airport obstacle limitation standards, and it is prohibited to engage in activities that affect flight safety or the operational effectiveness of airport navigation facilities.\nThe airport management unit shall periodically inspect compliance with the airport obstacle limitation requirements and, where it finds that buildings, structures or other facilities have been constructed in excess of the airport obstacle limitation standards, shall promptly report to the department of defence science, technology and industry administration and the other relevant departments. The departments concerned shall promptly deal with the matter in accordance with the law.\nLocal people's governments shall formulate protection measures and urge the units concerned to install aviation obstruction markers on tall buildings, structures or other facilities within the obstacle limitation surface area of an airport.\nFlight activities conducted at an airport that is an important military industry facility and within a certain surrounding area shall comply with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Within the electromagnetic environment protection area of fixed radio facilities or electromagnetic test facilities that are important military industry facilities, it is prohibited to construct or install equipment and electromagnetic obstacles that affect the operational effectiveness of the fixed radio facilities or electromagnetic test facilities, and it is prohibited to engage in activities that affect the electromagnetic environment of the fixed radio facilities or electromagnetic test facilities.\nThe scope of protection and the protection measures for the electromagnetic environment of fixed radio facilities and electromagnetic test facilities that are important military industry facilities shall be determined jointly by the military and civilian radio administration organs in accordance with the relevant provisions and standards of the State on radio administration. The use of fixed radio facilities and electromagnetic test facilities shall comply with the relevant provisions of the State on radio administration."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where major research, production or testing activities are carried out using important military industry facilities and, for reasons of safety or confidentiality, it is truly necessary to impose temporary control over a specific surrounding area, prohibiting persons, vehicles, vessels or aircraft from entering or prohibiting the relevant activities within a specific period, the management unit of the important military industry facilities shall submit an application for control to the local people's government at the county level 15 working days before the activities begin; where the functions and powers of another unit are involved, the application for control shall be submitted to that unit in accordance with the law. After the application for control is lawfully approved, the unit concerned and the local people's government at the county level shall make it known to the public in an appropriate manner before the activities begin and shall organise the implementation of the control."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "For dedicated railway lines and dedicated railways for which protection zones for important military industry facilities cannot be designated, railway line safety protection zones shall be designated on both sides of the lines in accordance with the provisions of the Regulations on the Safety Administration of Railways, and the matter shall be announced.\nThe management unit of a dedicated railway line or dedicated railway shall install safety protection facilities appropriate to the safety requirements of the railway and strengthen the management and protection of the railway."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A dedicated road for which a protection zone for important military industry facilities cannot be designated may not be occupied or excavated without authorisation. Where a dedicated road needs to be occupied, excavated, crossed over or passed under, or the land of a dedicated road needs to be used, for the construction of a project, the project owner shall obtain in advance the consent of the local provincial department of defence science, technology and industry administration.\nIt is prohibited to pile up articles, install obstacles, discharge pollutants through the road side ditches or engage in other activities affecting safety and smooth flow on a dedicated road or within the scope of its land, and it is prohibited to engage in blasting, sand extraction, quarrying and other activities that endanger the safety and operational effectiveness of the road on both sides of a dedicated road.\nThe management unit of a dedicated road shall install dedicated road signs, strengthen road maintenance and ensure that the road surface is even, the shoulders and slopes are smooth and the relevant facilities are intact."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Protection Measures for Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The management unit of important military industry facilities shall establish and improve its own systems for the protection of important military industry facilities and its protection responsibility system, improve the assessment mechanisms and ensure the safety, confidentiality and operational effectiveness of the important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The management unit of important military industry facilities shall exercise safety management over the entire process of the construction, use and maintenance of the important military industry facilities. Safety protection measures for important military industry facilities shall be planned, constructed and used simultaneously with the important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The management unit of important military industry facilities shall periodically train its personnel, educate them to cherish the important military industry facilities, implement the requirements for their safety protection and keep confidential the State secrets relating to the important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The management unit of important military industry facilities shall establish archives for the important military industry facilities, periodically inspect and maintain them and upgrade and improve safety protection measures as needed."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The management unit of important military industry facilities shall formulate emergency response plans for the protection of its important military industry facilities and periodically conduct emergency drills.\nThe management unit of important military industry facilities shall periodically organise risk assessments for the safety protection of the important military industry facilities and promptly identify and eliminate safety hidden dangers."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the management unit of important military industry facilities is a key unit for public security protection, it shall establish a public security protection body appropriate to its public security protection tasks, allocate full-time public security protection personnel, designate the important military industry facilities as key parts of its public security protection and subject them to priority protection.\nWhere the management unit of important military industry facilities is a key unit for counter-espionage security prevention, it shall implement the requirements for counter-espionage security prevention work and designate its internal functional departments and personnel to undertake the duties of counter-espionage security prevention.\nThe management unit of important military industry facilities shall implement responsibility for cybersecurity and data security protection and, in accordance with the relevant provisions, strengthen the cybersecurity and data security management and protection of the important military industry facilities. Where the important military industry facilities involve critical information infrastructure, the management unit shall properly carry out the related safety protection work in accordance with the relevant provisions.\nWhere the important military industry facilities are targets requiring priority protection in civil air defence work or key targets for preventing terrorist attacks, the management unit of the important military industry facilities shall perform the protection obligations in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a unit other than the management unit of important military industry facilities uses the important military industry facilities, the management unit shall specify the safety protection responsibilities of the user and guide and supervise the implementation of safety protection measures."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The management unit of important military industry facilities shall stop acts that violate the provisions of these Regulations and endanger the safety and operational effectiveness of the important military industry facilities, promptly report them to the relevant departments and cooperate in dealing with them in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The management unit of important military industry facilities shall ascertain and keep abreast of the social environment surrounding the important military industry facilities and, where it discovers circumstances that may endanger their safety and operational effectiveness, shall promptly report to the local provincial department of defence science, technology and industry administration and the other relevant departments and cooperate in dealing with them in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The management unit of important military industry facilities shall, in accordance with the provisions of the relevant laws and regulations, protect the ecological environment, natural resources and cultural relics within the protection zone for important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Responsibilities and Obligations of Management Units of Important Military Industry Facilities"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The local people's governments at or above the county level shall formulate specific plans for the protection of important military industry facilities, which may be announced for implementation.\nThe specific plans for the protection of important military industry facilities for which protection zones are designated shall be submitted for approval together with the plan for designating the scope of the protection zones."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In preparing plans for national economic and social development, the local people's governments at or above the county level, and in preparing territorial spatial plans and other plans, the relevant departments of the State Council and the local people's governments shall take overall account of the needs of protecting important military industry facilities and fully hear the opinions of the departments of defence science, technology and industry administration.\nIn arranging construction projects that may affect the protection of important military industry facilities, the local people's governments at or above the county level shall fully hear the opinions of the departments of defence science, technology and industry administration. Where necessary, the local people's government may, together with the parties concerned, conduct an assessment of the construction project. The licensing of construction projects involving national security matters shall be carried out by the State security organs in accordance with the law.\nWhere the relevant departments of the State Council or the relevant departments of the local people's governments at or above the county level examine and approve a construction project provided for in the second paragraph of this Article, they shall examine whether the opinions of the departments of defence science, technology and industry administration have been solicited; where such opinions have not been solicited as required, they shall require that they be solicited additionally; where changes in the content of the construction project during the examination and approval process may affect the protection of important military industry facilities, the opinions of the departments of defence science, technology and industry administration shall be solicited again.\nThe departments of defence science, technology and industry administration shall put forward their written reply within 30 days from the date of receipt of the letter requesting opinions; where it is necessary to seek instructions from a superior organ or to carry out reconnaissance, surveying or testing, the period may be appropriately extended, but the time for reply shall generally not exceed 90 days."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "In organising the construction of important military industry facility projects, comprehensive consideration shall be given to the needs of national defence construction, local economic construction, ecological and environmental protection and social development, the requirements of territorial spatial plans and other plans shall be met, the opinions of the units concerned shall be solicited in accordance with the law, and a safety and confidentiality environment assessment and an environmental impact assessment shall be carried out.\nWhere important military industry facilities involve major risk factors such as explosion, radioactivity or extreme toxicity, the necessary external safety distance from other sites, facilities and areas shall be maintained at the siting stage in accordance with the requirements of the relevant national standards."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "In arranging construction projects or developing tourist attractions, the local people's governments at or above the county level shall avoid important military industry facilities.\nWhere avoidance is truly impossible and the important military industry facilities need to be demolished, relocated or reconstructed, the local people's government that raises the requirement shall, after the original approving or filing authority has completed the relevant procedures as required, give compensation or policy support in accordance with the relevant provisions. Where the relocation or reconstruction of important military industry facilities involves the use of land, sea areas or islands, the relevant formalities shall be completed promptly in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "People's governments at all levels shall strengthen education on national defence and on the protection of important military industry facilities, so that all citizens enhance their awareness of national defence, protect important military industry facilities, keep confidential the State secrets relating to important military industry facilities and stop acts that destroy or endanger important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The competent department of defence science, technology and industry of the State Council shall establish a risk control mechanism for important military industry facilities, formulate supervisory inspection plans, carry out supervisory inspections together with the relevant departments and promptly deal with the risks and hidden dangers identified."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The local people's governments at or above the county level shall carry out comprehensive treatment of safety and confidentiality hidden dangers around important military industry facilities, urge rectification within a time limit of hidden dangers and problems affecting the protection of important military industry facilities, and improve the plans for protecting important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The enterprise or public institution superior to the management unit of important military industry facilities shall urge and guide the management unit to carry out the protection of the important military industry facilities and provide the necessary support."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where any of the following acts constitutes an act in violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with the law; where the act constitutes espionage and a crime is not yet constituted, the State security organ shall impose a penalty in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(1) entering a protection zone for important military industry facilities without authorisation;\n(2) carrying out activities that endanger the safety and operational effectiveness of important military industry facilities within a safety control area on the periphery of a protection zone for important military industry facilities;\n(3) carrying out activities that affect flight safety or the operational effectiveness of airport navigation facilities within the obstacle limitation surface area of an airport that is an important military industry facility;\n(4) unlawfully carrying out photography, video recording, sound recording, sketching, note-taking, reconnaissance, surveying or positioning in a protection zone for important military industry facilities, or unlawfully using materials from such photography, video recording, sound recording, sketching, note-taking, reconnaissance, surveying or positioning;\n(5) destroying or moving the walls, obstacles, boundary markers, warning signs or technical protection equipment of a protection zone for important military industry facilities, or the signs of a protection zone, the safety warning signs of a safety control area on the periphery of a protection zone, or other signs of important military industry facilities;\n(6) in violation of the provisions of the State, intentionally interfering with the normal operation of important military industry radio facilities, or causing harmful interference to such facilities and refusing to make correction as required by the competent department concerned;\n(7) violating the control measures for research, production or testing activities carried out using important military industry facilities;\n(8) other acts that disrupt the order of research and production in a protection zone for important military industry facilities or endanger the safety of important military industry facilities."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, facilities that endanger the safety and operational effectiveness of important military industry facilities are constructed or installed within a protection zone for important military industry facilities, or the underground space of a land protection zone for important military industry facilities is developed and utilised without authorisation, the competent departments of natural resources, housing and urban-rural development, fisheries and fishery administration and the like shall, in accordance with their respective duties, order the construction activities to be stopped and, in respect of facilities already built, order their demolition within a time limit, and impose a fine in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, buildings, structures or other facilities exceeding the airport obstacle limitation standards are constructed within the obstacle limitation surface area of an airport that is an important military industry facility, the competent departments of natural resources and of housing and urban-rural development shall, in accordance with their respective duties, order the construction activities to be stopped and the excessive height to be demolished within a time limit, and impose a fine in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where flight activities are carried out over a protection zone for important military industry facilities without approval or not in accordance with the approved flight plan, a penalty shall be imposed in accordance with the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, equipment and electromagnetic obstacles affecting the operational effectiveness of fixed radio facilities or electromagnetic test facilities are constructed or installed within the electromagnetic environment protection area of important military industry facilities, or activities affecting the electromagnetic environment of such facilities are carried out, the competent department of natural resources, the radio administration organ and other units shall, in accordance with their respective duties, give a warning and order correction within a time limit; where correction is not made within the time limit, they shall seal up the interfering equipment or compulsorily demolish the obstacles and impose a fine in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a dedicated railway line or dedicated railway is damaged or endangered, a penalty shall be imposed in accordance with the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a dedicated road is occupied or excavated without authorisation, or blasting, sand extraction, quarrying or other activities that endanger the safety and operational effectiveness of the road are carried out on both sides of a dedicated road, the competent department of transport shall order the illegal act to be stopped and may impose a fine of not more than RMB 30,000.\nWhere, in violation of the provisions of these Regulations, articles are piled up, obstacles are installed, pollutants are discharged through the road side ditches or other activities affecting safety and smooth flow are carried out on a dedicated road or within the scope of its land, causing damage to or pollution of the road surface or affecting the smooth flow of the road, the competent department of transport shall order the illegal act to be stopped and may impose a fine of not more than RMB 5,000."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the management unit of important military industry facilities violates the provisions of these Regulations by failing to implement protection measures or perform its protection responsibilities, the department of defence science, technology and industry administration may take measures such as conducting a supervisory interview or ordering correction within a time limit, and may give a warning or circulate a notice of criticism according to the circumstances; where adverse consequences or effects are caused, disciplinary sanctions shall be imposed in accordance with the law on the leading personnel and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a public official neglects his or her duties, abuses his or her power or commits irregularities for personal gain in the protection of important military industry facilities, disciplinary sanctions shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations causes losses to important military industry facilities, liability for compensation shall be borne in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "These Regulations shall come into force on 15 September 2025."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

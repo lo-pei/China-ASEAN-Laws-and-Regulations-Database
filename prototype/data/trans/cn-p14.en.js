@@ -1,12 +1,618 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p14
-   法规 67 部 / 译文 1469 条
+   法规 75 部 / 译文 1576 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-REG-0105'] = {
+    "lawId": "CN-REG-0105",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Cybersecurity Law of the People's Republic of China for the purpose of safeguarding the security of critical information infrastructure and maintaining cybersecurity."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, critical information infrastructure means the important network facilities, information systems and the like in important industries and fields such as public communications and information services, energy, transport, water conservancy, finance, public services, e-government and the national defence science, technology and industry, as well as those in other industries and fields which, once damaged, lose their functions or suffer data leakage, may seriously endanger national security, the national economy and people's livelihood, or the public interest."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Under the overall coordination of the national cyberspace administration department, the public security department of the State Council shall be responsible for guiding and supervising the security protection of critical information infrastructure. The telecommunications administration department of the State Council and the other relevant departments shall, in accordance with these Regulations and the provisions of the relevant laws and administrative regulations, be responsible for the security protection and supervision and administration of critical information infrastructure within the scope of their respective duties.\nThe relevant departments of the provincial people's governments shall, in accordance with their respective duties, conduct security protection and supervision and administration of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The security protection of critical information infrastructure shall adhere to comprehensive coordination, division of responsibility and protection in accordance with the law, strengthen and implement the principal responsibility of critical information infrastructure operators (hereinafter referred to as the operators), and give full play to the role of the government and all sectors of society so as to jointly protect the security of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State applies priority protection to critical information infrastructure, and shall take measures to monitor, defend against and handle cybersecurity risks and threats originating within and outside the territory of the People's Republic of China, protect critical information infrastructure against attacks, intrusions, interference and destruction, and punish illegal and criminal activities endangering the security of critical information infrastructure in accordance with the law.\nNo individual or organisation may engage in activities that unlawfully intrude into, interfere with or destroy critical information infrastructure, or endanger the security of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Operators shall, in accordance with these Regulations, the provisions of the relevant laws and administrative regulations and the mandatory requirements of national standards, and on the basis of the classified protection of cybersecurity, adopt technical protection measures and other necessary measures to respond to cybersecurity incidents, prevent cyber attacks and illegal and criminal activities, ensure the safe and stable operation of critical information infrastructure and maintain the integrity, confidentiality and availability of data."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Units and individuals that achieve outstanding results or make outstanding contributions in the security protection of critical information infrastructure shall be commended in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent departments and the supervision and administration departments of the important industries and fields referred to in Article 2 of these Regulations are the departments responsible for the security protection of critical information infrastructure (hereinafter referred to as the protection departments)."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Identification of Critical Information Infrastructure"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Protection departments shall, in light of the actual conditions of their respective industries and fields, formulate rules for identifying critical information infrastructure and report them to the public security department of the State Council for the record.\nIn formulating identification rules, the following factors shall mainly be taken into account:\n(1) the importance of network facilities, information systems and the like to the key and core business of the industry or field concerned;\n(2) the degree of harm that may be caused once network facilities, information systems and the like are damaged, lose their functions or suffer data leakage;\n(3) the knock-on effects on other industries and fields."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Identification of Critical Information Infrastructure"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Protection departments shall, in accordance with the identification rules, be responsible for organising the identification of critical information infrastructure in their respective industries and fields, promptly notify the operators of the identification results, and notify the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Identification of Critical Information Infrastructure"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where major changes occur in critical information infrastructure that may affect the identification results, the operator shall promptly report the relevant circumstances to the protection department. The protection department shall complete re-identification within three months from the date of receipt of the report, notify the operator of the identification results, and notify the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Identification of Critical Information Infrastructure"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Security protection measures shall be planned, constructed and used simultaneously with critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Operators shall establish and improve cybersecurity protection systems and responsibility systems and guarantee the input of human, financial and material resources. The principal person in charge of an operator shall bear overall responsibility for the security protection of critical information infrastructure, lead the security protection of critical information infrastructure and the handling of major cybersecurity incidents, and organise the study and resolution of major cybersecurity problems."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Operators shall establish dedicated security management bodies and conduct security background checks on the persons in charge of such dedicated security management bodies and on personnel in key posts. Public security organs and State security organs shall provide assistance in such checks."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A dedicated security management body shall be specifically responsible for the security protection of the critical information infrastructure of its unit and shall perform the following duties:\n(1) establishing and improving cybersecurity management and evaluation and assessment systems, and drafting security protection plans for critical information infrastructure;\n(2) organising and promoting the development of cybersecurity protection capabilities, and carrying out cybersecurity monitoring, testing and risk assessment;\n(3) formulating emergency response plans for its unit in accordance with the national and industry emergency response plans for cybersecurity incidents, regularly conducting emergency drills and handling cybersecurity incidents;\n(4) identifying key cybersecurity posts, organising the assessment of cybersecurity work, and proposing rewards and punishments;\n(5) organising cybersecurity education and training;\n(6) performing the responsibility for the protection of personal information and data security, and establishing and improving systems for the protection of personal information and data security;\n(7) exercising security management over the design, construction, operation, maintenance and other services of critical information infrastructure;\n(8) reporting cybersecurity incidents and important matters in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Operators shall guarantee the operating funds of dedicated security management bodies and allocate the corresponding personnel; personnel of dedicated security management bodies shall participate in decision-making relating to cybersecurity and informatisation."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Operators shall, on their own or by engaging a cybersecurity service institution, conduct cybersecurity testing and risk assessment of critical information infrastructure at least once a year, promptly rectify the security problems identified, and report the situation as required by the protection department."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a major cybersecurity incident occurs in critical information infrastructure or a major cybersecurity threat is discovered, the operator shall report to the protection department and the public security organ in accordance with the relevant provisions.\nWhere a particularly major cybersecurity incident such as a complete interruption of the operation of critical information infrastructure or a failure of its main functions, leakage of national basic information or other important data, leakage of personal information on a relatively large scale, causing relatively large economic losses or relatively wide dissemination of illegal information occurs, or a particularly major cybersecurity threat is discovered, the protection department shall, after receiving the report, promptly report to the national cyberspace administration department and the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Operators shall give priority to the procurement of secure and trustworthy network products and services; where the procurement of network products and services may affect national security, a security review shall be passed in accordance with the national cybersecurity provisions."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "In procuring network products and services, operators shall, in accordance with the relevant provisions of the State, conclude security and confidentiality agreements with the providers of network products and services, specify the providers' obligations and responsibilities regarding technical support and security and confidentiality, and supervise the performance of such obligations and responsibilities."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where an operator is merged, divided, dissolved or the like, it shall promptly report to the protection department and dispose of its critical information infrastructure as required by the protection department so as to ensure security."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Responsibilities and Obligations of Operators"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Protection departments shall formulate security plans for critical information infrastructure in their respective industries and fields, and specify the protection objectives, basic requirements, work tasks and specific measures."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The national cyberspace administration department shall, in overall coordination with the relevant departments, establish a cybersecurity information sharing mechanism, promptly collect, assess, share and release information on cybersecurity threats, vulnerabilities, incidents and the like, and promote the sharing of cybersecurity information among the relevant departments, the protection departments, the operators, the cybersecurity service institutions and the like."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Protection departments shall establish and improve cybersecurity monitoring and warning systems for critical information infrastructure in their respective industries and fields, promptly keep abreast of the operation status and security posture of critical information infrastructure in their industries and fields, issue warnings and notifications of cybersecurity threats and hidden dangers, and guide the carrying out of security precautions."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Protection departments shall, in accordance with the requirements of the national emergency response plans for cybersecurity incidents, establish and improve emergency response plans for cybersecurity incidents in their respective industries and fields, regularly organise emergency drills, guide operators in properly responding to and handling cybersecurity incidents, and organise the provision of technical support and assistance as needed."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Protection departments shall regularly organise cybersecurity inspections and testing of critical information infrastructure in their respective industries and fields, and guide and supervise operators in promptly rectifying security hidden dangers and improving security measures."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The national cyberspace administration department shall, in overall coordination with the public security department of the State Council and the protection departments, conduct cybersecurity inspections and testing of critical information infrastructure and propose measures for improvement.\nWhen conducting cybersecurity inspections of critical information infrastructure, the relevant departments shall strengthen coordination, cooperation and information communication and avoid unnecessary inspections and overlapping and duplicated inspections. No fees may be charged for inspections, and the units under inspection may not be required to purchase products and services of a designated brand or of designated manufacturers or sellers."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Operators shall cooperate with the cybersecurity inspections and testing of critical information infrastructure conducted by the protection departments and with the cybersecurity inspections of critical information infrastructure lawfully conducted by the public security, State security, secrecy administration, cryptography administration and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "In the security protection of critical information infrastructure, the national cyberspace administration department, the telecommunications administration department of the State Council, the public security department of the State Council and the like shall, in accordance with the needs of the protection departments, promptly provide technical support and assistance."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The cyberspace administration departments, public security organs, protection departments and other relevant departments, cybersecurity service institutions and their staff members may use the information obtained in the security protection of critical information infrastructure only for the maintenance of cybersecurity, and shall ensure information security strictly in accordance with the requirements of the relevant laws and administrative regulations, and may not disclose, sell or unlawfully provide it to others."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Without the approval of the national cyberspace administration department or the public security department of the State Council, or the authorisation of the protection department or the operator, no individual or organisation may conduct vulnerability detection, penetration testing or other activities in respect of critical information infrastructure that may affect or endanger its security. Activities such as vulnerability detection and penetration testing in respect of basic telecommunications networks shall be reported to the telecommunications administration department of the State Council in advance."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State shall take measures to give priority to ensuring the safe operation of critical information infrastructure in energy, telecommunications and other fields.\nThe energy and telecommunications industries shall take measures to provide priority support for the safe operation of critical information infrastructure in other industries and fields."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Public security organs and State security organs shall, in accordance with their respective duties, strengthen the security protection of critical information infrastructure in accordance with the law and prevent and combat illegal and criminal activities directed against or using critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The State shall formulate and improve security standards for critical information infrastructure and guide and regulate the security protection of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State shall take measures to encourage specialised cybersecurity personnel to engage in the security protection of critical information infrastructure, and shall incorporate the training of operators' security management personnel and security technical personnel into the national continuing education system."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall support technological innovation and industrial development in the security protection of critical information infrastructure and organise forces to carry out research on key security technologies for critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall strengthen the development and administration of cybersecurity service institutions, formulate administration requirements and strengthen supervision and guidance, continuously improve the capacity and level of service institutions, and give full play to their role in the security protection of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State shall strengthen military-civilian integration in cybersecurity, with the military and the civilian sectors working in coordination to protect the security of critical information infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Promotion"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where an operator falls under any of the following circumstances, the relevant competent department shall, in accordance with its duties, order it to make correction and give it a warning; where it refuses to make correction or consequences such as endangering cybersecurity are caused, a fine of not less than RMB 100,000 and not more than RMB 1,000,000 shall be imposed, and a fine of not less than RMB 10,000 and not more than RMB 100,000 shall be imposed on the person directly in charge:\n(1) failing to promptly report the relevant circumstances to the protection department when major changes occur in the critical information infrastructure that may affect the identification results;\n(2) failing to plan, construct and use security protection measures simultaneously with the critical information infrastructure;\n(3) failing to establish and improve cybersecurity protection systems and responsibility systems;\n(4) failing to establish a dedicated security management body;\n(5) failing to conduct security background checks on the person in charge of the dedicated security management body and on personnel in key posts;\n(6) making decisions relating to cybersecurity and informatisation without the participation of personnel of the dedicated security management body;\n(7) the dedicated security management body failing to perform the duties provided for in Article 15 of these Regulations;\n(8) failing to conduct cybersecurity testing and risk assessment of the critical information infrastructure at least once a year, failing to promptly rectify the security problems identified, or failing to report the situation as required by the protection department;\n(9) failing to conclude security and confidentiality agreements with providers of network products and services in accordance with the relevant provisions of the State when procuring network products and services;\n(10) failing to promptly report to the protection department when merged, divided, dissolved or the like, or failing to dispose of the critical information infrastructure as required by the protection department."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an operator fails to report to the protection department or the public security organ in accordance with the relevant provisions when a major cybersecurity incident occurs in its critical information infrastructure or a major cybersecurity threat is discovered, the protection department or the public security organ shall, in accordance with its duties, order it to make correction and give it a warning; where it refuses to make correction or consequences such as endangering cybersecurity are caused, a fine of not less than RMB 100,000 and not more than RMB 1,000,000 shall be imposed, and a fine of not less than RMB 10,000 and not more than RMB 100,000 shall be imposed on the person directly in charge."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an operator procures network products and services that may affect national security without undergoing a security review in accordance with the national cybersecurity provisions, the national cyberspace administration department and the other relevant competent departments shall, in accordance with their duties, order it to make correction, impose a fine of not less than one time and not more than ten times the amount of the procurement, and impose a fine of not less than RMB 10,000 and not more than RMB 100,000 on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an operator fails to cooperate with the cybersecurity inspections and testing of critical information infrastructure conducted by the protection departments or with the cybersecurity inspections of critical information infrastructure lawfully conducted by the public security, State security, secrecy administration, cryptography administration and other relevant departments, the relevant competent department shall order it to make correction; where it refuses to make correction, a fine of not less than RMB 50,000 and not more than RMB 500,000 shall be imposed, and a fine of not less than RMB 10,000 and not more than RMB 100,000 shall be imposed on the person directly in charge and the other persons directly responsible; where the circumstances are serious, the corresponding legal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a person engages in activities that unlawfully intrude into, interfere with or destroy critical information infrastructure or endanger its security, and such activities do not yet constitute a crime, the public security organ shall, in accordance with the relevant provisions of the Cybersecurity Law of the People's Republic of China, confiscate the illegal gains, impose detention of not more than five days and may concurrently impose a fine of not less than RMB 50,000 and not more than RMB 500,000; where the circumstances are relatively serious, detention of not less than five days and not more than 15 days shall be imposed, and a fine of not less than RMB 100,000 and not more than RMB 1,000,000 may concurrently be imposed.\nWhere a unit commits an act mentioned in the preceding paragraph, the public security organ shall confiscate its illegal gains, impose a fine of not less than RMB 100,000 and not more than RMB 1,000,000, and impose penalties on the person directly in charge and the other persons directly responsible in accordance with the provisions of the preceding paragraph.\nPersons who violate the provisions of the second paragraph of Article 5 and of Article 31 of these Regulations and are subjected to public security administration penalties may not, for five years, engage in work in key posts of cybersecurity management and network operation; persons subjected to criminal penalties may never engage in work in key posts of cybersecurity management and network operation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the cyberspace administration departments, public security organs, protection departments and other relevant departments and their staff members fail to perform their duties of security protection and supervision and administration of critical information infrastructure, or neglect their duties, abuse their power or commit irregularities for personal gain, disciplinary sanctions shall be imposed in accordance with the law on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where public security organs, protection departments and other relevant departments charge fees in the course of conducting cybersecurity inspections of critical information infrastructure, or require the units under inspection to purchase products and services of a designated brand or of designated manufacturers or sellers, their superior organs shall order them to make correction and refund the fees charged; where the circumstances are serious, disciplinary sanctions shall be imposed in accordance with the law on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the cyberspace administration departments, public security organs, protection departments and other relevant departments, cybersecurity service institutions and their staff members use the information obtained in the security protection of critical information infrastructure for other purposes, or disclose, sell or unlawfully provide it to others, disciplinary sanctions shall be imposed in accordance with the law on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a major or particularly major cybersecurity incident occurs in critical information infrastructure and is determined upon investigation to be an incident caused by dereliction of duty, in addition to ascertaining the responsibility of the operator and pursuing it in accordance with the law, the responsibility of the relevant cybersecurity service institutions and of the relevant departments shall also be ascertained, and where there is dereliction of duty, malfeasance or other illegal conduct, liability shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an operator of e-government critical information infrastructure fails to perform the cybersecurity protection obligations provided for in these Regulations, the matter shall be handled in accordance with the relevant provisions of the Cybersecurity Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations causes damage to another person, civil liability shall be borne in accordance with the law.\nWhere a violation of the provisions of these Regulations constitutes an act in violation of public security administration, a public security administration penalty shall be imposed in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The security protection of critical information infrastructure that stores or processes information involving State secrets shall also comply with the provisions of the laws and administrative regulations on secrecy.\nThe use and administration of cryptography in critical information infrastructure shall also comply with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2021."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
 
   TR['CN-REG-0106'] = {
     "lawId": "CN-REG-0106",
@@ -279,6 +885,84 @@
         },
         "chapter": {
           "en": "Chapter IV Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0108'] = {
+    "lawId": "CN-REG-0108",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The standards for welfare funds for staff shall be separately prescribed in the light of the different circumstances of the wage levels of staff of organs at various levels and of the living standards in urban and rural areas."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Welfare funds for staff of central organs shall, after the necessary adjustment by the Personnel Bureau of the State Council, be controlled and used by the personnel departments of the respective organs; welfare funds for staff of local organs shall, after the necessary adjustment by the personnel bureaux (divisions) of the people's councils of the provinces, autonomous regions and municipalities directly under the Central Government within the areas under their jurisdiction, be uniformly controlled and used by the personnel departments of the people's governments at or above the county level.\nAny balance of welfare funds for staff remaining at the end of the year shall not be turned over in any case, but may not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The scope of use of welfare funds shall cover:\nassistance in resolving difficulties of staff members' families in meeting living expenses;\nassistance in resolving difficulties of staff members' families in paying medical expenses for illness;\nassistance in resolving difficulties of staff members' families in paying burial expenses upon death;\nassistance in resolving other special difficulties of staff members;\nsubsidies for expenses of collective welfare undertakings."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a staff member's wage income and other economic income are insufficient to cover his or her own living expenses (living expenses shall differ according to the post held) and the living expenses of his or her family members (generally determined on the basis of the living standards of the place where the family members reside), or where he or she has difficulties in paying medical expenses for the treatment of family members or burial expenses upon the death of family members, or has other special difficulties, appropriate regular or temporary subsidies shall be granted in accordance with the principle of \"larger subsidies for greater difficulties and smaller subsidies for lesser difficulties\".\nWhere the welfare funds have resolved the various difficulties of staff members and a balance remains, appropriate subsidies may be granted for the expenses required for collective welfare."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Applications for subsidies for the various difficulties of staff members shall be made by the staff members themselves and, after discussion and assessment by the welfare body of the organ concerned, determined in consultation with the personnel department of the organ."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The people's councils of the provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the spirit of these Provisions and in the light of the specific local circumstances, make specific provisions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall enter into force on 1 June 1957. The Notice on the Measures for the Control and Use of Welfare Funds for Staff of People's Governments at Various Levels issued by the Government Administration Council of the Central People's Government in March 1954 and the Supplementary Notice on Issues Concerning the Control and Use of Welfare Funds for Staff of People's Governments at Various Levels issued by this Council in December 1954 shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 7."
         }
       }
     ]
@@ -693,6 +1377,111 @@
         },
         "noLabel": {
           "en": "Article 14."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0112'] = {
+    "lawId": "CN-REG-0112",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 10 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to make the statistical reporting system meet the needs of socialist modernisation without unduly increasing the burden on units at the grassroots level and to prevent the indiscriminate issuance of statistical statements and reports, these Interim Provisions are specially formulated in accordance with the instructions of the State Council that statistical statements and reports shall be uniformly administered by the statistical departments at various levels."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Statistical statements and reports, whether periodic (including progress statistics) or one-off (including survey outlines similar to statistical statements and reports), shall all be uniformly administered, strictly controlled and handled with responsibility at different levels by the statistical departments at various levels."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The formulation and issuance of statistical statements and reports shall take into account both needs and possibilities. In choosing survey schemes, attention shall be paid to obtaining the best possible survey results with the least possible manpower, material resources and financial resources. Only those that are necessary for socialist modernisation and that units at the grassroots level and statistical departments are truly able to execute may be formulated and issued. The statements and reports formulated and issued shall meet the following requirements:\n(1) be concise and to the point, not cumbersome, and prevent duplication and contradiction;\n(2) adopt various survey methods to reflect the situation. Where a one-off survey can solve the problem, no periodic report shall be introduced; where a sample survey, a survey of key units or a typical survey can solve the problem, no comprehensive statistical report shall be introduced;\n(3) streamline the number of reports. Where a monthly report can meet the needs, no ten-day or daily report shall be introduced; where an annual report can meet the needs, no monthly or quarterly report shall be introduced; where statistics can be compiled once every three or five years, no annual report shall be introduced;\n(4) give full play to the role of existing statistical data. Where data can be collected from the departments concerned, or can be processed and consolidated from existing data, statistical statements and reports shall no longer be issued to units at the grassroots level;\n(5) have a detailed survey scheme that clearly specifies the purpose of the survey, the survey method, the statistical scope, the classification catalogue, the interpretation of indicators, the calculation method, the reporting unit, the time limit for completion and the agency receiving the report, so as to facilitate completion of the forms;\n(6) be subject in advance to investigation and the necessary pilot testing, so as to prevent detachment from reality, and be continuously improved in practice."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Authority to formulate and issue statistical statements and reports and the procedures for examination and approval:\n(1) National basic statistical statements and reports on the social and economic situation (including grassroots-level forms and consolidated forms) shall be formulated and uniformly issued by the National Bureau of Statistics, or formulated and issued jointly by the National Bureau of Statistics and the competent business departments concerned. Important statistical statements and reports shall be submitted to the State Council for approval before issuance. Statements and reports sent to rural people's communes, production brigades and production teams shall be subject to especially strict control. Where statements, reports and indicators have already been uniformly issued by the National Bureau of Statistics, or jointly issued by it and the competent business departments concerned, business departments at various levels may not formulate and issue them again; where certain statements, reports or indicators must be supplemented for special needs, they shall be subject to verification and approval by the statistical department of the people's government at the same level.\n(2) Specialised statistical statements and reports formulated by the business departments of the State Council are a necessary supplement to the basic statistical statements and reports on the social and economic situation formulated by the National Bureau of Statistics, and shall be uniformly organised, uniformly examined and uniformly administered by the comprehensive statistical body of each such department, resolutely putting an end to the practice whereby the functional bodies within a single department formulate and issue statistical statements and reports on their own. Statistical statements and reports sent to enterprises and institutions directly subordinate to the department and under the administration of its own system shall be approved and issued by the person in charge of the department and sent to the National Bureau of Statistics for the record; statistical statements and reports sent to enterprises and institutions not under the administration of its own system shall be signed by the person in charge of the sponsoring department and sent to the National Bureau of Statistics for examination and approval.\n(3) Regional statistical statements and reports formulated by the statistical bureaux of provinces, municipalities and autonomous regions shall be submitted to the National Bureau of Statistics for the record. Important statistical statements and reports shall be submitted to the people's government of the province, municipality or autonomous region for approval before issuance.\n(4) Specialised statistical statements and reports formulated by the business departments of provinces, municipalities and autonomous regions shall be uniformly organised, uniformly examined and uniformly administered by the comprehensive statistical body of each such department. Statistical statements and reports sent to enterprises and institutions directly subordinate to the department and under the administration of its own system shall be approved and issued by the person in charge of the department and sent to the statistical bureau of the province, municipality or autonomous region for the record; statistical statements and reports sent to enterprises and institutions not under the administration of its own system shall be signed by the person in charge of the sponsoring department and sent to the statistical bureau of the province, municipality or autonomous region for examination and approval.\n(5) The procedures for the formulation and approval of statistical statements and reports by the statistical departments and business departments of prefectures, municipalities and counties shall be drawn up by the statistical bureau of the province, municipality or autonomous region in the light of the specific circumstances of the region, submitted to the people's government of the province, municipality or autonomous region for approval before issuance, and sent to the National Bureau of Statistics for the record.\n(6) The offices for central tasks and the various temporary offices established by the departments of the State Council and by the leading organs of provinces, municipalities and autonomous regions shall generally not issue statistical statements and reports directly; statistical data required for work may be collected and consolidated from the departments concerned. Where a small number of statistical statements and reports truly need to be formulated and issued, they shall be submitted for examination and approval by the statistical department of the people's government at the same level in accordance with the above provisions.\n(7) The procedures for examination and approval of statistical statements and reports formulated and issued by people's organisations and scientific research institutions shall likewise be handled in accordance with the above provisions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The content, interpretation of indicators, calculation methods and time limits for completion of specialised statistical statements and reports formulated and issued by business departments at various levels may not contradict the relevant statistical statements and reports formulated and issued by the statistical departments of governments at various levels, and duplication shall be avoided.\nThe statistical concepts, scope, methods, classifications, forms and numbering prescribed in the national basic statistical statements and reports on the social and economic situation formulated by the National Bureau of Statistics, or jointly formulated by it and the competent business departments concerned, may not be altered or modified without authorisation by the statistical departments of local governments and by the business departments, so as to facilitate uniform implementation throughout the country. Where additions or deletions truly need to be made, they shall be subject to verification and approval by the National Bureau of Statistics."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Statistical statements and reports that have been approved or filed for the record shall bear in the upper right corner of the form the agency that formulated them, the agency that approved them or the agency with which they were filed for the record, and the approval document number, so as to facilitate administration and supervision."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Statistical departments of governments at various levels shall examine and approve statements and reports with a serious and responsible attitude and with strict control. Where statistical statements and reports submitted for approval or for the record do not conform to Article 3 to Article 6 of these Provisions, the statistical departments of governments at various levels shall have the power to notify the formulating agency to amend or repeal them."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "All statistical statements and reports approved and issued shall be conscientiously completed by the units concerned in accordance with the various provisions. Where there are opinions, they may be reported to the formulating agency, but before any amendment or modification is made, the original provisions shall still be complied with.\nWhere statistical statements and reports have not been examined and approved or filed for the record in accordance with these Provisions, or do not bear in the upper right corner of the form the formulating agency, the approving agency or the agency with which they were filed for the record and the approval document number, the reporting units may refuse to complete them and may expose and report them.\nLeading organs at various levels and statistical departments of governments shall, in respect of units that violate these Provisions by indiscriminately issuing statements and reports, conduct serious inspection and deal with the matter strictly, and shall stop the continued use of statements and reports that have not been approved.\nWhere the indiscriminate issuance of statistical statements and reports causes losses to the grassroots level, the statistical departments of governments at various levels shall, in the light of the seriousness of the circumstances, circulate a notice of criticism and pursue responsibility."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Statistical departments and business departments of governments at various levels shall periodically inspect and sort out statistical statements and reports; all statistical statements, reports and indicators that are outdated or inapplicable shall be repealed or revised in a timely manner. After the inspection and sorting out each year, the results shall be reported to the statistical department of the government at the next higher level and to the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The business departments of the State Council and the statistical bureaux of the provinces, municipalities and autonomous regions shall, in accordance with the principles of these Provisions, draw up rules for implementation and submit them to the National Bureau of Statistics for the record.\nAppendix:\nReport of the National Bureau of Statistics on Strengthening the Administration of Statistical\nStatements and Reports and the Interim Provisions on the Administration of Statistical Statements and Reports, approved and transmitted by the State Council\n(17 November 1980)\nThe State Council agrees to the Report of the National Bureau of Statistics on Strengthening the Administration of Statistical Statements and Reports and the Interim Provisions on the Administration of Statistical Statements and Reports, which are hereby issued to you, and it is expected that they will be conscientiously implemented.\nStatistical statements and reports are an important means of understanding the situation of the national economy. However, the situation of excessive and disorderly statistical statements and reports is at present relatively serious; if it is not checked in a timely manner, it is bound to spread like a flood, and this must attract the close attention of leading organs at various levels. A multiplicity of statements and reports not only places an excessively heavy burden on units at the grassroots level and causes waste of manpower, material resources and financial resources, but also readily fosters bureaucracy.\nIn order to overcome the excessive and disorderly issuance of statements and reports, lighten the burden on the grassroots level and ensure that the statistical data required by the Party and the State are reported accurately and in a timely manner, those statements, reports and indicators that are duplicative, cumbersome, mutually contradictory, or inconsistent with the new situation and the needs of the new economic management system must be conscientiously streamlined. In any statistical survey, attention shall be paid to obtaining the best possible survey results with the least possible manpower, material resources and financial resources. To this end, the State Council reiterates: statistical statements and reports shall be uniformly administered by the statistical departments at various levels, the indiscriminate issuance of statements and reports is strictly prohibited, and the National Bureau of Statistics is charged with responsibility for the administration of statistical statements and reports throughout the country; the statistical departments of all localities and the statistical bodies of the competent business departments at various levels shall also effectively take charge of the statistical statements and reports of their respective regions and departments.\nAt present, the statistical departments are weak in strength, which is far from commensurate with the tasks they bear. All regions and departments shall lose no time in implementing the Decision of the State Council of 20 October 1979 on Strengthening Statistical Work and Replenishing Statistical Organs, strengthen leadership over statistical work, improve statistical organs and replenish statistical personnel, including personnel administering statements and reports, so as to facilitate the conduct of the work.\nReport of the National Bureau of Statistics on Strengthening the Administration of Statistical Statements and Reports\n(3 November 1980)\nFor many years, owing to interference by Lin Biao and the \"Gang of Four\", statistical work was seriously weakened and some reasonable rules and regulations were undermined, so that the situation of excessive and disorderly statistical statements and reports still exists in quite a few regions and departments and has recently shown a tendency to develop further, mainly as follows:\nMore and more statistical forms are sent to the grassroots level, with increasingly detailed indicators, which has aggravated the burden on the grassroots level. In addition to the 167 types of statistical statements and reports formulated and issued by the National Bureau of Statistics in 1979, the 64 departments of the State Council issued as many as 2,633 types. After these forms reached various localities, additional requirements were imposed at each level, so that the statements and reports sent to the grassroots level, especially to rural people's communes, became even more numerous and complex. According to a survey in Hebei Province, some counties sent as many as more than 130 types of statements and reports, with more than 5,000 items, to rural areas. In some places in Liaoning Province, 204 types of statements and reports, with more than 4,900 items, were sent to people's communes, of which only 15 per cent were approved by the National Bureau of Statistics and the statistical departments of governments at various levels, while the remaining 85 per cent were formulated and issued by the departments on their own.\nThe statements and reports formulated and issued by various departments each constitute a system of their own, with the result that the indicators in statistical statements and reports duplicate and contradict one another. For example, many industrial enterprises have to complete simultaneously two or three sets of monthly reports on economic and technical indicators that are largely identical but with minor differences: one set issued by the government statistical department, another issued by the relevant industrial department of the State Council, and yet another drawn up separately in response to local requirements. Likewise, rural people's communes must also complete two sets of annual agricultural statistical reports that are largely identical but with minor differences: one set issued by the government statistical department and the other issued by the competent business departments for agriculture, forestry and water conservancy. These largely identical reports duplicate indicators, are not entirely uniform in calculation methods and statistical scope, and have inconsistent time limits for submission, thus seriously increasing the workload at the grassroots level.\nSome units demand a great many figures from lower levels by telephone, not only frequently but with extreme urgency. For example, a certain county demanded figures on the progress of early rice production from communes and production brigades by telephone more than 90 times from the preparation of seedbeds and transplanting through to the harvest, averaging one report every one or two days. Some counties demanded that lower levels estimate output when most crops had not yet headed. The masses were very dissatisfied and criticised this practice as follows: \"Before the seedlings are transplanted, progress is reported in advance; before the ears are formed, the output is estimated already!\"\nThe indicators in some statements and reports are extremely cumbersome and divorced from reality. A certain commune assigned to its production brigades a \"survey form on rat eradication\", requiring reports on how much rat poison had been distributed, how many rat holes there were, how many rats had been poisoned, and so on, which was simply impossible to complete.\nThe excessive and disorderly issuance of statistical statements and reports has caused a great waste of manpower, material resources and financial resources, hampered the normal conduct of statistical work, affected the accurate and timely provision of the statistical data required by the Party and the State, and given rise to the evil consequence of figures coming from many sources.\nThe causes of the excessive and disorderly issuance of statistical statements and reports are mainly the serious interference by Lin Biao and the \"Gang of Four\", the undermining of the rules and regulations on unified administration and on statistical statements and reports, the great weakening of statistical organs and the reduction of personnel administering statements and reports. At the same time, the fact that some organs are accustomed to learning about the situation by issuing statements and reports and do not seriously consider whether the statements and reports they issue are suited to reality is also an important cause of the excessive and disorderly issuance of statements and reports.\nIn order to strengthen the administration of statistical statements and reports, effectively overcome the excessive and disorderly issuance of statements and reports and lighten the burden on the grassroots level, this Bureau, after consultation with the statistical bureaux of the provinces, municipalities and autonomous regions and with the departments of the State Council, has drawn up the Interim Provisions on the Administration of Statistical Statements and Reports, and it is requested that the provinces, municipalities and autonomous regions and the departments of the State Council, during this winter and the coming year, in accordance with the requirements of the Interim Provisions, carry out a sorting out and rectification of the current statistical reporting system and resolutely abolish all unnecessary, duplicative and cumbersome statements, reports and indicators, or those incompatible with the new situation and the new economic management system. The National Bureau of Statistics shall likewise, in respect of the statements and reports it has issued, listen to opinions from all sides, sum up practical experience and carry out sorting out and rectification. The results of the sorting out by all regions and departments are requested to be communicated to the National Bureau of Statistics in writing so that they may be summarised and reported to the State Council. From now on, statistical statements and reports shall be inspected and sorted out once every year. All regions and departments shall continue to implement the Decision of the State Council on Strengthening Statistical Work and Replenishing Statistical Organs, replenish statistical personnel, including personnel assigned to administer statistical statements and reports, and change the abnormal situation in which statistical departments in many regions are weak in strength and no one administers statements and reports.\nThe above report, if considered feasible, is requested to be approved and transmitted, together with the Interim Provisions of the National Bureau of Statistics on the Administration of Statistical Statements and Reports, to the provinces, municipalities and autonomous regions and to the departments of the State Council for implementation."
+        },
+        "noLabel": {
+          "en": "Article 10."
         }
       }
     ]
@@ -3896,6 +4685,120 @@
     ]
   };
 
+  TR['CN-REG-0127'] = {
+    "lawId": "CN-REG-0127",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 11 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the sick leave of a staff member does not exceed two months, the original wage shall be paid."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the sick leave of a staff member exceeds two months, sick leave pay shall be paid from the third month in accordance with the following standards:\nwhere the length of service is less than ten years, 90 per cent of the person's own wage shall be paid;\nwhere the length of service is ten years or more, the wage shall be paid in full."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the sick leave of a staff member exceeds six months, sick leave pay shall be paid from the seventh month in accordance with the following standards:\nwhere the length of service is less than ten years, 70 per cent of the person's own wage shall be paid;\nwhere the length of service is ten years or more, 80 per cent of the person's own wage shall be paid;\nfor persons who joined revolutionary work before 2 September 1945, 90 per cent of the person's own wage shall be paid.\nAmong the staff members referred to in the three preceding items, those who have been awarded the title of labour hero or model worker by the people's government of a province, municipality or autonomous region or by a department of the State Council and who still retain the honour may, with the approval of the people's government of the province, municipality or autonomous region or of the department of the State Council, have their sick leave pay appropriately increased."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "For cadres who joined revolutionary work before the end of September 1949 and who hold the post of deputy commissioner of an administrative office or an equivalent post or a rank of Grade 14 in the administrative scale or above, for cadres who joined revolutionary work before 2 September 1945 and who hold the post of county head or deputy county head of a county people's government or an equivalent post or a rank of Grade 18 in the administrative scale or above, and for staff members who joined revolutionary work before 6 July 1937, the wage shall be paid in full during sick leave."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where sick leave pay is less than 30 yuan, 30 yuan shall be paid; where the original wage is less than 30 yuan, the original wage shall be paid."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "During sick leave, a staff member may continue to enjoy the living welfare benefits of the unit to which he or she belongs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A staff member's enjoyment of the living benefits under these Provisions during sick leave shall be supported by a certificate issued by a medical institution and approved by the competent leading organ."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The calculation of the length of service of staff members shall be handled in accordance with the relevant existing provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Institutions of public service subordinate to State organs may apply these Provisions by reference."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "These Provisions shall be interpreted by the State Personnel Bureau."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "These Provisions shall enter into force on the date of promulgation. The Trial Measures on the Living Benefits of Staff of State Organs during Sick Leave issued by the State Council on 29 December 1955 shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0128'] = {
     "lawId": "CN-REG-0128",
     "sourceLang": "zh",
@@ -6641,6 +7544,102 @@
     ]
   };
 
+  TR['CN-REG-0139'] = {
+    "lawId": "CN-REG-0139",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Time during which staff of State organs (hereinafter referred to as staff) work in State organs of the People's Republic of China shall all be counted as length of service."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Time during which staff worked in the organs of the people's democratic revolutionary regime before the founding of the People's Republic of China shall be counted as length of service."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Time during which staff, before joining work in State organs, engaged in the following work may be counted consecutively as length of service:\ntime spent working in the organs of the Communist Party of China, or time actually spent doing revolutionary work under cover of a social occupation in accordance with a decision of the Party;\ntime spent working in the organs of democratic parties, or time actually spent by members of democratic parties and non-partisan democrats doing democratic revolutionary work under cover of a social occupation;\ntime spent working in the revolutionary army during the period of the Chinese Workers' and Peasants' Red Army, the War of Resistance against Japanese Aggression and the War of Liberation;\ntime spent working in the organs of people's organisations in revolutionary base areas, in liberated areas and after the founding of the People's Republic of China;\ntime spent working in institutions of public service under the organs of political power in revolutionary base areas and liberated areas and in institutions of public service under State organs of the People's Republic of China;\ntime spent working in enterprises under the organs of political power in revolutionary base areas and liberated areas and in State-owned, cooperative and joint State-private enterprises of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Time during which staff are transferred to attend various cadre schools and training classes, or time spent studying at the Anti-Japanese Military and Political University, the Northern Shaanxi Public School, the China Women's University and other schools in revolutionary base areas, may all be counted as length of service."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where staff who have resigned or been demobilised subsequently rejoin work, the periods of work before and after may be combined in calculating length of service."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "For persons who took part in uprisings and joined work in State organs, length of service shall be counted from the date of the uprising; for those who were once provided with funds and sent home and subsequently joined work in State organs, length of service shall be counted from the date of joining work in State organs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For newly recruited staff, the probation period may be counted as length of service."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Staff who have been subjected to the sanction of expulsion or to a criminal sanction shall have their length of service counted from the date of rejoining work; however, where the circumstances are relatively minor and the appointment and removal authority has approved, the time worked before the sanction may also be combined in calculating length of service."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The length of service of staff shall be calculated in full years. In calculating resignation pay and retirement pay, where the number of months remaining after calculation in full years exceeds six months, it shall be counted as one year; where it is six months or less than six months, it shall be counted as half a year."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0140'] = {
     "lawId": "CN-REG-0140",
     "sourceLang": "zh",
@@ -8840,6 +9839,57 @@
     ]
   };
 
+  TR['CN-REG-0151'] = {
+    "lawId": "CN-REG-0151",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Levying of a cultural undertakings construction fee\nIn order to guide and regulate the development of cultural undertakings, a cultural undertakings construction fee shall be levied throughout the country from 1 January 1997 (where it has already been levied locally, it shall not be levied again).\nVarious commercial singing halls, dance halls, karaoke halls, music tea houses, and entertainment venues such as golf courses, billiard rooms and bowling alleys shall pay a cultural undertakings construction fee at 3 per cent of their business income.\nRadio stations, television stations and newspaper, periodical and other advertising media units, as well as outdoor advertising operators, shall pay a cultural undertakings construction fee at 3 per cent of their operating income.\nThe cultural undertakings construction fee shall be collected by the local tax authorities together with the business tax on the entertainment industry and the advertising industry. The cultural undertakings construction fee paid by units subordinate to central and State organs shall, after collection by the local tax authorities, be turned over in full to the Central Treasury. The cultural undertakings construction fee paid by local units shall be paid in full into the treasury at the provincial level.\nThe cultural undertakings construction fee shall be brought into fiscal budget management, and special funds shall be established respectively by the central and the provincial levels for the construction of cultural undertakings. The specific measures for the management and use of the cultural undertakings construction fee shall be formulated by the finance departments in conjunction with the competent departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Encouragement of donations to cultural undertakings\nIn order to encourage social resources to support cultural undertakings, where a taxpayer makes donations to the following cultural undertakings through the administrative department of culture or through a non-profit public welfare organisation established with approval, the portion within 3 per cent of the annual taxable income shall, after examination and verification by the competent tax authority, be deducted in calculating the taxable income:\ndonations to key national symphony orchestras, ballet troupes, opera troupes, Peking opera troupes and other national art performance groups;\ndonations to public welfare libraries, museums, science and technology museums, art galleries and memorial halls of revolutionary history;\ndonations to key cultural relics protection units at the local level."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Continued implementation of fiscal and tax preferential policies\nAlong with economic development and the growth of fiscal revenue, funding input to cultural undertakings shall be gradually increased, and fiscal and tax preferential policies shall continue to be implemented.\nDuring the Ninth Five-Year Plan period, the value-added tax on the seven categories of publications specified in the Provisions on the Continued Implementation of Fiscal and Tax Preferential Policies for Units in the Publicity and Culture Sector (Cai Shui Zi No. 089 [1994]) of the Ministry of Finance and the State Administration of Taxation, and on publications sold by Xinhua bookstores at and below the county level and by rural supply and marketing cooperatives, shall continue to be levied first and refunded afterwards; income from film copies sold by film studios established with the approval of the State Council shall continue to be exempt from value-added tax; the central and provincial finance departments shall continue to establish special funds for the development of publicity and culture by listing expenditure budgets according to the amounts actually received into the treasury of the income tax paid by publicity and culture enterprises in the previous year; and the central and provincial finance departments shall continue to arrange a certain amount of special funds in their budgets and incorporate them into the special funds for the development of publicity and culture.\nWhere fiscal and tax preferential policies cease to be implemented as a result of adjustments to the tax system, the finance departments at various levels shall resolve the funding problems thereby arising for units in the publicity and culture sector through budgetary means.\nSubsidies for the \"Ten-Thousand-Li Border Cultural Corridor\" shall be appropriately increased. A certain amount shall be arranged out of the funds for ethnic affairs and the funds for border construction to support the development of cultural undertakings in outlying areas and ethnic areas. The local authorities concerned shall also gradually increase input into cultural undertakings in outlying areas and ethnic areas."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Establishment and improvement of the special fund system\nIn order to promote the development of publicity and cultural undertakings, strengthen the capacity for regulation and control, ensure priority needs and standardise fund management, the central and the provincial levels shall establish and improve the relevant special fund systems.\nThe sources of special funds shall be budgetary funds and extra-budgetary funds such as fees approved in accordance with the relevant State provisions. Finance departments shall make proper budgetary arrangements for special funds, and the departments concerned shall strictly collect extra-budgetary funds in accordance with the provisions. At present, emphasis shall be placed on improving the systems of the \"special funds for the development of publicity and culture\", the \"special funds for the creation and performance of excellent theatrical (musical) programmes\", the \"special funds for the development of the national film industry\" and the \"special funds for publishing development\".\nSpecial funds are fiscal funds; systems shall be improved and management strengthened in accordance with the requirements of the relevant fiscal laws and regulations, so as to ensure that special funds are used for their designated purposes and are subject to the supervision and inspection of the finance and audit departments."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0152'] = {
     "lawId": "CN-REG-0152",
     "sourceLang": "zh",
@@ -9440,6 +10490,129 @@
     ]
   };
 
+  TR['CN-REG-0156'] = {
+    "lawId": "CN-REG-0156",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 12 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For the purposes of these Provisions, ports mean harbours, airports, stations, channels and the like through which persons, goods and means of transport enter and leave the national territory. Ports are divided into Class I ports and Class II ports. Class I ports mean ports whose opening has been approved by the State Council (including ports administered by the central authorities and some ports administered by provinces, autonomous regions and municipalities directly under the Central Government); Class II ports mean ports whose opening has been approved by and which are administered by provincial-level people's governments."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The opening and closure of ports shall be published and implemented after examination and approval by the State Council or a provincial-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Wherever a port is opened, border inspection, customs, harbour superintendence, health quarantine, animal and plant quarantine, commodity inspection and other inspection and examination organs, as well as other port organs prescribed by the State, shall be established as required."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The two categories of ports are specifically divided as follows:\nthe following are Class I ports:\n1. sea, land and air passenger and cargo ports open to means of transport such as vessels, aircraft and vehicles of foreign nationality;\n2. sea, land and air passenger and cargo ports through which only vessels, aircraft and vehicles of Chinese nationality enter and leave the national territory;\n3. offshore delivery points within the territorial sea of China to which vessels of foreign nationality are allowed access.\nthe following are Class II ports:\n1. loading and unloading points, points of departure and delivery points for foreign trade transport by Chinese vessels, which rely on personnel sent from other ports to complete the entry and exit inspection and examination formalities;\n2. ports for small-scale border trade and personnel exchanges between local governments of adjacent countries;\n3. entry and exit ports for the passage of border residents only."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Procedures for submission for approval:\nClass I ports: the departments (bureaux) concerned or the provincial-level people's government of the place where the port, wharf, station, airport or channel is located shall, after consulting the greater military region, submit the matter to the State Council for approval, and shall at the same time copy the submission to the Port Leading Group of the State Council, the General Staff Department and the competent departments concerned.\nClass II ports: the people's government of the place where the port is located shall, after obtaining the consent of the local greater military region and navy and after consulting the port inspection and examination units and other units concerned, submit the matter to the provincial-level people's government for approval. The approval document shall at the same time be sent to the Port Leading Group of the State Council and the competent departments concerned for the record."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The following materials shall be attached to a submission for approval of the opening of a port:\na feasibility study report on the opening of the port, and materials on the basic conditions of the port, the volume of passenger and cargo traffic in the past three years, economic benefits and development prospects.\na plan for the establishment and staffing of the inspection and examination units, the port office, the Bank of China and other organs, as proposed on the basis of the passenger and cargo transport tasks.\na plan for the sites for inspection and examination and for office and living facilities, together with the investment budget and the sources of funds."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Acceptance inspection before opening to foreign countries:\na newly opened port must, before opening, undergo acceptance inspection in respect of its traffic safety facilities, communications facilities, joint inspection sites, the establishment and staffing of the inspection and examination units, and office and living facilities. Only after passing the acceptance inspection may its opening be announced.\nfor Class I ports, the Office of the Port Leading Group of the State Council shall be responsible for organising the acceptance inspection; for Class II ports, the port office of the province, autonomous region or municipality directly under the Central Government concerned, or another department in charge of port work, shall be responsible for organising the acceptance inspection."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Authority to approve temporary entry into and exit from areas of China not open to foreign countries:\nfor Chinese and foreign vessels temporarily entering and leaving a port or coastal waters of China not open to foreign countries, the Ministry of Communications shall examine and approve, and shall report to the Port Leading Group of the State Council for the record. Before submission for approval, the consent of the competent military department, the local people's government and the inspection and examination units concerned shall be obtained, and inspection and examination work shall be properly arranged.\nfor Chinese and foreign civil aircraft temporarily taking off from and landing at airports of China not open to foreign countries, the Civil Aviation Administration of China shall, after obtaining the consent of the competent military department, examine and approve; for non-civil aircraft, the competent military department shall examine and approve, and shall report to the Port Leading Group of the State Council for the record. Before submission for approval, the consent of the local people's government and the inspection and examination departments concerned shall be obtained, and inspection and examination work shall be properly arranged.\nfor Chinese and foreign vehicles and persons temporarily entering and leaving the country through land border areas of China not open to foreign countries, the provincial-level people's government shall examine and approve. Before submission for approval, the consent of the local provincial military district and the public security department shall be obtained, and inspection and examination work shall be properly arranged."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The opening of ports shall be carried out in a planned manner and shall be included, according to the system of subordination, in the State or local plans for the opening of ports. The departments concerned of the State Council and the provinces, autonomous regions and municipalities directly under the Central Government shall, two months before the planned year, submit the plans (drafts) for the opening of ports to the Port Leading Group of the State Council, and shall copy them to the State Planning Commission, the Ministry of Labour and Personnel and the competent departments of the inspection and examination units."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Sources of funds for the construction of inspection and examination facilities at opened ports:\nports administered by the central authorities shall be financed by the central authorities; ports administered by local authorities shall be financed by the local authorities.\nFor port construction projects such as newly opened ports, wharves, stations and airports (including military airports converted to joint military-civilian use) built and opened by the State (including projects using foreign investment and Chinese-foreign equity joint ventures), as well as projects such as new operating areas of old ports and new port areas of economic development zones, the joint inspection sites required shall be planned in a unified manner together with the main projects such as the port, wharf, station and airport. The investment required shall be included in the main projects. The investment in office and living civil construction facilities (including dormitories) of the inspection and examination units shall be studied by the competent department of the port construction project by organising the units concerned, and shall be summarised in a unified manner and submitted to the State Planning Commission for approval. After approval, the investment shall be allocated to the province, autonomous region or municipality directly under the Central Government where the port is located, and the local authorities shall undertake unified planning, design and construction. For port projects involving the conversion of military airports to joint military-civilian use, the consent of the air force or navy shall be obtained in advance; where construction is to take place within the airport, the construction unit may make requests and the air force or navy shall undertake unified planning.\nWhere the existing ports, wharves, stations and airports directly subordinate to the various ministries (bureaux) need to be opened to foreign countries, the joint inspection sites required shall in principle utilise the existing buildings and facilities. Where extension or new construction is truly necessary, it shall be invested in and constructed by the competent departments of the port, wharf, station or airport. The investment in office and living civil construction facilities (including dormitories) of the inspection and examination units shall in principle be met by their respective competent departments. Where there are genuine difficulties, the State or the local authorities shall give appropriate subsidies, and the local authorities shall undertake unified construction, with the investment handed over to the local authorities for use under a lump-sum responsibility system.\nFor newly opened local ports, the joint inspection sites required and the office and living civil construction facilities (including dormitories) of the inspection and examination units shall be invested in and constructed in a unified manner by the local authorities.\nThe construction plan and sources of investment for international seamen's clubs shall be resolved by reference to the provisions of items (2), (3) and (4) above.\nMeans of transport, instruments and equipment, etc. required by the inspection and examination units shall be provided by their respective competent departments.\nWithin the joint inspection sites, the office and business premises (including water, electricity and local telephone services) allocated to the inspection and examination units shall be provided free of charge by the operating units of the port, wharf, station and airport (including airports for joint military-civilian use)."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "These Provisions shall be interpreted by the Office of the Port Leading Group of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "These Provisions shall enter into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0157'] = {
     "lawId": "CN-REG-0157",
     "sourceLang": "zh",
@@ -9975,6 +11148,48 @@
         },
         "noLabel": {
           "en": "Article 24."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0160'] = {
+    "lawId": "CN-REG-0160",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "On the categories of taxes applicable to foreign-invested enterprises and foreign enterprises\nIn accordance with the provisions of the Decision, foreign-invested enterprises and foreign enterprises shall, in addition to the Interim Regulations of the People's Republic of China on Value-Added Tax, the Interim Regulations of the People's Republic of China on Consumption Tax, the Interim Regulations of the People's Republic of China on Business Tax and the Law of the People's Republic of China on Income Tax of Foreign-Invested Enterprises and Foreign Enterprises, also apply the following interim regulations:\nthe Interim Regulations of the People's Republic of China on Land Value-Added Tax issued by the State Council on 12 December 1993;\nthe Interim Regulations of the People's Republic of China on Resource Tax issued by the State Council on 25 December 1993;\nthe Interim Regulations of the People's Republic of China on Stamp Duty issued by the State Council on 6 August 1988;\nthe Interim Regulations on Slaughter Tax issued by the Government Administration Council of the Central People's Government on 19 December 1950;\nthe Interim Regulations on Urban Real Estate Tax issued by the Government Administration Council of the Central People's Government on 8 August 1951;\nthe Interim Regulations on Vehicle and Vessel Licence Plate Tax issued by the Government Administration Council of the Central People's Government on 13 September 1951;\nthe Interim Regulations on Deed Tax issued by the Government Administration Council of the Central People's Government on 3 April 1950.\nIn the course of the reform of the tax system, the State Council will also revise and formulate new interim tax regulations successively, and foreign-invested enterprises and foreign enterprises shall accordingly act in accordance with the provisions of the relevant regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "On the treatment of the increased tax burden on foreign-invested enterprises after the change to value-added tax, consumption tax and business tax\nFor foreign-invested enterprises established with approval before 31 December 1993 whose tax burden is increased as a result of the change to value-added tax, consumption tax and business tax, upon application by the enterprise and examination and approval by the tax authority, the excess tax paid owing to the increase in tax burden shall be refunded within the approved period of operation, but for not more than five years at the longest; where there is no period of operation, the excess tax paid as aforesaid shall, upon application by the enterprise and approval by the tax authority, be refunded within a period of not more than five years.\nWhere a foreign-invested enterprise pays both value-added tax and consumption tax, the portion of the tax paid in excess of the original tax burden shall be refunded as value-added tax and consumption tax respectively in proportion to the value-added tax and consumption tax paid.\nWhere the products produced by a foreign-invested enterprise are directly exported or are sold to an export enterprise for export, the tax shall, in accordance with the provisions of the Interim Regulations of the People's Republic of China on Value-Added Tax, be refunded in a single procedure upon presentation of the export customs declaration form and the tax payment voucher.\nRefunds applied for by foreign-invested enterprises owing to an increase in tax burden shall in principle be handled in a single procedure after the end of the year; where the increase in tax burden is relatively large, an advance refund may be applied for quarterly, with a final settlement at the end of the year.\nMatters concerning the refund of value-added tax and consumption tax shall be handled by the State tax bureau system, and treasuries at various levels shall examine them conscientiously and exercise strict control. The calculation of refund amounts and the procedures for applying for and approving refunds shall be separately formulated by the State Administration of Taxation.\nMatters concerning the refund of business tax shall be prescribed by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "On the taxation of the Sino-foreign cooperative exploitation of petroleum resources\nThe crude oil and natural gas extracted from Sino-foreign cooperative oil (gas) fields shall be subject to value-added tax in kind at a rate of 5 per cent, and a royalty shall be levied in accordance with existing provisions, while resource tax shall temporarily not be levied. In assessing value-added tax, input tax shall not be credited. No refund shall be granted upon the export of crude oil and natural gas.\nThe offshore self-operated oil fields of the China National Offshore Oil Corporation shall apply the above provisions by reference.\nThis Notice shall enter into force on 1 January 1994."
+        },
+        "noLabel": {
+          "en": "Article 3."
         }
       }
     ]

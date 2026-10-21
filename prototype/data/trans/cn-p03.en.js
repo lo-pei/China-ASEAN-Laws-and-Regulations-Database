@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p03
-   法规 26 部 / 译文 1191 条
+   法规 29 部 / 译文 1358 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -1971,6 +1971,609 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0164'] = {
+    "lawId": "CN-LAW-0164",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of regulating accounting conduct, ensuring the truthfulness and completeness of accounting materials, strengthening economic management and financial management, improving economic efficiency and maintaining the order of the socialist market economy."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Accounting work shall implement the lines, principles and policies, decisions and arrangements of the Party and the State, safeguard the public interest of society and serve national economic and social development.\nState organs, social organisations, companies, enterprises, public institutions and other organisations (hereinafter collectively referred to as the units) must handle accounting affairs in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Each unit must establish accounting books in accordance with the law and ensure their truthfulness and completeness."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The person in charge of a unit shall be responsible for the accounting work of the unit and for the truthfulness and completeness of its accounting materials."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Accounting bodies and accounting personnel shall conduct accounting and exercise accounting supervision in accordance with the provisions of this Law.\nNo unit or individual may, by any means, instruct, direct or compel accounting bodies or accounting personnel to forge or alter accounting vouchers, accounting books or other accounting materials, or to provide false financial and accounting reports.\nNo unit or individual may take reprisals against accounting personnel who perform their duties in accordance with the law and resist acts that violate the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Accounting personnel who conscientiously implement this Law, are loyal to their duties, adhere to principles and achieve outstanding results shall be given spiritual or material awards."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The finance department of the State Council shall be in charge of accounting work throughout the country.\nThe finance departments of the local people's governments at or above the county level shall administer accounting work within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State applies a unified accounting system. The unified national accounting system shall be formulated and promulgated by the finance department of the State Council in accordance with this Law.\nThe relevant departments of the State Council may, in accordance with this Law and the unified national accounting system, formulate specific measures or supplementary provisions for the implementation of the unified national accounting system in industries that have special requirements for accounting and accounting supervision, and submit them to the finance department of the State Council for examination and approval.\nThe State shall strengthen the development of accounting informatisation and encourage the lawful use of modern information technology in accounting work; the specific measures shall be formulated by the finance department of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Each unit must conduct accounting on the basis of economic transactions and events that have actually occurred, fill in accounting vouchers, register accounting books and prepare financial and accounting reports.\nNo unit may conduct accounting on the basis of false economic transactions, events or materials."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Each unit shall complete accounting formalities and conduct accounting for the following economic transactions and events:\n(1) increases, decreases and use of assets;\n(2) increases and decreases in liabilities;\n(3) increases and decreases in net assets (owners' equity);\n(4) increases and decreases in revenue, expenditure, expenses and costs;\n(5) calculation and treatment of financial results;\n(6) other matters for which accounting formalities need to be completed and accounting needs to be conducted."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The accounting year shall run from 1 January to 31 December of the Gregorian calendar."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Renminbi shall be the functional currency for accounting.\nA unit whose business receipts and expenditures are mainly in currencies other than Renminbi may select one of those currencies as its functional currency, but the financial and accounting reports it prepares shall be converted into Renminbi."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Accounting vouchers, accounting books, financial and accounting reports and other accounting materials must conform to the provisions of the unified national accounting system.\nWhere computers are used for accounting, the software and the accounting vouchers, accounting books, financial and accounting reports and other accounting materials generated thereby must also conform to the provisions of the unified national accounting system.\nNo unit or individual may forge or alter accounting vouchers, accounting books or other accounting materials, or provide false financial and accounting reports."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Accounting vouchers include original vouchers and bookkeeping vouchers.\nFor the economic transactions and events listed in Article 10 of this Law, original vouchers must be filled in or obtained and submitted to the accounting body in a timely manner.\nAccounting bodies and accounting personnel must examine original vouchers in accordance with the provisions of the unified national accounting system; they have the right to refuse to accept untrue or unlawful original vouchers and shall report the matter to the person in charge of the unit; original vouchers that are inaccurately or incompletely recorded shall be returned, and the unit concerned shall be required to correct or supplement them in accordance with the provisions of the unified national accounting system.\nNo item recorded in an original voucher may be altered; where an original voucher contains an error, it shall be reissued or corrected by the unit that issued it, and the place of correction shall be sealed with the seal of the issuing unit. Where the amount stated in an original voucher is erroneous, the voucher shall be reissued by the issuing unit and may not be corrected on the original voucher.\nBookkeeping vouchers shall be prepared on the basis of examined original vouchers and the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Registration in accounting books must be based on examined accounting vouchers and comply with the provisions of relevant laws, administrative regulations and the unified national accounting system. Accounting books include general ledgers, subsidiary ledgers, journals and other auxiliary books.\nAccounting books shall be registered in the order of consecutively numbered pages. Where an error occurs in the records of accounting books, or where pages are skipped, numbers are missing or lines are omitted, the correction shall be made in the manner prescribed by the unified national accounting system, and the accounting personnel and the person in charge of the accounting body (the chief accountant) shall affix their seals at the place of correction.\nWhere computers are used for accounting, the registration and correction of accounting books shall conform to the provisions of the unified national accounting system."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "All economic transactions and events of a unit shall be uniformly registered and accounted for in the accounting books established in accordance with the law; no unit may privately set up accounting books for registration and accounting in violation of this Law and the unified national accounting system."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Each unit shall periodically check its accounting book records against the physical assets, funds and relevant materials, so as to ensure that the accounting book records agree with the actual amounts of the physical assets and funds, that the accounting book records agree with the relevant contents of the accounting vouchers, that the corresponding records between the accounting books agree, and that the accounting book records agree with the relevant contents of the accounting statements."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The accounting treatment methods adopted by a unit shall be consistent from one accounting period to another and may not be changed at will; where a change is truly necessary, it shall be made in accordance with the provisions of the unified national accounting system, and the reasons for, the circumstances of and the impact of the change shall be explained in the financial and accounting reports."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Contingencies such as guarantees provided by a unit and pending litigation shall be explained in the financial and accounting reports in accordance with the provisions of the unified national accounting system."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Financial and accounting reports shall be prepared on the basis of examined accounting book records and relevant materials, and shall conform to the provisions of this Law and the unified national accounting system on the requirements for preparing financial and accounting reports, the persons to whom they are to be provided and the time limits for providing them; where other laws or administrative regulations provide otherwise, those provisions shall prevail.\nFinancial and accounting reports provided to different users of accounting materials shall be prepared on a consistent basis. Where the relevant laws or administrative regulations require that financial and accounting reports be audited by certified public accountants, the audit report issued by the certified public accountants and the accounting firm to which they belong shall be provided together with the financial and accounting reports."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Financial and accounting reports shall be signed and sealed by the person in charge of the unit, the person in charge of accounting work and the person in charge of the accounting body (the chief accountant); a unit that has a chief accountant shall also have the reports signed and sealed by the chief accountant.\nThe person in charge of the unit shall ensure the truthfulness and completeness of the financial and accounting reports."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Accounting records shall be kept in the Chinese language. In national autonomous areas, accounting records may concurrently be kept in one local ethnic language commonly used in that area. The accounting records of foreign-invested enterprises, foreign enterprises and other foreign organisations within the territory of the People's Republic of China may concurrently be kept in one foreign language."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Each unit shall establish archives for its accounting vouchers, accounting books, financial and accounting reports and other accounting materials and keep them properly. The specific administrative measures for the retention period, destruction and security protection of accounting archives shall be formulated by the finance department of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "In conducting accounting, no unit may commit any of the following acts:\n(1) arbitrarily changing the recognition criteria or measurement methods for assets, liabilities or net assets (owners' equity), or recording assets, liabilities or net assets (owners' equity) falsely, in excess, not at all or in deficiency;\n(2) recording revenue falsely or concealing revenue, or deferring or advancing the recognition of revenue;\n(3) arbitrarily changing the recognition criteria or measurement methods for expenses or costs, or recording expenses or costs falsely, in excess, not at all or in deficiency;\n(4) arbitrarily adjusting the methods for calculating and distributing profits, or fabricating false profits or concealing profits;\n(5) other acts that violate the provisions of the unified national accounting system."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Accounting"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Each unit shall establish and improve its internal accounting supervision system and incorporate it into its internal control system. The internal accounting supervision system of a unit shall meet the following requirements:\n(1) the duties and powers of bookkeeping personnel and of the personnel who approve, handle and keep custody of the economic transactions, events and accounting matters and property shall be clearly defined, separated from one another and mutually restrictive;\n(2) the procedures for mutual supervision and mutual restriction in the decision-making on and implementation of major outbound investments, disposals of assets, allocations of funds and other important economic transactions and events shall be clearly defined;\n(3) the scope, time limits and organisational procedures for property inspection shall be clearly defined;\n(4) the methods and procedures for conducting periodic internal audits of accounting materials shall be clearly defined;\n(5) other requirements prescribed by the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The person in charge of a unit shall ensure that the accounting body and accounting personnel perform their duties in accordance with the law, and may not instruct, direct or compel the accounting body or accounting personnel to handle accounting matters in violation of the law.\nThe accounting body and accounting personnel shall have the right to refuse to handle accounting matters that violate this Law and the unified national accounting system, or to correct them within the scope of their functions and powers."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the accounting body or accounting personnel find that the accounting book records do not agree with the physical assets, funds or relevant materials, they shall handle the matter promptly if they are empowered to do so under the unified national accounting system; if they are not so empowered, they shall immediately report to the person in charge of the unit and request that the cause be ascertained and that the matter be dealt with."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Any unit or individual shall have the right to report acts that violate this Law and the unified national accounting system. A department that receives a report and is empowered to handle it shall handle it promptly in accordance with the law and the division of duties; if it is not so empowered, it shall promptly refer the report to the department empowered to handle it. The department that receives the report and the department responsible for handling it shall keep the informant confidential, and may not transfer the name of the informant or the materials submitted by the informant to the unit or the individual against whom the report is made."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A unit that is required by the relevant laws or administrative regulations to be audited by certified public accountants shall truthfully provide the engaged accounting firm with accounting vouchers, accounting books, financial and accounting reports and other accounting materials as well as the relevant information.\nNo unit or individual may, by any means, request or hint that certified public accountants or the accounting firm to which they belong issue an untrue or improper audit report.\nThe finance department shall have the power to supervise the procedures for and the contents of the audit reports issued by accounting firms."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The finance department shall supervise the following matters of each unit:\n(1) whether accounting books have been established in accordance with the law;\n(2) whether accounting vouchers, accounting books, financial and accounting reports and other accounting materials are truthful and complete;\n(3) whether accounting conforms to the provisions of this Law and the unified national accounting system;\n(4) whether the personnel engaged in accounting work possess professional competence and observe professional ethics.\nWhere, in supervising the matters listed in item (2) of the preceding paragraph, a major suspicion of violation of the law is discovered, the finance department of the State Council and its dispatched offices may make inquiries of the units that have economic transactions with the unit under supervision and of the financial institutions with which the unit under supervision has opened accounts; the units and financial institutions concerned shall provide support."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The finance, audit, taxation, financial management and other departments shall, in accordance with the duties prescribed by the relevant laws and administrative regulations, conduct supervisory inspections of the accounting materials of the units concerned and issue inspection conclusions.\nThe finance, audit, taxation, financial management and other departments shall strengthen coordination in supervisory inspections; where an inspection conclusion already made by one supervisory inspection department can meet the needs of another supervisory inspection department in performing its own duties, the latter shall make use of it so as to avoid duplicated auditing of accounts."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Departments that conduct supervisory inspections of the accounting materials of the units concerned in accordance with the law and their staff members shall be under an obligation to keep confidential the State secrets, work secrets, trade secrets, personal privacy and personal information they learn in the course of such inspections."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Each unit must, in accordance with the provisions of the relevant laws and administrative regulations, accept the supervisory inspections lawfully conducted by the supervisory inspection departments, and truthfully provide accounting vouchers, accounting books, financial and accounting reports and other accounting materials as well as the relevant information; it may not refuse, conceal or make false statements."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Accounting Supervision"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Each unit shall, according to the needs of its accounting affairs, lawfully organise its accounting work in one of the following ways:\n(1) establishing an accounting body;\n(2) establishing accounting posts within the relevant body and designating a chief accountant;\n(3) engaging an intermediary agency approved to engage in bookkeeping agency services to keep books on its behalf;\n(4) other ways prescribed by the finance department of the State Council.\nLarge and medium-sized State-owned enterprises and enterprises in which State capital holds a controlling or leading position must have a chief accountant. The qualifications, appointment and removal procedures, and duties and powers of the chief accountant shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Bodies and Accounting Personnel"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "An internal verification system shall be established within the accounting body.\nCashiers may not concurrently take charge of verification, the custody of accounting archives, or the registration of the accounts of receipts, expenditures, expenses and claims and debts."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Bodies and Accounting Personnel"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Accounting personnel shall possess the professional competence required for accounting work.\nA person serving as the person in charge of the accounting body of a unit (the chief accountant) shall possess the professional and technical qualification of accountant or above, or have three or more years of experience in accounting work.\nThe scope of accounting personnel as referred to in this Law shall be prescribed by the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Bodies and Accounting Personnel"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Accounting personnel shall observe professional ethics, improve their professional quality and strictly comply with the relevant State provisions on confidentiality. The education and training of accounting personnel shall be strengthened."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Bodies and Accounting Personnel"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A person who, in connection with an illegal act related to accounting duties such as providing false financial and accounting reports, preparing false accounts, concealing or intentionally destroying accounting vouchers, accounting books or financial and accounting reports, embezzlement, misappropriation of public funds or occupational misappropriation, has been investigated for criminal responsibility in accordance with the law may no longer engage in accounting work."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Bodies and Accounting Personnel"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where accounting personnel are transferred to another post or leave their posts, they must complete handover formalities with the personnel taking over.\nWhere ordinary accounting personnel complete handover formalities, the person in charge of the accounting body (the chief accountant) shall supervise the handover; where the person in charge of the accounting body (the chief accountant) completes handover formalities, the person in charge of the unit shall supervise the handover, and where necessary the competent department may send personnel to supervise the handover jointly."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Accounting Bodies and Accounting Personnel"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a unit commits any of the following acts in violation of the provisions of this Law, the finance department of the people's government at or above the county level shall order it to make correction within a specified time limit, give it a warning or circulate a notice of criticism, and may concurrently impose a fine of not more than RMB 200,000 on the unit and a fine of not more than RMB 50,000 on the person directly in charge and the other persons directly responsible; where the circumstances are serious, it may concurrently impose a fine of not less than RMB 200,000 and not more than RMB 1,000,000 on the unit and a fine of not less than RMB 50,000 and not more than RMB 500,000 on the person directly in charge and the other persons directly responsible; where the persons concerned are public officials, disciplinary sanctions shall also be imposed in accordance with the law:\n(1) failing to establish accounting books in accordance with the law;\n(2) privately setting up accounting books;\n(3) failing to fill in or obtain original vouchers as required, or filling in or obtaining original vouchers that do not conform to the provisions;\n(4) registering accounting books on the basis of unexamined accounting vouchers, or registering accounting books in a manner that does not conform to the provisions;\n(5) arbitrarily changing accounting treatment methods;\n(6) preparing financial and accounting reports provided to different users of accounting materials on an inconsistent basis;\n(7) failing to use the accounting recording language or the functional currency as required;\n(8) failing to keep accounting materials as required, resulting in the damage or loss of accounting materials;\n(9) failing to establish and implement an internal accounting supervision system as required, or refusing supervision lawfully conducted, or failing to truthfully provide the relevant accounting materials and information;\n(10) appointing accounting personnel who do not conform to the provisions of this Law.\nWhere any of the acts listed in the preceding paragraph constitutes a crime, criminal responsibility shall be investigated in accordance with the law.\nWhere accounting personnel commit any of the acts listed in the first paragraph and the circumstances are serious, they may not engage in accounting work for five years.\nWhere the relevant laws provide otherwise for the penalties for the acts listed in the first paragraph, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a person forges or alters accounting vouchers or accounting books, prepares false financial and accounting reports, or conceals or intentionally destroys accounting vouchers, accounting books or financial and accounting reports that shall be preserved in accordance with the law, the finance department of the people's government at or above the county level shall order correction within a specified time limit, give a warning or circulate a notice of criticism, and confiscate the illegal gains; where the illegal gains are RMB 200,000 or more, a fine of not less than one time and not more than ten times the illegal gains may concurrently be imposed on the unit; where there are no illegal gains or the illegal gains are less than RMB 200,000, a fine of not less than RMB 200,000 and not more than RMB 2,000,000 may concurrently be imposed; a fine of not less than RMB 100,000 and not more than RMB 500,000 may be imposed on the person directly in charge and the other persons directly responsible, and where the circumstances are serious, a fine of not less than RMB 500,000 and not more than RMB 2,000,000 may be imposed; where the persons concerned are public officials, disciplinary sanctions shall also be imposed in accordance with the law; any accounting personnel among them may not engage in accounting work for five years; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a person instructs, directs or compels an accounting body, accounting personnel or any other person to forge or alter accounting vouchers or accounting books, to prepare false financial and accounting reports, or to conceal or intentionally destroy accounting vouchers, accounting books or financial and accounting reports that shall be preserved in accordance with the law, the finance department of the people's government at or above the county level shall give a warning or circulate a notice of criticism, and may concurrently impose a fine of not less than RMB 200,000 and not more than RMB 1,000,000; where the circumstances are serious, a fine of not less than RMB 1,000,000 and not more than RMB 5,000,000 may concurrently be imposed; where the persons concerned are public officials, disciplinary sanctions shall also be imposed in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the person in charge of a unit takes reprisals in the form of demotion, removal from post, transfer to another post, dismissal or expulsion against accounting personnel who perform their duties in accordance with the law and resist acts that violate the provisions of this Law, disciplinary sanctions shall be imposed in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law. The reputation, original post and grade of the accounting personnel subjected to such reprisals shall be restored."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a staff member of the finance department or of a relevant administrative department abuses power, neglects duty, commits irregularities for personal gain, or discloses State secrets, work secrets, trade secrets, personal privacy or personal information in the course of supervision and administration, disciplinary sanctions shall be imposed in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a person, in violation of the provisions of this Law, transfers the name of an informant or the materials submitted by the informant to the unit or the individual against whom the report is made, disciplinary sanctions shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an act violates the provisions of this Law but falls within the circumstances of a lighter, mitigated or non-imposition of penalty as provided for in the Administrative Penalty Law of the People's Republic of China, a lighter or mitigated penalty shall be imposed, or no penalty shall be imposed, in accordance with those provisions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a penalty is imposed for a violation of the provisions of this Law, the matter shall be recorded in the credit records in accordance with the relevant State provisions.\nWhere a violation of the provisions of this Law also violates the provisions of other laws, the relevant departments shall impose penalties in accordance with the law within the scope of their respective functions and powers."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "For the purposes of this Law, the following terms have the meanings given below:\nThe person in charge of a unit means the legal representative of the unit, or the principal person in charge who exercises functions and powers on behalf of the unit as prescribed by laws or administrative regulations.\nThe unified national accounting system means the system formulated by the finance department of the State Council in accordance with this Law in respect of accounting, accounting supervision, accounting bodies and accounting personnel, and the administration of accounting work."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The relevant department of the Central Military Commission may, in accordance with this Law and the unified national accounting system, formulate specific measures for the armed forces to implement the unified national accounting system, and shall send a copy thereof to the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The specific measures for the administration of accounting by individual industrial and commercial households shall be separately prescribed by the finance department of the State Council in accordance with the principles of this Law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "This Law shall come into force on 1 July 2000."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -5594,6 +6197,615 @@
     ]
   };
 
+  TR['CN-LAW-0187'] = {
+    "lawId": "CN-LAW-0187",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 51 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of regulating military personnel insurance relations, safeguarding the lawful rights and interests of military personnel and promoting national defence and the development of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State establishes a military personnel insurance system.\nThis Law applies to the establishment, contribution and transfer and continuation of military personnel casualty insurance, retirement pension insurance, retirement medical insurance and insurance for unemployed military spouses who have moved to join the servicemember."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The military personnel insurance system shall reflect the occupational characteristics of military personnel, be linked with the social insurance system and be commensurate with the level of economic and social development.\nThe State shall, in line with the development of the social insurance system, supplement and improve the military personnel insurance system in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall promote the development of military personnel insurance undertakings and provide financial appropriation and policy support for military personnel insurance."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent department of military personnel insurance of the Chinese People's Liberation Army shall be responsible for military personnel insurance work throughout the armed forces. The social insurance administrative department and the finance department of the State Council and the other relevant departments of the armed forces shall be responsible for the relevant military personnel insurance work within the scope of their respective duties.\nThe finance department of the logistics (joint logistics) organ of the armed forces shall be responsible for handling military personnel insurance registration, records of individual rights and interests, payment of military personnel insurance benefits and other work.\nThe finance department of the logistics (joint logistics) organ of the armed forces and the local social insurance agencies shall, in accordance with their respective duties, handle the formalities for the transfer and continuation of the relationship between military personnel insurance and social insurance."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Military personnel shall participate in military personnel insurance in accordance with the law and enjoy the corresponding insurance benefits.\nMilitary personnel shall have the right to enquire about and verify their individual contribution records and records of individual rights and interests, to request the finance department of the logistics (joint logistics) organ of the armed forces and the local social insurance agencies to handle the formalities for the transfer and continuation of pension, medical and other insurance relationships in accordance with the law, and to be provided with military personnel insurance and social insurance consultancy and other related services."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where military personnel die in war or in the line of duty, military personnel death insurance benefits shall be paid in accordance with the ascertained nature of death and the corresponding insurance benefit standards."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Military Personnel Casualty Insurance"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where military personnel are disabled in war, in the line of duty or as a result of illness, military personnel disability insurance benefits shall be paid in accordance with the assessed grade of disability and the corresponding insurance benefit standards."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Military Personnel Casualty Insurance"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The ascertainment of the nature of death and disability of military personnel, the assessment of the grade of disability and the corresponding insurance benefit standards shall be governed by the relevant provisions of the State and the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Military Personnel Casualty Insurance"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where military personnel die or become disabled under any of the following circumstances, they shall not enjoy military personnel casualty insurance benefits:\n(1) intentionally committing a crime;\n(2) being intoxicated or taking drugs;\n(3) self-mutilation or suicide;\n(4) other circumstances prescribed by laws, administrative regulations and military regulations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Military Personnel Casualty Insurance"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where military personnel who were disabled in war or in the line of duty and whose grade of disability has been assessed have retired from active service and taken up work, and the old injury recurs, they shall enjoy the corresponding work-related injury benefits in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Military Personnel Casualty Insurance"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The funds required for military personnel casualty insurance shall be borne by the State, and individuals shall not pay insurance premiums."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Military Personnel Casualty Insurance"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where military personnel retire from active service and participate in basic pension insurance, the State shall provide a retirement pension subsidy."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Retirement Pension Insurance"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The standards for the retirement pension subsidy for military personnel shall be drawn up by the General Logistics Department of the Chinese People's Liberation Army together with the relevant departments of the State Council on the basis of factors such as the contribution standards for basic pension insurance and the level of military pay as prescribed by the State, and shall be submitted to the State Council and the Central Military Commission for approval."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Retirement Pension Insurance"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where military personnel have already participated in basic pension insurance before enlistment, the local social insurance agencies and the finance department of the logistics (joint logistics) organ of the armed forces shall handle the formalities for the transfer and continuation of the basic pension insurance relationship."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Retirement Pension Insurance"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where military personnel participate in basic pension insurance for employees after retiring from active service, the finance department of the logistics (joint logistics) organ of the armed forces shall transfer their retirement pension insurance relationship and the corresponding funds to the local social insurance agencies, and the local social insurance agencies shall handle the corresponding formalities for transfer and continuation.\nThe years of active service of military personnel shall be calculated together with the years of contribution to basic pension insurance for employees before enlistment and after retirement from active service."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Retirement Pension Insurance"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where military personnel participate in the new rural social pension insurance or the social pension insurance for urban residents after retiring from active service, the formalities for transfer and continuation shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Retirement Pension Insurance"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where military personnel retire from active service to posts of civil servants or to posts of staff managed by reference to the Civil Servant Law, or where officers in active service or civilian cadres retire from active service and choose their own employment, the measures for their pension insurance shall be implemented in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Retirement Pension Insurance"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where military personnel are placed by way of retirement after retiring from active service, the measures for their pension shall be implemented in accordance with the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Retirement Pension Insurance"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Officers, civilian cadres and non-commissioned officers who participate in retirement medical insurance for military personnel shall pay retirement medical insurance premiums for military personnel, and the State shall provide a subsidy in an amount equal to the retirement medical insurance premiums for military personnel paid by the individual.\nConscripts and students under the supply system shall not pay retirement medical insurance premiums for military personnel, and the State shall provide a retirement medical insurance subsidy for military personnel in accordance with the prescribed standards."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Retirement Medical Insurance"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The standards for individual contributions to and State subsidies for retirement medical insurance for military personnel shall be determined by the General Logistics Department of the Chinese People's Liberation Army together with the relevant departments of the State Council on the basis of factors such as the contribution ratios and the level of military pay as prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Retirement Medical Insurance"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where military personnel have already participated in basic medical insurance before enlistment, the local social insurance agencies and the finance department of the logistics (joint logistics) organ of the armed forces shall handle the formalities for the transfer and continuation of the basic medical insurance relationship."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Retirement Medical Insurance"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where military personnel participate in basic medical insurance for employees after retiring from active service, the finance department of the logistics (joint logistics) organ of the armed forces shall transfer their retirement medical insurance relationship and the corresponding funds to the local social insurance agencies, and the local social insurance agencies shall handle the corresponding formalities for transfer and continuation.\nThe years of active service of military personnel shall be deemed to be years of contribution to basic medical insurance for employees and shall be calculated together with the years of contribution to basic medical insurance for employees before enlistment and after retirement from active service."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Retirement Medical Insurance"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where military personnel participate in the new rural cooperative medical care system or the basic medical insurance for urban residents after retiring from active service, the matter shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Retirement Medical Insurance"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall establish pension insurance, medical insurance and other insurance for unemployed military spouses who have moved to join the servicemember. Unemployed military spouses who have moved to join the servicemember and participate in insurance shall pay pension insurance premiums and medical insurance premiums, and the State shall provide corresponding subsidies.\nThe standards for individual contributions to and State subsidies for the insurance of unemployed military spouses who have moved to join the servicemember shall be implemented in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Insurance for Unemployed Military Spouses Who Have Moved to Join the Servicemember"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where unemployed military spouses who have moved to join the servicemember have already participated in social insurance before moving, the local social insurance agencies and the finance department of the logistics (joint logistics) organ of the armed forces shall handle the formalities for the transfer and continuation of the insurance relationship."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Insurance for Unemployed Military Spouses Who Have Moved to Join the Servicemember"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where an unemployed military spouse who has moved to join the servicemember obtains employment, or where the servicemember retires from active service, the finance department of the logistics (joint logistics) organ of the armed forces shall transfer the pension insurance and medical insurance relationships of that spouse and the corresponding funds to the local social insurance agencies, and the local social insurance agencies shall handle the corresponding formalities for transfer and continuation.\nThe years of contribution to pension insurance and medical insurance of a military spouse during the period in which he or she is unemployed after moving to join the servicemember shall be calculated together with the years of contribution to basic pension insurance for employees and basic medical insurance for employees in the locality."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Insurance for Unemployed Military Spouses Who Have Moved to Join the Servicemember"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "When an unemployed military spouse who has moved to join the servicemember reaches the retirement age prescribed by the State, the place of retirement shall be determined in accordance with the relevant provisions of the State, and the finance department of the logistics (joint logistics) organ of the armed forces shall transfer his or her pension insurance relationship and the corresponding funds to the social insurance agency of the place of retirement, where he or she shall enjoy the corresponding basic pension insurance benefits."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Insurance for Unemployed Military Spouses Who Have Moved to Join the Servicemember"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Local people's governments and the relevant departments shall provide employment guidance, training and other services for unemployed military spouses who have moved to join the servicemember.\nWhere an unemployed military spouse who has moved to join the servicemember refuses without justified reasons to accept the employment placement arranged by the local people's government, or refuses without justified reasons to accept suitable work introduced or employment training provided by a department or institution designated by the local people's government, the insurance contribution subsidy shall cease to be granted."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Insurance for Unemployed Military Spouses Who Have Moved to Join the Servicemember"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Military personnel insurance funds include the military personnel casualty insurance fund, the military personnel retirement pension insurance fund, the military personnel retirement medical insurance fund and the insurance fund for unemployed military spouses who have moved to join the servicemember. Each military personnel insurance fund shall be accounted for separately by type of military personnel insurance, kept in separate accounts and subject to the accounting system of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VI Military Personnel Insurance Funds"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Military personnel insurance funds shall consist of individual contributions, military personnel insurance funds borne by the central finance, interest income and other funds."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Military Personnel Insurance Funds"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Insurance premiums payable by military personnel shall be withheld and paid on their behalf by the unit to which they belong.\nInsurance premiums payable by unemployed military spouses who have moved to join the servicemember shall be withheld and paid on their behalf by the unit to which the servicemember belongs."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Military Personnel Insurance Funds"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Military personnel insurance funds borne by the central finance shall be incorporated by the finance department of the State Council into the annual national defence expenditure budget."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Military Personnel Insurance Funds"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Military personnel insurance funds shall be subject to budget and final account management in accordance with the budget management systems of the State and the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Military Personnel Insurance Funds"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Military personnel insurance funds shall be deposited in dedicated accounts, and the specific administrative measures shall be implemented in accordance with the relevant provisions of the State and the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Military Personnel Insurance Funds"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Military personnel insurance funds shall be centrally administered by the military personnel insurance fund administration of the General Logistics Department of the Chinese People's Liberation Army.\nThe military personnel insurance fund administration shall strictly administer military personnel insurance funds and ensure the safety of the funds."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Military Personnel Insurance Funds"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Military personnel insurance funds shall be used exclusively for their designated purposes and disbursed in accordance with the prescribed items, scope and standards; no unit or individual may embezzle, misappropriate or divert such funds, or alter the items of expenditure, expand the scope of expenditure or change the standards of expenditure."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Military Personnel Insurance Funds"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The finance department of the logistics (joint logistics) organ of the armed forces and the local social insurance agencies shall establish and improve administration systems for military personnel insurance.\nThe finance department of the logistics (joint logistics) organ of the armed forces shall pay military personnel insurance benefits in full and on time.\nThe finance department of the logistics (joint logistics) organ of the armed forces and the local social insurance agencies shall promptly handle the formalities for the transfer and continuation of the relationship between military personnel insurance and social insurance."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Insurance Administration and Supervision"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The finance department of the logistics (joint logistics) organ of the armed forces shall establish insurance archives for military personnel and for unemployed military spouses who have moved to join the servicemember, promptly, completely and accurately record their individual contributions and State subsidies as well as their enjoyment of military personnel insurance benefits and other records of individual rights and interests, and periodically deliver statements of records of individual rights and interests to the persons concerned.\nThe finance department of the logistics (joint logistics) organ of the armed forces and the local social insurance agencies shall provide military personnel and unemployed military spouses who have moved to join the servicemember with military personnel insurance and social insurance consultancy and other related services."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Insurance Administration and Supervision"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The military personnel insurance information system shall be built in a unified manner under the responsibility of the General Logistics Department of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Insurance Administration and Supervision"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The finance department of the General Logistics Department of the Chinese People's Liberation Army and the audit organs of the Chinese People's Liberation Army shall, in accordance with their respective duties, supervise the receipt, expenditure and administration of military personnel insurance funds."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Insurance Administration and Supervision"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The logistics (joint logistics) organs of the armed forces and the local social insurance administrative departments shall conduct supervisory inspections of compliance with this Law by units and individuals.\nWhen the logistics (joint logistics) organs of the armed forces and the local social insurance administrative departments conduct supervisory inspections, the units and individuals under inspection shall truthfully provide the materials relating to military personnel insurance and may not refuse inspection or make false or concealed reports."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Insurance Administration and Supervision"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The finance department of the logistics (joint logistics) organ of the armed forces and the local social insurance agencies and their staff members shall keep confidential the information of military units and military personnel in accordance with the law and may not disclose it in any form."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Insurance Administration and Supervision"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Any unit or individual shall have the right to report or complain about acts that violate the provisions of this Law.\nThe relevant departments and institutions of the armed forces and of the localities shall handle reports and complaints falling within the scope of their duties in accordance with the law; where a report or complaint does not fall within the scope of the duties of the department or institution concerned, it shall notify in writing and refer the matter to the department or institution empowered to handle it. The department or institution empowered to handle it shall handle it promptly and may not shift responsibility onto others."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Insurance Administration and Supervision"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the finance department of a logistics (joint logistics) organ of the armed forces or a social insurance agency falls under any of the following circumstances, the logistics (joint logistics) organ of the armed forces or the social insurance administrative department shall order it to make correction; disciplinary sanctions shall be imposed in accordance with the law on the person directly in charge and the other persons directly responsible; and where losses are caused, liability for compensation shall be borne in accordance with the law:\n(1) failing to establish or transfer and continue military personnel insurance relationships as required;\n(2) failing to collect or remit individual insurance premiums as required;\n(3) failing to pay military personnel insurance benefits as required;\n(4) tampering with or losing individual contribution records or other military personnel insurance archive materials;\n(5) disclosing the information of military units and military personnel;\n(6) allocating or depositing military personnel insurance funds in violation of the provisions;\n(7) committing other acts that violate laws or regulations and impair military personnel insurance rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where military personnel insurance funds are embezzled, misappropriated or diverted, the logistics (joint logistics) organ of the armed forces shall order their return within a specified time limit, and disciplinary sanctions shall be imposed in accordance with the law on the person directly in charge and the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a person obtains military personnel insurance benefits by fraud, forgery of certifying materials or other means, the logistics (joint logistics) organ of the armed forces and the social insurance administrative department shall order him or her to return the benefits within a specified time limit and impose disciplinary sanctions in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where military personnel participate in unemployment insurance after retiring from active service, their years of active service shall be deemed to be years of contribution to unemployment insurance and shall be calculated together with the years of contribution to unemployment insurance before enlistment and after retirement from active service."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The provisions of this Law on the rights, interests and obligations under military personnel insurance shall apply to the people's armed police; the administration of the insurance funds of the Chinese People's Armed Police Force shall be carried out in accordance with the fund management system of the Chinese People's Armed Police Force."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "This Law shall come into force on 1 July 2012."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0192'] = {
     "lawId": "CN-LAW-0192",
     "sourceLang": "zh",
@@ -7026,6 +8238,786 @@
         },
         "noLabel": {
           "en": "Article 29."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0203'] = {
+    "lawId": "CN-LAW-0203",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 65 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution for the purpose of perfecting the lawyer system, regulating lawyers' practice, guaranteeing that lawyers practise in accordance with the law, and giving play to the role of lawyers in the building of the socialist rule of law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, \"lawyer\" means a practising professional who has obtained a lawyer's practice certificate in accordance with the law and who, upon engagement or designation, provides legal services to clients.\nLawyers shall safeguard the lawful rights and interests of clients, safeguard the correct implementation of the law, and safeguard social fairness and justice."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The work of lawyers shall uphold the leadership of the Communist Party of China, implement the lines, principles, policies, decisions and arrangements of the Party and the State, and serve the building of a Chinese path to modernisation.\nOrganisations of the Communist Party of China shall be established in law firms in accordance with the Constitution of the Communist Party of China and the relevant intra-Party regulations, to carry out Party activities, strengthen Party building, and give play to the political guiding role of Party organisations and the exemplary vanguard role of lawyer Party members. Law firms shall provide the necessary conditions for the activities of Party organisations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Lawyers in practice shall exemplarily observe the Constitution and laws and strictly abide by lawyers' professional ethics and practice discipline.\nLawyers in practice shall take facts as the basis and the law as the criterion.\nLawyers shall practise in accordance with the law and regulations and in good faith, earnestly perform their social responsibilities, and accept the supervision of the State, society and clients."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The practice of lawyers in accordance with the law shall be protected by law, and no organisation or individual may infringe upon the lawful rights and interests of lawyers.\nPeople's courts, people's procuratorates, public security organs, State security organs, judicial administration departments and the relevant entities shall establish and improve systems for guaranteeing lawyers' practice rights and shall guarantee lawyers' practice rights in accordance with the law within the scope of their duties."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "To apply to practise as a lawyer, one shall submit an application to the judicial administration department of the people's government of a city with districts or\nof a district of a municipality directly under the Central Government, and submit the following materials:\n(1) the certificate of the national unified legal professional qualification;\n(2) materials issued by the bar association certifying that the applicant has passed the internship assessment;\n(3) the applicant's identity certificate;\n(4) a certificate issued by the law firm agreeing to accept the applicant.\nAn applicant applying to practise as a part-time lawyer shall also submit a certificate from his or her unit agreeing that the applicant may engage part-time in the legal profession.\nThe department accepting the application shall, within 20 days from the date of acceptance, conduct the examination and submit the examination opinions and all application materials to the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government. The judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 10 days from the date of receipt of the submitted materials, conduct the review and make a decision on whether to permit practice. Where practice is permitted, a lawyer's practice certificate shall be issued to the applicant; where practice is not permitted, the reasons shall be explained to the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State actively develops foreign-related legal services, strengthens the training of foreign-related lawyers, supports law firms in improving their capacity and level of foreign-related legal services, and encourages the legal profession to strengthen international exchange and cooperation, so as to safeguard the lawful rights and interests of clients and serve high-quality development and high-level opening up."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A lawyer shall meet the following conditions:\n(1) upholding the Constitution of the People's Republic of China;\n(2) upholding the leadership of the Communist Party of China and upholding the socialist rule of law of our country;\n(3) having passed the national unified legal professional qualification examination and obtained the legal professional qualification;\n(4) having completed one year of internship in a law firm;\n(5) being of good conduct.\nThe certificate of passing the national unified judicial examination and the lawyer qualification certificate obtained before the implementation of the national unified legal professional qualification examination shall have the same effect as the certificate of the national unified legal professional qualification."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To apply to practise as a lawyer, one shall submit an application to the judicial administration department of the people's government of a city with districts or of a district of a municipality directly under the Central Government, and submit the following materials:\n(1) the certificate of the national unified legal professional qualification;\n(2) materials issued by the bar association certifying that the applicant has passed the internship assessment;\n(3) the applicant's identity certificate;\n(4) a certificate issued by the law firm agreeing to accept the applicant.\nAn applicant applying to practise as a part-time lawyer shall also submit a certificate from his or her unit agreeing that the applicant may engage part-time in the legal profession.\nThe department accepting the application shall, within 20 days from the date of acceptance, conduct the examination and submit the examination opinions and all application materials to the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government. The judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 10 days from the date of receipt of the submitted materials, conduct the review and make a decision on whether to permit practice. Where practice is permitted, a lawyer's practice certificate shall be issued to the applicant; where practice is not permitted, the reasons shall be explained to the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A lawyer's practice certificate shall not be issued to an applicant in any of the following circumstances:\n(1) being a person without capacity for civil conduct or with limited capacity for civil conduct;\n(2) having been subjected to criminal punishment, except for crimes of negligence;\n(3) having been dismissed from public office or having had his or her lawyer's or notary's practice certificate revoked."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Persons who have an educational background of undergraduate or above in institutions of higher education, have engaged in professional work for 15 full years in fields where legal service personnel are in short supply, have a senior professional title or an equivalent professional level and have the corresponding specialised legal knowledge, and who apply to practise as full-time lawyers, shall be permitted to practise upon passing the assessment of the judicial administration department of the State Council. The specific measures shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "In any of the following circumstances, the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall revoke the decision permitting practice and cancel the lawyer's practice certificate of the person permitted to practise:\n(1) the applicant obtained the lawyer's practice certificate by fraud, bribery or other improper means;\n(2) practice was permitted for an applicant who does not meet the conditions prescribed by this Law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A lawyer may practise in only one law firm. Where a lawyer changes the institution in which he or she practises, he or she shall apply for the replacement of the lawyer's practice certificate.\nA lawyer's practice shall not be subject to geographical restriction."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Civil servants shall not concurrently serve as practising lawyers.\nWhere a lawyer serves as a member of the standing committee of a people's congress at any level, he or she shall not engage in litigation representation or defence business during the term of office."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Persons engaged in legal education or research in institutions of higher education or research institutions who meet the conditions prescribed in Article 5 of this Law may, with the consent of their units and in accordance with the procedures prescribed in Article 6 of this Law, apply to practise as part-time lawyers."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Persons who have not obtained a lawyer's practice certificate shall not engage in legal service business in the name of a lawyer; and shall not engage in litigation representation or defence business unless otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Practising Licence for Lawyers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A law firm is an institution in which lawyers practise. The establishment of a law firm shall meet the following conditions:\n(1) having its own name, domicile and articles of association;\n(2) having lawyers who comply with the provisions of this Law;\n(3) the founders being lawyers who have a certain amount of practice experience and have not been subjected to the penalty of suspension of practice within three years;\n(4) having assets of the amount prescribed by the judicial administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The establishment of a partnership law firm shall, in addition to meeting the conditions prescribed in Article 14 of this Law, have three or more partners, and the founders shall be lawyers with more than three years of practice experience.\nA partnership law firm may be established in the form of a general partnership or of a special general partnership. The partners of a partnership law firm shall bear liability for the debts of the law firm in accordance with the law according to the form of partnership."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The establishment of a sole proprietorship law firm shall, in addition to meeting the conditions prescribed in Article 14 of this Law, have a founder who is a lawyer with more than five years of practice experience. The founder shall bear unlimited liability for the debts of the law firm."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "To apply for the establishment of a law firm, the following materials shall be submitted:\n(1) an application;\n(2) the name and articles of association of the law firm;\n(3) the list, curricula vitae, identity certificates and lawyer's practice certificates of the lawyers;\n(4) proof of domicile;\n(5) proof of assets.\nTo establish a partnership law firm, the partnership agreement shall also be submitted."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "To establish a law firm, an application shall be submitted to the judicial administration department of the people's government of a city with districts or of a district of a municipality directly under the Central Government; the department accepting the application shall, within 20 days from the date of acceptance, conduct the examination and submit the examination opinions and all application materials to the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government. The judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 10 days from the date of receipt of the submitted materials, conduct the review and make a decision on whether to permit establishment. Where establishment is permitted, a law firm practice certificate shall be issued to the applicant; where establishment is not permitted, the reasons shall be explained to the applicant in writing."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A partnership law firm that has been established for more than three years and has 20 or more practising lawyers may establish branch offices. The establishment of a branch office shall be subject to review by the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the branch office is to be established. An application for the establishment of a branch office shall be handled in accordance with the procedures prescribed in Article 18 of this Law.\nA partnership law firm shall bear liability for the debts of its branch offices."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A law firm established with State investment shall autonomously carry out lawyer business in accordance with the law and shall bear liability for its debts with all of its assets."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a law firm changes its name, person in charge, articles of association or partnership agreement, it shall report to the original review department for approval.\nWhere a law firm changes its domicile or partners, it shall report to the original review department for the record within 15 days from the date of the change."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A law firm shall terminate in any of the following circumstances:\n(1) it cannot maintain the statutory conditions for establishment and still fails to meet the conditions after rectification within a time limit;\n(2) its law firm practice certificate has been revoked in accordance with the law;\n(3) it decides on its own to dissolve;\n(4) other circumstances under which it shall terminate as provided by laws and administrative regulations.\nWhere a law firm terminates, the department that issued the practice certificate shall cancel the practice certificate of that law firm."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A law firm shall establish and improve systems for practice management, conflict-of-interest review, fee charging and financial management, complaint investigation and handling, annual assessment and archives management, and shall supervise lawyers' compliance with professional ethics and practice discipline in their practice activities."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "After the annual assessment each year, a law firm shall submit to the judicial administration department of the people's government of a city with districts or of a district of a municipality directly under the Central Government a report on the annual practice of the firm and the results of the lawyers' practice assessment."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a lawyer undertakes business, the law firm shall uniformly accept the engagement and sign a written engagement contract with the client, uniformly collect fees in accordance with the provisions of the State and truthfully enter them in the accounts.\nLaw firms and lawyers shall pay taxes in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Law firms and lawyers shall not canvass business by improper means such as defaming other law firms or lawyers or paying referral fees."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A law firm shall not engage in business activities other than legal services."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Law Firms"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A lawyer may engage in the following business:\n(1) accepting the engagement of natural persons, legal persons or other organisations to serve as legal counsel;\n(2) accepting the engagement of parties to civil cases or administrative cases to serve as agents and participate in litigation;\n(3) accepting the engagement of criminal suspects or defendants in criminal cases, or accepting in accordance with the law the assignment of legal aid institutions, to serve as defenders, and accepting the engagement of private prosecutors in cases of private prosecution or of victims in cases of public prosecution or of their close relatives to serve as agents and participate in litigation;\n(4) accepting engagement to act as agents in appeals of various types of litigation cases;\n(5) accepting engagement to participate in mediation and arbitration activities;\n(6) accepting engagement to provide non-litigation legal services;\n(7) answering inquiries on the law and drafting litigation documents and other documents concerning legal affairs on behalf of clients."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a lawyer serves as legal counsel, he or she shall, as agreed, provide opinions to the client on the relevant legal issues, draft and examine legal documents, act as agent in litigation, mediation or arbitration activities, handle other legal affairs entrusted to him or her, and safeguard the lawful rights and interests of the client."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a lawyer serves as an agent for legal affairs in litigation or as an agent for non-litigation legal affairs, he or she shall, within the scope of the authorisation entrusted, safeguard the lawful rights and interests of the client."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a lawyer serves as a defender, he or she shall, on the basis of facts and law, present materials and opinions to the effect that the criminal suspect or defendant is innocent, is guilty of a lesser crime, or should have his or her criminal liability reduced or exempted, and shall safeguard the litigation rights and other lawful rights and interests of the criminal suspect or defendant.\nThe State promotes the full coverage of lawyers' defence in criminal cases; the specific measures shall be prescribed by the judicial administration department of the State Council together with the relevant entities."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A client may refuse to have the engaged lawyer continue to defend or represent him or her, and may at the same time engage another lawyer to serve as defender or agent.\nAfter accepting an engagement, a lawyer shall not refuse to defend or represent without justified reasons. However, where the matter entrusted is illegal, where the client uses the services provided by the lawyer to engage in illegal activities, or where the client intentionally conceals important facts related to the case, the lawyer has the right to refuse to defend or represent."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a lawyer serves as a defender, he or she has the right, upon presentation of the lawyer's practice certificate, a certificate from the law firm and a power of attorney or an official letter of legal aid, to meet with the criminal suspect or defendant in custody or under residential surveillance in accordance with the provisions of the Criminal Procedure Law. Defence lawyers shall not be subjected to surveillance when meeting with criminal suspects or defendants."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a lawyer serves as a defender, he or she has the right, from the date on which the people's procuratorate reviews the case for prosecution, to consult, extract and copy the case file materials of the case."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "An engaged lawyer may, in accordance with the needs of the case, apply to the people's procuratorate or the people's court to collect or obtain evidence, or apply to the people's court to notify witnesses to appear in court and testify.\nWhere a lawyer conducts investigation and evidence collection on his or her own, he or she may, upon presentation of the lawyer's practice certificate and a certificate from the law firm, investigate with the relevant entities or individuals the circumstances related to the legal affairs undertaken."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a lawyer serves as an agent ad litem or defender, his or her right to debate or defend shall be guaranteed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A lawyer's personal rights in practice activities shall not be violated.\nThe representation and defence opinions expressed by a lawyer in court shall not be subject to legal liability. However, this does not apply to statements that endanger national security, maliciously defame others or seriously disrupt order in court.\nWhere a lawyer is suspected of committing a crime in the course of participating in litigation activities, the investigating organ shall promptly notify the law firm in which he or she practises or the bar association to which he or she belongs; where he or she is detained or arrested in accordance with the law, the investigating organ shall notify the lawyer's family members in accordance with the provisions of the Criminal Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "A lawyer shall keep confidential the State secrets and business secrets learned in the course of practice and shall not disclose the privacy of clients.\nA lawyer shall keep confidential the relevant circumstances and information learned in the course of practice that the client and others do not wish to be disclosed. However, this does not apply to facts and information concerning a crime that the client or others are preparing to commit or are committing and that endangers national security, public security or the personal safety of others in a serious manner."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A lawyer shall not serve as agent for both parties in the same case, and shall not represent legal affairs in which he or she or his or her close relatives have a conflict of interest."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A lawyer shall not commit any of the following acts in practice activities:\n(1) privately accepting an engagement or collecting fees, or accepting property or other benefits from a client;\n(2) taking advantage of the convenience of providing legal services to seek the rights and interests in dispute between the parties;\n(3) accepting property or other benefits from the opposing party, or colluding in bad faith with the opposing party or a third party to infringe upon the rights and interests of the client;\n(4) meeting with judges, procurators, arbitrators and other relevant staff in violation of the provisions;\n(5) bribing judges, procurators, arbitrators and other relevant staff, introducing bribes or instigating or inducing clients to offer bribes, or influencing judges, procurators, arbitrators and other relevant staff in other improper ways in their handling of cases in accordance with the law;\n(6) intentionally providing false evidence or threatening or inducing others to provide false evidence, or obstructing the opposing party from lawfully obtaining evidence;\n(7) inciting or instigating clients to resolve disputes by illegal means such as disrupting public order or endangering public security;\n(8) disrupting order in court or in the arbitral tribunal, or interfering with the normal conduct of litigation or arbitration activities."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A lawyer who has previously served as a judge or procurator shall not serve as an agent ad litem or defender within two years after leaving the people's court or the people's procuratorate.\nWhere staff of people's courts, people's procuratorates, judicial administration departments and other units resign from public office or retire and then engage in the legal profession or work in a law firm, they shall comply with the relevant provisions on the management of departing civil servants."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Lawyers and law firms shall perform their legal aid obligations in accordance with the provisions of the State, provide legal services that meet the standards to recipients of legal aid, and safeguard the lawful rights and interests of the recipients."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Law firms and lawyers are encouraged and supported in participating in public-interest legal services and in providing legal aid in accordance with the law; judicial administration departments and bar associations shall strengthen overall planning, organisation and guidance."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice, Rights and Obligations of Lawyers"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "A bar association is a social organisation with the status of a legal person and is a self-disciplinary organisation of lawyers.\nThe All-China Lawyers Association shall be established nationwide, local bar associations shall be established in provinces, autonomous regions and municipalities directly under the Central Government, and local bar associations may be established in cities with districts as needed."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Bar Associations"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The articles of association of the national bar association shall be formulated by the national congress of members and reported to the judicial administration department of the State Council for the record.\nThe articles of association of a local bar association shall be formulated by the local congress of members and reported to the judicial administration department at the same level for the record. The articles of association of a local bar association shall not conflict with the articles of association of the national bar association."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Bar Associations"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Lawyers and law firms shall join the local bar association of the place where they are located. Lawyers and law firms that have joined a local bar association shall at the same time be members of the national bar association.\nMembers of a bar association shall enjoy the rights and perform the obligations prescribed in the articles of association of the bar association."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Bar Associations"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A bar association shall perform the following duties:\n(1) guaranteeing that lawyers practise in accordance with the law and safeguarding the lawful rights and interests of lawyers;\n(2) summarising and exchanging lawyers' work experience;\n(3) formulating professional norms and disciplinary rules;\n(4) organising professional training for lawyers and education on professional ethics and practice discipline, and assessing lawyers' practice activities;\n(5) organising and managing the internship activities of persons applying to practise as lawyers and assessing the interns;\n(6) giving awards and imposing disciplinary sanctions on lawyers and law firms;\n(7) accepting complaints or reports against lawyers, mediating disputes arising in lawyers' practice activities, and accepting lawyers' appeals;\n(8) other duties prescribed by laws, administrative regulations, rules and the articles of association of the bar association.\nThe professional norms and disciplinary rules formulated by a bar association shall not conflict with the relevant laws, administrative regulations and rules."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Bar Associations"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a lawyer commits any of the following acts, the judicial administration department of the people's government of a city with districts or of a district of a municipality directly under the Central Government shall give a warning and may impose a fine of not more than 5,000 yuan; where illegal gains exist, the illegal gains shall be confiscated; where the circumstances are serious, a penalty of suspension of practice for not more than three months shall be imposed:\n(1) practising in two or more law firms at the same time;\n(2) canvassing business by improper means;\n(3) serving as agent for both parties in the same case, or representing legal affairs in which the lawyer or his or her close relatives have a conflict of interest;\n(4) serving as an agent ad litem or defender within two years after leaving a people's court or a people's procuratorate;\n(5) refusing to perform legal aid obligations."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a lawyer commits any of the following acts, the judicial administration department of the people's government of a city with districts or of a district of a municipality directly under the Central Government shall give a warning and may impose a fine of not more than 10,000 yuan; where illegal gains exist, the illegal gains shall be confiscated; where the circumstances are serious, a penalty of suspension of practice for not less than three months but not more than six months shall be imposed:\n(1) privately accepting an engagement or collecting fees, or accepting property or other benefits from a client;\n(2) after accepting an engagement, refusing to defend or represent without justified reasons, or failing to appear in court on time to participate in litigation or arbitration;\n(3) taking advantage of the convenience of providing legal services to seek the rights and interests in dispute between the parties;\n(4) disclosing business secrets or personal privacy."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a lawyer commits any of the following acts, the judicial administration department of the people's government of a city with districts or of a district of a municipality directly under the Central Government shall impose a penalty of suspension of practice for not less than six months but not more than one year, and may impose a fine of not more than 50,000 yuan; where illegal gains exist, the illegal gains shall be confiscated; where the circumstances are serious, the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall revoke his or her lawyer's practice certificate; where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(1) meeting with judges, procurators, arbitrators and other relevant staff in violation of the provisions, or influencing the handling of cases in accordance with the law in other improper ways;\n(2) bribing judges, procurators, arbitrators and other relevant staff, introducing bribes or instigating or inducing clients to offer bribes;\n(3) providing false materials to judicial administration departments or engaging in other fraudulent acts;\n(4) intentionally providing false evidence or threatening or inducing others to provide false evidence, or obstructing the opposing party from lawfully obtaining evidence;\n(5) accepting property or other benefits from the opposing party, or colluding in bad faith with the opposing party or a third party to infringe upon the rights and interests of the client;\n(6) disrupting order in court or in the arbitral tribunal, or interfering with the normal conduct of litigation or arbitration activities;\n(7) inciting or instigating clients to resolve disputes by illegal means such as disrupting public order or endangering public security;\n(8) making statements that endanger national security, maliciously defame others or seriously disrupt order in court;\n(9) disclosing State secrets.\nWhere a lawyer is subjected to criminal punishment for an intentional crime, the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall revoke his or her lawyer's practice certificate."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a law firm commits any of the following acts, the judicial administration department of the people's government of a city with districts or of a district of a municipality directly under the Central Government shall, in light of the circumstances, give a warning or impose a penalty of suspension of business for rectification for not less than one month but not more than six months, and may impose a fine of not more than 100,000 yuan; where illegal gains exist, the illegal gains shall be confiscated; where the circumstances are especially serious, the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall revoke the law firm's practice certificate:\n(1) accepting engagements or collecting fees in violation of the provisions;\n(2) handling major matters such as changes in name, person in charge, articles of association, partnership agreement, domicile or partners in violation of statutory procedures;\n(3) engaging in business activities other than legal services;\n(4) canvassing business by improper means such as defaming other law firms or lawyers or paying referral fees;\n(5) accepting cases with conflicts of interest in violation of the provisions;\n(6) refusing to perform legal aid obligations;\n(7) providing false materials to judicial administration departments or engaging in other fraudulent acts;\n(8) being lax in the management of the lawyers of the firm, causing serious consequences.\nWhere a law firm is punished for the illegal acts specified in the preceding paragraph, its person in charge shall, in light of the seriousness of the circumstances, be given a warning or a fine of not more than 20,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, after being given a warning penalty for violating the provisions of this Law, a lawyer again falls within circumstances under which a warning penalty should be given within one year, the judicial administration department of the people's government of a city with districts or of a district of a municipality directly under the Central Government shall impose a penalty of suspension of practice for not less than three months but not more than one year; where, within two years after the expiry of the penalty of suspension of practice, the lawyer again falls within circumstances under which a penalty of suspension of practice should be imposed, the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall revoke his or her lawyer's practice certificate.\nWhere, within two years after the expiry of a penalty of suspension of business for rectification for violating the provisions of this Law, a law firm again falls within circumstances under which a penalty of suspension of business for rectification should be imposed, the judicial administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall revoke the law firm's practice certificate."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The judicial administration department of a county-level people's government shall exercise day-to-day supervision and administration over the practice activities of lawyers and law firms, order correction of problems found in inspection, and promptly investigate complaints from clients. Where the judicial administration department of a county-level people's government considers that the illegal acts of a lawyer or law firm should be subject to administrative penalties, it shall put forward penalty suggestions to the judicial administration department at the higher level."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "A lawyer who has been subjected to a penalty of suspension of practice for six months or more shall not serve as a partner if three years have not elapsed since the expiry of the penalty.\nA person whose lawyer's practice certificate has been revoked shall not serve as a defender or agent ad litem, except where he or she is the guardian or a close relative of a party to criminal, civil or administrative proceedings."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a lawyer practises illegally or causes losses to a client through fault, the law firm in which he or she practises shall bear liability for compensation. After compensating, the law firm may seek recovery from the lawyer who acted intentionally or with gross negligence."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a person who has not obtained a lawyer's practice certificate engages in legal service business in the name of a lawyer, the judicial administration department of the local people's government at or above the county level shall order cessation of the illegal practice, confiscate the illegal gains and impose a fine of not less than one time but not more than five times the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where staff of judicial administration departments, in violation of the provisions of this Law, abuse their power or neglect their duty and a crime is constituted, criminal liability shall be investigated in accordance with the law; where a crime is not constituted, sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Military lawyers providing legal services to the armed forces shall be governed by the provisions of this Law in respect of the acquisition of their lawyer qualification and their rights, obligations and code of conduct. The specific measures for the management of military lawyers shall be prescribed by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The measures for the administration of the establishment of offices by foreign law firms within the territory of the People's Republic of China to engage in legal service activities shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Legal practitioners of the Hong Kong Special Administrative Region and practising lawyers of the Macao Special Administrative Region who have obtained the qualification to practise in the mainland through the lawyer practice examination for the Guangdong-Hong Kong-Macao Greater Bay Area organised by the judicial administration department of the State Council may engage in legal business within the prescribed scope in the cities of Guangzhou, Shenzhen, Zhuhai, Foshan, Huizhou, Dongguan, Zhongshan, Jiangmen and Zhaoqing of Guangdong Province.\nThe conditions for registration for the examination specified in the preceding paragraph, the procedures for applying for practice, the scope of practice and other matters shall be prescribed by the judicial administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The measures for lawyers' fees shall be formulated by the pricing department of the State Council together with the judicial administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "This Law shall come into force as of 1 June 2008.\nThe Decision of the Standing Committee of the National People's Congress on Amending the Law of the People's Republic of China on Lawyers (adopted at the 24th Session of the Standing Committee of the 14th National People's Congress on 28 August 2026) shall come into force as of 1 September 2026."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
