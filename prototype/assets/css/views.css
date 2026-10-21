@@ -269,6 +269,10 @@ mark.law-find-hit {
   gap: 16px;
   align-items: stretch;
   margin: 18px 0 28px;
+  /* 高度统一由容器决定：子项只撑满，不各自设 min/max，
+     否则矮视口下 min-height(520) 与 max-height(100vh-210) 会冲突，导致左右不等高 */
+  height: calc(100vh - 200px);
+  min-height: 520px;
 }
 @media (max-width: 900px) {
   .ai-layout { grid-template-columns: 1fr; }
@@ -279,7 +283,6 @@ mark.law-find-hit {
   display: flex;
   flex-direction: column;
   min-height: 0;
-  max-height: calc(100vh - 210px);
   background: #FFFFFF;
   border: 1px solid var(--border);
   border-radius: 12px;
@@ -318,17 +321,20 @@ mark.law-find-hit {
 .ai-conv:hover .ai-conv__del { opacity: 1; }
 .ai-conv__del:hover { background: #fee2e2; color: #b91c1c; }
 
+/* 防回归：气泡内不应再出现气泡 */
+.chat-row .bubble .bubble { background: transparent; border: 0; padding: 0; }
+
 /* ---------- 右：对话区 ---------- */
 .ai-main {
   display: flex;
   flex-direction: column;
+  min-height: 0;
   background: #FFFFFF;
   border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
-  /* 高度受视口约束：保证输入栏落在首屏内可见，又不会无限拉长 */
-  min-height: 520px;
-  max-height: calc(100vh - 210px);
+  /* 高度由 .ai-layout 统一决定，这里只撑满 */
+  height: 100%;
   box-shadow: 0 1px 3px rgba(16,24,40,.06), 0 8px 24px rgba(16,24,40,.05);
 }
 .ai-main__head {
@@ -609,8 +615,9 @@ mark.law-find-hit {
    历史对话增强：置顶 / ⋯菜单 / 重命名 / 多选
    ========================================================================== */
 /* 左右两栏强制等高 */
+/* 左右等高：高度已由 .ai-layout 统一决定，此处只声明撑满（不要再设 max-height） */
 .ai-layout { align-items: stretch; }
-.ai-history { height: 100%; max-height: calc(100vh - 210px); align-self: stretch; }
+.ai-history { height: 100%; align-self: stretch; }
 
 /* 多选工具条 */
 .ai-selbar {

@@ -567,9 +567,11 @@
           });
           renderChat();
           var done = function (res) {
+            /* answerHtml() 内部已经用 rowHtml('ai', …) 包过一层，
+               这里不能再包，否则会出现「气泡里套气泡」。 */
             var full = answerHtml(res);
             var plain = plainAnswer(res, null);
-            history[slot] = { html: rowHtml('ai', full), role: 'ai', text: plain };
+            history[slot] = { html: full, role: 'ai', text: plain };
             renderChat();
           };
           var askP = (CALR.qa.askAsync ? CALR.qa.askAsync(question) : Promise.resolve(CALR.qa.ask(question)));
