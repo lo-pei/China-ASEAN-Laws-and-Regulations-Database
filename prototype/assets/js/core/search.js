@@ -434,6 +434,29 @@
       }
       if (!tHit && !gHit && !bHit) return null;
       score = CALR_SEARCH_LEGACY ? (3 * tHit + 2 * gHit + 1 * bHit) : (3 * tHit + 2 * gHit + 1 * bHit);
+      /* 与语义模式一致的排序加权（检索页默认就是关键词模式，必须同步）：
+         ① 标题（剥掉「中华人民共和国」前缀后）与检索词完全一致 → 加分
+         ② 面向中国用户：同名法规中中国法优先
+         ③ 有正文条文的优先于「仅目录」条目 */
+      var kwQ = String(q || '').replace(/\s+/g, '').toLowerCase();
+      function kwNorm(s) {
+        return String(s || '').replace(/\s+/g, '').toLowerCase().replace(/^(中华人民共和国|中国)/, '');
+      }
+      var kwCore = kwNorm(kwQ);
+      var kwExact = false;
+      if (kwCore.length >= 2) {
+        if (law.title && typeof law.title === 'object') {
+          Object.keys(law.title).forEach(function (k) { if (kwNorm(law.title[k]) === kwCore) kwExact = true; });
+        }
+        if (!kwExact && kwNorm(law.shortTitle) === kwCore) kwExact = true;
+      }
+      if (kwExact) {
+        score += 45;
+        reasons.push('标题与检索词完全一致');
+        if (law.country === PRIORITY_COUNTRY) { score += 25; reasons.push('中国法律优先'); }
+      }
+      var kwArt = (law.articles || []).length;
+      if (kwArt > 0) score += 12 + Math.min(8, Math.log(kwArt + 1) / Math.LN10 * 4);
       if (tHit) reasons.push('标题命中 ' + (CALR_SEARCH_LEGACY ? tHit + ' 个检索词' : tHit.toFixed(2) + ' 分'));
       if (gHit) reasons.push('分类/文号命中 ' + (CALR_SEARCH_LEGACY ? gHit + ' 个' : gHit.toFixed(2) + ' 分'));
       if (bHit) reasons.push('正文命中 ' + (CALR_SEARCH_LEGACY ? bHit + ' 个' : bHit.toFixed(2) + ' 分'));
@@ -494,6 +517,49 @@
     if (!semTitle && !semTag && !semBody && concept === 0) return null;
     /* 标题命中权重最高（法规名直接对应问题），正文覆盖率次之 */
     score = 3 * semTitle + 2 * semTag + semBody + 0.5 * Math.min(concept, 12);
+
+    /* 标题精确匹配加权：
+       查询「民法典」时，标题就叫「民法典」的法规应当排第一，
+       但长法（如《中华人民共和国民法典》1260 条）在正文长度归一化里吃亏，
+       实测会被《民法典》司法解释和东盟各国同名法典压到 20 名之外。
+       因此对「标题（任一语言）与查询完全一致」的法规给一次明显加分。 */
+    var qNorm = String(q || '').replace(/\s+/g, '').toLowerCase();
+    /* 中文法规标题常带国名前缀（「中华人民共和国民法典」），而东盟各国整理稿的中文标题
+       直接就是「民法典」。比较前统一剥掉前缀，否则中国法规在「精确标题」上永远吃亏。 */
+    function normTitle(s) {
+      return String(s || '').replace(/\s+/g, '').toLowerCase()
+        .replace(/^(中华人民共和国|中国)/, '');
+    }
+    var qCore = normTitle(qNorm);
+    if (qCore.length >= 2) {
+      var exactTitle = false;
+      if (law.title && typeof law.title === 'object') {
+        Object.keys(law.title).forEach(function (k) {
+          if (normTitle(law.title[k]) === qCore) exactTitle = true;
+        });
+      }
+      if (!exactTitle && normTitle(law.shortTitle) === qCore) exactTitle = true;
+      if (exactTitle) {
+        score += 45;
+        reasons.push('标题与检索词完全一致');
+        /* 面向中国用户的「中国—东盟」库：同名法规中**中国法优先**。
+           这与 search.js 顶部声明的 PRIORITY_COUNTRY = 'CN' 保持一致，
+           否则《中华人民共和国民法典》会被泰国/柬埔寨的同名法典压在后面。 */
+        if (law.country === PRIORITY_COUNTRY) {
+          score += 25;
+          reasons.push('中国法律优先');
+        }
+      }
+    }
+
+    /* 有正文条文的法规优先于「仅目录」的条目：
+       用户检索是为了看条文，同名但只有目录的条目排在前面没有意义。
+       只加分不改相关性排序，且对长度做对数压缩，避免长法典碾压短法。 */
+    var nArt = (law.articles || []).length;
+    if (nArt > 0) {
+      score += 12 + Math.min(8, Math.log(nArt + 1) / Math.LN10 * 4);
+    }
+
     if (concept) reasons.push('语义概念覆盖 ' + concept + ' 项');
     if (bestRatio) reasons.push('条文覆盖 ' + Math.round(bestRatio * 100) + '%');
     if (expansions.length) reasons.push('跨语言扩展 ' + Math.min(expansions.length, 8) + ' 个同义表达');

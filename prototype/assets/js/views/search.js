@@ -380,8 +380,13 @@
   function filterPanel(type, query) {
     var out = '';
 
-    /* 按国家 / 法域 */
-    out += group(t('按国家 / 法域'), 'country', S().countries().map(function (c) {
+    /* 按国家 / 法域 —— 中国置顶（本项目是「中国—东盟」库，中国法域应第一时间可见；
+       其余法域保持数据文件里的原有顺序） */
+    var ctryList = S().countries().slice().sort(function (a, b) {
+      var pa = a.code === 'CN' ? 0 : 1, pb = b.code === 'CN' ? 0 : 1;
+      return pa - pb;
+    });
+    out += group(t('按国家 / 法域'), 'country', ctryList.map(function (c) {
       return { v: c.code, label: tr(c.name), count: S().lawsOf(c.code).length };
     }), query);
 

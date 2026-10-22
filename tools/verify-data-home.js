@@ -145,9 +145,26 @@ const numberingExceptions = [];
       n += arts.length;
       /* 已声明的例外：原文条号在文内重复（多文件合集），译文按全局序号编排，
          无法在不改原文的前提下对齐。这类译文不参与合并，且不计入错误。
-         注意：条数仍要计入 n，否则 A5 的「manifest 记 N 条 / 实际 M 条」会对不上。 */
-      if (T[lid].numberingConflict) {
-        numberingExceptions.push(lid + '（' + String(T[lid].numberingConflict).slice(0, 36) + '…）');
+         注意：条数仍要计入 n，否则 A5 的「manifest 记 N 条 / 实际 M 条」会对不上。
+         ★ 同时做自动判定：译文分卷会被译文入库脚本重新生成，手工打的 numberingConflict
+           标记会丢；因此只要满足「原文条号本身有重复」且「译文最大条号超出原文最大条号」，
+           就自动归为同一类例外（原因写明是自动判定）。 */
+      let isConflict = !!T[lid].numberingConflict;
+      let conflictWhy = isConflict ? String(T[lid].numberingConflict) : '';
+      if (!isConflict && lawJSON.has(lid)) {
+        const lawObj = lawJSON.get(lid);
+        const origNos = (lawObj.articles || []).map(a => Number(a.no)).filter(x => !isNaN(x));
+        const dupNos = origNos.length !== new Set(origNos).size;
+        const maxOrig = origNos.length ? Math.max.apply(null, origNos) : 0;
+        const maxTrans = arts.reduce((m, a) => Math.max(m, Number(a.no) || 0), 0);
+        if (dupNos && maxTrans > maxOrig) {
+          isConflict = true;
+          conflictWhy = '自动判定：原文条号在文内重复（多文件合集），译文按全局序号编到 ' +
+            maxTrans + '，超过原文最大条号 ' + maxOrig + '，无法一一对齐';
+        }
+      }
+      if (isConflict) {
+        numberingExceptions.push(lid + '（' + conflictWhy.slice(0, 36) + '…）');
         continue;
       }
       if (!lawJSON.has(lid)) { orphanLaw++; if (orphanLaw <= 5) E('A6 译文指向 laws/ 中不存在的法规: ' + lid); }

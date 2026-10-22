@@ -151,8 +151,26 @@
     var ft = entry(lawId);
     if (!tr || !ft) return 0;
     /* 原文条号在文内重复（多文件合集）且译文无法对齐的法规：
-       译文条号是全局序号，直接按 no 贴会贴错条，故整部跳过合并并留痕。 */
-    if (tr.numberingConflict) {
+       译文条号是全局序号，直接按 no 贴会贴错条，故整部跳过合并并留痕。
+       判定同时支持两种来源：① 译文自带 numberingConflict 标记
+       ② 自动判定（原文条号有重复 且 译文最大条号超过原文最大条号）
+       —— 译文分卷会被重新生成，手工标记会丢，必须有自动兜底。 */
+    var conflict = !!tr.numberingConflict;
+    if (!conflict) {
+      var origNos = [], dup = false, seenNo = {};
+      (ft.articles || []).forEach(function (a) {
+        var n = Number(a.no);
+        if (isNaN(n)) return;
+        if (seenNo[n]) dup = true;
+        seenNo[n] = 1;
+        origNos.push(n);
+      });
+      var maxOrig = origNos.length ? Math.max.apply(null, origNos) : 0;
+      var maxTrans = 0;
+      (tr.articles || []).forEach(function (a) { maxTrans = Math.max(maxTrans, Number(a.no) || 0); });
+      if (dup && maxTrans > maxOrig) conflict = true;
+    }
+    if (conflict) {
       transMergedMap[lawId + '|' + lang] = true;
       return 0;
     }
