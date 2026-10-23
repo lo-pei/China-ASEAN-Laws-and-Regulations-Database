@@ -34,6 +34,7 @@ for p in (_BACKEND, _ROOT):
 
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
@@ -48,6 +49,13 @@ app = FastAPI(
     description="法规检索与数据服务（Phase A：数据可达性 + API 骨架）",
     version=APP_VERSION,
 )
+
+# ── gzip 压缩 ────────────────────────────────────────────────────────────
+# 静态数据文件很大（intl-catalog.js 原始 15.9 MB），但压缩率极高：
+# 实测 21.1 MB 静态资源 gzip 后仅 3.40 MB（压掉 84%），
+# 其中 intl-catalog.js 15.9 MB → 1.73 MB。
+# 这一项把首屏从 5.6 秒压到 1 秒级，而且前端代码一行不用改。
+app.add_middleware(GZipMiddleware, minimum_size=1024, compresslevel=6)
 
 app.add_middleware(
     CORSMiddleware,
