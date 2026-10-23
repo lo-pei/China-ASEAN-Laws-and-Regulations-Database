@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p05
-   法规 72 部 / 译文 4248 条
+   法规 75 部 / 译文 4877 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -19349,6 +19349,1776 @@
     ]
   };
 
+  TR['CN-LAW-0317'] = {
+    "lawId": "CN-LAW-0317",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 150 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to strengthen the administration of drugs, ensure drug quality, safeguard the safety of drug use by the public and the lawful rights and interests of the public, and protect and promote public health."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Within the territory of the People's Republic of China, activities of drug research and development, production, distribution, use and supervision and administration shall be governed by this Law.\nDrugs as referred to in this Law means substances used for the prevention, treatment and diagnosis of human diseases, which purposefully regulate human physiological functions and for which indications or functions and principal therapeutic effects, methods of use and dosage are prescribed, including traditional Chinese medicines, chemical drugs and biological products, etc."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The administration of drugs shall take people's health as the centre, adhere to the principles of risk management, whole-process control and social co-governance, establish a scientific and strict supervision and administration system, comprehensively improve drug quality, and ensure the safety, efficacy and accessibility of drugs."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State develops modern medicines and traditional medicines and gives full play to their role in prevention, medical treatment and health care.\nThe State protects wild medicinal material resources and varieties of traditional Chinese medicines, and encourages the cultivation of genuine regional medicinal materials for traditional Chinese medicine."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State encourages research on and the creation of new drugs and protects the lawful rights and interests of citizens, legal persons and other organisations in researching and developing new drugs."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State applies a marketing authorisation holder system to drug administration. The marketing authorisation holder shall, in accordance with the law, be responsible for the safety, efficacy and quality controllability of drugs throughout the whole process of drug research and development, production, distribution and use."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Those engaged in drug research and development, production, distribution and use activities shall comply with laws, regulations, rules, standards and norms, and ensure that information throughout the whole process is true, accurate, complete and traceable."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The drug regulatory department of the State Council shall be in charge of national drug supervision and administration. The relevant departments of the State Council shall, within the scope of their respective duties, be responsible for the supervision and administration relating to drugs. The drug regulatory department of the State Council shall cooperate with the relevant departments of the State Council in implementing the national development plan for the pharmaceutical industry and industrial policies.\nThe drug regulatory departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall be responsible for drug supervision and administration within their respective administrative regions. The departments of the people's governments of cities divided into districts and of counties that assume the duties of drug supervision and administration (hereinafter referred to as drug regulatory departments) shall be responsible for drug supervision and administration within their respective administrative regions. The relevant departments of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the supervision and administration relating to drugs."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Local people's governments at or above the county level shall be responsible for drug supervision and administration within their respective administrative regions, exercise unified leadership, organisation and coordination over drug supervision and administration and the response to drug safety emergencies within their respective administrative regions, and establish and improve drug supervision and administration working mechanisms and information sharing mechanisms."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate drug safety work into the national economic and social development plan at the corresponding level, include the funds for drug safety work in the budget of the government at the corresponding level, strengthen capacity building for drug supervision and administration, and provide guarantees for drug safety work."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Drug professional and technical institutions established or designated by drug regulatory departments shall undertake the review and evaluation, testing, verification, monitoring and evaluation and other work required for the implementation of drug supervision and administration in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State establishes and improves a drug traceability system. The drug regulatory department of the State Council shall formulate unified drug traceability standards and norms, promote the interconnection and sharing of drug traceability information, and achieve drug traceability.\nThe State establishes a pharmacovigilance system to monitor, identify, assess and control adverse drug reactions and other harmful reactions relating to drug use."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments, pharmaceutical industry associations, etc. shall strengthen publicity and education on drug safety and carry out the popularisation of knowledge such as drug safety laws and regulations.\nThe news media shall carry out public-interest publicity on knowledge such as drug safety laws and regulations and conduct public opinion supervision over drug-related violations of law. Publicity reports relating to drugs shall be comprehensive, scientific, objective and fair."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Pharmaceutical industry associations shall strengthen industry self-regulation, establish and improve industry norms, promote the development of the industry integrity system, and guide and urge members to lawfully carry out drug production, distribution and other activities."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall, in accordance with the relevant provisions of the State, commend and reward units and individuals that have made outstanding contributions to drug research and development, production, distribution, use and supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State supports clinical-value-oriented drug innovation that has clear or special therapeutic effects on human diseases, encourages the research and development of new drugs with new therapeutic mechanisms, for the treatment of seriously life-threatening diseases or rare diseases, or with multi-target systematic regulatory and intervention functions on the human body, and promotes the progress of pharmaceutical technology.\nThe State encourages the use of modern science and technology and traditional Chinese medicine research methods to carry out scientific and technological research on traditional Chinese medicine and drug development, establishes and improves a technical evaluation system suited to the characteristics of traditional Chinese medicine, and promotes the inheritance and innovation of traditional Chinese medicine.\nThe State adopts effective measures to encourage the research, development and innovation of paediatric drugs, supports the development of new varieties, dosage forms and specifications of paediatric drugs suited to the physiological characteristics of children, and gives priority to the review and approval of paediatric drugs."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Those engaged in drug research and development activities shall comply with the Good Laboratory Practice for Non-clinical Studies and the Good Clinical Practice, and ensure that the whole process of drug research and development continuously meets the statutory requirements.\nThe Good Laboratory Practice for Non-clinical Studies and the Good Clinical Practice shall be formulated by the drug regulatory department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "To carry out non-clinical drug studies, the relevant provisions of the State shall be complied with, and there shall be personnel, premises, equipment, instruments and management systems commensurate with the research project, so as to ensure the authenticity of the relevant data, materials and samples."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "To carry out drug clinical trials, the research methods, quality indicators, pharmacological and toxicological test results and other relevant data, materials and samples shall be truthfully submitted in accordance with the provisions of the drug regulatory department of the State Council, and approval by the drug regulatory department of the State Council shall be obtained. The drug regulatory department of the State Council shall, within 60 working days from the date of accepting the clinical trial application, decide whether to consent and notify the clinical trial sponsor; where no notification is given within that period, consent shall be deemed given. Where a bioequivalence study is carried out, it shall be filed with the drug regulatory department of the State Council.\nDrug clinical trials shall be carried out in clinical trial institutions with the corresponding conditions. A filing administration shall be applied to drug clinical trial institutions, and the specific measures shall be formulated jointly by the drug regulatory department of the State Council and the health commission of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "To carry out drug clinical trials, ethical principles shall be complied with, a clinical trial protocol shall be formulated, and approval by the ethics committee shall be obtained.\nEthics committees shall establish ethical review working systems, ensure that the ethical review process is independent, objective and fair, supervise the standardised conduct of drug clinical trials, safeguard the lawful rights and interests of trial subjects, and protect social and public interests."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "To implement drug clinical trials, the purpose of the clinical trial, the risks and other detailed circumstances shall be truthfully explained and interpreted to the trial subjects or their guardians, the informed consent forms voluntarily signed by the trial subjects or their guardians shall be obtained, and effective measures shall be taken to protect the lawful rights and interests of trial subjects."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "During drug clinical trials, where safety problems or other risks are found, the clinical trial sponsor shall promptly adjust the clinical trial protocol, suspend or terminate the clinical trial, and report to the drug regulatory department of the State Council. Where necessary, the drug regulatory department of the State Council may order the adjustment of the clinical trial protocol or the suspension or termination of the clinical trial."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "For drugs under clinical trials that are used to treat diseases seriously life-threatening for which no effective treatment is yet available, where medical observation indicates possible benefit and ethical principles are complied with, they may, after review and informed consent, be used for other patients with the same disease conditions within the institution conducting the clinical trial."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Drugs marketed within the territory of China shall be approved by the drug regulatory department of the State Council and a drug registration certificate shall be obtained; however, Chinese medicinal materials and decoction pieces of traditional Chinese medicine for which examination and approval administration has not been implemented shall be excepted. The catalogue of varieties of Chinese medicinal materials and decoction pieces of traditional Chinese medicine subject to examination and approval administration shall be formulated by the drug regulatory department of the State Council together with the traditional Chinese medicine department of the State Council.\nTo apply for drug registration, true, sufficient and reliable data, materials and samples shall be provided to prove the safety, efficacy and quality controllability of the drug."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "For drugs applying for registration, the drug regulatory department of the State Council shall organise pharmaceutical, medical and other technical personnel to conduct review and evaluation, and examine the safety, efficacy and quality controllability of the drugs as well as the applicant's capabilities in quality management, risk prevention and control and liability compensation; where the conditions are met, a drug registration certificate shall be issued.\nWhen examining and approving a drug, the drug regulatory department of the State Council shall conduct concurrent review and approval of the chemical active pharmaceutical ingredient, concurrent review of the relevant excipients, packaging materials and containers in direct contact with the drug, and concurrent approval of the quality standards, production processes, labels and instructions of the drug.\nExcipients as referred to in this Law means vehicles and additives used in the production of drugs and in the dispensing of prescriptions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "For drugs used to treat diseases that are seriously life-threatening and for which no effective treatment is yet available, as well as drugs in urgent need in public health, where data from drug clinical trials have shown efficacy and their clinical value can be predicted, conditional approval may be granted, and the relevant matters shall be stated in the drug registration certificate."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The drug regulatory department of the State Council shall improve the drug review and approval working system, strengthen capacity building, establish and improve mechanisms such as communication and expert consultation, optimise the review and approval process, and improve the efficiency of review and approval.\nThe review conclusions and basis for drugs approved for marketing shall be made public in accordance with the law and be subject to public supervision. Trade secrets learned in the course of review and approval shall be kept confidential."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Drugs shall comply with the national drug standards. Where the drug quality standards approved by the drug regulatory department of the State Council are higher than the national drug standards, the approved drug quality standards shall apply; where there are no national drug standards, the approved drug quality standards shall be complied with.\nThe Pharmacopoeia of the People's Republic of China and the drug standards promulgated by the drug regulatory department of the State Council are the national drug standards.\nThe drug regulatory department of the State Council shall, together with the health commission of the State Council, organise a pharmacopoeia commission responsible for the formulation and revision of the national drug standards.\nDrug testing institutions established or designated by the drug regulatory department of the State Council shall be responsible for calibrating national drug reference standards and reference substances."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The names of drugs included in the national drug standards are generic names of drugs. Where a name has already been used as a generic name of a drug, that name may not be used as a drug trademark."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Research and Development and Registration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Marketing authorisation holders as referred to in this Law means enterprises or drug research and development institutions, etc. that have obtained drug registration certificates.\nMarketing authorisation holders shall, in accordance with the provisions of this Law, bear responsibility for the non-clinical studies, clinical trials, production and distribution, post-marketing studies, and monitoring, reporting and handling of adverse reactions of drugs. Other units and individuals engaging in drug research and development, production, distribution, storage, transport, use and other activities shall bear corresponding responsibility in accordance with the law.\nThe legal representative and the principal person in charge of a marketing authorisation holder shall be fully responsible for drug quality."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Marketing authorisation holders shall establish a drug quality assurance system and assign dedicated personnel to be independently responsible for drug quality management.\nMarketing authorisation holders shall conduct regular audits of the quality management systems of entrusted drug manufacturing enterprises and drug distribution enterprises, and supervise their continuous possession of quality assurance and control capabilities."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A marketing authorisation holder may manufacture drugs itself or entrust a drug manufacturing enterprise with the manufacture.\nWhere a marketing authorisation holder manufactures drugs itself, it shall obtain a drug manufacturing licence in accordance with the provisions of this Law; where manufacture is entrusted, it shall entrust a drug manufacturing enterprise meeting the conditions. The marketing authorisation holder and the entrusted manufacturing enterprise shall conclude an entrustment agreement and a quality agreement, and strictly perform the obligations agreed therein.\nThe drug regulatory department of the State Council shall formulate guidelines for quality agreements on entrusted drug manufacture to guide and supervise marketing authorisation holders and entrusted manufacturing enterprises in performing their drug quality assurance obligations.\nBlood products, narcotic drugs, psychotropic drugs, medicinal toxic drugs and pharmaceutical precursor chemicals may not be manufactured under entrustment, unless otherwise provided by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Marketing authorisation holders shall establish drug marketing release procedures, review the drugs released from the factory by drug manufacturing enterprises, and release them only after they are signed by the qualified person. Drugs not complying with the national drug standards may not be released."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A marketing authorisation holder may sell the drugs for which it has obtained a drug registration certificate itself or entrust a drug distribution enterprise with the sale. Where a marketing authorisation holder engages in drug retail activities, it shall obtain a drug distribution licence.\nWhere a marketing authorisation holder sells drugs itself, it shall meet the conditions provided in Article 52 of this Law; where sale is entrusted, it shall entrust a drug distribution enterprise meeting the conditions. The marketing authorisation holder and the entrusted distributor shall conclude an entrustment agreement and strictly perform the obligations agreed therein."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a marketing authorisation holder, drug manufacturing enterprise or drug distribution enterprise entrusts the storage or transport of drugs, it shall assess the quality assurance capability and risk management capability of the entrusted party, conclude an entrustment agreement with it specifying the drug quality responsibilities and operating procedures and other content, and supervise the entrusted party."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions shall establish and implement a drug traceability system, provide traceability information in accordance with provisions, and ensure drug traceability."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Marketing authorisation holders shall establish an annual reporting system and, in accordance with provisions, report to the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government each year on drug production and sales, post-marketing studies, risk management and other circumstances."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a marketing authorisation holder is an overseas enterprise, the enterprise legal person within the territory of China designated by it shall perform the obligations of the marketing authorisation holder and bear joint and several liability with the marketing authorisation holder."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Enterprises manufacturing decoction pieces of traditional Chinese medicine shall perform the relevant obligations of marketing authorisation holders, exercise whole-process management over the production and sale of decoction pieces of traditional Chinese medicine, establish a traceability system for decoction pieces of traditional Chinese medicine, and ensure that decoction pieces of traditional Chinese medicine are safe, efficacious and traceable."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Upon approval by the drug regulatory department of the State Council, a marketing authorisation holder may transfer the drug marketing authorisation. The transferee shall possess the capabilities in quality management, risk prevention and control and liability compensation required to ensure the safety, efficacy and quality controllability of drugs, and shall perform the obligations of the marketing authorisation holder."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Marketing Authorisation Holders"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Those engaged in drug manufacturing activities shall obtain approval from the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government where they are located and obtain a drug manufacturing licence. Without a drug manufacturing licence, drugs may not be manufactured.\nThe drug manufacturing licence shall state the period of validity and the scope of production, and shall be re-examined and reissued upon expiry."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Those engaged in drug manufacturing activities shall meet the following conditions:\n(a) having pharmaceutical technical personnel, engineering technical personnel and corresponding skilled workers whose qualifications have been recognised in accordance with the law;\n(b) having factory buildings, facilities and a hygienic environment suited to drug manufacture;\n(c) having institutions, personnel and necessary instruments and equipment capable of conducting quality management and quality inspection of the drugs manufactured;\n(d) having rules and regulations ensuring drug quality, and complying with the requirements of the Good Manufacturing Practice for Drugs formulated by the drug regulatory department of the State Council in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Those engaged in drug manufacturing activities shall comply with the Good Manufacturing Practice for Drugs, establish and improve a drug manufacturing quality management system, and ensure that the whole process of drug manufacture continuously meets the statutory requirements.\nThe legal representative and the principal person in charge of a drug manufacturing enterprise shall be fully responsible for the drug manufacturing activities of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Drugs shall be manufactured in accordance with the national drug standards and the production processes approved by the drug regulatory department. Production and inspection records shall be complete and accurate and may not be fabricated.\nDecoction pieces of traditional Chinese medicine shall be processed in accordance with the national drug standards; where the national drug standards contain no provisions, they shall be processed in accordance with the processing norms formulated by the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government. The processing norms formulated by the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government shall be filed with the drug regulatory department of the State Council. Those not complying with the national drug standards or not processed in accordance with the processing norms formulated by the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government may not leave the factory or be sold."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The raw materials and excipients required for the manufacture of drugs shall meet the medicinal requirements and the relevant requirements of the Good Manufacturing Practice for Drugs.\nIn manufacturing drugs, suppliers of raw materials, excipients, etc. shall be audited in accordance with provisions, so as to ensure that the raw materials, excipients, etc. purchased and used meet the requirements of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Packaging materials and containers in direct contact with drugs shall meet the medicinal requirements and the standards for safeguarding human health and safety.\nFor non-conforming packaging materials and containers in direct contact with drugs, the drug regulatory department shall order the cessation of their use."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Drug manufacturing enterprises shall conduct quality inspection of drugs. Drugs not complying with the national drug standards may not leave the factory.\nDrug manufacturing enterprises shall establish drug factory release procedures and specify the standards and conditions for factory release. Those meeting the standards and conditions may be released only after being signed by the qualified person."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Drug packaging shall be suited to the requirements of drug quality and convenient for storage, transport and medical use.\nChinese medicinal materials shipped shall be packaged. Each package shall state the name, place of origin, date and supplying unit, and shall be accompanied by a sign of quality conformity."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Drug packaging shall, in accordance with provisions, bear printed or affixed labels and be accompanied by instructions.\nLabels or instructions shall state the generic name, ingredients, specifications, marketing authorisation holder and its address, manufacturing enterprise and its address, approval number, product batch number, date of manufacture, period of validity, indications or functions and principal therapeutic effects, method of use, dosage, contraindications, adverse reactions and matters for attention. The text on labels and instructions shall be clear, and matters such as the date of manufacture and period of validity shall be conspicuously marked and easily identifiable.\nThe labels and instructions of narcotic drugs, psychotropic drugs, medicinal toxic drugs, radioactive drugs, drugs for external use and non-prescription drugs shall bear the prescribed marks."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Personnel of marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions who are in direct contact with drugs shall undergo a health examination every year. Those suffering from infectious diseases or other diseases that may contaminate drugs may not engage in work in direct contact with drugs."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Drug Production"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Those engaged in drug wholesale activities shall obtain approval from the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government where they are located and obtain a drug distribution licence. Those engaged in drug retail activities shall obtain approval from the drug regulatory department of the local people's government at or above the county level where they are located and obtain a drug distribution licence. Without a drug distribution licence, drugs may not be distributed.\nThe drug distribution licence shall state the period of validity and the scope of business, and shall be re-examined and reissued upon expiry.\nIn implementing drug distribution licensing, drug regulatory departments shall, in addition to the conditions provided in Article 52 of this Law, also follow the principle of facilitating the purchase of drugs by the public."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Those engaged in drug distribution activities shall meet the following conditions:\n(a) having pharmacists or other pharmaceutical technical personnel whose qualifications have been recognised in accordance with the law;\n(b) having business premises, equipment, storage facilities and a hygienic environment suited to the drugs distributed;\n(c) having a quality management institution or personnel suited to the drugs distributed;\n(d) having rules and regulations ensuring drug quality, and complying with the requirements of the Good Supply Practice for Drugs formulated by the drug regulatory department of the State Council in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Those engaged in drug distribution activities shall comply with the Good Supply Practice for Drugs, establish and improve a drug distribution quality management system, and ensure that the whole process of drug distribution continuously meets the statutory requirements.\nThe State encourages and guides chain operation of drug retail. The head office of an enterprise engaged in drug retail chain operation shall establish a unified quality management system and perform management responsibility for the business activities of its affiliated retail enterprises.\nThe legal representative and the principal person in charge of a drug distribution enterprise shall be fully responsible for the drug distribution activities of the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State applies a classification management system of prescription drugs and non-prescription drugs to drugs. The specific measures shall be formulated by the drug regulatory department of the State Council together with the health commission of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions shall purchase drugs from marketing authorisation holders or enterprises qualified for drug manufacture or distribution; however, the purchase of Chinese medicinal materials for which examination and approval administration has not been implemented shall be excepted."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Drug distribution enterprises purchasing drugs shall establish and implement a purchasing inspection and acceptance system, and verify the drug conformity certificates and other marks; drugs not complying with the prescribed requirements may not be purchased or sold."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Drug distribution enterprises purchasing and selling drugs shall have true and complete purchase and sale records. The purchase and sale records shall state the generic name, dosage form, specifications, product batch number, period of validity, marketing authorisation holder, manufacturing enterprise, purchasing and selling units, quantities purchased and sold, prices of purchase and sale, dates of purchase and sale and other content prescribed by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Drug distribution enterprises shall retail drugs accurately and correctly explain the method of use, dosage and matters for attention; the dispensing of prescriptions shall be checked, and drugs listed in prescriptions may not be changed or substituted without authorisation. Prescriptions with incompatibility or overdose shall be refused dispensing; where necessary, dispensing may be carried out only after correction or re-signature by the prescribing physician.\nDrug distribution enterprises selling Chinese medicinal materials shall state the place of origin.\nPharmacists or other pharmaceutical technical personnel whose qualifications have been recognised in accordance with the law shall be responsible for the drug management, prescription review and dispensing, and guidance on rational drug use of their enterprises."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Drug distribution enterprises shall formulate and implement drug storage systems, adopt necessary measures for refrigeration, freeze prevention, moisture prevention, insect prevention and rat prevention, and ensure drug quality.\nInspection systems shall be implemented for the warehousing and outbound delivery of drugs."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Chinese medicinal materials may be sold in urban and rural fair trade markets, unless otherwise provided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where marketing authorisation holders or drug distribution enterprises sell drugs online, they shall comply with the relevant provisions of this Law on drug distribution. The specific administrative measures shall be formulated by the drug regulatory department of the State Council together with the health commission of the State Council and other departments.\nVaccines, blood products, narcotic drugs, psychotropic drugs, medicinal toxic drugs, radioactive drugs, pharmaceutical precursor chemicals and other drugs subject to special administration by the State may not be sold online."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Providers of third-party platforms for online drug transactions shall, in accordance with the provisions of the drug regulatory department of the State Council, file with the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government where they are located.\nThird-party platform providers shall, in accordance with the law, review the qualifications of marketing authorisation holders and drug distribution enterprises applying to enter the platform for business, ensure that they meet the statutory requirements, and manage the drug distribution conduct occurring on the platform.\nWhere a third-party platform provider finds that a marketing authorisation holder or drug distribution enterprise entering the platform for business has committed conduct violating this Law, it shall promptly stop it and immediately report to the drug regulatory department of the people's government at the county level where it is located; where it finds serious violations of law, it shall immediately cease providing online transaction platform services."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Newly discovered medicinal materials and medicinal materials introduced from overseas may be sold only after approval by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Drugs shall be imported through ports where drug importation is permitted, and the enterprise importing the drugs shall file with the drug regulatory department at the place where the port is located. The customs shall complete customs clearance formalities upon the drug import clearance certificate issued by the drug regulatory department. Without a drug import clearance certificate, the customs may not release the drugs.\nThe drug regulatory department at the place where the port is located shall notify the drug testing institution to conduct spot testing and inspection of imported drugs in accordance with the provisions of the drug regulatory department of the State Council.\nThe ports where drug importation is permitted shall be proposed by the drug regulatory department of the State Council together with the General Administration of Customs and submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a medical institution needs to import a small quantity of drugs due to urgent clinical needs, it may import them upon approval by the drug regulatory department of the State Council or by the people's government of a province, autonomous region or municipality directly under the Central Government authorised by the State Council. The imported drugs shall be used for specific medical purposes within the designated medical institution.\nIndividuals carrying a small quantity of drugs into the territory for personal use shall handle the matter in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The import and export of narcotic drugs and psychotropic drugs within the scope prescribed by the State shall require an import permit or export permit issued by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The importation of drugs with uncertain therapeutic effects, with major adverse reactions or otherwise harmful to human health for other reasons shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "For the following drugs, the drug regulatory department of the State Council shall designate drug testing institutions to conduct testing before sale or upon importation; those not tested or failing the test may not be sold or imported:\n(a) drugs sold within the territory of China for the first time;\n(b) biological products prescribed by the drug regulatory department of the State Council;\n(c) other drugs prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Drug Business"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Medical institutions shall be staffed with pharmacists or other pharmaceutical technical personnel whose qualifications have been recognised in accordance with the law, responsible for the drug management, prescription review and dispensing, and guidance on rational drug use of their units. Non-pharmaceutical technical personnel may not directly engage in pharmaceutical technical work."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Medical institutions purchasing drugs shall establish and implement a purchasing inspection and acceptance system, and verify the drug conformity certificates and other marks; drugs not complying with the prescribed requirements may not be purchased or used."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Medical institutions shall have premises, equipment, storage facilities and a hygienic environment suited to the drugs used, formulate and implement drug storage systems, and adopt necessary measures for refrigeration, freeze prevention, moisture prevention, insect prevention and rat prevention to ensure drug quality."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Medical institutions shall adhere to the principles of safe, effective, economical and rational drug use, follow the guiding principles for clinical application of drugs, clinical diagnosis and treatment guidelines and drug instructions for rational drug use, and review the appropriateness of physicians' prescriptions and medication orders.\nOther drug-using units other than medical institutions shall comply with the provisions of this Law on the use of drugs by medical institutions."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where pharmacists or other pharmaceutical technical personnel whose qualifications have been recognised in accordance with the law dispense prescriptions, they shall conduct verification, and may not change or substitute drugs listed in prescriptions without authorisation. Prescriptions with incompatibility or overdose shall be refused dispensing; where necessary, dispensing may be carried out only after correction or re-signature by the prescribing physician."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a medical institution prepares preparations, it shall obtain approval from the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located and obtain a medical institution preparation licence. Without a medical institution preparation licence, preparations may not be prepared.\nThe medical institution preparation licence shall state the period of validity and shall be re-examined and reissued upon expiry."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "To prepare preparations, medical institutions shall have facilities, management systems, testing instruments and a hygienic environment capable of ensuring the quality of the preparations.\nMedical institutions preparing preparations shall do so in accordance with the approved processes, and the raw materials, excipients and packaging materials required shall meet the medicinal requirements."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Preparations prepared by medical institutions shall be varieties clinically needed by the unit for which there is no supply on the market, and shall be approved by the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government where the institution is located; however, where the law provides otherwise for the preparation of traditional Chinese medicine preparations, those provisions shall apply.\nPreparations prepared by medical institutions shall be subject to quality inspection in accordance with provisions; where qualified, they may be used within the unit upon a physician's prescription. Upon approval by the drug regulatory department of the State Council or the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government, preparations prepared by medical institutions may be transferred for use among designated medical institutions.\nPreparations prepared by medical institutions may not be sold on the market."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Pharmacy Administration in Medical Institutions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Marketing authorisation holders shall formulate post-marketing risk management plans for drugs, proactively carry out post-marketing studies on drugs, further confirm the safety, efficacy and quality controllability of drugs, and strengthen the continuing management of marketed drugs."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Post-marketing Administration of Drugs"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "For conditionally approved drugs, the marketing authorisation holder shall adopt corresponding risk management measures and complete the relevant studies as required within the prescribed time limit; where the studies are not completed as required within the time limit, or it cannot be proved that the benefits outweigh the risks, the drug regulatory department of the State Council shall deal with the matter in accordance with the law, up to cancelling the drug registration certificate."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Post-marketing Administration of Drugs"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Changes in the drug manufacturing process shall be subject to classified management according to the degree of risk and impact on the safety, efficacy and quality controllability of drugs. Major changes shall be approved by the drug regulatory department of the State Council, and other changes shall be filed or reported in accordance with the provisions of the drug regulatory department of the State Council.\nMarketing authorisation holders shall, in accordance with the provisions of the drug regulatory department of the State Council, comprehensively assess and verify the impact of the changed matters on the safety, efficacy and quality controllability of drugs."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Post-marketing Administration of Drugs"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Marketing authorisation holders shall carry out post-marketing adverse reaction monitoring of drugs, proactively collect, track and analyse information on suspected adverse drug reactions, and promptly adopt risk control measures for drugs with identified risks."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Post-marketing Administration of Drugs"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions shall frequently review the quality, therapeutic effects and adverse reactions of the drugs produced, distributed and used by their units. Where suspected adverse reactions are found, they shall promptly report to the drug regulatory department and the health commission. The specific measures shall be formulated by the drug regulatory department of the State Council together with the health commission of the State Council.\nFor drugs confirmed to have caused serious adverse reactions, the drug regulatory department of the State Council or the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, according to the actual circumstances, take emergency control measures such as cessation of production, sale and use, and shall organise identification within five days and lawfully make an administrative decision within 15 days from the date the identification conclusion is made."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Post-marketing Administration of Drugs"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where drugs have quality problems or other safety hazards, the marketing authorisation holder shall immediately cease sale, inform the relevant drug distribution enterprises and medical institutions to cease sale and use, recall the drugs already sold, promptly make public the recall information, and, where necessary, immediately cease production, and report the drug recall and handling to the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government and the health commission. Drug manufacturing enterprises, drug distribution enterprises and medical institutions shall cooperate.\nWhere a marketing authorisation holder is required by law to recall drugs but fails to do so, the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government shall order it to recall."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Post-marketing Administration of Drugs"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Marketing authorisation holders shall regularly carry out post-marketing evaluation of the safety, efficacy and quality controllability of marketed drugs. Where necessary, the drug regulatory department of the State Council may order the marketing authorisation holder to carry out post-marketing evaluation or may directly organise such evaluation.\nWhere evaluation shows that a drug has uncertain therapeutic effects, major adverse reactions or is otherwise harmful to human health for other reasons, the drug registration certificate shall be cancelled.\nDrugs whose drug registration certificates have been cancelled may not be produced, imported, sold or used.\nDrugs whose drug registration certificates have been cancelled or which have exceeded their period of validity, etc. shall be destroyed under the supervision of the drug regulatory department or be subject to other harmless disposal measures in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Post-marketing Administration of Drugs"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The State improves the drug procurement management system, monitors drug prices, carries out cost and price investigations, strengthens the supervision and inspection of drug prices, and investigates and deals with drug price violations such as price monopoly and price gouging in accordance with the law, so as to maintain the order of drug prices."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "For drugs subject to market-adjusted prices in accordance with the law, marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions shall set prices on the principles of fairness, reasonableness, honesty and good faith and correspondence between quality and price, and provide drug users with drugs at reasonable prices.\nMarketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions shall comply with the provisions of the drug pricing department of the State Council on drug price administration, set and mark retail prices of drugs, and profiteering, price monopoly, price fraud and similar conduct shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions shall, in accordance with the law, provide the drug pricing department with materials such as the actual prices of purchase and sale and the quantities purchased and sold of their drugs."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Medical institutions shall provide patients with a price list of the drugs used, truthfully publish the prices of their commonly used drugs in accordance with provisions, and strengthen the management of rational drug use. The specific measures shall be formulated by the health commission of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions shall be prohibited from giving or accepting kickbacks or other improper benefits in the purchase and sale of drugs.\nMarketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises or their agents shall be prohibited from giving money, property or other improper benefits under any name to the persons in charge, drug procurement personnel, physicians, pharmacists and other relevant personnel of medical institutions that use their drugs. The persons in charge, drug procurement personnel, physicians, pharmacists and other relevant personnel of medical institutions shall be prohibited from accepting money, property or other improper benefits given under any name by marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises or their agents."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Drug advertisements shall be approved by the advertisement review authority determined by the people's government of the province, autonomous region or municipality directly under the Central Government where the advertiser is located; advertisements not approved may not be published."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The content of drug advertisements shall be true and lawful, based on the drug instructions approved by the drug regulatory department of the State Council, and may not contain false content.\nDrug advertisements may not contain assertions or guarantees indicating efficacy or safety, and may not use the name or image of State organs, scientific research institutions, academic institutions, industry associations, or experts, scholars, physicians, pharmacists, patients, etc. for recommendation or certification.\nAdvertisements for non-drug products may not contain publicity involving drugs."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where this Law contains no provisions on drug prices and advertisements, the provisions of the Pricing Law of the People's Republic of China, the Anti-Monopoly Law of the People's Republic of China, the Anti-Unfair Competition Law of the People's Republic of China and the Advertising Law of the People's Republic of China shall apply."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Drug Prices and Advertisements"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The State applies a drug reserve system and establishes drug reserves at the central and local levels.\nIn the event of a major disaster, epidemic or other emergency, drugs may be requisitioned urgently in accordance with the provisions of the Emergency Response Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter IX Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The State applies an essential medicines system, selects an appropriate number of varieties of essential medicines, strengthens the organisation of production and reserves, improves the supply capacity of essential medicines, and meets the basic medication needs for disease prevention and treatment."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter IX Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The State establishes a drug supply and demand monitoring system, promptly collects, consolidates and analyses supply and demand information on drugs in shortage, issues early warnings for drugs in shortage, and adopts responsive measures."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter IX Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The State applies a list management system for drugs in shortage. The specific measures shall be formulated by the health commission of the State Council together with the drug regulatory department of the State Council and other departments.\nWhere a marketing authorisation holder ceases production of a drug in shortage, it shall report to the drug regulatory department of the State Council or the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter IX Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The State encourages the research, development and production of drugs in shortage, and gives priority to the review and approval of drugs in shortage urgently needed in clinical practice and new drugs for the prevention and treatment of major infectious diseases, rare diseases and other diseases."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter IX Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "For drugs in shortage, the State Council may restrict or prohibit export. Where necessary, the relevant departments of the State Council may adopt measures such as organising production, price intervention and expanding imports to ensure drug supply.\nMarketing authorisation holders, drug manufacturing enterprises and drug distribution enterprises shall ensure the production and supply of drugs in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter IX Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The production (including preparation, the same below), sale and use of counterfeit drugs and substandard drugs shall be prohibited.\nA drug shall be a counterfeit drug in any of the following circumstances:\n(a) the ingredients contained in the drug do not conform to the ingredients prescribed by the national drug standards;\n(b) a non-drug is passed off as a drug, or one drug is passed off as another drug;\n(c) the drug has deteriorated;\n(d) the indications or functions and principal therapeutic effects stated for the drug exceed the prescribed scope.\nA drug shall be a substandard drug in any of the following circumstances:\n(a) the content of the ingredients of the drug does not conform to the national drug standards;\n(b) the drug is contaminated;\n(c) the period of validity is not stated or has been altered;\n(d) the product batch number is not stated or has been altered;\n(e) the drug has exceeded its period of validity;\n(f) preservatives or excipients have been added without authorisation;\n(g) other drugs not complying with the drug standards.\nThe production or importation of drugs without obtaining drug approval documents shall be prohibited; the use of active pharmaceutical ingredients, packaging materials and containers that have not been reviewed and approved in accordance with provisions for the production of drugs shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Drug regulatory departments shall, in accordance with the provisions of laws and regulations, conduct supervision and inspection over drug research and development, production and distribution and the use of drugs by drug-using units, and may, where necessary, conduct extended inspections of units and individuals providing products or services for drug research and development, production, distribution and use; the relevant units and individuals shall cooperate and may not refuse or conceal.\nDrug regulatory departments shall implement priority supervision and inspection over high-risk drugs.\nWhere there is evidence proving the possible existence of safety hazards, drug regulatory departments shall, on the basis of the supervision and inspection circumstances, adopt measures such as admonition, supervisory interview, rectification within a time limit and suspension of production, sale, use and import, and promptly publish the inspection and handling results.\nDrug regulatory departments shall produce supporting documents when conducting supervision and inspection, and shall keep confidential the trade secrets learned in the supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Drug regulatory departments may, according to the needs of supervision and administration, conduct spot testing and inspection of drug quality. Spot testing and inspection shall be conducted by sampling in accordance with provisions, and no fees may be charged; samples shall be purchased when sampling. The required expenses shall be disbursed in accordance with the provisions of the State Council.\nFor drugs and the relevant materials for which there is evidence proving possible harm to human health, drug regulatory departments may seal up or seize them and make an administrative decision within seven days; where the drugs need testing, an administrative decision shall be made within 15 days from the date of issuance of the test report."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The drug regulatory departments of the State Council and of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall publish the results of drug quality spot testing and inspection at regular intervals; where a publication is inappropriate, it shall be corrected within the scope of the original publication."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a party objects to a drug test result, it may, within seven days from the date of receipt of the drug test result, apply to the original drug testing institution or a drug testing institution established or designated by the drug regulatory department at the next higher level for re-testing, or may directly apply to a drug testing institution established or designated by the drug regulatory department of the State Council for re-testing. The drug testing institution accepting the re-test shall make a re-test conclusion within the time prescribed by the drug regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Drug regulatory departments shall inspect the compliance of marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises, drug non-clinical safety evaluation research institutions, drug clinical trial institutions, etc. with the Good Manufacturing Practice for Drugs, the Good Supply Practice for Drugs, the Good Laboratory Practice for Non-clinical Studies and the Good Clinical Practice, and supervise their continuous compliance with the statutory requirements."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The State establishes a professional and specialised drug inspector team. Inspectors shall be familiar with drug laws and regulations and possess professional drug knowledge."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Drug regulatory departments shall establish drug safety credit records for marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises, drug non-clinical safety evaluation research institutions, drug clinical trial institutions and medical institutions, recording the issuance of licences, the results of routine supervision and inspection, and the investigation and handling of violations of law, publish them to the public in accordance with the law and update them in a timely manner; for those with adverse credit records, the frequency of supervision and inspection shall be increased and joint disciplinary action may be implemented in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Drug regulatory departments shall publish the e-mail addresses and telephone numbers of their departments, accept consultations, complaints and reports, and answer, verify and handle them promptly in accordance with the law. For reports verified to be true, rewards shall be given to the reporters in accordance with the relevant provisions.\nDrug regulatory departments shall keep the information of reporters confidential and protect the lawful rights and interests of reporters. Where a reporter reports the unit to which it belongs, that unit may not retaliate against the reporter by terminating or modifying the labour contract or by other means."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The State applies a unified publication system for drug safety information. The overall situation of national drug safety, drug safety risk warning information, information on major drug safety incidents and their investigation and handling, and other information that the State Council determines needs to be published in a unified manner shall be published in a unified manner by the drug regulatory department of the State Council. Where the impact of drug safety risk warning information and information on major drug safety incidents and their investigation and handling is limited to a specific region, it may also be published by the drug regulatory department of the people's government of the relevant province, autonomous region or municipality directly under the Central Government. The above information may not be released without authorisation.\nDrug safety information shall be published in a timely, accurate and comprehensive manner, with necessary explanations, so as to avoid misleading.\nNo entity or individual may fabricate or disseminate false drug safety information."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "People's governments at or above the county level shall formulate contingency plans for drug safety incidents. Marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises and medical institutions, etc. shall formulate their own drug safety incident handling plans and organise training and emergency drills.\nWhere a drug safety incident occurs, the people's government at or above the county level shall immediately organise response work in accordance with the contingency plan; the relevant units shall immediately adopt effective measures for handling to prevent the expansion of harm."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where a drug regulatory department fails to promptly discover a systemic drug safety risk and fails to promptly eliminate a drug safety hazard within its supervision and administration area, the people's government at the corresponding level or the drug regulatory department of the people's government at a higher level shall conduct a supervisory interview with its principal person in charge.\nWhere a local people's government fails to perform its drug safety duties and fails to promptly eliminate a major regional drug safety hazard, the people's government at a higher level or the drug regulatory department of the people's government at a higher level shall conduct a supervisory interview with its principal person in charge.\nThe departments and local people's governments subject to the supervisory interview shall immediately adopt measures to rectify drug supervision and administration work.\nThe circumstances of the supervisory interview and of the rectification shall be included in the appraisal and assessment records of drug supervision and administration work of the relevant departments and local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Local people's governments and their drug regulatory departments may not, by such means as requiring drug testing or examination and approval, restrict or exclude drugs produced by marketing authorisation holders and drug manufacturing enterprises outside the region from entering the region."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Drug regulatory departments and the drug professional and technical institutions established or designated by them may not participate in drug production and distribution activities, and may not recommend, supervise the production of or supervise the sale of drugs in their names.\nThe staff of drug regulatory departments and of the drug professional and technical institutions established or designated by them may not participate in drug production and distribution activities."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where the State Council has other special administrative provisions on narcotic drugs, psychotropic drugs, medicinal toxic drugs, radioactive drugs, pharmaceutical precursor chemicals, etc., those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where a drug regulatory department finds that a drug violation of law is suspected of constituting a crime, it shall promptly transfer the case to the public security organ.\nWhere criminal responsibility need not be pursued or criminal punishment is exempted in accordance with the law but administrative liability shall be pursued, the public security organ, the people's procuratorate and the people's court shall promptly transfer the case to the drug regulatory department.\nWhere a public security organ, people's procuratorate or people's court requests the drug regulatory department, the ecological environment department and other departments to provide assistance such as test conclusions, determination opinions and harmless disposal of drugs involved in the case, the relevant departments shall promptly provide it and render assistance."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where this Law is violated and a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where drugs are produced or sold without obtaining a drug manufacturing licence, a drug distribution licence or a medical institution preparation licence, the offender shall be ordered to close down, the drugs unlawfully produced or sold and the illegal gains shall be confiscated, and a fine of not less than 15 times but not more than 30 times the value of the drugs unlawfully produced or sold (including drugs already sold and not yet sold, the same below) shall be imposed; where the value is less than 100,000 yuan, it shall be calculated as 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where counterfeit drugs are produced or sold, the drugs unlawfully produced or sold and the illegal gains shall be confiscated, the offender shall be ordered to suspend production and business for rectification, the drug approval documents shall be revoked, and a fine of not less than 15 times but not more than 30 times the value of the drugs unlawfully produced or sold shall be imposed; where the value is less than 100,000 yuan, it shall be calculated as 100,000 yuan; where the circumstances are serious, the drug manufacturing licence, drug distribution licence or medical institution preparation licence shall be revoked, and the corresponding application of the offender shall not be accepted within 10 years; where the marketing authorisation holder is an overseas enterprise, the importation of its drugs shall be prohibited for 10 years."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where substandard drugs are produced or sold, the drugs unlawfully produced or sold and the illegal gains shall be confiscated, and a fine of not less than 10 times but not more than 20 times the value of the drugs unlawfully produced or sold shall be imposed; where the value of drugs unlawfully produced or wholesaled is less than 100,000 yuan, it shall be calculated as 100,000 yuan, and where the value of drugs unlawfully retailed is less than 10,000 yuan, it shall be calculated as 10,000 yuan; where the circumstances are serious, the offender shall be ordered to suspend production and business for rectification, up to revocation of the drug approval documents, the drug manufacturing licence, the drug distribution licence or the medical institution preparation licence.\nWhere decoction pieces of traditional Chinese medicine produced or sold do not comply with the drug standards but do not yet affect safety and efficacy, the offender shall be ordered to rectify within a time limit and be given a warning; a fine of not less than 100,000 yuan but not more than 500,000 yuan may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where counterfeit drugs are produced or sold, or substandard drugs are produced or sold and the circumstances are serious, the legal representative, the principal person in charge, the persons directly in charge and other responsible persons shall have the income obtained from the unit during the period when the unlawful conduct occurred confiscated, a fine of not less than 30 per cent of such income but not more than three times such income shall be imposed, they shall be prohibited for life from engaging in drug production and distribution activities, and the public security organ may impose detention of not less than five days but not more than 15 days.\nThe raw materials, excipients, packaging materials and production equipment used by the producer specifically for the production of counterfeit drugs or substandard drugs shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where a drug-using unit uses counterfeit drugs or substandard drugs, it shall be punished in accordance with the provisions on selling counterfeit drugs and retailing substandard drugs; where the circumstances are serious and the legal representative, the principal person in charge, the persons directly in charge and other responsible persons hold medical and health practitioner certificates, their practice certificates shall also be revoked."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where a person knows or ought to know that drugs are counterfeit drugs or substandard drugs or drugs provided in items (a) to (e) of paragraph 1 of Article 124 of this Law and provides facilities such as storage and transport for them, all income from storage and transport shall be confiscated and a fine of not less than one time but not more than five times the unlawful income shall be imposed; where the circumstances are serious, a fine of not less than five times but not more than 15 times the unlawful income shall be imposed; where the unlawful income is less than 50,000 yuan, it shall be calculated as 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "In decisions on penalties for counterfeit drugs and substandard drugs, the quality test conclusions of drug testing institutions shall be stated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where licences or drug approval documents are forged, altered, leased, lent or unlawfully traded, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where the circumstances are serious, a fine of not less than five times but not more than 15 times the illegal gains shall be imposed, the drug manufacturing licence, drug distribution licence, medical institution preparation licence or drug approval documents shall be revoked, the legal representative, the principal person in charge, the persons directly in charge and other responsible persons shall be fined not less than 20,000 yuan but not more than 200,000 yuan and prohibited from engaging in drug production and distribution activities for 10 years, and the public security organ may impose detention of not less than five days but not more than 15 days; where the illegal gains are less than 100,000 yuan, they shall be calculated as 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where false certificates, data, materials or samples are provided or other means are adopted to obtain by deception licences such as clinical trial licences, drug manufacturing licences, drug distribution licences, medical institution preparation licences or drug registration, the relevant licence shall be revoked, the corresponding application of the offender shall not be accepted within 10 years, and a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed; where the circumstances are serious, the legal representative, the principal person in charge, the persons directly in charge and other responsible persons shall be fined not less than 20,000 yuan but not more than 200,000 yuan and prohibited from engaging in drug production and distribution activities for 10 years, and the public security organ may impose detention of not less than five days but not more than 15 days."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where this Law is violated and any of the following conduct is committed, the drugs unlawfully produced, imported or sold, the illegal gains and the raw materials, excipients, packaging materials and production equipment used specifically for unlawful production shall be confiscated, the offender shall be ordered to suspend production and business for rectification, and a fine of not less than 15 times but not more than 30 times the value of the drugs unlawfully produced, imported or sold shall be imposed; where the value is less than 100,000 yuan, it shall be calculated as 100,000 yuan; where the circumstances are serious, the drug approval documents shall be revoked, up to revocation of the drug manufacturing licence, drug distribution licence or medical institution preparation licence, and the legal representative, the principal person in charge, the persons directly in charge and other responsible persons shall have the income obtained from the unit during the period when the unlawful conduct occurred confiscated and be fined not less than 30 per cent of such income but not more than three times such income, be prohibited from engaging in drug production and distribution activities for 10 years up to life, and the public security organ may impose detention of not less than five days but not more than 15 days:\n(a) producing or importing drugs without obtaining drug approval documents;\n(b) producing or importing drugs using drug approval documents obtained by deceptive means;\n(c) producing drugs using active pharmaceutical ingredients that have not been reviewed and approved;\n(d) selling drugs that should have been tested but have not been tested;\n(e) producing or selling drugs the use of which is prohibited by the drug regulatory department of the State Council;\n(f) fabricating production or inspection records;\n(g) making major changes in the drug manufacturing process without approval.\nWhoever sells the drugs provided in items (a) to (c) of the preceding paragraph, or where a drug-using unit uses the drugs provided in items (a) to (e) of the preceding paragraph, shall be punished in accordance with the preceding paragraph; where the circumstances are serious and the legal representative, the principal person in charge, the persons directly in charge and other responsible persons of the drug-using unit hold medical and health practitioner certificates, their practice certificates shall also be revoked.\nWhoever imports without approval a small quantity of drugs already lawfully marketed overseas, where the circumstances are relatively minor, may be given a mitigated penalty or be exempted from penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where this Law is violated and any of the following conduct is committed, the drugs unlawfully produced or sold, the illegal gains, packaging materials and containers shall be confiscated, the offender shall be ordered to suspend production and business for rectification, and a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed; where the circumstances are serious, the drug approval documents, drug manufacturing licence and drug distribution licence shall be revoked, the legal representative, the principal person in charge, the persons directly in charge and other responsible persons shall be fined not less than 20,000 yuan but not more than 200,000 yuan and prohibited from engaging in drug production and distribution activities for 10 years up to life:\n(a) carrying out drug clinical trials without approval;\n(b) producing drugs using packaging materials or containers in direct contact with drugs that have not been reviewed, or selling such drugs;\n(c) using labels or instructions that have not been approved."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Except in the circumstances otherwise provided in this Law, where marketing authorisation holders, drug manufacturing enterprises, drug distribution enterprises, drug non-clinical safety evaluation research institutions, drug clinical trial institutions, etc. fail to comply with the Good Manufacturing Practice for Drugs, the Good Supply Practice for Drugs, the Good Laboratory Practice for Non-clinical Studies, the Good Clinical Practice, etc., they shall be ordered to rectify within a time limit and be given a warning; where they fail to rectify within the time limit, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than two million yuan shall be imposed, they shall be ordered to suspend production and business for rectification, up to revocation of the drug approval documents, drug manufacturing licence, drug distribution licence, etc., drug non-clinical safety evaluation research institutions and drug clinical trial institutions, etc. may not carry out drug non-clinical safety evaluation studies or drug clinical trials within five years, and the legal representative, the principal person in charge, the persons directly in charge and other responsible persons shall have the income obtained from the unit during the period when the unlawful conduct occurred confiscated and be fined not less than 10 per cent of such income but not more than 50 per cent of such income, and be prohibited from engaging in drug production and distribution and other activities for 10 years up to life."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where this Law is violated and any of the following conduct is committed, the offender shall be ordered to rectify within a time limit and be given a warning; where the offender fails to rectify within the time limit, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed:\n(a) carrying out bioequivalence studies without filing;\n(b) during drug clinical trials, where safety problems or other risks are found and the clinical trial sponsor fails to promptly adjust the clinical trial protocol, suspend or terminate the clinical trial, or fails to report to the drug regulatory department of the State Council;\n(c) failing to establish and implement a drug traceability system in accordance with provisions;\n(d) failing to submit annual reports in accordance with provisions;\n(e) failing to file or report changes in the drug manufacturing process in accordance with provisions;\n(f) failing to formulate a post-marketing risk management plan for drugs;\n(g) failing to carry out post-marketing studies or post-marketing evaluation of drugs in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Except where a penalty shall be imposed in accordance with the law on the basis of counterfeit drugs and substandard drugs, where drug packaging does not bear printed or affixed labels or is not accompanied by instructions in accordance with provisions, or labels and instructions do not state the relevant information or bear the prescribed marks in accordance with provisions, the offender shall be ordered to rectify and be given a warning; where the circumstances are serious, the drug registration certificate shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where this Law is violated and a marketing authorisation holder, drug manufacturing enterprise, drug distribution enterprise or medical institution purchases drugs from a source other than a marketing authorisation holder or an enterprise qualified for drug manufacture or distribution, the offender shall be ordered to rectify, the drugs unlawfully purchased and the illegal gains shall be confiscated, and a fine of not less than two times but not more than 10 times the value of the drugs unlawfully purchased shall be imposed; where the circumstances are serious, a fine of not less than 10 times but not more than 30 times the value shall be imposed and the drug approval documents, drug manufacturing licence, drug distribution licence or medical institution practice licence shall be revoked; where the value is less than 50,000 yuan, it shall be calculated as 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Where this Law is violated and a drug distribution enterprise fails to keep records in accordance with provisions when purchasing and selling drugs, fails to correctly explain the method of use, dosage and other matters when retailing drugs, or fails to dispense prescriptions in accordance with provisions, the offender shall be ordered to rectify and be given a warning; where the circumstances are serious, the drug distribution licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where this Law is violated and a third-party platform provider for online drug transactions fails to perform obligations such as qualification review, reporting and cessation of provision of online transaction platform services, the offender shall be ordered to rectify, the illegal gains shall be confiscated, and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed; where the circumstances are serious, the offender shall be ordered to suspend business for rectification and be fined not less than two million yuan but not more than five million yuan."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where drugs for which drug registration certificates have been obtained are imported without filing with the drug regulatory department at the place where the port permitting drug importation is located in accordance with provisions, the offender shall be ordered to rectify within a time limit and be given a warning; where the offender fails to rectify within the time limit, the drug registration certificate shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where this Law is violated and a medical institution sells its prepared preparations on the market, the offender shall be ordered to rectify, the preparations unlawfully sold and the illegal gains shall be confiscated, and a fine of not less than two times but not more than five times the value of the preparations unlawfully sold shall be imposed; where the circumstances are serious, a fine of not less than five times but not more than 15 times the value shall be imposed; where the value is less than 50,000 yuan, it shall be calculated as 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where a marketing authorisation holder fails to carry out adverse drug reaction monitoring or report suspected adverse drug reactions in accordance with provisions, it shall be ordered to rectify within a time limit and be given a warning; where it fails to rectify within the time limit, it shall be ordered to suspend production and business for rectification and be fined not less than 100,000 yuan but not more than one million yuan.\nWhere a drug distribution enterprise fails to report suspected adverse drug reactions in accordance with provisions, it shall be ordered to rectify within a time limit and be given a warning; where it fails to rectify within the time limit, it shall be ordered to suspend production and business for rectification and be fined not less than 50,000 yuan but not more than 500,000 yuan.\nWhere a medical institution fails to report suspected adverse drug reactions in accordance with provisions, it shall be ordered to rectify within a time limit and be given a warning; where it fails to rectify within the time limit, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where a marketing authorisation holder refuses to recall drugs after the drug regulatory department of the people's government of the province, autonomous region or municipality directly under the Central Government has ordered it to do so, a fine of not less than five times but not more than 10 times the value of the drugs that should be recalled shall be imposed; where the value is less than 100,000 yuan, it shall be calculated as 100,000 yuan; where the circumstances are serious, the drug approval documents, drug manufacturing licence and drug distribution licence shall be revoked, and the legal representative, the principal person in charge, the persons directly in charge and other responsible persons shall be fined not less than 20,000 yuan but not more than 200,000 yuan. Where a drug manufacturing enterprise, drug distribution enterprise or medical institution refuses to cooperate in the recall, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Where a marketing authorisation holder is an overseas enterprise and the enterprise legal person within the territory of China designated by it fails to perform the relevant obligations in accordance with the provisions of this Law, the provisions of this Law on the legal liability of marketing authorisation holders shall apply."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "In any of the following circumstances, a heavier penalty shall be imposed within the range of penalties prescribed by this Law:\n(a) passing off narcotic drugs, psychotropic drugs, medicinal toxic drugs, radioactive drugs or pharmaceutical precursor chemicals as other drugs, or passing off other drugs as the above drugs;\n(b) producing or selling counterfeit drugs or substandard drugs intended mainly for use by pregnant and lying-in women and children;\n(c) the biological products produced or sold are counterfeit drugs or substandard drugs;\n(d) producing or selling counterfeit drugs or substandard drugs, causing personal injury;\n(e) committing the same offence again after being dealt with for producing or selling counterfeit drugs or substandard drugs;\n(f) refusing or evading supervision and inspection, forging, destroying or concealing the relevant evidential materials, or using sealed up or seized articles without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Where a drug testing institution issues a false test report, it shall be ordered to rectify and be given a warning, and the unit shall be fined not less than 200,000 yuan but not more than one million yuan; the persons directly in charge and other persons directly responsible shall be given sanctions of demotion, removal from office or dismissal in accordance with the law, their illegal gains shall be confiscated, and a fine of not more than 50,000 yuan shall be imposed; where the circumstances are serious, their testing qualification shall be revoked. Where a drug testing institution issues an untrue test result and causes losses, it shall bear the corresponding liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "The administrative penalties provided in Articles 115 to 138 of this Law shall be decided by the drug regulatory departments of people's governments at or above the county level according to the division of duties; the revocation of licences and the revocation of licence certificates shall be decided by the department that originally approved or issued them."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where a marketing authorisation holder, drug manufacturing enterprise, drug distribution enterprise or medical institution employs personnel in violation of this Law, the drug regulatory department or the health commission shall order the dismissal of the personnel and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where a marketing authorisation holder, drug manufacturing enterprise, drug distribution enterprise or medical institution gives or accepts kickbacks or other improper benefits in the purchase and sale of drugs, or where a marketing authorisation holder, drug manufacturing enterprise, drug distribution enterprise or its agent gives money, property or other improper benefits to the persons in charge, drug procurement personnel, physicians, pharmacists and other relevant personnel of a medical institution using its drugs, the market regulatory department shall confiscate the illegal gains and impose a fine of not less than 300,000 yuan but not more than three million yuan; where the circumstances are serious, the business licence of the marketing authorisation holder, drug manufacturing enterprise or drug distribution enterprise shall be revoked, and the drug regulatory department shall revoke the drug approval documents, drug manufacturing licence and drug distribution licence.\nWhere a marketing authorisation holder, drug manufacturing enterprise or drug distribution enterprise bribes State functionaries in drug research and development, production or distribution, the legal representative, the principal person in charge, the persons directly in charge and other responsible persons shall be prohibited for life from engaging in drug production and distribution activities."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "Where the person in charge, procurement personnel and other relevant personnel of a marketing authorisation holder, drug manufacturing enterprise or drug distribution enterprise accept money, property or other improper benefits given by another marketing authorisation holder, drug manufacturing enterprise, drug distribution enterprise or agent in the purchase and sale of drugs, the illegal gains shall be confiscated and a penalty shall be imposed in accordance with the law; where the circumstances are serious, they shall be prohibited from engaging in drug production and distribution activities for five years.\nWhere the person in charge, drug procurement personnel, physicians, pharmacists and other relevant personnel of a medical institution accept money, property or other improper benefits given by a marketing authorisation holder, drug manufacturing enterprise, drug distribution enterprise or agent, the health commission or the unit to which they belong shall give them sanctions and confiscate the illegal gains; where the circumstances are serious, their practice certificates shall also be revoked."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Where this Law is violated by fabricating or disseminating false drug safety information and such conduct constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Where a marketing authorisation holder, drug manufacturing enterprise, drug distribution enterprise or medical institution violates this Law and causes harm to drug users, it shall bear liability for compensation in accordance with the law.\nWhere harm is caused by drug quality problems, the victim may request compensation for losses from the marketing authorisation holder or the drug manufacturing enterprise, or may request compensation for losses from the drug distribution enterprise or the medical institution. Whoever receives the victim's claim for compensation shall implement the first-liability system and pay compensation first; after paying compensation first, it may seek recovery in accordance with the law.\nWhere counterfeit drugs or substandard drugs are produced or sold, or where drugs are still sold or used although known to be counterfeit or substandard, the victim or his close relatives may, in addition to requesting compensation for losses, request payment of compensation amounting to 10 times the price or three times the losses; where the additional compensation is less than 1,000 yuan, it shall be 1,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "Where a drug regulatory department or a drug professional and technical institution established or designated by it participates in drug production and distribution activities, its superior competent authority shall order it to rectify and confiscate the unlawful income; where the circumstances are serious, the persons directly in charge and other persons directly responsible shall be given sanctions in accordance with the law.\nWhere the staff of a drug regulatory department or of a drug professional and technical institution established or designated by it participates in drug production and distribution activities, sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Where a drug regulatory department or a drug testing institution established or designated by it unlawfully collects testing fees in drug supervision and testing, the relevant government department shall order the return of the fees and give sanctions in accordance with the law to the persons directly in charge and other persons directly responsible; where the circumstances are serious, its testing qualification shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "Where this Law is violated and a drug regulatory department commits any of the following conduct, the relevant licence shall be revoked and sanctions shall be given in accordance with the law to the persons directly in charge and other persons directly responsible:\n(a) approving the conduct of drug clinical trials for which the conditions are not met;\n(b) issuing drug registration certificates for drugs not meeting the conditions;\n(c) issuing drug manufacturing licences, drug distribution licences or medical institution preparation licences to units not meeting the conditions."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where this Law is violated and a local people's government at or above the county level commits any of the following conduct, the persons directly in charge and other persons directly responsible shall be given a sanction of recording a demerit or recording a major demerit; where the circumstances are serious, they shall be given a sanction of demotion, removal from office or dismissal:\n(a) concealing, falsely reporting, delaying the reporting of or omitting to report drug safety incidents;\n(b) failing to promptly eliminate a major regional drug safety hazard, causing an especially major drug safety incident to occur within its administrative region, or causing major drug safety incidents to occur consecutively;\n(c) performing duties ineffectively, causing serious adverse effects or major losses."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Where this Law is violated and a drug regulatory department or other department commits any of the following conduct, the persons directly in charge and other persons directly responsible shall be given a sanction of recording a demerit or recording a major demerit; where the circumstances are relatively serious, they shall be given a sanction of demotion or removal from office; where the circumstances are serious, they shall be given a sanction of dismissal:\n(a) concealing, falsely reporting, delaying the reporting of or omitting to report drug safety incidents;\n(b) failing to promptly investigate and deal with discovered drug safety violations of law;\n(c) failing to promptly discover a systemic drug safety risk, or failing to promptly eliminate a drug safety hazard within the supervision and administration area, causing serious impact;\n(d) other failures to perform drug supervision and administration duties, causing serious adverse effects or major losses."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Where drug supervision and administration personnel abuse their powers, engage in malpractice for personal gain or neglect their duties, sanctions shall be given in accordance with the law.\nWhere there is dereliction of duty or malfeasance in investigating and dealing with violations of law involving counterfeit drugs or substandard drugs, heavier sanctions shall be given in accordance with the law to the persons directly in charge and other persons directly responsible of the drug regulatory department."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Chapter XI Legal Liability"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0318'] = {
     "lawId": "CN-LAW-0318",
     "sourceLang": "zh",
@@ -37505,6 +39275,1788 @@
     ]
   };
 
+  TR['CN-LAW-0339'] = {
+    "lawId": "CN-LAW-0339",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 150 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of regulating securities investment fund activities, protecting the lawful rights and interests of investors and the parties concerned and promoting the sound development of securities investment funds and the capital market."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where, within the territory of the People's Republic of China, funds are raised publicly or non-publicly to establish a securities investment fund (hereinafter referred to as a fund), which is managed by a fund management institution and held in custody by a fund custodian and which engages in securities investment activities for the benefit of the holders of fund units, this Law shall apply; where this Law does not provide, the provisions of the Trust Law of the People's Republic of China, the Securities Law of the People's Republic of China and other relevant laws and administrative regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The rights and obligations of fund management institutions, fund custodians and holders of fund units shall be agreed in the fund contract in accordance with this Law.\nFund management institutions and fund custodians shall perform their fiduciary duties in accordance with this Law and the provisions of the fund contract.\nThe holders of fund units of funds established through public offering (hereinafter referred to as publicly offered funds) shall enjoy returns and bear risks according to the fund units they hold; the distribution of returns and the bearing of risks of funds established through non-public offering (hereinafter referred to as non-publicly offered funds) shall be agreed in the fund contract."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Those engaging in securities investment fund activities shall follow the principles of voluntariness, fairness, honesty and credibility and shall not harm the interests of the State and the public interest of society."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The debts of the fund property shall be borne by the fund property itself, and the holders of fund units shall be liable for the debts of the fund property to the extent of their capital contributions, unless the fund contract otherwise provides in accordance with this Law.\nThe fund property shall be independent of the inherent property of the fund management institution and the fund custodian. Fund management institutions and fund custodians shall not include the fund property in their inherent property.\nThe property and returns obtained by fund management institutions and fund custodians as a result of the management and use of the fund property or in other circumstances shall be included in the fund property.\nWhere a fund management institution or fund custodian undergoes liquidation due to lawful dissolution, lawful revocation or lawful declaration of bankruptcy or other reasons, the fund property shall not be included in its liquidation property."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The claims of the fund property shall not be set off against the debts of the inherent property of the fund management institution or the fund custodian; the claims and debts of different fund properties shall not be set off against each other."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Compulsory enforcement against the fund property shall not be carried out for debts not borne by the fund property itself."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The taxes relating to the investment of the fund property shall be borne by the holders of fund units, and fund management institutions or other withholding agents shall withhold and remit them on their behalf in accordance with the provisions of the State on tax collection."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Fund management institutions and fund custodians managing and using the fund property, and fund service institutions engaging in fund service activities, shall be devoted to their duties and perform the obligations of honesty, credibility, prudence and diligence.\nA fund management institution using the fund property for securities investment shall observe the rules of prudent operation, formulate scientific and reasonable investment strategies and risk management systems, and effectively prevent and control risks.\nFund practitioners shall possess fund practice qualifications, observe laws and administrative regulations, and strictly observe professional ethics and codes of conduct."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Fund management institutions, fund custodians and fund service institutions shall, in accordance with this Law, establish a securities investment fund industry association (hereinafter referred to as the fund industry association) to carry out industry self-discipline, coordinate industry relations, provide industry services and promote industry development."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council shall, in accordance with the law, exercise supervision and administration over securities investment fund activities; its dispatched agencies shall perform their duties in accordance with the authorisation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A fund management institution shall be a company or partnership enterprise established in accordance with the law.\nThe fund management institution of a publicly offered fund shall be a fund management company or another institution approved as prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "To establish a fund management company managing publicly offered funds, the following conditions shall be met and the approval of the securities supervision and administration institution of the State Council shall be obtained:\n(a) having articles of association conforming to the provisions of this Law and the Company Law of the People's Republic of China;\n(b) having registered capital of not less than RMB 100 million, which must be paid-in monetary capital;\n(c) the principal shareholders shall have good performance in operating financial business or managing financial institutions, good financial status and social reputation, assets of a scale reaching the standard prescribed by the State Council, and no record of violation of law in the recent three years;\n(d) having the statutory number of persons who have obtained fund practice qualifications;\n(e) the directors, supervisors and senior managers possessing the corresponding qualifications for holding office;\n(f) having business premises, safety and security facilities and other facilities related to fund management business that meet the requirements;\n(g) having a sound internal governance structure, a complete internal audit and monitoring system and a risk control system;\n(h) other conditions provided by laws and administrative regulations and prescribed by the securities supervision and administration institution of the State Council with the approval of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council shall, within six months from the date of acceptance of an application for the establishment of a fund management company, conduct examination in accordance with the conditions provided in Article 13 of this Law and the principle of prudent supervision, make a decision on approval or non-approval and notify the applicant; where approval is not granted, the reasons shall be explained.\nWhere a fund management company changes a shareholder holding 5 per cent or more of its equity, changes the actual controller of the company or changes other major matters, it shall report to the securities supervision and administration institution of the State Council for approval. The securities supervision and administration institution of the State Council shall, within sixty days from the date of acceptance of the application, make a decision on approval or non-approval and notify the applicant; where approval is not granted, the reasons shall be explained."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "None of the following persons may serve as a director, supervisor, senior manager or other practitioner of the fund management institution of a publicly offered fund:\n(a) a person who has been sentenced to a criminal punishment for the crime of embezzlement or bribery, dereliction of duty, infringement of property or disruption of the order of the socialist market economy;\n(b) a director, supervisor, factory director or senior manager who bears personal responsibility for the bankruptcy and liquidation of a company or enterprise due to poor operation or for the revocation of its business licence due to violation of law, where less than five years have elapsed since the conclusion of the bankruptcy and liquidation of the company or enterprise or the revocation of its business licence;\n(c) a person who bears a relatively large amount of personal debt that has not been paid off when due;\n(d) a practitioner of a fund management institution, fund custodian, stock exchange, securities company, securities registration and settlement institution, futures exchange, futures company or other institution, or a functionary of a State organ who has been dismissed due to an illegal act;\n(e) a lawyer, certified public accountant, or practitioner of an asset appraisal institution or verification institution, or investment consulting practitioner, whose practising certificate has been revoked or whose qualification has been cancelled due to an illegal act;\n(f) other persons who are prohibited by laws and administrative regulations from engaging in the fund business."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The directors, supervisors and senior managers of the fund management institution of a publicly offered fund shall be familiar with the laws and administrative regulations on securities investment and have more than three years of work experience related to the posts they hold; senior managers shall also possess fund practice qualifications."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the directors, supervisors, senior managers and other practitioners of the fund management institution of a publicly offered fund, or their spouses or interested parties, engage in securities investment, they shall report in advance to the fund management institution and shall not have a conflict of interest with the holders of fund units.\nThe fund management institution of a publicly offered fund shall establish management systems for the report, registration, examination and disposal of the securities investment of the persons provided in the preceding paragraph and report them to the securities supervision and administration institution of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The directors, supervisors, senior managers and other practitioners of the fund management institution of a publicly offered fund shall not hold any post in a fund custodian or another fund management institution, and shall not engage in securities trading or other activities that harm the interests of the fund property and the holders of fund units."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The fund management institution of a publicly offered fund shall perform the following duties:\n(a) raising funds in accordance with the law and handling the offering and registration of fund units;\n(b) handling the formalities for fund recordal;\n(c) managing and keeping separate books for the different fund properties it manages and conducting securities investment;\n(d) determining the fund return distribution plan in accordance with the provisions of the fund contract and distributing returns to the holders of fund units in a timely manner;\n(e) conducting fund accounting and preparing fund financial and accounting reports;\n(f) preparing interim and annual fund reports;\n(g) calculating and announcing the net asset value of the fund and determining the subscription and redemption prices of fund units;\n(h) handling information disclosure matters relating to fund property management activities;\n(i) convening the general meeting of the holders of fund units as prescribed;\n(j) keeping the records, account books, statements and other relevant materials of fund property management activities;\n(k) exercising litigation rights or implementing other legal acts in the name of the fund management institution on behalf of the interests of the holders of fund units;\n(l) other duties prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The fund management institution of a publicly offered fund and its directors, supervisors, senior managers and other practitioners shall not commit any of the following acts:\n(a) mixing their inherent property or the property of others with the fund property in conducting securities investment;\n(b) treating the different fund properties they manage unfairly;\n(c) using the fund property or the convenience of their posts to seek benefits for persons other than the holders of fund units;\n(d) promising returns or undertaking losses to the holders of fund units in violation of the provisions;\n(e) misappropriating or embezzling the fund property;\n(f) disclosing undisclosed information obtained by virtue of their posts, using such information to engage in or explicitly or implicitly causing others to engage in the relevant trading activities;\n(g) derelicting their duties and failing to perform their duties as prescribed;\n(h) other acts prohibited by laws and administrative regulations and prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The fund management institution of a publicly offered fund shall establish a sound internal governance structure, clarify the functions and powers of the shareholders' meeting, the board of directors, the board of supervisors and the senior managers, and ensure the independent operation of the fund management institution.\nThe fund management institution of a publicly offered fund may implement a shareholding plan for professionals and establish a long-term incentive and restraint mechanism.\nThe shareholders, directors, supervisors and senior managers of the fund management institution of a publicly offered fund shall, when exercising their rights or performing their duties, follow the principle of giving priority to the interests of the holders of fund units."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The fund management institution of a publicly offered fund shall set aside a risk reserve from the remuneration for managing funds.\nWhere the fund management institution of a publicly offered fund shall bear liability for compensation because it has caused losses to the fund property or the lawful rights and interests of the holders of fund units due to violation of laws or regulations, breach of the fund contract or other reasons, it may give priority to using the risk reserve for compensation."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The shareholders and actual controllers of the fund management institution of a publicly offered fund shall, in accordance with the provisions of the securities supervision and administration institution of the State Council, promptly perform the obligation to report major matters, and shall not commit any of the following acts:\n(a) making false capital contributions or secretly withdrawing capital contributions;\n(b) interfering without authorisation in the fund business activities of the fund management institution without a resolution of the shareholders' meeting or the board of directors in accordance with the law;\n(c) requiring the fund management institution to use the fund property to seek benefits for themselves or others, harming the interests of the holders of fund units;\n(d) other acts prohibited by the securities supervision and administration institution of the State Council.\nWhere the shareholders or actual controllers of the fund management institution of a publicly offered fund commit the acts provided in the preceding paragraph, or a shareholder no longer meets the statutory conditions, the securities supervision and administration institution of the State Council shall order correction within a time limit and may, in light of the circumstances, order it to transfer the equity of the fund management institution it holds or controls.\nBefore the shareholders or actual controllers provided in the preceding paragraph correct their illegal acts as required and transfer the equity of the fund management institution they hold or control, the securities supervision and administration institution of the State Council may restrict the exercise of shareholders' rights by the shareholders concerned."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where the fund management institution of a publicly offered fund violates laws or regulations, or its internal governance structure, audit monitoring and risk control management do not conform to the provisions, the securities supervision and administration institution of the State Council shall order it to correct within a time limit; where it fails to correct upon expiry of the time limit, or its acts seriously endanger the sound operation of the fund management institution and harm the lawful rights and interests of the holders of fund units, the securities supervision and administration institution of the State Council may, according to the different circumstances, take the following measures against it:\n(a) restricting its business activities and ordering it to suspend part or all of its business;\n(b) restricting the distribution of dividends and restricting the payment of remuneration and provision of welfare to directors, supervisors and senior managers;\n(c) restricting the transfer of inherent property or the creation of other rights over inherent property;\n(d) ordering the replacement of directors, supervisors or senior managers or restricting their rights;\n(e) ordering the shareholders concerned to transfer their equity or restricting the exercise of shareholders' rights by the shareholders concerned.\nAfter rectification, the fund management institution of a publicly offered fund shall submit a report to the securities supervision and administration institution of the State Council. Where the securities supervision and administration institution of the State Council, upon acceptance inspection, considers that the relevant requirements are met, it shall lift the relevant measures taken against it within three days from the date of completion of the acceptance inspection."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the directors, supervisors or senior managers of the fund management institution of a publicly offered fund fail to be diligent and conscientious, resulting in major violations of laws or regulations or major risks in the fund management institution, the securities supervision and administration institution of the State Council may order their replacement."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the fund management institution of a publicly offered fund operates illegally or incurs major risks, seriously endangering the order of the securities market and harming the interests of the holders of fund units, the securities supervision and administration institution of the State Council may take supervisory measures against the fund management institution such as ordering suspension of business for rectification, designating another institution to hold it in custody, taking it over, cancelling its fund management qualification or dissolving it."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "During the period in which the fund management institution of a publicly offered fund is ordered to suspend business for rectification, is lawfully designated for custody, is taken over or is in liquidation, or when major risks arise, with the approval of the securities supervision and administration institution of the State Council, the following measures may be taken against the directors, supervisors, senior managers and other persons directly responsible of the fund management institution:\n(a) notifying the exit administration authorities to prevent them from leaving the country in accordance with the law;\n(b) applying to the judicial authorities to prohibit them from transferring, assigning or otherwise disposing of property, or creating other rights over property."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The duties of the fund management institution of a publicly offered fund shall terminate under any of the following circumstances:\n(a) its fund management qualification is cancelled in accordance with the law;\n(b) it is removed by the general meeting of the holders of fund units;\n(c) it is lawfully dissolved, lawfully revoked or lawfully declared bankrupt;\n(d) other circumstances agreed in the fund contract."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the duties of the fund management institution of a publicly offered fund terminate, the general meeting of the holders of fund units shall elect a new fund management institution within six months; before the new fund management institution is produced, the securities supervision and administration institution of the State Council shall designate a temporary fund management institution.\nWhere the duties of the fund management institution of a publicly offered fund terminate, it shall properly keep the materials on fund management business and promptly go through the formalities for the handover of fund management business, and the new fund management institution or the temporary fund management institution shall promptly take over."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the duties of the fund management institution of a publicly offered fund terminate, it shall, as prescribed, engage an accounting firm to audit the fund property, announce the audit results and report them to the securities supervision and administration institution of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The specific measures for regulating the fund management institutions of non-publicly offered funds shall be formulated by the financial supervision and administration institution of the State Council in accordance with the principles of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Fund Managers"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A fund custodian shall be a commercial bank or other financial institution established in accordance with the law.\nWhere a commercial bank serves as a fund custodian, it shall be approved by the securities supervision and administration institution of the State Council together with the banking supervision and administration institution of the State Council; where another financial institution serves as a fund custodian, it shall be approved by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "To serve as a fund custodian, the following conditions shall be met:\n(a) its net assets and risk control indicators conform to the relevant provisions;\n(b) it has a dedicated fund custody department;\n(c) it has the statutory number of full-time personnel who have obtained fund practice qualifications;\n(d) it has the conditions for the safe custody of fund property;\n(e) it has a safe and efficient clearing and settlement system;\n(f) it has business premises, safety and security facilities and other facilities related to fund custody business that meet the requirements;\n(g) it has a complete internal audit and monitoring system and a risk control system;\n(h) other conditions provided by laws and administrative regulations and prescribed by the securities supervision and administration institution and the banking supervision and administration institution of the State Council with the approval of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The provisions of Article 15, Article 17 and Article 18 of this Law shall apply to the senior managers and other practitioners of the dedicated fund custody department of a fund custodian.\nThe provisions of Article 16 of this Law shall apply to the senior managers of the dedicated fund custody department of a fund custodian."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A fund custodian and a fund management institution shall not be the same institution, and shall not make capital contributions to or hold shares in each other."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A fund custodian shall perform the following duties:\n(a) safely keeping the fund property;\n(b) opening, as prescribed, capital accounts and securities accounts for the fund property;\n(c) opening separate accounts for the different fund properties under its custody to ensure the integrity and independence of the fund property;\n(d) keeping the records, account books, statements and other relevant materials of fund custody activities;\n(e) promptly handling clearing and settlement matters in accordance with the provisions of the fund contract and according to the investment instructions of the fund management institution;\n(f) handling information disclosure matters relating to fund custody activities;\n(g) issuing opinions on the fund financial and accounting reports and the interim and annual fund reports;\n(h) reviewing and examining the net asset value of the fund and the subscription and redemption prices of fund units calculated by the fund management institution;\n(i) convening the general meeting of the holders of fund units as prescribed;\n(j) supervising the investment operations of the fund management institution as prescribed;\n(k) other duties prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a fund custodian finds that the investment instructions of the fund management institution violate laws, administrative regulations or other relevant provisions, or violate the provisions of the fund contract, it shall refuse to execute them, immediately notify the fund management institution and promptly report to the securities supervision and administration institution of the State Council.\nWhere a fund custodian finds that investment instructions which have already taken effect according to the trading procedures violate laws, administrative regulations or other relevant provisions, or violate the provisions of the fund contract, it shall immediately notify the fund management institution and promptly report to the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The provisions of Article 20 and Article 22 of this Law shall apply to fund custodians."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a fund custodian no longer meets the conditions provided in this Law, or fails to be diligent and conscientious and commits major errors in performing the duties provided in this Law, the securities supervision and administration institution and the banking supervision and administration institution of the State Council shall order it to correct; where it fails to correct upon expiry of the time limit, or its acts seriously affect the sound operation of the funds under its custody and harm the interests of the holders of fund units, the securities supervision and administration institution and the banking supervision and administration institution of the State Council may, according to the different circumstances, take the following measures against it:\n(a) restricting its business activities and ordering it to suspend the handling of new fund custody business;\n(b) ordering the replacement of the senior managers of the dedicated fund custody department who are responsible.\nAfter rectification, the fund custodian shall submit a report to the securities supervision and administration institution and the banking supervision and administration institution of the State Council; where, upon acceptance inspection, the relevant requirements are met, the relevant measures taken against it shall be lifted within three days from the date of completion of the acceptance inspection."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The securities supervision and administration institution and the banking supervision and administration institution of the State Council may cancel the fund custody qualification of a fund custodian under any of the following circumstances:\n(a) it has not carried out fund custody business for three consecutive years;\n(b) it violates the provisions of this Law and the circumstances are serious;\n(c) other circumstances provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The duties of a fund custodian shall terminate under any of the following circumstances:\n(a) its fund custody qualification is cancelled in accordance with the law;\n(b) it is removed by the general meeting of the holders of fund units;\n(c) it is lawfully dissolved, lawfully revoked or lawfully declared bankrupt;\n(d) other circumstances agreed in the fund contract."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where the duties of a fund custodian terminate, the general meeting of the holders of fund units shall elect a new fund custodian within six months; before the new fund custodian is produced, the securities supervision and administration institution of the State Council shall designate a temporary fund custodian.\nWhere the duties of a fund custodian terminate, it shall properly keep the fund property and the materials on fund custody business and promptly go through the formalities for the handover of the fund property and fund custody business, and the new fund custodian or the temporary fund custodian shall promptly take over."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the duties of a fund custodian terminate, it shall, as prescribed, engage an accounting firm to audit the fund property, announce the audit results and report them to the securities supervision and administration institution of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Fund Custodians"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The fund contract shall agree on the mode of operation of the fund."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Modes of Operation and Organisation of Funds"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The mode of operation of a fund may be closed-end, open-end or other modes.\nA fund adopting the closed-end mode of operation (hereinafter referred to as a closed-end fund) means a fund the total amount of whose fund units remains fixed during the term of the fund contract and whose holders of fund units may not apply for redemption; a fund adopting the open-end mode of operation (hereinafter referred to as an open-end fund) means a fund the total amount of whose fund units is not fixed and whose fund units may be subscribed for or redeemed at the time and place agreed in the fund contract.\nThe measures for the offering, trading, subscription for and redemption of the fund units of funds adopting other modes of operation shall be separately prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Modes of Operation and Organisation of Funds"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The holders of fund units shall enjoy the following rights:\n(a) sharing in the returns of the fund property;\n(b) participating in the distribution of the residual fund property after liquidation;\n(c) lawfully transferring or applying for the redemption of the fund units they hold;\n(d) requiring, as prescribed, the convening of the general meeting of the holders of fund units or convening the general meeting of the holders of fund units;\n(e) exercising the right to vote on the matters deliberated by the general meeting of the holders of fund units;\n(f) instituting litigation in accordance with the law against acts of fund management institutions, fund custodians or fund service institutions that harm their lawful rights and interests;\n(g) other rights agreed in the fund contract.\nThe holders of fund units of publicly offered funds shall have the right to consult or copy the publicly disclosed fund information materials; the holders of fund units of non-publicly offered funds shall have the right to consult the financial and accounting account books and other financial materials of the fund in respect of circumstances involving their own interests."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Modes of Operation and Organisation of Funds"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The general meeting of the holders of fund units shall be composed of all the holders of fund units and shall exercise the following functions and powers:\n(a) deciding on the expansion of the fund or the extension of the term of the fund contract;\n(b) deciding on the amendment of the important contents of the fund contract or the early termination of the fund contract;\n(c) deciding on the replacement of the fund management institution or the fund custodian;\n(d) deciding on the adjustment of the remuneration standards of the fund management institution and the fund custodian;\n(e) other functions and powers agreed in the fund contract."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Modes of Operation and Organisation of Funds"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "As agreed in the fund contract, the general meeting of the holders of fund units may establish a standing body to exercise the following functions and powers:\n(a) convening the general meeting of the holders of fund units;\n(b) proposing the replacement of the fund management institution or the fund custodian;\n(c) supervising the investment operations of the fund management institution and the custody activities of the fund custodian;\n(d) proposing the adjustment of the remuneration standards of the fund management institution and the fund custodian;\n(e) other functions and powers agreed in the fund contract.\nThe standing body provided in the preceding paragraph shall be composed of persons elected by the general meeting of the holders of fund units; its rules of procedure shall be agreed in the fund contract."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Modes of Operation and Organisation of Funds"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The general meeting of the holders of fund units and its standing body shall not directly participate in or interfere with the investment management activities of the fund."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Modes of Operation and Organisation of Funds"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Public offering of a fund shall be registered with the securities supervision and administration institution of the State Council. Funds shall not be raised publicly or in disguised form publicly without registration.\nThe public offering of funds mentioned in the preceding paragraph includes raising funds from unspecified objects, raising funds from specified objects totalling more than 200 persons, and other circumstances provided by laws and administrative regulations.\nPublicly offered funds shall be managed by a fund management institution and held in custody by a fund custodian."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "To register a publicly offered fund, the proposed fund management institution shall submit the following documents to the securities supervision and administration institution of the State Council:\n(a) an application report;\n(b) the draft fund contract;\n(c) the draft fund custody agreement;\n(d) the draft prospectus;\n(e) the legal opinion issued by a law firm;\n(f) other documents required to be submitted as prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The fund contract of a publicly offered fund shall include the following:\n(a) the purpose of raising the fund and the name of the fund;\n(b) the names and domiciles of the fund management institution and the fund custodian;\n(c) the mode of operation of the fund;\n(d) the total amount of fund units and the term of the fund contract in the case of a closed-end fund, or the minimum total amount of units to be raised in the case of an open-end fund;\n(e) the principles for determining the offering date, price and fees of fund units;\n(f) the rights and obligations of the holders of fund units, the fund management institution and the fund custodian;\n(g) the procedures and rules for the convening, deliberation and voting of the general meeting of the holders of fund units;\n(h) the procedures, time, place and fee calculation methods for the offering, trading, subscription for and redemption of fund units, and the time and method for paying redemption proceeds;\n(i) the principles and implementation methods of fund return distribution;\n(j) the methods and proportions of the accrual and payment of the remuneration of the fund management institution and the fund custodian;\n(k) the methods of accrual and payment of other expenses relating to the management and use of the fund property;\n(l) the investment direction and investment restrictions of the fund property;\n(m) the calculation method and announcement method of the net asset value of the fund;\n(n) the handling method where the fund raising does not reach the statutory requirements;\n(o) the grounds and procedures for the rescission and termination of the fund contract and the method of liquidating the fund property;\n(p) the method of dispute resolution;\n(q) other matters agreed by the parties."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The prospectus of a publicly offered fund shall include the following:\n(a) the name and date of the document approving the registration of the fund raising application;\n(b) the basic information of the fund management institution and the fund custodian;\n(c) a summary of the contents of the fund contract and the fund custody agreement;\n(d) the offering date, price, fees and time limit of the fund units;\n(e) the offering method of the fund units, the offering institutions and the names of the registration institutions;\n(f) the names and domiciles of the law firm issuing the legal opinion and the accounting firm auditing the fund property;\n(g) the methods and proportions of the accrual and payment of the remuneration of the fund management institution and the fund custodian and other relevant fees;\n(h) the content of the risk warning;\n(i) other contents prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council shall, within six months from the date of acceptance of an application for registration of the raising of a publicly offered fund, conduct examination in accordance with laws, administrative regulations and the provisions of the securities supervision and administration institution of the State Council, make a decision on registration or non-registration and notify the applicant; where registration is not granted, the reasons shall be explained."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Fund units may be offered only after the fund raising application has been registered.\nThe offering of fund units shall be handled by the fund management institution or the fund sales institution entrusted by it."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The fund management institution shall publish the prospectus, the fund contract and other relevant documents three days before the offering of fund units.\nThe documents provided in the preceding paragraph shall be truthful, accurate and complete.\nPublicity and promotion activities for fund raising shall conform to the provisions of the relevant laws and administrative regulations and shall not involve the acts listed in Article 77 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The fund management institution shall carry out fund raising within six months from the date of receipt of the document approving registration. Where fund raising is commenced after the six-month period and no substantive change has occurred in the registered matters, it shall report to the securities supervision and administration institution of the State Council for the record; where a substantive change has occurred, it shall submit a new registration application to the securities supervision and administration institution of the State Council.\nFund raising shall not exceed the fund raising period approved for registration by the securities supervision and administration institution of the State Council. The fund raising period shall be counted from the date of offering of fund units."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, upon expiry of the fund raising period, the total amount of fund units raised for a closed-end fund reaches 80 per cent or more of the approved registered scale, the total amount of fund units raised for an open-end fund exceeds the approved registered minimum total amount of units to be raised, and the number of holders of fund units conforms to the provisions of the securities supervision and administration institution of the State Council, the fund management institution shall, within ten days from the date of expiry of the raising period, engage a statutory capital verification institution to verify the capital, and within ten days from the date of receipt of the capital verification report, submit the capital verification report to the securities supervision and administration institution of the State Council, go through the formalities for fund recordal and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The funds raised during the fund raising period shall be deposited in a special account, and no person may use them before the fund raising is completed."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "When an investor pays the subscription money for fund units, the fund contract shall be established; the fund contract shall take effect when the fund management institution goes through the formalities for fund recordal with the securities supervision and administration institution of the State Council in accordance with the provisions of Article 58 of this Law.\nWhere, upon expiry of the fund raising period, the conditions provided in Article 58 of this Law cannot be met, the fund management institution shall bear the following responsibilities:\n(a) bearing the debts and expenses arising from the raising with its inherent property;\n(b) returning the money already paid by investors within thirty days after the expiry of the fund raising period, together with interest thereon at the bank deposit rate for the same period."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Public Offering of Funds"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "To apply for the listing and trading of fund units, the fund management institution shall file an application with the stock exchange; where the stock exchange approves upon examination in accordance with the law, the two parties shall conclude a listing agreement."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The listing and trading of fund units shall meet the following conditions:\n(a) the raising of the fund conforms to the provisions of this Law;\n(b) the term of the fund contract is five years or more;\n(c) the amount raised for the fund is not less than RMB 200 million;\n(d) there are not fewer than 1,000 holders of fund units;\n(e) other conditions provided by the rules for the listing and trading of fund units."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The rules for the listing and trading of fund units shall be formulated by the stock exchange and reported to the securities supervision and administration institution of the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "After fund units are listed and traded, under any of the following circumstances, the stock exchange shall terminate their listing and trading and report to the securities supervision and administration institution of the State Council for the record:\n(a) they no longer meet the conditions for listing and trading provided in Article 62 of this Law;\n(b) the term of the fund contract expires;\n(c) the general meeting of the holders of fund units decides to terminate the listing and trading in advance;\n(d) other circumstances of termination of listing and trading agreed in the fund contract or provided by the rules for the listing and trading of fund units."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The subscription for, redemption of and registration of the fund units of an open-end fund shall be handled by the fund management institution or the fund service institution entrusted by it."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The fund management institution shall handle the subscription and redemption of fund units on each working day, unless otherwise agreed in the fund contract.\nThe subscription shall be established when an investor pays the subscription money; the subscription shall take effect when the fund unit registration institution confirms the fund units.\nThe redemption shall be established when the holder of fund units submits a redemption application; the redemption shall take effect when the fund unit registration institution confirms the redemption."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The fund management institution shall pay the redemption proceeds on time, except under the following circumstances:\n(a) the fund management institution is unable to pay the redemption proceeds due to force majeure;\n(b) the securities trading venue decides in accordance with the law to suspend trading temporarily, rendering the fund management institution unable to calculate the net asset value of the fund for the day;\n(c) other special circumstances agreed in the fund contract.\nWhere any of the aforesaid circumstances occurs, the fund management institution shall report to the securities supervision and administration institution of the State Council for the record on the same day.\nAfter the circumstances provided in Paragraph 1 of this Article disappear, the fund management institution shall promptly pay the redemption proceeds."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "An open-end fund shall maintain sufficient cash or government bonds to meet the redemption proceeds payable to the holders of fund units. The specific proportion of cash or government bonds to be maintained in the fund property shall be prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The subscription and redemption prices of fund units shall be calculated on the basis of the net value per fund unit on the date of subscription or redemption, plus or minus the relevant fees."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where an error occurs in the valuation of the net value per fund unit, the fund management institution shall immediately correct it and take reasonable measures to prevent further expansion of losses. Where the valuation error reaches 0.5 per cent of the net value per fund unit, the fund management institution shall make an announcement and report to the securities supervision and administration institution of the State Council for the record.\nWhere losses are caused to the holders of fund units by an error in the valuation of the net value per fund unit, the holders of fund units shall have the right to require the fund management institution and the fund custodian to make compensation."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Trading, Subscription and Redemption of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Unless otherwise provided by the securities supervision and administration institution of the State Council, a fund management institution using the fund property for securities investment shall adopt the asset portfolio approach.\nThe specific form of the asset portfolio and the investment proportions shall be agreed in the fund contract in accordance with this Law and the provisions of the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Investment and Information Disclosure of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The fund property shall be used for the following investments:\n(a) listed stocks and bonds;\n(b) other securities and their derivatives prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Investment and Information Disclosure of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The fund property shall not be used for the following investments or activities:\n(a) underwriting securities;\n(b) providing loans to others or providing guarantees in violation of the provisions;\n(c) engaging in investments involving unlimited liability;\n(d) buying and selling the units of other funds, unless otherwise provided by the securities supervision and administration institution of the State Council;\n(e) making capital contributions to the fund management institution or the fund custodian;\n(f) engaging in insider trading, manipulating securities trading prices or other improper securities trading activities;\n(g) other activities prohibited by laws and administrative regulations and prescribed by the securities supervision and administration institution of the State Council.\nWhere the fund property is used to buy or sell securities issued by the fund management institution, the fund custodian, their controlling shareholders or actual controllers, or companies with which they have other major interests, or securities underwritten during the underwriting period, or to engage in other major related-party transactions, the principle of giving priority to the interests of the holders of fund units shall be followed, conflicts of interest shall be prevented, the provisions of the securities supervision and administration institution of the State Council shall be conformed to and the obligation of information disclosure shall be performed."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Investment and Information Disclosure of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Fund management institutions, fund custodians and other persons obligated to disclose fund information shall disclose fund information in accordance with the law and ensure the truthfulness, accuracy and completeness of the information disclosed."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Investment and Information Disclosure of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Persons obligated to disclose fund information shall ensure that the fund information that should be disclosed is disclosed within the time prescribed by the securities supervision and administration institution of the State Council, and ensure that investors may consult or copy the publicly disclosed information materials at the time and in the manner agreed in the fund contract."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Investment and Information Disclosure of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The publicly disclosed fund information includes:\n(a) the fund prospectus, the fund contract and the fund custody agreement;\n(b) the fund raising situation;\n(c) the announcement of the listing and trading of fund units;\n(d) the net asset value of the fund and the net value per fund unit;\n(e) the subscription and redemption prices of fund units;\n(f) the quarterly report on the asset portfolio of the fund property, the financial and accounting reports and the interim and annual fund reports;\n(g) interim reports;\n(h) resolutions of the general meeting of the holders of fund units;\n(i) major personnel changes in the fund management institution or the dedicated fund custody department of the fund custodian;\n(j) litigation or arbitration involving the fund property, fund management business or fund custody business;\n(k) other information that should be disclosed as prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Investment and Information Disclosure of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "In publicly disclosing fund information, the following acts shall be prohibited:\n(a) false records, misleading statements or major omissions;\n(b) forecasting securities investment performance;\n(c) promising returns or undertaking losses in violation of the provisions;\n(d) disparaging other fund management institutions, fund custodians or fund sales institutions;\n(e) other acts prohibited by laws and administrative regulations and prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Investment and Information Disclosure of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "As agreed in the fund contract or decided by the general meeting of the holders of fund units, a fund may change its mode of operation or merge with another fund."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Modification and Termination of Fund Contracts of Publicly Offered Funds and Liquidation of Fund Property"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The expansion of a closed-end fund or the extension of the term of a fund contract shall meet the following conditions and be reported to the securities supervision and administration institution of the State Council for the record:\n(a) the fund has good operating performance;\n(b) the fund management institution has not been subject to administrative or criminal punishment for violations of laws or regulations in the recent two years;\n(c) a resolution of the general meeting of the holders of fund units has been adopted;\n(d) other conditions provided in this Law."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Modification and Termination of Fund Contracts of Publicly Offered Funds and Liquidation of Fund Property"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The fund contract shall terminate under any of the following circumstances:\n(a) the term of the fund contract expires without extension;\n(b) the general meeting of the holders of fund units decides to terminate it;\n(c) the duties of the fund management institution and the fund custodian terminate and no new fund management institution or new fund custodian takes over within six months;\n(d) other circumstances agreed in the fund contract."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Modification and Termination of Fund Contracts of Publicly Offered Funds and Liquidation of Fund Property"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "When the fund contract terminates, the fund management institution shall organise a liquidation group to liquidate the fund property.\nThe liquidation group shall be composed of the fund management institution, the fund custodian and the relevant intermediary service institutions.\nThe liquidation report made by the liquidation group shall, after being audited by an accounting firm and after a legal opinion is issued by a law firm, be reported to the securities supervision and administration institution of the State Council for the record and announced."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Modification and Termination of Fund Contracts of Publicly Offered Funds and Liquidation of Fund Property"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The residual fund property after liquidation shall be distributed in proportion to the units held by the holders of fund units."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Modification and Termination of Fund Contracts of Publicly Offered Funds and Liquidation of Fund Property"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The general meeting of the holders of fund units shall be convened by the fund management institution. Where the general meeting of the holders of fund units has established a standing body, it shall be convened by that standing body; where that standing body does not convene it, it shall be convened by the fund management institution. Where the fund management institution fails to convene it as prescribed or is unable to convene it, it shall be convened by the fund custodian.\nWhere the holders of fund units representing 10 per cent or more of the fund units request the convening of the general meeting of the holders of fund units on the same matter and neither the standing body of the general meeting of the holders of fund units nor the fund management institution nor the fund custodian convenes it, the holders of fund units representing 10 per cent or more of the fund units shall have the right to convene it on their own initiative and report to the securities supervision and administration institution of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IX Exercise of the Rights of Holders of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "To convene the general meeting of the holders of fund units, the convener shall announce the time, form, matters for deliberation, rules of procedure and voting method of the general meeting of the holders of fund units at least thirty days in advance.\nThe general meeting of the holders of fund units shall not vote on matters not announced."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IX Exercise of the Rights of Holders of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The general meeting of the holders of fund units may be held on site or by correspondence or other means.\nEach fund unit shall carry one vote, and the holder of fund units may entrust an agent to attend the general meeting of the holders of fund units and exercise the right to vote on its behalf."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter IX Exercise of the Rights of Holders of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The general meeting of the holders of fund units may be held only when it is attended by holders representing more than one half of the fund units.\nWhere the fund units held by the holders attending the general meeting of the holders of fund units are less than the proportion provided in the preceding paragraph, the convener may, more than three months but within six months after the time of the general meeting of the holders of fund units originally announced, reconvene the general meeting of the holders of fund units on the originally scheduled matters for deliberation. The reconvened general meeting of the holders of fund units may be held only when it is attended by holders representing more than one third of the fund units.\nDecisions of the general meeting of the holders of fund units on the matters for deliberation shall be adopted by more than one half of the voting rights held by the holders of fund units attending the meeting; however, the change of the mode of operation of the fund, the replacement of the fund management institution or the fund custodian, the early termination of the fund contract and the merger with another fund shall be adopted by more than two thirds of the voting rights held by the holders of fund units attending the meeting.\nThe matters decided by the general meeting of the holders of fund units shall be reported to the securities supervision and administration institution of the State Council for the record in accordance with the law and announced."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter IX Exercise of the Rights of Holders of Fund Shares of Publicly Offered Funds"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Non-publicly offered funds shall be raised from qualified investors, and the cumulative number of qualified investors shall not exceed 200.\nThe qualified investors mentioned in the preceding paragraph refer to units and individuals that have reached the prescribed asset scale or income level, possess the corresponding risk identification capacity and risk bearing capacity, and whose subscription amount for fund units is not less than the prescribed limit.\nThe specific standards for qualified investors shall be prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Unless otherwise agreed in the fund contract, a non-publicly offered fund shall be held in custody by a fund custodian."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "To serve as the fund management institution of a non-publicly offered fund, it shall go through the registration formalities with the fund industry association as prescribed and submit its basic information."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Without registration, no unit or individual may use the words 'fund' or 'fund management' or similar names to engage in securities investment activities, unless otherwise provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Non-publicly offered funds shall not raise funds from units or individuals other than qualified investors, and shall not publicise or promote to unspecified objects through newspapers, radio stations, television stations, the Internet and other public media, or through lectures, reporting meetings, analysis meetings and other means."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Non-publicly offered funds shall be governed by a fund contract, which shall be concluded. The fund contract shall include the following:\n(a) the rights and obligations of the holders of fund units, the fund management institution and the fund custodian;\n(b) the mode of operation of the fund;\n(c) the method, amount and subscription period of the capital contributions to the fund;\n(d) the investment scope, investment strategy and investment restrictions of the fund;\n(e) the principles and implementation methods of fund return distribution;\n(f) the relevant expenses borne by the fund;\n(g) the content and method of provision of fund information;\n(h) the procedures and methods for the subscription, redemption or transfer of fund units;\n(i) the grounds and procedures for the amendment, rescission and termination of the fund contract;\n(j) the method of liquidating the fund property;\n(k) other matters agreed by the parties.\nWhere the holder of fund units transfers fund units, it shall conform to the provisions of Article 87 and Article 91 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "As agreed in the fund contract, some of the holders of fund units of a non-publicly offered fund may serve as the fund management institution to take charge of the investment management activities of the fund and bear unlimited joint and several liability for the debts of the fund property where the fund property is insufficient to pay off its debts.\nThe fund contract of the non-publicly offered fund provided in the preceding paragraph shall also state:\n(a) the names or titles and domiciles of the holder of fund units bearing unlimited joint and several liability and the other holders of fund units;\n(b) the conditions for the removal and the replacement procedure of the holder of fund units bearing unlimited joint and several liability;\n(c) the conditions and procedures for the addition and withdrawal of holders of fund units and the relevant liabilities;\n(d) the procedure for conversion between the holder of fund units bearing unlimited joint and several liability and the other holders of fund units."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "After the raising of a non-publicly offered fund is completed, the fund management institution shall report to the fund industry association for the record. For funds whose total amount raised or number of holders of fund units reaches the prescribed standard, the fund industry association shall report to the securities supervision and administration institution of the State Council.\nThe securities investment of the property of a non-publicly offered fund includes the buying and selling of the stocks, bonds and fund units of publicly issued joint stock companies and other securities and their derivatives prescribed by the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Fund management institutions and fund custodians shall, in accordance with the provisions of the fund contract, provide fund information to the holders of fund units."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a fund management institution exclusively engaged in the management of non-publicly offered funds has shareholders, senior managers, operating term, scale of fund assets under management and the like that meet the prescribed conditions, it may, upon approval by the securities supervision and administration institution of the State Council, engage in the business of managing publicly offered funds."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter X Non-publicly Offered Funds"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Institutions engaging in fund service business such as the sale of publicly offered funds, sale payment, unit registration, valuation, investment advisory, evaluation and information technology system services shall register or report for the record in accordance with the provisions of the securities supervision and administration institution of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Fund sales institutions shall fully disclose investment risks to investors and sell fund products of different risk levels according to the risk bearing capacity of investors."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Fund sale payment institutions shall, as prescribed, handle the transfer of fund sale settlement funds and ensure the safe and timely transfer of fund sale settlement funds."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Fund sale settlement funds and fund units shall be independent of the inherent property of fund sales institutions, fund sale payment institutions or fund unit registration institutions. Where a fund sales institution, fund sale payment institution or fund unit registration institution goes bankrupt or is liquidated, the fund sale settlement funds and fund units shall not be included in its bankruptcy property or liquidation property. The fund sale settlement funds and fund units shall not be sealed up, frozen, deducted or subject to compulsory enforcement except for debts of the investors themselves or other circumstances provided by laws.\nFund sales institutions, fund sale payment institutions and fund unit registration institutions shall ensure the safety and independence of fund sale settlement funds and fund units, and no unit or individual may misappropriate fund sale settlement funds or fund units in any form."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "A fund management institution may entrust a fund service institution with matters such as unit registration, accounting, valuation and investment advisory services for the fund, and a fund custodian may entrust a fund service institution with matters such as accounting, valuation and review for the fund, but the liability that the fund management institution and the fund custodian should bear in accordance with the law shall not be exempted by reason of the entrustment."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The data registered by a fund unit registration institution in electronic media shall be the basis for determining the attribution of the rights of the holders of fund units. Where a holder of fund units pledges its fund units, the pledge shall be created when the fund unit registration institution completes the pledge registration.\nA fund unit registration institution shall properly keep the registration data and back up data such as the names, identity information and unit details of the holders of fund units to an institution recognised by the securities supervision and administration institution of the State Council. The retention period shall not be less than twenty years from the date of closure of the fund account.\nA fund unit registration institution shall ensure that the registration data are truthful, accurate and complete, and shall not conceal, forge, tamper with or destroy them."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Fund investment advisory institutions and their practitioners providing fund investment advisory services shall have a reasonable basis, truthfully state their service capacity and operating performance, shall not promise or guarantee investment returns in any form, and shall not harm the lawful rights and interests of the clients served."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "Fund evaluation institutions and their practitioners shall be objective and impartial, carry out fund evaluation business in accordance with the business rules formulated in accordance with the law, refrain from misleading investors and prevent possible conflicts of interest."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The information technology systems of fund management institutions, fund custodians and fund service institutions shall meet the prescribed requirements. The securities supervision and administration institution of the State Council may require information technology system service institutions to provide the relevant materials on such information technology systems."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where law firms and accounting firms, entrusted by fund management institutions or fund custodians, issue documents such as legal opinions, audit reports and internal control evaluation reports for the relevant fund business activities, they shall be diligent and conscientious and shall verify and validate the truthfulness, accuracy and completeness of the contents of the documents and materials on which they rely. Where the documents they prepare and issue contain false records, misleading statements or major omissions and cause losses to the property of others, they shall bear joint and several liability for compensation together with the client."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Fund service institutions shall be diligent and conscientious, devoted to their duties, establish risk management systems such as emergency systems and disaster backup systems, and shall not disclose undisclosed information relating to the holders of fund units and fund investment operations."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter XI Fund Service Institutions"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The fund industry association is a self-disciplinary organisation of the securities investment fund industry and a legal person of a social group.\nFund management institutions and fund custodians shall join the fund industry association; fund service institutions may join the fund industry association."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter XII Fund Industry Association"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The authority of the fund industry association shall be the general meeting of members composed of all members.\nThe fund industry association shall have a board of directors. The members of the board of directors shall be elected in accordance with the provisions of the articles of association."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter XII Fund Industry Association"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "The articles of association of the fund industry association shall be formulated by the general meeting of members and reported to the securities supervision and administration institution of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter XII Fund Industry Association"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The fund industry association shall perform the following duties:\n(a) educating and organising members to comply with the laws and administrative regulations on securities investment and safeguarding the lawful rights and interests of investors;\n(b) safeguarding the lawful rights and interests of members in accordance with the law and reflecting the suggestions and demands of members;\n(c) formulating and implementing industry self-disciplinary rules, supervising and inspecting the practising conduct of members and their practitioners, and giving disciplinary sanctions as prescribed to those violating the self-disciplinary rules and the articles of association;\n(d) formulating industry practice standards and business norms and organising the practice examination, qualification management and business training of fund practitioners;\n(e) providing services to members, organising industry exchanges, promoting industry innovation and carrying out industry publicity and investor education activities;\n(f) mediating fund business disputes between members and between members and clients;\n(g) handling the registration and recordal of non-publicly offered funds in accordance with the law;\n(h) other duties provided in the articles of association."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter XII Fund Industry Association"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "The securities supervision and administration institution of the State Council shall perform the following duties in accordance with the law:\n(a) formulating the rules and regulations on the supervision and administration of securities investment fund activities and exercising the powers of approval, verification or registration;\n(b) handling fund recordal;\n(c) exercising supervision and administration over the securities investment fund activities of fund management institutions, fund custodians and other institutions, investigating and dealing with illegal acts and making announcements thereof;\n(d) formulating the qualification standards and codes of conduct for fund practitioners and supervising their implementation;\n(e) supervising and inspecting the disclosure of fund information;\n(f) guiding and supervising the activities of the fund industry association;\n(g) other duties provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "When performing its duties in accordance with the law, the securities supervision and administration institution of the State Council shall have the power to take the following measures:\n(a) conducting on-site inspection of fund management institutions, fund custodians and fund service institutions and requiring them to submit the relevant business materials;\n(b) entering the premises where suspected illegal acts occur to investigate and collect evidence;\n(c) questioning the parties and the units and individuals related to the matter under investigation and requiring them to give explanations on matters related to the matter under investigation;\n(d) consulting and copying materials such as property right registration and communication records related to the matter under investigation;\n(e) consulting and copying the securities trading records, registration and transfer records, financial and accounting materials and other relevant documents and materials of the parties and the units and individuals related to the matter under investigation; sealing up documents and materials that may be transferred, concealed or destroyed;\n(f) inquiring into the capital accounts, securities accounts and bank accounts of the parties and the units and individuals related to the matter under investigation; with the approval of the principal person in charge of the securities supervision and administration institution of the State Council, freezing or sealing up where there is evidence proving that funds, securities and other property involved in the case have been or may be transferred or concealed, or that important evidence has been concealed, forged or destroyed;\n(g) with the approval of the principal person in charge of the securities supervision and administration institution of the State Council, restricting the securities trading of the parties to the matter under investigation when investigating major securities violations such as the manipulation of the securities market and insider trading, provided that the restriction shall not exceed fifteen trading days; where the case is complex, it may be extended by fifteen trading days."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "When the staff of the securities supervision and administration institution of the State Council perform their duties in accordance with the law and conduct investigation or inspection, there shall be not fewer than two persons and they shall produce lawful certificates; they shall be obliged to keep confidential the trade secrets learned in the investigation or inspection."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "The staff of the securities supervision and administration institution of the State Council shall be loyal to their duties, act in accordance with the law, be impartial and honest, accept supervision and shall not use their posts to seek personal gain."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "When the securities supervision and administration institution of the State Council performs its duties in accordance with the law, the units and individuals under investigation or inspection shall cooperate and truthfully provide the relevant documents and materials, and shall not refuse, obstruct or conceal."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Where the securities supervision and administration institution of the State Council, in performing its duties in accordance with the law, finds that an illegal act is suspected of constituting a crime, it shall transfer the case to the judicial organ for handling."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The staff of the securities supervision and administration institution of the State Council shall not hold posts in the institutions under supervision during their term of office or, after leaving office, within the time limit provided in the Civil Servant Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter XIII Supervision and Administration"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person establishes a fund management company without approval or engages in the business of managing publicly offered funds without verification, the securities supervision and administration institution shall ban it or order it to correct, confiscate the illegal gains and impose a fine of not less than one time but not more than five times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 1 million, a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed concurrently. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently.\nWhere, in violation of the provisions of this Law, a fund management company changes without authorisation a shareholder holding 5 per cent or more of its equity, the actual controller or other major matters, it shall be ordered to correct, its illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 500,000, a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed concurrently. The persons directly in charge shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where the directors, supervisors, senior managers and other practitioners of a fund management institution, or the senior managers and other practitioners of the dedicated fund custody department of a fund custodian, fail to report in accordance with the provisions of Paragraph 1 of Article 17 of this Law, they shall be ordered to correct and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed.\nWhere a fund management institution or fund custodian violates the provisions of Paragraph 2 of Article 17 of this Law, it shall be ordered to correct and a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed; the persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be suspended or revoked, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where the directors, supervisors, senior managers and other practitioners of a fund management institution, or the senior managers and other practitioners of the dedicated fund custody department of a fund custodian, violate the provisions of Article 18 of this Law, they shall be ordered to correct, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 1 million, a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed concurrently; where the circumstances are serious, their fund practice qualifications shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where a fund management institution or fund custodian violates the provisions of this Law and fails to manage the fund property separately or keep it in separate accounts, it shall be ordered to correct and a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed; the persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be suspended or revoked, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where a fund management institution or fund custodian or its directors, supervisors, senior managers and other practitioners commit any of the acts listed in Article 20 of this Law, they shall be ordered to correct, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 1 million, a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed concurrently; where a fund management institution or fund custodian commits the aforesaid acts, the persons directly in charge and other persons directly responsible shall also be given a warning, their fund practice qualifications shall be suspended or revoked, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently.\nThe property and returns obtained by a fund management institution or fund custodian or its directors, supervisors, senior managers and other practitioners through misappropriating or embezzling the fund property shall be included in the fund property, unless otherwise provided by laws and administrative regulations, in which case those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where the shareholders or actual controllers of a fund management institution violate the provisions of Article 23 of this Law, they shall be ordered to correct, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 1 million, a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed concurrently; the persons directly in charge and other persons directly responsible shall be given a warning, their fund or securities practice qualifications shall be suspended or revoked, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where a person engages in fund custody business without verification, it shall be ordered to stop, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 1 million, a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed concurrently; the persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a fund management institution and a fund custodian make capital contributions to or hold shares in each other, they shall be ordered to correct and may be imposed a fine of not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person publicly offers or offers in disguised form a fund without authorisation, it shall be ordered to stop, the funds raised and interest thereon at the bank deposit rate for the same period shall be returned, the illegal gains shall be confiscated and a fine of not less than 1 per cent but not more than 5 per cent of the amount raised shall be imposed. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where a person, in violation of the provisions of Article 59 of this Law, uses the funds raised, it shall be ordered to return them, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 500,000, a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed concurrently; the persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where a fund management institution or fund custodian commits any of the acts listed in Items (a) to (e) and (g) of Paragraph 1 of Article 73 of this Law, or violates the provisions of Paragraph 2 of Article 73 of this Law, it shall be ordered to correct and a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed; the persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be suspended or revoked, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently.\nWhere a fund management institution or fund custodian commits the acts provided in the preceding paragraph and thereby obtains property and returns through the use of the fund property, such property and returns shall be included in the fund property, unless otherwise provided by laws and administrative regulations, in which case those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Where a fund management institution or fund custodian commits the act provided in Item (f) of Paragraph 1 of Article 73 of this Law, in addition to being punished in accordance with the relevant provisions of the Securities Law of the People's Republic of China, the fund practice qualifications of the persons directly in charge and other persons directly responsible shall be suspended or revoked."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where a person obligated to disclose fund information fails to disclose fund information in accordance with the law, or the information disclosed contains false records, misleading statements or major omissions, it shall be ordered to correct, the illegal gains shall be confiscated and a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed; the persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be suspended or revoked, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where a fund management institution or fund custodian fails to convene the general meeting of the holders of fund units as prescribed, it shall be ordered to correct and may be imposed a fine of not more than RMB 50,000; the persons directly in charge and other persons directly responsible shall be given a warning and their fund practice qualifications shall be suspended or revoked."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person uses the words 'fund' or 'fund management' or similar names to engage in securities investment activities without registration, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 1 million, a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed concurrently. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the fund management institution fails to report for the record after the raising of a non-publicly offered fund is completed, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person raises funds non-publicly from units or individuals other than qualified investors or transfers fund units to them, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 1 million, a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed concurrently. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person engages in the fund service business of publicly offered funds without authorisation, it shall be ordered to correct, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 300,000, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed concurrently. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Where a fund sales institution fails to fully disclose investment risks to investors and misleads them into purchasing fund products that are incompatible with their risk bearing capacity, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed; where the circumstances are serious, it shall be ordered to stop its fund service business. The persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be revoked, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Where a fund sale payment institution fails to transfer fund sale settlement funds as prescribed, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed; where the circumstances are serious, it shall be ordered to stop its fund service business. The persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be revoked, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "Where a person misappropriates fund sale settlement funds or fund units, it shall be ordered to correct, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than RMB 1 million, a fine of not less than RMB 100,000 but not more than RMB 1 million shall be imposed concurrently. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where a fund unit registration institution fails to properly keep or back up the fund unit registration data, it shall be ordered to correct, be given a warning and be imposed a fine of not less than RMB 100,000 but not more than RMB 300,000; where the circumstances are serious, it shall be ordered to stop its fund service business. The persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be revoked, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently.\nWhere a fund unit registration institution conceals, forges, tampers with or destroys fund unit registration data, it shall be ordered to correct, be imposed a fine of not less than RMB 100,000 but not more than RMB 1 million, and be ordered to stop its fund service business. The persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be revoked, and a fine of not less than RMB 30,000 but not more than RMB 300,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where a fund investment advisory institution or fund evaluation institution or its practitioners carry out investment advisory or fund evaluation services in violation of the provisions of this Law, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed; where the circumstances are serious, it shall be ordered to stop its fund service business. The persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be revoked, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "Where an information technology system service institution fails to provide the relevant information technology system materials to the securities supervision and administration institution of the State Council as prescribed, or the information technology system materials provided are false or contain major omissions, it shall be ordered to correct and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 10,000 but not more than RMB 30,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Where an accounting firm or law firm fails to be diligent and conscientious and the documents it issues contain false records, misleading statements or major omissions, it shall be ordered to correct, its business income shall be confiscated, its relevant business licence shall be suspended or revoked, and a fine of not less than one time but not more than five times its business income shall be imposed. The persons directly in charge and other persons directly responsible shall be given a warning and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Where a fund service institution fails to establish risk management systems such as emergency systems and disaster backup systems, or discloses undisclosed information relating to the holders of fund units and fund investment operations, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed; where the circumstances are serious, it shall be ordered to stop its fund service business. The persons directly in charge and other persons directly responsible shall be given a warning, their fund practice qualifications shall be revoked, and a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "Where damage is caused to the fund property, the holders of fund units or investors in violation of the provisions of this Law, the liability for compensation shall be borne in accordance with the law.\nWhere a fund management institution or fund custodian, in the course of performing its respective duties, violates the provisions of this Law or the provisions of the fund contract and causes damage to the fund property or the holders of fund units, it shall bear the liability for compensation for its own acts in accordance with the law respectively; where damage is caused to the fund property or the holders of fund units by their joint acts, they shall bear joint and several liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Where the staff of the securities supervision and administration institution derelict their duties, abuse their functions and powers, engage in malpractice for personal gain, or take advantage of the convenience of their posts to extort or accept property from others, they shall be given an administrative sanction in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "Where a person refuses or obstructs the securities supervision and administration institution and its staff in exercising their functions and powers of supervision and inspection and investigation in accordance with the law without using violence or threats, a penalty for public security administration shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where a person violates laws, administrative regulations or the relevant provisions of the securities supervision and administration institution of the State Council and the circumstances are serious, the securities supervision and administration institution of the State Council may take the measure of banning the responsible persons from entering the securities market."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Where a person shall bear civil compensation liability and pay a fine or penalty in violation of the provisions of this Law and its property is insufficient to pay both at the same time, the civil compensation liability shall be borne first."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Chapter XIV Legal Liability"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0340'] = {
     "lawId": "CN-LAW-0340",
     "sourceLang": "zh",
@@ -49686,6 +53238,3942 @@
         },
         "noLabel": {
           "en": "Article 18."
+        }
+      }
+    ]
+  };
+
+  TR['CN-SUP-0002'] = {
+    "lawId": "CN-SUP-0002",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 329 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Supervision Law of the People's Republic of China (hereinafter referred to as the Supervision Law) and in the light of actual work, in order to promote the rule-of-law-based and standardised conduct of supervision work and to guarantee the lawful and impartial exercise of supervisory power."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Upholding the overall leadership of the Communist Party of China over supervision work, strengthening political consciousness, consciousness of the overall situation, consciousness of the core and consciousness of alignment, firming up confidence in the path, the theory, the system and the culture of socialism with Chinese characteristics, resolutely upholding General Secretary Xi Jinping's position as the core of the Party Central Committee and the core of the whole Party, resolutely upholding the authority and the centralised, unified leadership of the Party Central Committee with Comrade Xi Jinping at its core, and carrying the Party's leadership through all aspects and the whole process of supervision work."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Supervisory organs and Party disciplinary inspection organs share the same offices, uphold rule-of-law thinking and rule-of-law methods, promote the integration of discipline enforcement with law enforcement and their effective connection with the administration of justice, and achieve the organic integration of supervision in accordance with discipline with supervision in accordance with law and of the application of discipline with the application of law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Supervisory organs shall perform their duties of supervision, investigation and disposition in accordance with law, uphold seeking truth from facts, uphold learning from past mistakes to avoid future ones and curing the sickness to save the patient, and uphold combining punishment with education, so as to achieve the unity of political effects, legal effects and social effects."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Supervisory organs shall unswervingly punish corruption, promote the deepening of reform and the improvement of institutions, regulate the exercise of power, strengthen the building of a culture of integrity in the new era, guide public officials to raise their awareness, take responsibility and perform their duties in accordance with law, promote in an integrated manner a situation in which officials dare not, cannot and do not want to be corrupt, and strive to eradicate the soil and conditions in which corruption breeds."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Supervisory organs shall uphold democratic centralism and shall, in respect of important matters in the handling of leads, the filing and investigation of cases, the examination of cases, the execution of dispositions and review and re-review, conduct collective study and strictly follow the procedures for requesting instructions and reporting in accordance with their authority."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Supervisory organs shall respect and protect human rights, treat all persons equally in the application of law and fully protect the lawful rights and interests of persons subject to supervision and of the persons concerned, including their rights of the person, right to be informed, property rights, right to defend themselves, right to appeal and right to apply for review and re-review."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In handling duty-related criminal cases, supervisory organs shall co-operate with and check each other with the people's courts and the people's procuratorates, strengthen communication and co-ordination in respect of the jurisdiction of cases, the examination of evidence, the transfer of cases and the disposition of property involved in cases, and handle in accordance with law the opinions put forward by the people's courts and the people's procuratorates, such as returning a case for supplementary investigation, excluding illegally obtained evidence, obtaining synchronous audio and video recordings and requiring investigators to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In carrying out supervision work, supervisory organs may, in accordance with law, request the relevant departments and units responsible for organisation and personnel, public security, State security, immigration administration, audit, statistics, market regulation, financial regulation, finance, taxation, natural resources, banking, securities and insurance, among others, to provide assistance and co-operation.\nThe relevant departments and units shall, in accordance with the requirements of the supervisory organ, assist in accordance with law in taking the relevant measures, share the relevant information, provide the relevant materials and professional and technical support, and co-operate in carrying out supervision work."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The National Supervisory Commission carries out its work under the leadership of the Party Central Committee. Local supervisory commissions at all levels carry out their work under the dual leadership of the Party committee at the same level and the supervisory commission at the next higher level; supervision, law enforcement and investigation work shall be led mainly by the supervisory commission at the next higher level, and the handling of leads and the investigation of cases shall be reported to the Party committee at the same level and, at the same time, also reported to the supervisory commission at the next higher level.\nA supervisory commission at a higher level shall strengthen its leadership over the supervisory commission at the next lower level. A supervisory commission at a lower level must implement the decisions of the supervisory commission at the next higher level and, where it considers a decision inappropriate, shall report this to the higher-level supervisory commission while implementing it. Where a supervisory commission at a lower level has made an erroneous decision, the supervisory commission at the next higher level shall correct it in accordance with procedures or require the lower-level supervisory commission to correct it."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Leadership System"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A supervisory commission at a higher level may, in accordance with law, deploy supervisory personnel of supervisory organs at all levels within its jurisdiction in a unified manner to handle supervisory matters. The decision on such deployment shall be made in writing.\nSupervisory organs handling supervisory matters shall strengthen mutual co-operation and co-ordination and may, in respect of important or complex matters, request the supervisory organ at a higher level to provide co-ordination."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Leadership System"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Supervisory commissions at all levels shall, in accordance with law, station or dispatch supervisory bodies or supervisory commissioners to the organs of the Communist Party of China at the corresponding level, State organs, the organs of the committees of the Chinese People's Political Consultative Conference, the organisations and units authorised by laws or regulations or entrusted to administer public affairs, and the State-owned enterprises and public institutions under their jurisdiction.\nProvincial-level supervisory commissions and municipal supervisory commissions of cities with districts shall, in accordance with law, dispatch supervisory bodies or supervisory commissioners to areas such as prefectures, leagues and development zones where no people's congress is established. County-level supervisory commissions and supervisory commissions of districts (counties) under the direct jurisdiction of municipalities may dispatch supervisory bodies or supervisory commissioners to areas such as sub-districts and townships.\nSupervisory bodies and supervisory commissioners shall carry out supervision work under the leadership of the organ which dispatched them."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Leadership System"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Supervisory bodies and supervisory commissioners stationed or dispatched by supervisory commissions at all levels shall, in accordance with the authorisation of the dispatching organ and in accordance with their administrative authority, carry out supervision in accordance with law over public officials of the units and areas under their supervision, and investigate and dispose of duty-related unlawful acts and duty-related crimes. Supervisory bodies and supervisory commissioners may, in accordance with regulations, conduct joint investigation of serious duty-related unlawful acts and duty-related crimes with local supervisory commissions, or transfer them to local supervisory commissions for investigation.\nWhere the supervisory bodies or supervisory commissioners provided in the preceding paragraph have not been granted the power to investigate duty-related crimes, they shall promptly report to the dispatching organ any lead discovered indicating that a person subject to supervision is suspected of a duty-related crime, and the dispatching organ shall investigate or, in accordance with law, transfer the matter to the relevant local supervisory commission for investigation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Leadership System"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "With the approval of the National Supervisory Commission, the relevant supervisory bodies and supervisory commissioners stationed by the National Supervisory Commission may make further dispatch in accordance with the provisions of paragraphs 2 and 3 of Article 12 of the Supervision Law.\nSupervisory bodies and supervisory commissioners dispatched further shall carry out supervision work under the leadership of the supervisory body or supervisory commissioner which dispatched them.\nSupervisory bodies and supervisory commissioners dispatched further shall, in accordance with the authorisation granted and in accordance with their administrative authority, carry out supervision in accordance with law over public officials of the units under their supervision and investigate and dispose of duty-related unlawful acts. The investigation and disposition of duty-related crimes shall be handled in accordance with the provisions of paragraph 2 of Article 52 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Leadership System"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Supervisory organs shall perform their supervisory duties in accordance with law, carry out supervision and inspection over the political conduct, exercise of public power and moral integrity of public officials, and urge the relevant organs and units to strengthen the education, management and supervision of the public officials under them."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Supervisory organs shall resolutely uphold the State guiding ideology established by the Constitution, and strengthen supervision over the situation of public officials, especially leading personnel, in upholding Party leadership, upholding the socialist system with Chinese characteristics, implementing the lines, principles and policies of the Party and the State and its major decisions and arrangements, performing their duties of strict management and supervision, and exercising public power in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Supervisory organs shall strengthen education of public officials in ideals and convictions, in serving the people, in the Constitution, laws and regulations and in advanced socialist culture, revolutionary culture and fine traditional Chinese culture, promote the core socialist values, carry out in-depth warning education, and educate and guide public officials to establish a correct view of power, of achievements and of career and to preserve the true qualities of serving the people, being pragmatic and honest."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Supervisory organs shall, in the light of the duties of public officials, strengthen routine supervision, and through such means as collecting the views of the public, holding discussions and making visits, consulting materials, convening or attending meetings, hearing work reports and reports on the performance of duties and integrity, and carrying out supervision and inspection, promote the exercise by public officials of power in accordance with law, impartially, for the people and with integrity."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Supervisory organs may hold heart-to-heart talks with public officials and, where emerging or tendentious problems are found in political conduct, the exercise of public power or moral integrity, promptly provide education and reminders."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "In respect of prominent problems of an industry-wide, systemic or regional nature discovered, as well as problems on which the public have strong views, supervisory organs may gain an in-depth understanding through special supervision, urge the relevant organs and units to strengthen governance, and promote the performance of duties and fulfilment of responsibilities by public officials."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Supervisory organs shall strengthen supervision work at the grassroots level, promote the integration of supervision resources and forces at the grassroots level, effectively connect all types of grassroots supervision such as village (residents') affairs supervision, keep the channels of public supervision open, and promptly discover and deal with misconduct and corruption that harm the interests of the public."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Supervisory organs shall promote rectification through case handling and promote governance through supervision; while ascertaining the problems and disposing of them in accordance with law, they shall analyse the causes of the problems, identify problems in institution building, the allocation of power and supervision mechanisms, and put forward to the relevant organs and units opinions on improving work or supervisory recommendations, so as to promote the improvement of institutions and the enhancement of governance effectiveness.\nIn respect of cases of duty-related unlawful acts or duty-related crimes in the same industry, system or region, supervisory organs shall strengthen the analysis of similar cases, dig deep into the common problems existing and put forward comprehensive opinions on improving work or supervisory recommendations."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Supervisory organs shall, in accordance with law, employ information-based means such as big data and artificial intelligence, integrate supervision information resources of all types, and strengthen comprehensive data analysis and assessment, so as to promote the timely early warning of risks and the precise identification of problems."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "In carrying out supervision, supervisory organs shall make overall arrangements and connections with discipline supervision, stationed supervision and inspection-tour supervision, and link up and co-ordinate with supervision by people's congresses, democratic supervision, administrative supervision, judicial supervision, audit supervision, financial and accounting supervision, statistical supervision, public supervision and supervision by public opinion, improve mechanisms for sharing information, resources and results, and form a synergy of supervision."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Supervisory Supervision"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Supervisory organs shall perform their duties of supervisory investigation in accordance with law and investigate duty-related unlawful acts and duty-related crimes on the basis of the Supervision Law, the Law of the People's Republic of China on Governmental Sanctions for Public Officials (hereinafter referred to as the Law on Governmental Sanctions) and the Criminal Law of the People's Republic of China (hereinafter referred to as the Criminal Law) and other provisions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Duty-related unlawful acts which supervisory organs are responsible for investigating mean the following unlawful acts committed by public officials in connection with their duties which, although not constituting crimes, entail legal liability in accordance with law:\n(1) unlawful acts committed by taking advantage of authority;\n(2) unlawful acts committed by taking advantage of the influence of office;\n(3) unlawful acts of ineffective performance of duties or of dereliction of duty and failure to fulfil responsibilities;\n(4) other unlawful acts in breach of the specific obligations related to the duties of public officials."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a supervisory organ discovers that a public official has committed other unlawful acts and any of the following circumstances exists, it may investigate and dispose of the matter in accordance with law:\n(1) the time limit for pursuing administrative illegality has expired, or the time limit for prosecuting a crime has expired and no criminal responsibility is pursued, but a governmental sanction needs to be imposed in accordance with law;\n(2) administrative legal liability has been pursued, but a governmental sanction needs to be imposed in accordance with law;\n(3) in investigating duty-related unlawful acts or duty-related crimes, the supervisory organ verifies at the same time other unlawful acts committed by the person under investigation which are simple and clear in fact and for which a governmental sanction needs to be imposed in accordance with law.\nWhere a supervisory organ discovers that a public official committed the unlawful acts provided in the preceding paragraph before becoming a person subject to supervision, the matter shall be handled in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Supervisory organs shall investigate in accordance with law the duty-related crimes provided in item 2 of Article 11 of the Supervision Law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Supervisory organs shall investigate in accordance with law suspected crimes of embezzlement and bribery, including the crime of embezzlement, the crime of misappropriating public funds, the crime of accepting bribes, the crime of bribery by a unit, the crime of accepting bribes by taking advantage of influence, the crime of offering bribes, the crime of offering bribes to persons with influence, the crime of offering bribes to a unit, the crime of introducing bribery, the crime of bribery by a unit, the crime of holding a huge amount of property with unidentified sources, the crime of concealing deposits abroad, the crime of privately distributing State-owned assets, the crime of privately distributing confiscated property, and, committed by public officials in the exercise of public power, the crime of duty-related embezzlement, the crime of misappropriating funds, the crime of offering bribes to foreign public officials or officials of international public organisations, the crime of accepting bribes by non-State functionaries and the related crime of offering bribes to non-State functionaries."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Supervisory organs shall investigate in accordance with law suspected crimes of abuse of power committed by public officials, including the crime of abuse of power, the crime of abuse of power by personnel of State-owned companies, enterprises and public institutions, the crime of abuse of power in the administration of companies and securities, the crime of dereliction of duty in food and drug regulation, the crime of intentionally divulging State secrets, the crime of retaliation and framing, the crime of obstructing the rescue of abducted or kidnapped women and children, the crime of helping criminals to evade punishment, the crime of unlawfully issuing tree felling permits, the crime of handling entry and exit documents for persons illegally crossing the national border, the crime of releasing persons illegally crossing the national border, the crime of misappropriating funds and materials for specific purposes, the crime of unlawfully depriving citizens of freedom of religious belief, the crime of infringing the customs and habits of ethnic minorities, the crime of retaliating against accountants and statisticians, and, committed by public officials other than judicial personnel by taking advantage of their authority, the crime of unlawful detention, the crime of maltreating persons under supervision and the crime of unlawful search."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Supervisory organs shall investigate in accordance with law suspected crimes of dereliction of duty committed by public officials, including the crime of dereliction of duty, the crime of dereliction of duty by personnel of State-owned companies, enterprises and public institutions, the crime of dereliction of duty and being defrauded in the conclusion and performance of a contract, the crime of dereliction of duty and being defrauded in the conclusion and performance of a contract by functionaries of State organs, the crime of dereliction of duty in environmental regulation, the crime of dereliction of duty in the prevention and treatment of infectious diseases, the crime of dereliction of duty in commodity inspection, the crime of dereliction of duty in animal and plant quarantine, the crime of failing to rescue abducted or kidnapped women and children, the crime of dereliction of duty causing damage to or loss of precious cultural relics, and the crime of negligently divulging State secrets."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Supervisory organs shall investigate in accordance with law suspected crimes of malpractice for personal gain committed by public officials, including the crime of converting shares at a low price or selling the assets of a company or enterprise through malpractice for personal gain, the crime of unlawfully approving the expropriation, requisition or occupation of land, the crime of unlawfully transferring State-owned land use rights at a low price, the crime of unlawfully engaging in the same type of business, the crime of unlawfully securing profits for relatives and friends, the crime of perverting the law in arbitration, the crime of illegally issuing invoices, offsetting tax or granting export tax rebates through malpractice for personal gain, the crime of malpractice for personal gain in commodity inspection, the crime of malpractice for personal gain in animal and plant quarantine, the crime of conniving at smuggling, the crime of conniving at the production and sale of counterfeit or substandard goods, the crime of malpractice for personal gain in recruiting civil servants or students, the crime of failing to transfer a criminal case through malpractice for personal gain, the crime of unlawfully providing documents for export tax rebates, and the crime of failing to levy or under-levying tax through malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Supervisory organs shall investigate in accordance with law the crimes of major accidents of responsibility committed by public officials in the exercise of public power, including the crime of major accident of responsibility, the crime of major safety accident in educational facilities, the crime of accident of responsibility in fire protection, the crime of major labour safety accident, the crime of compelling or organising others to work in violation of rules and at risk, the crime of dangerous operation, the crime of failing to report or falsely reporting a safety accident, the crime of safety accident in railway operation, the crime of major flight accident, the crime of major safety accident in large-scale mass activities, the crime of causing an accident with dangerous articles, and the crime of major safety accident in construction projects."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Supervisory organs shall investigate in accordance with law other crimes committed by public officials in the exercise of public power, including the crime of disrupting elections, the crime of breaching trust and harming the interests of a listed company, the crime of financial personnel purchasing counterfeit currency or exchanging counterfeit currency for currency, the crime of trading on the basis of undisclosed information, the crime of luring investors to trade in securities or futures contracts, the crime of breaching trust in the use of entrusted property, the crime of unlawfully using funds, the crime of unlawfully granting loans, the crime of absorbing client funds without entering them in accounts, the crime of illegally issuing financial instruments, the crime of accepting, paying or guaranteeing illegal instruments, the crime of unlawfully transferring or reselling land use rights, the crime of privately opening, concealing or destroying mail or telegrams, the crime of intentionally delaying the delivery of mail, the crime of divulging case information that should not be made public, the crime of disclosing or reporting case information that should not be made public, and the crime of accepting or delivering unqualified military personnel."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a supervisory organ discovers leads on illegal or criminal conduct which falls under the jurisdiction of another organ in accordance with law, it shall promptly transfer them to the organ with jurisdiction.\nAfter the investigation is concluded, where administrative penalties or other dispositions should be imposed on the person under investigation or on the persons involved in the case, the supervisory organ shall transfer the matter to the relevant organ in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Supervisory Investigation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Supervisory organs shall make decisions on governmental sanctions against public officials who have committed unlawful acts in accordance with the Supervision Law, the Law on Governmental Sanctions and other provisions."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 4 Supervisory Disposition"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "While pursuing the direct responsibility of public officials who have committed unlawful acts, supervisory organs shall, in accordance with law, hold accountable the leading personnel who have performed their duties ineffectively or been derelict in their duties and have caused serious consequences or adverse effects.\nSupervisory organs shall form an investigation team to carry out accountability investigation in accordance with law. After the investigation is concluded, an investigation report shall be formed through collective discussion, and where accountability is required, a decision on accountability shall be made in accordance with administrative authority, or a written recommendation on accountability shall be put forward to the organ or unit having the power to make such a decision."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 4 Supervisory Disposition"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where, in respect of a person suspected of a duty-related crime, a supervisory organ considers after investigation that the facts of the crime are clear and the evidence is reliable and sufficient and that criminal responsibility needs to be pursued, it shall transfer the case to the people's procuratorate for examination and prosecution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 4 Supervisory Disposition"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where, on the basis of the results of supervision and investigation, a supervisory organ finds that the unit to which a person subject to supervision belongs falls under any of the following circumstances and rectification is required, it shall put forward supervisory recommendations in accordance with law and promote rectification through cases:\n(1) prominent problems exist in the building of integrity;\n(2) relatively great risks exist in the restriction and supervision of the exercise of power;\n(3) prominent problems exist in the education, management and supervision of persons subject to supervision;\n(4) laws, regulations and institutions are not implemented adequately;\n(5) statutory duties are not performed or are not correctly performed;\n(6) other circumstances in which supervisory recommendations need to be put forward.\nSupervisory organs shall follow up and ascertain the acceptance of supervisory recommendations, guide and urge the units concerned to rectify within a time limit, put forward further rectification opinions where the rectification requirements have not been met, and promote the full implementation of supervisory recommendations."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 4 Supervisory Disposition"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Supervisory organs shall, in accordance with law, supervise all public officials exercising public power, thereby achieving full coverage of State supervision."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 Persons Subject to Supervision"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The scope of civil servants referred to in item 1 of Article 15 of the Supervision Law shall be determined in accordance with the Civil Servant Law of the People's Republic of China (hereinafter referred to as the Civil Servant Law).\nPersonnel administered by reference to the Civil Servant Law referred to in item 1 of Article 15 of the Supervision Law means staff members of the units concerned who are approved to be administered by reference to the Civil Servant Law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 Persons Subject to Supervision"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Personnel engaged in public service in organisations authorised by laws or regulations or entrusted in accordance with law by State organs to administer public affairs, referred to in item 2 of Article 15 of the Supervision Law, means personnel in such organisations who, apart from personnel administered by reference to the Civil Servant Law, perform duties of organisation, leadership, management and supervision in respect of public affairs, including personnel engaged in public service in industry associations and other organisations with the function of public affairs administration and personnel engaged in public service in statutory inspection, testing and quarantine institutions."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 Persons Subject to Supervision"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Managerial personnel of State-owned enterprises referred to in item 3 of Article 15 of the Supervision Law means the following personnel in enterprises funded by the State:\n(1) personnel performing duties of organisation, leadership, management and supervision in wholly State-owned or wholly State-funded companies and enterprises;\n(2) personnel performing duties of organisation, leadership, management and supervision in State-controlled or State-participating companies and their branches, who are nominated, recommended, appointed or approved by Party organisations or State organs, wholly State-owned or wholly State-funded companies and enterprises, or public institutions;\n(3) personnel engaged in organisation, leadership, management and supervision work in State-controlled or State-participating companies and their branches on behalf of an organisation which, in an enterprise funded by the State, is responsible for the management and supervision of State-owned assets, and who are approved or decided upon by that organisation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 Persons Subject to Supervision"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Managerial personnel in publicly run units of education, scientific research, culture, medical and health care and sports referred to in item 4 of Article 15 of the Supervision Law means personnel engaged in organisation, leadership, management and supervision work in public institutions of education, scientific research, culture, medical and health care and sports established by State organs or by other organisations with State-owned assets for the purpose of public welfare."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 1 Persons Subject to Supervision"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Personnel engaged in management in grassroots mass self-governing organisations referred to in item 5 of Article 15 of the Supervision Law means the following personnel in such organisations:\n(1) personnel engaged in the management of collective affairs and public welfare undertakings;\n(2) personnel engaged in the management of collective funds, assets and resources;\n(3) personnel assisting the people's government in administrative management work, including the management of funds and materials for disaster relief, epidemic prevention, emergency rescue, flood control, preferential treatment, assistance, resettlement and relief, the management of funds and materials donated by society for public welfare undertakings, the operation and management of State-owned land, the management of compensation for land expropriation and requisition, the collection of tax on behalf of the State, work relating to family planning, household registration and military recruitment, and other management work carried out in grassroots mass self-governing organisations in assistance of the people's government and other State organs."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 1 Persons Subject to Supervision"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The following persons are the other persons performing public duties in accordance with law referred to in item 6 of Article 15 of the Supervision Law:\n(1) deputies to people's congresses at all levels performing the duties of people's congress deputies, and members of committees of the Chinese People's Political Consultative Conference at all levels, people's assessors and people's supervisors performing public duties;\n(2) persons who, although not included in the staffing of Party and government organs, are engaged in public service in Party and government organs;\n(3) persons engaged in organisation, leadership, management and supervision work in collective economic organisations and other units and organisations, who are nominated, recommended, appointed or approved by Party organisations or State organs, wholly State-owned or wholly State-funded companies and enterprises, organisations responsible for the management and supervision of State-owned and collective assets in enterprises funded by the State, or public institutions;\n(4) persons who, in organisations for bid evaluation, negotiation, inquiry into prices and the like established in accordance with law, temporarily perform on behalf of State organs, wholly State-owned or wholly State-funded companies and enterprises, public institutions or people's organisations duties of organisation, leadership, management and supervision in respect of public affairs;\n(5) other persons exercising public power in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 1 Persons Subject to Supervision"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a decision made collectively by the relevant organ, unit or organisation is unlawful, or an unlawful act is committed by it, the supervisory organ shall, in accordance with law, pursue the legal responsibility of the public officials among the leading personnel and the directly responsible personnel who are responsible for it."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 1 Persons Subject to Supervision"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "In carrying out supervision, investigation and disposition, supervisory organs shall follow the principle of combining administrative authority with territorial jurisdiction and apply a system of responsibility at different levels."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Supervisory commissions at or above the municipal level of cities with districts shall, in accordance with their administrative authority, have jurisdiction in accordance with law over cases of suspected duty-related unlawful acts and duty-related crimes involving public officials managed by the Party committee at the same level.\nCounty-level supervisory commissions and supervisory commissions of districts (counties) under the direct jurisdiction of municipalities shall, in accordance with their administrative authority, have jurisdiction in accordance with law over cases of suspected duty-related unlawful acts and duty-related crimes involving public officials within their respective jurisdictions.\nLocal supervisory commissions at all levels may, in accordance with Articles 13 and 52 of these Regulations, have jurisdiction in accordance with law over cases of suspected duty-related unlawful acts and duty-related crimes involving public officials whose work unit is within their respective jurisdictions.\nIn investigating cases of suspected duty-related crimes involving public officials, supervisory organs may, in accordance with law, also exercise jurisdiction over and conduct investigation and disposition in respect of the non-public officials among the persons involved in the case who are suspected of the crime of offering bribes, the crime of introducing bribery or a joint duty-related crime. Where a non-public official is suspected of the crime of accepting bribes by taking advantage of influence, the supervisory organ shall determine jurisdiction and conduct investigation and disposition in accordance with the administrative authority over the public official whose influence was used."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A supervisory organ at a higher level may, in accordance with law, assume jurisdiction at a higher level over a case of a duty-related unlawful act or duty-related crime within the jurisdiction of the supervisory organ at the next lower level where any of the following circumstances exists:\n(1) the case has a major impact within its jurisdiction;\n(2) the case involves persons subject to supervision under the jurisdiction of several lower-level supervisory organs and is difficult to investigate;\n(3) other major or complex cases requiring the assumption of jurisdiction at a higher level.\nA supervisory organ at a higher level may, where necessary, directly investigate, or organise, direct or participate in the investigation of, cases with a major impact within the jurisdiction of supervisory organs at all levels under it.\nWhere a case of a duty-related unlawful act or duty-related crime under the jurisdiction of a local supervisory organ at any level falls under the circumstances provided in paragraph 1, the local supervisory organ may, in accordance with law, request the supervisory organ at the next higher level to assume jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A supervisory organ at a higher level may, in accordance with law, designate a lower-level supervisory organ to assume jurisdiction over a case within its own jurisdiction.\nWhere a municipal supervisory commission of a city with districts designates to a lower-level supervisory commission a case of a suspected duty-related unlawful act or duty-related crime involving a public official managed by the Party committee at the same level, it shall request the approval of the provincial-level supervisory commission; where a provincial-level supervisory commission designates such a case to a lower-level supervisory commission, it shall file the matter with the relevant supervision and inspection department of the National Supervisory Commission for the record.\nWhere, in respect of a case of a duty-related unlawful act or duty-related crime within the jurisdiction of a lower-level supervisory organ, a supervisory organ at a higher level considers that jurisdiction by another lower-level supervisory organ is more appropriate under any of the following circumstances, it may, in accordance with law, designate that other lower-level supervisory organ to assume jurisdiction:\n(1) jurisdiction is disputed;\n(2) designation of jurisdiction is conducive to the fair handling of the case;\n(3) the lower-level supervisory organ requests designation of jurisdiction;\n(4) other circumstances in which designation of jurisdiction is necessary.\nA designated lower-level supervisory organ may not further designate jurisdiction over the case without the approval of the supervisory organ which designated jurisdiction. Where new leads on duty-related unlawful acts or duty-related crimes, or other important circumstances or major problems, are discovered, it shall promptly request instructions from and report to the supervisory organ which designated jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a public official whose work unit is in a locality but whose administrative authority lies with a competent department is suspected of a duty-related unlawful act or duty-related crime, jurisdiction shall generally lie with the supervisory body or supervisory commissioner stationed at the competent department and having jurisdiction; after consultation, the supervisory body or supervisory commissioner may, in accordance with regulations, transfer the case to the local supervisory commission at the place where the work unit of the public official is located for investigation, or conduct a joint investigation with the local supervisory commission. Where a local supervisory commission discovers in its work leads on problems concerning such public officials, it shall notify the supervisory body or supervisory commissioner stationed at the competent department and having jurisdiction, and determine jurisdiction through consultation.\nWhere other public officials of the units referred to in the preceding paragraph are suspected of duty-related unlawful acts, jurisdiction may lie with the local supervisory commission at the place where the work unit of the public official is located. Where they are suspected of duty-related crimes, jurisdiction shall generally lie with the local supervisory commission at the place where the work unit of the public official is located; where, owing to special circumstances such as the involvement of public officials managed by the competent department, the supervisory body or supervisory commissioner stationed at the competent department considers that jurisdiction by itself or by another local supervisory commission is more appropriate, it may, after consultation with the local supervisory commission at the place where the work unit of the public official is located, conduct the investigation itself or handle the designation of jurisdiction in accordance with law.\nWhere a local supervisory commission investigates a case provided in the preceding two paragraphs, it shall, in accordance with procedures, notify the relevant supervisory body or supervisory commissioner of important circumstances such as the filing of the case, retention, transfer for examination and prosecution and cancellation of the case."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in handling a case, a supervisory organ finds that a person subject to supervision of another supervisory organ with which it has no subordinate relationship is involved and considers that a case should be filed for investigation, it shall consult the supervisory organ having administrative authority to file and investigate the case in accordance with law. When requesting the filing of a case, it shall provide the basic information of the person involved, the facts of the suspected illegal or criminal conduct already ascertained and the relevant evidentiary materials.\nWhere the supervisory organ handling the case considers that joint investigation by it is more appropriate, it may request the superior supervisory organ having the power to decide to designate jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a public official is suspected both of serious duty-related unlawful acts and duty-related crimes such as embezzlement, bribery, dereliction of duty and malfeasance, and of crimes within the jurisdiction of public security organs, people's procuratorates and other organs, and the supervisory organ is to take the lead in the investigation in accordance with law, the supervisory organ and the other organs shall respectively file the case in accordance with their functions and powers, and the supervisory organ shall assume the responsibility of organisation and co-ordination, co-ordinating important matters such as the progress of investigation and of criminal detection and the use of important investigative and detection measures."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where necessary, a supervisory organ may, in accordance with law, investigate suspected crimes committed by judicial personnel by taking advantage of their authority which infringe citizens' rights and impair judicial fairness, such as unlawful detention, extortion of confessions by torture and unlawful search, and shall promptly notify the people's procuratorate at the same level after filing the case.\nIn investigating suspected duty-related crimes such as embezzlement and bribery committed by judicial personnel, a supervisory organ may investigate at the same time the crimes provided in the preceding paragraph of which they are suspected and shall promptly notify the people's procuratorate at the same level. Where, in handling a case directly accepted for investigation, a people's procuratorate discovers that a criminal suspect is also suspected of other duty-related crimes within the jurisdiction of a supervisory organ and, after communication, transfers the whole case to the supervisory organ for jurisdiction, the supervisory organ shall conduct the investigation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Supervisory organs may, in accordance with law, investigate suspected duty-related unlawful acts or duty-related crimes committed by retired public officials before or after retirement, or committed by public officials who have left office or died during the period in which they performed their duties.\nIn respect of the persons referred to in the preceding paragraph, the supervisory organ having jurisdiction shall be determined in accordance with the provisions on jurisdiction over the post they formerly held; where jurisdiction by another supervisory organ is more appropriate, jurisdiction may be designated or the case may be transferred to that other supervisory organ in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 2 Jurisdiction"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Supervisory organs shall strengthen the standardised development of supervision, law enforcement and investigation work, strictly carry out examination and approval and supervision of supervisory measures in accordance with regulations, take the relevant measures within the statutory scope, procedures and time limits, and issue and serve legal documents."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Supervisory organs shall, on the basis of the needs of supervision, law enforcement and investigation work, the seriousness of the suspected duty-related unlawful acts or duty-related crimes, the degree of connection between the persons to whom supervisory measures apply and the case, and the urgency of taking the supervisory measures, reasonably determine the persons to whom, the type of and the time limit for the supervisory measures, and may not exceed the limits of necessity. It is prohibited to abuse supervisory measures in violation of regulations."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "In preliminary verification, supervisory organs may, in accordance with law, adopt the measures of interview, questioning of witnesses, inquiry, obtaining of materials, inspection and examination, investigative experiment and expert evaluation; after a case is filed, they may adopt the measures of interrogation, compelled appearance, order to await investigation, protective custody, retention in custody, confinement, freezing, search, sealing up, seizure and placing on the wanted list. Where a major safety risk such as escape or suicide is discovered and, before the case is filed, a measure of protective custody is taken in accordance with law in respect of the persons provided in items 1 and 2 of paragraph 1 of Article 25 of the Supervision Law, the case shall be filed promptly where the conditions for filing are met. Where measures of technical investigation or restriction on leaving the country need to be taken, they shall be referred to the relevant organs for implementation in accordance with law and in accordance with regulations. Supervisory organs at or below the municipal level of cities with districts may not take measures of technical investigation in preliminary verification. Where a supervisory organ handles leads by way of interview or letter inquiry, the relevant provisions of the Supervision Law and of these Regulations on the adoption of these two measures shall apply.\nIn carrying out accountability investigation, the relevant supervisory measures may be taken in accordance with law according to the specific circumstances."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "In carrying out interrogation, search, sealing up, seizure and important interviews and questioning of witnesses and other evidence-collection work, synchronous audio and video recording shall be made throughout, and the integrity of the audio and video recordings shall be maintained.\nWhere synchronous audio and video recording is made of an interview, interrogation or questioning of a witness, the starting and ending times recorded in the interview record, interrogation record or witness statement shall be consistent with the starting and ending times reflected in the audio and video recordings. The contents of the interview record, interrogation record and witness statement shall be consistent with the contents of the audio and video recordings.\nSynchronous audio and video recordings shall be properly kept, promptly archived and retained for reference. The case supervision and management department of the supervisory organ shall carry out regular inspection. Where a people's procuratorate or people's court needs to obtain the synchronous audio and video recordings, the supervisory organ shall provide them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where it is necessary to request another supervisory organ to assist in collecting evidentiary materials, a Letter of Entrusted Investigation shall be issued in accordance with law; where it is necessary to request another supervisory organ to provide general assistance in taking measures, a Letter of Request for Assistance in Taking Measures shall be issued in accordance with law. Where the matter for which assistance is requested involves a person subject to supervision under the jurisdiction of the assisting supervisory organ, the assisting supervisory organ shall submit the matter for approval in accordance with the administrative authority over the person involved. The assisting supervisory organ shall provide assistance and co-operation in accordance with law in respect of the request for assistance."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where the taking, lifting or modification of a supervisory measure requires that the relevant person be informed or notified, this shall be handled in accordance with law. Informing includes both oral and written forms; except as otherwise provided in these Regulations, notification shall be made in writing. Where information or notification is given orally, a work record of the relevant circumstances shall be made; where information or notification is given in writing, it may be served by direct delivery, post or transmission, and the relevant receipt or voucher shall be placed on the case file.\nWhere it is impossible to inform or notify, or where the relevant person refuses to accept service, the investigators shall record this in the work record or in the relevant document."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where the taking of a supervisory measure by a supervisory organ requires the presence of witnesses in accordance with law, suitable witnesses shall be invited to be present. The following persons may not serve as witnesses:\n(1) persons who are physically or mentally defective or are minors and who lack the corresponding capacity to distinguish or are unable to express themselves correctly;\n(2) persons having an interest in the case which may affect the fair handling of the case;\n(3) staff members of the supervisory organ or persons employed by it;\n(4) staff members assisting the supervisory organ in taking supervisory measures in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a supervisory organ modifies in accordance with law a supervisory coercive measure such as compelled appearance, order to await investigation, protective custody, retention in custody or confinement, the original supervisory coercive measure shall be automatically released at the time the supervisory organ takes the new supervisory coercive measure."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a supervisory organ at or above the county level needs to request a public security organ to assist in taking the measures of compelled appearance, order to await investigation, protective custody, retention in custody or search, it shall submit the matter for approval in accordance with regulations and request the public security organ at the same level to provide assistance in accordance with law. When requesting assistance, it shall issue a letter requesting assistance, setting out the specific matters and suggestions for assistance, the time, place and other contents of the assistance in taking measures, and attach a copy of the decision to take the supervisory measure.\nWhere, for reasons of confidentiality, it is inappropriate to inform the public security organ of the name of the person against whom the measure is taken before the measure is taken, an explanation may be made and confidentiality measures taken.\nWhere it is necessary to request a public security organ in another place to assist in taking a supervisory measure, the matter shall be submitted for approval in accordance with regulations, a letter of co-operation and the relevant documents shall be issued to the supervisory organ at the same level in the place of co-operation, and the supervisory organ in the place of co-operation shall request the local public security organ to provide assistance in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 1 General Requirements"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "All materials which may be used to prove the facts of a case are evidence, including:\n(1) physical evidence;\n(2) documentary evidence;\n(3) witness testimony;\n(4) statements of victims;\n(5) statements, confessions and exculpations of the person under investigation;\n(6) expert opinions;\n(7) records of inspection and examination, identification and investigative experiment;\n(8) audio-visual materials and electronic data.\nWhen collecting and obtaining evidence from the relevant units and individuals, supervisory organs shall inform them that they must truthfully provide evidence in accordance with law. Where they fail to provide the relevant materials as required, divulge the relevant information, forge, conceal or destroy evidence, provide false information or prevent others from providing evidence, their legal responsibility shall be pursued in accordance with law.\nEvidentiary materials collected by supervisory organs in accordance with the Supervision Law and these Regulations may, after examination and where they meet statutory requirements, be used as evidence in criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Supervisory organs shall determine the facts of a case on the basis of evidence, comprehensively and objectively collect and fix all kinds of evidence as to whether the person under investigation has committed an unlawful or criminal act and as to the seriousness of the circumstances, and form a complete and stable chain of evidence in which the evidence corroborates one another.\nWhere there are only statements or confessions of the person under investigation and no other evidence, the facts of the case may not be determined; where there are no statements or confessions of the person under investigation but the evidence meets the statutory standard, the facts of the case may be determined."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Evidence may serve as the basis for deciding a case only after it has been verified as true. In examining and determining evidence, a comprehensive judgment shall be made in the light of the specific circumstances of the case, from the aspects of the degree of relevance of the evidence to the facts to be proved, the connections among the items of evidence, and whether the evidence was collected in accordance with statutory procedures."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a supervisory organ concludes the investigation of a case of duty-related unlawful acts, the facts shall be clear and the evidence conclusive. Evidence is conclusive where it meets the following conditions:\n(1) the facts on which characterisation and disposition are based are all proved by evidence;\n(2) the evidence on which the decision is based is true and lawful;\n(3) there is no irreconcilable contradiction among the items of evidence on which the decision is based;\n(4) taking all the evidence in the case as a whole, the facts determined are clear and convincing."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a supervisory organ concludes the investigation of a case of duty-related crimes, the facts shall be clear and the evidence reliable and sufficient. Evidence is reliable and sufficient where it meets the following conditions:\n(1) the facts relevant to conviction and sentencing are all proved by evidence;\n(2) all the evidence on which the decision is based has been verified as true through statutory procedures;\n(3) taking all the evidence in the case as a whole, reasonable doubt as to the facts determined has been excluded.\nWhere the evidence is insufficient, the case may not be transferred to the people's procuratorate for examination and prosecution."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Investigators shall carry out investigation work in a civilised and standardised manner in accordance with law. It is strictly prohibited to collect evidence by unlawful methods such as violence, threat, inducement, deception and unlawful restriction of personal freedom, and it is strictly prohibited to humiliate, beat, scold, maltreat or physically punish, or impose disguised physical punishment on, persons under investigation, persons involved in the case and witnesses.\nSupervisory organs shall protect the lawful rights and interests of persons subject to compelled appearance, persons in protective custody, persons in retention in custody and persons under confinement, respect their dignity and ethnic customs, guarantee their food, rest and safety, and provide medical services."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Confessions of persons under investigation, witness testimony and statements of victims collected by investigators by unlawful methods such as violence, threat and unlawful restriction of personal freedom shall be excluded in accordance with law.\nThe method of violence referred to in the preceding paragraph means the use of beating, unlawful use of restraints or other vile means or disguised corporal punishment which causes a person to endure unbearable suffering and to make a confession, testimony or statement against his will; the method of threat means the use of threats of violence or of serious harm to the lawful rights and interests of the person himself or his close relatives, which causes a person to endure unbearable suffering and to make a confession, testimony or statement against his will.\nWhere physical evidence or documentary evidence is collected in a manner not conforming to statutory procedures and this may seriously affect the fair handling of the case, it shall be corrected or a reasonable explanation shall be given; where it cannot be corrected or reasonably explained, the evidence shall be excluded."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where the departments of a supervisory organ responsible for supervision and inspection, investigation, case examination and case supervision and management discover that supervisory personnel may have collected evidence by unlawful methods in handling a case, they shall conduct investigation and verification in accordance with their duties. Where a person under investigation accuses or reports that investigators have collected evidence by unlawful methods and provides materials or leads concerning the persons, time, place, manner and content of the suspected unlawful collection of evidence, the matter shall be accepted and reviewed. Where the legality of the collection of evidence cannot be proved on the basis of the available materials, investigation and verification shall be conducted.\nWhere, after investigation and verification, it is confirmed or cannot be excluded that evidence was collected by unlawful methods, the evidence concerned shall be excluded in accordance with law and may not serve as the basis for the characterisation and disposition of the case or for transfer for examination and prosecution. Where it is determined that investigators collected evidence unlawfully, they shall be dealt with in accordance with law and other investigators shall be assigned to conduct the investigation and collect evidence afresh.\nWhere a supervisory organ receives an accusation or report that investigators of a lower-level supervisory organ have collected evidence by unlawful methods, it may conduct investigation and verification directly or refer the matter to the lower-level supervisory organ for investigation and verification. Where the matter is referred to a lower-level supervisory organ, the lower-level supervisory organ shall promptly report the results of the investigation to the higher-level supervisory organ."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Collected evidentiary materials and seized property shall be properly kept, the procedures for handover and transfer shall be strictly followed, accounts shall be checked and verified regularly, and it is prohibited to use, exchange, damage or dispose of them without authorisation in violation of regulations."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Physical evidence, documentary evidence, audio-visual materials and electronic data, records of inspection and examination, and expert opinions and other evidentiary materials collected by administrative organs in administrative law enforcement and in the investigation and handling of cases may, after examination by a supervisory organ and where they meet statutory requirements, be used as evidence.\nEvidentiary materials collected in administrative law enforcement and in the investigation and handling of cases by organisations exercising State administrative management functions in accordance with the provisions of laws and administrative regulations shall be deemed to be evidentiary materials collected by administrative organs."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Physical evidence, documentary evidence, audio-visual materials and electronic data, records of inspection, examination, identification and criminal investigative experiment, and expert opinions and other evidentiary materials collected by people's courts, people's procuratorates, public security organs, State security organs and the like in criminal proceedings may, after examination by a supervisory organ and where they meet statutory requirements, be used as evidence.\nIn handling a case of duty-related unlawful acts, a supervisory organ may directly use as evidence the evidentiary materials adopted in a legally effective criminal judgment or ruling of a people's court or in a decision not to prosecute of a people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 2 Evidence"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Supervisory organs may, in accordance with law, hold interviews with persons subject to supervision who are suspected of duty-related unlawful acts and require them to truthfully explain the circumstances or make statements.\nInterviews shall be conducted individually. There shall be not fewer than two persons responsible for conducting the interview."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Leads concerning general problems may be handled by way of interview, giving warnings, criticism and education to the person subject to supervision. The interview shall be conducted at the interview room of the supervisory organ, at a workplace provided with safety guarantees or at another place, the matters to be discussed shall be clearly stated, and attention shall be paid to clarifying the problems and achieving an educational effect."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where leads are handled by way of interview, the interview may, after examination and approval, be conducted by supervisory personnel or entrusted to the principal person in charge of the unit to which the person interviewed belongs.\nA supervisory organ shall make an interview record or note for an interview. After the interview, the person interviewed may, as required, be asked to provide a written explanation within 15 working days. The person interviewed shall sign each page of the written explanation and shall also sign at any place where it is modified.\nWhere an interview is entrusted, the person entrusted shall conduct the interview within 15 working days after receipt of the letter of entrustment. After the interview, materials on the interview shall be promptly prepared and submitted to the supervisory organ, with the written explanation of the person interviewed attached where necessary."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "In carrying out preliminary verification, a supervisory organ shall generally not have contact with the person being verified; where it is truly necessary to interview the person being verified, the matter shall be submitted for approval in accordance with regulations."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "After a case has been filed against a person under investigation who is suspected of duty-related unlawful acts, the supervisory organ may, in accordance with law, hold an interview with him.\nAt the first interview with the person under investigation, a Written Notice of the Rights and Obligations of Persons under Investigation shall be produced and the person shall sign it and affix his fingerprint. Where the person under investigation refuses to sign or affix his fingerprint, the investigators shall record this in the document. Where the person under investigation is not subject to restriction of personal freedom, a Notice of Interview shall be issued to him at the first interview.\nWhere an interview is held with a person under investigation who is suspected of serious duty-related unlawful acts, synchronous audio and video recording shall be made throughout and the person under investigation shall be informed. The fact of being informed shall be reflected in the audio and video recordings and recorded in the interview record."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "After a case has been filed, an interview with a person ordered to await investigation or with a person under investigation who is not subject to restriction of personal freedom shall be conducted at a place provided with safety guarantees.\nWhere investigators, in accordance with regulations, notify the unit to which the person under investigation belongs to send a person, or notify a family member of the person under investigation, to accompany the person under investigation to the designated place, they shall complete handover formalities with the accompanying person and fill in an Escort and Handover Form."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where investigators hold an interview with a person subject to compelled appearance, a person in protective custody, a person in retention in custody or a person under confinement, the interview shall be conducted at the place where the relevant supervisory coercive measure is executed in accordance with statutory procedures.\nWhere an interview is held with a criminal suspect or defendant in custody, a letter of introduction issued in the name of the supervisory organ and the work identification shall be presented, and the competent authority in charge of the case shall be consulted to handle the matter in accordance with law.\nWhere an interview is held with a person serving a sentence in a detention house or prison, the matter shall be handled on presentation of a letter of introduction issued in the name of the supervisory organ and the work identification."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "In holding interviews with persons under investigation, time shall be reasonably arranged and the duration controlled, and their meals and necessary rest time shall be guaranteed."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The interview record shall be made at the place of the interview. The record shall be detailed and specific and shall truthfully reflect the circumstances of the interview. After the record has been completed, it shall be handed to the person under investigation for checking. Where the person under investigation is unable to read, the record shall be read out to him.\nWhere there are omissions or errors in the record, they shall be supplemented or corrected, and the person under investigation shall affix his fingerprint at the place of supplementation or correction. After the person under investigation has checked the record and found it correct, he shall sign and affix his fingerprint on each page of the record. Where the person under investigation refuses to sign or affix his fingerprint, the investigators shall record this in the record. The investigators shall also sign the record."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a person under investigation requests to write explanatory materials himself, he shall be permitted to do so. Where necessary, the investigators may require the person under investigation to write explanatory materials himself.\nThe person under investigation shall sign and affix his fingerprint on each page of the explanatory materials and state the date on the last page. Where any modification is made to the explanatory materials, a fingerprint shall be affixed at the place modified. The explanatory materials shall be received by two investigators, who shall state the date of receipt on the first page and sign it."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "The provisions of Articles 81 to 86 of these Regulations shall also apply to interviews held in preliminary verification."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 3 Interviews"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Supervisory organs may, in accordance with law, interrogate a person under investigation who is suspected of a duty-related crime and require him to truthfully confess the circumstances of the suspected crime."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 4 Interrogation"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Interrogation of a person in protective custody or a person in retention in custody shall be conducted at the retention facility."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 4 Interrogation"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Interrogation shall be conducted individually, and there shall be not fewer than two investigators.\nAt the first interrogation, a Written Notice of the Rights and Obligations of Persons under Investigation shall be produced to the person interrogated, who shall sign it and affix his fingerprint. Where the person interrogated refuses to sign or affix his fingerprint, the investigators shall record this in the document. Where the person interrogated is not subject to restriction of personal freedom, a Notice of Interrogation shall be issued to him at the first interrogation.\nInterrogation shall generally be conducted in the following order:\n(1) verifying the basic information of the person interrogated, including name, former name, date of birth, place of household registration, identity document number, ethnicity, occupation, political status, level of education, work unit and post, domicile, family circumstances and social experience, whether he is a delegate to a Party congress, a deputy to a people's congress or a member of the Chinese People's Political Consultative Conference, whether he has been subject to Party discipline or governmental sanctions, and whether he has been subject to criminal punishment;\n(2) informing the person interrogated of the legal provisions under which truthful confession of his own crimes may be treated leniently in accordance with law and under which he may plead guilty and accept punishment;\n(3) asking the person interrogated whether he has committed a criminal act and allowing him to state the facts of guilt or to make an exculpation of innocence, and permitting him to make a coherent statement.\nQuestions put by the investigators shall be relevant to the case under investigation. The person interrogated shall truthfully answer the questions of the investigators. The investigators shall truthfully record and carefully verify the exculpations of the person interrogated.\nWhere it is discovered that a person under investigation suspected of a duty-related crime has voluntarily surrendered, truthfully confessed illegal or criminal conduct not yet known to the supervisory organ, exposed the criminal conduct of others or provided important leads, and may therefore have statutory circumstances such as voluntary surrender or meritorious service, he shall be interrogated promptly in accordance with law. After the facts of a specific suspected duty-related crime have been preliminarily ascertained, interrogation shall be conducted on the basis of a comprehensive review and analysis of the evidence on file.\nAt interrogation, the person interrogated shall be informed that synchronous audio and video recording will be made throughout. The fact of being informed shall be reflected in the audio and video recordings and recorded in the interrogation record."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 4 Interrogation"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The requirements of Articles 82 to 86 of these Regulations shall also apply to interrogation."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 4 Interrogation"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "After submitting the matter for approval in accordance with regulations, a supervisory organ may, in accordance with law, question witnesses, victims and other persons in order to understand and verify the relevant problems or the circumstances of the case."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 5 Questioning of Witnesses"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a witness is not subject to restriction of personal freedom, questioning may be conducted at his workplace, domicile or a place proposed by him, or he may be notified to appear at a designated place for questioning. Where questioning is conducted at a place proposed by the witness or designated by the investigators, this shall be recorded in the record.\nWhere the investigators consider it necessary, or the witness requests, that a person be sent by the unit to which the witness belongs or that a family member accompany the witness to the place of questioning, handover formalities shall be completed and an Escort and Handover Form shall be filled in."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 5 Questioning of Witnesses"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Questioning shall be conducted individually. There shall be not fewer than two investigators responsible for questioning.\nAt the first questioning, a Written Notice of the Rights and Obligations of Witnesses shall be produced to the witness, who shall sign it and affix his fingerprint. Where the witness refuses to sign or affix his fingerprint, the investigators shall record this in the document. Where the witness is not subject to restriction of personal freedom, a Notice of Questioning shall be issued to him at the first questioning.\nAt questioning, the identity of the witness shall be verified, his basic information ascertained, and he shall be informed that he shall truthfully provide evidence and testimony and of the legal responsibility borne for giving false testimony or concealing evidence. The circumstances of the case may not be divulged to the witness, and testimony may not be obtained by unlawful methods.\nWhere an important witness in a major case or a case with social impact is questioned, synchronous audio and video recording shall be made of the whole process of questioning and the witness shall be informed. The fact of being informed shall be reflected in the audio and video recordings and recorded in the record."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 5 Questioning of Witnesses"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a minor is questioned, his legal representative shall be notified to be present. Where notification is impossible or the legal representative is unable to be present, other adult relatives of the minor or representatives of the school in which he studies or of the grassroots organisation at his place of residence and other relevant persons shall be notified to be present. After the questioning, the legal representative or the relevant person shall sign the record. The investigators shall record the fact of their presence on file.\nWhere a deaf or mute person is questioned, a person with a command of sign language shall participate. The investigators shall record in the record the deafness or muteness of the witness and the name, work unit and occupation of the interpreter. Where a witness who does not have a command of the language or script commonly used in the locality is questioned, an interpreter shall be provided. After the questioning, the interpreter shall sign the record."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 5 Questioning of Witnesses"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "All persons who know the circumstances of a case are under a duty to testify truthfully. Where a witness intentionally provides false testimony, his legal responsibility shall be pursued in accordance with law.\nA witness or any other person may not assist a person under investigation in forging, concealing or destroying evidence or in colluding to give false statements, and may not commit other acts interfering with investigative activities."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 5 Questioning of Witnesses"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where a witness, expert or victim, or his close relative, faces danger to personal safety because of testifying and requests protection from the supervisory organ, the supervisory organ shall accept the request and promptly conduct a review; where danger to personal safety truly exists, the supervisory organ shall take necessary protective measures. Where a supervisory organ discovers the above circumstances, it shall take protective measures on its own initiative.\nA supervisory organ may take one or more of the following protective measures:\n(1) not disclosing personal information such as the true name, address and work unit;\n(2) prohibiting specified persons from coming into contact with the witness, expert or victim and his close relatives;\n(3) taking special protective measures in respect of the person and residence;\n(4) other necessary protective measures.\nWhere it is decided in accordance with law not to disclose personal information such as the true name, address and work unit of a witness, expert or victim, an assumed name may be used in the questioning record, other legal documents and evidentiary materials. However, a separate written explanation of the use of the assumed name shall be made, the level of confidentiality shall be indicated, and it shall be kept in a separate volume.\nWhere assistance is needed in taking protective measures, the supervisory organ may request public security organs and other relevant units and the persons concerned to provide assistance in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 5 Questioning of Witnesses"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The requirements of Articles 83 to 86 of these Regulations shall also apply to questioning. Where an important person involved in a case is questioned, the provisions of Article 82 of these Regulations shall apply as the circumstances require.\nThe provisions on the questioning of witnesses shall apply to the questioning of victims."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 5 Questioning of Witnesses"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where, in investigating serious duty-related unlawful acts or duty-related crimes, a person under investigation fails to appear without justified reason after being notified, the supervisory organ may, after lawful examination and approval, compel him to appear at the interview room or retention facility of the supervisory organ to undergo investigation.\nThe first notification to appear shall generally be given in writing; where, owing to genuinely urgent circumstances, written notification is impossible, notification may be given by telephone or other means and a work record of the relevant circumstances shall be made.\nWhen taking the measure of compelled appearance, there shall be not fewer than two investigators, and a Decision on Compelled Appearance shall be produced to the person subject to compelled appearance."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 6 Compelled Appearance"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "A supervisory organ shall immediately send a person subject to compelled appearance to the interview room or retention facility of the supervisory organ. The time of compelled appearance shall run from the time the person subject to compelled appearance arrives at the relevant place.\nAfter the person subject to compelled appearance has arrived, he shall be required to state the time of arrival on the Decision on Compelled Appearance and to sign it and affix his fingerprint; after the compelled appearance has ended, the person subject to compelled appearance shall be required to state the time of its conclusion on the Decision on Compelled Appearance and to sign it and affix his fingerprint. Where the person subject to compelled appearance refuses to state or sign or affix his fingerprint, the investigators shall record this in the document.\nA single compelled appearance may not last more than 12 hours; where a measure of protective custody or retention in custody needs to be taken in accordance with law, the compelled appearance may not last more than 24 hours after the matter has been submitted for approval in accordance with regulations. The interval between two compelled appearances may not be less than 24 hours, and a person under investigation may not be subjected to disguised detention by way of consecutive compelled appearances. The interval between two compelled appearances shall run from the conclusion of the first compelled appearance."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 6 Compelled Appearance"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "After a person under investigation has been compelled to appear, the supervisory organ shall promptly hold an interview with a person under investigation who is suspected of duty-related unlawful acts and promptly interrogate a person under investigation who is suspected of duty-related crimes."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 6 Compelled Appearance"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "Where a supervisory organ has not decided to take another supervisory coercive measure within the period of compelled appearance, the compelled appearance shall be terminated immediately upon the expiry of that period."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 6 Compelled Appearance"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Where, in investigating serious duty-related unlawful acts or duty-related crimes, a person under investigation meets the conditions provided in paragraph 1 of Article 23 of the Supervision Law, the supervisory organ may, after lawful examination and approval, take the measure of ordering the person to await investigation."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "When taking the measure of ordering a person to await investigation, there shall be not fewer than two investigators, who shall announce the Decision on Ordering the Person to Await Investigation to the person concerned, produce the Written Notice of the Rights and Obligations of Persons Ordered to Await Investigation, have the person sign it and affix his fingerprint, require him to comply with the provisions of paragraph 2 of Article 23 of the Supervision Law and inform him of the legal responsibility borne for violating those provisions. Where the person ordered to await investigation refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nWhere a supervisory organ modifies another supervisory coercive measure into the measure of ordering the person to await investigation, it shall follow the procedure of informing the person of his rights and obligations in accordance with the provisions of the preceding paragraph.\nThe period of ordering a person to await investigation shall not exceed 12 months, running from the date on which it is announced to the person concerned."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Except where notification is impossible, the supervisory organ shall, within 24 hours after taking the measure of ordering a person to await investigation, notify the unit to which the person ordered to await investigation belongs and his family members. Where notification is given in person, the relevant persons shall sign the Notice of Ordering the Person to Await Investigation. Where notification in person is impossible, notification may first be given by telephone or other means, and the Notice of Ordering the Person to Await Investigation shall be served by post or through transmission, and the relevant persons shall be required to sign it. Where the relevant persons refuse to sign, the investigators shall record this in the document."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The measure of ordering a person to await investigation shall be executed by the supervisory organ which decided to take it.\nA supervisory organ executing the measure of ordering a person to await investigation shall perform the following duties:\n(1) supervising and observing whether the person ordered to await investigation complies with the relevant provisions, and promptly ascertaining his activities, address, work unit, means of contact and any changes therein;\n(2) examining and approving applications by the person ordered to await investigation to leave the urban area of the municipality directly under the Central Government or of the city with districts, or the area of the city without districts or of the county, in which he resides (hereinafter collectively referred to as the city or county of residence);\n(3) promptly stopping or correcting any violation by the person ordered to await investigation of the provisions he is required to comply with;\n(4) together with the unit to which the person ordered to await investigation belongs, his family members and the like, carrying out ideological education and psychological counselling in respect of the person ordered to await investigation."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "A person ordered to await investigation may not leave the city or county of residence without approval. Where he genuinely has justified reasons for leaving, he shall obtain the approval of the supervisory organ which decided to take the measure of ordering him to await investigation.\nMovement between districts within the same municipality directly under the Central Government or the same city with districts does not constitute leaving the city or county of residence.\nJustified reasons referred to in paragraph 1 of this Article mean seeking medical treatment, attending school, participating in litigation, travelling between the place of residence and the place of work, handling important family matters, or participating in important public or business activities."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where a person ordered to await investigation needs to leave the city or county of residence, he shall submit a written application to the supervisory organ, stating the reason, destination, route, means of transport, dates of departure and return and means of contact. The supervisory organ shall make a decision within three days from the date of receipt of the written application. Where the person ordered to await investigation has an urgent reason and is unable to submit a written application in time, he may first apply by telephone or other means and shall promptly complete the written application formalities.\nAfter approving an application by a person ordered to await investigation to leave the city or county of residence, the supervisory organ shall inform him of the following requirements:\n(1) to keep his means of contact open and to appear promptly to undergo investigation upon being notified;\n(2) to travel strictly in accordance with the approved place, route and dates of departure and return;\n(3) not to engage in activities that obstruct the investigation;\n(4) to report promptly to the executing organ after returning to the place of residence.\nWhere a person ordered to await investigation frequently needs to leave the city or county of residence for the needs of his normal work or life, the approval procedure may be simplified as the circumstances require, by granting one-time approval for him to travel in accordance with the approved place and route during a specified period."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where any of the following circumstances exists in respect of a person ordered to await investigation, it may be determined that he has violated the provisions on ordering a person to await investigation provided in paragraph 3 of Article 23 of the Supervision Law and that the circumstances are serious:\n(1) he attempts to escape or commit suicide;\n(2) he forges, conceals or destroys evidence, or colludes to give false statements or interferes with witnesses giving testimony, seriously affecting the normal conduct of the investigation;\n(3) he retaliates against informants, accusers, victims, witnesses, experts and other relevant persons;\n(4) without approval, he leaves the city or county of residence on his own authority, seriously affecting the normal conduct of the investigation, or leaves the city or county of residence on his own authority twice without approval;\n(5) without justified reason, he fails to appear after being notified, seriously affecting the normal conduct of the investigation, or fails to appear after being notified twice without justified reason;\n(6) he changes his address, work unit or means of contact without reporting the change to the supervisory organ in accordance with regulations, so that he cannot be notified to appear, seriously affecting the normal conduct of the investigation.\nWhere a person ordered to await investigation under item 3 of paragraph 1 of Article 23 of the Supervision Law violates the provisions on ordering a person to await investigation, the circumstances are serious and retention in custody should be applied in accordance with law, the provincial-level supervisory organ shall request the approval of the National Supervisory Commission, and supervisory organs at or below the municipal level of cities with districts shall report level by level to the provincial-level supervisory organ for approval."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a person in protective custody, a person in retention in custody or a person under confinement, or a close relative of such a person, applies to the supervisory organ for modification of the measure into an order to await investigation, the application shall be made in writing. The supervisory organ shall make a decision within three days after receipt of the application. Where, after review, the conditions for ordering the person to await investigation are met, the measure of protective custody, retention in custody or confinement may be modified in accordance with law into an order to await investigation; where the conditions are not met, the applicant shall be informed and the reasons for refusal shall be explained."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where the measure of ordering a person to await investigation no longer needs to be continued, or the period of ordering the person to await investigation has expired, the measure shall be lifted after the matter has been submitted for approval in accordance with regulations. The investigators shall announce the Decision on Lifting the Order to Await Investigation to the person concerned, who shall sign it and affix his fingerprint. Where the person ordered to await investigation refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nWhere the measure of ordering a person to await investigation is lifted, the unit to which the person concerned belongs and his family members shall be notified promptly. Where notification is given in person, the relevant persons shall sign the Notice of Lifting the Order to Await Investigation. Where notification in person is impossible, notification may first be given by telephone or other means, and the Notice of Lifting the Order to Await Investigation shall be served by post or through transmission, and the relevant persons shall be required to sign it. Where the relevant persons refuse to sign, the investigators shall record this in the document."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where a case is transferred to the people's procuratorate for examination and prosecution in accordance with law, the measure of ordering the person to await investigation shall be automatically released from the date of transfer, and no legal formalities for lifting it need be completed."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Section 7 Order to Await Investigation"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "Where a person who has not been retained in custody meets the conditions provided in paragraph 1 of Article 25 of the Supervision Law, the supervisory organ may, after lawful examination and approval, take the measure of protective custody in respect of him."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Section 8 Protective Custody"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "When taking the measure of protective custody, there shall be not fewer than two investigators, who shall announce the Decision on Protective Custody to the person in protective custody, inform him of his rights and obligations, and require him to sign the Decision on Protective Custody and affix his fingerprint. Where the person in protective custody refuses to sign or affix his fingerprint, the investigators shall record this in the document."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Section 8 Protective Custody"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "After the measure of protective custody has been taken, the person in protective custody shall be sent to the retention facility immediately and at the latest within 24 hours."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Section 8 Protective Custody"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "After the measure of protective custody has been taken, the unit to which the person in protective custody belongs and his family members shall be notified within 24 hours. Where notification is given in person, the relevant persons shall sign the Notice of Protective Custody. Where notification in person is impossible, notification may first be given by telephone or other means, and the Notice of Protective Custody shall be served by post or through transmission, and the relevant persons shall be required to sign it. Where the relevant persons refuse to sign, the investigators shall record this in the document.\nWhere notification is inappropriate because of circumstances that may obstruct the investigation, such as the possible forging, concealing or destroying of evidence, interference with witnesses giving testimony or collusion to give false statements, the matter shall be submitted for approval in accordance with regulations and recorded on file. Once the circumstances obstructing the investigation have disappeared, the unit to which the person in protective custody belongs and his family members shall be notified immediately."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Section 8 Protective Custody"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "After taking the measure of protective custody, the supervisory organ shall, within 24 hours, hold an interview with or interrogate the person in protective custody."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Section 8 Protective Custody"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The period of protective custody shall not exceed seven days, running from the date on which it is announced to the person in protective custody. Where, because the case is complex or difficult and no decision to retain the person in custody or to lift protective custody can be made within seven days, the period may, after examination and approval, be extended by one to three days.\nWhere the period of protective custody is extended, the decision to extend it shall be announced to the person in protective custody before the expiry of the period of protective custody, and he shall be required to sign the Decision on Extending the Period of Protective Custody and affix his fingerprint. Where the person in protective custody refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nWhere the period of protective custody is extended, the unit to which the person in protective custody belongs and his family members shall be notified promptly."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Section 8 Protective Custody"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where the measure of protective custody no longer needs to be continued in respect of a person in protective custody, the protective custody shall be lifted or modified into an order to await investigation after the matter has been submitted for approval in accordance with regulations. Where the period of protective custody has expired, it shall be lifted after the matter has been submitted for approval in accordance with regulations.\nWhere the measure of protective custody is lifted, the investigators shall announce the decision to lift the measure of protective custody to the person in protective custody, who shall sign the Decision on Lifting Protective Custody and affix his fingerprint; where the measure is modified into an order to await investigation, the decision to modify the measure into an order to await investigation shall be announced to the person in protective custody, who shall sign the Decision on Modifying Protective Custody and affix his fingerprint. Where the person in protective custody refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nWhere the measure of protective custody is lifted or modified into an order to await investigation, the unit to which the person in protective custody belongs, his family members and the applicant shall be notified promptly. The investigators shall complete handover formalities with the person taking over and have him sign the Notice of Lifting Protective Custody or the Notice of Modifying Protective Custody. Where notification is impossible or the relevant persons refuse to sign, the investigators shall record this in the document. The lifting or modification of the measure of protective custody may not be delayed by reason of the completion of handover formalities."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Section 8 Protective Custody"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where the measure of protective custody is modified into retention in custody before the expiry of the period of protective custody, the provisions of these Regulations on taking the measure of retention in custody shall apply."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Section 8 Protective Custody"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where, in investigating serious duty-related unlawful acts or duty-related crimes, a person under investigation meets the conditions provided in paragraph 1 of Article 24 of the Supervision Law, the supervisory organ may, after lawful examination and approval, take the measure of retention in custody in respect of him.\nThe circumstance that part of the facts and evidence of the illegal or criminal conduct has already been grasped, as provided in paragraph 1 of Article 24 of the Supervision Law, means the concurrent existence of the following:\n(1) there is evidence proving that facts of illegal or criminal conduct occurred;\n(2) there is evidence proving that those facts of illegal or criminal conduct were carried out by the person under investigation;\n(3) the evidence proving that the person under investigation carried out the illegal or criminal conduct has been verified as true.\nPart of the facts of illegal or criminal conduct may be the facts of a single act of illegal or criminal conduct or the facts of any one of several acts of illegal or criminal conduct.\nImportant problems as provided in paragraph 1 of Article 24 of the Supervision Law mean facts, circumstances and evidence which have an important bearing, in respect of the serious duty-related unlawful acts or duty-related crimes of which the person under investigation is suspected, on characterisation and disposition, conviction and sentencing and the like."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where any of the following circumstances exists in respect of a person under investigation, it may be determined that there is the possibility of escape or suicide provided in item 2 of paragraph 1 of Article 24 of the Supervision Law:\n(1) he begins to prepare to commit suicide, to injure himself or to escape;\n(2) he has previously committed suicide, injured himself or attempted to escape;\n(3) he has the intention to commit suicide, to injure himself or to escape;\n(4) other circumstances in which escape or suicide is possible."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where any of the following circumstances exists in respect of a person under investigation, it may be determined that there is the possibility of colluding to give false statements or of forging, concealing or destroying evidence provided in item 3 of paragraph 1 of Article 24 of the Supervision Law:\n(1) he has previously colluded to give false statements or forged, concealed, destroyed or transferred evidence, or has attempted to do so;\n(2) he has previously intimidated, threatened, induced or suborned a witness, or interfered with a witness giving testimony, or has attempted to do so;\n(3) an accomplice or a person involved in the case who has close connections with the illegal or criminal conduct of the person under investigation is at large, and important evidence has not yet been fully collected;\n(4) other circumstances in which collusion to give false statements or the forging, concealing or destroying of evidence is possible."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where any of the following circumstances exists in respect of a person under investigation, it may be determined that there may be other acts obstructing the investigation provided in item 4 of paragraph 1 of Article 24 of the Supervision Law:\n(1) he may continue to commit illegal or criminal conduct;\n(2) there is a real danger of harm to State security, public security or the like;\n(3) he may retaliate against informants, accusers, victims, witnesses, experts and other relevant persons;\n(4) he refuses to appear without justified reason, seriously affecting the investigation;\n(5) other acts which may obstruct the investigation."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "The measure of retention in custody may not be taken in respect of the following persons:\n(1) persons suffering from serious illness or unable to look after themselves;\n(2) pregnant women or women who are breastfeeding their own infants;\n(3) the sole supporter of a person unable to look after himself.\nOnce the above circumstances have disappeared, the measure of retention in custody may be taken in respect of the persons concerned according to the needs of the investigation."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "When taking the measure of retention in custody, there shall be not fewer than two investigators, who shall announce the Decision on Retention in Custody to the person retained in custody, inform him of his rights and obligations, and require him to sign the Decision on Retention in Custody and affix his fingerprint. Where the person retained in custody refuses to sign or affix his fingerprint, the investigators shall record this in the document."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "After the measure of retention in custody has been taken, the unit to which the person retained in custody belongs and his family members shall be notified within 24 hours. Where notification is given in person, the relevant persons shall sign the Notice of Retention in Custody. Where notification in person is impossible, notification may first be given by telephone or other means, and the Notice of Retention in Custody shall be served by post or through transmission, and the relevant persons shall be required to sign it. Where the relevant persons refuse to sign, the investigators shall record this in the document.\nWhere notification is inappropriate because of circumstances that may obstruct the investigation, such as the possible forging, concealing or destroying of evidence, interference with witnesses giving testimony or collusion to give false statements, the matter shall be submitted for approval in accordance with regulations and recorded on file. Once the circumstances obstructing the investigation have disappeared, the unit to which the person retained in custody belongs and his family members shall be notified immediately."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "After taking the measure of retention in custody, the supervisory organ shall, within 24 hours, hold an interview with a person under investigation who is suspected of duty-related unlawful acts and interrogate a person under investigation who is suspected of duty-related crimes."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "The period of retention in custody shall not exceed three months, running from the date on which it is announced to the person retained in custody. Where any of the following circumstances exists, the period may, after examination and approval, be extended once, and the extension may not exceed three months:\n(1) the case is major and seriously harms the interests of the State or the public interest;\n(2) the case is complex, involves many persons, a huge amount of money and a wide scope;\n(3) important evidence has not yet been fully collected, or important persons involved in the case have not yet appeared, so that the main facts of the illegal or criminal conduct still need to be further investigated;\n(4) other circumstances in which the period of retention in custody needs to be extended.\nWhere a supervisory organ at or below the provincial level takes the measure of retention in custody, the extension of the period of retention in custody shall be submitted to the supervisory organ at the next higher level for approval.\nWhere the period of retention in custody is extended, the decision to extend it shall be announced to the person retained in custody before the expiry of the period of retention in custody, and he shall be required to sign the Decision on Extending the Period of Retention in Custody and affix his fingerprint. Where the person retained in custody refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nWhere the period of retention in custody is extended, the unit to which the person retained in custody belongs and his family members shall be notified promptly."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Where a person under investigation who is suspected of a duty-related crime may be sentenced to fixed-term imprisonment of not less than ten years and, after the expiry of the extension made in accordance with Article 129 of these Regulations, the investigation still cannot be concluded, the period may, after examination and approval, be further extended, and the further extension may not exceed two months.\nWhere a supervisory organ at or below the provincial level needs to further extend the period of retention in custody, it shall report level by level to the National Supervisory Commission for approval.\nWhere the period of retention in custody is further extended, the decision on the further extension shall be announced to the person retained in custody before the expiry of the period of retention in custody, and he shall be required to sign the Decision on Further Extending the Period of Retention in Custody and affix his fingerprint. Where the person retained in custody refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nWhere the period of retention in custody is further extended, the unit to which the person retained in custody belongs and his family members shall be notified promptly."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where approval is requested for the extension or further extension of the period of retention in custody, the materials submitted shall state the basic information of the person retained in custody, the main facts of the case, the progress of the investigation after retention in custody, the plan for the next stage of investigation, and the specific reasons for and the starting and ending times of the extension or further extension.\nWhere approval is requested for the extension or further extension of the period of retention in custody, a reasonable and necessary time proposal shall be put forward according to the specific circumstances of the case and the actual needs of the work.\nAfter receiving an application for approval of the extension or further extension of the period of retention in custody, the supervisory organ at a higher level shall promptly deliberate and make a decision in accordance with procedures before the expiry of the original period of retention in custody."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where, during the investigation, a supervisory organ at or above the provincial level discovers that a person under investigation who is suspected of a duty-related crime has also committed a major duty-related crime of a different type from the crime for which he was retained in custody, or a major duty-related crime of the same type which affects the determination of the charge or the sentencing range, the period of retention in custody may, after examination and approval, be recalculated in accordance with the provisions of paragraph 3 of Article 48 of the Supervision Law. The period of retention in custody may be recalculated only once.\nWhere the period of retention in custody is recalculated in accordance with the provisions of the preceding paragraph, the investigation department of the National Supervisory Commission shall complete the approval procedures within five days from the date of discovery, and a provincial-level supervisory organ shall, within five days from the date of discovery, submit the matter to the National Supervisory Commission for approval.\nWhere the period of retention in custody is recalculated, the decision shall be announced to the person retained in custody within five days from the date of the decision, he shall be required to sign the Decision on Recalculating the Period of Retention in Custody and affix his fingerprint, and the unit to which he belongs and his family members shall be notified promptly. Where the person retained in custody refuses to sign or affix his fingerprint, the investigators shall record this in the document."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where the period of retention in custody is recalculated, the period of retention in custody may not exceed three months. Where the newly discovered crime falls under the circumstances provided in Articles 129 and 130 of these Regulations, the period of retention in custody may be extended and further extended in accordance with law. However, where the period of retention in custody has already been further extended in accordance with the provisions of Article 130 of these Regulations, that provision may not be applied again to further extend the period."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where the measure of retention in custody no longer needs to be continued in respect of a person retained in custody, retention in custody shall be lifted or modified into an order to await investigation after the matter has been submitted for approval in accordance with regulations. Where the period of retention in custody has expired, it shall be lifted after the matter has been submitted for approval in accordance with regulations.\nWhere the measure of retention in custody is lifted, the investigators shall announce the decision to lift the measure of retention in custody to the person retained in custody, who shall sign the Decision on Lifting Retention in Custody and affix his fingerprint; where the measure is modified into an order to await investigation, the decision to modify the measure into an order to await investigation shall be announced to the person retained in custody, who shall sign the Decision on Modifying Retention in Custody and affix his fingerprint. Where the person retained in custody refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nWhere the measure of retention in custody is lifted or modified into an order to await investigation, the unit to which the person retained in custody belongs, his family members and the applicant shall be notified promptly. The investigators shall complete handover formalities with the person taking over and have him sign the Notice of Lifting Retention in Custody or the Notice of Modifying Retention in Custody. Where notification is impossible or the relevant persons refuse to sign, the investigators shall record this in the document. The lifting or modification of the measure of retention in custody may not be delayed by reason of the completion of handover formalities.\nWhere a case is transferred to the people's procuratorate for examination and prosecution in accordance with law, the measure of retention in custody shall be automatically released when criminal detention is executed against the criminal suspect, and no legal formalities for lifting it need be completed."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Section 9 Retention in Custody"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where, in investigating serious duty-related unlawful acts or duty-related crimes, a supervisory organ needs, according to the needs of the work, to inquire into or freeze property such as deposits, remittances, bonds, shares and fund units of the units and individuals involved in the case, it may do so in accordance with law after submitting the matter for approval in accordance with regulations."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Section 10 Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "When inquiring into or freezing property, there shall be not fewer than two investigators. The investigators shall issue a Notice of Assistance in Inquiring into Property or a Notice of Assistance in Freezing Property and deliver it to a bank or other financial institution, a postal department or another unit for execution. The relevant units and individuals shall co-operate and strictly maintain confidentiality.\nFor an inquiry into property, information such as the account number inquired into and the content of the inquiry shall be stated in the Notice of Assistance in Inquiring into Property. Where there is no specific account number, information sufficient to identify the account or the right holder, such as the name and identity document number of a natural person or the name and unified social credit code of a market entity, shall be stated.\nFor the freezing of property, information such as the name of the frozen account, the frozen account number, the frozen amount and the starting and ending times of the freezing period shall be stated in the Notice of Assistance in Freezing Property. The frozen amount shall be specific and clear; where the specific amount cannot be determined for the time being, the words 'receipts only, no payments' shall be clearly stated in the Notice of Assistance in Freezing Property. Where securities and transaction settlement funds are frozen, it shall be clearly stated whether the scope of the freezing extends to the fruits thereof.\nWhere property is frozen, the necessary living expenses of the person under investigation and of the relatives he supports shall be retained."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Section 10 Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Investigators may, as required, print, transcribe, copy or photograph the results of an inquiry and require the relevant units to affix a certifying seal to the relevant materials. Where there are doubts about the results of an inquiry, the relevant units may be required to provide a written explanation and affix their seal."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Section 10 Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Supervisory organs shall strengthen the management of inquiry information, standardise the procedures and formalities for its handover, consultation and use, and prevent abuse and disclosure.\nInvestigators may not inquire into information unrelated to the investigative work of the case."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Section 10 Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "The period for freezing property shall not exceed six months. Where the formalities for renewal of the freezing are not completed upon the expiry of the freezing period, the freezing shall be automatically released.\nWhere the freezing period needs to be extended for special reasons, the matter shall be submitted for approval in accordance with the original procedure before expiry and the formalities for renewal of the freezing shall be completed. Each renewal of the freezing period shall not exceed six months."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Section 10 Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Property already frozen may be subject to a successive freezing order and may not be frozen repeatedly. Where a successive freezing order is made, the supervisory organ shall require the relevant bank or other financial institution or other unit to notify it before releasing the freezing or disposing of the property.\nWhere, after accepting property involved in a case transferred by a judicial organ, another supervisory organ or another State organ, the freezing period taken by that State organ expires, the order of priority of the supervisory organ's continued freezing shall be the same as that of the freezing by that State organ."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Section 10 Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where property is frozen, the right holder or his legal representative or entrusted agent shall be notified and required to sign the Notice of Freezing of Property. Where property such as shares, bonds and fund units is frozen, the right holder or his legal representative or entrusted agent shall be informed of the right to apply for sale.\nWhere the right holder or his legal representative or entrusted agent applies for the sale of frozen property such as shares, bonds and fund units, and the sale does not harm the interests of the State or of victims and does not affect the normal conduct of the investigation, the property may, after examination and approval, be sold or converted into money by the institution concerned in accordance with law before the case is concluded. Where a frozen bill of exchange, promissory note or cheque is about to fall due, it may, after examination and approval, be sold or converted into money by the institution concerned in accordance with law before the case is concluded. Where such property is sold, a Notice Permitting the Sale of Frozen Property shall be issued.\nThe proceeds of sale or conversion into money shall continue to be frozen in the corresponding bank account; where there is no corresponding bank account, they shall be deposited in a special account designated by the supervisory organ for safekeeping, and the deposit voucher shall be sent to the supervisory organ for registration. The supervisory organ shall promptly issue a Notice of Sale of Frozen Property to the right holder or his legal representative or entrusted agent and require them to sign it. Where they refuse to sign, the investigators shall record this in the document."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Section 10 Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "Frozen property shall be verified promptly. Where it is ascertained that the property is unrelated to the case, the Notice of Lifting the Freezing of Property shall, after examination and approval, be delivered to the relevant unit for execution within three days after the ascertainment. The right holder of the frozen property or his legal representative or entrusted agent shall be informed of the lifting."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Section 10 Inquiry and Freezing"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Where, in investigating a case of duty-related crimes, a supervisory organ needs, in order to collect criminal evidence and find the person under investigation, to search the person of the person under investigation and of persons who may conceal the person under investigation or criminal evidence, as well as their belongings, residences, workplaces and other relevant places, it may do so in accordance with law after submitting the matter for approval in accordance with regulations."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Section 11 Search"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "A search shall be conducted under the direction of investigators, and there shall be not fewer than two investigators. The body of a female shall be searched by female staff members.\nAt the time of a search, the person searched or his family members, staff members of the unit to which he belongs or other witnesses shall be present. The investigators shall produce the Search Warrant to the person searched or his family members and to the witnesses and require them to sign or seal it. Where the person searched or his family members are not present, or refuse to sign or seal, the investigators shall record this in the document."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Section 11 Search"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "At the time of a search, the persons present shall be required to co-operate and may not obstruct it. Obstruction of a search by violence, threat or other means shall be stopped in accordance with law. Where obstruction of a search constitutes an illegal or criminal act, legal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Section 11 Search"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Synchronous audio and video recording shall be made throughout the search and the collection of evidence.\nA Search Record shall be made of the circumstances of the search and shall be signed or sealed by the investigators, the person searched or his family members and the witnesses. Where the person searched or his family members are not present, or refuse to sign or seal, the investigators shall record this in the record.\nImportant physical evidence, documentary evidence, audio-visual materials and electronic data found in the search, and the places where they were placed and stored, shall be photographed, and a written explanation shall be made in the Search Record."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Section 11 Search"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "At the time of a search, the presence of minors or other persons unsuitable to be present at the scene of the search shall be avoided.\nSearch personnel shall obey direction and enforce the law in a civilised manner, may not change the object of the search or expand the scope of the search on their own authority, and are strictly prohibited from entering the search area alone. The specific time and method of the search shall be kept strictly confidential before it is carried out."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Section 11 Search"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where property and documents are sealed up or seized in the course of a search, the relevant provisions on sealing up and seizure shall apply."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Section 11 Search"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "After submitting the matter for approval in accordance with regulations, a supervisory organ may, in accordance with law, obtain from the relevant units and individuals evidentiary materials to prove the facts of the case."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Section 12 Obtaining of Materials"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "When obtaining evidentiary materials, there shall be not fewer than two investigators. The investigators shall issue a Notice of Obtaining Evidence in accordance with law, and shall attach a List of Evidence Obtained where necessary.\nThe relevant units and individuals shall strictly maintain confidentiality when co-operating with a supervisory organ in obtaining evidence."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Section 12 Obtaining of Materials"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "Physical evidence shall be obtained in its original form. Where the original cannot conveniently be transported or preserved, or should be returned in accordance with law, or cannot be obtained for reasons of confidentiality, the original may be sealed up and photographed or recorded on video. Photographs or video recordings of the original shall sufficiently reflect its external appearance and content.\nDocumentary evidence and audio-visual materials shall be obtained in their original form. Where it is genuinely difficult to obtain the original, or the original cannot be obtained for reasons of confidentiality, a duplicate or copy may be obtained.\nWhere photographs or video recordings of physical evidence, or duplicates or copies of documentary evidence and audio-visual materials, are obtained, a written record shall be made of the reasons why the original could not be obtained, the place where the original is kept, the process of production, whether it corresponds to the original, and it shall be signed or sealed by the investigators and the person who originally held the physical evidence, documentary evidence or audio-visual materials. Where the holder is unable to sign or seal, or refuses to do so, this shall be recorded in the record and the witnesses shall sign."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Section 12 Obtaining of Materials"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "Where materials in a foreign language are obtained for use as evidence, a Chinese translation shall be issued by a qualified institution or person. The Chinese translation shall bear the official seal of the translation institution."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Section 12 Obtaining of Materials"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "When collecting or extracting electronic data, where the original storage medium can be seized, it shall be seized and sealed up, and the state of sealing shall be recorded in the record. Where the original storage medium cannot be seized, the measures of obtaining materials or inspection and examination may be taken to collect or extract the electronic data on site or remotely through a network, provided that the record shall state the reasons why seizure was impossible, the place where the original storage medium is kept or the source of the electronic data and other circumstances.\nWhere, for objective reasons, it is impossible or inappropriate to collect or extract electronic data in the manner provided in the preceding paragraph, the relevant evidence may be fixed by printing, photographing or video recording, and the reasons shall be explained in the record.\nElectronic data collected or extracted which is sufficiently guaranteed to be complete and free from deletion, modification or addition may be used as evidence.\nWhen collecting or extracting electronic data, a record shall be made stating the cause of the case, the object, the content, and the time, place, method and process of collecting or extracting the electronic data, and a list of the electronic data shall be attached indicating the category, file format, integrity check value and the like, and it shall be signed or sealed by the investigators and the holder (provider) of the electronic data; where the holder (provider) of the electronic data is unable to sign or refuses to sign, this shall be recorded in the record and the witnesses shall sign or seal. Where conditions permit, the relevant activities shall be video recorded."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Section 12 Obtaining of Materials"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Where the originals of physical evidence, documentary evidence and audio-visual materials obtained are ascertained to be unrelated to the case, they shall, after examination and approval, be returned within three days after the ascertainment, and handover formalities shall be completed."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Section 12 Obtaining of Materials"
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "After submitting the matter for approval in accordance with regulations, a supervisory organ may, in accordance with law, seal up or seize property, documents, electronic data and other evidentiary materials used to prove that the person under investigation is suspected of illegal or criminal conduct and to prove the seriousness of the circumstances.\nWhere the articles carried by the person under investigation when he appears, and the property and documents voluntarily handed over by the person under investigation or other relevant persons, need to be seized in accordance with law, the provisions of the preceding paragraph shall apply. Personal articles carried by the person under investigation which are unrelated to the case shall be registered item by item and transferred with the case or returned."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "Synchronous audio and video recording shall be made throughout the sealing up and seizure.\nWhen sealing up or seizing, a Notice of Sealing Up/Seizure shall be issued, and there shall be not fewer than two investigators. Where the holder refuses to hand over the property and documents that should be sealed up or seized, the sealing up or seizure may be enforced in accordance with law.\nFor the property and documents sealed up or seized, the investigators shall, together with the witnesses present and the holder of the property sealed up or seized, carry out an inventory and verification, draw up a List of Property and Documents Sealed Up/Seized, and it shall be signed or sealed by the investigators, the witnesses and the holder. Where the holder is not present or refuses to sign or seal, the investigators shall record this in the list.\nWhere property is sealed up or seized, the necessary living expenses and articles of the person under investigation and of the relatives he supports shall be retained."
+        },
+        "noLabel": {
+          "en": "Article 156."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "Where immovable property and facilities, furniture and other related property attached to it that are not convenient to move, as well as vehicles, ships, aircraft, large machinery and equipment and other property, are sealed up or seized, the title certificates thereof may, where necessary, be seized in accordance with law, and the property shall be sealed up in situ after being photographed or video recorded. The investigators shall record in the list of sealing up the address and features of the relevant property, the fact that it has been photographed or video recorded and the fact that its title certificate has been seized, and it shall be signed or sealed by the investigators, the witnesses and the holder. Where the holder is not present or refuses to sign or seal, the investigators shall record this in the list.\nWhere the property provided in the preceding paragraph is sealed up or seized, the property sealed up may, where necessary, be delivered to the holder or his close relatives for safekeeping. The investigators shall inform the custodian to keep it properly and not to transfer, sell, damage, mortgage, give away or otherwise deal with the property sealed up.\nThe investigators shall serve the Notice of Sealing Up/Seizure on the registration or administration department of the immovable property, production equipment, vehicles, ships, aircraft or other property, informing it that during the period of sealing up no registration of change or transfer of title such as mortgage, assignment or sale may be processed. The relevant circumstances shall be recorded in the list of sealing up. Where a mortgage has already been registered over the property sealed up or seized, the supervisory organ shall promptly notify the mortgagee when executing the decision to confiscate, recover or order restitution."
+        },
+        "noLabel": {
+          "en": "Article 157."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "The following articles shall, when sealed up or seized, be handled accordingly in accordance with law:\n(1) where foreign currency, gold, silver and jewellery, cultural relics, valuable calligraphy and paintings and other valuable articles whose authenticity is difficult to distinguish are sealed up or seized and the conditions for sealing on the spot are met, they shall be sealed on the spot, and not fewer than two investigators shall sign the sealing material and record the time of sealing. Where the conditions for sealing on the spot are not met, this shall be recorded in the record and the articles shall be preserved by photographing or video recording before being sealed up. Where the valuable articles sealed up or seized need to be appraised, they shall be appraised promptly.\n(2) where passbooks, bank cards, negotiable securities and other payment instruments, and cash with certain features capable of proving the circumstances of the case, are sealed up or seized, their features, serial numbers, categories, denominations, number of notes and amount shall be recorded, they shall be sealed on the spot, and not fewer than two investigators shall sign the sealing material and record the time of sealing.\n(3) where articles which are easily damaged, lost or deteriorated and are unsuitable for long-term preservation, and cards and coupons with a period of validity, are sealed up or seized, this shall be recorded in the record, they shall be preserved by photographing or video recording before being sealed up, or they may, after examination and approval, be entrusted to the relevant institution for sale or auction. The proceeds of sale or auction shall be deposited in a special account for safekeeping and dealt with together after the investigation is concluded.\n(4) for audio and video recordings and electronic data storage media which may be used as evidence, the cause of the case, the object and the content, and the time, place, specifications, category, application length, file format and length of recording or copying shall be recorded, and a list shall be made. Electronic devices and storage media meeting the conditions for sealing up or seizure shall be sealed for preservation. Where necessary, the assistance of the relevant organs may be requested.\n(5) indivisible property purchased by the person under investigation partly with the proceeds of illegal or criminal conduct and partly with lawful income may be sealed up or seized in advance. Where the property cannot be divided and returned and the matter involves illegality, the relatives of the person under investigation or other persons entrusted by him may, upon his application and with the approval of the supervisory organ and under the supervision of the supervisory organ, convert it into money themselves and hand over the illegal proceeds and fruits thereof, or the supervisory organ may, after the case is concluded, entrust the relevant unit to auction or sell it and return the part and fruits thereof that are not illegal proceeds; where the matter involves a duty-related crime, it shall be transferred to the judicial organ for disposition in accordance with law, with a statement of the amount of the proceeds of the suspected crime and the fruits thereof.\n(6) where dangerous articles or contraband articles are sealed up or seized, they shall be promptly delivered to the relevant departments, or strictly sealed and kept according to the needs of the work."
+        },
+        "noLabel": {
+          "en": "Article 158."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "Where property and documents need to be unsealed, this shall be handled jointly by not fewer than two investigators. When resealing, not fewer than two investigators shall sign the sealing material and record the time."
+        },
+        "noLabel": {
+          "en": "Article 159."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "Where property involved in a case is sealed up or seized, the detailed information on the property involved in the case and the List of Property and Documents Sealed Up/Seized shall, in accordance with regulations, be entered into and uploaded to the information management system for property involved in cases of the supervisory organ.\nSums involved in a case shall be deposited in a special account designated by the supervisory organ within 15 days after the measure is taken. Articles involved in a case shall be transferred to the department for the custody of property involved in cases within 30 days after the measure is taken. Where, for special reasons, they cannot be deposited in the special account or transferred for custody on time, the matter shall be submitted for approval in accordance with regulations, the circumstances of custody shall be entered into the information management system for property involved in cases, and they shall be deposited or transferred promptly once the reasons are removed."
+        },
+        "noLabel": {
+          "en": "Article 160."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "Where property involved in a case already transferred to the department for the custody of property involved in cases needs to be temporarily called for use according to the needs of the investigation, it may be called for use after examination and approval, and its integrity shall be ensured. After use, it shall be returned promptly. When calling for use and returning, the investigators and custodians shall carry out an inventory and inspection in person. The custody department shall register the calling for use and the return, record the whole process on video and upload it to the information management system for property involved in cases."
+        },
+        "noLabel": {
+          "en": "Article 161."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Where seized property such as shares, bonds and fund units, and bills of exchange, promissory notes and cheques about to fall due, needs to be sold or converted into money in accordance with law, the provisions of these Regulations on the sale of frozen property shall apply."
+        },
+        "noLabel": {
+          "en": "Article 162."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "Where, after accepting property involved in a case transferred by a judicial organ, another supervisory organ or another State organ, the period of sealing up or seizure taken by that State organ expires, the order of priority of the supervisory organ's continued sealing up or seizure shall be the same as that of the sealing up or seizure by that State organ."
+        },
+        "noLabel": {
+          "en": "Article 163."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "Property and documents sealed up or seized shall be verified promptly. Where they are ascertained to be unrelated to the case, the sealing up or seizure shall, after examination and approval, be lifted and the property returned within three days after the ascertainment. Where the sealing up or seizure is lifted, a Notice of Lifting Sealing Up/Seizure shall be served on the relevant unit, the original holder or his close relatives, together with a List of Property and Documents Released from Sealing Up/Seizure, and they shall be required to sign or seal it."
+        },
+        "noLabel": {
+          "en": "Article 164."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "Before a case is filed for investigation, property involved in a case voluntarily handed over by persons subject to supervision and related persons may be accepted after examination and approval.\nWhen accepting it, not fewer than two investigators shall, together with the holder and the witnesses, carry out an inventory and verification and fill in on the spot a Registration Form for Voluntarily Handed-over Property. The investigators, the holder and the witnesses shall sign or seal the registration form.\nIn respect of the property voluntarily handed over, a timely decision shall be made, according to the filing of the case and the progress of the investigation, on whether to seal it up or seize it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 165."
+        },
+        "chapter": {
+          "en": "Section 13 Sealing Up and Seizure"
+        }
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "After submitting the matter for approval in accordance with regulations, a supervisory organ may, in accordance with law, carry out inspection and examination of places, articles, persons, corpses and electronic data related to illegal or criminal conduct."
+        },
+        "noLabel": {
+          "en": "Article 166."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "Where inspection and examination are required in accordance with law, an Inspection and Examination Certificate shall be made; where inspection and examination are to be entrusted, a Letter of Entrusted Inspection and Examination shall be issued and delivered to persons with specialised knowledge for handling."
+        },
+        "noLabel": {
+          "en": "Article 167."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "Inspection and examination shall be presided over by not fewer than two investigators, and witnesses unrelated to the case shall be invited to be present. A record shall be made of the inspection and examination, and it shall be signed or sealed by the persons participating in the inspection and examination and by the witnesses.\nSynchronous audio and video recording shall be made throughout the inspection and examination of a scene and the unsealing of electronic data storage media. Photographs of the scene shall be taken and a plan of the scene drawn up, and they shall be signed or sealed by the persons carrying out the inspection and examination."
+        },
+        "noLabel": {
+          "en": "Article 168."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "In order to ascertain certain characteristics, injuries or physiological condition of a person under investigation or a related person, an examination of his person may be carried out in accordance with law. Where necessary, a forensic doctor or physician may be engaged to carry out the examination of the person. Examination of the body of a female shall be carried out by female staff members or a physician. Where the person under investigation refuses examination, compulsory examination may be carried out in accordance with law.\nExamination of the person may not employ methods that harm the life or health of the person examined or that degrade his reputation or dignity. Personal privacy learnt in the course of the examination shall be kept strictly confidential.\nA record shall be made of the examination of the person and shall be signed or sealed by the investigators and examiners participating in the examination, the person examined and the witnesses. Where the person examined refuses to sign or seal, the investigators shall record this in the record."
+        },
+        "noLabel": {
+          "en": "Article 169."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "In order to ascertain the circumstances of a case, an investigative experiment may, where necessary, be carried out in accordance with law after examination and approval. Relevant professional persons may be engaged to participate in the investigative experiment, and the person under investigation, victims and witnesses may also be required to participate.\nSynchronous audio and video recording shall be made throughout the investigative experiment, a record of the investigative experiment shall be made, and it shall be signed or sealed by the persons participating in the experiment. In carrying out an investigative experiment, all acts likely to create danger or to degrade personal dignity are prohibited.\nWhere the conditions of the investigative experiment differ markedly from the conditions at the time of the occurrence of the event, or where other circumstances exist affecting the scientific nature of the conclusions of the experiment, the record of the investigative experiment may not serve as a basis for determining the case."
+        },
+        "noLabel": {
+          "en": "Article 170."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "Where necessary, investigators may, in accordance with law, have victims, witnesses and persons under investigation identify articles, documents, corpses or places related to illegal or criminal conduct; victims and witnesses may also be asked to identify the person under investigation, or the person under investigation may be asked to identify the persons involved in the case.\nIdentification work shall be presided over by not fewer than two investigators. Before identification, the person identifying shall be asked in detail about the specific features of the object of identification, shall be prevented from seeing the object of identification, and shall be informed of the legal responsibility borne for making a false identification. Where several persons identify the same object, they shall carry out the identification individually. A record shall be formed of the identification and shall be signed or sealed by the investigators and the person identifying."
+        },
+        "noLabel": {
+          "en": "Article 171."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "Where persons are identified, the number of persons to be identified shall be not fewer than seven, and the number of photographs shall be not fewer than ten.\nWhere the person identifying does not wish to do so openly, the identification shall be carried out without revealing the identity of the person identifying, and confidentiality shall be maintained for him."
+        },
+        "noLabel": {
+          "en": "Article 172."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "Where articles are identified, the physical articles shall generally be identified. Where the articles to be identified are valuable articles such as precious calligraphy and paintings, or are inconvenient to transport, photographs of the physical articles may be identified. When carrying out the identification, the person identifying shall affix his fingerprint across the junction between the identified photograph and the attached sheet to confirm it, and shall state on the attached sheet the circumstances of the article's involvement in the case, sign it and affix his fingerprint.\nWhere articles are identified, the number of articles of the same kind shall be not fewer than five, and the number of photographs shall be not fewer than five.\nFor a specific article for which similar articles are difficult to find, a photograph of that article may be handed to the person identifying for confirmation, whereupon a fingerprint shall be affixed across the junction between the photograph and the attached sheet, and the circumstances of the article's involvement in the case shall be stated on the attached sheet together with a signature and fingerprint. Before the person identifying confirms it, he shall be asked in detail about the specific features of the article, and a record shall be made of the process and result of the confirmation."
+        },
+        "noLabel": {
+          "en": "Article 173."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 174,
+        "text": {
+          "en": "A record of identification may not serve as a basis for determining the case where any of the following circumstances exists:\n(1) the person identifying was shown the object of identification before the identification began;\n(2) the identification activities were not carried out individually;\n(3) the object of identification was not mixed with other objects of similar features, or the number of objects presented for identification does not meet the requirements, except for a specific object of identification;\n(4) obvious hints were given to the person identifying, or there was an obvious suspicion of pointing out, during the identification;\n(5) the identification was not carried out under the direction of investigators;\n(6) other circumstances in violation of the relevant provisions in which the authenticity of the record of identification cannot be established.\nWhere the record of identification has other defects, its authenticity and relevance shall be examined in the light of all the evidence in the case and a comprehensive judgment shall be made."
+        },
+        "noLabel": {
+          "en": "Article 174."
+        },
+        "chapter": {
+          "en": "Section 14 Inspection and Examination, and Investigative Experiment"
+        }
+      },
+      {
+        "no": 175,
+        "text": {
+          "en": "In order to resolve specialised issues in a case, a supervisory organ may, after submitting the matter for approval in accordance with regulations, carry out expert evaluation in accordance with law.\nWhen carrying out expert evaluation, a Letter of Entrusted Expert Evaluation shall be issued, and not fewer than two investigators shall deliver it to a qualified expert evaluation institution or expert for the evaluation."
+        },
+        "noLabel": {
+          "en": "Article 175."
+        },
+        "chapter": {
+          "en": "Section 15 Expert Evaluation"
+        }
+      },
+      {
+        "no": 176,
+        "text": {
+          "en": "Supervisory organs may carry out the following expert evaluations in accordance with law:\n(1) evaluation of handwriting, printed documents, damaged documents, documents of uncertain date of production and documents in other forms;\n(2) accounting evaluation of financial and accounting materials and related property involved in a case;\n(3) psychiatric evaluation of the capacity of the person under investigation or of a witness;\n(4) medical evaluation of personal injury or death in respect of harm caused to the person or the cause of death;\n(5) evaluation of audio and video recordings;\n(6) electronic data evaluation of materials and derivatives thereof arising from the application of electronic information technology;\n(7) other professional evaluations that may be carried out in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 176."
+        },
+        "chapter": {
+          "en": "Section 15 Expert Evaluation"
+        }
+      },
+      {
+        "no": 177,
+        "text": {
+          "en": "Supervisory organs shall provide the necessary conditions for expert evaluation, deliver to the expert the relevant test materials, comparison samples and other original materials, and explain the circumstances relating to the evaluation. The investigators shall clearly state the matters on which evaluation is requested, but may not hint at or compel the expert to give a particular opinion.\nSupervisory organs shall properly keep the test materials and submit them for testing, record the persons responsible at each stage of the submission of test materials, and ensure the identity and freedom from contamination of the test materials in the course of transfer."
+        },
+        "noLabel": {
+          "en": "Article 177."
+        },
+        "chapter": {
+          "en": "Section 15 Expert Evaluation"
+        }
+      },
+      {
+        "no": 178,
+        "text": {
+          "en": "An expert shall sign the expert opinion issued and attach the qualification certificates of the expert evaluation institution and of the expert or other supporting documents. Where the opinions of several experts diverge, the content and reasons for the divergence shall be recorded in the expert opinion and they shall each sign it.\nWhere a court decides in accordance with law during trial that an expert shall appear in court to testify, the supervisory organ shall provide co-ordination.\nWhere an expert intentionally gives a false evaluation, his legal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 178."
+        },
+        "chapter": {
+          "en": "Section 15 Expert Evaluation"
+        }
+      },
+      {
+        "no": 179,
+        "text": {
+          "en": "Investigators shall examine the expert opinion. Where an expert opinion is used as evidence after examination, the person under investigation and the relevant units and persons shall be informed and a Notice of Expert Opinion shall be served.\nWhere the person under investigation or the relevant units or persons apply for supplementary evaluation or re-evaluation and, after examination, the statutory requirements are met, supplementary evaluation or re-evaluation shall be carried out after the matter has been submitted for approval in accordance with regulations.\nA record may be made of the notification of the expert opinion, stating the content of the notification and the views of the persons notified."
+        },
+        "noLabel": {
+          "en": "Article 179."
+        },
+        "chapter": {
+          "en": "Section 15 Expert Evaluation"
+        }
+      },
+      {
+        "no": 180,
+        "text": {
+          "en": "Where, after examination, any of the following circumstances exists, supplementary evaluation shall be carried out:\n(1) there is an obvious omission in the content of the evaluation;\n(2) new physical evidence of evidential significance is discovered;\n(3) there are new requirements for the evaluation of the physical evidence;\n(4) the expert opinion is incomplete and the entrusted matters cannot be determined;\n(5) other circumstances in which supplementary evaluation is required."
+        },
+        "noLabel": {
+          "en": "Article 180."
+        },
+        "chapter": {
+          "en": "Section 15 Expert Evaluation"
+        }
+      },
+      {
+        "no": 181,
+        "text": {
+          "en": "Where, after examination, any of the following circumstances exists, re-evaluation shall be carried out:\n(1) the evaluation procedure was unlawful or contrary to the relevant professional and technical requirements;\n(2) the expert evaluation institution or expert lacks the qualifications and conditions for evaluation;\n(3) the expert intentionally gave a false evaluation or violated the provisions on withdrawal;\n(4) the expert opinion is manifestly inadequately supported;\n(5) the test materials are false or have been damaged;\n(6) other circumstances in which re-evaluation should be carried out.\nWhere re-evaluation is decided upon, a different expert evaluation institution and expert shall be designated."
+        },
+        "noLabel": {
+          "en": "Article 181."
+        },
+        "chapter": {
+          "en": "Section 15 Expert Evaluation"
+        }
+      },
+      {
+        "no": 182,
+        "text": {
+          "en": "Where there is no expert evaluation institution, or in accordance with the provisions of laws and regulations, a supervisory organ may designate or engage persons with specialised knowledge to issue reports on specialised issues in a case."
+        },
+        "noLabel": {
+          "en": "Article 182."
+        },
+        "chapter": {
+          "en": "Section 15 Expert Evaluation"
+        }
+      },
+      {
+        "no": 183,
+        "text": {
+          "en": "Where, according to the needs of investigating suspected major duty-related crimes such as embezzlement and bribery, a supervisory organ, in accordance with the prescribed authority and procedures, requests and obtains approval, it may take technical investigation measures in accordance with law and, in accordance with regulations, refer them to a public security organ or the relevant State law enforcement organ for execution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 183."
+        },
+        "chapter": {
+          "en": "Section 16 Technical Investigation"
+        }
+      },
+      {
+        "no": 184,
+        "text": {
+          "en": "Where technical investigation measures are taken in accordance with law, the supervisory organ shall issue a Letter of Entrustment for Taking Technical Investigation Measures, a Decision on Taking Technical Investigation Measures and a Statement of the Persons to Whom Technical Investigation Measures Apply and deliver them to the relevant organ for execution. Where a supervisory organ at or below the municipal level of cities with districts entrusts the relevant executing organ with taking technical investigation measures, it shall also provide the Decision on Filing the Case."
+        },
+        "noLabel": {
+          "en": "Article 184."
+        },
+        "chapter": {
+          "en": "Section 16 Technical Investigation"
+        }
+      },
+      {
+        "no": 185,
+        "text": {
+          "en": "The time limit for technical investigation measures shall be governed by the provisions of the Supervision Law; where the formalities for extension are not completed before the expiry of the time limit, the measures shall be automatically released upon expiry.\nWhere technical investigation measures no longer need to be continued, the supervisory organ shall, in accordance with regulations, promptly submit the matter for approval and deliver the Decision on Lifting Technical Investigation Measures to the relevant organ for execution.\nWhere the type of technical investigation measures needs to be modified or the persons to whom they apply need to be increased in accordance with law, the supervisory organ shall again complete the approval and entrustment formalities and deliver them to the relevant organ for execution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 185."
+        },
+        "chapter": {
+          "en": "Section 16 Technical Investigation"
+        }
+      },
+      {
+        "no": 186,
+        "text": {
+          "en": "Where the information and materials collected through technical investigation measures need to be used as evidence in criminal proceedings in accordance with law, the supervisory organ shall, in accordance with regulations, submit the matter for approval and issue a Notice of Obtaining Evidentiary Materials from Technical Investigation to obtain them from the relevant executing organ.\nFor physical evidence, documentary evidence and other evidentiary materials collected through technical investigation measures, the supervisory organ shall make a written explanation stating the time, place, quantity and features of obtaining the evidence and the approving organ and type of the technical investigation measures. The investigators shall sign the written explanation.\nWhere the use of evidentiary materials obtained through technical investigation measures may endanger the personal safety of the relevant persons or may produce other serious consequences, protective measures shall be taken not to reveal the identity of the relevant persons, the technical methods and the like. Where necessary, it may be suggested that the judges verify the matter outside the courtroom."
+        },
+        "noLabel": {
+          "en": "Article 186."
+        },
+        "chapter": {
+          "en": "Section 16 Technical Investigation"
+        }
+      },
+      {
+        "no": 187,
+        "text": {
+          "en": "Investigators shall strictly keep confidential the State secrets, work secrets, trade secrets, personal privacy and personal information learnt in the course of taking technical investigation measures.\nEvidence, leads and other relevant materials obtained through technical investigation measures may be used only for the investigation, prosecution and trial of illegal or criminal conduct and may not be used for other purposes.\nMaterials unrelated to the case obtained through technical investigation measures shall, after examination and approval, be promptly destroyed. A record shall be made of the destruction and signed by the investigators."
+        },
+        "noLabel": {
+          "en": "Article 187."
+        },
+        "chapter": {
+          "en": "Section 16 Technical Investigation"
+        }
+      },
+      {
+        "no": 188,
+        "text": {
+          "en": "Where a supervisory organ at or above the county level decides in accordance with law to place on the wanted list, within its administrative region, a person who should be retained in custody and has fled, it shall, in accordance with regulations, submit the matter for approval and deliver it to the public security organ at the same level for execution. When delivering it for execution, it shall issue a Decision on Placing on the Wanted List, attaching the Decision on Retention in Custody and other legal documents, information on the person placed on the wanted list, and information on the department and personnel handling the case.\nWhere the scope of the wanted list extends beyond its administrative region, the supervisory organ at a higher level having the power to decide shall be requested to issue the Decision on Placing on the Wanted List, attaching the Decision on Retention in Custody and the relevant materials, and it shall be delivered to the public security organ at the same level for execution."
+        },
+        "noLabel": {
+          "en": "Article 188."
+        },
+        "chapter": {
+          "en": "Section 17 Wanted List"
+        }
+      },
+      {
+        "no": 189,
+        "text": {
+          "en": "Where the National Supervisory Commission needs, in accordance with law, to request the Ministry of Public Security to issue a Ministry of Public Security wanted notice in respect of a person at large, it shall first request the Ministry of Public Security to take measures to pursue the person online. Where the circumstances are urgent, it may issue to the Ministry of Public Security at the same time the Decision on Placing on the Wanted List and the Letter of Request for Taking Measures to Pursue Online.\nWhere a supervisory organ at or below the provincial level requests the National Supervisory Commission to request the Ministry of Public Security to issue a Ministry of Public Security wanted notice, it shall first request the local public security organ to take measures to pursue the person online."
+        },
+        "noLabel": {
+          "en": "Article 189."
+        },
+        "chapter": {
+          "en": "Section 17 Wanted List"
+        }
+      },
+      {
+        "no": 190,
+        "text": {
+          "en": "After receiving notification from a public security organ that a person placed on the wanted list has been captured, the supervisory organ shall immediately verify the identity of the captured person and, within 24 hours after receipt of the notification, send personnel to complete the handover formalities. In remote areas or areas with inconvenient transport, this shall be done at the latest within three days.\nWhere, before transfer, a public security organ sends the captured person to a local retention facility of a supervisory organ for temporary custody, the local supervisory organ shall accept him, ensure safety during the period of temporary custody and strictly keep work information confidential.\nWhere a supervisory organ needs to request a public security organ to assist in bringing the captured person back, it shall submit the matter for approval in accordance with regulations and request the local public security organ at the same level to provide assistance in accordance with law. When requesting assistance, it shall issue a Letter of Request for Assistance in Taking the Measure of Retention in Custody, attaching a copy of the Decision on Retention in Custody and the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 190."
+        },
+        "chapter": {
+          "en": "Section 17 Wanted List"
+        }
+      },
+      {
+        "no": 191,
+        "text": {
+          "en": "Where a person placed on the wanted list has been brought to justice or has died, or the decision on retention in custody has been revoked in accordance with law, or other circumstances are discovered in which the measures for placing on the wanted list no longer need to be continued, the supervisory organ shall, after examination and approval, issue a Notice of Revocation of the Wanted Notice and deliver it to the public security organ which assisted in taking the original measure for execution. Where measures to pursue a person online need to be revoked, the supervisory organ shall issue a Notice of Revocation of Online Pursuit and deliver it to the public security organ which assisted in taking the original measure for execution."
+        },
+        "noLabel": {
+          "en": "Article 191."
+        },
+        "chapter": {
+          "en": "Section 17 Wanted List"
+        }
+      },
+      {
+        "no": 192,
+        "text": {
+          "en": "In order to prevent a person under investigation or a related person from fleeing abroad, a supervisory organ may, after submitting the matter for approval in accordance with regulations, decide in accordance with law to take measures restricting departure from the country and refer them to the immigration administration for execution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 192."
+        },
+        "chapter": {
+          "en": "Section 18 Restriction on Leaving the Country"
+        }
+      },
+      {
+        "no": 193,
+        "text": {
+          "en": "Where a supervisory organ takes measures restricting departure from the country, it shall issue the relevant letter and deliver it, together with the decision on taking measures restricting departure from the country and other documents and materials, to the immigration administration for execution. Where measures to control the border are taken, a Notice of Persons Subject to Border Control shall be attached; where measures of statutory non-approval of departure are taken, a Record Form of Persons Statutorily Not Permitted to Leave the Country shall be attached."
+        },
+        "noLabel": {
+          "en": "Article 193."
+        },
+        "chapter": {
+          "en": "Section 18 Restriction on Leaving the Country"
+        }
+      },
+      {
+        "no": 194,
+        "text": {
+          "en": "The period of validity of measures restricting departure from the country shall not exceed three months, and the measures shall be automatically released upon expiry.\nWhere it remains necessary to continue the measures to control the border after expiry, the matter shall be submitted for approval in accordance with the original procedure. The department handling the case shall issue the relevant letter and deliver it, together with the Decision on Extending the Period of Measures Restricting Departure from the Country, to the immigration administration for execution before expiry. Each extension shall not exceed three months.\nWhere it remains necessary to continue the measures of statutory non-approval of departure after expiry, the formalities for recording persons statutorily not permitted to leave the country shall be completed again in accordance with regulations three days before the expiry of the recording period."
+        },
+        "noLabel": {
+          "en": "Article 194."
+        },
+        "chapter": {
+          "en": "Section 18 Restriction on Leaving the Country"
+        }
+      },
+      {
+        "no": 195,
+        "text": {
+          "en": "After receiving notification from a port immigration administration that a person subject to border control against whom a decision on retention in custody has been made has been intercepted, the supervisory organ shall arrive at the port within 24 hours to complete the handover formalities. Where it cannot arrive in time, it shall entrust the local supervisory organ to go to the port promptly to complete the handover formalities. The local supervisory organ shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 195."
+        },
+        "chapter": {
+          "en": "Section 18 Restriction on Leaving the Country"
+        }
+      },
+      {
+        "no": 196,
+        "text": {
+          "en": "Where measures restricting departure from the country no longer need to be continued, they shall be promptly lifted after the matter has been submitted for approval in accordance with regulations. The department handling the case shall issue the relevant letter and deliver it, together with the Decision on Lifting Measures Restricting Departure from the Country, to the immigration administration for execution."
+        },
+        "noLabel": {
+          "en": "Article 196."
+        },
+        "chapter": {
+          "en": "Section 18 Restriction on Leaving the Country"
+        }
+      },
+      {
+        "no": 197,
+        "text": {
+          "en": "Where, in an important and urgent situation, a supervisory organ at or above the county level needs to request the port immigration administration at the place where the port is located to handle temporary measures restricting departure from the country, it may do so directly in accordance with law after examination and approval, for a period not exceeding seven days, which may not be extended."
+        },
+        "noLabel": {
+          "en": "Article 197."
+        },
+        "chapter": {
+          "en": "Section 18 Restriction on Leaving the Country"
+        }
+      },
+      {
+        "no": 198,
+        "text": {
+          "en": "Supervisory organs shall handle leads on problems on a consolidated basis, manage them centrally, dispose of them by category and clear them up regularly."
+        },
+        "noLabel": {
+          "en": "Article 198."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 199,
+        "text": {
+          "en": "Supervisory organs shall accept reports and accusations in accordance with law. Where the matter falls within the jurisdiction of the supervisory organ at the same level, it shall be accepted in accordance with law; where it falls within the jurisdiction of another supervisory organ, it shall be transmitted within five working days.\nSupervisory organs may send letters to lower-level supervisory organs to assign the handling of accusations and reports and may supervise their handling; the lower-level supervisory organ shall reply with the results of handling within the time limit."
+        },
+        "noLabel": {
+          "en": "Article 199."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 200,
+        "text": {
+          "en": "Where a public official suspected of a duty-related unlawful act or duty-related crime voluntarily surrenders, he shall be received and dealt with in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 200."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 201,
+        "text": {
+          "en": "Where a law enforcement organ, judicial organ or other organ transmits leads on problems to a supervisory organ, the supervisory organ shall promptly examine them and handle them in the following manner:\n(1) where it has jurisdiction, promptly study the matter and put forward a disposition opinion;\n(2) where it has no jurisdiction but another supervisory organ has jurisdiction, transmit the matter to the supervisory organ having jurisdiction within five working days;\n(3) where it has jurisdiction over part of the leads on problems, put forward a disposition opinion on the part over which it has jurisdiction and promptly transmit the other leads to the organ having jurisdiction;\n(4) where no supervisory organ has jurisdiction, promptly return the matter to the transmitting organ."
+        },
+        "noLabel": {
+          "en": "Article 201."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 202,
+        "text": {
+          "en": "The department for letters and visits and reports shall accept on a consolidated basis accusations and reports concerning suspected duty-related unlawful acts and duty-related crimes of persons subject to supervision under the jurisdiction of the organ, receive in a unified manner the relevant accusations and reports transmitted by the relevant supervisory organs and other units, transfer them to the supervision and inspection department or the relevant department of the organ, and notify the case supervision and management department of the transfer.\nThe case supervision and management department shall receive in a unified manner the leads on duty-related unlawful acts and duty-related crimes transmitted by inspection-tour bodies, audit organs, law enforcement organs, judicial organs and other organs, and transfer them in accordance with procedures to the supervision and inspection department or the relevant department of the organ for handling.\nWhere leads on problems discovered by the supervision and inspection department or the investigation department in their work fall within the scope of acceptance of that department, they shall be submitted to the case supervision and management department for the record; where they fall within the scope of acceptance of another department of the organ, they shall, after examination and approval, be transferred to the case supervision and management department for allocation."
+        },
+        "noLabel": {
+          "en": "Article 202."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 203,
+        "text": {
+          "en": "The case supervision and management department shall manage leads on problems centrally, update them dynamically, regularly summarise and check the leads on problems and their disposition, report to the principal person in charge of the supervisory organ and notify the relevant departments.\nThe department handling leads on problems shall designate a dedicated person to be responsible for managing the leads, number and register each item and establish a management ledger. The persons handling the matter shall sign at each stage of lead management and disposition, the whole process shall be registered for reference, and accounts shall be checked with the case supervision and management department promptly."
+        },
+        "noLabel": {
+          "en": "Article 203."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 204,
+        "text": {
+          "en": "The supervision and inspection department shall, in the light of an overall analysis of the situation in the region, department or unit to which the leads on problems relate, put forward a disposition opinion and formulate a disposition plan, and after examination and approval dispose of the matter by such means as appropriate inquiry, interview, letter inquiry, preliminary verification, temporary suspension pending verification and closure, or transfer it to the investigation department for disposition in accordance with its duties."
+        },
+        "noLabel": {
+          "en": "Article 204."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 205,
+        "text": {
+          "en": "Where leads on problems are disposed of by way of appropriate inquiry, the matter shall, after being submitted for approval in accordance with regulations, be handled by ascertaining the situation from the relevant units and individuals in accordance with law and regulations in order to verify the truth of the problem; no measures restricting personal or property rights may be taken, and no contact may be made with the person reported.\nThe department handling the case shall, on the basis of the appropriate inquiry, put forward suggestions such as interview, letter inquiry, preliminary verification, proposed filing for investigation, closure, temporary suspension pending verification, or transfer to the relevant department or organ for handling, and handle the matter after submitting it for approval in accordance with procedures."
+        },
+        "noLabel": {
+          "en": "Article 205."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 206,
+        "text": {
+          "en": "Where leads on problems are disposed of by way of interview, the provisions of Articles 78 and 79 of these Regulations shall apply.\nA letter inquiry shall be sent in the name of the general office (office) of the supervisory organ to the person reported, with a copy to the unit to which he belongs and to the principal person in charge of the stationed supervisory body. The person subject to the letter inquiry shall, within 15 working days after receipt of the letter, prepare written explanatory materials, and the principal person in charge of the unit to which he belongs shall sign an opinion thereon before the reply is sent. Where the person subject to the letter inquiry is the principal person in charge of the unit, or where the explanation given by the person subject to the letter inquiry involves the principal person in charge of the unit, the reply shall be sent directly to the supervisory organ.\nWhere the person subject to the letter inquiry has retired, the procedure provided in paragraph 2 shall apply.\nSupervisory organs may, according to the needs of the work and after examination and approval, carry out spot checks to verify the circumstances of interviews and letter inquiries.\nThe department handling the case shall, on the basis of the interview or letter inquiry, put forward suggestions such as preliminary verification, proposed filing for investigation, closure, temporary suspension pending verification, or transfer to the relevant department or organ for handling, and handle the matter after submitting it for approval in accordance with procedures."
+        },
+        "noLabel": {
+          "en": "Article 206."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 207,
+        "text": {
+          "en": "In respect of leads on duty-related unlawful acts and duty-related crimes which are verifiable, a supervisory organ shall, after submitting the matter for approval in accordance with regulations, carry out preliminary verification in accordance with law. Where leads on problems are disposed of by way of preliminary verification, the persons to be verified shall be determined, a work plan formulated, the problems to be verified and the measures to be taken clarified, and a verification team set up.\nIn preliminary verification, attention shall be paid to collecting objective evidence and ensuring authenticity and accuracy. Where, in preliminary verification, new verifiable leads on problems concerning the person being verified are discovered or received, they shall, after examination and approval, be incorporated into the original preliminary verification plan for verification.\nAfter the completion of preliminary verification, the verification team shall prepare a report on the preliminary verification, setting out the basic information of the person being verified, the principal problems reported, the basis for handling, the results of the preliminary verification, the existing doubts and the handling suggestions, and all members shall sign it.\nThe department handling the case shall comprehensively analyse the results of the preliminary verification and put forward suggestions such as proposed filing for investigation, closure, temporary suspension pending verification, or transfer to the relevant department or organ for handling, and submit them for approval in accordance with the procedure for approving preliminary verification."
+        },
+        "noLabel": {
+          "en": "Article 207."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 208,
+        "text": {
+          "en": "Where, on the basis of appropriate inquiry, interview, letter inquiry or preliminary verification, a supervisory organ finds that a public official has committed a duty-related unlawful act of a relatively minor nature, the matter may be handled in accordance with the provisions of Article 231 of these Regulations and closed."
+        },
+        "noLabel": {
+          "en": "Article 208."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 209,
+        "text": {
+          "en": "Where an accuser or reporter uses his true name or the name of his unit and has specific contact details such as a telephone number, the accusation or report is a real-name accusation or report. Supervisory organs shall give priority to handling and disposing of real-name accusations and reports and shall reply in accordance with law. An accusation or report which bears a signature but is not the true name (unit name) of the accuser or reporter, or which cannot be verified, shall be treated as an anonymous accusation or report.\nFor a real-name accusation or report accepted by the organ, the department for letters and visits and reports shall, within 15 working days from the date of receipt of the accusation or report, inform the real-name accuser or reporter of the acceptance in accordance with regulations and keep a record.\nInvestigators shall, within 15 working days from the date of conclusion of the case, give feedback to the accuser or reporter on the results of handling the real-name accusation or report and record the feedback. Where the accuser or reporter raises objections, they shall be truthfully recorded and explained to him; where new evidentiary materials are provided, they shall be verified and handled in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 209."
+        },
+        "chapter": {
+          "en": "Section 1 Disposition of Leads"
+        }
+      },
+      {
+        "no": 210,
+        "text": {
+          "en": "Where a supervisory organ has already grasped part of the facts and evidence of a suspected duty-related unlawful act or duty-related crime of a person subject to supervision and considers that his legal responsibility needs to be pursued, it shall, after submitting the matter for approval in accordance with regulations, file a case for investigation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 210."
+        },
+        "chapter": {
+          "en": "Section 2 Filing of Cases"
+        }
+      },
+      {
+        "no": 211,
+        "text": {
+          "en": "Where a supervisory organ files a case for investigation of a duty-related unlawful act or duty-related crime and needs to file a case for investigation against persons involved in the case who are suspected of the crime of offering bribes, the crime of introducing bribery or a joint duty-related crime, it shall complete the case filing formalities for them at the same time. Where the matter needs to be filed by a lower-level supervisory organ, it shall, after examination and approval, be referred to the lower-level supervisory organ to complete the case filing formalities.\nWhere a unit is suspected of a duty-related crime such as accepting or offering bribes and its legal responsibility needs to be pursued, the formalities for filing a case for investigation against the unit shall be completed in accordance with law. Where problems of duty-related unlawful acts or duty-related crimes exist in an accident (incident) and legal responsibility needs to be pursued but the responsible persons are not yet clearly identified, a case may be filed on the basis of the incident. After a case is filed against a unit or on the basis of an incident and the responsible persons are ascertained through investigation, the persons under investigation shall be determined after approval in accordance with administrative authority.\nWhere, on the basis of the facts established in a legally effective criminal judgment or ruling of a people's court or a decision not to prosecute of a people's procuratorate, a supervisory organ needs to impose a governmental sanction on a person subject to supervision, the relevant supervision and inspection department may, on the basis of the legally effective judgment, ruling or decision of the judicial organ and the facts, nature and circumstances established therein, put forward an opinion on imposing a governmental sanction and transfer the matter for examination in accordance with procedures. Where a person subject to supervision whose administrative legal responsibility has been pursued in accordance with law needs to be given a governmental sanction, the case filing formalities shall be completed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 211."
+        },
+        "chapter": {
+          "en": "Section 2 Filing of Cases"
+        }
+      },
+      {
+        "no": 212,
+        "text": {
+          "en": "Where the facts of a case are simple, the main facts of the duty-related unlawful act have been ascertained through preliminary verification, the legal responsibility of the person subject to supervision should be pursued and no further investigation is needed, the filing of the case and the transfer for examination may be submitted for approval together, and the matter shall be transferred for examination after the case filing procedure has been completed."
+        },
+        "noLabel": {
+          "en": "Article 212."
+        },
+        "chapter": {
+          "en": "Section 2 Filing of Cases"
+        }
+      },
+      {
+        "no": 213,
+        "text": {
+          "en": "Where a supervisory organ at a higher level needs to designate a lower-level supervisory organ to file and investigate a case, it shall submit the matter for approval in accordance with regulations, issue a Decision on Designated Jurisdiction to the designated supervisory organ, and the latter shall complete the case filing formalities."
+        },
+        "noLabel": {
+          "en": "Article 213."
+        },
+        "chapter": {
+          "en": "Section 2 Filing of Cases"
+        }
+      },
+      {
+        "no": 214,
+        "text": {
+          "en": "After a case filing is approved, not fewer than two investigators shall produce their identification and announce the decision to file the case to the person under investigation. After the decision to file the case is announced, a Notice of Filing the Case shall be promptly served on the unit to which the person under investigation belongs and other relevant organisations, and the principal person in charge of the unit to which the person under investigation belongs shall be notified.\nWhere a case is filed for investigation against a public official suspected of serious duty-related unlawful acts or duty-related crimes and the measure of retention in custody is taken, the unit to which the person under investigation belongs and his family members shall be notified in accordance with regulations, and the matter shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 214."
+        },
+        "chapter": {
+          "en": "Section 2 Filing of Cases"
+        }
+      },
+      {
+        "no": 215,
+        "text": {
+          "en": "Supervisory organs shall investigate filed cases of duty-related unlawful acts or duty-related crimes in accordance with law and collect evidence to ascertain the facts of the illegal or criminal conduct.\nIn investigating a case of a duty-related unlawful act or duty-related crime, where the measure of retention in custody has not been taken against the person under investigation, a disposition decision shall be made within one year after the filing of the case; where the measure of retention in custody has been lifted, a disposition decision shall be made within one year after the lifting of the measure. Where the case is major or complex, the period may, with the approval of the supervisory organ at the next higher level, be appropriately extended, but the extension shall not exceed six months.\nWhere the person under investigation absconds after the supervisory organ has filed the case for investigation, the investigation period shall be recalculated from the date on which the person under investigation appears."
+        },
+        "noLabel": {
+          "en": "Article 215."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation"
+        }
+      },
+      {
+        "no": 216,
+        "text": {
+          "en": "After a case is filed, the principal person in charge of the supervisory organ shall, in accordance with statutory procedures, approve and determine the investigation plan.\nSupervisory organs shall form an investigation team to carry out the investigation in accordance with law. The investigation work shall be carried out strictly in accordance with the approved plan; the scope of investigation may not be expanded at will, the persons under investigation and the matters may not be changed at will, and instructions shall be promptly requested and reports made on important matters. During the investigation, investigators may not, without approval, have contact with any person involved in the case or his specific related persons, and may not take investigative measures on their own authority."
+        },
+        "noLabel": {
+          "en": "Article 216."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation"
+        }
+      },
+      {
+        "no": 217,
+        "text": {
+          "en": "The investigation team shall reduce to writing the facts of the suspected illegal or criminal conduct established by the investigation and hand the written materials to the person under investigation for checking and for his views. The person under investigation shall state his views on the written materials. Where the person under investigation states differing views or refuses to state views, the investigation team shall make an explanation or note the circumstances. The facts, reasons and evidence put forward by the person under investigation in his defence shall be verified and, where well founded, adopted.\nIn respect of persons involved in the case who are suspected of the crime of offering bribes, the crime of introducing bribery or a joint duty-related crime and against whom a case has been filed for investigation, the investigation team shall, after ascertaining the problems of the suspected crime, handle the matter in accordance with the provisions of the preceding paragraph.\nFor a case in which the filing of the case and the transfer for examination are submitted for approval together in accordance with the provisions of these Regulations, the procedure provided in paragraph 1 of this Article shall be completed before submission for approval."
+        },
+        "noLabel": {
+          "en": "Article 217."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation"
+        }
+      },
+      {
+        "no": 218,
+        "text": {
+          "en": "After the conclusion of the investigation, the investigation team shall hold a collective discussion and prepare an investigation report. The investigation report shall set out the basic information of the person under investigation, the source of the leads on problems and the basis for the investigation, the course of the investigation, the main facts of the suspected duty-related unlawful acts or duty-related crimes, the attitude and understanding of the person under investigation, the disposition suggestions and the legal basis, and shall be signed by the head of the investigation team and the relevant personnel.\nSpecial reports shall be prepared on important problems discovered in the course of the investigation and on the opinions and suggestions formed."
+        },
+        "noLabel": {
+          "en": "Article 218."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation"
+        }
+      },
+      {
+        "no": 219,
+        "text": {
+          "en": "Where the investigation team proposes to transfer a person under investigation who is suspected of a duty-related crime to the people's procuratorate for examination and prosecution in accordance with law, it shall draft a Recommendations for Prosecution. The Recommendations for Prosecution shall state the basic information of the person under investigation, a brief account of the investigation, the circumstances of pleading guilty and accepting punishment, the time of taking supervisory coercive measures, the facts of the suspected duty-related crime and the evidence, the circumstances of aggravating, mitigating or reducing punishment or exemption from punishment in respect of the person under investigation, the reasons and legal basis for transferring him for prosecution, the recommendation on taking criminal coercive measures, and shall note the number of case files transferred and the property involved in the case.\nThe investigation team shall prepare materials on the course of the appearance of the person under investigation and on the circumstances relevant to sentencing, including the source of the case, the course of appearance, the sentencing circumstances such as voluntary surrender, truthful confession and meritorious service, and statements and relevant materials on his attitude of pleading guilty and showing repentance, the return of illicit gains and the avoidance and reduction of harmful consequences. Where the problem reported and exposed has already been filed and solved, and the person reported and exposed has already been subjected to investigative measures or criminal coercive measures, prosecuted or tried, the relevant legal documents shall also be attached."
+        },
+        "noLabel": {
+          "en": "Article 219."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation"
+        }
+      },
+      {
+        "no": 220,
+        "text": {
+          "en": "Where, after investigation, it is considered that the person under investigation has committed a duty-related unlawful act or duty-related crime, corresponding handling opinions shall be put forward according to the different circumstances, and after examination and approval the investigation report, the materials on the facts of the duty-related unlawful act or duty-related crime, the report on property involved in the case and the opinions on the handling of persons involved in the case, together with all the evidence and document formalities, shall be transferred for examination.\nThe case materials concerning a suspected duty-related crime shall be separately bound in accordance with the requirements of criminal proceedings and transferred for examination together with the Recommendations for Prosecution, the report on property involved in the case, the synchronous audio and video recordings and the self-inspection report thereon.\nThe materials formed throughout the investigation shall be bound into volumes upon conclusion of the case and archived upon completion of the matter."
+        },
+        "noLabel": {
+          "en": "Article 220."
+        },
+        "chapter": {
+          "en": "Section 3 Investigation"
+        }
+      },
+      {
+        "no": 221,
+        "text": {
+          "en": "After receiving a case transferred for examination, the case examination department shall check whether the materials are complete and the formalities are in order. Where the person under investigation is suspected of a duty-related crime, it shall also check whether the relevant case file materials meet the requirements for binding volumes in duty-related crime cases, whether the ascertained problems of the suspected crime are separately stated in the investigation report, and whether the Recommendations for Prosecution have been prepared.\nWhere, after examination, the conditions for transfer are met, the case shall be accepted; where the conditions are not met, acceptance may, after examination and approval, be deferred or refused, and the department handling the case shall be required to supplement and improve the materials."
+        },
+        "noLabel": {
+          "en": "Article 221."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 222,
+        "text": {
+          "en": "After accepting a case, the case examination department shall set up an examination team composed of not fewer than two persons to examine the case file materials comprehensively.\nFor the cases it accepts, the case examination department shall, taking the Supervision Law, the Law on Governmental Sanctions, the Criminal Law, the Criminal Procedure Law of the People's Republic of China and other laws and regulations as the criterion, comprehensively examine the facts and evidence of the case, the determination of its nature, the procedural formalities and the property involved in the case.\nThe case examination department shall strengthen its function of supervision and restraint, strictly examine and check cases, uphold seeking truth from facts and independent examination, and put forward examination opinions in accordance with law. The principle of separation of investigation and examination shall be upheld, and investigators of the case may not participate in the examination."
+        },
+        "noLabel": {
+          "en": "Article 222."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 223,
+        "text": {
+          "en": "Examination work shall uphold the principle of democratic centralism, and examination opinions shall be formed through collective deliberation."
+        },
+        "noLabel": {
+          "en": "Article 223."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 224,
+        "text": {
+          "en": "Examination work shall be completed within one month from the date of acceptance; for major or complex cases, it may be appropriately extended with approval."
+        },
+        "noLabel": {
+          "en": "Article 224."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 225,
+        "text": {
+          "en": "According to the circumstances of the examination, the case examination department may, after examination and approval, hold an interview with the person under investigation, inform him of his rights and obligations at the examination stage, verify the facts of the suspected illegal or criminal conduct, hear his defence and ascertain the relevant circumstances. The interview with the person under investigation shall be conducted at a place provided with safety guarantees; where the person under investigation is a criminal suspect or defendant in custody or a person serving a sentence in a detention house or prison, the provisions of Article 83 of these Regulations shall apply. At the interview, there shall be not fewer than two case examiners.\nWhere any of the following circumstances exists, an interview with the person under investigation shall generally be held:\n(1) the measure of retention in custody has been taken against the person under investigation and it is proposed to transfer him for prosecution;\n(2) there may be circumstances of collecting evidence by unlawful methods;\n(3) the person under investigation has stated differing views on or refused to state views on the materials on the facts of the suspected illegal or criminal conduct;\n(4) the person under investigation requests to make a statement in person to the case examiners;\n(5) other circumstances in which it is necessary to hold an interview with the person under investigation."
+        },
+        "noLabel": {
+          "en": "Article 225."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 226,
+        "text": {
+          "en": "Where, after examination, it is considered that the main facts of the illegal or criminal conduct are unclear or the evidence is insufficient, the case shall, after examination and approval, be returned to the department handling the case for re-investigation.\nWhere any of the following circumstances exists and the evidence needs to be supplemented and improved, the case may, after examination and approval, be returned for supplementary investigation:\n(1) part of the facts are unclear or the evidence is insufficient;\n(2) facts of illegal or criminal conduct have been omitted;\n(3) other circumstances in which the facts of the case need to be further ascertained.\nWhere the case examination department returns a case for re-investigation or supplementary investigation, it shall issue examination opinions stating the matters to be investigated, the reasons, the direction of investigation, the evidence to be further collected and its probative function, and deliver them together with the case file materials to the department handling the case.\nAfter the completion of supplementary investigation, the department handling the case shall, after examination and approval, transfer the report on the supplementary evidence and the relevant evidentiary materials, together with the case file materials, to the case examination department; where a matter genuinely cannot be ascertained or evidence cannot be supplemented, a written explanation shall be made. After the conclusion of re-investigation, a new investigation report shall be prepared and the case transferred for examination in accordance with law.\nWhere a case is transferred for examination after the completion of re-investigation, the examination period shall be recalculated. The period of supplementary investigation shall not be counted in the examination period."
+        },
+        "noLabel": {
+          "en": "Article 226."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 227,
+        "text": {
+          "en": "After the conclusion of examination, an examination report shall be prepared, stating the basic information of the person under investigation, a brief account of the investigation, the facts of the suspected unlawful act or crime, the attitude and understanding of the person under investigation, the disposition of property involved in the case, the opinions of the department handling the case and the examination opinions, and it shall be submitted to the supervisory organ for collective deliberation.\nWhere the person under investigation is suspected of a duty-related crime and criminal responsibility needs to be pursued, a Recommendations for Prosecution shall be prepared as an attachment to the examination report. The Recommendations for Prosecution shall be faithful to the true facts and shall state the basic information of the person under investigation, a brief account of the investigation, the time of taking supervisory coercive measures, the facts of the crime and the evidence ascertained in accordance with law, the circumstances of aggravating, mitigating or reducing punishment or exemption from punishment, the situation of the property involved in the case, the suspected charge and the legal basis, the recommendation on taking criminal coercive measures, and other circumstances requiring explanation.\nWhere, after examination, the case examination department considers that the available evidence is insufficient to prove that the person under investigation has committed an illegal or criminal act and that the standard of proof still cannot be met through returning the case for supplementary investigation, it shall put forward a recommendation to cancel the case."
+        },
+        "noLabel": {
+          "en": "Article 227."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 228,
+        "text": {
+          "en": "Where a supervisory organ at a higher level handles a case within the jurisdiction of a lower-level supervisory organ, it may, after examination, dispose of the case directly in accordance with procedures, or may, after examination and the formation of disposition opinions, refer the case to the lower-level supervisory organ for handling."
+        },
+        "noLabel": {
+          "en": "Article 228."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 229,
+        "text": {
+          "en": "A designated supervisory organ shall, after the conclusion of the investigation, transfer the case for examination and submit it to the supervisory organ for collective deliberation.\nWhere a supervisory organ at a higher level designates jurisdiction over a case within its own jurisdiction, the designated lower-level supervisory organ shall, after handling the matter in accordance with the provisions of the preceding paragraph, report the case to the higher-level supervisory organ for a decision on governmental sanction in accordance with law. The higher-level supervisory organ shall conduct an examination before making the decision.\nWhere a supervisory organ at a higher level designates to another lower-level supervisory organ jurisdiction over a case within the jurisdiction of a lower-level supervisory organ, the designated supervisory organ shall, after handling the matter in accordance with the provisions of paragraph 1, deliver the case to the supervisory organ having administrative authority for a decision on governmental sanction in accordance with law. The supervisory organ having administrative authority shall conduct an examination; where its examination opinions differ from those of the designated supervisory organ, the two parties shall communicate, and where no agreement can be reached through communication, the matter shall be submitted to the superior supervisory organ having the power to decide for decision. After consultation, the supervisory organ having administrative authority may, at the examination stage of the designated supervisory organ, review the case file in advance and ascertain the circumstances through communication.\nFor a major or complex case provided in the preceding paragraph, where the designated supervisory organ, after collective deliberation, submits its disposition opinions to the superior supervisory organ having the power to decide and obtains its approval upon review, the supervisory organ having administrative authority may dispose of the case in accordance with law after collective deliberation."
+        },
+        "noLabel": {
+          "en": "Article 229."
+        },
+        "chapter": {
+          "en": "Section 4 Examination"
+        }
+      },
+      {
+        "no": 230,
+        "text": {
+          "en": "Supervisory organs shall dispose of cases on the basis of the results of supervision and investigation and in accordance with the Supervision Law, the Law on Governmental Sanctions and other provisions."
+        },
+        "noLabel": {
+          "en": "Article 230."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 231,
+        "text": {
+          "en": "Where a public official has committed a duty-related unlawful act of a relatively minor nature, the supervisory organ may, in accordance with law, give him a reminder through interview, criticism and education, order him to make a self-examination, or administer admonition. The above methods may be used alone or, in accordance with regulations, in combination.\nA reminder through interview or criticism and education shall be given by the relevant person in charge of the supervisory organ or the person in charge of the department handling the case, and may be accompanied by the relevant person in charge of the unit to which the person receiving the reminder or criticism belongs; with approval, it may also be entrusted to the principal person in charge of the unit to which he belongs. A record shall be made of the reminder through interview or criticism and education.\nA public official ordered to make a self-examination shall make a written self-examination and carry out rectification. The rectification shall be notified within a certain scope.\nAdmonition shall be administered by the supervisory organ by interview or in writing. Where admonition is administered by interview, it shall be conducted by the relevant person in charge of the supervisory organ or the person in charge of the department handling the case; with approval, it may also be entrusted to the principal person in charge of the unit to which the person admonished belongs. A record shall be made of the interview."
+        },
+        "noLabel": {
+          "en": "Article 231."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 232,
+        "text": {
+          "en": "Where a public official who has committed an unlawful act needs to be given a governmental sanction in accordance with law, a decision on governmental sanction of warning, demerit, major demerit, demotion, removal from office or expulsion shall be made according to the seriousness of the circumstances, and a written decision on governmental sanction shall be prepared."
+        },
+        "noLabel": {
+          "en": "Article 232."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 233,
+        "text": {
+          "en": "The supervisory organ shall serve the written decision on governmental sanction on the person sanctioned and on the organ or unit to which he belongs within one month after the decision is made, and shall complete the procedures of announcement and written notification in accordance with law.\nA decision on governmental sanction shall take effect from the date on which it is made. The relevant organs, units and organisations shall promptly execute the sanction decision in accordance with law and report the execution to the supervisory organ. Execution of the sanction decision shall be completed within one month from the date on which it is made; under special circumstances, the period for handling may, with the approval of the supervisory organ, be appropriately extended, but shall not exceed six months at the latest."
+        },
+        "noLabel": {
+          "en": "Article 233."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 234,
+        "text": {
+          "en": "In respect of leading personnel who fail to perform or incorrectly perform their duties and cause serious consequences or adverse effects, the supervisory organ may, in accordance with administrative authority, hold them accountable by way of circular of criticism, admonition or governmental sanction, and may put forward recommendations for organisational handling."
+        },
+        "noLabel": {
+          "en": "Article 234."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 235,
+        "text": {
+          "en": "Where a supervisory organ puts forward supervisory recommendations to the unit to which a person subject to supervision belongs in accordance with law, it shall, after examination and approval, prepare a written supervisory recommendation.\nA written supervisory recommendation shall generally include the following:\n(1) the situation of supervision and investigation;\n(2) the main problems discovered and their causes;\n(3) the content of and requirements for rectification recommendations;\n(4) the time limit for rectification and the requirement to give feedback on rectification;\n(5) the time limit and method for raising objections."
+        },
+        "noLabel": {
+          "en": "Article 235."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 236,
+        "text": {
+          "en": "In the course of studying and putting forward supervisory recommendations, supervisory organs shall adhere to a problem-oriented approach and a systemic perspective, strengthen analysis and assessment, and ensure the quality of supervisory recommendations.\nSupervisory organs may, by such means as special research, consultation among departments, seeking the views of specially invited supervisors and other relevant persons, and communication with the unit recommended to or other relevant parties, improve the pertinence and feasibility of supervisory recommendations."
+        },
+        "noLabel": {
+          "en": "Article 236."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 237,
+        "text": {
+          "en": "Where, after investigation, a supervisory organ finds that there is no evidence, or the available evidence is insufficient, to prove that the person under investigation has committed an illegal or criminal act, it shall cancel the case in accordance with law. Where a supervisory organ at or below the provincial level cancels a case, it shall submit a report for the record to the supervisory organ at the next higher level within seven working days. The supervision and inspection department of the higher-level supervisory organ shall be responsible for the recording.\nWhere a supervisory organ at or below the provincial level proposes to cancel a case over which a higher-level supervisory organ designated jurisdiction or which was assigned by a higher-level supervisory organ, it shall submit the Written Opinion on Cancelling the Case, together with the case file materials, to the supervisory organ which designated jurisdiction or assigned the case for review seven working days before the expiry of the statutory investigation period. For major or complex cases, the submission shall be made ten working days before the expiry of the statutory investigation period.\nThe supervision and inspection department of the supervisory organ which designated jurisdiction or assigned the case shall be responsible for the review. Where the supervisory organ which designated jurisdiction or assigned the case agrees to cancel the case, the lower-level supervisory organ shall make a decision to cancel the case and prepare a Decision on Cancelling the Case; where the supervisory organ which designated jurisdiction or assigned the case disagrees with the cancellation, the lower-level supervisory organ shall execute that decision.\nThe supervisory organ shall announce the decision to cancel the case to the person under investigation, who shall sign the Decision on Cancelling the Case and affix his fingerprint, shall immediately lift the supervisory coercive measures and shall notify the unit to which he belongs.\nWhere important facts are discovered after the cancellation of a case, or there is sufficient evidence to consider that the person under investigation has committed an illegal or criminal act and his legal responsibility needs to be pursued, a case shall be filed anew for investigation."
+        },
+        "noLabel": {
+          "en": "Article 237."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 238,
+        "text": {
+          "en": "For persons who are not subject to supervision and are suspected of crimes such as offering bribes, the case shall be transferred for prosecution in accordance with law after the conclusion of the investigation. Taking comprehensive account of the specific circumstances such as the nature, means and consequences of the act, the timing and the attitude of pleading guilty and showing repentance, where the circumstances are relatively minor and, after examination and approval, it is decided not to transfer the case for prosecution, the matter shall be disposed of by way of criticism and education, ordering the person to make a pledge of repentance, or other means; where an administrative penalty should be imposed, the case shall be transferred to the relevant administrative law enforcement department in accordance with law.\nFor units and persons involved in a case who have offered bribes, the matter shall, in accordance with regulations, be entered in the relevant information records and may serve as a basis for credit assessment.\nProperty and the fruits thereof obtained by units and persons involved in a case through unlawful means such as offering bribes shall be confiscated, recovered or subject to an order of restitution in accordance with law, and property unrelated to the case may not be confiscated or recovered. Property involved in a case voluntarily handed over by units and persons involved in a case shall be strictly verified, and where it is genuinely illegal proceeds or the fruits thereof, it shall be confiscated or recovered in accordance with law. For business qualifications, qualifications, honours, awards, academic degrees, professional titles, posts or ranks and other improper benefits obtained unlawfully, it shall be recommended that the relevant organs, units and organisations correct and deal with them in accordance with laws, regulations and relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 238."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 239,
+        "text": {
+          "en": "Property and the fruits thereof suspected of being the proceeds of a duty-related crime that have been sealed up, seized or frozen shall be properly kept, and a List of Property Involved in the Case Transferred to the Judicial Organ shall be prepared and transferred with the case to the people's procuratorate. Physical articles used as evidence shall be transferred with the case; where transfer is inappropriate, the list, photographs and other supporting documents shall be transferred with the case.\nWhere the value of property involved in a case transferred to the people's procuratorate is unclear, a price determination shall be entrusted before transfer for prosecution. Where, in the course of price determination, it is necessary first to determine the authenticity of the property involved in the case or to issue a technical or quality inspection report, the relevant appraisal institution or inspection institution shall be entrusted to carry out the authenticity determination or the technical or quality inspection.\nProperty and the fruits thereof which are not the proceeds of a crime but were obtained unlawfully shall be confiscated, recovered or subject to an order of restitution in accordance with law, and the relevant legal documents shall be issued.\nProperty and the fruits thereof determined not to be illegal proceeds shall be returned promptly, and receipt formalities shall be completed."
+        },
+        "noLabel": {
+          "en": "Article 239."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 240,
+        "text": {
+          "en": "Where, after investigation, a supervisory organ decides to recover or order restitution of property and the fruits thereof obtained unlawfully, it may, in accordance with law, require the departments of public security, natural resources, housing and urban-rural development, market regulation and financial regulation, as well as banks and other institutions and units, to provide assistance.\nThe recovery of property involved in a case shall in principle be recovery of the original property; where the original property has been converted into other property, the property after conversion shall be recovered. Where property involved in a case has been used to settle lawful debts, transferred or encumbered with other rights, and a third party in good faith has acquired the corresponding rights through normal market transactions and payment of reasonable consideration, the property so acquired in good faith may not be recovered.\nWhere there is evidence proving that property involved in a case which should be recovered or confiscated in accordance with law cannot be found, has been acquired by another person in good faith, has lost or diminished in value, or has been commingled with other lawful property and is indivisible, other property of the person under investigation of equivalent value may be recovered or confiscated in accordance with law.\nRecovery or an order of restitution shall be completed within one month from the date on which the disposition decision is made, except where execution is overdue for reasons attributable to the person under investigation.\nWhere a people's procuratorate or people's court returns to the supervisory organ in accordance with law the relevant property involved in a case which is not determined to be the proceeds of a crime, the supervisory organ shall deal with it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 240."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 241,
+        "text": {
+          "en": "Where a person subject to supervision is dissatisfied with a disposition decision made by a supervisory organ concerning him, he may, within one month from the date of receipt of the disposition decision, apply to the supervisory organ which made the decision for review. The reviewing organ shall accept the application in accordance with law and make a review decision within one month after acceptance. Where the person subject to supervision is still dissatisfied with the review decision, he may, within one month from the date of receipt of the review decision, apply to the supervisory organ at the next higher level for re-review. The re-reviewing organ shall accept the application in accordance with law and make a re-review decision within two months after acceptance.\nThe re-review decision of a supervisory organ at a higher level and the review and re-review decisions of the National Supervisory Commission shall be final."
+        },
+        "noLabel": {
+          "en": "Article 241."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 242,
+        "text": {
+          "en": "The department handling the matter in a reviewing or re-reviewing organ shall set up a working group, obtain the original case file and, where necessary, conduct investigation and collect evidence. The department handling the matter shall deliberate collectively, put forward opinions on handling and make a review or re-review decision after examination and approval. The decision shall be served on the applicant, copied to the relevant units and announced within a certain scope.\nDuring review or re-review, execution of the original disposition decision shall not be suspended. Where, after examination, the reviewing or re-reviewing organ determines that the disposition decision is erroneous or inappropriate, it shall revoke or modify the original disposition decision in accordance with law, or order the original organ to correct it promptly. Where, after examination, the reviewing or re-reviewing organ determines that the facts of the disposition decision are clear and the law is correctly applied, it shall uphold the decision.\nThe separation of review and re-review from investigation and examination shall be upheld, and the persons who investigated or examined the original case may not participate in the review or re-review."
+        },
+        "noLabel": {
+          "en": "Article 242."
+        },
+        "chapter": {
+          "en": "Section 5 Disposition"
+        }
+      },
+      {
+        "no": 243,
+        "text": {
+          "en": "Where a supervisory organ decides to transfer a person under investigation who is suspected of a duty-related crime for prosecution, it shall issue Recommendations for Prosecution and transfer them, together with the case file materials, the evidence and the materials on the course of appearance, to the people's procuratorate at the same level.\nThe case examination department of the supervisory organ shall be responsible for the connection with the examination and prosecution work of the people's procuratorate, and the investigation, case supervision and management and other departments shall provide assistance.\nCases of duty-related crimes investigated by supervisory bodies or supervisory commissioners stationed or dispatched by the National Supervisory Commission shall be transferred to the provincial-level people's procuratorate for examination and prosecution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 243."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 244,
+        "text": {
+          "en": "Where a person under investigation suspected of a duty-related crime and the persons involved in the case meet the circumstances provided in Articles 34 and 35 of the Supervision Law, the supervisory organ may, taking into account factors such as their consistent conduct before the occurrence of the case and the circumstances, consequences and impact of the illegal or criminal conduct, after comprehensive assessment and collective deliberation and with the approval of the supervisory organ at the next higher level, put forward in accordance with law recommendations for lenient punishment such as lighter, mitigated or exempted punishment when transferring the case to the people's procuratorate. When requesting approval, the main evidentiary materials and the materials of repentance and reflection shall be provided together.\nThe relevant supervision and inspection department of the supervisory organ at a higher level shall be responsible for the review, focusing on the circumstances of lenient punishment to be determined and the recommendations for lenient punishment put forward, and shall give a written reply within 15 working days after examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 244."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 245,
+        "text": {
+          "en": "Where a person under investigation suspected of a duty-related crime falls under any of the following circumstances and truthfully confesses the main facts of his own crime, it may be determined as voluntary surrender with sincere repentance and remorse provided in item 1 of Article 34 of the Supervision Law:\n(1) he surrenders to the supervisory organ when the problem of the duty-related crime is not yet known to the supervisory organ or while the supervisory organ is carrying out appropriate inquiry into the relevant leads on problems;\n(2) in the course of an interview or letter inquiry by the supervisory organ, he truthfully confesses the problem of the suspected duty-related crime not known to the supervisory organ;\n(3) at the preliminary verification stage, he surrenders before being interviewed by the supervisory organ;\n(4) although a case has been filed by the supervisory organ in respect of the problem of the duty-related crime, he surrenders to the supervisory organ before being interrogated or before supervisory coercive measures are taken;\n(5) he is unable to go to surrender for objective reasons such as illness or injury, and first entrusts another person to express his intention to surrender, or expresses his intention to surrender by letter, through the internet, by telephone, by fax or by other means, and subsequently goes to the supervisory organ to be dealt with;\n(6) he surrenders after absconding on suspicion of a duty-related crime, including surrendering in the course of being pursued or captured;\n(7) it is verified that he had indeed prepared to surrender, or he was captured by the relevant organ on his way to surrender;\n(8) he surrenders after being persuaded by another person or accompanied by another person;\n(9) although he does not surrender to the supervisory organ, he surrenders to the Party organisation or unit to which he belongs or to the relevant responsible personnel, to the relevant inspection-tour bodies, or to a public security organ, people's procuratorate or people's court;\n(10) other circumstances which should be deemed to be voluntary surrender.\nWhere the person under investigation is unable truthfully to confess the main facts of his own crime after voluntary surrender, or retracts his confession after voluntarily surrendering and truthfully confessing his crime, the provisions of the preceding paragraph may not apply."
+        },
+        "noLabel": {
+          "en": "Article 245."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 246,
+        "text": {
+          "en": "Where a person under investigation suspected of a duty-related crime falls under any of the following circumstances, it may be determined as actively co-operating with the investigation and truthfully confessing the illegal or criminal conduct not yet known to the supervisory organ provided in item 2 of Article 34 of the Supervision Law:\n(1) the facts of the crime to which the leads held by the supervisory organ relate are not established, and the person under investigation on his own initiative confesses other crimes outside that scope;\n(2) he on his own initiative confesses facts of a crime not yet known to the supervisory organ which are of a different type from the facts of the crime already known to the supervisory organ;\n(3) he on his own initiative confesses facts of a crime not yet known to the supervisory organ which are of the same type as the facts of the crime already known to the supervisory organ;\n(4) the evidence held by the supervisory organ is insufficient, and his truthful confession assists in collecting evidence for determining the case."
+        },
+        "noLabel": {
+          "en": "Article 246."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 247,
+        "text": {
+          "en": "Where a person under investigation suspected of a duty-related crime falls under any of the following circumstances, it may be determined as actively returning illicit gains and reducing loss provided in item 3 of Article 34 of the Supervision Law:\n(1) he returns the illicit gains in full;\n(2) his capacity to return the illicit gains is insufficient, but the person under investigation and his relatives and friends actively co-operate in the course of the supervisory organ's recovery of illicit money and property and most of it has been recovered;\n(3) after committing the crime he on his own initiative takes measures to avoid the occurrence of loss, or actively takes effective measures to reduce or make good most of the loss."
+        },
+        "noLabel": {
+          "en": "Article 247."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 248,
+        "text": {
+          "en": "Where a person under investigation suspected of a duty-related crime falls under any of the following circumstances, it may be determined as having rendered major meritorious service provided in item 4 of Article 34 of the Supervision Law:\n(1) he reports and exposes the major criminal conduct of another person and this is verified as true;\n(2) he provides important leads on another major case and this is verified as true;\n(3) he prevents another person's major criminal activities;\n(4) he assists in capturing a person under investigation or a major criminal suspect (including an accomplice) in another major duty-related crime case;\n(5) he makes other major contributions to the State and society, such as recovering major losses for the State.\nMajor crime referred to in the preceding paragraph generally means criminal conduct punishable in accordance with law by life imprisonment or a heavier punishment; major case generally means a case having a relatively great impact within the province, autonomous region or municipality directly under the Central Government or throughout the country; verified as true generally means that the case concerned has already been filed for investigation by a supervisory organ or judicial organ, or investigated, that the person under investigation or criminal suspect has been subjected to supervisory coercive measures by a supervisory organ or criminal coercive measures by a judicial organ, or that the defendant has been convicted by a people's court, and is judged in the light of the facts and evidence of the case.\nA case involving major interests of the State provided in item 4 of Article 34 of the Supervision Law means a case involving State sovereignty and territorial integrity, State security, foreign affairs, social stability, economic development and the like."
+        },
+        "noLabel": {
+          "en": "Article 248."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 249,
+        "text": {
+          "en": "Where a person involved in a case who is suspected of a crime such as offering bribes falls under any of the following circumstances, it may be determined as exposing the duty-related illegal or criminal conduct of the person under investigation concerned, which is verified as true, or providing important leads conducive to the investigation of other cases, provided in Article 35 of the Supervision Law:\n(1) he exposes duty-related criminal conduct of a person under investigation other than that involved in the case, and this is verified as true;\n(2) the important leads he provides point to specific facts of a duty-related crime and play a substantive role in promoting the investigation of other cases;\n(3) the important leads he provides help to accelerate the handling of other cases, or play a positive role in fixing key evidence, recovering losses, pursuing fugitives and recovering illicit gains in other cases."
+        },
+        "noLabel": {
+          "en": "Article 249."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 250,
+        "text": {
+          "en": "Recommendations for lenient punishment shall generally be put forward together as part of the content of the Recommendations for Prosecution when the case is transferred for prosecution; under special circumstances, a separate written recommendation for lenient punishment may be prepared and transferred to the people's procuratorate after the case is transferred and before the people's procuratorate initiates public prosecution. The evidentiary materials on which the recommendation for lenient punishment is based shall be transferred to the people's procuratorate together with the case.\nWhere a person under investigation pleads guilty and accepts punishment at the investigation stage but does not meet the conditions for putting forward a recommendation for lenient punishment provided in the Supervision Law, and no recommendation for lenient punishment is put forward when the case is transferred for prosecution, the supervisory organ shall state in the Recommendations for Prosecution the fact that he voluntarily pleaded guilty and accepted punishment."
+        },
+        "noLabel": {
+          "en": "Article 250."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 251,
+        "text": {
+          "en": "A supervisory organ shall generally, ten days before the formal transfer for prosecution, give advance notice of the transfer to the people's procuratorate to which the case is to be transferred by written notice or other means. Where the supervisory organ finds that the person under investigation is, for reasons such as his physical condition, unsuitable for detention or that other circumstances may affect the execution of criminal coercive measures, it shall notify the people's procuratorate; where the person under investigation has already been retained in custody, the measure may be modified into an order to await investigation in accordance with law before transfer for prosecution. For a case in which no supervisory coercive measure has been taken, a recommendation on taking criminal coercive measures against the person under investigation may, according to the specific circumstances of the case, be put forward to the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 251."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 252,
+        "text": {
+          "en": "Where a case of a duty-related crime handled by a supervisory organ is transferred for prosecution and jurisdiction over prosecution and trial needs to be designated, the supervisory organ shall consult the people's procuratorate at the same level on the relevant procedural matters. Where designation of jurisdiction by the people's procuratorate at the next higher level to the people's procuratorate at the same level is required, the supervisory organ shall request the people's procuratorate at the same level to handle the matter of designated jurisdiction.\nA supervisory organ shall generally, 20 days before the transfer for prosecution, deliver the letter requesting designated jurisdiction to the people's procuratorate at the same level. The letter requesting designated jurisdiction shall be accompanied by the basic information of the case; where it is considered that a crime of the person under investigation for which a case has already been filed for investigation by another organ needs to be examined and prosecuted together, this shall also be explained.\nWhere a case of a duty-related crime investigated by a supervisory body or supervisory commissioner stationed or dispatched needs designation of jurisdiction over prosecution and trial, the matter shall be reported to the dispatching organ for completion of the formalities of designated jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 252."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 253,
+        "text": {
+          "en": "Where a supervisory organ at a higher level designates a lower-level supervisory organ to conduct an investigation and designation of jurisdiction by a people's procuratorate in accordance with law is needed when the case is transferred for prosecution, the relevant procedural matters shall be handled in accordance with regulations."
+        },
+        "noLabel": {
+          "en": "Article 253."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 254,
+        "text": {
+          "en": "Where, in respect of a case of a duty-related crime already transferred for prosecution, a supervisory organ discovers that crimes of the person under investigation have been omitted and supplementary transfer for prosecution is needed, it shall, after examination and approval, issue Supplementary Recommendations for Prosecution and transfer them, together with the relevant case file materials and evidence, to the people's procuratorate at the same level.\nWhere a case over which jurisdiction has been designated by a people's procuratorate needs supplementary transfer for prosecution, the case may be transferred directly to the people's procuratorate which originally accepted the transfer for prosecution; where a criminal suspect or defendant needs to be added, the people's procuratorate shall again be requested to complete the formalities of designated jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 254."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 255,
+        "text": {
+          "en": "For persons involved in related cases such as suspected crimes of offering bribes, crimes of introducing bribery or joint duty-related crimes, jurisdiction shall generally be determined together with the principal case when the case is transferred for prosecution.\nWhere the principal case and the related case are filed for investigation by different supervisory organs, the supervisory organ investigating the related case shall, before transfer for prosecution, report to or notify the supervisory organ investigating the principal case, which shall co-ordinate the matter of jurisdiction in a unified manner. Where, for special reasons, it is inappropriate to determine jurisdiction over the related case together with the principal case, the supervisory organ investigating the principal case shall promptly notify and co-ordinate the relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 255."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 256,
+        "text": {
+          "en": "Supervisory organs shall co-operate with the following requirements put forward in writing by a people's procuratorate during examination and prosecution:\n(1) where it considers that evidence may have been collected by unlawful methods and requires the supervisory organ to explain the legality of the collection of evidence or to provide the relevant supporting materials;\n(2) where, after excluding illegally obtained evidence, it requires the supervisory organ to assign other investigators to collect evidence afresh;\n(3) where it has doubts about physical evidence, documentary evidence, audio-visual materials, electronic data and records of inspection and examination, identification and investigative experiment, and requires the investigators to provide information on how they were obtained and produced;\n(4) where it requires the supervisory organ to carry out expert evaluation on certain specialised issues in the case, or to re-examine or re-inspect the inspection and examination;\n(5) where it considers that the main facts of the crime have been ascertained but that part of the evidence still needs to be supplemented and improved, and requires the supervisory organ to provide supplementary evidence;\n(6) other work requirements put forward by the people's procuratorate in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 256."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 257,
+        "text": {
+          "en": "Where a people's procuratorate returns a case for supplementary investigation in accordance with law, the supervisory organ shall report to its principal person in charge and actively carry out the supplementary investigation."
+        },
+        "noLabel": {
+          "en": "Article 257."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 258,
+        "text": {
+          "en": "For a case returned by a people's procuratorate for supplementary investigation, the following dispositions shall be made respectively after examination and approval:\n(1) where the evidence establishing the facts of the crime is insufficient, a report on the supplementary investigation shall be prepared after the evidence is supplemented and transferred, together with the relevant materials, to the people's procuratorate for examination, and a written explanation sealed with the official seal of the supervisory organ or of the department handling the case shall be made in respect of evidence that cannot be supplemented and improved;\n(2) where a new accomplice is discovered in the supplementary investigation, or the facts of the crime are added to or changed and criminal responsibility needs to be pursued, a new handling opinion shall be put forward and transferred to the people's procuratorate for examination;\n(3) where a major change occurs in the determination of the facts of the crime and it is considered that the criminal responsibility of the person under investigation should not be pursued, a new handling opinion shall be put forward within the period of supplementary investigation, and the result of handling shall be notified to the people's procuratorate in writing with reasons stated;\n(4) where it is considered that the facts of the crime transferred for prosecution are clear and the evidence is reliable and sufficient, the reasons shall be stated and the case transferred to the people's procuratorate for examination in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 258."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 259,
+        "text": {
+          "en": "Where, in the course of examination and prosecution, a people's procuratorate discovers new leads on duty-related unlawful acts or duty-related crimes and transfers them to a supervisory organ, the supervisory organ shall dispose of them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 259."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 260,
+        "text": {
+          "en": "Where, in the course of the trial of a case, a people's procuratorate requires in writing that the supervisory organ provide supplementary evidence, correct or explain evidence, or assist the people's procuratorate in supplementary investigation, the supervisory organ shall co-operate. Where the supervisory organ is unable to provide the relevant evidentiary materials, it shall explain the circumstances in writing.\nWhere, in the course of trial, a people's court requires the investigators concerned to appear in court to explain the legality of the collection of evidence, the supervisory organ shall co-operate in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 260."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 261,
+        "text": {
+          "en": "Where a supervisory organ considers that a decision not to prosecute of a people's procuratorate is erroneous, it shall, within 30 days after receipt of the written decision not to prosecute, request reconsideration from the people's procuratorate at the next higher level in accordance with law. The supervisory organ shall promptly report the above circumstances in writing to the supervisory organ at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 261."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 262,
+        "text": {
+          "en": "Where, in respect of a case transferred for prosecution by a supervisory organ, a people's procuratorate makes a decision not to prosecute, a people's court makes a judgment of innocence, or the supervisory organ no longer transfers the case for prosecution after it has been returned by the people's procuratorate for supplementary investigation, and this involves the determination of facts in a governmental sanction decision already in effect in respect of the person under investigation, the supervisory organ shall examine the governmental sanction decision in accordance with law. Where it considers that the facts established in the original governmental sanction decision are clear and the law is correctly applied, the decision shall not be changed; where it considers that the original governmental sanction decision is indeed erroneous or inappropriate, it shall revoke or modify it in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 262."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 263,
+        "text": {
+          "en": "For a case of a duty-related crime such as embezzlement, bribery, dereliction of duty or malfeasance, where the person under investigation has absconded and cannot be brought to justice one year after being placed on the wanted list, or the person under investigation has died, and the illicit gains and other property involved in the case should be recovered in accordance with law, the department handling the case shall, after the conclusion of the investigation, transfer the case for examination in accordance with law.\nThe supervisory organ shall, after collective deliberation, issue a Written Opinion on Confiscation of Illicit Gains and transfer it, together with the case file materials and evidence, to the people's procuratorate for the latter to apply for confiscation of the illicit gains in accordance with law.\nWhere, after the supervisory organ has transferred the Written Opinion on Confiscation of Illicit Gains to the people's procuratorate, the person under investigation at large voluntarily surrenders or is captured, the supervisory organ shall promptly notify the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 263."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 264,
+        "text": {
+          "en": "Where a supervisory organ files a case for investigation of a case of embezzlement or bribery to which the procedure of trial in absentia is to be applied, it shall report level by level to the National Supervisory Commission for consent.\nWhere the department handling the case in a supervisory organ considers that the facts of the crime of the person under investigation abroad have been ascertained, the evidence is reliable and sufficient and criminal responsibility should be pursued in accordance with law, it shall transfer the case for examination in accordance with law.\nThe supervisory organ shall, after collective deliberation, issue Recommendations for Prosecution and transfer them, together with the case file materials and evidence, to the people's procuratorate for examination and prosecution.\nWhere, in the course of examination and prosecution or trial in absentia, a criminal suspect or defendant voluntarily surrenders to the supervisory organ or is captured, the supervisory organ shall immediately notify the people's procuratorate and the people's court."
+        },
+        "noLabel": {
+          "en": "Article 264."
+        },
+        "chapter": {
+          "en": "Section 6 Transfer for Examination and Prosecution"
+        }
+      },
+      {
+        "no": 265,
+        "text": {
+          "en": "The National Supervisory Commission shall make overall arrangements for and co-ordinate international exchanges and co-operation in the field of combating corruption with other countries, regions and international organisations.\nThe National Supervisory Commission shall organise the implementation of the United Nations Convention against Corruption and other international anti-corruption treaties and the review of their implementation, and shall undertake the relevant work of the central authority for judicial assistance under the United Nations Convention against Corruption.\nThe National Supervisory Commission shall organise and co-ordinate the relevant units in establishing a centralised, unified, efficient and smooth co-ordination mechanism for the international pursuit of fugitives, recovery of illicit gains and prevention of flight in the field of combating corruption, and shall make overall arrangements for, urge and guide supervisory organs at all levels in handling cases involving foreign elements such as the international pursuit of fugitives and recovery of illicit gains in the field of combating corruption, specifically performing the following duties:\n(1) formulating work plans for the international pursuit of fugitives, recovery of illicit gains and prevention of flight in the field of combating corruption, and studying important problems in the work;\n(2) together with the relevant units, handling major cases involving foreign elements such as the international pursuit of fugitives and recovery of illicit gains in the field of combating corruption;\n(3) handling cases involving foreign elements within the jurisdiction of the National Supervisory Commission;\n(4) guiding local supervisory organs at all levels in handling cases involving foreign elements in accordance with law;\n(5) summarising and circulating information on cases of duty-related crime fugitives throughout the country and information on the pursuit of fugitives and recovery of illicit gains;\n(6) establishing and improving a co-operation network for the international pursuit of fugitives, recovery of illicit gains and prevention of flight in the field of combating corruption;\n(7) performing the duties of the competent authority for supervisory organs in carrying out international criminal judicial assistance;\n(8) performing other duties related to the handling of cases involving foreign elements such as the international pursuit of fugitives and recovery of illicit gains in the field of combating corruption."
+        },
+        "noLabel": {
+          "en": "Article 265."
+        },
+        "chapter": {
+          "en": "Section 1 Work Duties and Leadership System"
+        }
+      },
+      {
+        "no": 266,
+        "text": {
+          "en": "Local supervisory organs at all levels shall, under the leadership of the National Supervisory Commission, make overall arrangements for, urge and guide the handling of cases involving foreign elements such as the international pursuit of fugitives and recovery of illicit gains in the field of combating corruption in their respective regions, specifically performing the following duties:\n(1) implementing the arrangements of the supervisory organ at a higher level concerning the international pursuit of fugitives, recovery of illicit gains and prevention of flight in the field of combating corruption, and formulating work plans;\n(2) handling cases involving foreign elements in accordance with administrative authority or with the designated jurisdiction of the supervisory organ at a higher level;\n(3) assisting and co-operating with other supervisory organs in handling cases involving foreign elements as required by the supervisory organ at a higher level;\n(4) summarising and circulating information on cases of duty-related crime fugitives and information on the pursuit of fugitives and recovery of illicit gains in their respective regions;\n(5) performing other duties related to the handling of cases involving foreign elements such as the international pursuit of fugitives and recovery of illicit gains in the field of combating corruption in their respective regions.\nProvincial-level supervisory commissions shall, together with the relevant units, establish and improve a co-ordination mechanism for the international pursuit of fugitives, recovery of illicit gains and prevention of flight in the field of combating corruption in their respective regions.\nSupervisory bodies and supervisory commissioners stationed or dispatched by the National Supervisory Commission shall make overall arrangements for, urge and guide the handling of cases involving foreign elements such as the international pursuit of fugitives and recovery of illicit gains in the field of combating corruption in the units where they are stationed, with reference to the provisions of paragraph 1."
+        },
+        "noLabel": {
+          "en": "Article 266."
+        },
+        "chapter": {
+          "en": "Section 1 Work Duties and Leadership System"
+        }
+      },
+      {
+        "no": 267,
+        "text": {
+          "en": "The International Co-operation Bureau of the National Supervisory Commission shall exercise consolidated management of the handling by supervisory organs of cases involving foreign elements such as the international pursuit of fugitives and recovery of illicit gains in the field of combating corruption. Local supervisory commissions at all levels shall designate a dedicated department to exercise consolidated management of the handling of cases involving foreign elements in their respective regions.\nWhere supervisory bodies or supervisory commissioners stationed or dispatched by the National Supervisory Commission and local supervisory organs at all levels handle matters of international co-operation in law enforcement and justice in cases involving foreign elements, they shall report them level by level to the National Supervisory Commission for approval. The National Supervisory Commission shall, in accordance with law, communicate directly or by co-ordinating the relevant units with the relevant institutions of the country (region) concerned, and implement the matter in a manner acceptable to both sides."
+        },
+        "noLabel": {
+          "en": "Article 267."
+        },
+        "chapter": {
+          "en": "Section 1 Work Duties and Leadership System"
+        }
+      },
+      {
+        "no": 268,
+        "text": {
+          "en": "Supervisory organs shall establish an internal liaison mechanism for the pursuit of fugitives, recovery of illicit gains and prevention of flight. Where, in the course of investigation, the department handling the case discovers that the person under investigation or an important person involved in the case has fled abroad, or that illicit gains and other property involved in the case have been transferred abroad, it may request the department for the pursuit of fugitives and recovery of illicit gains to provide assistance in the work. Where, after the supervisory organ has transferred the case to the people's procuratorate for examination and prosecution, important persons involved in the case remain at large or illicit gains and other property involved in the case have not been recovered, the department for the pursuit of fugitives and recovery of illicit gains shall continue to handle the matter, or shall designate and co-ordinate the relevant units to handle it."
+        },
+        "noLabel": {
+          "en": "Article 268."
+        },
+        "chapter": {
+          "en": "Section 1 Work Duties and Leadership System"
+        }
+      },
+      {
+        "no": 269,
+        "text": {
+          "en": "Supervisory organs shall incorporate the prevention of flight into the content of routine supervision and urge the relevant organs and units to establish and improve a responsibility mechanism for preventing flight.\nIn supervision and investigation work, supervisory organs shall, according to the circumstances, formulate plans for preventing the flight of persons subject to supervision and important persons involved in cases, and guard against the risks of persons fleeing and assets flowing abroad. Supervisory organs shall, together with the units responsible for organisation and personnel, foreign affairs, public security and immigration administration at the same level, improve the early warning mechanism for preventing flight, and ensure the early discovery, early reporting and early disposition of persons subject to supervision who present a risk of flight."
+        },
+        "noLabel": {
+          "en": "Article 269."
+        },
+        "chapter": {
+          "en": "Section 2 Work within the Country (Territory)"
+        }
+      },
+      {
+        "no": 270,
+        "text": {
+          "en": "Supervisory organs shall strengthen communication and co-operation with the people's bank and public security and other units at the same level, promote the prevention and combating of the transfer abroad of illicit gains and other property involved in cases through offshore companies, underground banks and the like, and investigate in accordance with law conduct involving duty-related unlawful acts and duty-related crimes."
+        },
+        "noLabel": {
+          "en": "Article 270."
+        },
+        "chapter": {
+          "en": "Section 2 Work within the Country (Territory)"
+        }
+      },
+      {
+        "no": 271,
+        "text": {
+          "en": "Where supervisory bodies or supervisory commissioners stationed or dispatched by the National Supervisory Commission and local supervisory commissions at all levels discover that a person subject to supervision has fled, disappeared or absconded, or that illicit gains and other property involved in the case have been transferred abroad, they shall report the relevant information level by level to the International Co-operation Bureau of the National Supervisory Commission within 24 hours and promptly carry out the relevant work."
+        },
+        "noLabel": {
+          "en": "Article 271."
+        },
+        "chapter": {
+          "en": "Section 2 Work within the Country (Territory)"
+        }
+      },
+      {
+        "no": 272,
+        "text": {
+          "en": "The department for the pursuit of fugitives and recovery of illicit gains of a supervisory organ shall receive in a unified manner information on fugitives transferred by inspection-tour bodies, audit organs, law enforcement organs, judicial organs and other units.\nIn respect of fugitives suspected of duty-related unlawful acts and duty-related crimes, supervisory organs shall designate the department handling the case and establish a case file."
+        },
+        "noLabel": {
+          "en": "Article 272."
+        },
+        "chapter": {
+          "en": "Section 2 Work within the Country (Territory)"
+        }
+      },
+      {
+        "no": 273,
+        "text": {
+          "en": "Supervisory organs shall comprehensively collect, in accordance with law, evidence of suspected duty-related unlawful acts and duty-related crimes of fugitives."
+        },
+        "noLabel": {
+          "en": "Article 273."
+        },
+        "chapter": {
+          "en": "Section 2 Work within the Country (Territory)"
+        }
+      },
+      {
+        "no": 274,
+        "text": {
+          "en": "In handling cases involving foreign elements such as the international pursuit of fugitives and recovery of illicit gains in the field of combating corruption, ideological education shall be carried through from beginning to end, the criminal policy of combining leniency with severity shall be implemented, and the system of leniency for pleading guilty and accepting punishment shall be applied in accordance with law, so as to induce fugitives to return home and surrender, or to co-operate with the investigation and voluntarily return illicit gains. In carrying out the relevant work, the legal provisions of the country (region) concerned shall be respected."
+        },
+        "noLabel": {
+          "en": "Article 274."
+        },
+        "chapter": {
+          "en": "Section 2 Work within the Country (Territory)"
+        }
+      },
+      {
+        "no": 275,
+        "text": {
+          "en": "After a fugitive has been brought to justice and illicit gains and other property involved in the case have been recovered, the supervisory organ handling the case shall report the circumstances level by level to the International Co-operation Bureau of the National Supervisory Commission. The supervisory organ shall dispose of the persons involved in the case and the illicit gains and other property involved in the case in accordance with law, or request the relevant units to dispose of them in accordance with law. Where the relevant measures no longer need to be continued, they shall be promptly lifted or revoked."
+        },
+        "noLabel": {
+          "en": "Article 275."
+        },
+        "chapter": {
+          "en": "Section 2 Work within the Country (Territory)"
+        }
+      },
+      {
+        "no": 276,
+        "text": {
+          "en": "Where a supervisory organ needs to apply for the issuance of a red notice by the International Criminal Police Organization in respect of a fugitive who should be retained in custody in accordance with law or against whom retention in custody has already been decided, it shall report the matter level by level to the National Supervisory Commission for review. After review, the National Supervisory Commission shall apply to the International Criminal Police Organization through the Ministry of Public Security in accordance with law.\nWhere a red notice needs to be extended, suspended or revoked, the supervisory organ which applied for its issuance shall report the matter level by level to the National Supervisory Commission for review, and the National Supervisory Commission shall contact the International Criminal Police Organization through the Ministry of Public Security in accordance with law to handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 276."
+        },
+        "chapter": {
+          "en": "Section 3 Foreign Co-operation"
+        }
+      },
+      {
+        "no": 277,
+        "text": {
+          "en": "Where local supervisory organs at all levels handle the relevant cases involving foreign elements by way of extradition, they shall prepare the extradition request and the relevant materials in accordance with the Extradition Law of the People's Republic of China, the relevant bilateral and multilateral international treaties and other provisions, and report them level by level to the National Supervisory Commission for review. The National Supervisory Commission shall make an extradition request to the foreign State through diplomatic channels in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 277."
+        },
+        "chapter": {
+          "en": "Section 3 Foreign Co-operation"
+        }
+      },
+      {
+        "no": 278,
+        "text": {
+          "en": "Where local supervisory organs at all levels handle the relevant cases involving foreign elements by way of criminal judicial assistance, they shall prepare the request for criminal judicial assistance and the relevant materials in accordance with the Law of the People's Republic of China on International Mutual Legal Assistance in Criminal Matters (hereinafter referred to as the Law on International Mutual Legal Assistance in Criminal Matters), the relevant bilateral and multilateral international treaties and other provisions, and report them level by level to the National Supervisory Commission for review. The National Supervisory Commission shall make the request for criminal judicial assistance to the foreign State directly or through the external liaison organ and other channels in accordance with law.\nWhere the National Supervisory Commission receives a request for criminal judicial assistance and the attached materials from a foreign State and, after examination, considers that they conform to the relevant provisions, it shall make a decision and refer the matter to a provincial-level supervisory organ for execution, or transmit it to another relevant competent authority. The provincial-level supervisory organ shall execute it immediately, or refer it to a lower-level supervisory organ for execution, and shall promptly report the result of execution or the circumstances hindering execution to the National Supervisory Commission. Where, in the course of execution, measures such as inquiry, obtaining of materials, sealing up, seizure or freezing need to be taken in accordance with law, or property involved in the case needs to be returned, the relevant legal formalities shall be completed in accordance with the provisions of the laws of China and the execution decision of the National Supervisory Commission."
+        },
+        "noLabel": {
+          "en": "Article 278."
+        },
+        "chapter": {
+          "en": "Section 3 Foreign Co-operation"
+        }
+      },
+      {
+        "no": 279,
+        "text": {
+          "en": "Where local supervisory organs at all levels handle the relevant cases involving foreign elements by way of law enforcement co-operation, they shall report the matters of co-operation and the relevant materials level by level to the National Supervisory Commission for review. The National Supervisory Commission shall, in accordance with law, submit them directly or by co-ordinating the relevant units to the relevant institutions of the country (region) concerned and carry out co-operation."
+        },
+        "noLabel": {
+          "en": "Article 279."
+        },
+        "chapter": {
+          "en": "Section 3 Foreign Co-operation"
+        }
+      },
+      {
+        "no": 280,
+        "text": {
+          "en": "Where local supervisory organs at all levels handle the relevant cases involving foreign elements by way of prosecution abroad, they shall provide the relevant leads on and evidence of the unlawful conduct of the fugitive and report them level by level to the National Supervisory Commission for review. The National Supervisory Commission shall, in accordance with the Law on International Mutual Legal Assistance in Criminal Matters and other provisions, submit them directly or by co-ordinating the relevant units to the relevant institutions of the country (region) concerned, and request the latter to investigate, prosecute and try the fugitive in accordance with law, and to transfer sentenced persons or repatriate the fugitive."
+        },
+        "noLabel": {
+          "en": "Article 280."
+        },
+        "chapter": {
+          "en": "Section 3 Foreign Co-operation"
+        }
+      },
+      {
+        "no": 281,
+        "text": {
+          "en": "In respect of illicit gains and other property involved in a case abroad that should be recovered in accordance with law, supervisory organs shall order the persons involved in the case to make restitution by lawful means. Where the persons involved in the case refuse to make restitution, recovery may be carried out in accordance with law by the following means:\n(1) when carrying out co-operation in the pursuit of fugitives such as extradition, attaching a request to the country (region) concerned for the transfer of the relevant illicit gains and other property involved in the case;\n(2) initiating in accordance with law the procedure for confiscation of illicit gains, applying to a people's court for a ruling on the confiscation of the relevant illicit gains and other property involved in the case, and requesting the country (region) concerned to recognise and enforce it and to return the property;\n(3) requesting the country (region) concerned to recover the relevant illicit gains and other property involved in the case in accordance with law and to return them;\n(4) recovering them by other lawful means."
+        },
+        "noLabel": {
+          "en": "Article 281."
+        },
+        "chapter": {
+          "en": "Section 3 Foreign Co-operation"
+        }
+      },
+      {
+        "no": 282,
+        "text": {
+          "en": "Supervisory organs and supervisory personnel must consciously uphold Party leadership, carry out their work under the management and supervision of Party organisations, accept in accordance with law the supervision of the people's congress and its standing committee at the corresponding level, accept democratic supervision, judicial supervision, social supervision and supervision by public opinion, and strengthen the building of internal supervision and restraint mechanisms, so as to ensure that power is strictly constrained and supervised."
+        },
+        "noLabel": {
+          "en": "Article 282."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 283,
+        "text": {
+          "en": "Supervisory commissions at all levels shall, in accordance with the provisions of paragraph 2 of Article 60 of the Supervision Law, have their principal person in charge report on special work at the plenary session of the standing committee of the people's congress at the corresponding level.\nBefore reporting on special work, they shall communicate and consult with the relevant special committees of the people's congress at the corresponding level and the relevant working bodies of its standing committee, and co-operate in carrying out special investigations and research. When the standing committee of the people's congress at the corresponding level deliberates on the report on special work, the supervisory commission at the corresponding level shall, as required, send its responsible persons to attend the relevant meetings as non-voting participants and hear opinions.\nSupervisory commissions at all levels shall carefully study and handle the deliberative opinions fed back by the standing committee of the people's congress at the corresponding level and report in writing on the study and handling as required. Where the standing committee of the people's congress at the corresponding level makes a resolution on the report on special work, the supervisory commission shall report to it on the implementation of the resolution within the time limit specified in the resolution."
+        },
+        "noLabel": {
+          "en": "Article 283."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 284,
+        "text": {
+          "en": "Supervisory commissions at all levels shall actively accept and co-operate with the law enforcement inspections organised by the standing committee of the people's congress at the corresponding level. They shall carefully study and handle the law enforcement inspection reports of the standing committee of the people's congress at the corresponding level and report to it on the study and handling. Where the standing committee of the people's congress at the corresponding level makes a resolution on a law enforcement inspection report, the supervisory commission shall report to it on the implementation of the resolution within the time limit specified in the resolution."
+        },
+        "noLabel": {
+          "en": "Article 284."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 285,
+        "text": {
+          "en": "When the standing committee of the people's congress at the corresponding level deliberates on bills and reports relating to supervision work, supervisory commissions at all levels shall send the relevant responsible persons to attend the meeting to hear opinions and answer inquiries.\nWhere the standing committee of the people's congress at the corresponding level convenes a plenary meeting, a joint group meeting or a group meeting to conduct special inquiries on major issues relating to supervision work, the responsible persons of the supervisory commission shall attend the meeting, hear opinions and answer inquiries. Supervisory commissions at all levels shall promptly submit to the standing committee of the people's congress at the corresponding level a report on the study and handling of the opinions raised in the special inquiries.\nSupervisory organs shall reply to bills of inquiry lawfully referred to them for reply as required. Where the reply is given orally, the principal person in charge of the supervisory organ or a designated responsible person shall attend the meeting to reply. Where the reply is given in writing, it shall be signed by the principal person in charge of the supervisory organ."
+        },
+        "noLabel": {
+          "en": "Article 285."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 286,
+        "text": {
+          "en": "Supervisory organs at all levels shall, through government websites and new media on the internet, newspapers and periodicals, radio and television and other channels, promptly and accurately make the following information on supervision work public to society:\n(1) supervisory regulations;\n(2) information on case investigation that should be made public in accordance with law;\n(3) information such as the address, telephone number and website for accusations and reports;\n(4) other information that should be made public in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 286."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 287,
+        "text": {
+          "en": "Supervisory organs at all levels may, according to the needs of the work and in accordance with procedures, select and engage specially invited supervisors to perform duties such as supervision and consultation. The list of specially invited supervisors shall be made public.\nSupervisory organs shall provide the necessary conditions and facilities for specially invited supervisors to carry out their work in accordance with law. Supervisory organs shall promptly handle and give feedback on the opinions, suggestions and criticisms put forward by specially invited supervisors."
+        },
+        "noLabel": {
+          "en": "Article 287."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 288,
+        "text": {
+          "en": "Supervisory organs shall apply a strict personnel admission system, strictly controlling the thresholds of political standing, conduct, ability, work style and integrity. Supervisory personnel must be loyal and steadfast, take responsibility and fulfil their duties, observe discipline and law, and be honest and upright."
+        },
+        "noLabel": {
+          "en": "Article 288."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 289,
+        "text": {
+          "en": "Supervisory organs shall establish a working mechanism of mutual co-ordination and restraint among the departments for letters and visits and reports, supervision and inspection, investigation, case supervision and management, and case examination.\nThe supervision and inspection department and the investigation department shall divide work and co-operate while restraining each other. The supervision and inspection department shall be mainly responsible for routine supervision and inspection of the regions, departments and units with which it is in contact and for the disposition of leads on suspected ordinary unlawful problems. The investigation department shall be mainly responsible for preliminary verification of and case filing and investigation into leads on suspected serious duty-related unlawful acts and duty-related crimes.\nThe case supervision and management department shall be responsible for the supervision and management of the whole process of supervision, inspection and investigation work, and shall do well in lead management, organisation and co-ordination, supervision and inspection, urging handling, and statistical analysis. Where the case supervision and management department discovers that supervisory personnel have handled cases in violation of regulations during supervision, inspection or investigation, it shall promptly urge rectification; where discipline or law may have been violated, it shall refer the matter to the relevant department for handling in accordance with administrative authority."
+        },
+        "noLabel": {
+          "en": "Article 289."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 290,
+        "text": {
+          "en": "Supervisory organs shall deploy and use an integrated supervision work platform covering the main processes and key elements of supervision and law enforcement such as letters and visits and reports, lead disposition, supervision and inspection, investigation and case examination, promote the integration of digital technology into supervision work, and strengthen the supervision and management of the whole process of supervision, investigation and disposition by information-based means."
+        },
+        "noLabel": {
+          "en": "Article 290."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 291,
+        "text": {
+          "en": "Supervisory organs shall carry out regular supervision and inspection of the key links in the operation of supervisory power and conduct special inspections as appropriate. The departments for case supervision and management and for case examination shall, in accordance with their respective duties, carry out supervision and inspection of the disposition of leads on problems, the use of investigative measures and the management of property involved in cases, and establish a regular and full-coverage mechanism for assessing the quality of cases."
+        },
+        "noLabel": {
+          "en": "Article 291."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 292,
+        "text": {
+          "en": "Supervisory organs shall strengthen supervision over the performance of duties and the observance of discipline and law by supervisory personnel, and investigate and dispose of suspected illegal or criminal problems of supervisory personnel in accordance with law and administrative authority."
+        },
+        "noLabel": {
+          "en": "Article 292."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 293,
+        "text": {
+          "en": "Supervisory organs and the persons in charge of their supervision and inspection and investigation departments shall regularly inspect the audio and video recordings, interview records, interrogation records, witness statements and registration materials of property involved in cases during the investigation period, strengthen supervision over the whole process of investigation, and promptly correct and report any problems found.\nIn respect of the synchronous audio and video recordings of interviews, interrogations and questioning of witnesses, priority shall be given to checking whether any of the following circumstances exists:\n(1) evidence was collected by unlawful methods such as violence or threat;\n(2) the meals and necessary rest time of the person under investigation were not guaranteed;\n(3) the starting and ending times recorded in the interview record, interrogation record or witness statement are inconsistent with the starting and ending times reflected in the audio and video recordings of the interview, interrogation or questioning;\n(4) there are substantive differences between the content of the interview record, interrogation record or witness statement and the content of the audio and video recordings of the interview, interrogation or questioning."
+        },
+        "noLabel": {
+          "en": "Article 293."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 294,
+        "text": {
+          "en": "Where supervisory personnel enquire about the circumstances of a case, intervene in a case, or plead or interfere on behalf of a party, the supervisory personnel handling the supervisory matter shall promptly report to the responsible person at a higher level. The relevant circumstances shall be registered for the record.\nWhere it is discovered that supervisory personnel handling a supervisory matter have, without approval, had contact with the person under investigation, persons involved in the case or their specific related persons, or have had dealings with them, the supervisory personnel who know of it shall promptly report to the responsible person at a higher level. The relevant circumstances shall be registered for the record."
+        },
+        "noLabel": {
+          "en": "Article 294."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 295,
+        "text": {
+          "en": "Where any of the circumstances listed in Article 67 of the Supervision Law exists in respect of supervisory personnel handling a supervisory matter, they shall withdraw on their own initiative; where they do not withdraw on their own initiative, the supervisory organ shall decide in accordance with law that they withdraw, and persons subject to supervision, accusers and other relevant persons shall also have the right to require them to withdraw.\nThe withdrawal system shall be strictly applied in the selection of seconded personnel, custody personnel and investigation venues."
+        },
+        "noLabel": {
+          "en": "Article 295."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 296,
+        "text": {
+          "en": "Where supervisory personnel withdraw on their own initiative, or persons subject to supervision, accusers and other relevant persons require supervisory personnel to withdraw, the request shall be made in writing or orally with reasons stated. Where made orally, a record shall be made.\nThe withdrawal of the principal person in charge of a supervisory organ shall be decided by the principal person in charge of the supervisory organ at a higher level; the withdrawal of other supervisory personnel shall be decided by the principal person in charge of the supervisory organ at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 296."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 297,
+        "text": {
+          "en": "Supervisory organs at higher levels shall, through special inspections, professional assessments, reviews and other means, strengthen supervision over the performance of duties and the observance of discipline and law by lower-level supervisory organs and supervisory personnel."
+        },
+        "noLabel": {
+          "en": "Article 297."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 298,
+        "text": {
+          "en": "Supervisory organs shall carry out planned political, theoretical and professional training for supervisory personnel. Training shall uphold the integration of theory with practice, teaching according to needs and seeking practical results, highlight the characteristics of a political organ, and build a high-quality and professional supervisory team that is loyal, clean, responsible and daring and skilled in struggle, so as to comprehensively raise the level of standardisation, rule of law and regularisation of supervision work."
+        },
+        "noLabel": {
+          "en": "Article 298."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 299,
+        "text": {
+          "en": "Supervisory organs shall strictly implement the confidentiality system and control the scope and duration of knowledge of supervisory matters. Supervisory personnel are not permitted to retain, conceal, consult, extract, copy or carry leads on problems and materials involved in cases without authorisation, and are strictly prohibited from divulging secrets of supervision work.\nSupervisory organs shall establish and improve a confidentiality system for accusations and reports, and must strictly keep confidential the name (unit name), work unit, address, telephone number and e-mail address of the accuser or reporter and other relevant circumstances, as well as the content of the accusation or report."
+        },
+        "noLabel": {
+          "en": "Article 299."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 300,
+        "text": {
+          "en": "After personnel handling secrets in a supervisory organ leave their posts or resign, they shall observe the provisions on the management of the period of declassification, strictly perform their duty of confidentiality and may not divulge the relevant secrets."
+        },
+        "noLabel": {
+          "en": "Article 300."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 301,
+        "text": {
+          "en": "Within three years after leaving office, supervisory personnel may not engage in occupations related to supervision and judicial work in which a conflict of interest may arise.\nAfter leaving office, supervisory personnel may not act as agent ad litem or defender in a case handled by the supervisory organ in which they formerly held office, except where they act as agent ad litem or defender for a party as his guardian or close relative."
+        },
+        "noLabel": {
+          "en": "Article 301."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 302,
+        "text": {
+          "en": "Supervisory personnel shall strictly observe the provisions on regulating the conduct of leading cadres and of their spouses, children and children's spouses in engaging in business and running enterprises."
+        },
+        "noLabel": {
+          "en": "Article 302."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 303,
+        "text": {
+          "en": "In the course of performing their duties, supervisory organs and their staff members shall protect, in accordance with law, the property rights and the right to independent operation of enterprises, and are strictly prohibited from unlawfully interfering with the production and operation of enterprises by taking advantage of their authority. Where the assistance of enterprise operators is needed in an investigation, their personal rights, property rights and other lawful rights and interests shall be protected in accordance with law, and the impact on the normal production and operation activities of the enterprise involved shall be avoided or minimised.\nWhen sealing up, seizing or freezing property and recovering property involved in a case, supervisory organs shall strictly distinguish between enterprise property and the personal property of operators, between the personal property of the person under investigation and the property of family members, and between illegal gains and other property involved in the case on the one hand and lawful property on the other.\nWhere business property involved in a case is sealed up and the continued use of that property by the enterprise does not significantly affect its value, the enterprise may be permitted to use it. For property involved in a case which should not, in accordance with regulations, be kept and used by the enterprise, the supervisory organ shall take reasonable measures to preserve and maintain its value. Equipment and technical materials in operation or being used for scientific and technological innovation or product research and development shall generally not be sealed up or seized; where evidence of illegal or criminal conduct genuinely needs to be obtained, methods such as photographing and copying may be adopted."
+        },
+        "noLabel": {
+          "en": "Article 303."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 304,
+        "text": {
+          "en": "Where, on the basis of the facts and evidence already grasped, a supervisory organ discovers that supervisory personnel suspected of serious duty-related unlawful acts or duty-related crimes may commit any of the following acts, it may, after lawful examination and approval, take the measure of confinement against them at a place provided with safety guarantees:\n(1) continuing to commit illegal or criminal conduct;\n(2) tipping off the person under investigation or persons involved in the case, thereby divulging secrets of supervision work;\n(3) threatening, intimidating or deliberately retaliating against informants, accusers, victims, witnesses, experts and other relevant persons;\n(4) other acts which may cause more serious consequences or adverse effects."
+        },
+        "noLabel": {
+          "en": "Article 304."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 305,
+        "text": {
+          "en": "When taking the measure of confinement, there shall be not fewer than two investigators, who shall announce the Decision on Confinement to the person confined, inform him of his rights and obligations, and require him to sign the Decision on Confinement and affix his fingerprint. Where the person confined refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nThe period of confinement shall not exceed seven days, running from the date on which it is announced to the person confined."
+        },
+        "noLabel": {
+          "en": "Article 305."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 306,
+        "text": {
+          "en": "After the measure of confinement has been taken, the unit to which the person confined belongs and his family members shall be notified within 24 hours. Where notification is given in person, the relevant persons shall sign the Notice of Confinement. Where notification in person is impossible, notification may first be given by telephone or other means, and the Notice of Confinement shall be served by post or through transmission, and the relevant persons shall be required to sign it. Where the relevant persons refuse to sign, the investigators shall record this in the document.\nWhere notification is inappropriate because of circumstances that may obstruct the investigation, such as the possible forging, concealing or destroying of evidence, interference with witnesses giving testimony or collusion to give false statements, the matter shall be submitted for approval in accordance with regulations and recorded on file. Once the circumstances obstructing the investigation have disappeared, the unit to which the person confined belongs and his family members shall be notified immediately."
+        },
+        "noLabel": {
+          "en": "Article 306."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 307,
+        "text": {
+          "en": "Where the measure of confinement no longer needs to be continued in respect of a person confined, the confinement shall be lifted or modified into an order to await investigation after the matter has been submitted for approval in accordance with regulations. Where the period of confinement has expired, it shall be lifted after the matter has been submitted for approval in accordance with regulations.\nWhere the measure of confinement is lifted, the investigators shall announce the decision to lift the measure of confinement to the person confined, who shall sign the Decision on Lifting Confinement and affix his fingerprint; where the measure is modified into an order to await investigation, the decision to modify the measure into an order to await investigation shall be announced to the person confined, who shall sign the Decision on Modifying Confinement and affix his fingerprint. Where the person confined refuses to sign or affix his fingerprint, the investigators shall record this in the document.\nWhere the measure of confinement is lifted or modified into an order to await investigation, the unit to which the person confined belongs, his family members and the applicant shall be notified promptly. The investigators shall complete handover formalities with the person taking over and have him sign the Notice of Lifting Confinement or the Notice of Modifying Confinement. Where notification is impossible or the relevant persons refuse to sign, the investigators shall record this in the document. The lifting or modification of the measure of confinement may not be delayed by reason of the completion of handover formalities.\nWhere the measures of protective custody or retention in custody are taken against a person confined before the expiry of the period of confinement, the provisions of these Regulations on taking the measures of protective custody and retention in custody shall apply."
+        },
+        "noLabel": {
+          "en": "Article 307."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 308,
+        "text": {
+          "en": "Where a person under investigation, his close relative or an interested party considers that circumstances provided in paragraph 1 of Article 69 of the Supervision Law exist in respect of a supervisory organ or its staff members and lodges an appeal with the supervisory organ, the case supervision and management department of the supervisory organ shall accept it in accordance with law. The supervisory organ shall make a disposition decision within one month from the date of acceptance of the appeal.\nAn interested party referred to in the preceding paragraph means a natural person, legal person or other organisation having an interest in the property involved in the case concerned."
+        },
+        "noLabel": {
+          "en": "Article 308."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 309,
+        "text": {
+          "en": "After accepting an appeal, the case supervision and management department of a supervisory organ shall set up a verification team to verify the problems reflected in the appeal. According to the needs of the work, the verification team may obtain the relevant documents on measures and other materials and hear the views of the appellant and the explanations of the staff members of the department handling the case. The case supervision and management department shall deliberate collectively, put forward opinions on handling and make a decision after examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 309."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 310,
+        "text": {
+          "en": "A supervisory organ shall, within seven days from the date on which the decision on handling the appeal is made, serve the written decision on handling the appeal on the appellant and require him to sign it. Where the appellant refuses to sign, the staff member shall record this in the document."
+        },
+        "noLabel": {
+          "en": "Article 310."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 311,
+        "text": {
+          "en": "Where an appellant is dissatisfied with the decision on handling the appeal, he may, within one month from the date of receipt of the written decision on handling the appeal, apply to the supervisory organ at the next higher level for re-examination. The supervisory organ at the next higher level shall carry out verification and make a disposition decision within two months from the date of receipt of the application for re-examination."
+        },
+        "noLabel": {
+          "en": "Article 311."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 312,
+        "text": {
+          "en": "Supervisory organs shall strengthen the management and supervision of retention facilities and standardise the management and use of retention facilities in accordance with law.\nRetention facilities shall establish and improve safety systems in respect of confidentiality, fire protection, medical care, epidemic prevention, catering and security, formulate contingency plans for emergencies, take safety precautions and strictly implement the responsibility system for safety work.\nWhere a safety accident or incident occurs in the handling of a case, such as the death, disability or escape of a person subject to compelled appearance, a person in protective custody, a person in retention in custody or a person under confinement, prompt measures for handling and disposition shall be taken. The relevant circumstances shall be reported immediately to the principal person in charge of the supervisory organ and shall be reported level by level to the National Supervisory Commission within 24 hours."
+        },
+        "noLabel": {
+          "en": "Article 312."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 313,
+        "text": {
+          "en": "Where a supervisory organ fails in its duty and responsibility in maintaining the discipline of supervision, law enforcement and investigation work, responsibility shall be pursued in accordance with law. Where supervisory personnel are suspected of serious duty-related unlawful acts or duty-related crimes, or where a major error occurs in the disposition of a case, not only shall direct responsibility be pursued, but the responsibility of the responsible leading personnel shall also be seriously pursued.\nSupervisory organs shall establish a responsibility system for the quality of case handling, and shall apply life-long accountability where abuse of power or dereliction of duty causes serious consequences."
+        },
+        "noLabel": {
+          "en": "Article 313."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision over Supervisory Organs and Supervisors"
+        }
+      },
+      {
+        "no": 314,
+        "text": {
+          "en": "Where the relevant unit refuses to execute any of the following disposition decisions lawfully made by a supervisory organ, the competent department or the organ at a higher level shall order it to make rectification, circulate a criticism of the unit and deal with the responsible leading personnel and the directly responsible personnel in accordance with law:\n(1) a decision on governmental sanction;\n(2) a decision on accountability;\n(3) a decision to give a reminder through interview, criticism and education, an order to make a self-examination, or admonition;\n(4) a decision to take investigative measures;\n(5) a review or re-review decision;\n(6) other disposition decisions lawfully made by the supervisory organ."
+        },
+        "noLabel": {
+          "en": "Article 314."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 315,
+        "text": {
+          "en": "Where a person subject to supervision retaliates against or suppresses an accuser, appellant, critic, reporter, witness or supervisory personnel by way of striking or other means, the supervisory organ shall impose a governmental sanction in accordance with law. Where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 315."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 316,
+        "text": {
+          "en": "Where an accuser, reporter or witness makes a false accusation or frames another person by fabricating facts, forging materials or other means, the supervisory organ shall impose a governmental sanction in accordance with law, or transfer the matter to the relevant organ for handling. Where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law.\nWhere supervisory personnel suffer damage to their reputation as a result of false reports, false accusations or framing, insult or defamation in connection with the lawful performance of their duties, the supervisory organ shall, together with the relevant departments, promptly clarify the facts, eliminate the adverse effects and pursue the responsibility of the relevant unit or individual in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 316."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 317,
+        "text": {
+          "en": "Supervisory organs shall establish and improve the responsibility system for safety in case handling. The principal person in charge of the department handling the case and the head of the investigation team shall be the first persons responsible for investigation safety. The investigation team shall designate a dedicated person to serve as safety officer.\nWhere a local supervisory organ at any level fails to perform its management and supervision duties effectively and a serious safety accident or incident in case handling occurs, or where serious violations of regulations, discipline or law occur in case handling, the principal person in charge of the provincial-level supervisory organ shall make a self-criticism to the National Supervisory Commission in accordance with regulations, and a circular of criticism shall be issued and serious accountability pursued.\nThe case supervision and management department shall organise regular inspections and irregular spot checks on the implementation of the responsibility system for safety in case handling, promptly report any problems found and urge rectification."
+        },
+        "noLabel": {
+          "en": "Article 317."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 318,
+        "text": {
+          "en": "Where supervisory personnel commit any of the following acts in the performance of their duties, they shall be dealt with severely in accordance with law; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law:\n(1) engaging in embezzlement, bribery or malpractice for personal gain;\n(2) failing to perform or incorrectly performing supervisory duties, so that problems which should have been discovered are not discovered, or problems discovered are not reported or not disposed of, causing serious impact;\n(3) disposing of leads on problems without approval or authorisation, concealing and failing to report major circumstances of a case discovered, or retaining or disposing of materials involved in a case without authorisation;\n(4) interfering with investigation work by taking advantage of authority or of the influence of office;\n(5) unlawfully obtaining or divulging information on investigation work, or divulging the matters reported, the acceptance of reports or the information of reporters;\n(6) extorting confessions or inducing confessions from persons under investigation or persons involved in the case, or humiliating, beating, scolding, maltreating or physically punishing, or imposing disguised physical punishment on, them;\n(7) disposing of sealed up, seized or frozen property in violation of regulations;\n(8) causing a safety accident or incident in case handling in violation of regulations, or concealing and failing to report, falsely reporting or improperly disposing of a safety accident or incident after it occurs;\n(9) taking measures of compelled appearance, order to await investigation, protective custody, retention in custody or confinement in violation of regulations, or failing to lift or modify such measures upon the expiry of the statutory period;\n(10) taking measures of technical investigation or restriction on leaving the country in violation of regulations, or failing to lift such measures in accordance with regulations;\n(11) unlawfully interfering with the production and operation of an enterprise, or infringing the personal rights, property rights and other lawful rights and interests of enterprise operators, by taking advantage of authority;\n(12) other duty-related unlawful acts and duty-related crimes."
+        },
+        "noLabel": {
+          "en": "Article 318."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 319,
+        "text": {
+          "en": "Where supervisory personnel commit unlawful acts in the performance of their duties, a reminder through interview, criticism and education, an order to make a self-examination, admonition or a governmental sanction may, according to the seriousness of the circumstances, be imposed in accordance with law. Where the act constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 319."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 320,
+        "text": {
+          "en": "Where any of the following circumstances exists in the exercise of functions and powers by a supervisory organ and its staff members, the victim may apply for State compensation:\n(1) measures of protective custody or confinement were taken unlawfully, or were taken in accordance with statutory conditions and procedures but the period of protective custody or confinement exceeded the statutory time limit and the case was subsequently cancelled;\n(2) after the measure of retention in custody was taken, a decision was made to cancel the case;\n(3) property was unlawfully confiscated or recovered, or unlawfully sealed up, seized or frozen, thereby causing damage;\n(4) functions and powers were exercised unlawfully, causing bodily injury or death to the person under investigation, a person involved in the case or a witness;\n(5) other circumstances in which the lawful rights and interests of citizens, legal persons or other organisations were infringed, thereby causing damage.\nWhere the victim dies, his heirs and other close relatives having a relationship of support with him shall be entitled to claim compensation; where the victim is a legal person or other organisation which has terminated, the successor to its rights shall be entitled to claim compensation."
+        },
+        "noLabel": {
+          "en": "Article 320."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 321,
+        "text": {
+          "en": "Where a supervisory organ and its staff members unlawfully exercise their functions and powers and infringe the lawful rights and interests of citizens, legal persons or other organisations, thereby causing damage, that organ shall be the organ obligated to pay compensation. An application for compensation shall be made to the organ obligated to pay compensation and shall be accepted by the department of that organ responsible for review and re-review work.\nCompensation shall mainly take the form of payment of compensation money. Where property can be returned or the original state restored, the property shall be returned or the original state restored."
+        },
+        "noLabel": {
+          "en": "Article 321."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 322,
+        "text": {
+          "en": "Supervisory organs referred to in these Regulations include supervisory commissions at all levels and the supervisory bodies and supervisory commissioners stationed or dispatched by them, as well as supervisory bodies and supervisory commissioners dispatched further."
+        },
+        "noLabel": {
+          "en": "Article 322."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 323,
+        "text": {
+          "en": "Serious duty-related unlawful acts referred to in these Regulations mean that, on the basis of the facts and evidence already grasped by the supervisory organ, the duty-related unlawful acts of which the person under investigation is suspected are serious in circumstance and may entail a governmental sanction of removal from office or a heavier sanction.\nMajor duty-related crimes and major duty-related crimes such as embezzlement and bribery referred to in these Regulations mean duty-related crimes falling under any of the following circumstances:\n(1) the case is major and complex, involves the interests of the State or major public interests, or the criminal conduct has caused especially major losses to public property and to the interests of the State and the people;\n(2) the person under investigation may be sentenced to fixed-term imprisonment of not less than ten years;\n(3) the case has a relatively great impact throughout the country or within the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 323."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 324,
+        "text": {
+          "en": "Crimes of the same type and crimes of different types referred to in these Regulations shall be distinguished by charge; however, where the crimes are alternative charges or are closely connected in law or in fact, they shall be determined to be crimes of the same type."
+        },
+        "noLabel": {
+          "en": "Article 324."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 325,
+        "text": {
+          "en": "Close relatives referred to in these Regulations mean husband, wife, father, mother, son, daughter and siblings of the same parents."
+        },
+        "noLabel": {
+          "en": "Article 325."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 326,
+        "text": {
+          "en": "The terms 'not less than', 'not more than' and 'within' referred to in these Regulations include the level or number concerned."
+        },
+        "noLabel": {
+          "en": "Article 326."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 327,
+        "text": {
+          "en": "Periods shall be calculated by hour, day, month and year, and the hour and day on which a period begins shall not be counted within the period, unless otherwise provided in these Regulations.\nWhere a period is calculated by year or month, the corresponding day of the expiry month shall be the last day of the period; where there is no corresponding day, the last day of the month shall be the last day of the period.\nWhere the last day of a period is a public holiday, the day following the end of the public holiday shall be the last day of the period. However, the period during which a person under investigation is subject to the measures of ordering to await investigation, protective custody, retention in custody or confinement shall end on the date of expiry and may not be extended by reason of a public holiday."
+        },
+        "noLabel": {
+          "en": "Article 327."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 328,
+        "text": {
+          "en": "These Regulations shall be interpreted by the National Supervisory Commission."
+        },
+        "noLabel": {
+          "en": "Article 328."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 329,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 329."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]

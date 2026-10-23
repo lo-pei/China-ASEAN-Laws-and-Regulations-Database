@@ -38,6 +38,17 @@
       var ls = root.localStorage && root.localStorage.getItem(LS_KEY);
       if (ls) return String(ls).replace(/\/+$/, '');
     } catch (e) {}
+    /* 同源自动识别：后端托管静态站时，页面本身就是从 http(s)://host:port 打开的，
+       此时 /api/* 就在同源下，无需任何参数。
+       file:// 打开时 origin 为 "null" 或 "file://"，保持纯静态模式（答辩兜底）。 */
+    try {
+      var loc = root.location || {};
+      var proto = String(loc.protocol || '');
+      var host = String(loc.host || '');
+      if ((proto === 'http:' || proto === 'https:') && host) {
+        return proto + '//' + host;
+      }
+    } catch (e) {}
     return null;
   }
 

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p02
-   法规 74 部 / 译文 4773 条
+   法规 75 部 / 译文 5051 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -44169,6 +44169,3339 @@
         },
         "chapter": {
           "en": "Chapter XI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0147'] = {
+    "lawId": "CN-LAW-0147",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 278 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to regulate relations arising from maritime transport and relations concerning ships, to safeguard the lawful rights and interests of all parties concerned and to promote the development of maritime transport and of the economy and trade."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "'Maritime transport' as used in this Law means the carriage of goods by sea and the carriage of passengers by sea, including direct transport between sea and river and between river and sea.\nThe provisions of Chapter IV of this Law on contracts of carriage of goods by sea shall not apply to the carriage of goods by sea between ports of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "'Ship' as used in this Law means a seagoing ship or other mobile unit on the sea, except ships used for military or government official purposes and small craft of less than 20 gross tonnage.\nA ship as referred to in the preceding paragraph includes the ship's appurtenances."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Maritime transport and towage between ports of the People's Republic of China shall be operated by ships flying the national flag of the People's Republic of China, except where otherwise provided by laws or administrative regulations.\nA ship of foreign nationality may not operate maritime transport or towage between ports of the People's Republic of China without the approval of the competent transport authority under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "A ship which has acquired the nationality of the People's Republic of China through registration in accordance with law shall be entitled to fly the national flag of the People's Republic of China in navigation.\nWhere a ship illegally flies the national flag of the People's Republic of China in navigation, the relevant authorities shall put a stop to it and impose a fine."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Maritime transport shall be administered in a unified manner by the competent transport authority under the State Council, and the specific measures shall be formulated by that authority and shall come into force after being submitted to and approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Ownership of a ship means the right of the shipowner to possess, use, profit from and dispose of his ship in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Section 1 Ownership of Ships"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a State-owned ship is placed by the State under the operation and management of an enterprise owned by the whole people and having the status of a legal person, the provisions of this Law concerning shipowners shall apply to that legal person."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Section 1 Ownership of Ships"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The acquisition, transfer and extinction of the ownership of a ship shall be registered with the ship registration authority; an unregistered acquisition, transfer or extinction may not be asserted against a third party.\nThe transfer of the ownership of a ship shall be effected by a written contract."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Ownership of Ships"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a ship is owned jointly by two or more legal persons or individuals, the joint ownership shall be registered with the ship registration authority; unregistered joint ownership may not be asserted against a third party."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Ownership of Ships"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A ship mortgage means the right of a mortgagee, in respect of a ship provided by the mortgagor as security for a debt, to auction the ship in accordance with law where the mortgagor fails to perform the debt and to be paid in priority out of the proceeds of the sale."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A shipowner, or a person authorised by the shipowner, may create a mortgage on a ship.\nThe creation of a ship mortgage shall be effected by a written contract."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "To create a ship mortgage, the mortgagee and the mortgagor shall jointly register the mortgage with the ship registration authority; an unregistered mortgage may not be asserted against a third party.\nRegistration of a ship mortgage shall include the following principal particulars:\n(1) the names or designations and addresses of the mortgagee and the mortgagor;\n(2) the name and nationality of the mortgaged ship, and the authority which issued the certificate of ship ownership and the number of that certificate;\n(3) the amount of the secured claim, the rate of interest and the time limit for satisfaction of the claim.\nThe registration of a ship mortgage shall be open to public inspection."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A ship under construction may be made subject to a ship mortgage.\nTo register a mortgage on a ship under construction, the shipbuilding contract shall also be submitted to the ship registration authority."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Unless otherwise agreed in the contract, the mortgagor shall insure the mortgaged ship; where the ship is not insured, the mortgagee shall have the right to insure it, and the insurance premium shall be borne by the mortgagor."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where co-owners of a ship create a mortgage on the jointly owned ship, the consent of co-owners holding not less than two-thirds of the shares shall be obtained, unless otherwise agreed among the co-owners.\nA mortgage created by co-owners of a ship shall not be affected by the partition of the joint ownership of the ship."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After a ship mortgage has been created, the mortgagor may not transfer the mortgaged ship to another person without the consent of the mortgagee."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the mortgagee transfers to another person all or part of the claim secured by the mortgaged ship, the mortgage shall be transferred together with the claim."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Two or more mortgages may be created on the same ship, and their order shall be determined by the order of registration.\nWhere two or more mortgages are created on the same ship, the mortgagees shall be paid in turn out of the proceeds of the auction of the ship in the order in which the mortgages are registered. Mortgages registered on the same day shall be paid in the same order."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where the mortgaged ship is lost, the mortgage shall be extinguished accordingly. The mortgagee shall be entitled to be paid in priority over other creditors out of the insurance indemnity payable for the loss of the ship."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Mortgage of Ships"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A maritime lien means the right of a maritime claimant who, in accordance with the provisions of Article 22 of this Law, has a maritime claim against the shipowner, the bareboat charterer or the ship operator, to be paid in priority out of the ship giving rise to that maritime claim."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The following maritime claims shall be secured by a maritime lien:\n(1) claims for payment of wages, other remuneration, repatriation expenses of crew members and social insurance contributions, arising in respect of the master, the crew members and other persons employed on board the ship, under labour laws, administrative regulations or contracts of employment;\n(2) claims for compensation for loss of life or personal injury occurring in the operation of the ship;\n(3) claims for payment of tonnage dues, pilotage dues, harbour dues and other port charges;\n(4) claims for payment of salvage remuneration for salvage operations at sea;\n(5) claims for compensation for damage to property arising from a tort committed in the operation of the ship.\nClaims for compensation for oil pollution damage caused by a ship carrying more than 2,000 tons of oil in bulk which holds a valid certificate proving that insurance or other financial security for civil liability for such damage is in force shall not fall within the scope of item (5) of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The maritime claims listed in paragraph 1 of Article 22 of this Law shall be paid in the order in which they are listed; however, a maritime claim under item (4) which arose after the claims under items (1) to (3) shall be paid before the claims under items (1) to (3).\nWhere there are two or more maritime claims under items (1), (2), (3) and (5) of paragraph 1 of Article 22 of this Law, they shall be paid concurrently without regard to priority; where the proceeds are insufficient, they shall be paid in proportion. Where there are two or more maritime claims under item (4), the one arising later shall be paid first."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The costs of litigation incurred in exercising a maritime lien, the expenses incurred in preserving and auctioning the ship and in distributing the proceeds of the ship, and other expenses paid for the common benefit of the maritime claimants shall be deducted in advance from the proceeds of the auction of the ship."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A maritime lien shall be paid before a possessory lien on the ship, and a ship mortgage shall be paid after a possessory lien on the ship.\nA possessory lien on the ship as referred to in the preceding paragraph means the right of a shipbuilder or shiprepairer, where the other party to the contract fails to perform the contract, to retain possession of the ship in his possession in order to secure payment of the shipbuilding or shiprepair costs. The possessory lien on the ship shall be extinguished when the shipbuilder or shiprepairer ceases to possess the ship built or repaired."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A maritime lien shall not be extinguished by the transfer of the ownership of the ship, except where, on the transfer of the ship, the maritime lien is not exercised within 60 days from the date of the announcement made by the court at the application of the transferee."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a maritime claim provided in Article 22 of this Law is transferred, the maritime lien securing it shall be transferred together with the claim."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A maritime lien shall be exercised through the arrest of the ship giving rise to the lien by a court."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Apart from the circumstance provided in Article 26 of this Law, a maritime lien shall be extinguished by any of the following:\n(1) the maritime claim secured by the maritime lien is not exercised within one year from the date on which the lien arose;\n(2) the ship is sold by order of a court;\n(3) the ship is lost.\nThe one-year period specified in item (1) of the preceding paragraph shall not be suspended or interrupted."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The provisions of this Section shall not affect the implementation of the provisions of Chapter XI of this Law concerning limitation of liability for maritime claims."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Maritime Liens"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Crew means all persons employed on board a ship, including the master."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The master, navigating officers, chief engineer, engineers, electricians and radio operators shall be persons holding the corresponding certificates of competency."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Chinese crew members of ships engaged in international voyages shall hold a seaman's book and the relevant certificates issued by the harbour superintendency authority of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Matters concerning the employment of crew members and their rights and obligations in respect of labour for which this Law contains no provisions shall be governed by the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The master shall be responsible for the management and navigation of the ship.\nOrders issued by the master within the scope of his functions and powers shall be obeyed by the crew members, passengers and other persons on board.\nThe master shall take necessary measures to protect the ship and the persons on board, the documents, mail, cargo and other property."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 2 The Master"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "In order to safeguard the safety of the persons on board and of the ship, the master shall have the right to place in confinement, or to take other necessary measures against, any person on board who engages in unlawful or criminal activities, and to prevent such person from concealing, destroying or forging evidence.\nWhere the master takes the measures specified in the preceding paragraph, he shall prepare a report on the case, which shall be signed by the master and by not less than two persons on board and shall be delivered, together with the offender, to the relevant authorities for handling."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 The Master"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The master shall enter in the ship's log any birth or death occurring on board and shall prepare a certificate in the presence of two witnesses. A death certificate shall be accompanied by an inventory of the effects of the deceased. Where the deceased has left a will, the master shall certify it. The master shall be responsible for the custody of the death certificate and the will and shall deliver them to the family of the deceased or to the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 The Master"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a maritime accident occurs to the ship and endangers the safety of the persons on board and of the property, the master shall organise the crew members and other persons on board to do their utmost to carry out rescue. Where the sinking or destruction of the ship is inevitable, the master may decide to abandon the ship; however, except in an emergency, the consent of the shipowner shall be obtained.\nOn abandoning the ship, the master shall take all measures to organise the safe disembarkation of the passengers first and then the disembarkation of the crew members, and the master shall be the last to leave the ship. Before leaving the ship, the master shall direct the crew members to do their utmost to salvage the ship's log, the engine room log, the oil record book, the radio log, the charts and documents used on the voyage, as well as valuables, mail and cash."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 2 The Master"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The responsibility of the master for the management and navigation of the ship shall not be released by reason of the ship being piloted by a pilot."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 2 The Master"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the master dies in the course of a voyage or is unable to perform his duties for any reason, the navigating officer of the highest rank shall act as master; before the ship sails from the next port, the shipowner shall appoint a new master to take over."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 2 The Master"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "A contract of carriage of goods by sea means a contract whereby the carrier undertakes to carry the goods consigned by the shipper by sea from one port to another and the shipper pays freight."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The following terms as used in this Chapter have the meanings given below:\n(1) 'Carrier' means the person who, on his own behalf or on behalf of another, concludes a contract of carriage of goods by sea with the shipper.\n(2) 'Actual carrier' means the person to whom the performance of the carriage of the goods, or of part of the carriage, has been entrusted by the carrier, and includes any other person to whom such performance has been entrusted by sub-contract.\n(3) 'Shipper' means:\n1. the person who, on his own behalf or on behalf of another or through another acting on his behalf, concludes a contract of carriage of goods by sea with the carrier;\n2. the person who, on his own behalf or on behalf of another or through another acting on his behalf, delivers the goods to the carrier concerned under a contract of carriage of goods by sea.\n(4) 'Consignee' means the person entitled to take delivery of the goods.\n(5) 'Goods' includes live animals and containers, pallets or similar articles of transport supplied by the shipper for consolidating the goods."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The carrier or the shipper may require written confirmation of the conclusion of a contract of carriage of goods by sea. However, a voyage charter party shall be concluded in writing. Telegrams, telexes and telefaxes shall have the effect of writing."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Any stipulation in a contract of carriage of goods by sea or in a bill of lading or other transport document evidencing the contract which is contrary to the provisions of this Chapter shall be void. The invalidity of such a stipulation shall not affect the validity of the other stipulations of the contract, bill of lading or other transport document. A stipulation transferring to the carrier the benefit of insurance on the goods, or a similar stipulation, shall be void."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The provisions of Article 44 of this Law shall not affect the right of the carrier to increase his responsibilities and obligations beyond those provided in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The period of responsibility of the carrier in respect of goods carried in containers means the whole period during which the goods are in the charge of the carrier, from the time of taking over the goods at the port of loading until the time of delivery at the port of discharge. The period of responsibility of the carrier in respect of goods not carried in containers means the whole period during which the goods are in the charge of the carrier, from the time of loading the goods on board until the time of discharging them from the ship. Where the goods are lost or damaged during the period of responsibility of the carrier, the carrier shall be liable for compensation, except as otherwise provided in this Section.\nThe provisions of the preceding paragraph shall not affect any agreement between the carrier and the shipper concerning the responsibilities borne by the carrier in respect of goods not carried in containers before loading and after discharge."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Before and at the beginning of the voyage, the carrier shall exercise due diligence to make the ship seaworthy, to properly man, equip and supply the ship, and to make the holds, refrigerating chambers, cool chambers and all other parts of the ship in which goods are carried fit and safe for their reception, carriage and preservation."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The carrier shall properly and carefully load, handle, stow, carry, keep, care for and discharge the goods carried."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The carrier shall carry the goods to the port of discharge by the route agreed, or, in the absence of agreement, by the customary route or the geographically proper route.\nAny deviation in saving or attempting to save life or property at sea, or any other reasonable deviation, shall not be deemed to be a breach of the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where the goods are not delivered at the agreed port of discharge within the time expressly agreed, this shall constitute delay in delivery.\nExcept in the circumstances in which the carrier is not liable for compensation under this Chapter, where the goods are lost or damaged as a result of delay in delivery caused by the fault of the carrier, the carrier shall be liable for compensation.\nExcept in the circumstances in which the carrier is not liable for compensation under this Chapter, where the goods suffer economic loss as a result of delay in delivery caused by the fault of the carrier, the carrier shall be liable for compensation even if the goods have not been lost or damaged.\nWhere the carrier fails to deliver the goods within 60 days after the expiry of the time specified in paragraph 1 of this Article, the person entitled to claim compensation for the loss of the goods may treat the goods as lost."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The carrier shall not be liable for compensation for the loss of or damage to the goods occurring during the period of responsibility if it is caused by any of the following:\n(1) the fault of the master, crew members, pilot or other servants of the carrier in the navigation or management of the ship;\n(2) fire, unless caused by the actual fault of the carrier;\n(3) natural disasters, perils or accidents of the sea or other navigable waters;\n(4) war or armed conflict;\n(5) acts of governments or competent authorities, quarantine restrictions or judicial seizure;\n(6) strikes, stoppages or restraints of labour;\n(7) salvage or attempted salvage of life or property at sea;\n(8) acts of the shipper, the owner of the goods or their agents;\n(9) the natural characteristics or inherent defects of the goods;\n(10) inadequate packing of the goods or insufficient or unclear marking thereof;\n(11) latent defects of the ship not discoverable despite the exercise of due diligence;\n(12) any other cause arising without the fault of the carrier or of his servants or agents.\nWhere the carrier is exempted from liability for compensation in accordance with the provisions of the preceding paragraph, the burden of proof shall lie on the carrier, except in the case of the cause specified in item (2)."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The carrier shall not be liable for compensation for the loss of or damage to live animals caused by the inherent special risks of carrying live animals. However, the carrier shall prove that he has complied with the special requirements of the shipper concerning the carriage of live animals and that, in the actual circumstances, the loss or damage was caused by such inherent special risks."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the carrier carries goods on deck, this shall be agreed with the shipper, or shall conform to shipping usage, or shall conform to the provisions of the relevant laws and administrative regulations.\nWhere the carrier carries goods on deck in accordance with the provisions of the preceding paragraph, he shall not be liable for compensation for the loss of or damage to the goods caused by the special risks of such carriage.\nWhere the carrier, in violation of the provisions of paragraph 1 of this Article, carries goods on deck and thereby causes loss of or damage to the goods, he shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the loss of or damage to the goods or delay in delivery is caused jointly by a cause for which the carrier, or his servants or agents, is not exempt from liability and by other causes, the carrier shall be liable for compensation only to the extent of the loss attributable to the cause for which he is not exempt; however, the carrier shall bear the burden of proving the loss, damage or delay attributable to the other causes."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The amount of compensation for loss of the goods shall be calculated on the basis of the actual value of the goods; the amount of compensation for damage to the goods shall be calculated on the basis of the difference between the actual value of the goods before and after the damage or on the basis of the cost of repairing the goods.\nThe actual value of the goods shall be calculated on the basis of the value of the goods at the time of shipment plus insurance premium plus freight.\nFrom the actual value of the goods specified in the preceding paragraph shall be deducted the expenses saved or not incurred as a result of the loss of or damage to the goods."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The limit of compensation of the carrier for the loss of or damage to the goods shall be calculated on the basis of the number of packages or other shipping units, at 666.67 units of account per package or other shipping unit, or on the basis of the gross weight of the goods, at 2 units of account per kilogram, whichever limit is the higher. However, this shall not apply where the shipper has declared the nature and value of the goods before shipment and these have been stated in the bill of lading, or where the carrier and the shipper have agreed otherwise on a limit of compensation higher than that provided in this Article.\nWhere the goods are consolidated in containers, pallets or similar articles of transport, the number of packages or other shipping units stated in the bill of lading as packed in such articles of transport shall be deemed to be the number of packages or other shipping units referred to in the preceding paragraph; where no such number is stated, each article of transport shall be deemed to be one package or one unit.\nWhere the articles of transport are not owned or supplied by the carrier, the articles of transport themselves shall be deemed to be one package or one unit."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The limit of compensation of the carrier for economic loss caused by delay in delivery of the goods shall be the amount of the freight for the goods so delayed. Where loss of or damage to the goods and delay in delivery occur concurrently, the limit of compensation of the carrier shall be the limit provided in paragraph 1 of Article 56 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Any action against the carrier in respect of the loss of or damage to the goods or delay in delivery covered by a contract of carriage of goods by sea, whether or not the maritime claimant is a party to the contract and whether the action is founded on contract or on tort, shall be governed by the provisions of this Chapter concerning the defences of the carrier and limitation of liability.\nWhere the action referred to in the preceding paragraph is brought against a servant or agent of the carrier, and the servant or agent proves that he acted within the scope of his employment or agency, the provisions of the preceding paragraph shall apply."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where it is proved that the loss of or damage to the goods or delay in delivery resulted from an act or omission of the carrier done with intent to cause such loss, or recklessly and with knowledge that such loss would probably result, the carrier may not avail himself of the provisions of Article 56 or Article 57 of this Law limiting liability.\nWhere it is proved that the loss of or damage to the goods or delay in delivery resulted from an act or omission of a servant or agent of the carrier done with intent to cause such loss, or recklessly and with knowledge that such loss would probably result, the servant or agent may not avail himself of the provisions of Article 56 or Article 57 of this Law limiting liability."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where the carrier entrusts the carriage of the goods, or part of the carriage, to an actual carrier, the carrier shall remain responsible for the entire carriage in accordance with the provisions of this Chapter. In respect of the carriage performed by the actual carrier, the carrier shall be responsible for the acts of the actual carrier or of the servants or agents of the actual carrier acting within the scope of their employment or agency.\nNotwithstanding the provisions of the preceding paragraph, where a contract of carriage by sea expressly provides that a specified part of the carriage covered by the contract is to be performed by a named actual carrier other than the carrier, the contract may also provide that the carrier shall not be liable for the loss of or damage to the goods or delay in delivery occurring while the goods are in the charge of the named actual carrier."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The provisions of this Chapter concerning the responsibilities of the carrier shall apply to the actual carrier. The provisions of paragraph 2 of Article 58 and paragraph 2 of Article 59 of this Law shall apply to actions brought against the servants or agents of the actual carrier."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Any special agreement whereby the carrier assumes obligations not provided in this Chapter or waives rights conferred by this Chapter shall have effect in relation to the actual carrier only if the actual carrier has expressly agreed to it in writing; whether or not the actual carrier agrees shall not affect the effect of such special agreement in relation to the carrier."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where both the carrier and the actual carrier are liable for compensation, they shall be jointly and severally liable within the scope of that liability."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where claims for compensation are brought separately against the carrier, the actual carrier and their servants or agents in respect of the loss of or damage to the goods, the total amount of compensation shall not exceed the limit provided in Article 56 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The provisions of Articles 60 to 64 of this Law shall not affect the right of recourse between the carrier and the actual carrier."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 2 Carrier’s Responsibilities"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The shipper shall pack the goods properly and shall warrant to the carrier the correctness, at the time of shipment, of the description, marks, number of packages or pieces, weight or volume of the goods as furnished by him; where the carrier suffers loss as a result of inadequate packing or of the incorrectness of the above particulars, the shipper shall be liable for compensation.\nThe right of the carrier to be indemnified under the preceding paragraph shall not affect the responsibilities of the carrier towards persons other than the shipper under the contract of carriage of goods."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 3 Shipper’s Responsibilities"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The shipper shall timely complete all formalities required for the carriage of the goods with the port, customs, quarantine, inspection and other competent authorities and shall deliver to the carrier the documents evidencing the completion of such formalities; where the interests of the carrier are prejudiced because the relevant documents evidencing the completion of the formalities are not delivered in time or are incomplete or incorrect, the shipper shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 3 Shipper’s Responsibilities"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where the shipper consigns dangerous goods, he shall, in accordance with the provisions on the carriage of dangerous goods by sea, pack them properly, mark and label them as dangerous goods and give the carrier written notice of their proper name and nature and of the preventive measures to be taken; where the shipper fails to give such notice or gives incorrect notice, the carrier may at any time and any place discharge, destroy or render harmless the goods as the circumstances may require, without being liable for compensation. The shipper shall be liable for compensation for any loss suffered by the carrier as a result of the carriage of such goods.\nEven where the carrier knows the nature of the dangerous goods and has agreed to their shipment, he may still discharge, destroy or render them harmless, without being liable for compensation, when they constitute an actual danger to the ship, the persons on board or other goods. However, the provisions of this paragraph shall not affect contribution in general average."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 3 Shipper’s Responsibilities"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The shipper shall pay freight to the carrier as agreed.\nThe shipper and the carrier may agree that freight shall be paid by the consignee; however, such agreement shall be stated in the transport document."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 3 Shipper’s Responsibilities"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The shipper shall not be liable for compensation for loss suffered by the carrier or the actual carrier, or for damage sustained by the ship, unless such loss or damage was caused by the fault of the shipper or of his servants or agents.\nThe servants or agents of the shipper shall not be liable for compensation for loss suffered by the carrier or the actual carrier, or for damage sustained by the ship, unless such loss or damage was caused by the fault of those servants or agents."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 3 Shipper’s Responsibilities"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "A bill of lading means a document which evidences a contract of carriage of goods by sea and the taking over or loading of the goods by the carrier, and which constitutes an undertaking by the carrier to deliver the goods against surrender of the document. The particulars in the bill of lading concerning delivery of the goods to a named person, to order or to bearer shall constitute the undertaking of the carrier to deliver the goods."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "After the goods have been taken over or loaded by the carrier, the carrier shall, at the request of the shipper, issue a bill of lading.\nA bill of lading may be issued by a person authorised by the carrier. A bill of lading issued by the master of the carrying ship shall be deemed to have been issued on behalf of the carrier."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "A bill of lading shall contain the following particulars:\n(1) the description, marks, number of packages or pieces, weight or volume of the goods, and a statement of the dangerous nature of the goods where dangerous goods are carried;\n(2) the name and principal place of business of the carrier;\n(3) the name of the ship;\n(4) the name of the shipper;\n(5) the name of the consignee;\n(6) the port of loading and the date on which the goods were taken over at that port;\n(7) the port of discharge;\n(8) in the case of a multimodal transport bill of lading, the place of taking over the goods and the place of delivery;\n(9) the date and place of issue of the bill of lading and the number of originals issued;\n(10) the payment of freight;\n(11) the signature of the carrier or of a person acting on his behalf.\nThe absence of one or more of the particulars specified in the preceding paragraph shall not affect the nature of the bill of lading; however, the bill of lading shall comply with the provisions of Article 71 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where, before loading the goods, the carrier has issued, at the request of the shipper, a received-for-shipment bill of lading or other document, the shipper may, after the goods have been loaded, surrender the received-for-shipment bill of lading or other document to the carrier in exchange for a shipped bill of lading; the carrier may also annotate the received-for-shipment bill of lading with the name of the carrying ship and the date of shipment, and the bill so annotated shall be deemed to be a shipped bill of lading."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where the carrier or the person issuing a bill of lading on his behalf knows, or has reasonable grounds to suspect, that the description, marks, number of packages or pieces, weight or volume of the goods stated in the bill of lading do not correspond to the goods actually taken over or, in the case of a shipped bill of lading, to the goods actually loaded, or has no adequate means of checking the particulars stated in the bill of lading, he may make a reservation on the bill of lading indicating the discrepancy, the grounds for the suspicion or the fact that the particulars could not be checked."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where the carrier or the person issuing a bill of lading on his behalf fails to make a reservation on the bill of lading as to the apparent order and condition of the goods, the goods shall be deemed to be in good apparent order and condition."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Save for a reservation made in accordance with the provisions of Article 75 of this Law, a bill of lading issued by the carrier or by a person issuing it on his behalf shall be prima facie evidence that the carrier has taken over the goods as described in the bill of lading or has loaded the goods on board; evidence to the contrary adduced by the carrier against a third party, including the consignee, who has acquired the bill of lading in good faith shall not be admitted."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The rights and obligations of the carrier in relation to the consignee and the holder of the bill of lading shall be determined in accordance with the provisions of the bill of lading.\nThe consignee and the holder of the bill of lading shall not be liable for demurrage, dead freight and other expenses relating to loading incurred at the port of loading, unless the bill of lading expressly states that such expenses are to be borne by the consignee or the holder of the bill of lading."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The transfer of a bill of lading shall be effected in accordance with the following provisions:\n(1) a straight bill of lading may not be transferred;\n(2) an order bill of lading may be transferred by endorsement in blank or by special endorsement;\n(3) a bearer bill of lading may be transferred without endorsement."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where the carrier issues a document other than a bill of lading to evidence the receipt of goods for shipment, that document shall be prima facie evidence of the conclusion of a contract of carriage of goods by sea and of the receipt by the carrier of the goods listed in the document.\nSuch a document issued by the carrier may not be transferred."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 4 Transport Documents"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where, on delivery of the goods by the carrier to the consignee, the consignee does not give the carrier written notice of the loss of or damage to the goods, such delivery shall be prima facie evidence that the carrier has delivered the goods as described in the transport document and that the goods were in good condition.\nWhere the loss of or damage to the goods is not apparent, the provisions of the preceding paragraph shall apply if the consignee fails to give written notice within seven consecutive days from the day following the date of delivery of the goods, or, in the case of goods carried in containers, within fifteen consecutive days from the day following the date of delivery.\nWhere, at the time of delivery, the consignee and the carrier have jointly inspected or surveyed the goods, no written notice need be given in respect of the loss or damage ascertained."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 5 Delivery of Goods"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where the carrier does not receive written notice from the consignee, within 60 consecutive days from the day following the date of delivery of the goods to the consignee, that the goods have suffered economic loss as a result of delay in delivery, the carrier shall not be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 5 Delivery of Goods"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The consignee may, before taking delivery of the goods at the port of destination, and the carrier may, before delivering the goods at the port of destination, require a survey of the condition of the goods by a survey institution; the party requiring the survey shall pay the survey fees but shall be entitled to recover them from the party liable for the loss of the goods."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 5 Delivery of Goods"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The carrier and the consignee shall afford each other reasonable facilities for the survey provided in Articles 81 and 83 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 5 Delivery of Goods"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where the goods are delivered by the actual carrier, written notice given by the consignee to the actual carrier in accordance with the provisions of Article 81 of this Law shall have the same effect as written notice given to the carrier, and written notice given to the carrier shall have the same effect as written notice given to the actual carrier."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 5 Delivery of Goods"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where the goods are not taken over by any person at the port of discharge, or where the consignee delays in taking over or refuses to take over the goods, the master may discharge the goods into a warehouse or other suitable place, and the expenses and risks thereby incurred shall be borne by the consignee."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 5 Delivery of Goods"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where the freight, contribution in general average, demurrage and necessary disbursements made by the carrier on account of the goods, and other sums payable to the carrier, have not been paid in full and no appropriate security has been provided, the carrier may retain the goods within reasonable limits."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 5 Delivery of Goods"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where goods retained by the carrier in accordance with the provisions of Article 87 of this Law are not taken over by any person within 60 days from the day following the date of the ship's arrival at the port of discharge, the carrier may apply to a court for an order for their auction; where the goods are perishable or are likely to deteriorate, or where the cost of preserving them would probably exceed their value, the carrier may apply for an early auction.\nThe proceeds of the auction shall be applied to pay the expenses of preserving and auctioning the goods, the freight and other relevant sums payable to the carrier; where the proceeds are insufficient, the carrier shall be entitled to recover the deficit from the shipper; the balance, if any, shall be returned to the shipper, and if it cannot be returned and no one claims it within one year from the date of the auction, it shall be paid into the State treasury."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 5 Delivery of Goods"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where, before the ship sails from the port of loading, the shipper requests cancellation of the contract, the shipper shall pay to the carrier half of the agreed freight, unless otherwise agreed in the contract; where the goods have already been loaded, the shipper shall also bear the costs of loading, discharging and other related expenses."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 6 Cancellation of the Contract"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where, before the ship sails from the port of loading, the contract cannot be performed owing to force majeure or to other causes not attributable to the carrier or the shipper, either party may cancel the contract, and neither party shall be liable to the other for compensation. Unless otherwise agreed in the contract, where the freight has been paid, the carrier shall refund it to the shipper; where the goods have already been loaded, the shipper shall bear the loading and discharging expenses; where a bill of lading has already been issued, the shipper shall return it to the carrier."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 6 Cancellation of the Contract"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where, owing to force majeure or to other causes not attributable to the carrier or the shipper, the ship cannot discharge the goods at the port of destination agreed in the contract, the master shall, unless otherwise agreed in the contract, be entitled to discharge the goods at a safe port or place adjacent to the port of destination, and such discharge shall be deemed to be performance of the contract.\nWhere the master decides to discharge the goods, he shall promptly notify the shipper or the consignee and shall take into account the interests of the shipper or the consignee."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 6 Cancellation of the Contract"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "A voyage charter party means a contract whereby the shipowner undertakes to provide a ship or part of the ship's capacity to the charterer for the carriage of agreed goods from one port to another, and the charterer pays the agreed freight."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The contents of a voyage charter party shall mainly include the names of the shipowner and the charterer, the name and nationality of the ship, the deadweight, the cubic capacity, the description of the goods, the port of loading and the port of destination, the laydays, the loading and discharging periods, the freight, demurrage, dispatch money and other relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The provisions of Articles 47 and 49 of this Law shall apply to the shipowner under a voyage charter party.\nThe other provisions of this Chapter concerning the rights and obligations between the parties to a contract shall apply to the shipowner and the charterer under a voyage charter party only where the voyage charter party contains no provisions or no different provisions on the matter."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a bill of lading is issued for goods carried under a voyage charter party and the holder of the bill of lading is not the charterer, the rights and obligations of the carrier and that holder shall be governed by the provisions of the bill of lading. However, where the bill of lading states that the terms of the voyage charter party apply, the terms of that voyage charter party shall apply."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "The shipowner shall provide the agreed ship; the ship may be replaced with the consent of the charterer. However, where the ship provided or the replacement ship does not conform to the contract, the charterer shall be entitled to reject it or to cancel the contract.\nWhere the charterer suffers loss because the shipowner fails, through his fault, to provide the agreed ship, the shipowner shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where the shipowner fails to provide the ship within the agreed laydays, the charterer shall be entitled to cancel the contract. However, where the shipowner notifies the charterer of the delay and of the expected date of the ship's arrival at the port of loading, the charterer shall, within 48 hours from receipt of the notice, notify the shipowner of his decision whether or not to cancel the contract.\nWhere the charterer suffers loss because the shipowner delays in providing the ship through his fault, the shipowner shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The loading and discharging periods under a voyage charter party and the method of calculating them, the demurrage payable for exceeding the loading and discharging periods and the dispatch money payable for completing loading and discharging ahead of time shall be agreed between the parties."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "The charterer may sub-charter the ship he has chartered; the sub-charter shall not affect the rights and obligations provided in the original contract."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "The charterer shall provide the agreed goods; the goods may be replaced with the consent of the shipowner. However, where the replacement goods are disadvantageous to the shipowner, the shipowner shall be entitled to reject them or to cancel the contract.\nWhere the shipowner suffers loss because the agreed goods are not provided, the charterer shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The shipowner shall discharge the goods at the port of discharge agreed in the contract. Where the contract contains a clause granting the charterer an option as to the port of discharge and the charterer fails to give timely notice of the port of discharge determined in accordance with the contract, the master may select one of the optional ports of discharge agreed and discharge the goods there. Where the charterer fails to give timely notice of the port of discharge determined in accordance with the contract and thereby causes loss to the shipowner, the charterer shall be liable for compensation. Where the shipowner, in violation of the contract, selects a port of discharge on his own authority and thereby causes loss to the charterer, the shipowner shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 7 Special Provisions on Voyage Charter Parties"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "A multimodal transport contract as referred to in this Law means a contract whereby the multimodal transport operator undertakes, against payment of freight for the entire carriage, to carry the goods from the place of taking over to the place of destination and to deliver them to the consignee by two or more different modes of transport, one of which is sea transport.\nA multimodal transport operator as referred to in the preceding paragraph means the person who, on his own behalf or on behalf of another, concludes a multimodal transport contract with the shipper."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 8 Special Provisions Regarding Multimodal Transport Contract"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The period of responsibility of the multimodal transport operator in respect of multimodal transport goods shall run from the time of taking over the goods until the time of delivery."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Section 8 Special Provisions Regarding Multimodal Transport Contract"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The multimodal transport operator shall be responsible for performing, or for procuring the performance of, the multimodal transport contract and shall be responsible for the entire carriage.\nThe multimodal transport operator and the carriers participating in the multimodal transport for the various stages of the carriage may conclude a separate contract determining their mutual responsibilities in respect of each stage of the carriage. However, such a contract shall not affect the responsibility of the multimodal transport operator for the entire carriage."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Section 8 Special Provisions Regarding Multimodal Transport Contract"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where the loss of or damage to the goods occurred during a particular stage of the multimodal transport, the liability of the multimodal transport operator for compensation and the limits of that liability shall be governed by the provisions of the law applicable to the mode of transport used during that stage."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Section 8 Special Provisions Regarding Multimodal Transport Contract"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where the stage of transport during which the loss of or damage to the goods occurred cannot be determined, the multimodal transport operator shall be liable for compensation in accordance with the provisions of this Chapter concerning the liability of the carrier for compensation and the limits of that liability."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Section 8 Special Provisions Regarding Multimodal Transport Contract"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "A contract of carriage of passengers by sea means a contract whereby the carrier undertakes to carry a passenger and his luggage by sea from one port to another in a ship fit for the carriage of passengers, and the passenger pays the fare."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The following terms as used in this Chapter have the meanings given below:\n(1) 'Carrier' means the person who, on his own behalf or on behalf of another, concludes a contract of carriage of passengers by sea with a passenger.\n(2) 'Actual carrier' means the person to whom the performance of the carriage of the passenger, or of part of the carriage, has been entrusted by the carrier, and includes any other person to whom such performance has been entrusted by sub-contract.\n(3) 'Passenger' means a person carried under a contract of carriage of passengers by sea; a person who, with the consent of the carrier, accompanies goods carried under a contract of carriage of goods by sea shall be deemed to be a passenger.\n(4) 'Luggage' means any article or vehicle carried by the carrier under a contract of carriage of passengers by sea, except live animals.\n(5) 'Cabin luggage' means luggage which the passenger carries, keeps in his charge or places in his cabin."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The provisions of this Chapter concerning the responsibilities of the carrier shall apply to the actual carrier. The provisions of this Chapter concerning the responsibilities of the servants or agents of the carrier shall apply to the servants or agents of the actual carrier."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "A passenger ticket shall be evidence of the conclusion of a contract of carriage of passengers by sea."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The period of carriage in the carriage of passengers by sea shall run from the time the passenger boards the ship until the time he disembarks. Where the fare includes the cost of transport to and from the ship, the period of carriage shall also include the time during which the carrier transports the passenger by water between the shore and the ship, but shall not include the time the passenger spends within the port area, on the wharf or in other port facilities.\nThe period of carriage of the passenger's cabin luggage shall be as provided in the preceding paragraph. As regards luggage other than cabin luggage, the period of carriage shall run from the time the passenger delivers the luggage to the carrier or to his servants or agents until the time the carrier or his servants or agents return it to the passenger."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "A passenger travelling without a ticket, in a class higher than that for which his ticket was issued, or beyond the distance covered by his ticket, shall pay the difference in the fare in accordance with regulations, and the carrier may make an additional charge in accordance with regulations; where the passenger refuses to pay, the master shall be entitled to order him to leave the ship at a suitable place, and the carrier shall be entitled to recover the amount from him."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "A passenger may not carry with him or include in his luggage any contraband articles or any inflammable, explosive, toxic, corrosive or radioactive articles or other dangerous articles likely to endanger the safety of persons or property on board.\nThe carrier may at any time and any place discharge, destroy or render harmless, or deliver to the relevant authorities, any contraband or dangerous articles carried or included in the luggage by a passenger in violation of the provisions of the preceding paragraph, without being liable for compensation.\nWhere a passenger violates the provisions of paragraph 1 of this Article and causes damage, he shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where, during the period of carriage of the passenger and his luggage provided in Article 111 of this Law, an accident caused by the fault of the carrier, or of his servants or agents acting within the scope of their employment or agency, results in loss of life or personal injury to the passenger or in the loss of or damage to his luggage, the carrier shall be liable for compensation.\nThe claimant shall bear the burden of proving the fault of the carrier or of his servants or agents, except in the circumstances provided in paragraphs 3 and 4 of this Article.\nWhere the loss of life or personal injury to the passenger, or the loss of or damage to his cabin luggage, results from the sinking, collision, stranding, explosion or fire of the ship, or from a defect in the ship, the carrier or his servants or agents shall be presumed to be at fault unless they prove the contrary.\nWhere luggage other than cabin luggage is lost or damaged, whatever the accident which caused it, the carrier or his servants or agents shall be presumed to be at fault unless they prove the contrary."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "Where the carrier proves that the loss of life or personal injury to the passenger, or the loss of or damage to his luggage, was caused by the fault of the passenger himself or by the concurrent fault of the passenger and the carrier, the liability of the carrier for compensation may be extinguished or reduced accordingly.\nWhere the carrier proves that the loss of life or personal injury to the passenger, or the loss of or damage to his luggage, was caused by the intentional act of the passenger, or that the loss of life or personal injury to the passenger resulted from the passenger's own state of health, the carrier shall not be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "The carrier shall not be liable for compensation for the loss of or damage to money, gold, silver, jewellery, negotiable securities or other valuables belonging to the passenger.\nWhere the passenger and the carrier agree that the articles specified in the preceding paragraph be placed in the custody of the carrier, the carrier shall be liable for compensation in accordance with the provisions of Article 117 of this Law; where the parties have agreed in writing on a limit of compensation higher than that provided in Article 117 of this Law, the carrier shall be liable for compensation up to the agreed amount."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Except in the circumstances provided in paragraph 4 of this Article, the limits of liability of the carrier in respect of each carriage of passengers by sea shall be as follows:\n(1) in the case of loss of life or personal injury to a passenger, 46,666 units of account per passenger;\n(2) in the case of loss of or damage to the passenger's cabin luggage, 833 units of account per passenger;\n(3) in the case of loss of or damage to a passenger's vehicle, including the luggage carried in that vehicle, 3,333 units of account per vehicle;\n(4) in the case of loss of or damage to luggage of the passenger other than that specified in items (2) and (3) of this paragraph, 1,200 units of account per passenger.\nThe carrier and the passenger may agree on a deductible for the loss of the passenger's vehicle and of luggage other than the vehicle. However, the deductible for the loss of each vehicle shall not exceed 117 units of account, and the deductible for the loss of luggage other than the vehicle, per passenger, shall not exceed 13 units of account. In calculating the amount of compensation for the loss of each vehicle or of luggage other than the vehicle per passenger, the agreed deductible of the carrier shall be deducted.\nThe carrier and the passenger may agree in writing on limits of liability for compensation higher than those provided in paragraph 1 of this Article.\nFor the carriage of passengers by sea between ports of the People's Republic of China, the limits of liability of the carrier for compensation shall be formulated by the competent transport authority under the State Council and shall come into force after being submitted to and approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where it is proved that the loss of life or personal injury to the passenger, or the loss of or damage to his luggage, resulted from an act or omission of the carrier done with intent to cause such loss, or recklessly and with knowledge that such loss would probably result, the carrier may not avail himself of the provisions of Article 116 or Article 117 of this Law limiting liability.\nWhere it is proved that the loss of life or personal injury to the passenger, or the loss of or damage to his luggage, resulted from an act or omission of a servant or agent of the carrier done with intent to cause such loss, or recklessly and with knowledge that such loss would probably result, the servant or agent may not avail himself of the provisions of Article 116 or Article 117 of this Law limiting liability."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where the luggage is apparently damaged, the passenger shall give written notice to the carrier or to his servants or agents in accordance with the following provisions:\n(1) in the case of cabin luggage, the notice shall be given before or at the time of disembarkation;\n(2) in the case of other luggage, the notice shall be given before or at the time of the return of the luggage.\nWhere the damage to the luggage is not apparent and cannot be discovered by the passenger at the time of disembarkation or of the return of the luggage, and where the luggage is lost, the passenger shall give written notice to the carrier or to his servants or agents within 15 days from the date of disembarkation, of the return of the luggage or of the date on which the luggage should have been returned.\nWhere the passenger fails to give written notice in time in accordance with the provisions of paragraphs 1 and 2 of this Article, he shall be deemed to have received the luggage in complete and undamaged condition, unless he proves the contrary.\nWhere, at the time of the return of the luggage, the passenger and the carrier have jointly inspected or surveyed the luggage, no written notice need be given."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where a claim for compensation is brought against a servant or agent of the carrier, the servant or agent shall, if he proves that he acted within the scope of his employment or agency, be entitled to avail himself of the defences and the limits of liability provided in Articles 115, 116 and 117 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where the carrier entrusts the carriage of the passenger, or part of the carriage, to an actual carrier, the carrier shall remain responsible for the entire carriage in accordance with the provisions of this Chapter. Where the carriage is performed by the actual carrier, the carrier shall be responsible for the acts of the actual carrier or of the servants or agents of the actual carrier acting within the scope of their employment or agency."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Any special agreement whereby the carrier assumes obligations not provided in this Chapter or waives rights conferred by this Chapter shall have effect in relation to the actual carrier only if the actual carrier has expressly agreed to it in writing; whether or not the actual carrier agrees shall not affect the effect of such special agreement in relation to the carrier."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where both the carrier and the actual carrier are liable for compensation, they shall be jointly and severally liable within the limits of that liability."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where claims for compensation are brought separately against the carrier, the actual carrier and their servants or agents in respect of the loss of life or personal injury to a passenger or the loss of or damage to his luggage, the total amount of compensation shall not exceed the limit provided in Article 117 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "The provisions of Articles 121 to 124 of this Law shall not affect the right of recourse between the carrier and the actual carrier."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Any stipulation in a contract of carriage of passengers by sea which has any of the following contents shall be void:\n(1) it exempts the carrier from the statutory liability he bears towards the passenger;\n(2) it reduces the limits of liability of the carrier provided in this Chapter;\n(3) it provides for the reverse of the burden of proof provided in this Chapter;\n(4) it restricts the right of the passenger to claim compensation.\nThe invalidity of a stipulation of the contract provided in the preceding paragraph shall not affect the validity of the other stipulations of the contract."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter V Contract of Carriage of Passengers by Sea"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "The provisions of this Chapter concerning the rights and obligations between shipowner and charterer shall apply only where the contract for the charter of a ship contains no provisions or no different provisions on the matter."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Contracts for the charter of a ship, including time charter parties and bareboat charter parties, shall be concluded in writing."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "A time charter party means a contract whereby the shipowner undertakes to provide the charterer with a ship manned by the shipowner's crew, to be used by the charterer for the agreed purpose during the agreed period, and the charterer pays hire."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "The contents of a time charter party shall mainly include the names of the shipowner and the charterer, the name and nationality of the ship, the ship's class, tonnage, cubic capacity, speed and fuel consumption, the trading limits, the purpose, the charter period, the time, place and conditions of delivery and redelivery of the ship, the hire and its payment, and other relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "The shipowner shall deliver the ship at the time agreed in the contract.\nWhere the shipowner violates the provisions of the preceding paragraph, the charterer shall be entitled to cancel the contract. Where the shipowner notifies the charterer of the delay and of the expected date of the ship's arrival at the port of delivery, the charterer shall, within 48 hours from receipt of the notice, notify the shipowner of his decision whether to cancel the contract or to continue to charter the ship.\nWhere the charterer suffers loss because the shipowner delays in providing the ship through his fault, the shipowner shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "When delivering the ship, the shipowner shall exercise due diligence to make the ship seaworthy. The ship delivered shall be fit for the agreed purpose.\nWhere the shipowner violates the provisions of the preceding paragraph, the charterer shall be entitled to cancel the contract and to claim compensation for the loss thereby suffered."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where during the charter period the ship does not conform to the agreed state of seaworthiness or other agreed state, the shipowner shall take such reasonable measures as may be available to restore it as soon as possible.\nWhere the ship does not conform to the agreed state of seaworthiness or other agreed state and cannot be operated normally for 24 consecutive hours, the charterer shall not pay hire in respect of the time lost thereby, unless that state was caused by the charterer."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "The charterer shall ensure that the ship is employed in the agreed maritime transport between safe ports or places within the agreed trading limits.\nWhere the charterer violates the provisions of the preceding paragraph, the shipowner shall be entitled to cancel the contract and to claim compensation for the loss thereby suffered."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "The charterer shall ensure that the ship is employed in the carriage of the agreed lawful goods.\nWhere the charterer employs the ship in the carriage of live animals or dangerous goods, he shall obtain the prior consent of the shipowner.\nWhere the charterer violates the provisions of paragraph 1 or paragraph 2 of this Article and thereby causes loss to the shipowner, he shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "The charterer shall be entitled to give the master instructions concerning the operation of the ship, provided that such instructions do not contravene the provisions of the time charter party."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "The charterer may sub-charter the chartered ship, but shall promptly notify the shipowner of the sub-charter. The sub-charter shall not affect the rights and obligations provided in the original charter party."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Where the shipowner transfers the ownership of a ship already chartered, the rights and obligations of the parties provided in the time charter party shall not be affected, but the charterer shall be promptly notified. After the transfer of ownership, the original charter party shall continue to be performed by the transferee and the charterer."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "Where the ship performs salvage operations at sea during the contract period, the charterer shall be entitled to one half of the salvage remuneration remaining after deduction of the salvage expenses, compensation for damage, the portion due to the crew members and other expenses."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "The charterer shall pay hire as agreed in the contract. Where the charterer fails to pay hire as agreed in the contract, the shipowner shall be entitled to cancel the contract and to claim compensation for the loss thereby suffered."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where the charterer fails to pay the shipowner the hire or other sums agreed in the contract, the shipowner shall have a lien on the goods and property on board belonging to the charterer and on the income from the sub-charter of the ship."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "When the charterer redelivers the ship to the shipowner, the ship shall be in as good a condition as it was when delivered by the shipowner, fair wear and tear excepted.\nWhere the ship is not maintained in as good a condition as it was when delivered, the charterer shall be responsible for repairing it or for paying compensation."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Where, on reasonable calculation, the date of completion of the final voyage is about the date of redelivery agreed in the contract but may extend beyond it, the charterer shall be entitled to employ the ship beyond that date in order to complete the voyage. During the period of over-employment, the charterer shall pay hire at the rate agreed in the contract; where the market rate of hire is higher than the rate agreed in the contract, the charterer shall pay hire at the market rate."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Section 2 Time Charter Parties"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "A bareboat charter party means a contract whereby the shipowner undertakes to provide the charterer with a ship without crew, to be possessed, used and operated by the charterer during the agreed period, and the charterer pays hire to the shipowner."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "The contents of a bareboat charter party shall mainly include the names of the shipowner and the charterer, the name and nationality of the ship, the ship's class, tonnage and cubic capacity, the trading limits, the purpose, the charter period, the time, place and conditions of delivery and redelivery of the ship, the survey of the ship, the maintenance and repair of the ship, the hire and its payment, the insurance of the ship, the time and conditions for cancellation of the contract, and other relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "The shipowner shall deliver the ship, together with its certificates, to the charterer at the port or place and at the time agreed in the contract. On delivery, the shipowner shall exercise due diligence to make the ship seaworthy. The ship delivered shall be fit for the purpose agreed in the contract.\nWhere the shipowner violates the provisions of the preceding paragraph, the charterer shall be entitled to cancel the contract and to claim compensation for the loss thereby suffered."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "During the bareboat charter period, the charterer shall be responsible for the maintenance and repair of the ship."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "During the bareboat charter period, the charterer shall insure the ship for the value agreed in the contract by a method of insurance approved by the shipowner and shall bear the insurance premium."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "During the bareboat charter period, where the interests of the shipowner are affected or he suffers loss by reason of the possession, use or operation of the ship by the charterer, the charterer shall be responsible for eliminating the effect or for compensating the loss.\nWhere the ship is arrested owing to a dispute over its ownership or to a debt owed by the shipowner, the shipowner shall ensure that the interests of the charterer are not affected and shall be liable for compensation for any loss suffered by the charterer."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "During the bareboat charter period, the charterer may not transfer the rights and obligations under the contract, or sub-charter the ship by way of bareboat charter, without the written consent of the shipowner."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "Without the prior written consent of the charterer, the shipowner may not create a mortgage on the ship during the bareboat charter period.\nWhere the shipowner violates the provisions of the preceding paragraph and thereby causes loss to the charterer, he shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "The charterer shall pay hire as agreed in the contract. Where the charterer fails to pay hire at the time agreed in the contract for more than seven consecutive days, the shipowner shall be entitled to cancel the contract and to claim compensation for the loss thereby suffered.\nWhere the ship is lost or missing, hire shall cease to be payable from the date of the loss or of the last news of the ship, and hire paid in advance shall be refunded proportionally."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "The provisions of Article 134, paragraph 1 of Article 135, Article 142 and Article 143 of this Law shall apply to bareboat charter parties."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Where a bareboat charter party contains a hire-purchase clause, the ownership of the ship shall vest in the charterer when the charterer has paid the hire-purchase price in full to the shipowner as agreed in the contract."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Section 3 Bareboat Charter Parties"
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "A contract of maritime towage means a contract whereby the tugowner undertakes to tow the object by sea from one place to another by tug and the tow party pays the towage fee.\nThe provisions of this Chapter shall not apply to tug services provided to ships within a port area."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "A contract of maritime towage shall be concluded in writing. The contents of a contract of maritime towage shall mainly include the names and domiciles of the tugowner and the tow party, the names and principal dimensions of the tug and of the object towed, the horsepower of the tug, the place of departure and the place of destination, the date of departure, the towage fee and the method of its payment, and other relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 156."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "Before and at the time of departure, the tugowner shall exercise due diligence to make the tug seaworthy and fit for towing, to properly man the tug, to provide the towage gear and supplies and to provide the other equipment and installations necessary for the voyage.\nBefore and at the time of departure, the tow party shall make the object ready for towing, shall exercise due diligence to make it fit for towing, and shall truthfully inform the tugowner of its condition and provide the certificates and relevant documents issued by the survey institution concerned attesting that the object is fit for towing."
+        },
+        "noLabel": {
+          "en": "Article 157."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "Where, before departure, the contract cannot be performed owing to force majeure or to other causes not attributable to either party, either party may cancel the contract, and neither party shall be liable to the other for compensation. Unless otherwise agreed in the contract, where the towage fee has been paid, the tugowner shall refund it to the tow party."
+        },
+        "noLabel": {
+          "en": "Article 158."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "Where, after departure, the contract cannot continue to be performed owing to force majeure or to other causes not attributable to either party, either party may cancel the contract, and neither party shall be liable to the other for compensation."
+        },
+        "noLabel": {
+          "en": "Article 159."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "Where, owing to force majeure or to other causes not attributable to either party, the object cannot be towed to the place of destination, the tugowner may, unless otherwise agreed in the contract, deliver the object to the tow party or his agent at a place adjacent to the place of destination or at a safe port or anchorage selected by the master of the tug, and such delivery shall be deemed to be performance of the contract."
+        },
+        "noLabel": {
+          "en": "Article 160."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "Where the tow party fails to pay the towage fee and other reasonable expenses as agreed, the tugowner shall have a lien on the object towed."
+        },
+        "noLabel": {
+          "en": "Article 161."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Where, in the course of maritime towage, loss is suffered by the tugowner or by the tow party and is caused by the fault of one party, the party at fault shall be liable for compensation; where it is caused by the fault of both parties, each party shall be liable for compensation in proportion to the degree of his fault.\nNotwithstanding the provisions of the preceding paragraph, the tugowner shall not be liable for compensation for loss suffered by the tow party if the tugowner proves that the loss was caused by any of the following:\n(1) the fault of the master, crew members or pilot of the tug, or of other servants or agents of the tugowner, in the navigation or management of the tug;\n(2) the fault of the tug in saving or attempting to save life or property at sea.\nThe provisions of this Article shall apply only where the contract of maritime towage contains no provisions or no different provisions on the matter."
+        },
+        "noLabel": {
+          "en": "Article 162."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "Where, in the course of maritime towage, loss of life or personal injury to a third party or loss of property of a third party is caused by the fault of the tugowner or of the tow party, the tugowner and the tow party shall be jointly and severally liable to the third party. Unless otherwise agreed in the contract, where one party pays compensation in excess of the proportion he should bear, he shall have the right of recourse against the other party."
+        },
+        "noLabel": {
+          "en": "Article 163."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "Where the owner of a tug tows a barge owned or operated by him for the carriage of goods by sea from one port to another, this shall be deemed to be carriage of goods by sea."
+        },
+        "noLabel": {
+          "en": "Article 164."
+        },
+        "chapter": {
+          "en": "Chapter VII Contract of Sea Towage"
+        }
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "Collision of ships means an accident arising from the contact between ships at sea or in other navigable waters connected with the sea and resulting in damage.\nShips as referred to in the preceding paragraph include any other craft, not used for military or government official purposes, which collides with a ship as defined in Article 3 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 165."
+        },
+        "chapter": {
+          "en": "Chapter VIII Collision of Ships"
+        }
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "Where ships collide, the masters of the ships concerned shall, without seriously endangering the safety of their own ships and of the persons on board, do their utmost to rescue the other ship and the persons on board.\nThe masters of the colliding ships shall, so far as possible, inform each other of the name of their ship, port of registry, port of departure and port of destination."
+        },
+        "noLabel": {
+          "en": "Article 166."
+        },
+        "chapter": {
+          "en": "Chapter VIII Collision of Ships"
+        }
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "Where a collision of ships is caused by force majeure or by other causes not attributable to any party or by causes that cannot be ascertained, the parties to the collision shall not be liable to each other for compensation."
+        },
+        "noLabel": {
+          "en": "Article 167."
+        },
+        "chapter": {
+          "en": "Chapter VIII Collision of Ships"
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "Where a collision of ships is caused by the fault of one ship, the ship at fault shall be liable for compensation."
+        },
+        "noLabel": {
+          "en": "Article 168."
+        },
+        "chapter": {
+          "en": "Chapter VIII Collision of Ships"
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "Where ships collide and the colliding ships are at fault in common, each ship shall be liable for compensation in proportion to the degree of her fault; where the degrees of fault are equal or the proportions cannot be determined, they shall be liable in equal shares.\nShips at fault in common shall be liable, in the proportions provided in the preceding paragraph, for the loss sustained by the ships and by the cargo and other property on board as a result of the collision. Where the collision causes loss of property of a third party, the liability of each ship shall not exceed the proportion she should bear.\nShips at fault in common shall be jointly and severally liable for loss of life or personal injury caused to a third party. Where one ship pays compensation in excess of the proportion provided in paragraph 1 of this Article, she shall have the right of recourse against the other ship or ships at fault."
+        },
+        "noLabel": {
+          "en": "Article 169."
+        },
+        "chapter": {
+          "en": "Chapter VIII Collision of Ships"
+        }
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "Where a ship, by improper manoeuvring or by failure to observe the navigation regulations, does not actually collide with another ship but causes loss to that other ship or to the persons, cargo or other property on board, the provisions of this Chapter shall apply."
+        },
+        "noLabel": {
+          "en": "Article 170."
+        },
+        "chapter": {
+          "en": "Chapter VIII Collision of Ships"
+        }
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "The provisions of this Chapter shall apply to salvage operations carried out at sea or in other navigable waters connected with the sea in respect of a ship or other property in distress."
+        },
+        "noLabel": {
+          "en": "Article 171."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "The following terms as used in this Chapter have the meanings given below:\n(1) 'Ship' means a ship as referred to in Article 3 of this Law and any other craft, not used for military or government official purposes, which is in a salvage relationship with it.\n(2) 'Property' means any property not permanently and intentionally attached to the shoreline, including freight at risk.\n(3) 'Salvage payment' means any salvage remuneration, reward or compensation payable by the salved party to the salvor in accordance with the provisions of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 172."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "The provisions of this Chapter shall not apply to fixed or floating platforms or to mobile offshore drilling units already in position at sea and engaged in the exploration, development or production of mineral resources of the seabed."
+        },
+        "noLabel": {
+          "en": "Article 173."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 174,
+        "text": {
+          "en": "The master shall, without seriously endangering the safety of his own ship and of the persons on board, be under a duty to render assistance to persons in danger at sea as far as possible."
+        },
+        "noLabel": {
+          "en": "Article 174."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 175,
+        "text": {
+          "en": "Where the salvor and the salved party reach an agreement on salvage, a salvage contract shall be concluded.\nThe master of a ship in distress shall have the right to conclude a salvage contract on behalf of the owner of the ship. The master of the ship in distress or the owner of the ship shall have the right to conclude a salvage contract on behalf of the owners of the property on board."
+        },
+        "noLabel": {
+          "en": "Article 175."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 176,
+        "text": {
+          "en": "In any of the following circumstances, the court or arbitration institution hearing the dispute may, upon the action of a party or upon the agreement of the parties to arbitrate, decide or award the alteration of the salvage contract:\n(1) the contract was concluded under the influence of improper or dangerous circumstances and its terms are manifestly unfair;\n(2) the salvage payment payable under the contract is manifestly excessive or manifestly inadequate in relation to the salvage services actually rendered."
+        },
+        "noLabel": {
+          "en": "Article 176."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 177,
+        "text": {
+          "en": "In the course of salvage operations, the salvor shall be under the following obligations towards the salved party:\n(1) to carry out the salvage with due care;\n(2) to exercise due care to prevent or minimise damage to the environment;\n(3) to seek the assistance of other salvors where reasonably necessary;\n(4) to accept the participation of other salvors in the salvage operations where the salved party reasonably so requests, provided that where the request is unreasonable the amount of the salvage remuneration of the original salvor shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 177."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 178,
+        "text": {
+          "en": "In the course of salvage operations, the salved party shall be under the following obligations towards the salvor:\n(1) to co-operate fully with the salvor;\n(2) to exercise due care to prevent or minimise damage to the environment;\n(3) to accept a reasonable request by the salvor for the transfer of the salved ship or other property without delay once it has been brought to a place of safety."
+        },
+        "noLabel": {
+          "en": "Article 178."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 179,
+        "text": {
+          "en": "Where the salvage operations in respect of a ship and other property in distress have produced a useful result, the salvor shall be entitled to salvage remuneration; where the salvage operations have produced no useful result, the salvor shall not be entitled to any salvage payment, except as otherwise provided in Article 182 of this Law or in other laws or agreed in the contract."
+        },
+        "noLabel": {
+          "en": "Article 179."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 180,
+        "text": {
+          "en": "The determination of salvage remuneration shall reflect the encouragement of salvage operations and shall take comprehensive account of the following factors:\n(1) the value of the ship and other property salved;\n(2) the skill and efforts of the salvor in preventing or minimising damage to the environment;\n(3) the measure of success obtained by the salvor;\n(4) the nature and degree of the danger;\n(5) the skill and efforts of the salvor in salving the ship, other property and human life;\n(6) the time used and expenses incurred and losses suffered by the salvor;\n(7) the risk of liability and other risks run by the salvor or his equipment;\n(8) the promptness of the salvage services rendered by the salvor;\n(9) the availability and use of ships and other equipment intended for salvage operations;\n(10) the state of readiness and efficiency of the salvor's equipment and the value thereof.\nThe salvage remuneration shall not exceed the value of the ship and other property salved."
+        },
+        "noLabel": {
+          "en": "Article 180."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 181,
+        "text": {
+          "en": "The value of the ship and other property salved means the estimated value of the ship and other property after salvage or the actual proceeds of their sale, after deduction of the relevant taxes and of the customs, quarantine and inspection dues and of the expenses incurred in landing, storing, valuing and selling them.\nThe value provided in the preceding paragraph shall not include the value of the personal effects of the crew members or of the cabin luggage of the passengers which have been salved."
+        },
+        "noLabel": {
+          "en": "Article 181."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 182,
+        "text": {
+          "en": "Where salvage operations are carried out in respect of a ship or cargo on board which threatened to cause damage to the environment and the salvage remuneration obtained by the salvor under Article 180 of this Law is less than the special compensation which may be obtained under this Article, the salvor shall be entitled, in accordance with this Article, to special compensation from the owner of the ship equivalent to his expenses.\nWhere the salvor carries out salvage operations as provided in the preceding paragraph and thereby prevents or minimises damage to the environment, the special compensation payable by the owner of the ship to the salvor under the preceding paragraph may be further increased, and the increase may amount to 30 per cent of the expenses incurred by the salvor. The court or arbitration institution hearing the dispute may, if it considers it equitable and having regard to the provisions of paragraph 1 of Article 180 of this Law, decide or award a further increase of the special compensation; however, in no case shall the increase exceed 100 per cent of the expenses incurred by the salvor.\nThe expenses incurred by the salvor referred to in this Article mean the reasonable expenses actually incurred by the salvor in the salvage operations and the reasonable expenses of the equipment actually used and of the personnel actually engaged in the operations. In determining such expenses, regard shall be had to the provisions of items (8), (9) and (10) of paragraph 1 of Article 180 of this Law.\nIn no case shall the total special compensation provided in this Article be paid unless it exceeds the salvage remuneration which the salvor is entitled to obtain under Article 180 of this Law, and the amount payable shall be the amount by which the special compensation exceeds the salvage remuneration.\nWhere the salvor has failed, through his fault, to prevent or minimise damage to the environment, the salvor may be deprived, wholly or in part, of his right to special compensation.\nThe provisions of this Article shall not affect the right of recourse of the owner of the ship against the other salved parties."
+        },
+        "noLabel": {
+          "en": "Article 182."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 183,
+        "text": {
+          "en": "The amount of salvage remuneration shall be borne by the respective owners of the ship and other property salved in proportion to the value of each of the salved items to the total salved value."
+        },
+        "noLabel": {
+          "en": "Article 183."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 184,
+        "text": {
+          "en": "The salvage remuneration of the several salvors participating in the same salvage operations shall be determined by agreement among them in accordance with the criteria provided in Article 180 of this Law; failing agreement, the matter may be submitted to the court hearing the dispute for decision or, by agreement of the parties, to an arbitration institution for an award."
+        },
+        "noLabel": {
+          "en": "Article 184."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 185,
+        "text": {
+          "en": "A salvor who has saved human life in salvage operations may not claim remuneration from the persons saved, but shall be entitled to a reasonable share of the salvage payment obtained by the salvors of the ship or other property or by salvors who have prevented or minimised damage to the environment."
+        },
+        "noLabel": {
+          "en": "Article 185."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 186,
+        "text": {
+          "en": "The following salvage operations shall not entitle the salvor to any salvage payment:\n(1) salvage operations carried out in the normal performance of a contract of towage or other contract of services, except where services are rendered which are outside the performance of such obligations;\n(2) salvage operations carried out notwithstanding the express and reasonable refusal of the master, the owner of the ship or the owner of other property in distress."
+        },
+        "noLabel": {
+          "en": "Article 186."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 187,
+        "text": {
+          "en": "Where the salvage operations have become necessary or more difficult owing to the fault of the salvor, or where the salvor has been guilty of fraud or other dishonest conduct, the salvage payment payable to the salvor shall be reduced or forfeited."
+        },
+        "noLabel": {
+          "en": "Article 187."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 188,
+        "text": {
+          "en": "After the salvage operations have been completed, the salved party shall, at the request of the salvor, provide satisfactory security for the salvage payment.\nWithout prejudice to the provisions of the preceding paragraph, the owner of the salved ship shall do his utmost to ensure that the owners of the cargo provide satisfactory security for the salvage payment for which they are liable before the salved cargo is returned.\nUntil satisfactory security has been provided for the salved ship or other property as requested by the salvor, the salved ship and other property shall not, without the consent of the salvor, be removed from the port or place at which they first arrived after the salvage operations were completed."
+        },
+        "noLabel": {
+          "en": "Article 188."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 189,
+        "text": {
+          "en": "The court or arbitration institution hearing a claim for salvage payment may, in the light of the circumstances and on reasonable conditions, order or award that the salved party make an interim payment of an appropriate amount to the salvor.\nWhere the salved party has made an interim payment under the preceding paragraph, the amount of security to be provided under Article 188 of this Law shall be reduced accordingly."
+        },
+        "noLabel": {
+          "en": "Article 189."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 190,
+        "text": {
+          "en": "Where, in respect of a ship or other property salved for 90 days, the salved party neither pays the salvage payment nor provides satisfactory security, the salvor may apply to a court for an order for compulsory auction; where the salved ship or other property cannot be preserved, is difficult to preserve, or the cost of preservation would probably exceed its value, the salvor may apply for an early auction.\nAfter deduction of all expenses incurred in the preservation and auction, the proceeds of the auction shall be applied to the payment of salvage payments in accordance with the provisions of this Law; the balance shall be returned to the salved party; where it cannot be returned and no one claims it within one year from the date of the auction, it shall be paid into the State treasury; where the proceeds are insufficient, the salvor shall be entitled to recover the deficit from the salved party."
+        },
+        "noLabel": {
+          "en": "Article 190."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 191,
+        "text": {
+          "en": "Where salvage operations are carried out between ships belonging to the same shipowner, the provisions of this Chapter shall apply to the right of the salvor to obtain salvage payment."
+        },
+        "noLabel": {
+          "en": "Article 191."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 192,
+        "text": {
+          "en": "Where salvage operations are undertaken or controlled by the competent authorities of the State, the salvor shall be entitled to the rights and compensation in respect of salvage operations provided in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 192."
+        },
+        "chapter": {
+          "en": "Chapter IX Salvage at Sea"
+        }
+      },
+      {
+        "no": 193,
+        "text": {
+          "en": "General average means the extraordinary sacrifice or expenditure intentionally and reasonably made or incurred for the common safety of the ship, cargo and other property in a common maritime adventure, where they are exposed to a common danger, and which is the direct consequence of the measures taken.\nIn no case shall loss sustained by the ship or cargo through delay, whether during or after the voyage, including loss of market and loss of hire and other indirect loss, be allowed in general average."
+        },
+        "noLabel": {
+          "en": "Article 193."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 194,
+        "text": {
+          "en": "Where a ship is damaged by accident, sacrifice or other extraordinary circumstance and, in order to complete the voyage safely, puts into a port of refuge or a place of refuge or returns to the port or place of loading for necessary repairs, the port charges paid and the wages and maintenance of the crew and the fuel and stores consumed by the ship during the extra period of detention at that port or place, and the loss and expense incurred in discharging, storing, reloading or shifting the cargo, fuel, stores and other property on board for the purpose of the repairs, shall be allowed in general average."
+        },
+        "noLabel": {
+          "en": "Article 194."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 195,
+        "text": {
+          "en": "Extra expense incurred in place of an extraordinary expense which would be allowable in general average may be allowed in general average as a substituted expense; however, the amount allowed in general average as a substituted expense shall not exceed the extraordinary expense in general average which it replaces."
+        },
+        "noLabel": {
+          "en": "Article 195."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 196,
+        "text": {
+          "en": "The party claiming contribution in general average shall bear the burden of proving that his loss should be allowed in general average."
+        },
+        "noLabel": {
+          "en": "Article 196."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 197,
+        "text": {
+          "en": "The fact that the accident giving rise to the extraordinary sacrifice or expenditure in general average may have been caused by the fault of one of the parties to the adventure shall not affect the right of that party to claim contribution in general average; however, the party not at fault, or the party at fault, may bring a claim or raise a defence in respect of that fault."
+        },
+        "noLabel": {
+          "en": "Article 197."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 198,
+        "text": {
+          "en": "The amount of the general average sacrifice of the ship, cargo and freight shall be determined in accordance with the following provisions:\n(1) the amount of the general average sacrifice of the ship shall be calculated on the basis of the actual cost of repairs, less a reasonable deduction for new for old. Where the ship has not yet been repaired, the amount shall be calculated on the basis of the reasonable depreciation resulting from the sacrifice, but shall not exceed the estimated cost of repairs.\nWhere the ship has suffered an actual total loss or the cost of repairs would exceed the value of the ship when repaired, the amount of the general average sacrifice shall be calculated as the balance of the estimated sound value of the ship, after deduction of the estimated cost of repairs of damage not allowable in general average and of the value of the ship in her damaged state.\n(2) in the case of the general average sacrifice of cargo, where the cargo is lost, the amount shall be calculated on the basis of the value of the cargo at the time of shipment plus insurance premium plus freight, less the freight which would not have been payable by reason of the sacrifice. Where the cargo is damaged and is sold before agreement is reached as to the extent of the damage, the amount shall be calculated on the basis of the difference between the value of the cargo at the time of shipment plus insurance premium plus freight and the net proceeds of the sale.\n(3) the amount of the general average sacrifice of freight shall be calculated on the basis of the amount of freight lost by reason of the sacrifice of the cargo, less the operating expenses which would have been incurred in earning that freight but which were not incurred by reason of the sacrifice."
+        },
+        "noLabel": {
+          "en": "Article 198."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 199,
+        "text": {
+          "en": "General average shall be contributed by the parties benefited in proportion to their respective contributory values.\nThe contributory values of the ship, cargo and freight in general average shall be determined in accordance with the following provisions respectively:\n(1) the contributory value of the ship shall be calculated on the basis of the sound value of the ship at the termination of the voyage, less the amount of loss not allowable in general average, or on the basis of the actual value of the ship at the termination of the voyage plus the amount of the general average sacrifice.\n(2) the contributory value of the cargo shall be calculated on the basis of the value of the cargo at the time of shipment plus insurance premium plus freight, less the amount of loss not allowable in general average and the freight at the risk of the carrier. Where the cargo is sold before arrival at the port of destination, the amount shall be calculated on the basis of the net proceeds of the sale plus the amount of the general average sacrifice.\nThe luggage and personal effects of passengers shall not contribute to general average.\n(3) the contributory value of freight shall be calculated on the basis of the freight at the risk of the carrier and receivable by him at the termination of the voyage, less the operating expenses incurred after the general average accident in completing the voyage in order to earn that freight, plus the amount of the general average sacrifice."
+        },
+        "noLabel": {
+          "en": "Article 199."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 200,
+        "text": {
+          "en": "Undeclared or falsely declared cargo shall contribute to general average; however, the extraordinary sacrifice sustained by such cargo shall not be allowed in general average.\nWhere the value declared is improperly lower than the actual value of the cargo, contribution shall be made on the basis of the actual value; where a general average sacrifice occurs, the amount of the sacrifice shall be calculated on the basis of the value declared."
+        },
+        "noLabel": {
+          "en": "Article 200."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 201,
+        "text": {
+          "en": "Interest shall be allowed on the extraordinary sacrifice in general average and on the extraordinary expenditure in general average disbursed. Commission shall be allowed on the extraordinary expenditure in general average disbursed, except on the wages and maintenance of the crew and the fuel and stores consumed by the ship."
+        },
+        "noLabel": {
+          "en": "Article 201."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 202,
+        "text": {
+          "en": "At the request of the parties interested, each contributing party shall provide general average security.\nWhere general average security is provided by way of a cash deposit, the deposit shall be paid by the average adjuster to a bank in the name of a trustee.\nThe provision, use or refund of the deposit shall not affect the ultimate liability of the parties to contribute."
+        },
+        "noLabel": {
+          "en": "Article 202."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 203,
+        "text": {
+          "en": "The adjustment of general average shall be governed by the adjustment rules agreed in the contract; where no such rules are agreed in the contract, the provisions of this Chapter shall apply."
+        },
+        "noLabel": {
+          "en": "Article 203."
+        },
+        "chapter": {
+          "en": "Chapter X General Average"
+        }
+      },
+      {
+        "no": 204,
+        "text": {
+          "en": "A shipowner or salvor may, in respect of the maritime claims listed in Article 207 of this Law, limit his liability in accordance with the provisions of this Chapter.\nShipowner as referred to in the preceding paragraph includes a charterer and a ship operator."
+        },
+        "noLabel": {
+          "en": "Article 204."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 205,
+        "text": {
+          "en": "Where the maritime claims listed in Article 207 of this Law are not brought against the shipowner or salvor himself but against persons for whose acts or faults he is responsible, those persons may limit their liability in accordance with the provisions of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 205."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 206,
+        "text": {
+          "en": "Where the insured is entitled to limit his liability in accordance with the provisions of this Chapter, the insurer who is liable for the maritime claim shall be entitled to the same limitation of liability in accordance with the provisions of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 206."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 207,
+        "text": {
+          "en": "Subject to the provisions of Articles 208 and 209 of this Law, a liable person may, whatever the basis of liability, limit his liability in accordance with the provisions of this Chapter in respect of the following maritime claims:\n(1) claims in respect of loss of life or personal injury, or loss of or damage to property, occurring on board a ship or in direct connection with the operation of a ship or with salvage operations, including damage to harbour works, basins, waterways and aids to navigation, and claims for consequential loss arising therefrom;\n(2) claims for loss resulting from delay in delivery in the carriage of goods by sea or from delay in the arrival of passengers or their luggage in the carriage of passengers by sea;\n(3) claims in respect of other loss resulting from infringement of rights other than contractual rights, occurring in direct connection with the operation of a ship or with salvage operations;\n(4) claims by persons other than the liable person in respect of measures taken to avert or minimise loss for which the liable person may limit his liability in accordance with the provisions of this Chapter, and claims for further loss caused by such measures.\nThe claims listed in the preceding paragraph may be limited whatever the manner in which they are put forward. However, in respect of item (4), as regards remuneration payable by the liable person under a contract, the liability of the liable person to pay such remuneration shall not be subject to the limitation of liability provided in this Article."
+        },
+        "noLabel": {
+          "en": "Article 207."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 208,
+        "text": {
+          "en": "The provisions of this Chapter shall not apply to the following:\n(1) claims for salvage payment or contribution in general average;\n(2) claims for oil pollution damage under the International Convention on Civil Liability for Oil Pollution Damage to which the People's Republic of China is a party;\n(3) claims for nuclear damage under the International Convention on Limitation of Liability for Nuclear Damage to which the People's Republic of China is a party;\n(4) claims for nuclear damage caused by a nuclear-powered ship;\n(5) claims by the servants of the shipowner or salvor where, under the law governing the contract of service, the shipowner or salvor is not entitled to limit his liability in respect of such claims, or that law provides for limits of liability higher than those provided in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 208."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 209,
+        "text": {
+          "en": "Where it is proved that the loss giving rise to the claim resulted from an act or omission of the liable person done with intent to cause such loss, or recklessly and with knowledge that such loss would probably result, the liable person shall not be entitled to limit his liability in accordance with the provisions of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 209."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 210,
+        "text": {
+          "en": "Subject to the provisions of Article 211 of this Law, the limits of liability for maritime claims shall be calculated in accordance with the following provisions:\n(1) in respect of claims for loss of life or personal injury:\n1. for a ship with a gross tonnage of 300 tons to 500 tons, the limit of liability shall be 333,000 units of account;\n2. for a ship with a gross tonnage exceeding 500 tons, the provisions of sub-item 1 of this item shall apply to the part not exceeding 500 tons, and the following amounts shall be added for the part exceeding 500 tons:\nfor the part from 501 tons to 3,000 tons, 500 units of account per ton;\nfor the part from 3,001 tons to 30,000 tons, 333 units of account per ton;\nfor the part from 30,001 tons to 70,000 tons, 250 units of account per ton;\nfor the part exceeding 70,000 tons, 167 units of account per ton.\n(2) in respect of claims for loss other than loss of life or personal injury:\n1. for a ship with a gross tonnage of 300 tons to 500 tons, the limit of liability shall be 167,000 units of account;\n2. for a ship with a gross tonnage exceeding 500 tons, the provisions of sub-item 1 of this item shall apply to the part not exceeding 500 tons, and the following amounts shall be added for the part exceeding 500 tons:\nfor the part from 501 tons to 30,000 tons, 167 units of account per ton;\nfor the part from 30,001 tons to 70,000 tons, 125 units of account per ton;\nfor the part exceeding 70,000 tons, 83 units of account per ton.\n(3) where the limit provided in item (1) is insufficient to satisfy all claims for loss of life or personal injury, the deficiency shall rank together with claims for loss other than loss of life or personal injury and be paid proportionally out of the amount provided in item (2).\n(4) without prejudice to item (3) concerning claims for loss of life or personal injury, claims for damage to harbour works, basins, waterways and aids to navigation shall be paid in priority over the other claims in item (2).\n(5) for a salvor not operating from a ship or operating solely on board the ship salved, the limit of his liability shall be calculated as for a ship of 1,500 tons gross tonnage.\nFor ships of less than 300 tons gross tonnage, ships engaged in transport between ports of the People's Republic of China and ships engaged in coastal operations, the limits of liability shall be formulated by the competent transport authority under the State Council and shall come into force after being submitted to and approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 210."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 211,
+        "text": {
+          "en": "The limit of liability for loss of life or personal injury to passengers in the carriage of passengers by sea shall be calculated by multiplying 46,666 units of account by the number of passengers which the ship is certified to carry, subject to a maximum of 25,000,000 units of account.\nFor loss of life or personal injury to passengers in the carriage of passengers by sea between ports of the People's Republic of China, the limits of liability shall be formulated by the competent transport authority under the State Council and shall come into force after being submitted to and approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 211."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 212,
+        "text": {
+          "en": "The limits of liability provided in Articles 210 and 211 of this Law shall apply to the aggregate of the claims arising out of any one occurrence and brought against the shipowner, the salvor himself and the persons for whose acts or faults he is responsible."
+        },
+        "noLabel": {
+          "en": "Article 212."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 213,
+        "text": {
+          "en": "A liable person who wishes to limit his liability in accordance with the provisions of this Law may constitute a limitation fund with a court having jurisdiction. The amount of the fund shall be the limit provided in Article 210 or Article 211 of this Law, as the case may be, plus the corresponding interest from the date on which the liability arose until the date on which the fund is constituted."
+        },
+        "noLabel": {
+          "en": "Article 213."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 214,
+        "text": {
+          "en": "After a limitation fund has been constituted by a liable person, any person having a claim against the liable person may not exercise any right against any property of the liable person; where a ship or other property of the liable person who has constituted the limitation fund has been arrested, or where the person constituting the fund has furnished security, the court shall promptly order its release or the return of the security."
+        },
+        "noLabel": {
+          "en": "Article 214."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 215,
+        "text": {
+          "en": "Where a person entitled to limit liability under this Chapter brings a counterclaim against a claimant in respect of the same occurrence, the amounts of the claims of both parties shall be set off against each other, and the limits of liability provided in this Chapter shall apply only to the difference between the two amounts."
+        },
+        "noLabel": {
+          "en": "Article 215."
+        },
+        "chapter": {
+          "en": "Chapter XI Limitation of Liability for Maritime Claims"
+        }
+      },
+      {
+        "no": 216,
+        "text": {
+          "en": "A contract of marine insurance means a contract whereby the insurer undertakes, as agreed, to indemnify the insured for loss of or damage to the subject matter insured and for liability incurred as a result of an insured peril, and the insured pays the premium.\nInsured peril as referred to in the preceding paragraph means any maritime peril agreed between the insurer and the insured, including any peril occurring on inland waters or on land in connection with maritime navigation."
+        },
+        "noLabel": {
+          "en": "Article 216."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 217,
+        "text": {
+          "en": "The contents of a contract of marine insurance shall mainly include the following:\n(1) the name of the insurer;\n(2) the name of the insured;\n(3) the subject matter insured;\n(4) the insured value;\n(5) the insured amount;\n(6) the risks covered and the exclusions;\n(7) the insurance period;\n(8) the premium."
+        },
+        "noLabel": {
+          "en": "Article 217."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 218,
+        "text": {
+          "en": "The following may be the subject matter of marine insurance:\n(1) ships;\n(2) cargo;\n(3) the income from the operation of a ship, including freight, hire and passenger fares;\n(4) the anticipated profit on cargo;\n(5) the wages and other remuneration of crew members;\n(6) liability towards third parties;\n(7) other property which may suffer loss and liability and expenses which may be incurred as a result of an insured peril.\nThe insurer may reinsure the insurance of the subject matter insured referred to in the preceding paragraph. Unless otherwise agreed in the contract, the original insured shall not be entitled to the benefit of the reinsurance."
+        },
+        "noLabel": {
+          "en": "Article 218."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 219,
+        "text": {
+          "en": "The insured value of the subject matter insured shall be agreed between the insurer and the insured.\nWhere the insured value has not been agreed between the insurer and the insured, the insured value shall be calculated in accordance with the following provisions:\n(1) the insured value of a ship shall be the value of the ship at the commencement of the insurance cover, being the aggregate of the value of the hull, machinery and equipment and the value of the fuel, stores, gear, provisions and fresh water on board, plus the premium;\n(2) the insured value of cargo shall be the aggregate of the invoice price of the cargo at the place of departure at the commencement of the insurance cover or, in the case of non-trade goods, their actual value at the place of departure, plus freight and premium;\n(3) the insured value of freight shall be the aggregate of the total freight receivable by the carrier at the commencement of the insurance cover plus premium;\n(4) the insured value of other subject matter insured shall be the aggregate of the actual value of the subject matter insured at the commencement of the insurance cover plus premium."
+        },
+        "noLabel": {
+          "en": "Article 219."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 220,
+        "text": {
+          "en": "The insured amount shall be agreed between the insurer and the insured. The insured amount shall not exceed the insured value; where it exceeds the insured value, the excess shall be void."
+        },
+        "noLabel": {
+          "en": "Article 220."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 221,
+        "text": {
+          "en": "A contract of marine insurance is concluded when the insured applies for insurance, the insurer agrees to accept the risk and the parties have reached agreement on the terms of the contract. The insurer shall promptly issue to the insured a policy or other insurance document, and shall state therein the contents of the contract as agreed between the parties."
+        },
+        "noLabel": {
+          "en": "Article 221."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 222,
+        "text": {
+          "en": "Before the contract is concluded, the insured shall truthfully disclose to the insurer every material circumstance which he knows, or ought to know in the ordinary course of business, and which would influence the insurer in fixing the premium or in determining whether to accept the risk.\nThe insured need not disclose circumstances which the insurer knows or ought to know in the ordinary course of business where the insurer makes no inquiry about them."
+        },
+        "noLabel": {
+          "en": "Article 222."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 223,
+        "text": {
+          "en": "Where, intentionally, the insured fails to truthfully disclose to the insurer a material circumstance provided in paragraph 1 of Article 222 of this Law, the insurer shall be entitled to cancel the contract and shall not refund the premium. The insurer shall not be liable for compensation for loss caused by an insured peril occurring before the cancellation of the contract.\nWhere, otherwise than intentionally, the insured fails to truthfully disclose to the insurer a material circumstance provided in paragraph 1 of Article 222 of this Law, the insurer shall be entitled to cancel the contract or to require a corresponding increase in the premium. Where the insurer cancels the contract, it shall be liable for compensation for loss caused by an insured peril occurring before the cancellation, except where the circumstance not disclosed or incorrectly disclosed would have influenced the occurrence of the insured peril."
+        },
+        "noLabel": {
+          "en": "Article 223."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 224,
+        "text": {
+          "en": "Where, at the time of the conclusion of the contract, the insured already knows, or ought to know, that the subject matter insured has already suffered loss as a result of an insured peril, the insurer shall not be liable for compensation but shall be entitled to the premium; where the insurer already knows, or ought to know, that the subject matter insured can no longer suffer loss as a result of an insured peril, the insured shall be entitled to recover the premium already paid."
+        },
+        "noLabel": {
+          "en": "Article 224."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 225,
+        "text": {
+          "en": "Where the insured has effected insurance with several insurers on the same subject matter insured against the same insured peril, so that the aggregate of the insured amounts exceeds the value of the subject matter insured, the insured may, unless otherwise agreed in the contract, claim compensation from any of the insurers. The aggregate amount of compensation obtained by the insured shall not exceed the value of the subject matter insured as damaged. Each insurer shall be liable in proportion to the insured amount underwritten by it to the aggregate of the insured amounts. An insurer which pays compensation in excess of the liability it should bear shall be entitled to recover the excess from the insurers which have not paid the amount of compensation they should bear."
+        },
+        "noLabel": {
+          "en": "Article 225."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 226,
+        "text": {
+          "en": "Before the commencement of the insurance cover, the insured may request cancellation of the contract, but shall pay commission to the insurer, and the insurer shall refund the premium."
+        },
+        "noLabel": {
+          "en": "Article 226."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 227,
+        "text": {
+          "en": "Unless otherwise agreed in the contract, after the commencement of the insurance cover neither the insured nor the insurer may cancel the contract.\nWhere, in accordance with the agreement in the contract, the contract may be cancelled after the commencement of the insurance cover, and the insured requests cancellation, the insurer shall be entitled to the premium from the date of commencement of the cover to the date of cancellation and shall refund the balance; where the insurer requests cancellation, it shall refund to the insured the premium from the date of cancellation to the date of expiry of the insurance period."
+        },
+        "noLabel": {
+          "en": "Article 227."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 228,
+        "text": {
+          "en": "Notwithstanding the provisions of Article 227 of this Law, in the case of insurance of cargo and of a ship on a voyage basis, the insured may not request cancellation of the contract after the commencement of the insurance cover."
+        },
+        "noLabel": {
+          "en": "Article 228."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 229,
+        "text": {
+          "en": "A contract of marine insurance of goods may be transferred by the insured by endorsement or in any other manner, and the rights and obligations under the contract shall pass with it. Where the premium has not been paid at the time of the transfer of the contract, the insured and the transferee of the contract shall be jointly and severally liable for its payment."
+        },
+        "noLabel": {
+          "en": "Article 229."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 230,
+        "text": {
+          "en": "The transfer of a contract of insurance of a ship as a result of the transfer of the ship shall be subject to the consent of the insurer. Without the consent of the insurer, the contract of insurance of the ship shall terminate from the time of the transfer of the ship; where the transfer of the ship occurs in the course of a voyage, the contract of insurance of the ship shall terminate at the end of the voyage.\nAfter the termination of the contract, the insurer shall refund to the insured the premium from the date of termination to the date of expiry of the insurance period."
+        },
+        "noLabel": {
+          "en": "Article 230."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 231,
+        "text": {
+          "en": "Where the insured ships or receives goods in several lots over a period of time, he may conclude a floating policy with the insurer. The floating policy shall be confirmed by a floating insurance document issued by the insurer."
+        },
+        "noLabel": {
+          "en": "Article 231."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 232,
+        "text": {
+          "en": "At the request of the insured, the insurer shall issue separate insurance documents for the goods shipped in lots under a floating policy.\nWhere the contents of the separate insurance documents issued by the insurer are inconsistent with the contents of the floating insurance document, the separate insurance documents shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 232."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 233,
+        "text": {
+          "en": "Where the insured learns that goods insured under a floating policy have been shipped or have arrived, he shall immediately notify the insurer. The notice shall include the name of the ship on which the goods are shipped, the voyage, the value of the goods and the insured amount."
+        },
+        "noLabel": {
+          "en": "Article 233."
+        },
+        "chapter": {
+          "en": "Section 2 Conclusion, Termination and Assignment of Contract"
+        }
+      },
+      {
+        "no": 234,
+        "text": {
+          "en": "Unless otherwise agreed in the contract, the insured shall pay the premium immediately after the conclusion of the contract; before the premium is paid, the insurer may refuse to issue the insurance document."
+        },
+        "noLabel": {
+          "en": "Article 234."
+        },
+        "chapter": {
+          "en": "Section 3 Obligations of the Insured"
+        }
+      },
+      {
+        "no": 235,
+        "text": {
+          "en": "Where the insured breaches a warranty agreed in the contract, he shall immediately notify the insurer in writing. On receipt of the notice, the insurer may cancel the contract or require the terms of cover to be amended and the premium to be increased."
+        },
+        "noLabel": {
+          "en": "Article 235."
+        },
+        "chapter": {
+          "en": "Section 3 Obligations of the Insured"
+        }
+      },
+      {
+        "no": 236,
+        "text": {
+          "en": "Once an insured peril occurs, the insured shall immediately notify the insurer and take necessary and reasonable measures to prevent or minimise loss. Where the insured receives a special notice from the insurer concerning reasonable measures to prevent or minimise loss, he shall act in accordance with the requirements of the notice.\nThe insurer shall not be liable for compensation for any increased loss caused by the insured's breach of the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 236."
+        },
+        "chapter": {
+          "en": "Section 3 Obligations of the Insured"
+        }
+      },
+      {
+        "no": 237,
+        "text": {
+          "en": "After an insured peril has caused loss, the insurer shall promptly pay the indemnity to the insured."
+        },
+        "noLabel": {
+          "en": "Article 237."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Insurer"
+        }
+      },
+      {
+        "no": 238,
+        "text": {
+          "en": "The liability of the insurer for loss caused by an insured peril shall be limited to the insured amount. Where the insured amount is lower than the insured value and the subject matter insured suffers a partial loss, the insurer shall be liable in proportion to the insured amount to the insured value."
+        },
+        "noLabel": {
+          "en": "Article 238."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Insurer"
+        }
+      },
+      {
+        "no": 239,
+        "text": {
+          "en": "Where the subject matter insured suffers loss from several insured perils during the insurance period, the insurer shall pay compensation even if the aggregate of the losses exceeds the insured amount. However, where a total loss occurs after a partial loss and before the subject matter insured has been repaired, the insurer shall pay compensation for a total loss."
+        },
+        "noLabel": {
+          "en": "Article 239."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Insurer"
+        }
+      },
+      {
+        "no": 240,
+        "text": {
+          "en": "The necessary and reasonable expenses incurred by the insured to prevent or minimise loss recoverable under the contract, the reasonable expenses of survey and valuation incurred to ascertain the nature and extent of the insured peril, and the expenses incurred in complying with a special notice of the insurer shall be paid by the insurer in addition to the indemnity for the loss of the subject matter insured.\nThe liability of the insurer for the expenses provided in the preceding paragraph shall be limited to an amount equivalent to the insured amount.\nWhere the insured amount is lower than the insured value, the insurer shall, unless otherwise agreed in the contract, pay the expenses provided in this Article in proportion to the insured amount to the insured value."
+        },
+        "noLabel": {
+          "en": "Article 240."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Insurer"
+        }
+      },
+      {
+        "no": 241,
+        "text": {
+          "en": "Where the insured amount is lower than the contributory value in general average, the insurer shall pay the contribution in general average in proportion to the insured amount to the contributory value."
+        },
+        "noLabel": {
+          "en": "Article 241."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Insurer"
+        }
+      },
+      {
+        "no": 242,
+        "text": {
+          "en": "The insurer shall not be liable for compensation for loss intentionally caused by the insured."
+        },
+        "noLabel": {
+          "en": "Article 242."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Insurer"
+        }
+      },
+      {
+        "no": 243,
+        "text": {
+          "en": "Unless otherwise agreed in the contract, the insurer shall not be liable for compensation for loss of cargo caused by any of the following:\n(1) delay in the voyage, delay in delivery or fluctuation of the market;\n(2) natural loss, inherent defect or natural characteristics of the cargo;\n(3) improper packing."
+        },
+        "noLabel": {
+          "en": "Article 243."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Insurer"
+        }
+      },
+      {
+        "no": 244,
+        "text": {
+          "en": "Unless otherwise agreed in the contract, the insurer shall not be liable for compensation for loss of an insured ship caused by any of the following:\n(1) unseaworthiness of the ship at the time of sailing, except where, in the case of a time policy on the ship, the insured was unaware of it;\n(2) fair wear and tear or corrosion of the ship.\nThe provisions of this Article shall apply mutatis mutandis to the insurance of freight."
+        },
+        "noLabel": {
+          "en": "Article 244."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Insurer"
+        }
+      },
+      {
+        "no": 245,
+        "text": {
+          "en": "Where the subject matter insured is lost as a result of an insured peril, or is so seriously damaged that it completely loses its original form and utility, or can no longer be owned by the insured, this constitutes an actual total loss."
+        },
+        "noLabel": {
+          "en": "Article 245."
+        },
+        "chapter": {
+          "en": "Section 5 Loss of and Damage to the Subject Matter Insured and Abandonment"
+        }
+      },
+      {
+        "no": 246,
+        "text": {
+          "en": "Where, after an insured peril has occurred to a ship, an actual total loss appears unavoidable, or the expenses necessary to avoid an actual total loss would exceed the insured value, this constitutes a constructive total loss.\nWhere, after an insured peril has occurred to cargo, an actual total loss appears unavoidable, or the aggregate of the expenses necessary to avoid an actual total loss and the expenses of continuing to carry the cargo to the port of destination would exceed the insured value, this constitutes a constructive total loss."
+        },
+        "noLabel": {
+          "en": "Article 246."
+        },
+        "chapter": {
+          "en": "Section 5 Loss of and Damage to the Subject Matter Insured and Abandonment"
+        }
+      },
+      {
+        "no": 247,
+        "text": {
+          "en": "Loss which is neither an actual total loss nor a constructive total loss is a partial loss."
+        },
+        "noLabel": {
+          "en": "Article 247."
+        },
+        "chapter": {
+          "en": "Section 5 Loss of and Damage to the Subject Matter Insured and Abandonment"
+        }
+      },
+      {
+        "no": 248,
+        "text": {
+          "en": "Where a ship fails to arrive at the port of destination from the place at which she was last heard of within a reasonable time and, unless otherwise agreed in the contract, her whereabouts remain unknown after the expiry of two months, the ship shall be deemed to be missing. A missing ship shall be deemed to be an actual total loss."
+        },
+        "noLabel": {
+          "en": "Article 248."
+        },
+        "chapter": {
+          "en": "Section 5 Loss of and Damage to the Subject Matter Insured and Abandonment"
+        }
+      },
+      {
+        "no": 249,
+        "text": {
+          "en": "Where the subject matter insured suffers a constructive total loss and the insured claims compensation for a total loss, he shall abandon the subject matter insured to the insurer. The insurer may accept or decline the abandonment, but shall notify the insured of its decision within a reasonable time.\nAbandonment may not be made subject to any condition. Once accepted by the insurer, abandonment may not be withdrawn."
+        },
+        "noLabel": {
+          "en": "Article 249."
+        },
+        "chapter": {
+          "en": "Section 5 Loss of and Damage to the Subject Matter Insured and Abandonment"
+        }
+      },
+      {
+        "no": 250,
+        "text": {
+          "en": "Where the insurer accepts the abandonment, all the rights and obligations of the insured in respect of the abandoned property shall pass to the insurer."
+        },
+        "noLabel": {
+          "en": "Article 250."
+        },
+        "chapter": {
+          "en": "Section 5 Loss of and Damage to the Subject Matter Insured and Abandonment"
+        }
+      },
+      {
+        "no": 251,
+        "text": {
+          "en": "After an insured peril has occurred and before paying the indemnity to the insured, the insurer may require the insured to provide the certificates and information relating to the ascertainment of the nature of the insured peril and the extent of the loss."
+        },
+        "noLabel": {
+          "en": "Article 251."
+        },
+        "chapter": {
+          "en": "Section 6 Payment of Indemnity"
+        }
+      },
+      {
+        "no": 252,
+        "text": {
+          "en": "Where loss within the scope of the insurance cover is caused by a third party, the right of the insured to claim compensation from the third party shall be subrogated to the insurer from the date on which the insurer pays the indemnity, to the extent of the indemnity paid.\nThe insured shall provide the insurer with the necessary documents and the information which the insurer needs to know and shall do his utmost to assist the insurer in recovering from the third party."
+        },
+        "noLabel": {
+          "en": "Article 252."
+        },
+        "chapter": {
+          "en": "Section 6 Payment of Indemnity"
+        }
+      },
+      {
+        "no": 253,
+        "text": {
+          "en": "Where the insured, without the consent of the insurer, waives his right to claim compensation from the third party, or where, through his fault, the insurer is unable to exercise the right of subrogation, the insurer may reduce the indemnity accordingly."
+        },
+        "noLabel": {
+          "en": "Article 253."
+        },
+        "chapter": {
+          "en": "Section 6 Payment of Indemnity"
+        }
+      },
+      {
+        "no": 254,
+        "text": {
+          "en": "When paying the indemnity, the insurer may deduct from the amount payable the compensation which the insured has already recovered from the third party.\nWhere the compensation recovered by the insurer from the third party exceeds the indemnity paid by it, the excess shall be refunded to the insured."
+        },
+        "noLabel": {
+          "en": "Article 254."
+        },
+        "chapter": {
+          "en": "Section 6 Payment of Indemnity"
+        }
+      },
+      {
+        "no": 255,
+        "text": {
+          "en": "After an insured peril has occurred, the insurer shall be entitled to abandon its rights in respect of the subject matter insured and to pay in full the indemnity agreed in the contract, so as to be discharged from its obligations in respect of the subject matter insured.\nThe insurer shall, within seven days from the date of receipt of the insured's notice of the loss, notify the insured of the exercise of the right provided in the preceding paragraph; the necessary and reasonable expenses incurred by the insured to prevent or minimise loss before receipt of the notice shall still be reimbursed by the insurer."
+        },
+        "noLabel": {
+          "en": "Article 255."
+        },
+        "chapter": {
+          "en": "Section 6 Payment of Indemnity"
+        }
+      },
+      {
+        "no": 256,
+        "text": {
+          "en": "Apart from the circumstances provided in Article 255 of this Law, where the subject matter insured suffers a total loss and the insurer pays the full insured amount, the insurer shall acquire all rights in respect of the subject matter insured; however, in the case of under-insurance, the insurer shall acquire rights in respect of the subject matter insured in proportion to the insured amount to the insured value."
+        },
+        "noLabel": {
+          "en": "Article 256."
+        },
+        "chapter": {
+          "en": "Section 6 Payment of Indemnity"
+        }
+      },
+      {
+        "no": 257,
+        "text": {
+          "en": "The limitation period for a claim for compensation against the carrier in respect of the carriage of goods by sea shall be one year, counted from the date on which the carrier delivered or should have delivered the goods; where, within the limitation period or after its expiry, a person held liable brings a claim for recourse against a third party, the limitation period shall be 90 days, counted from the date on which the person claiming recourse settled the original claim or from the date on which he received a copy of the statement of claim served by the court in which the action was brought against him.\nThe limitation period for claims relating to a voyage charter party shall be two years, counted from the date on which the claimant knew or ought to have known that his right had been infringed."
+        },
+        "noLabel": {
+          "en": "Article 257."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 258,
+        "text": {
+          "en": "The limitation period for a claim for compensation against the carrier in respect of the carriage of passengers by sea shall be two years, counted in accordance with the following provisions respectively:\n(1) in respect of a claim relating to personal injury to a passenger, from the date on which the passenger disembarked or should have disembarked;\n(2) in respect of a claim relating to the death of a passenger, where the death occurred during the carriage, from the date on which the passenger should have disembarked; where the passenger died after disembarkation as a result of an injury sustained during the carriage, from the date of the passenger's death, but this period shall not exceed three years from the date of disembarkation;\n(3) in respect of a claim relating to the loss of or damage to luggage, from the date on which the passenger disembarked or should have disembarked."
+        },
+        "noLabel": {
+          "en": "Article 258."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 259,
+        "text": {
+          "en": "The limitation period for claims relating to a contract for the charter of a ship shall be two years, counted from the date on which the claimant knew or ought to have known that his right had been infringed."
+        },
+        "noLabel": {
+          "en": "Article 259."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 260,
+        "text": {
+          "en": "The limitation period for claims relating to a contract of maritime towage shall be one year, counted from the date on which the claimant knew or ought to have known that his right had been infringed."
+        },
+        "noLabel": {
+          "en": "Article 260."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 261,
+        "text": {
+          "en": "The limitation period for claims relating to the collision of ships shall be two years, counted from the date on which the collision occurred; the limitation period for a claim for recourse provided in paragraph 3 of Article 169 of this Law shall be one year, counted from the date on which the party paid compensation jointly and severally."
+        },
+        "noLabel": {
+          "en": "Article 261."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 262,
+        "text": {
+          "en": "The limitation period for claims relating to salvage at sea shall be two years, counted from the date on which the salvage operations terminated."
+        },
+        "noLabel": {
+          "en": "Article 262."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 263,
+        "text": {
+          "en": "The limitation period for claims relating to contribution in general average shall be one year, counted from the date on which the adjustment was completed."
+        },
+        "noLabel": {
+          "en": "Article 263."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 264,
+        "text": {
+          "en": "The limitation period for a claim for indemnity against the insurer under a contract of marine insurance shall be two years, counted from the date on which the insured peril occurred."
+        },
+        "noLabel": {
+          "en": "Article 264."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 265,
+        "text": {
+          "en": "The limitation period for claims relating to oil pollution damage caused by a ship shall be three years, counted from the date on which the damage occurred; however, in no case shall the limitation period exceed six years from the date on which the accident causing the damage occurred."
+        },
+        "noLabel": {
+          "en": "Article 265."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 266,
+        "text": {
+          "en": "Where, during the last six months of the limitation period, the claimant is unable to exercise his claim by reason of force majeure or other obstacles, the limitation period shall be suspended. The limitation period shall continue to run from the date on which the cause of the suspension is removed."
+        },
+        "noLabel": {
+          "en": "Article 266."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 267,
+        "text": {
+          "en": "The limitation period shall be interrupted where the claimant brings an action, submits the dispute to arbitration or the party against whom the claim is made agrees to perform his obligation. However, where the claimant withdraws the action or the arbitration, or the action is dismissed by a ruling, the limitation period shall not be interrupted.\nWhere the claimant applies for the arrest of a ship, the limitation period shall be interrupted from the date of the application for arrest.\nThe limitation period shall run anew from the date of the interruption."
+        },
+        "noLabel": {
+          "en": "Article 267."
+        },
+        "chapter": {
+          "en": "Chapter XIII Limitation of Time"
+        }
+      },
+      {
+        "no": 268,
+        "text": {
+          "en": "Where a treaty concluded or acceded to by the People's Republic of China contains provisions differing from those of this Law, the provisions of the treaty shall apply, except for the clauses to which the People's Republic of China has declared reservations.\nMatters for which neither the laws of the People's Republic of China nor the treaties concluded or acceded to by the People's Republic of China contain provisions may be governed by international usage."
+        },
+        "noLabel": {
+          "en": "Article 268."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 269,
+        "text": {
+          "en": "The parties to a contract may choose the law applicable to the contract, except where the law provides otherwise. Where the parties to the contract have not made a choice, the law of the State most closely connected with the contract shall apply."
+        },
+        "noLabel": {
+          "en": "Article 269."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 270,
+        "text": {
+          "en": "The acquisition, transfer and extinction of the ownership of a ship shall be governed by the law of the State whose flag the ship flies."
+        },
+        "noLabel": {
+          "en": "Article 270."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 271,
+        "text": {
+          "en": "A mortgage on a ship shall be governed by the law of the State whose flag the ship flies.\nWhere a mortgage on a ship is created before or during a bareboat charter, the law of the State of the ship's original registration shall apply."
+        },
+        "noLabel": {
+          "en": "Article 271."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 272,
+        "text": {
+          "en": "A maritime lien shall be governed by the law of the place where the court hearing the case is located."
+        },
+        "noLabel": {
+          "en": "Article 272."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 273,
+        "text": {
+          "en": "Compensation for damage arising from the collision of ships shall be governed by the law of the place where the tort was committed.\nCompensation for damage arising from the collision of ships on the high seas shall be governed by the law of the place where the court hearing the case is located.\nWhere the colliding ships are of the same nationality, compensation for damage between them shall be governed by the law of the State whose flag they fly, wherever the collision occurred."
+        },
+        "noLabel": {
+          "en": "Article 273."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 274,
+        "text": {
+          "en": "The adjustment of general average shall be governed by the law of the place where the adjustment is made."
+        },
+        "noLabel": {
+          "en": "Article 274."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 275,
+        "text": {
+          "en": "Limitation of liability for maritime claims shall be governed by the law of the place where the court hearing the case is located."
+        },
+        "noLabel": {
+          "en": "Article 275."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 276,
+        "text": {
+          "en": "The application of foreign law or international usage in accordance with the provisions of this Chapter shall not contravene the public interests of society of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 276."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 277,
+        "text": {
+          "en": "The unit of account referred to in this Law means the Special Drawing Right as defined by the International Monetary Fund; its amount in Renminbi shall be the amount in Renminbi calculated on the date of the court judgment, the date of the arbitral award or the date of the agreement between the parties, in accordance with the method prescribed by the competent foreign exchange authority for converting the Special Drawing Right of the International Monetary Fund into Renminbi."
+        },
+        "noLabel": {
+          "en": "Article 277."
+        },
+        "chapter": {
+          "en": "Chapter XV Supplementary Provisions"
+        }
+      },
+      {
+        "no": 278,
+        "text": {
+          "en": "This Law shall come into force on 1 July 1993."
+        },
+        "noLabel": {
+          "en": "Article 278."
+        },
+        "chapter": {
+          "en": "Chapter XV Supplementary Provisions"
         }
       }
     ]

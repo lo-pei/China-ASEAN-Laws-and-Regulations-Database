@@ -58,6 +58,117 @@
 
   function arr(v) { return v ? String(v).split(',').filter(Boolean) : []; }
 
+  /* ==================== 后端混合检索接入 ====================
+     后端 /api/search?mode=hybrid = BM25 + bge-m3 向量 + RRF 融合（P@3 约 16.7%），
+     静态 JS 版是 5.7%。启用后端时优先用后端结果，失败则永久回落静态版。
+     之所以不改成异步路由：render() 同步返回首屏能保证页面不空白，
+     后端结果到了再重绘一次即可，改动面最小、失败也不影响可用性。 */
+  var API_CACHE = {};          /* queryKey → 已归一的 res */
+  var API_FAILED = {};         /* queryKey → true（失败过就不再重试） */
+
+  function apiQueryKey(type, q, page, size, sort, query) {
+    if (type !== 'law' || !q || !CALR.api || !CALR.api.enabled()) return '';
+    /* 后端目前只支持 country / level / status / 分页 / 排序；
+       其余筛选（主题、机关、语种、日期区间）由后端不支持，故一旦用到就走静态版 */
+    if ((query.topic && query.topic.length) || (query.issuer && query.issuer.length) ||
+        (query.lang && query.lang.length) || query.from || query.to ||
+        query.effFrom || query.effTo) return '';
+    var mode = query.mode || 'keyword';
+    if (mode === 'exact') return '';   /* 编号检索静态版更准 */
+    return [q, page, size, sort, query.country || '', query.level || '', query.status || '',
+      mode].join('|');
+  }
+
+  /** 结果去重：同一法域下标题相同的记录只保留「条文更多」的那一条。
+      语料里同一部法常有多条记录（例如《中华人民共和国数据安全法》同时存在
+      CN-DATA-2021 与 CN-PIA-002），不去重会导致同一部法在结果里出现两三次。 */
+  function dedupeRes(res) {
+    if (!res || !res.items || res.items.length < 2) return res;
+    function key(it) {
+      var l = it.law || {};
+      var T = l.title || {};
+      var t = CALR.i18n ? (CALR.util.tr(T) || '') : (T.zh || T.en || T.orig || '');
+      t = String(t || '').replace(/[\s《》()（）\-—_]/g, '').toLowerCase();
+      /* 标题常带来源后缀（_2010 / EN / 修订版 / 第2版），去重键里一并剥掉，
+         否则「个人数据保护法」和「个人数据保护法_2010」会被当成两部法。 */
+      t = t.replace(/(19|20)\d{2}(?:\.\d+)?$/, '');
+      t = t.replace(/(en|zh|ms|id|th|vi|my)$/, '');
+      t = t.replace(/(修订版|修正版|第\d+版)$/, '');
+      if (!t) t = String(l.id || '');
+      return (l.country || '') + '|' + t;
+    }
+    function rank(it) {
+      var l = it.law || {};
+      return (l.articleCount || (l.articles || []).length || 0) - (l.coverage === 'catalog' ? 1 : 0);
+    }
+    var map = {}, order = [];
+    res.items.forEach(function (it) {
+      var k = key(it);
+      if (!(k in map)) { map[k] = it; order.push(k); return; }
+      if (rank(it) > rank(map[k])) map[k] = it;
+    });
+    var items = order.map(function (k) { return map[k]; });
+    if (items.length === res.items.length) return res;
+    var dropped = res.items.length - items.length;
+    var out = Object.assign({}, res);
+    out.items = items;
+    out.deduped = dropped;
+    /* total 同步扣减，避免「共 N 条」与实际列表对不上 */
+    out.total = Math.max(items.length, (res.total || 0) - dropped);
+    return out;
+  }
+
+  /** 把后端返回的 items 归一化成前端 renderResults() 期望的结构 */
+  function adaptApiResult(r, mode) {
+    var items = (r.items || []).map(function (it) {
+      /* 后端 item 与 CALR.store 的 law 结构同构（id/country/title{zh,en,orig}/level/status/…），
+         直接当 it.law 用；命中片段后端未返回，留空不影响卡片渲染。 */
+      return {
+        law: it,
+        score: it.score,
+        snippet: '',
+        hitArticle: null,
+        reasons: [],
+        /* 后端 debug 字段保留下来，方便「为什么排这个」的排查 */
+        debug: it.debug || null
+      };
+    });
+    return {
+      total: r.total || items.length,
+      page: r.page || 1,
+      size: r.size || items.length,
+      items: items,
+      terms: [],                 /* 后端不做前端式高亮词 */
+      fromApi: true,
+      fusion: r.fusion || null
+    };
+  }
+
+  /** 异步拉后端结果，成功后重绘 */
+  function fetchApiResult(key, q, page, size, sort, query, main, params) {
+    if (!key || API_CACHE[key] || API_FAILED[key]) return;
+    var mode = query.mode || 'keyword';
+    var params2 = {
+      q: q,
+      mode: mode === 'semantic' ? 'semantic' : 'hybrid',
+      page: page,
+      size: size
+    };
+    /* 只把后端支持的筛选传过去 */
+    if (query.country && query.country.length === 1) params2.country = query.country[0];
+    if (query.level && query.level.length === 1) params2.level = query.level[0];
+    if (query.status && query.status.length === 1) params2.status = query.status[0];
+
+    CALR.api.search(params2).then(function (r) {
+      API_CACHE[key] = adaptApiResult(r, mode);
+      /* 直接重调 render 重绘：不经过 router，避免历史栈被污染 */
+      try { views.search.render(main, params, query); } catch (e) { /* 重绘失败不影响首屏 */ }
+    }).catch(function (e) {
+      API_FAILED[key] = true;
+      if (root.console) console.warn('[CALR] 后端检索失败，回落静态检索：' + (e && e.message));
+    });
+  }
+
   views.search = {
     render: function (main, params, query) {
       var type = query.type || 'law';
@@ -69,7 +180,14 @@
       if (PAGE_SIZES.indexOf(size) < 0) size = DEFAULT_PAGE_SIZE;
       var sort = query.sort || 'relevance';
 
-      var res = type === 'treaty'
+      /* 先看有没有后端结果缓存；没有就先用静态检索渲染首屏（保证不空白） */
+      var apiKey = apiQueryKey(type, q, page, size, sort, query);
+      var cached = apiKey ? API_CACHE[apiKey] : null;
+      if (apiKey && !cached) {
+        /* 异步去拿后端结果，到了再重绘；这里先同步走静态版 */
+        fetchApiResult(apiKey, q, page, size, sort, query, main, params);
+      }
+      var res = cached || (type === 'treaty'
         ? CALR.search.runTreaties({ q: q, page: page, size: size, topic: arr(query.topic), status: arr(query.status) })
         : CALR.search.run({
           /* 空查询时强制走关键词模式：语义模式无检索词必然 0 条，会让用户误以为没有结果 */
@@ -77,7 +195,10 @@
           country: arr(query.country), level: arr(query.level), status: arr(query.status),
           topic: arr(query.topic), issuer: arr(query.issuer), lang: arr(query.lang),
           from: query.from || '', to: query.to || '', effFrom: query.effFrom || '', effTo: query.effTo || ''
-        });
+        }));
+
+      /* 去重：同一法域同名的多条记录只保留最完整的一条 */
+      res = dedupeRes(res);
 
       var totalPages = Math.max(1, Math.ceil(res.total / size));
       var title = (TYPES.filter(function (x) { return x.id === type; })[0] || TYPES[0]).title;

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p03
-   法规 73 部 / 译文 5008 条
+   法规 76 部 / 译文 5635 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -42404,6 +42404,5718 @@
     ]
   };
 
+  TR['CN-LAW-0209'] = {
+    "lawId": "CN-LAW-0209",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 215 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to safeguard the sovereignty of the national airspace and the rights in civil aviation, ensure that civil aviation activities are conducted safely and in an orderly manner, protect the lawful rights and interests of all parties to civil aviation activities, and promote the development of civil aviation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The airspace above the territorial land and territorial waters of the People's Republic of China is the territorial airspace of the People's Republic of China. The People's Republic of China enjoys complete and exclusive sovereignty over its territorial airspace."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall exercise unified supervision and administration over civil aviation activities throughout the country and, in accordance with laws and the decisions of the State Council, issue, within the limits of its authority, provisions and decisions relating to civil aviation activities.\nThe regional civil aviation administrations established by the civil aviation authority of the State Council shall, in accordance with the authorisation of the civil aviation authority of the State Council, supervise and administer civil aviation activities in their respective regions."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State supports the development of civil aviation, encourages and supports the development of scientific research and education in civil aviation, and raises the level of civil aviation science and technology.\nThe State supports the development of the civil aircraft manufacturing industry and provides safe, advanced, economical and applicable civil aircraft for civil aviation activities."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Civil aircraft as referred to in this Law means aircraft other than those used for military, customs and police flight missions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A civil aircraft that has undergone nationality registration in accordance with the law with the civil aviation authority of the State Council of the People's Republic of China shall have the nationality of the People's Republic of China, and the civil aviation authority of the State Council shall issue a certificate of nationality registration.\nThe civil aviation authority of the State Council shall establish a nationality register of civil aircraft of the People's Republic of China to uniformly record the particulars of nationality registration of civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The following civil aircraft shall undergo nationality registration of the People's Republic of China:\n(a) civil aircraft of State organs of the People's Republic of China;\n(b) civil aircraft of enterprise legal persons established in accordance with the laws of the People's Republic of China; where there is foreign investment in the registered capital of the enterprise legal person, its organisational structure, personnel composition and the proportion of capital contributed by the Chinese investor shall comply with the provisions of administrative regulations;\n(c) other civil aircraft for which registration is permitted by the civil aviation authority of the State Council.\nFor a civil aircraft leased from outside the territory, where the lessee meets the provisions of the preceding paragraph and the crew of the civil aircraft is provided by the lessee, it may apply for registration of the nationality of the People's Republic of China, provided that the original nationality registration of the civil aircraft must first be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A civil aircraft that has lawfully acquired the nationality of the People's Republic of China shall bear the prescribed nationality marks and registration marks."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A civil aircraft may not have dual nationality. A civil aircraft whose foreign nationality has not been cancelled may not apply for nationality registration in the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The rights in civil aircraft provided by this Chapter include the rights in the airframe, engines, propellers, radio equipment and all other articles used on board the civil aircraft, whether installed thereon or temporarily detached therefrom."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The holder of rights in a civil aircraft shall separately register the following rights with the civil aviation authority of the State Council:\n(a) ownership of the civil aircraft;\n(b) the right to acquire and possess the civil aircraft by purchase;\n(c) the right to possess the civil aircraft under a lease contract with a lease term of six months or more;\n(d) mortgage over the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall establish a register of rights in civil aircraft. The particulars of registration of rights in the same civil aircraft shall be recorded in the same register of rights.\nThe particulars of registration of rights in civil aircraft shall be available to the public for inspection, copying or extraction."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Except where a civil aircraft is compulsorily auctioned in accordance with the law, the nationality registration or registration of rights of a civil aircraft may not be transferred abroad before the registered rights in the civil aircraft have been compensated or the holders of the rights in the civil aircraft have consented."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The acquisition, transfer and extinguishment of ownership of a civil aircraft shall be registered with the civil aviation authority of the State Council; without registration, it may not be asserted against a third party.\nThe transfer of ownership of a civil aircraft shall be effected by a written contract."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Ownership and Mortgage of Civil Aircraft"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a State-owned civil aircraft is granted by the State to a legal person for operation, management or use, the provisions of this Law on the owner of a civil aircraft shall apply to that legal person."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Ownership and Mortgage of Civil Aircraft"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The creation of a mortgage over a civil aircraft shall be registered by the mortgagee and the mortgagor jointly with the civil aviation authority of the State Council; without registration, it may not be asserted against a third party."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Ownership and Mortgage of Civil Aircraft"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After a mortgage over a civil aircraft has been created, the mortgagor may not transfer the mortgaged civil aircraft to another person without the consent of the mortgagee."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Ownership and Mortgage of Civil Aircraft"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A priority right over a civil aircraft means the right of a creditor who, in accordance with Article 19 of this Law, makes a claim for compensation against the owner or lessee of the civil aircraft to be paid in priority out of the civil aircraft in respect of which the claim for compensation arose."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 3 Priority Right in Civil Aircraft"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The following claims shall carry a priority right over a civil aircraft:\n(a) remuneration for salvage of the civil aircraft;\n(b) necessary expenses for the custody and maintenance of the civil aircraft.\nAmong the claims provided in the preceding paragraph, those arising later shall be satisfied first."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 3 Priority Right in Civil Aircraft"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "In respect of the priority right over a civil aircraft provided in Article 19 of this Law, the creditor shall, within three months from the date of completion of the salvage or custody and maintenance work, register its claim with the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 3 Priority Right in Civil Aircraft"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Expenses incurred in the enforcement of a judgment of a people's court and in the auction process for the common benefit of the creditors shall be paid in priority out of the proceeds of the auction of the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 3 Priority Right in Civil Aircraft"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A priority right over a civil aircraft shall be satisfied in priority to a mortgage over the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 3 Priority Right in Civil Aircraft"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a claim provided in Article 19 of this Law is transferred, the priority right over the civil aircraft shall be transferred together with it."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 3 Priority Right in Civil Aircraft"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A priority right over a civil aircraft shall be exercised through the arrest of the civil aircraft giving rise to the priority right by a people's court."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 3 Priority Right in Civil Aircraft"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A priority right over a civil aircraft shall terminate upon the expiry of three months from the date of completion of the salvage or custody and maintenance work, except where the creditor has registered its claim in accordance with Article 20 of this Law and any of the following circumstances exists:\n(a) the creditor and the debtor have reached agreement on the amount of the claim;\n(b) an action relating to the claim has been instituted.\nA priority right over a civil aircraft shall not be extinguished by the transfer of ownership of the civil aircraft, except where the civil aircraft is compulsorily auctioned in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Priority Right in Civil Aircraft"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A contract for the lease of a civil aircraft, including a financial lease contract and other lease contracts, shall be concluded in writing."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 4 Lease of Civil Aircraft"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Financial lease of a civil aircraft means that the lessor, in accordance with the lessee's selection of the supplier and of the civil aircraft, purchases the civil aircraft and leases it to the lessee for use, and the lessee pays rent periodically."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 4 Lease of Civil Aircraft"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "During the period of a financial lease, the lessor lawfully enjoys ownership of the civil aircraft, and the lessee lawfully enjoys the rights to possess, use and derive income from the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 4 Lease of Civil Aircraft"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "During the period of a financial lease, the lessor may not interfere with the lessee's lawful possession and use of the civil aircraft; the lessee shall properly keep the civil aircraft in the condition in which it was originally delivered, except for reasonable wear and tear and changes to the civil aircraft consented to by the lessor."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 4 Lease of Civil Aircraft"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Upon expiry of a financial lease, the lessee shall return the civil aircraft to the lessor in the condition provided in Article 29 of this Law, except where the lessee exercises its right to purchase the civil aircraft in accordance with the contract or retains possession of the civil aircraft for continued leasing."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 4 Lease of Civil Aircraft"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The supplier in a financial lease of a civil aircraft shall not be liable to both the lessor and the lessee concurrently for the same damage."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 4 Lease of Civil Aircraft"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "During the period of a financial lease, with the consent of the lessor and without prejudice to the interests of third parties, the lessee may transfer its right of possession of the civil aircraft or other rights provided in the lease contract."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 4 Lease of Civil Aircraft"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "For the financial lease of a civil aircraft and other leases with a lease term of six months or more, the lessee shall register its right of possession of the civil aircraft with the civil aviation authority of the State Council; without registration, it may not be asserted against a third party."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 4 Lease of Civil Aircraft"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "To design civil aircraft and their engines, propellers and equipment installed on civil aircraft, an application shall be made to the civil aviation authority of the State Council for a type certificate. Where the design passes examination, a type certificate shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "To manufacture or maintain civil aircraft and their engines, propellers and equipment installed on civil aircraft, an application shall be made to the civil aviation authority of the State Council for a production licence or a maintenance licence. Where the conditions are met upon examination, the corresponding certificate shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where any type of civil aircraft and their engines, propellers and equipment installed on civil aircraft manufactured by a foreign manufacturer is imported into China for the first time, the foreign manufacturer shall apply to the civil aviation authority of the State Council for a type acceptance certificate. Where the conditions are met upon examination, a type acceptance certificate shall be issued.\nWhere civil aircraft and their engines, propellers and equipment installed on civil aircraft for which a type certificate has been issued by a foreign country are produced within the territory of China for the first time, the holder of the type certificate shall apply to the civil aviation authority of the State Council for a type acceptance certificate. Where the conditions are met upon examination, a type acceptance certificate shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A civil aircraft having the nationality of the People's Republic of China may fly only after it has obtained a certificate of airworthiness issued by the civil aviation authority of the State Council.\nFor the export of civil aircraft and their engines, propellers and equipment installed on civil aircraft, the manufacturer shall apply to the civil aviation authority of the State Council for an export certificate of airworthiness. Where the conditions are met upon examination, an export certificate of airworthiness shall be issued.\nA leased foreign civil aircraft may fly only after the civil aviation authority of the State Council has examined and accepted the certificate of airworthiness issued by the State of original nationality registration or has issued another certificate of airworthiness.\nThe provisions on the administration of airworthiness of civil aircraft shall be formulated by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The owner or lessee of a civil aircraft shall use the civil aircraft within the scope of use prescribed in the certificate of airworthiness, carry out the maintenance and servicing of the civil aircraft properly and ensure that the civil aircraft remains airworthy."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Aviation personnel as referred to in this Law means the following flight crew and ground personnel engaged in civil aviation activities:\n(a) flight crew, including pilots, flight engineers and cabin crew members;\n(b) ground personnel, including civil aircraft maintenance personnel, air traffic controllers, flight dispatchers and aeronautical radio station operators."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Aviation personnel shall receive specialised training and, after passing the examination, obtain a licence issued by the civil aviation authority of the State Council before they may undertake the work stated in their licence.\nBefore obtaining a licence, flight crew and air traffic controllers shall also undergo examination by a medical examination institution recognised by the civil aviation authority of the State Council and obtain a medical certificate issued by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Flight crew members shall carry their licences and medical certificates when performing flight missions, and shall submit them for inspection by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Aviation personnel shall undergo periodic or aperiodic examination and assessment by the civil aviation authority of the State Council and may continue to undertake the work stated in their licence only after passing the examination and assessment.\nFlight crew members shall also participate in periodic emergency procedure training.\nWhere the interval between flights of a flight crew member exceeds the time limit prescribed by the civil aviation authority of the State Council, the crew member shall undergo examination and assessment; flight crew members other than cabin crew members shall also undergo supervised flying. Only after passing the examination, assessment and supervised flying may they continue to undertake the work stated in their licence."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The crew of a civil aircraft shall consist of the pilot-in-command and other flight crew members. The pilot-in-command shall be a pilot having the skill and experience to pilot that type of civil aircraft independently.\nThe composition of the crew and the number of personnel shall comply with the provisions of the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The operation of a civil aircraft shall be the responsibility of the pilot-in-command, who shall strictly perform his duties and protect the safety of the civil aircraft, the persons and property carried thereon.\nOrders issued by the pilot-in-command within the scope of his functions and powers shall be obeyed by all persons carried on board the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Before flight, the pilot-in-command shall carry out the necessary inspection of the civil aircraft; no take-off may be made without inspection.\nWhere the pilot-in-command finds that the civil aircraft, airport, meteorological conditions or other factors do not comply with provisions and cannot ensure flight safety, he has the right to refuse take-off."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "During flight, in respect of any act of damaging the civil aircraft, disrupting order on board the civil aircraft, endangering the safety of persons or property carried on board the civil aircraft, or otherwise endangering flight safety, the pilot-in-command has the right, on the premise of ensuring safety, to take necessary and appropriate measures.\nDuring flight, in special circumstances, the pilot-in-command has the right to take dispositions in respect of the civil aircraft in order to ensure the safety of the civil aircraft and the persons carried thereon."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the pilot-in-command finds that a crew member is unsuitable to perform the flight mission, he has the right to propose a change in order to ensure flight safety."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a civil aircraft is in distress, the pilot-in-command has the right to take all necessary measures and to direct the crew members and other persons on board the aircraft to take rescue measures. In an emergency where it is necessary to evacuate the civil aircraft in distress, the pilot-in-command must take measures to first organise the safe departure of passengers from the civil aircraft; without the permission of the pilot-in-command, crew members may not leave the civil aircraft without authorisation; the pilot-in-command shall be the last to leave the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an accident occurs to a civil aircraft, the pilot-in-command shall truthfully and promptly report the circumstances of the accident to the civil aviation authority of the State Council, either directly or through the air traffic control unit."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where the pilot-in-command receives a distress signal from a vessel or another aircraft, or discovers a vessel, aircraft or persons in distress, he shall promptly report the distress situation to the nearest air traffic control unit and render possible reasonable assistance."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "During flight, where the pilot-in-command is unable to perform his duties for any reason, the pilot next in rank to the pilot-in-command shall act as pilot-in-command; before take-off from the next stop, the owner or lessee of the civil aircraft shall designate a new pilot-in-command to take over."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "For a civil aircraft with only one pilot and no requirement for other flight crew, the provisions of this Section on the pilot-in-command shall apply to that pilot."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Civil airport as referred to in this Law means a defined area used exclusively by civil aircraft for take-off, landing, taxiing, parking and other activities, including the ancillary buildings, installations and facilities.\nCivil airport as referred to in this Law does not include temporary airports.\nThe State Council and the Central Military Commission shall separately formulate administrative measures for airports used jointly for military and civil purposes."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The construction and use of civil airports shall be arranged in a coordinated manner and rationally laid out so as to improve the efficiency of airport use.\nThe layout and construction plan of civil airports throughout the country shall be formulated by the civil aviation authority of the State Council together with the other relevant departments of the State Council, and shall be organised for implementation after approval in accordance with the procedures prescribed by the State.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the national layout and construction plan of civil airports, formulate the construction plan of civil airports within their respective administrative regions, and shall, after reporting it for approval in accordance with the procedures prescribed by the State, incorporate it into the national economic and social development plan at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The construction plan of civil airports shall be coordinated with the urban construction plan."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The construction, reconstruction and expansion of civil airports shall conform to the lawfully formulated civil airport layout and construction plan and to civil airport standards, and shall be implemented after reporting to the competent authorities for approval in accordance with the provisions of the State.\nConstruction projects of civil airports that do not conform to the lawfully formulated civil airport layout and construction plan shall not be approved."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "For the construction or expansion of a civil airport, an announcement shall be issued by the local people's government at or above the county level at the place where the civil airport is located.\nThe announcement provided in the preceding paragraph shall be published in the principal local newspapers and posted in the areas surrounding the airport to be constructed or expanded."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The following activities shall be prohibited within the lawfully designated civil airport area and the airport obstacle limitation area designated in accordance with the provisions of the State:\n(a) constructing buildings or facilities that may emit large quantities of smoke, dust, flames or exhaust gas into the air and thereby affect flight safety;\n(b) constructing shooting ranges, warehouses for highly explosive materials or other buildings or facilities affecting flight safety;\n(c) constructing buildings or facilities not meeting the obstacle limitation requirements of the airport;\n(d) installing lights, signs or objects affecting the use of the airport's visual aids to navigation;\n(e) planting vegetation affecting flight safety or affecting the use of the airport's navigation aids;\n(f) keeping or releasing birds and other objects affecting flight safety;\n(g) constructing buildings or facilities affecting the electromagnetic environment of the airport.\nThe grazing of livestock within the lawfully designated civil airport area shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, before the issuance of the announcement on the construction or expansion of a civil airport, there exist within the lawfully designated civil airport area and the airport obstacle limitation area designated in accordance with the provisions of the State buildings, structures, trees, lights and other obstacles that may affect flight safety, they shall be removed within the prescribed time limit; compensation shall be given for the losses thereby caused or other remedial measures shall be lawfully taken."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, after the issuance of the announcement on the construction or expansion of a civil airport, any unit or individual, in violation of this Law and the relevant administrative regulations, constructs, plants or installs within the lawfully designated civil airport area and the airport obstacle limitation area designated in accordance with the provisions of the State buildings, structures, trees, lights and other obstacles affecting flight safety, the local people's government at or above the county level at the place where the airport is located shall order their removal; the losses thereby caused shall be borne by the person who constructed, planted or installed the obstacle."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Outside a civil airport and the obstacle limitation area designated in accordance with the provisions of the State, aviation obstacle lights and markings shall be provided for tall buildings or facilities that may affect flight safety in accordance with the relevant provisions of the State, and shall be kept in normal condition."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "A civil airport open to the public as prescribed by the civil aviation authority of the State Council shall obtain an airport operating permit before it may be opened for use. Other civil airports shall be filed in accordance with the provisions of the civil aviation authority of the State Council.\nTo apply for an airport operating permit, the following conditions shall be met and acceptance shall have been passed in accordance with the provisions of the State:\n(a) having an airfield area, terminal area, working area, and service facilities and personnel appropriate to the business of operation;\n(b) having air traffic control, communication and navigation, meteorological and other facilities and personnel capable of ensuring flight safety;\n(c) having security conditions meeting the provisions of the State;\n(d) having contingency plans for handling special circumstances and the corresponding facilities and personnel;\n(e) having other conditions prescribed by the civil aviation authority of the State Council.\nAn international airport shall also meet the conditions for international air navigation and have the customs and other port inspection authorities established."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "An airport operating permit shall be applied for by the airport management body to the civil aviation authority of the State Council and shall be issued after examination and approval by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The establishment of an international airport shall be reported by the provincial people's government at the place where the airport is located to the State Council for examination and approval.\nThe opening and use of an international airport shall be publicly announced by the civil aviation authority of the State Council to foreign countries; the information on international airports shall be provided uniformly to foreign countries by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "A civil airport shall, in accordance with the provisions of the civil aviation authority of the State Council, take measures to safeguard the safety of persons and property within the airport."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "A civil airport serving civil aircraft that transport passengers or cargo shall, in accordance with the standards prescribed by the civil aviation authority of the State Council, install the necessary facilities and provide good services for passengers and for consignors and consignees of cargo."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The airport management body shall, in accordance with the provisions of the laws and administrative regulations on environmental protection, do a good job in airport environmental protection work."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Civil aircraft using civil airports and their navigation aids shall pay usage fees and service fees; the rates of the usage fees and service fees shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a civil airport is abandoned or converted to other uses, the airport management body shall complete the formalities for reporting for approval in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Civil Airports"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The State applies unified management to airspace."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 1 Airspace Management"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The division of airspace shall take into account the needs of civil aviation and national defence security and the interests of the public, so that the airspace is used rationally, fully and effectively."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 1 Airspace Management"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The specific measures for airspace management shall be formulated by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 1 Airspace Management"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Within a designated controlled airspace, one air traffic control unit shall be responsible for the air traffic control of aircraft within that airspace."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "A civil aircraft conducting flight activities in controlled airspace shall obtain the permission of the air traffic control unit."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "A civil aircraft shall fly along the air routes and at the flight altitudes designated by the air traffic control unit; where it is truly necessary to deviate from the designated air route or change the flight altitude for any reason, the permission of the air traffic control unit shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Aircraft flying within the territory of the People's Republic of China must comply with the unified flight rules.\nA civil aircraft conducting visual flight shall comply with the visual flight rules and maintain a safe distance from other aircraft and ground obstacles.\nA civil aircraft conducting instrument flight shall comply with the instrument flight rules.\nThe flight rules shall be formulated by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "The flight time and duty time of the crew members of a civil aircraft may not exceed the time limit prescribed by the civil aviation authority of the State Council.\nCrew members of a civil aircraft whose working capacity is impaired by alcoholic beverages, narcotics or other drugs may not perform flight missions."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "A civil aircraft may not fly into prohibited areas except with special approval in accordance with the provisions of the State, and may not fly into restricted areas except in compliance with the prescribed restrictive conditions.\nThe prohibited areas and restricted areas provided in the preceding paragraph shall be designated in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "A civil aircraft may not fly over a city, except in any of the following circumstances:\n(a) where it is necessary for take-off, landing or the designated air route;\n(b) where the flight altitude is sufficient for the aircraft to leave the airspace over the city in an emergency without endangering the safety of persons and property on the ground;\n(c) where approval has been obtained in accordance with the procedures prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "During flight, a civil aircraft may not drop articles, except in any of the following circumstances:\n(a) where it is necessary for flight safety;\n(b) where it is necessary for the performance of rescue missions or other flight missions conforming to the public interest."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "A civil aircraft may not fly out of the territorial airspace of the People's Republic of China without approval.\nIn respect of a civil aircraft that is flying out of the territorial airspace of the People's Republic of China without approval, the relevant departments have the right to take necessary measures according to the specific circumstances to stop it."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Air traffic control units shall provide air traffic services to civil aircraft in flight, including air traffic control service, flight information service and alerting service.\nAir traffic control service is provided for the purpose of preventing collisions between civil aircraft and aircraft or between civil aircraft and obstacles, and of maintaining and expediting the orderly flow of air traffic.\nFlight information service is provided for the purpose of providing information and advice conducive to the safe and efficient conduct of flights.\nAlerting service is provided for the purpose of notifying the relevant departments when a civil aircraft requires search and rescue and, as required, assisting those departments in search and rescue."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where an air traffic control unit finds that a civil aircraft has deviated from the designated air route or lost its heading, it shall promptly take all necessary measures to bring it back to the air route."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The necessary navigation, communication, meteorological and ground surveillance equipment shall be installed along air routes."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Natural obstacles along air routes affecting flight safety shall be marked on aeronautical charts; artificial obstacles along air routes affecting flight safety shall be provided with aviation obstacle lights and markings, which shall be kept in normal condition."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Within a belt of 30 kilometres from the boundary of an air route, the construction of shooting ranges and other facilities that may affect flight safety shall be prohibited, except for shooting ranges for flat-trajectory light weapons.\nThe construction of fixed or temporary anti-aircraft firing ranges outside the belt provided in the preceding paragraph shall be approved in accordance with the provisions of the State; the firing direction of an anti-aircraft firing range may not cross an air route."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Any activity that may affect flight safety shall be conducted only after approval has been lawfully obtained and the necessary measures to ensure flight safety have been taken."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall, in accordance with the law, administer civil aviation radio stations and the dedicated frequencies allocated for use by the civil aviation system.\nRadio stations and other instruments and devices used by any unit or individual may not interfere with the normal use of dedicated civil aviation radio frequencies. Where harmful interference is caused to a dedicated civil aviation radio frequency, the unit or individual concerned shall promptly eliminate the interference; before the interference is eliminated, use of the radio station or other instrument or device shall be discontinued."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Posts and telecommunications enterprises shall give priority to providing services for civil aviation telecommunications transmission.\nState meteorological institutions shall provide the necessary meteorological materials to civil aviation meteorological institutions."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "A civil aircraft engaged in flight shall carry the following documents:\n(a) the certificate of nationality registration of the civil aircraft;\n(b) the certificate of airworthiness of the civil aircraft;\n(c) the corresponding licences of the crew members;\n(d) the journey log book of the civil aircraft;\n(e) for a civil aircraft equipped with radio equipment, its radio station licence;\n(f) for a civil aircraft carrying passengers, a list of the names of the passengers carried and their places of departure and destinations;\n(g) for a civil aircraft carrying cargo, the manifest and detailed declaration of the cargo carried;\n(h) other documents that should be carried according to the flight mission.\nWhere a civil aircraft fails to carry the documents listed in the preceding paragraph in accordance with provisions, the civil aviation authority of the State Council or the regional civil aviation administration authorised by it may prohibit the civil aircraft from taking off."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 4 Documents Required on Board"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Public air transport enterprise means an enterprise legal person that, for profit, uses civil aircraft to transport passengers, baggage, mail or cargo."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "An enterprise engaging in public air transport shall apply to the civil aviation authority of the State Council for an operating licence."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "To obtain a public air transport operating licence, the following conditions shall be met:\n(a) having civil aircraft that comply with the provisions of the State and meet the requirements for ensuring flight safety;\n(b) having the necessary aviation personnel who have lawfully obtained licences;\n(c) having registered capital of not less than the minimum amount prescribed by the State Council;\n(d) other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The organisational form and organisational structure of public air transport enterprises shall be governed by the provisions of the Company Law.\nFor public air transport enterprises established before this Law came into force whose organisational form and organisational structure do not fully comply with the provisions of the Company Law, the original provisions may continue to be applied, and the date from which the provisions of the preceding paragraph apply shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Public air transport enterprises shall take ensuring flight safety and normal flight operations and providing good services as their guiding criteria, and shall adopt effective measures to improve the quality of transport services.\nPublic air transport enterprises shall educate and require their employees to strictly perform their duties and to conscientiously carry out all service work relating to the transport of passengers and cargo with a courteous, enthusiastic and considerate service attitude.\nWhere a passenger flight is delayed, the relevant circumstances shall be announced at the airport in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Where a public air transport enterprise applies to operate air routes for scheduled air services (hereinafter referred to as scheduled services), or suspends or terminates the operation of air routes, it shall report the matter to the civil aviation authority of the State Council for approval.\nA public air transport enterprise operating scheduled services shall publish its timetable."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The items of operating charges of public air transport enterprises shall be determined by the civil aviation authority of the State Council.\nThe administrative measures for the tariffs of domestic air transport shall be formulated by the civil aviation authority of the State Council together with the pricing department of the State Council, and shall be implemented after being reported to the State Council for approval.\nThe tariffs of international air transport shall be determined in accordance with the agreements and arrangements concluded between the Government of the People's Republic of China and foreign governments; in the absence of such agreements or arrangements, they shall be determined with reference to the market prices of international air transport."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where a public air transport enterprise engages in non-scheduled transport, it shall obtain the approval of the civil aviation authority of the State Council and may not affect the normal operation of scheduled services."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "A public air transport enterprise shall, in accordance with the provisions on security of public air transport formulated by the State Council, formulate a security programme and file it with the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "A public air transport enterprise may not transport articles the transport of which is prohibited by laws or administrative regulations.\nWithout the approval of the civil aviation authority of the State Council, a public air transport enterprise may not transport combat munitions or combat materials.\nPassengers shall be prohibited from carrying articles the carriage of which is prohibited by laws or administrative regulations when taking a civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where a public air transport enterprise transports dangerous goods, it shall comply with the relevant provisions of the State.\nIt shall be prohibited to consign dangerous goods under the name of non-dangerous goods.\nPassengers shall be prohibited from carrying dangerous goods when taking a civil aircraft. Unless performing official duties and having obtained approval in accordance with the provisions of the State, passengers shall be prohibited from carrying firearms or controlled knives when taking a civil aircraft. It shall be prohibited to consign dangerous goods as baggage in violation of the provisions of the civil aviation authority of the State Council.\nThe names of dangerous goods shall be prescribed and published by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "A public air transport enterprise may not transport passengers who refuse to undergo security inspection, and may not transport baggage that has not undergone security inspection in violation of the provisions of the State.\nA public air transport enterprise must, in accordance with the provisions of the civil aviation authority of the State Council, conduct security inspection of the cargo carried or adopt other measures to ensure safety."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The civil aircraft of a public air transport enterprise engaged in international air transport and the persons, baggage and cargo carried thereon shall be subject to inspection by the competent departments such as border defence and customs; however, unnecessary delay shall be avoided in the course of inspection."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "A public air transport enterprise shall, in accordance with the provisions of the relevant laws and administrative regulations, give priority to the transport of mail."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "A public air transport enterprise shall take out third-party liability insurance in respect of surface third parties."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter VIII Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "This Chapter shall apply to the transport of passengers, baggage or cargo operated by public air transport enterprises using civil aircraft, including gratuitous transport carried out by public air transport enterprises using civil aircraft.\nThis Chapter shall not apply to the transport of mail carried out using civil aircraft.\nFor transport by multimodal means, the provisions of this Chapter shall apply to the air transport segment thereof."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Domestic air transport as referred to in this Law means transport under an air transport contract concluded between the parties where the place of departure, the agreed place of stopover and the place of destination of the transport are all within the territory of the People's Republic of China.\nInternational air transport as referred to in this Law means transport under an air transport contract concluded between the parties where, irrespective of whether the transport is interrupted or transhipped, one of the place of departure, the place of destination or the agreed place of stopover of the transport is not within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where the parties to an air transport contract regard the transport performed by several successive air carriers as a single operation, it shall be deemed an indivisible transport, irrespective of whether it is concluded in the form of one contract or several contracts."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "A carrier transporting passengers shall issue a passenger ticket. A passenger taking a civil aircraft shall present a valid passenger ticket for inspection."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "The content to be included in a passenger ticket shall be prescribed by the civil aviation authority of the State Council and shall include at least the following:\n(a) the place of departure and the place of destination;\n(b) where both the place of departure and the place of destination are within the territory of the People's Republic of China and there is one or several agreed places of stopover outside the territory, at least one place of stopover shall be stated;\n(c) where one of the final place of destination, the place of departure or the agreed place of stopover of the passenger's journey is not within the territory of the People's Republic of China, and the applicable international air transport convention provides that a statement that the carriage is subject to that convention shall be included in the ticket, the ticket shall contain such a statement."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "A passenger ticket is prima facie evidence of the conclusion of the contract of air carriage of passengers and of the conditions of the contract of carriage.\nThe failure of a passenger to present the passenger ticket, the non-conformity of the passenger ticket with provisions or the loss of the passenger ticket shall not affect the existence or validity of the contract of carriage.\nIn domestic air transport, where a carrier agrees to carry a passenger on a civil aircraft without issuing a ticket to that passenger, the carrier is not entitled to invoke the provisions on limitation of liability in Article 128 of this Law.\nIn international air transport, where a carrier agrees to carry a passenger on a civil aircraft without issuing a ticket to that passenger, or where the ticket does not contain the statement provided in item (c) of Article 110 of this Law, the carrier is not entitled to invoke the provisions on limitation of liability in Article 129 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "Where a carrier carries checked baggage, the baggage check may be included in or combined with the passenger ticket. In addition to the provisions of Article 110 of this Law, the baggage check shall also include the following content:\n(a) the number of pieces and the weight of the checked baggage;\n(b) where it is necessary to declare the interest in delivery of the checked baggage at the place of destination, the amount declared.\nA baggage check is prima facie evidence of the consignment of baggage and of the conditions of the contract of carriage.\nThe failure of a passenger to present the baggage check, the non-conformity of the baggage check with provisions or the loss of the baggage check shall not affect the existence or validity of the contract of carriage.\nIn domestic air transport, where a carrier carries checked baggage without issuing a baggage check, the carrier is not entitled to invoke the provisions on limitation of liability in Article 128 of this Law.\nIn international air transport, where a carrier carries checked baggage without issuing a baggage check, or where the baggage check does not contain the statement provided in item (c) of Article 110 of this Law, the carrier is not entitled to invoke the provisions on limitation of liability in Article 129 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "A carrier has the right to require the consignor to fill in an air waybill, and the consignor has the right to require the carrier to accept the air waybill. The failure of the consignor to present the air waybill, the non-conformity of the air waybill with provisions or the loss of the air waybill shall not affect the existence or validity of the contract of carriage."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "The consignor shall fill in the air waybill in three original copies and deliver them together with the cargo to the carrier.\nThe first copy of the air waybill, marked \"for the carrier\", shall be signed and sealed by the consignor; the second copy, marked \"for the consignee\", shall be signed and sealed by the consignor and the carrier; the third copy shall be signed and sealed by the carrier after accepting the cargo and handed to the consignor.\nWhere the carrier fills in the air waybill at the request of the consignor, it shall, in the absence of contrary evidence, be deemed to have filled it in on behalf of the consignor."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "The content to be included in an air waybill shall be prescribed by the civil aviation authority of the State Council and shall include at least the following:\n(a) the place of departure and the place of destination;\n(b) where both the place of departure and the place of destination are within the territory of the People's Republic of China and there is one or several agreed places of stopover outside the territory, at least one place of stopover shall be stated;\n(c) where one of the final place of destination, the place of departure or the agreed place of stopover of the cargo transport is not within the territory of the People's Republic of China, and the applicable international air transport convention provides that a statement that the carriage is subject to that convention shall be included in the air waybill, the air waybill shall contain such a statement."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "In domestic air transport, where a carrier agrees to carry cargo without an air waybill having been filled in, the carrier is not entitled to invoke the provisions on limitation of liability in Article 128 of this Law.\nIn international air transport, where a carrier agrees to carry cargo without an air waybill having been filled in, or where the air waybill does not contain the statement provided in item (c) of Article 115 of this Law, the carrier is not entitled to invoke the provisions on limitation of liability in Article 129 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "The consignor shall be responsible for the correctness of the particulars and statements relating to the cargo filled in the air waybill.\nWhere the particulars and statements filled in the air waybill do not conform to provisions, are incorrect or are incomplete and thereby cause losses to the carrier or to others for whom the carrier is responsible, the consignor shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "An air waybill is prima facie evidence of the conclusion of the contract of air carriage of cargo, of the conditions of carriage and of the acceptance of the cargo by the carrier.\nThe particulars in the air waybill relating to the weight, dimensions, packing and number of packages of the cargo are prima facie evidence. Except where they have been checked jointly by the carrier and the consignor in person and the air waybill states that they have been checked or contains a statement on the apparent condition of the cargo, the particulars in the air waybill relating to the quantity, volume and condition of the cargo do not constitute evidence against the carrier."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "A consignor, on condition of performing the obligations prescribed in the contract of air carriage of cargo, has the right to take back the cargo at the airport of departure or the airport of destination, or to stop the transport at an intermediate stopover, or to require delivery of the cargo at the place of destination or in the course of transport to a consignee other than the consignee specified in the air waybill, or to require the return of the cargo to the airport of departure; however, the consignor may not, by exercising such right, cause losses to the carrier or other consignors, and shall reimburse the expenses thereby incurred.\nWhere the consignor's instructions cannot be carried out, the carrier shall promptly notify the consignor.\nWhere a carrier disposes of the cargo in accordance with the consignor's instructions without requiring the consignor to produce the air waybill held by the consignor and thereby causes losses to the lawful holder of the air waybill, the carrier shall bear liability, without prejudice to the carrier's right of recourse against the consignor.\nThe rights of the consignor shall cease when the rights of the consignee commence in accordance with Article 120 of this Law; however, where the consignee refuses to accept the air waybill or the cargo, or the carrier is unable to contact the consignee, the consignor shall resume its right of disposal of the cargo."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Except in the circumstances listed in Article 119 of this Law, the consignee has the right, upon arrival of the cargo at the place of destination and after payment of the amounts payable and performance of the conditions of carriage stated in the air waybill, to require the carrier to hand over the air waybill and deliver the cargo.\nUnless otherwise agreed, the carrier shall notify the consignee immediately after the arrival of the cargo.\nWhere the carrier acknowledges that the cargo has been lost, or the cargo has still not arrived seven days after the date on which it should have arrived, the consignee has the right to exercise against the carrier the rights conferred by the contract of air carriage of cargo."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "A consignor and a consignee, on condition of performing the obligations prescribed in the contract of air carriage of cargo, may, whether for their own benefit or for the benefit of others, separately exercise in their own names the rights conferred by Articles 119 and 120 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "The provisions of Articles 119, 120 and 121 of this Law shall not affect the relationship between the consignor and the consignee, nor the relationship between third parties deriving rights from the consignor or the consignee.\nAny contractual clause different from the provisions of Articles 119, 120 and 121 of this Law shall be stated in the air waybill."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "The consignor shall provide the necessary particulars and documents so that the relevant formalities prescribed by laws and administrative regulations may be completed before delivery of the cargo to the consignee; where losses are caused because such particulars or documents are absent, or are insufficient or do not conform to provisions, the consignor shall be liable to the carrier, except where the losses are caused by the fault of the carrier, its servants or agents.\nUnless otherwise provided by laws or administrative regulations, the carrier is not obliged to check the particulars or documents provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Documents"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Where the death or personal injury of a passenger is caused by an event that occurred on board a civil aircraft or in the course of embarking or disembarking, the carrier shall bear liability; however, where the death or personal injury of the passenger is entirely due to the passenger's own state of health, the carrier shall not bear liability."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where the destruction, loss or damage of the articles carried by a passenger is caused by an event that occurred on board a civil aircraft or in the course of embarking or disembarking, the carrier shall bear liability. Where the destruction, loss or damage of the passenger's checked baggage is caused by an event that occurred during the period of air carriage, the carrier shall bear liability.\nWhere the destruction, loss or damage of the articles carried by a passenger or of checked baggage is entirely caused by the inherent defect, quality or vice of the baggage, the carrier shall not bear liability.\nBaggage as referred to in this Chapter includes checked baggage and articles carried by passengers.\nWhere the destruction, loss or damage of cargo is caused by an event that occurred during the period of air carriage, the carrier shall bear liability; however, the carrier shall not bear liability where it proves that the destruction, loss or damage was caused entirely by any of the following reasons:\n(a) the inherent defect, quality or vice of the cargo;\n(b) defective packing of the cargo, where the cargo was packed by a person other than the carrier, its servants or agents;\n(c) war or armed conflict;\n(d) an act carried out by the relevant government department relating to the entry, exit or transit of the cargo.\nThe period of air carriage referred to in this Article means the entire period during which checked baggage or cargo is in the charge of the carrier, whether at the airport, on board a civil aircraft or at any place of landing outside an airport.\nThe period of air carriage does not include any process of land carriage, carriage by sea or inland waterway outside an airport; however, where such land carriage, carriage by sea or inland waterway is for the purpose of loading, delivery or transhipment in the performance of the contract of air carriage, the losses incurred shall, in the absence of contrary evidence, be deemed to have occurred during the period of air carriage."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where losses are caused by delay in the air carriage of passengers, baggage or cargo, the carrier shall bear liability; however, the carrier shall not bear liability where it proves that it or its servants or agents have taken all necessary measures to avoid the losses or that it was impossible to take such measures."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "In the carriage of passengers and baggage, where the carrier proves that the losses were caused or contributed to by the fault of the claimant, the liability of the carrier shall be exempted or reduced accordingly in proportion to the degree of fault that caused or contributed to the losses. Where a person other than the passenger claims compensation for the death of or injury to the passenger and the carrier proves that the death or injury was caused or contributed to by the fault of the passenger himself, the liability of the carrier shall likewise be exempted or reduced accordingly in proportion to the degree of fault that caused or contributed to the losses.\nIn the carriage of cargo, where the carrier proves that the losses were caused or contributed to by the fault of the claimant or of the person through whom the claimant derives its rights, the liability of the carrier shall be exempted or reduced accordingly in proportion to the degree of fault that caused or contributed to the losses."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "The limits of liability of carriers in domestic air transport shall be formulated by the civil aviation authority of the State Council and shall be published and implemented after being reported to the State Council for approval.\nWhere, at the time of consigning checked baggage or cargo, the passenger or consignor makes a special declaration of the interest in delivery at the place of destination and pays a supplementary sum where necessary, the carrier shall be liable up to the amount declared, unless the carrier proves that the amount declared by the passenger or consignor exceeds the actual interest in delivery of the checked baggage or cargo at the place of destination; the other provisions of Article 129 of this Law, except the limits of liability, shall apply to domestic air transport."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "The limits of liability of carriers in international air transport shall be implemented in accordance with the following provisions:\n(a) the limit of liability for each passenger shall be 16,600 units of account; however, a passenger may agree in writing with the carrier on a higher limit of liability than that provided in this item.\n(b) the limit of liability for checked baggage or cargo shall be 17 units of account per kilogram. Where, at the time of consigning checked baggage or cargo, the passenger or consignor makes a special declaration of the interest in delivery at the place of destination and pays a supplementary sum where necessary, the carrier shall be liable up to the amount declared, unless the carrier proves that the amount declared by the passenger or consignor exceeds the actual interest in delivery of the checked baggage or cargo at the place of destination.\nWhere part of the checked baggage or cargo, or any object contained in the checked baggage or cargo, is destroyed, lost, damaged or delayed, the weight to be taken into account in determining the limit of liability of the carrier shall be only the total weight of that package or those packages; however, where the destruction, loss, damage or delay of part of the checked baggage or cargo, or of any object contained in the checked baggage or cargo, affects the value of other packages covered by the same baggage check or the same air waybill, the total weight of those packages shall also be taken into account in determining the limit of liability of the carrier.\n(c) the limit of liability for the articles carried by each passenger shall be 332 units of account."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Any clause intended to exempt the carrier from liability prescribed by this Law or to lower the limits of liability prescribed by this Law shall be void; however, the invalidity of such a clause shall not affect the validity of the air transport contract as a whole."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "An action in respect of losses occurring in air carriage, whatever its basis, may be brought only in accordance with the conditions and limits of liability prescribed by this Law, without prejudice to the question of who has the right to institute an action and to their respective rights."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where it is proved that the losses in air carriage were caused by an act or omission of the carrier or of its servants or agents done with intent to cause damage or recklessly and with knowledge that damage would probably result, the carrier is not entitled to invoke the provisions on limitation of liability in Articles 128 and 129 of this Law; to prove that a servant or agent of the carrier committed such an act or omission, it shall also be proved that the servant or agent acted within the scope of its employment or agency."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where an action is instituted against the servant or agent of a carrier in respect of losses in air carriage, the servant or agent, on proof that he acted within the scope of his employment or agency, shall be entitled to invoke the provisions on limitation of liability in Articles 128 and 129 of this Law.\nIn the circumstances provided in the preceding paragraph, the total amount of compensation payable by the carrier and its servants or agents may not exceed the statutory limit of liability.\nWhere it is proved that the losses in air carriage were caused by an act or omission of the servant or agent of the carrier done with intent to cause damage or recklessly and with knowledge that damage would probably result, paragraphs 1 and 2 of this Article shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "The receipt by a passenger or consignee of checked baggage or cargo without objection is prima facie evidence that the checked baggage or cargo has been delivered in good condition and in accordance with the transport document.\nWhere checked baggage or cargo has suffered damage, the passenger or consignee shall raise an objection with the carrier after discovering the damage. In the case of damage to checked baggage, the objection shall be raised at the latest within seven days from the date of receipt of the checked baggage; in the case of damage to cargo, at the latest within 14 days from the date of receipt of the cargo. In the case of delay of checked baggage or cargo, the objection shall be raised at the latest within 21 days from the date on which the checked baggage or cargo is placed at the disposal of the passenger or consignee.\nAny objection shall be raised, within the period provided in the preceding paragraph, by being written on the transport document or in a separate written form.\nExcept where the carrier has committed fraud, a passenger or consignee who fails to raise an objection within the period prescribed in paragraph 2 of this Article may not institute an action for compensation against the carrier."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "The limitation period for an action in air carriage shall be two years, calculated from the date on which the civil aircraft arrived at the place of destination, should have arrived at the place of destination, or the carriage was terminated."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "In the case of successive carriage performed by several air carriers, each carrier that accepts the passengers, baggage or cargo shall be subject to the provisions of this Law and shall be a party to the contract of carriage as regards the segment of carriage that it performs under the contract.\nIn the case of successive carriage provided in the preceding paragraph, unless the contract expressly provides that the first carrier shall be liable for the entire carriage, a passenger or his heir may institute an action only against the carrier that performed the segment of carriage in which the accident or delay occurred.\nIn the case of destruction, loss, damage or delay of checked baggage or cargo, the passenger or consignor has the right to institute an action against the first carrier, the passenger or consignee has the right to institute an action against the last carrier, and the passenger, consignor and consignee all have the right to institute an action against the carrier that performed the segment of carriage in which the destruction, loss, damage or delay occurred. The above carriers shall bear joint and several liability to the passenger, consignor or consignee."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Section 3 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Contracting carrier as referred to in this Section means a person who concludes, in its own name with a passenger or consignor, or with the agent of a passenger or consignor, a contract of air carriage governed by this Chapter.\nActual carrier as referred to in this Section means a person who, by virtue of authorisation from the contracting carrier, performs the whole or part of the carriage referred to in the preceding paragraph and is not a successive carrier as provided in this Chapter; in the absence of contrary evidence, such authorisation shall be deemed to exist."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Section 4 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Unless otherwise provided in this Section, both the contracting carrier and the actual carrier shall be subject to the provisions of this Chapter. The contracting carrier shall be liable for the entire carriage agreed in the contract. The actual carrier shall be liable for the carriage that it performs."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Section 4 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "The acts and omissions of the actual carrier, and the acts and omissions of the servants or agents of the actual carrier within the scope of their employment or agency, relating to the carriage performed by the actual carrier, shall be deemed to be the acts and omissions of the contracting carrier.\nThe acts and omissions of the contracting carrier, and the acts and omissions of the servants or agents of the contracting carrier within the scope of their employment or agency, relating to the carriage performed by the actual carrier, shall be deemed to be the acts and omissions of the actual carrier; however, the liability borne by the actual carrier shall not, by reason of such acts or omissions, exceed the statutory limit of liability.\nAny special agreement under which the contracting carrier assumes obligations not provided in this Chapter or waives rights conferred by this Chapter, or any special declaration of interest in delivery at the place of destination made in accordance with Articles 128 and 129 of this Law, shall not affect the actual carrier unless the actual carrier consents."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Section 4 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "A claim raised or an instruction given in accordance with the provisions of this Chapter shall have equal effect whether it is raised or given to the contracting carrier or to the actual carrier; however, the instruction provided in Article 119 of this Law shall be effective only when given to the contracting carrier."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Section 4 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where the servant or agent of the actual carrier or the servant or agent of the contracting carrier proves that he acted within the scope of his employment or agency, he shall, in respect of the carriage performed by the actual carrier, be entitled to invoke the provisions on limitation of liability in Articles 128 and 129 of this Law, except where he may not invoke the provisions on limitation of liability in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Section 4 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "In respect of the carriage performed by the actual carrier, the total amount of compensation payable by the actual carrier, the contracting carrier and their servants or agents acting within the scope of their employment or agency may not exceed the highest amount of compensation obtainable from the contracting carrier or the actual carrier under this Law; however, none of them shall bear liability exceeding the limit of liability applicable to him."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Section 4 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "An action in respect of carriage performed by the actual carrier may be instituted separately against the actual carrier or against the contracting carrier, or concurrently against both the actual carrier and the contracting carrier; the carrier against which the action is instituted has the right to require the other carrier to participate in the defence of the action."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Section 4 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Apart from the provisions of Article 143 of this Law, this Section shall not affect the rights and obligations between the actual carrier and the contracting carrier."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Section 4 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "General aviation means civil aviation activities carried out using civil aircraft other than public air transport, including operational flights in industry, agriculture, forestry, fisheries and construction, as well as flight activities in medical and health care, emergency rescue and disaster relief, meteorological observation, marine monitoring, scientific experiments, education and training, culture and sports and other fields."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Chapter X General Aviation"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Those engaging in general aviation activities shall meet the following conditions:\n(a) having civil aircraft appropriate to the general aviation activities engaged in and meeting the requirements for ensuring flight safety;\n(b) having the necessary aviation personnel who have lawfully obtained licences;\n(c) meeting other conditions prescribed by laws and administrative regulations.\nEngaging in commercial general aviation shall be limited to enterprise legal persons."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Chapter X General Aviation"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "Those engaging in non-commercial general aviation shall file with the civil aviation authority of the State Council.\nThose engaging in commercial general aviation shall apply to the civil aviation authority of the State Council for a general aviation operating licence."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Chapter X General Aviation"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where a general aviation enterprise engages in commercial general aviation activities, it shall conclude a written contract with the user, except for rescue or disaster relief flights in urgent circumstances."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Chapter X General Aviation"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "When organising and implementing operational flights, effective measures shall be taken to ensure flight safety, protect the environment and ecological balance, and prevent harm to the environment, residents, crops, livestock and the like."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Chapter X General Aviation"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Those engaging in general aviation activities shall take out third-party liability insurance in respect of surface third parties."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Chapter X General Aviation"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "Where a civil aircraft encounters an emergency, it shall transmit signals and report to the air traffic control unit and request rescue; the air traffic control unit shall immediately notify the search and rescue coordination centre. Where a civil aircraft encounters an emergency at sea, it shall also transmit signals to vessels and to the national maritime search and rescue organisation."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Chapter XI Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "Any unit or individual that discovers that a civil aircraft has encountered an emergency, or that intercepts a signal indicating that a civil aircraft has encountered an emergency, shall immediately notify the relevant search and rescue coordination centre, the maritime search and rescue organisation or the local people's government."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Chapter XI Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "The search and rescue coordination centre, the local people's government and the maritime search and rescue organisation that have received the notification shall immediately organise search and rescue.\nThe search and rescue coordination centre that has received the notification shall endeavour to notify the civil aircraft in emergency of the search and rescue measures already taken.\nThe specific measures for search and rescue of civil aircraft shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Chapter XI Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Units or individuals performing search and rescue tasks shall do their utmost to rescue the persons on board the civil aircraft, take rescue measures in respect of the civil aircraft in accordance with regulations, protect the scene and preserve evidence."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Chapter XI Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "The parties to a civil aircraft accident and the persons concerned shall, when under investigation, truthfully provide information on the scene and on the circumstances relating to the accident."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        },
+        "chapter": {
+          "en": "Chapter XI Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "The organisation and procedure for the investigation of civil aircraft accidents shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 156."
+        },
+        "chapter": {
+          "en": "Chapter XI Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "Where death or personal injury or damage to property on the ground (including the surface of water, the same below) is caused by an aircraft in flight or by a person or thing falling from an aircraft in flight, the injured person shall be entitled to compensation; however, the injured person shall not be entitled to claim compensation where the damage suffered is not the direct consequence of the accident causing the damage, or where the damage suffered is caused solely by the aircraft passing through the air in accordance with the relevant national air traffic rules.\n'In flight' as used in the preceding paragraph means the period from the moment when power is applied for the purpose of actual take-off until the end of the landing run; in the case of a lighter-than-air aircraft, 'in flight' means the period from the moment when it leaves the ground until the moment when it again touches the ground."
+        },
+        "noLabel": {
+          "en": "Article 157."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "The liability for compensation provided in Article 157 of this Law shall be borne by the operator of the civil aircraft.\n'Operator' as used in the preceding paragraph means the person who makes use of the civil aircraft at the time the damage occurs. Where the right to use the civil aircraft has been granted directly or indirectly to another person and the person retains control over the navigation of the civil aircraft, that person shall still be regarded as the operator.\nWhere an employee or agent of the operator makes use of the civil aircraft in the course of employment or agency, whether or not acting within the scope of employment or agency, the use shall be regarded as use by the operator.\nThe registered owner of the civil aircraft shall be regarded as the operator and shall bear the liability of the operator, unless in proceedings to determine his liability the owner proves that another person is the operator and takes appropriate measures within the limits permitted by legal procedure to make that person a party to the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 158."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "Where a civil aircraft is used without the consent of the person having control over its navigation and damage is caused to a third party on the ground, the person having control over the navigation shall, unless he proves that he has exercised due care to prevent such use, be jointly and severally liable with the person making the unlawful use."
+        },
+        "noLabel": {
+          "en": "Article 159."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "Where the damage is the direct consequence of armed conflict or civil disturbance, no person liable under this Chapter shall be liable.\nWhere the right to use the civil aircraft of a person liable under this Chapter has been deprived by a State organ in accordance with law, that person shall not be liable."
+        },
+        "noLabel": {
+          "en": "Article 160."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "Where a person liable under this Chapter proves that the damage was caused wholly by the fault of the injured person or of his employees or agents, his liability for compensation shall be extinguished; where the person liable proves that the damage was caused in part by the fault of the injured person or of his employees or agents, his liability for compensation shall be reduced accordingly. However, where the damage was caused by the fault of an employee or agent of the injured person and the injured person proves that the act of the employee or agent exceeded the scope of the authority conferred on him, the liability for compensation of the person liable shall not be extinguished or reduced.\nWhere one person brings an action against another person for the death of or injury to that other person and claims compensation, and the damage was caused by the fault of that other person or of his employees or agents, the provisions of the preceding paragraph shall apply."
+        },
+        "noLabel": {
+          "en": "Article 161."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Where two or more civil aircraft collide or interfere with each other in flight and cause damage for which compensation is payable under Article 157 of this Law, or where two or more civil aircraft jointly cause such damage, each of the civil aircraft concerned shall be deemed to have caused such damage, and the operator of each civil aircraft concerned shall be liable."
+        },
+        "noLabel": {
+          "en": "Article 162."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "The persons specified in paragraph 4 of Article 158 and in Article 159 of this Law shall be entitled to the defences available to an operator under this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 163."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "Except as expressly provided in this Chapter, the operator, the owner and the persons liable under Article 159 of this Law, as well as their employees and agents, shall not be liable for damage on the ground caused by a civil aircraft in flight or by a person or thing falling from a civil aircraft in flight, except a person who intentionally causes such damage."
+        },
+        "noLabel": {
+          "en": "Article 164."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "Nothing in this Chapter shall prejudice the right of a person liable for damage under this Chapter to seek recourse against another person."
+        },
+        "noLabel": {
+          "en": "Article 165."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "The operator of a civil aircraft shall take out insurance against liability to third parties on the ground or obtain corresponding security for such liability."
+        },
+        "noLabel": {
+          "en": "Article 166."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "An insurer or guarantor, apart from enjoying the same defences as the operator and the right to plead forgery of documents, may in respect of claims for compensation made under this Chapter raise only the following defences:\n(1) the damage occurred after the insurance or security ceased to be valid; however, if the insurance or security expires in the course of a flight, it shall remain valid until the next landing specified in the flight plan, but not for more than 24 hours;\n(2) the damage occurred outside the area specified in the insurance or security, unless the flight went beyond that area owing to force majeure, or to the necessity of assisting others, or to an error in piloting, navigation or flight guidance.\nThe provisions of the preceding paragraph concerning the continued validity of the insurance or security shall apply only where they are favourable to the injured person."
+        },
+        "noLabel": {
+          "en": "Article 167."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "The injured person may bring an action directly against the insurer or guarantor only in the following circumstances, and this shall not prejudice the right of the injured person to bring a direct action under the legal provisions governing the relevant contract of insurance or contract of guarantee:\n(1) the insurance or security remains valid in accordance with subparagraphs (1) and (2) of Article 167 of this Law;\n(2) the operator is bankrupt.\nApart from the defences provided in paragraph 1 of Article 167 of this Law, an insurer or guarantor may not, in an action brought directly against it by the injured person under this Chapter, plead the invalidity or retroactive termination of the insurance or security."
+        },
+        "noLabel": {
+          "en": "Article 168."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "The insurance or security provided in accordance with Article 166 of this Law shall be specially designated for priority payment of the compensation provided in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 169."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "Sums payable by an insurer to the operator shall not be attached or otherwise dealt with by creditors of the operator before the claims for compensation of third parties provided in this Chapter have been satisfied."
+        },
+        "noLabel": {
+          "en": "Article 170."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "The limitation period for an action for compensation for damage to third parties on the ground shall be two years, counted from the date on which the damage occurred; however, in no case shall the limitation period exceed three years from the date on which the damage occurred."
+        },
+        "noLabel": {
+          "en": "Article 171."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "This Chapter shall not apply to the following damage:\n(1) damage to a civil aircraft in flight or to persons or things on board that aircraft;\n(2) damage in respect of which the injured person is bound by a contract concluded with the operator or with the person entitled to use the civil aircraft at the time the damage occurred, or is bound by provisions on employee compensation in the law applicable to the employment contract between the two parties;\n(3) nuclear damage."
+        },
+        "noLabel": {
+          "en": "Article 172."
+        },
+        "chapter": {
+          "en": "Chapter XII Liability for Damage to Third Parties on the Ground"
+        }
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "Foreign civil aircraft operated by foreigners and engaged in civil aviation activities within the territory of the People's Republic of China shall be governed by this Chapter; matters not provided in this Chapter shall be governed by the other relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 173."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 174,
+        "text": {
+          "en": "A foreign civil aircraft may fly into or out of the territorial airspace of the People's Republic of China and fly or land within the territory of the People's Republic of China only in accordance with the provisions of an agreement or arrangement concluded between the government of the State of its nationality registration and the Government of the People's Republic of China, or with the approval or acceptance of the civil aviation authority under the State Council of the People's Republic of China.\nWith respect to a foreign civil aircraft which flies into or out of the territorial airspace of the People's Republic of China without authorisation in violation of the provisions of the preceding paragraph, the relevant authorities of the People's Republic of China shall have the power to take necessary measures and order it to land at a designated airport; with respect to an aircraft which complies with the provisions of the preceding paragraph but which, on reasonable grounds, is considered to require inspection, the relevant authorities shall have the power to order it to land at a designated airport."
+        },
+        "noLabel": {
+          "en": "Article 174."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 175,
+        "text": {
+          "en": "Where a foreign civil aircraft flies into the territorial airspace of the People's Republic of China, its operator shall provide the relevant certificates proving that it has taken out insurance against liability to third parties on the ground or has obtained corresponding security for such liability; where its operator fails to provide the relevant certificates, the civil aviation authority under the State Council of the People's Republic of China shall have the power to refuse it entry into the territorial airspace of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 175."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 176,
+        "text": {
+          "en": "The operator of a foreign civil aircraft may operate the scheduled international air services provided in the agreement or arrangement concluded between the Government of the People's Republic of China and the government of that foreign State only after being designated by its own government and obtaining an operating licence issued by the civil aviation authority under the State Council of the People's Republic of China; the operator of a foreign civil aircraft may operate non-scheduled air transport between a point within the territory of the People's Republic of China and a point outside that territory only after obtaining the approval of its own government and the approval of the civil aviation authority under the State Council of the People's Republic of China.\nThe operator of a foreign civil aircraft specified in the preceding paragraph shall, in accordance with the laws and administrative regulations of the People's Republic of China, formulate a corresponding security plan and submit it to the civil aviation authority under the State Council of the People's Republic of China for the record."
+        },
+        "noLabel": {
+          "en": "Article 176."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 177,
+        "text": {
+          "en": "The operator of a foreign civil aircraft shall not operate air transport between two points within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 177."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 178,
+        "text": {
+          "en": "A foreign civil aircraft shall fly in accordance with the timetable or flight plan approved by the civil aviation authority under the State Council of the People's Republic of China; where the timetable or flight plan is to be changed, its operator shall obtain the approval of the civil aviation authority under the State Council of the People's Republic of China; where a flight is changed or cancelled for any reason, its operator shall promptly report to the civil aviation authority under the State Council of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 178."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 179,
+        "text": {
+          "en": "A foreign civil aircraft shall take off from or land at an airport with customs facilities designated by the civil aviation authority under the State Council of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 179."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 180,
+        "text": {
+          "en": "The civil aviation authority under the State Council of the People's Republic of China and other competent authorities shall have the power to inspect, when a foreign civil aircraft lands or flies out, the documents specified in Article 90 of this Law.\nA foreign civil aircraft and the persons, baggage and cargo carried thereon shall be subject to entry and exit, customs, quarantine and other inspections conducted in accordance with law by the relevant competent authorities of the People's Republic of China.\nThe inspection and examination provided in the preceding two paragraphs shall avoid unnecessary delay."
+        },
+        "noLabel": {
+          "en": "Article 180."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 181,
+        "text": {
+          "en": "The certificate of airworthiness, crew competency certificates and licences of a civil aircraft issued or validated by the State of nationality registration of a foreign civil aircraft shall be recognised as valid by the Government of the People's Republic of China; however, the requirements for the issue or validation of such certificates or licences shall be equal to or higher than the minimum standards established by the International Civil Aviation Organization."
+        },
+        "noLabel": {
+          "en": "Article 181."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 182,
+        "text": {
+          "en": "Where a foreign civil aircraft is in distress in a search and rescue area of the People's Republic of China, the participation of its owner or of the State of its nationality registration in the search and rescue work shall be subject to the approval of the civil aviation authority under the State Council of the People's Republic of China or shall be carried out in accordance with an agreement between the two governments."
+        },
+        "noLabel": {
+          "en": "Article 182."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 183,
+        "text": {
+          "en": "Where an accident occurs to a foreign civil aircraft within the territory of the People's Republic of China, the State of its nationality registration and other States concerned may appoint observers to participate in the investigation of the accident. The report and findings of the investigation shall be communicated by the civil aviation authority under the State Council of the People's Republic of China to the State of nationality registration of the foreign civil aircraft and to the other States concerned."
+        },
+        "noLabel": {
+          "en": "Article 183."
+        },
+        "chapter": {
+          "en": "Chapter XIII Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 184,
+        "text": {
+          "en": "Where a treaty concluded or acceded to by the People's Republic of China contains provisions differing from those of this Law, the provisions of the treaty shall apply, except for the clauses to which the People's Republic of China has declared reservations.\nMatters for which neither the laws of the People's Republic of China nor the treaties concluded or acceded to by the People's Republic of China contain provisions may be governed by international usage."
+        },
+        "noLabel": {
+          "en": "Article 184."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 185,
+        "text": {
+          "en": "The acquisition, transfer and extinguishment of ownership of a civil aircraft shall be governed by the law of the State of nationality registration of the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 185."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 186,
+        "text": {
+          "en": "A mortgage on a civil aircraft shall be governed by the law of the State of nationality registration of the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 186."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 187,
+        "text": {
+          "en": "A priority right in respect of a civil aircraft shall be governed by the law of the place where the court hearing the case is located."
+        },
+        "noLabel": {
+          "en": "Article 187."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 188,
+        "text": {
+          "en": "The parties to a civil air transport contract may choose the law applicable to the contract, except where the law provides otherwise; where the parties to the contract have not made a choice, the law of the State most closely connected with the contract shall apply."
+        },
+        "noLabel": {
+          "en": "Article 188."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 189,
+        "text": {
+          "en": "Compensation for damage caused by a civil aircraft to third parties on the ground shall be governed by the law of the place where the tort was committed.\nCompensation for damage caused by a civil aircraft over the high seas to third parties on the surface of the water shall be governed by the law of the place where the court hearing the case is located."
+        },
+        "noLabel": {
+          "en": "Article 189."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 190,
+        "text": {
+          "en": "The application of foreign law or international usage in accordance with the provisions of this Chapter shall not contravene the public interests of society of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 190."
+        },
+        "chapter": {
+          "en": "Chapter XIV Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 191,
+        "text": {
+          "en": "Whoever hijacks an aircraft by violence, coercion or other means shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 191."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 192,
+        "text": {
+          "en": "Whoever uses violence against persons on board a civil aircraft in flight, endangering flight safety, shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 192."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 193,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, conceals and carries explosives, detonators or other dangerous articles on board a civil aircraft, or consigns dangerous articles under the name of non-dangerous articles, shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law.\nWhere an enterprise or institution commits the offence specified in the preceding paragraph, it shall be fined, and the persons directly in charge and other persons directly responsible shall be investigated for criminal responsibility in accordance with the provisions of the preceding paragraph.\nWhoever conceals and carries firearms, ammunition or controlled knives on board a civil aircraft shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 193."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 194,
+        "text": {
+          "en": "Where a public air transport enterprise, in violation of the provisions of Article 101 of this Law, transports dangerous articles, the civil aviation authority under the State Council shall confiscate the illegal gains and may concurrently impose a fine of not more than one time the illegal gains.\nWhere a public air transport enterprise commits the act specified in the preceding paragraph and thereby causes a major accident, its illegal gains shall be confiscated, it shall be fined, and the persons directly in charge and other persons directly responsible shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 194."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 195,
+        "text": {
+          "en": "Whoever intentionally places dangerous articles on board a civil aircraft in service, or instigates another person to do so, in circumstances sufficient to destroy the civil aircraft and endanger flight safety, shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 195."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 196,
+        "text": {
+          "en": "Whoever intentionally transmits false information, disrupts the normal order of flight and causes major losses to public or private property shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 196."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 197,
+        "text": {
+          "en": "Whoever steals, or intentionally damages or displaces, navigation facilities in service, endangering flight safety and in circumstances sufficient to create a risk of the crash or destruction of a civil aircraft, shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 197."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 198,
+        "text": {
+          "en": "Whoever gathers a crowd to disrupt the order of a civil airport shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 198."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 199,
+        "text": {
+          "en": "Where aviation personnel derelict in their duty, or violate rules and regulations, thereby causing a major flight accident and serious consequences, they shall be investigated for criminal responsibility in accordance with the relevant provisions of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 199."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 200,
+        "text": {
+          "en": "Whoever violates the provisions of this Law and the circumstances are not serious enough for criminal punishment but for which a penalty for administration of public security should be imposed shall be penalised in accordance with the provisions of the Law on Penalties for Administration of Public Security."
+        },
+        "noLabel": {
+          "en": "Article 200."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 201,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 37 of this Law, a civil aircraft flies without a certificate of airworthiness, or a leased foreign civil aircraft flies without the certificate of airworthiness issued by the State of its original nationality registration having been examined and accepted by the civil aviation authority under the State Council or a new certificate of airworthiness having been issued, the civil aviation authority under the State Council shall order the flight to be stopped and confiscate the illegal gains, and may concurrently impose a fine of not less than one time and not more than five times the illegal gains; where there are no illegal gains, a fine of not less than 100,000 yuan and not more than 1,000,000 yuan shall be imposed.\nWhere an aircraft flies with an expired certificate of airworthiness or beyond the scope specified in the certificate of airworthiness, it shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 201."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 202,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 34 and paragraph 2 of Article 36 of this Law, a civil aircraft, its engines, propellers or equipment on board the civil aircraft for which no type certificate or type acceptance certificate has been obtained is put into production, the civil aviation authority under the State Council shall order the production to be stopped and confiscate the illegal gains, and may concurrently impose a fine of not more than one time the illegal gains; where there are no illegal gains, a fine of not less than 50,000 yuan and not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 202."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 203,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 35 of this Law, production or maintenance activities are carried on without obtaining a production licence or a maintenance licence, or where, in violation of the provisions of Article 92 and paragraph 2 of Article 147 of this Law, public air transport or commercial general aviation is operated without obtaining a public air transport operating licence or a general aviation operating licence, the civil aviation authority under the State Council may order the production, maintenance or operating activities to be stopped."
+        },
+        "noLabel": {
+          "en": "Article 203."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 204,
+        "text": {
+          "en": "Where an enterprise which has obtained the production licence or maintenance licence provided in Article 35 of this Law causes a serious accident due to quality problems in production or maintenance, the civil aviation authority under the State Council may revoke its production licence or maintenance licence."
+        },
+        "noLabel": {
+          "en": "Article 204."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 205,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 40 of this Law, a person engages in the corresponding civil aviation activities without obtaining an aviation personnel licence and a certificate of medical examination, the civil aviation authority under the State Council shall order the civil aviation activities to be stopped, and the person may not apply for the relevant licence and certificate within the time limit prescribed by the civil aviation authority under the State Council, and the unit to which the person belongs shall be imposed a fine of not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 205."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 206,
+        "text": {
+          "en": "Where any of the following violations occurs, the civil aviation authority under the State Council shall impose a warning on the pilot-in-command of the civil aircraft or suspend his licence for a period of one to six months; where the circumstances are relatively serious, it may revoke his licence:\n(1) the pilot-in-command, in violation of the provisions of paragraph 1 of Article 45 of this Law, takes off without carrying out an inspection of the civil aircraft;\n(2) the civil aircraft, in violation of the provisions of Article 75 of this Law, flies otherwise than along the air route and at the flight altitude designated by the air traffic control unit, or, in violation of the provisions of Article 79 of this Law, flies over a city."
+        },
+        "noLabel": {
+          "en": "Article 206."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 207,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 74 of this Law, a civil aircraft conducts flight activities without the permission of the air traffic control unit, the civil aviation authority under the State Council shall order the flight to be stopped and impose a fine of not less than 10,000 yuan and not more than 100,000 yuan on the owner or lessee of the civil aircraft, and shall impose a warning on the pilot-in-command of the civil aircraft or suspend his licence for a period of one to six months; where the circumstances are relatively serious, it may revoke his licence."
+        },
+        "noLabel": {
+          "en": "Article 207."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 208,
+        "text": {
+          "en": "Where the pilot-in-command or other crew member of a civil aircraft commits any of the following acts, the civil aviation authority under the State Council shall impose a warning or suspend his licence for a period of one to six months; where the act specified in item (2) or item (3) is committed, it may revoke his licence:\n(1) failing to carry his licence and certificate of medical examination in accordance with the provisions of Article 41 of this Law when performing a flight task;\n(2) leaving the civil aircraft in violation of the provisions of Article 48 of this Law when the civil aircraft is in distress;\n(3) performing a flight task in violation of the provisions of paragraph 2 of Article 77 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 208."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 209,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 80 of this Law, a civil aircraft drops articles in flight, the civil aviation authority under the State Council shall impose a warning and may impose a fine of not less than 2,000 yuan and not more than 20,000 yuan on the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 209."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 210,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 62 of this Law, a civil airport is opened for use without obtaining an airport use permit, the civil aviation authority under the State Council shall order the use to be stopped and confiscate the illegal gains, and may concurrently impose a fine of not more than one time the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 210."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 211,
+        "text": {
+          "en": "Where a public air transport enterprise or a general aviation enterprise violates the provisions of this Law and the circumstances are relatively serious, the civil aviation authority under the State Council may, in addition to penalising it in accordance with the provisions of this Law, revoke its operating licence.\nWhere non-commercial general aviation is carried on without filing with the civil aviation authority under the State Council, the civil aviation authority under the State Council shall order rectification; where rectification is not effected within the time limit, a fine of not more than 30,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 211."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 212,
+        "text": {
+          "en": "Where staff members of the civil aviation authority under the State Council and of regional civil aviation administrative bodies derelict in their duty, abuse their powers or engage in malpractices for personal gain and the act constitutes a crime, they shall be investigated for criminal responsibility in accordance with law; where the act does not constitute a crime, administrative sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 212."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 213,
+        "text": {
+          "en": "The unit of account referred to in this Law means the Special Drawing Right as defined by the International Monetary Fund; its amount in Renminbi shall be the amount in Renminbi calculated on the date of the court judgment, the date of the arbitral award or the date of the agreement between the parties, in accordance with the method prescribed by the competent foreign exchange authority for converting the Special Drawing Right of the International Monetary Fund into Renminbi."
+        },
+        "noLabel": {
+          "en": "Article 213."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 214,
+        "text": {
+          "en": "Where the State Council and the Central Military Commission make other provisions on the management of unmanned aircraft, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 214."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 215,
+        "text": {
+          "en": "This Law shall come into force on 1 March 1996."
+        },
+        "noLabel": {
+          "en": "Article 215."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0210'] = {
+    "lawId": "CN-LAW-0210",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 262 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to safeguard the sovereignty of the national airspace and the rights in civil aviation, ensure that civil aviation activities are conducted safely and in an orderly manner, protect the lawful rights and interests of all parties to civil aviation activities, and promote the high-quality development of civil aviation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The airspace above the territorial land and territorial waters of the People's Republic of China is the territorial airspace of the People's Republic of China. The People's Republic of China enjoys complete and exclusive sovereignty over its territorial airspace."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Civil aviation shall uphold the leadership of the Communist Party of China, adhere to a people-centred approach and to safety first, coordinate development and security, and provide strong support for comprehensively building a modern socialist country."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall exercise unified supervision and administration over civil aviation activities throughout the country and, in accordance with laws, administrative regulations and the decisions and orders of the State Council, issue, within the limits of its authority, provisions and decisions relating to civil aviation activities.\nThe regional civil aviation administrations established by the civil aviation authority of the State Council shall, in accordance with the authorisation of the civil aviation authority of the State Council, supervise and administer civil aviation activities in their respective regions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall, together with the relevant departments of the State Council and on the basis of the national economic and social development plan and the comprehensive transport plan, formulate a civil aviation development plan."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Investment in the fields of public air transport, general aviation, civil airports and air traffic management shall comply with laws, administrative regulations and the relevant provisions of the civil aviation authority of the State Council.\nWhere foreign investment is made in the civil aviation industry, the laws and administrative regulations on foreign investment and the relevant provisions of the State shall also be complied with."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State strengthens the construction of civil aviation infrastructure, encourages and supports scientific and technological research in civil aviation, develops civil aviation education, intensifies the training of civil aviation professionals, improves the level of civil aviation safety assurance and the quality of services, and promotes the high-quality development of civil aviation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Those engaged in civil aviation activities shall comply with the laws and regulations on ecological and environmental protection and the relevant provisions of the State, and shall control and reduce the emission of pollutants and greenhouse gases."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Units engaged in civil aviation production and business activities shall implement the principal responsibility for work safety, establish and improve work safety rules and regulations, ensure investment in safety, improve work safety conditions, establish and implement a dual preventive mechanism of tiered control of civil aviation safety risks and investigation and treatment of hidden dangers, and raise the level of work safety in civil aviation activities."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Units and individuals that have made outstanding contributions to the development of civil aviation, civil aviation safety and similar work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Civil aircraft as referred to in this Law means aircraft other than those used for military, customs, police and fire and rescue flight missions."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A civil aircraft that has undergone nationality registration in accordance with the law with the civil aviation authority of the State Council shall have the nationality of the People's Republic of China, and the civil aviation authority of the State Council shall issue a certificate of nationality registration.\nThe civil aviation authority of the State Council shall establish a nationality register of civil aircraft of the People's Republic of China to uniformly record the particulars of nationality registration of civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A civil aircraft may not have dual nationality. A civil aircraft whose foreign nationality has not been deregistered may not apply for nationality registration in the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Civil aircraft of State organs of the People's Republic of China shall undergo nationality registration of the People's Republic of China.\nThe following civil aircraft may undergo nationality registration of the People's Republic of China:\n(a) civil aircraft of legal persons and unincorporated organisations established in accordance with the laws of the People's Republic of China;\n(b) civil aircraft of Chinese citizens having domicile within the territory of the People's Republic of China;\n(c) other civil aircraft for which registration is permitted by the civil aviation authority of the State Council.\nFor a civil aircraft leased from outside the territory, where the lessee meets the provisions of the preceding paragraph and the crew of the civil aircraft is provided by the lessee, it may apply for nationality registration of the People's Republic of China, provided that the original nationality registration of the civil aircraft must first be deregistered."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A civil aircraft that has lawfully acquired the nationality of the People's Republic of China shall bear the prescribed nationality marks and registration marks.\nOnly after a civil aircraft has acquired the nationality of the People's Republic of China may it apply to the civil aviation authority of the State Council for a certificate of airworthiness."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 Nationality of Civil Aircraft"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The rights in civil aircraft provided by this Law include the rights in the airframe, engines, propellers, radio equipment and all other articles used on board the civil aircraft, whether installed thereon or temporarily detached therefrom."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The holder of rights in a civil aircraft may separately apply to the civil aviation authority of the State Council for registration of the following rights; without registration, such rights may not be asserted against a bona fide third party:\n(a) ownership of the civil aircraft;\n(b) the right to acquire and possess the civil aircraft by purchase;\n(c) the right to possess the civil aircraft under a financial lease contract or a lease contract with a lease term of six months or more;\n(d) mortgage over the civil aircraft.\nThe transfer of ownership of a civil aircraft shall be effected by a written contract.\nRegistration of a mortgage over a civil aircraft shall be applied for jointly by the mortgagee and the mortgagor to the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall establish a register of rights in civil aircraft. The particulars of registration of rights in the same civil aircraft shall be recorded in the same register of rights.\nThe particulars of registration of rights in civil aircraft shall be available to the public for inspection, copying or extraction."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Except where a civil aircraft is compulsorily auctioned in accordance with the law, the nationality registration or registration of rights of a civil aircraft may not be transferred abroad before the registered rights in the civil aircraft have been compensated or the holders of the rights in the civil aircraft have consented."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A priority right over a civil aircraft means the right of a creditor who, in accordance with Article 21 of this Law, makes a claim against the owner or lessee of the civil aircraft to be paid in priority out of the civil aircraft in respect of which the claim arose.\nA priority right over a civil aircraft shall be satisfied in priority to a mortgage over the civil aircraft.\nWhere a claim provided in Article 21 of this Law is transferred, the priority right over the civil aircraft shall be transferred together with it."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The following claims shall carry a priority right over a civil aircraft:\n(a) remuneration for salvage of the civil aircraft;\n(b) necessary expenses for the custody and maintenance of the civil aircraft.\nAmong the claims provided in the preceding paragraph, those arising later shall be satisfied first; the creditor shall, within three months from the date of completion of the salvage or custody and maintenance work, apply to the civil aviation authority of the State Council for registration of its claim."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A priority right over a civil aircraft shall be exercised through the arrest of the civil aircraft giving rise to the priority right by a people's court."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A priority right over a civil aircraft shall terminate upon the expiry of three months from the date of completion of the salvage or custody and maintenance work, except where the creditor has registered its claim in accordance with Article 21 of this Law and any of the following circumstances exists:\n(a) the creditor and the debtor have reached agreement on the amount of the claim;\n(b) an action relating to the claim has been instituted.\nA priority right over a civil aircraft shall not be extinguished by the transfer of ownership of the civil aircraft, except where the civil aircraft is compulsorily auctioned in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Expenses incurred in the enforcement of a judgment of a people's court and in the auction process for the common benefit of the creditors shall be paid in priority out of the proceeds of the auction of the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Rights in Civil Aircraft"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Institutions engaged in the design and design changes of civil aircraft and their engines and propellers (hereinafter collectively referred to as civil aviation products) and of civil aviation product parts shall, in accordance with the provisions of the civil aviation authority of the State Council, establish a corresponding design assurance system and apply to the civil aviation authority of the State Council for a design organisation certificate.\nAn institution holding a design organisation certificate may accept entrustment by the civil aviation authority of the State Council to provide technical inspection and other related services."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "To design a civil aviation product, a type certificate shall be applied for in accordance with the provisions of the civil aviation authority of the State Council.\nTo design civil aviation product parts, a design approval certificate shall be applied for in accordance with the provisions of the civil aviation authority of the State Council.\nWhere a civil aviation product that has obtained a type certificate issued by a foreign country is imported into China or produced within the territory of China for the first time, a type acceptance certificate shall be applied for in accordance with the provisions of the civil aviation authority of the State Council.\nWhere civil aviation product parts that have obtained a design approval certificate issued by a foreign country are imported into China or produced within the territory of China for the first time, a design acceptance certificate shall be applied for in accordance with the provisions of the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Changes to the design of a civil aviation product that has obtained the corresponding certificate in accordance with paragraphs 1 and 3 of Article 26 of this Law shall be made by an institution holding a design organisation certificate, and a supplemental type certificate or a design change approval certificate shall be applied for in accordance with the provisions of the civil aviation authority of the State Council, except where the change is a minor design change.\nWhere a design change to a civil aviation product for which a supplemental type certificate has been issued by a foreign country is to be implemented on a civil aircraft having the nationality of the People's Republic of China, a supplemental type acceptance certificate shall be applied for from the civil aviation authority of the State Council.\nAn institution holding a design organisation certificate may issue a certificate of conformity for minor design changes made by itself.\nMinor design change as referred to in this Law means a design change that has no significant effect on the weight, balance, structural strength, reliability, operating characteristics or other characteristics of a civil aviation product relating to its airworthiness.\nWhere an approved design or design change is transferred, the transferee shall hold a design organisation certificate appropriate to the design or design change to be transferred."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Institutions engaged in the production of civil aviation products and parts shall, in accordance with the provisions of the civil aviation authority of the State Council, establish a production quality system and apply for a production organisation certificate.\nAn institution holding a production organisation certificate may, within the scope of the approval, issue certificates of conformity for the civil aviation products and parts produced by itself, and may accept entrustment by the civil aviation authority of the State Council to provide technical inspection and other related services."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where civil aviation product parts are only designed and produced so that, when installed on a civil aviation product that has obtained a type certificate or type acceptance certificate, they constitute only a minor design change, and no design organisation certificate or production organisation certificate is required in accordance with the provisions of the civil aviation authority of the State Council, a parts manufacturer certificate shall be applied for from the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Institutions engaged in the maintenance of civil aviation products and parts shall apply for a maintenance organisation certificate in accordance with the provisions of the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A civil aircraft having the nationality of the People's Republic of China may fly only after it has applied for and obtained a certificate of airworthiness in accordance with the provisions of the civil aviation authority of the State Council. Where a certificate of airworthiness has not yet been obtained and a flight is necessary for purposes such as production test flights, flight activities may be conducted within the permitted scope after a special flight permit has been applied for and obtained in accordance with the provisions of the civil aviation authority of the State Council.\nWhere a civil aircraft of foreign nationality is leased to conduct flight activities prescribed by the civil aviation authority of the State Council, it may fly only after the certificate of airworthiness issued by the State of original registration has been reviewed and accepted, or a certificate of airworthiness has been applied for and obtained, in accordance with the provisions of the civil aviation authority of the State Council.\nFor the export of civil aircraft, an export certificate of airworthiness may be applied for from the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Units engaged in the design and production of civil aviation chemical products and in the supply and testing of aviation fuel shall apply for the relevant certificates in accordance with the provisions of the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The owner or lessee of a civil aircraft shall use the civil aircraft within the scope of use prescribed in the certificate of airworthiness, carry out the maintenance and servicing of the civil aircraft properly and ensure that the civil aircraft remains airworthy; where civil aviation products and parts require maintenance, it shall be carried out by institutions or personnel holding the relevant approval in accordance with the provisions of the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Those engaged in the design, production, import, maintenance and flight activities of civil unmanned aircraft shall, in accordance with the relevant provisions of the State, apply to the civil aviation authority of the State Council for airworthiness approval, except where airworthiness approval is not required in accordance with provisions.\nInstitutions engaged in the production of civil unmanned aircraft shall, in accordance with the relevant provisions of the State, assign a unique product identification code to the unmanned aircraft they produce."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State Council shall formulate provisions on the administration of airworthiness of civil aircraft in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Airworthiness Management of Civil Aircraft"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Aviation personnel as referred to in this Law means the following flight crew and ground personnel engaged in civil aviation activities:\n(a) flight crew, including pilots, flight engineers, cabin crew members and aviation security officers;\n(b) ground personnel, including civil aircraft maintenance personnel, air traffic controllers, flight dispatchers, aviation telecommunications personnel, aeronautical information officers and aeronautical meteorological personnel."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Cabin crew members shall receive specialised training and obtain a training certificate issued by the public air transport enterprise; other aviation personnel shall receive specialised training and, after passing the examination, obtain a licence issued by the civil aviation authority of the State Council before performing the corresponding duties.\nBefore obtaining a licence or training certificate, flight crew and air traffic controllers shall also undergo examination by a medical examination institution meeting the requirements of the civil aviation authority of the State Council and obtain a medical certificate issued by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "When engaged in flight activities, pilots, flight engineers and aviation security officers shall carry their licences and medical certificates, and cabin crew members shall carry their training certificates and medical certificates, and shall submit them for inspection by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Aviation personnel shall, in accordance with the provisions of the civil aviation authority of the State Council, receive training and periodic or aperiodic examinations and assessments, and may continue to perform the corresponding duties only after passing the examinations and assessments.\nThe units to which aviation personnel belong shall, in accordance with provisions, establish comprehensive labour protection and health management systems for aviation personnel, and provide guarantees for aviation personnel to maintain good physical and psychological conditions."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Institutions providing licence and qualification training for civil aircraft pilots, maintenance personnel and flight dispatchers shall apply for the corresponding certificate in accordance with the provisions of the civil aviation authority of the State Council, and shall conduct training within the scope of the approval in accordance with the training syllabus."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Flight simulation training devices used to meet the requirements of training, examination or checking of civil aircraft pilots may be put into use only after they have passed the appraisal of the civil aviation authority of the State Council and obtained a flight simulation training device qualification certificate."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The crew of a civil aircraft shall consist of the pilot-in-command and other flight crew members. The pilot-in-command shall be a pilot having the skill and experience to pilot that type of civil aircraft independently.\nThe composition of the crew and the number of personnel shall comply with the provisions of the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The operation of a civil aircraft shall be the responsibility of the pilot-in-command, who shall strictly perform his duties and protect the safety of the civil aircraft, the persons and property carried thereon.\nOrders issued by the pilot-in-command within the scope of his functions and powers shall be obeyed by all persons carried on board the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Before flight, the pilot-in-command shall carry out the necessary inspection of the civil aircraft; no take-off may be made without inspection.\nWhere the pilot-in-command finds that the civil aircraft, airport, meteorological conditions or other factors do not comply with provisions and cannot ensure flight safety, he has the right to refuse take-off."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "During flight, in respect of any act of damaging the civil aircraft, disrupting order on board the civil aircraft, endangering the safety of persons or property carried on board the civil aircraft, or otherwise endangering flight safety, the pilot-in-command has the right, on the premise of ensuring safety, to take reasonable measures including necessary restraint measures, and may when necessary request or authorise passengers to provide assistance.\nDuring flight, in special circumstances, the pilot-in-command has the right to take dispositions in respect of the civil aircraft in order to ensure the safety of the civil aircraft and the persons carried thereon."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the pilot-in-command finds that a crew member is unsuitable to perform the flight mission, he has the right to propose a change in order to ensure flight safety."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a civil aircraft is in distress, the pilot-in-command has the right to take all necessary measures and to direct the crew members and other persons on board the civil aircraft to take rescue measures. In an emergency where it is necessary to evacuate the civil aircraft in distress, the pilot-in-command shall take measures to first organise the safe departure of passengers from the civil aircraft; without the permission of the pilot-in-command, crew members may not leave the civil aircraft without authorisation; the pilot-in-command shall be the last to leave the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an accident occurs to a civil aircraft, the pilot-in-command shall report the circumstances of the accident promptly and truthfully to the civil aviation authority of the State Council, either directly or through the air traffic control unit."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the pilot-in-command receives a distress signal from a vessel or another aircraft, or discovers a vessel, aircraft or persons in distress, he shall promptly report the distress situation to the nearest air traffic control unit and render possible reasonable assistance."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "During flight, where the pilot-in-command is unable to perform his duties for any reason, the pilot next in rank to the pilot-in-command shall act as pilot-in-command; before take-off from the next stop, the owner or lessee of the civil aircraft shall designate a new pilot-in-command to take over."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "For a civil aircraft with only one pilot and no requirement for other flight crew, the provisions of this Section on the pilot-in-command shall apply to that pilot."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Crew"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Civil airport as referred to in this Law means a defined area used by civil aircraft for take-off, landing, taxiing, parking and other activities, including the ancillary buildings, installations and facilities.\nCivil airports are divided into public air transport airports (hereinafter referred to as transport airports) and general aviation airports (hereinafter referred to as general airports).\nThe State Council and the Central Military Commission shall separately formulate administrative measures for airports used jointly for military and civil purposes.\nThe use and administration of temporary take-off and landing sites shall be governed by the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The planning, construction and operation of civil airports shall be arranged in a coordinated manner and rationally laid out, shall lawfully meet national defence requirements, raise the level of safety and operational efficiency, and promote coordination between civil aviation development and ecological and environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Local people's governments at or above the county level shall incorporate the sites and master plans of civil airports within their respective administrative regions into the territorial spatial plan at the corresponding level for coordinated arrangement, and shall, in accordance with the needs of airport operational safety, national defence requirements and ecological and environmental protection, lawfully exercise planning control over the surrounding areas and lawfully designate areas in which the construction of noise-sensitive buildings is prohibited and areas in which it is restricted."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "For the construction or expansion of a civil airport, a project construction announcement shall be issued by the local people's government at or above the county level at the place where the civil airport is located.\nThe announcement provided in the preceding paragraph shall be published in the principal local media and posted in the areas surrounding the airport to be constructed or expanded."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The relevant local people's government at the place where a civil airport is located shall, together with the regional civil aviation administration, designate an obstacle limitation area for the civil airport in accordance with the relevant provisions of the State and make it public.\nThe following acts obstructing the obstacle limitation protection of a civil airport shall be prohibited within the lawfully designated civil airport area and obstacle limitation area:\n(a) constructing shooting ranges, warehouses for highly explosive materials or other buildings or facilities affecting flight safety;\n(b) constructing buildings or facilities not meeting the obstacle limitation requirements of the airport;\n(c) installing lights, lasers, signs or objects affecting the use of the airport's visual aids to navigation;\n(d) planting vegetation affecting flight safety or affecting the use of the airport's navigation aids;\n(e) releasing birds affecting flight safety, launching unmanned free balloons, tethered balloons or other airborne objects;\n(f) emitting large quantities of smoke, dust, flames, exhaust gas or other substances affecting flight safety;\n(g) other acts prohibited by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The local radio administration at the place where a civil airport is located shall, together with the regional civil aviation administration, designate an electromagnetic environment protection area for the civil airport in accordance with the relevant provisions and standards of the State on radio administration and make it public.\nThe following acts affecting the electromagnetic environment of a civil airport shall be prohibited within the lawfully designated electromagnetic environment protection area of the civil airport:\n(a) establishing or using radio stations without approval;\n(b) establishing or using equipment, instruments or devices affecting the use of civil aviation radio stations;\n(c) constructing or installing railways, highways, dams, power facilities, overhead metal wires, metal stockpiles or other buildings or facilities affecting the use of civil aviation radio stations;\n(d) carrying out earth excavation, sand extraction, stone quarrying or other activities altering the topography and landforms that affect the propagation of civil aviation radio signals;\n(e) other acts prohibited by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, before the issuance of the project construction announcement of a civil airport, there exist within the lawfully designated civil airport area, obstacle limitation area or electromagnetic environment protection area buildings, structures, trees, lighting installations, radio stations and other obstacles that may affect flight safety, they shall be removed within the prescribed time limit; where the party concerned fails to remove them within the time limit and still fails to do so after being urged, the local people's government at or above the county level at the place where the airport is located shall lawfully remove them. Compensation or other remedial measures shall be lawfully given for the losses thereby caused."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, after the issuance of the project construction announcement of a civil airport, any unit or individual, in violation of this Law and the relevant regulations, constructs, plants or installs within the lawfully designated civil airport area, obstacle limitation area or electromagnetic environment protection area any obstacle that may affect flight safety, the local people's government at or above the county level at the place where the airport is located shall make an administrative decision requiring the party concerned to perform obligations such as removing the obstruction and restoring the original state within the prescribed time limit; where the party concerned fails to perform within the time limit and still fails to do so after being urged, the local people's government at or above the county level at the place where the airport is located shall lawfully perform the obligations on its behalf. The losses caused by the obstacle and the expenses of performance on behalf shall be borne by the unit or individual that constructed, planted or installed the obstacle."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The operator of a civil airport shall, in accordance with the provisions of the civil aviation authority of the State Council, install the necessary facilities and adopt appropriate measures to maintain the operating order of the civil airport and ensure the operational safety of the civil airport."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The State shall lawfully designate unmanned aircraft control airspace at civil airports and in a certain area surrounding them and make it public.\nCivil airports shall possess the corresponding capability to guard against and deal with unmanned aircraft and shall lawfully be equipped with the necessary detection and countermeasure devices, which shall be used strictly in accordance with the prescribed authority and procedures under the supervision and guidance of the relevant authorities."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The time slots for the operation of civil aircraft at civil airports shall be coordinated and allocated within the airport capacity in accordance with the principles of openness, fairness and impartiality. The specific administrative measures shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Civil aircraft using civil airports and their navigation aids shall pay usage fees and service fees; the rates of the usage fees and service fees shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a civil airport is abandoned or converted to other uses, the formalities for reporting for approval shall be completed in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The layout and construction plan of transport airports throughout the country shall be formulated by the development and reform department of the State Council together with the civil aviation authority of the State Council, and shall be organised for implementation after approval in accordance with the procedures prescribed by the State.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the national layout and construction plan of transport airports, formulate the construction plan of transport airports within their respective administrative regions, and shall, after reporting it for approval in accordance with the procedures prescribed by the State, incorporate the construction of transport airports into the national economic and social development plan at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Airports"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The construction, reconstruction and expansion of transport airports shall conform to the lawfully formulated transport airport layout and construction plan and the relevant technical standards, and shall be implemented after reporting for approval in accordance with the relevant provisions of the State.\nConstruction projects of transport airports that do not conform to the lawfully formulated transport airport layout and construction plan shall not be approved."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Airports"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "A transport airport may be opened for operation only after it has lawfully obtained an airport operation licence."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Airports"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The establishment of an international airport shall be reported by the people's government of the province, autonomous region or municipality directly under the Central Government at the place where the airport is located to the State Council for approval.\nAn international airport shall meet the conditions for international air navigation, and the inspection work at the port shall be undertaken in accordance with the law by port inspection agencies such as the immigration administration and the customs. The construction of port inspection infrastructure shall comply with the national standards for the construction of port inspection infrastructure and the national standards for core capacities in port public health.\nThe opening and use of an international airport shall be publicly announced by the civil aviation authority of the State Council to foreign countries; the information on international airports shall be provided uniformly to foreign countries by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 2 Transport Airports"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "General airports shall be subject to classified and tiered administration according to the type of business, scale and standards of construction, and the specific measures shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 3 General Aviation Airports"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, taking comprehensive account of conditions such as population, land, airspace resources, transport and industrial base within their respective administrative regions, promote the construction of general airports in the light of local conditions and reasonably determine the scale and standards of construction of general airports."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 3 General Aviation Airports"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The development and reform department of the people's government of a province, autonomous region or municipality directly under the Central Government shall organise the formulation of the layout plan of general airports within its administrative region and, after obtaining the consent of the regional civil aviation administration and other relevant units, submit it to the people's government of the province, autonomous region or municipality directly under the Central Government for approval.\nThe construction, reconstruction and expansion of general airports shall be approved, verified or filed by the people's government of the province, autonomous region or municipality directly under the Central Government in accordance with the layout plan of general airports and the relevant provisions of the State.\nThe relevant departments of local people's governments at or above the county level shall strengthen supervision and administration over the quality and work safety of general airport construction projects within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 3 General Aviation Airports"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "A general airport open to the public as prescribed by the civil aviation authority of the State Council may be opened for operation only after it has lawfully obtained an airport operation licence.\nOther general airports shall be filed in accordance with the provisions of the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 3 General Aviation Airports"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The State applies unified management to airspace. The national air traffic management body shall manage the national airspace resources in accordance with laws, administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 1 Airspace Management"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The division of airspace shall take into account the needs of civil aviation and national defence security, the development of the low-altitude economy and the public interest, so that the airspace is used rationally, safely, fully and effectively."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 1 Airspace Management"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The specific measures for airspace management shall be formulated by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 1 Airspace Management"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Within a designated controlled airspace, one air traffic control unit shall be responsible for the air traffic control of aircraft within that airspace."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "A civil aircraft conducting flight activities in controlled airspace shall obtain the permission of the air traffic control unit in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "A civil aircraft engaged in flight shall carry the following documents:\n(a) the certificate of nationality registration of the civil aircraft;\n(b) the certificate of airworthiness of the civil aircraft;\n(c) the corresponding licences, training certificates and medical certificates of the crew members;\n(d) the journey log book of the civil aircraft;\n(e) for a civil aircraft equipped with radio equipment, its radio station licence;\n(f) for a civil aircraft carrying passengers, a list of the names of the passengers carried and their places of departure and destinations;\n(g) for a civil aircraft carrying cargo, the manifest and detailed declaration of the cargo carried;\n(h) other documents that should be carried according to the flight mission.\nWhere a civil aircraft fails to carry the documents listed in the preceding paragraph in accordance with provisions, the civil aviation authority of the State Council or the regional civil aviation administration authorised by it may prohibit the civil aircraft from taking off."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "A civil aircraft shall fly along the air routes and at the flight altitudes designated by the air traffic control unit; where it is truly necessary to deviate from the designated air route or change the flight altitude for any reason, the permission of the air traffic control unit shall be obtained.\nA civil aircraft shall comply with the airport flight procedures and operating standards prescribed by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "A civil aircraft flying within the territory of the People's Republic of China must comply with the unified flight rules.\nA civil aircraft conducting visual flight shall comply with the visual flight rules and maintain a safe distance from other aircraft and ground obstacles.\nA civil aircraft conducting instrument flight shall comply with the instrument flight rules.\nThe flight rules shall be formulated by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The flight time, duty time and rest time of the crew members of a civil aircraft shall comply with the provisions of the civil aviation authority of the State Council.\nCrew members of a civil aircraft whose working capacity is impaired by alcoholic beverages, narcotics or other drugs may not perform flight missions."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "A civil aircraft may not fly into prohibited airspace except with special approval in accordance with the relevant provisions of the State, and may not fly into restricted airspace except in compliance with the prescribed restrictive conditions.\nThe prohibited airspace and restricted airspace provided in the preceding paragraph shall be designated in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "A civil aircraft may not fly over a city, except in any of the following circumstances:\n(a) where it is necessary for take-off, landing or the designated air route;\n(b) where the flight altitude is sufficient for the aircraft to leave the airspace over the city in an emergency without endangering the safety of persons and property on the ground;\n(c) where approval has been obtained in accordance with the procedures prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "During flight, a civil aircraft may not drop articles, except in any of the following circumstances:\n(a) where it is necessary for flight safety;\n(b) where it is necessary for the performance of rescue missions or other flight missions conforming to the public interest."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "A civil aircraft may not fly into or out of the territorial airspace of the People's Republic of China without approval.\nIn respect of a civil aircraft that is flying into or out of the territorial airspace of the People's Republic of China without approval, the relevant departments have the right to take necessary measures according to the specific circumstances to stop it."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 2 Flight Management"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Air traffic control units shall, according to the division of duties, provide air traffic services to aircraft in flight, including air traffic control service, flight information service and alerting service.\nAir traffic control service is provided for the purpose of preventing collisions between civil aircraft and other aircraft or obstacles, maintaining air traffic order and improving traffic efficiency.\nFlight information service is provided for the purpose of providing information and advice conducive to the safe and efficient conduct of flights.\nAlerting service is provided for the purpose of notifying the relevant departments when a civil aircraft requires search and rescue and assisting in search and rescue as required."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where an air traffic control unit finds that a civil aircraft has deviated from the designated air route or lost its heading, it shall promptly take all necessary measures to bring it back to the air route."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "The duty time of air traffic controllers may not exceed the time limit prescribed by the civil aviation authority of the State Council.\nAn air traffic controller whose working capacity is impaired by alcoholic beverages, narcotics or other drugs may not perform air traffic control work."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Air traffic control units, public air transport enterprises, general aviation enterprises engaged in scheduled transport and other units shall adopt effective measures to keep abreast of the flight dynamics of civil aircraft in real time and ensure the safety of civil aviation activities."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The necessary communication, navigation, surveillance and meteorological equipment meeting the standards and technical specifications prescribed by the State shall be installed in airspace.\nCommunication, navigation and surveillance equipment shall obtain the equipment type licence issued by the civil aviation authority of the State Council, and the specific catalogue shall be formulated by the civil aviation authority of the State Council.\nCommunication, navigation and surveillance equipment used for civil aviation air traffic services shall meet the conditions for open operation; navigation equipment used for civil aviation air traffic services shall also be subject to an application to the civil aviation authority of the State Council for an open operation permit.\nCommunication, navigation and surveillance equipment that requires flight calibration and verification in accordance with the provisions of the civil aviation authority of the State Council may be put into open operation only after passing the flight calibration and verification."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Natural obstacles in airspace affecting flight safety shall be marked on aeronautical charts; artificial obstacles in airspace affecting flight safety shall be provided with aviation obstacle lights and markings, which shall be kept in normal condition."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Within a belt of 30 kilometres from the boundary of an air route, the construction of shooting ranges and other facilities that may affect flight safety shall be prohibited, except for shooting ranges for flat-trajectory light weapons.\nThe construction of fixed or temporary anti-aircraft firing ranges outside the belt provided in the preceding paragraph shall be approved in accordance with the relevant provisions of the State; the firing direction of an anti-aircraft firing range may not cross an air route."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Outside a lawfully designated civil airport and its obstacle limitation area, aviation obstacle lights and markings shall be provided for tall buildings or facilities that may affect flight safety in accordance with the relevant provisions of the State, and shall be kept in normal condition."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Any activity that may affect flight safety shall be conducted only after approval has been lawfully obtained and the necessary measures to ensure flight safety have been taken."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall, in accordance with the law, administer civil aviation radio stations and the dedicated frequencies allocated for use by the civil aviation system, and shall formulate the relevant administrative provisions.\nRadio stations and other instruments and devices used by any unit or individual may not interfere with the normal use of dedicated civil aviation radio frequencies. Where harmful interference is caused to a dedicated civil aviation radio frequency, the unit or individual concerned shall promptly eliminate the interference; before the interference is eliminated, use of the radio station or other instrument or device shall be discontinued.\nRadio administration bodies shall strengthen monitoring and, upon finding that a dedicated civil aviation radio frequency is subject to harmful interference, shall require the unit or individual concerned to promptly take disposal measures such as eliminating the interference."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Information and communication enterprises shall give priority to providing services for civil aviation telecommunications transmission.\nThe competent meteorological department of the State Council shall provide the necessary meteorological materials and forecast products to civil aviation meteorological institutions."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Civil aircraft using air traffic service facilities shall pay usage fees and service fees; the rates of the usage fees and service fees shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 3 Flight Support"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Public air transport means civil aviation activities carried out for profit using civil aircraft prescribed by the civil aviation authority of the State Council to transport passengers, baggage, mail or cargo."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "This Chapter shall apply to the transport of passengers, baggage or cargo operated by public air transport enterprises using civil aircraft, including gratuitous transport.\nThis Chapter shall not apply to the transport of mail carried out using civil aircraft.\nFor transport by multimodal means, the provisions of this Chapter shall apply to the air transport segment thereof."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Domestic air transport as referred to in this Law means transport under an air transport contract concluded between the parties where the place of departure, the agreed place of stopover and the place of destination of the transport are all within the territory of the People's Republic of China.\nInternational air transport as referred to in this Law means transport under an air transport contract concluded between the parties where, irrespective of whether the transport is interrupted or transhipped, one of the place of departure, the place of destination or the agreed place of stopover of the transport is not within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Where the parties to an air transport contract regard the transport performed by several successive air carriers as a single operation, it shall be deemed an indivisible transport, irrespective of whether it is concluded in the form of one contract or several contracts."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "An enterprise engaging in public air transport shall apply to the civil aviation authority of the State Council for a public air transport enterprise operating licence and an operating certificate."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "To obtain a public air transport enterprise operating licence, the following conditions shall be met:\n(a) being an enterprise legal person established within the territory of China whose legal representative is a Chinese citizen;\n(b) having civil aircraft and aviation personnel appropriate to the business activities applied for;\n(c) the controlling shareholder and the actual controller having sound financial status and good credit records and no record of major violations of laws and regulations in the most recent three years;\n(d) for those engaging in the business of transporting passengers and baggage, having paid-up registered capital of not less than 600 million yuan, and for those engaging in the business of transporting cargo and mail, having paid-up registered capital of not less than 400 million yuan;\n(e) the senior managers possessing the corresponding professional knowledge, management experience and capability;\n(f) having completed the preparatory procedure prescribed by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "To obtain a public air transport operating certificate, the following conditions shall be met:\n(a) having the management personnel, aviation personnel and other professionals with the corresponding qualifications necessary for safe operation;\n(b) having civil aircraft and other equipment, facilities and aviation activity sites meeting the requirements for safe operation;\n(c) being equipped with the manuals and other materials necessary for safe operation;\n(d) having established the necessary safety operation management system, including the organisational structure, work processes and norms.\nA public air transport enterprise shall operate in accordance with the provisions of the operating approval."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall, within six months from the date of accepting an application for a public air transport enterprise operating licence and within 12 months from the date of accepting an application for a public air transport operating certificate, make a decision to approve or not to approve. Where it decides to approve, it shall issue the corresponding licence or certificate; where it decides not to approve, it shall inform the applicant in writing and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a public air transport enterprise applies to operate air routes for scheduled air services (hereinafter referred to as scheduled services), or suspends or terminates the operation of air routes, it shall report the matter to the civil aviation authority of the State Council for approval.\nA public air transport enterprise operating scheduled services shall publish its timetable."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The items of operating charges of public air transport enterprises shall be determined by the civil aviation authority of the State Council.\nThe administrative measures for the tariffs of domestic air transport shall be formulated by the civil aviation authority of the State Council together with the pricing department of the State Council, and shall be implemented after being reported to the State Council for approval.\nThe tariffs of international air transport shall be determined in accordance with the agreements and arrangements concluded between the Government of the People's Republic of China and foreign governments; in the absence of such agreements or arrangements, they shall be determined with reference to the market prices of international air transport."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where a public air transport enterprise engages in non-scheduled transport, it shall obtain the approval of the civil aviation authority of the State Council and may not affect the normal operation of scheduled services."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "A public air transport enterprise may not transport articles the transport of which is prohibited by laws or administrative regulations.\nWithout the approval of the civil aviation authority of the State Council, a public air transport enterprise may not transport combat munitions or combat materials."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a public air transport enterprise engages in the transport of dangerous goods, it shall comply with the relevant provisions of the State and obtain a permit for the air transport of dangerous goods.\nThe catalogue of dangerous goods for air transport shall be prescribed and published by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "A public air transport enterprise may not transport passengers who refuse to undergo security inspection, and may not transport baggage that has not undergone security inspection in violation of the relevant provisions of the State.\nA public air transport enterprise shall, in accordance with the provisions of the civil aviation authority of the State Council, conduct security inspection of the cargo carried or adopt other measures to ensure safety."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "The civil aircraft of a public air transport enterprise engaged in international air transport and the persons, baggage and cargo carried thereon shall be subject to the inspection and quarantine lawfully carried out by the competent departments such as the immigration administration and the customs; inspection and quarantine shall avoid unnecessary delay.\nWhere the relevant competent departments lawfully prohibit the entry, exit or transit of persons, baggage or cargo, they shall notify the public air transport enterprise."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "A public air transport enterprise shall, in accordance with the provisions of the relevant laws and administrative regulations, give priority to the transport of mail."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "A public air transport enterprise shall, in accordance with the law, take out liability insurance or obtain the corresponding financial guarantee in respect of the passengers, baggage and cargo of the public air transport it operates and the liability for compensation it may bear to third parties."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Section 2 Public Air Transport Enterprises"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "A carrier transporting passengers shall issue a passenger ticket.\nThe passenger ticket shall include the place of departure, the place of destination and the place of stopover, as well as other content prescribed by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "A passenger ticket is prima facie evidence of the conclusion of the contract of air carriage of passengers and of the conditions of the contract of carriage.\nThe failure of a passenger to present the passenger ticket, the non-conformity of the passenger ticket with provisions or the loss of the passenger ticket shall not affect the existence or validity of the contract of carriage."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "A carrier shall issue a baggage check to the passenger for each piece of checked baggage.\nWhere a carrier carries checked baggage, the baggage check may be included in or combined with the passenger ticket. The baggage check shall include the following content:\n(a) the place of departure, the place of destination and the place of stopover;\n(b) the number of pieces and the weight of the checked baggage;\n(c) where it is necessary to declare the interest in delivery of the checked baggage at the place of destination, the amount declared.\nA baggage check is prima facie evidence of the consignment of baggage and of the conditions of the contract of carriage.\nThe failure of a passenger to present the baggage check, the non-conformity of the baggage check with provisions or the loss of the baggage check shall not affect the existence or validity of the contract of carriage."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "For the transport of cargo, an air waybill shall be issued, which shall take effect after being signed and sealed by both parties.\nThe failure of the consignor to present the air waybill, the non-conformity of the air waybill with provisions or the loss of the air waybill shall not affect the existence or validity of the contract of carriage."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "The consignor shall fill in the air waybill and deliver it together with the cargo to the carrier.\nWhere the carrier fills in the air waybill at the request of the consignor, it shall, in the absence of contrary evidence, be deemed to have filled it in on behalf of the consignor."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "The content to be included in an air waybill shall be prescribed by the civil aviation authority of the State Council and shall include at least the following:\n(a) the place of departure, the place of destination and the place of stopover;\n(b) the name and weight of the cargo."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "The consignor shall be responsible for the correctness of the particulars and statements relating to the cargo in the air waybill.\nWhere the particulars and statements in the air waybill do not conform to provisions, are incorrect or are incomplete and thereby cause losses to the carrier or to others for whom the carrier is responsible, the consignor shall bear liability for compensation.\nWhere the particulars and statements filled in the air waybill by the carrier do not conform to provisions, are incorrect or are incomplete and thereby cause losses to the consignor or to others for whom the consignor is responsible, the carrier shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "An air waybill is prima facie evidence of the conclusion of the contract of air carriage of cargo, of the conditions of carriage and of the acceptance of the cargo by the carrier.\nThe particulars in the air waybill relating to the weight, dimensions, packing and number of packages of the cargo are prima facie evidence. Except where they have been checked jointly by the carrier and the consignor in person and the air waybill states that they have been checked or contains a statement on the apparent condition of the cargo, the particulars in the air waybill relating to the quantity, volume and condition of the cargo do not constitute evidence against the carrier."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "A consignor, on condition of performing the obligations prescribed in the contract of air carriage of cargo, has the right to take back the cargo at the airport of departure or the airport of destination, or to stop the transport at an intermediate stopover, or to require delivery of the cargo at the place of destination or in the course of transport to a consignee other than the consignee specified in the air waybill, or to require the return of the cargo to the airport of departure; however, the consignor may not, by exercising such right, cause losses to the carrier or other consignors, and shall reimburse the expenses thereby incurred.\nWhere the consignor's instructions cannot be carried out, the carrier shall promptly notify the consignor.\nWhere a carrier disposes of the cargo in accordance with the consignor's instructions without requiring the consignor to produce the air waybill held by the consignor and thereby causes losses to the lawful holder of the air waybill, the carrier shall bear liability, without prejudice to the carrier's right of recourse against the consignor.\nThe rights of the consignor shall cease when the rights of the consignee commence in accordance with Article 124 of this Law; however, where the consignee refuses to accept the cargo, or the carrier is unable to contact the consignee, the consignor shall resume its right of disposal of the cargo."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "Except in the circumstances listed in Article 123 of this Law, the consignee has the right, upon arrival of the cargo at the place of destination and after payment of the amounts payable and performance of the conditions of carriage, to require the carrier to deliver the cargo.\nUnless otherwise agreed, the carrier shall notify the consignee immediately after the arrival of the cargo, and the consignee shall take delivery promptly. Where the consignee takes delivery late, it shall pay the carrier expenses such as storage fees.\nWhere the carrier acknowledges that the cargo has been lost, or the cargo has still not arrived seven days after the date on which it should have arrived, the consignee has the right to assert its rights against the carrier on the basis of the contract of air carriage of cargo.\nThe provisions of Article 123 of this Law and of this Article shall not affect the relationship between the consignor and the consignee, nor the relationship between third parties deriving rights from the consignor or the consignee."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "A consignor and a consignee, on condition of performing the obligations prescribed in the contract of air carriage of cargo, may, whether for their own benefit or for the benefit of others, separately exercise in their own names the rights conferred by Articles 123 and 124 of this Law.\nAny contractual clause different from the provisions of Articles 123 and 124 of this Law shall be stated in the air waybill."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "The consignor shall provide the necessary particulars and documents so that the relevant formalities prescribed by laws and administrative regulations may be completed before delivery of the cargo to the consignee; where losses are caused because such particulars or documents are absent, or are insufficient or do not conform to provisions, the consignor shall be liable to the carrier, except where the losses are caused by the fault of the carrier, its servants or agents.\nUnless otherwise provided by laws or administrative regulations, the carrier is not obliged to check the particulars or documents provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Transport documents such as passenger tickets, baggage checks and air waybills shall be in written form.\nWritten form as referred to in the preceding paragraph includes contracts, letters, telegrams, telexes, faxes and data messages and other forms in which the content contained can be tangibly expressed.\nWhere a carrier issues a transport document in the form of a data message and the passenger or consignor requests a paper document, the carrier shall provide it."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Section 3 Transport Documents"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where the death or personal injury of a passenger is caused by an accident that occurred on board a civil aircraft or in the course of embarking or disembarking, the carrier shall bear liability; however, where the death or personal injury of the passenger is entirely due to the passenger's own state of health, the carrier shall not bear liability."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where the destruction, loss or damage of the passenger's unchecked baggage (including personal effects) is caused by an event that occurred on board a civil aircraft or in the course of embarking or disembarking, the carrier shall bear liability for the losses caused by its fault or the fault of its servants or agents.\nWhere the destruction, loss or damage of the passenger's checked baggage is caused by an event that occurred during the period of air carriage, the carrier shall bear liability.\nWhere the destruction, loss or damage of the passenger's baggage is caused by the inherent defect, quality or vice of the baggage, the carrier shall not bear liability to that extent.\nBaggage as referred to in this Law includes checked baggage and unchecked baggage."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "The period of air carriage as referred to in this Law means the entire period during which checked baggage or cargo is in the charge of the carrier, whether at the airport, on board a civil aircraft or at any place of landing outside an airport.\nThe period of air carriage does not include any process of land carriage, carriage by sea or inland waterway outside an airport; however, where such land carriage, carriage by sea or inland waterway is for the purpose of loading, delivery or transhipment in the performance of the contract of air carriage, the losses incurred shall, in the absence of contrary evidence, be deemed to have occurred during the period of air carriage. Where a carrier, without the consent of the consignor, substitutes other means of transport for the whole or part of the carriage that the contract provides is to be performed by air, the carriage performed by such other means shall be deemed to have been performed during the period of air carriage."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where the destruction, loss or damage of cargo is caused by an event that occurred during the period of air carriage, the carrier shall bear liability; however, the carrier shall not bear liability where it proves that the destruction, loss or damage was caused entirely by any of the following reasons:\n(a) the inherent defect, quality or vice of the cargo;\n(b) defective packing of the cargo by a person other than the carrier, its servants or agents;\n(c) war or armed conflict;\n(d) an act carried out by the relevant government department relating to the entry, exit or transit of the cargo."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where losses are caused by delay in the air carriage of passengers, baggage or cargo, the carrier shall bear liability; however, the carrier shall not bear liability where it proves that it or its servants or agents have taken all reasonable measures to avoid the losses or that it was impossible to take such measures."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "In the carriage of passengers and baggage, where the carrier proves that the losses were caused or contributed to by the fault of the claimant or of the person through whom the claimant derives its rights, the liability of the carrier shall be exempted or reduced accordingly in proportion to the degree of fault that caused or contributed to the losses. Where a person other than the passenger claims compensation for the death or personal injury of the passenger and the carrier proves that the death or personal injury was caused or contributed to by the fault of the passenger himself, the liability of the carrier shall likewise be exempted or reduced accordingly in proportion to the degree of fault that caused or contributed to the losses.\nIn the carriage of cargo, where the carrier proves that the losses were caused or contributed to by the fault of the claimant or of the person through whom the claimant derives its rights, the liability of the carrier shall be exempted or reduced accordingly in proportion to the degree of fault that caused or contributed to the losses."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "The liability for compensation arising under Article 128 of this Law shall be determined in accordance with the limits of liability prescribed by the relevant international civil aviation conventions to which China is a party and which were in force at the time the accident causing the damage occurred.\nFor damage exceeding the limits of liability prescribed in the preceding paragraph, the carrier shall not bear liability for compensation where it proves any of the following:\n(a) the losses were not caused by the fault of the carrier or its servants or agents;\n(b) the losses were caused entirely by the fault of a third party."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "In air carriage, the liability of the carrier for the destruction, loss or damage of baggage or cargo, or for losses caused by delay to passengers, baggage and cargo, shall be limited to the limits of liability prescribed by the relevant international civil aviation conventions to which China is a party and which were in force at the time the damaging event or the delay occurred."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "The limits of liability provided in paragraph 1 of Article 134 and in Article 135 of this Law shall be published by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Where, at the time of consigning checked baggage or cargo, the passenger or consignor makes a special declaration of the interest in delivery at the place of destination and pays a supplementary sum where necessary, the carrier shall be liable up to the amount declared, unless the carrier proves that the amount declared by the passenger or consignor exceeds the actual interest in delivery of the checked baggage or cargo at the place of destination.\nWhere part of the checked baggage or cargo, or any object contained in the checked baggage or cargo, is destroyed, lost, damaged or delayed, the weight to be taken into account in determining the limit of liability of the carrier shall be only the total weight of that package or those packages; however, where the destruction, loss, damage or delay of part of the checked baggage or cargo, or of any object contained in the checked baggage or cargo, affects the value of other packages covered by the same baggage check or the same air waybill, the total weight of those packages shall also be taken into account in determining the limit of liability of the carrier."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Any clause intended to exempt the carrier from liability prescribed by this Law or to lower the limits of liability prescribed by this Law shall be void; however, the invalidity of such a clause shall not affect the validity of the air transport contract as a whole."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "Where an action is instituted against the servant or agent of a carrier in respect of losses in air carriage, the servant or agent, on proof that it acted within the scope of its employment or agency, shall be entitled to invoke the provisions on limitation of liability that the carrier may invoke under this Law.\nIn the circumstances provided in the preceding paragraph, the total amount of compensation payable by the carrier and its servants or agents may not exceed the statutory limit of liability.\nWhere it is proved that the losses in air carriage were caused by an act or omission of the servant or agent of the carrier done with intent to cause damage or recklessly and with knowledge that damage would probably result, paragraphs 1 and 2 of this Article shall not apply, except in the case of the carriage of cargo."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where it is proved that the losses in air carriage were caused by an act or omission of the carrier or of its servants or agents done with intent to cause damage or recklessly and with knowledge that damage would probably result, the carrier shall not be entitled to invoke the provisions of this Law on the limitation of liability for delay of passengers and for the carriage of baggage.\nTo prove that a servant or agent of the carrier committed such an act or omission, it shall also be proved that the servant or agent acted within the scope of its employment or agency."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "An action in respect of losses occurring in air carriage, whatever its basis, may be brought only in accordance with the conditions and limits of liability prescribed by this Law, without prejudice to the question of who has the right to institute an action and to their respective rights."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "The receipt by a passenger or consignee of checked baggage or cargo without objection is prima facie evidence that the checked baggage or cargo has been delivered in good condition and in accordance with the transport document.\nWhere checked baggage or cargo has suffered damage, the passenger or consignee shall raise an objection with the carrier after discovering the damage. In the case of damage to checked baggage, the objection shall be raised at the latest within seven days from the date of receipt of the checked baggage; in the case of damage to cargo, at the latest within 14 days from the date of receipt of the cargo. In the case of delay of checked baggage or cargo, the objection shall be raised at the latest within 21 days from the date on which the checked baggage or cargo is placed at the disposal of the passenger or consignee.\nAny objection shall be raised in writing within the period provided in the preceding paragraph.\nExcept where the carrier has committed fraud, a passenger or consignee who fails to raise an objection within the period prescribed in paragraph 2 of this Article may not institute an action for compensation against the carrier."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "The limitation period for an action in air carriage shall be two years, calculated from the date on which the civil aircraft arrived at the place of destination, should have arrived at the place of destination, or the carriage was terminated."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "In the case of successive carriage performed by several air carriers, each carrier that accepts the passengers, baggage or cargo shall be subject to the provisions of this Law and shall be a party to the contract of carriage as regards the segment of carriage that it performs under the contract.\nIn the case of successive carriage provided in the preceding paragraph, unless the contract expressly provides that the first carrier shall be liable for the entire carriage, a passenger or any person exercising the right to claim may institute an action only against the carrier that performed the segment of carriage in which the accident or delay occurred.\nIn the case of destruction, loss, damage or delay of baggage or cargo, the passenger or consignor has the right to institute an action against the first carrier, the passenger or consignee has the right to institute an action against the last carrier, and the passenger, consignor and consignee all have the right to institute an action against the carrier that performed the segment of carriage in which the destruction, loss, damage or delay occurred. The above carriers shall bear joint and several liability to the passenger, consignor or consignee."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Section 4 Liability of the Carrier"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "Contracting carrier as referred to in this Law means a person who concludes, in its own name with a passenger or consignor, or with the agent of a passenger or consignor, a contract of air carriage governed by this Chapter.\nActual carrier as referred to in this Law means a person who, by virtue of authorisation from the contracting carrier, performs the whole or part of the carriage referred to in the preceding paragraph and who is not a successive carrier as provided in this Law; in the absence of contrary evidence, such authorisation shall be deemed to exist."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Unless otherwise provided in this Section, both the contracting carrier and the actual carrier shall be subject to the provisions of this Chapter. The contracting carrier shall be liable for the entire carriage agreed in the contract. The actual carrier shall be liable for the carriage that it performs."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "The acts and omissions of the actual carrier, and the acts and omissions of the servants or agents of the actual carrier performed within the scope of their employment or agency relating to the performance of the carriage by the actual carrier, shall be deemed to be the acts and omissions of the contracting carrier, and the corresponding legal consequences shall be borne by the contracting carrier.\nThe acts and omissions of the contracting carrier, and the acts and omissions of the servants or agents of the contracting carrier performed within the scope of their employment or agency relating to the performance of the carriage by the actual carrier, shall be deemed to be the acts and omissions of the actual carrier, and the corresponding legal consequences shall be borne by the actual carrier; however, the actual carrier shall not, by reason of the acts or omissions of the contracting carrier and its servants or agents, bear liability exceeding the statutory limit of liability.\nAny special agreement under which the contracting carrier assumes obligations not provided in this Chapter or waives rights conferred by this Chapter, or any special declaration of interest in delivery at the place of destination made in accordance with Article 137 of this Law, shall not affect the actual carrier unless the actual carrier consents."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "An objection raised or an instruction given in accordance with the provisions of this Chapter shall have equal effect whether it is raised or given to the contracting carrier or to the actual carrier; however, the instruction provided in Article 123 of this Law shall be effective only when given to the contracting carrier."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Where the servant or agent of the actual carrier or the servant or agent of the contracting carrier proves that it acted within the scope of its employment or agency, it shall, in respect of the carriage performed by the actual carrier, be entitled to invoke the provisions on limitation of liability in Articles 134 and 135 of this Law, except where it may not invoke the provisions on limitation of liability in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "In respect of the carriage performed by the actual carrier, the total amount of compensation payable by the actual carrier, the contracting carrier and their servants or agents acting within the scope of their employment or agency may not exceed the highest amount of compensation obtainable from the contracting carrier or the actual carrier under this Law, and none of them shall bear liability exceeding the limit of liability applicable to it."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "An action in respect of carriage performed by the actual carrier may be instituted separately against the actual carrier or against the contracting carrier, or concurrently against both the actual carrier and the contracting carrier; the carrier against which the action is instituted has the right to require the other carrier to participate in the proceedings.\nApart from the provisions of the preceding paragraph, this Section shall not affect the rights and obligations between the actual carrier and the contracting carrier."
+        },
+        "noLabel": {
+          "en": "Article 151."
+        },
+        "chapter": {
+          "en": "Section 5 Special Provisions on Carriage Performed by the Actual Carrier"
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "Public air transport enterprises and transport airport operators shall take ensuring flight safety and normal flight operations and providing good services as their guiding criteria, and shall adopt effective measures to improve the quality of transport services.\nPublic air transport enterprises and transport airport operators shall strengthen education and training, require their employees to strictly perform their duties, and conscientiously carry out all service work relating to the transport of passengers with a courteous, enthusiastic and considerate service attitude."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        },
+        "chapter": {
+          "en": "Section 6 Protection of Passenger Rights and Interests"
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "Where a public air transport enterprise formulates standard terms such as general conditions of carriage, it shall determine the rights and obligations between the parties in accordance with the principle of fairness, make them public, and clearly inform passengers of them at the stage of ticket sales and in other stages.\nStandard terms such as general conditions of carriage form part of the civil air transport contract and shall include content relating to the protection of passenger rights and interests, such as ticket sales, refund and change, boarding, baggage transport, handling of irregular flights, passenger services and complaints.\nStandard terms such as general conditions of carriage shall be filed with the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        },
+        "chapter": {
+          "en": "Section 6 Protection of Passenger Rights and Interests"
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "Public air transport enterprises and transport airport operators shall rationally arrange capacity, allocate resources and strengthen the inspection and maintenance of facilities and equipment, so as to reduce flight delays or cancellations caused by their own reasons.\nWhere a flight is delayed or cancelled, the public air transport enterprise and the transport airport operator shall, in accordance with the relevant provisions of the State, promptly and accurately issue information notices informing passengers of the reasons for the delay or cancellation and the flight status, and shall, in accordance with provisions and the contract, properly carry out passenger services such as ticket changes and arrangements for meals and accommodation.\nWhere a large-scale flight delay occurs, the transport airport operator shall strengthen organisation and coordination and promptly evacuate passengers."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        },
+        "chapter": {
+          "en": "Section 6 Protection of Passenger Rights and Interests"
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "Public air transport enterprises, air sales agents, operators of online air sales platforms, air information enterprises and other units participating in civil air transport services shall, in accordance with the provisions of laws and administrative regulations on personal information protection, perform the obligation of personal information protection."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        },
+        "chapter": {
+          "en": "Section 6 Protection of Passenger Rights and Interests"
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "Public air transport enterprises, transport airport operators and operators of online air sales platforms shall, in an appropriate manner, make public to society information such as the methods for accepting complaints, promptly accept and handle complaints in accordance with the provisions of the civil aviation authority of the State Council, and promptly give feedback to complainants on the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 156."
+        },
+        "chapter": {
+          "en": "Section 6 Protection of Passenger Rights and Interests"
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "General aviation means civil aviation activities carried out using civil aircraft other than public air transport."
+        },
+        "noLabel": {
+          "en": "Article 157."
+        },
+        "chapter": {
+          "en": "Chapter VII General Aviation"
+        }
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "Those engaging in commercial general aviation activities shall meet the following conditions and apply to the civil aviation authority of the State Council for a general aviation operating licence:\n(a) being an enterprise legal person established within the territory of China whose legal representative is a Chinese citizen;\n(b) having civil aircraft, personnel, facilities and equipment, operating sites, manuals and other materials appropriate to the general aviation activities engaged in and meeting the requirements for safe operation; for those engaging in scheduled general aviation passenger transport, having paid-up registered capital of not less than 30 million yuan;\n(c) having sound management systems ensuring safe operation;\n(d) other conditions prescribed by laws and administrative regulations.\nAn enterprise that has obtained a general aviation operating licence shall carry out operations within the scope prescribed by the operating approval.\nThose engaging in non-commercial general aviation activities shall file with the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 158."
+        },
+        "chapter": {
+          "en": "Chapter VII General Aviation"
+        }
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "Where a general aviation enterprise engages in commercial general aviation activities, it shall conclude a written contract with the user, except for emergency rescue flights in urgent circumstances."
+        },
+        "noLabel": {
+          "en": "Article 159."
+        },
+        "chapter": {
+          "en": "Chapter VII General Aviation"
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "When organising and implementing general aviation flights, effective measures shall be taken to ensure flight safety, protect the environment and ecological balance, and prevent harm to the environment, residents, crops, livestock and the like."
+        },
+        "noLabel": {
+          "en": "Article 160."
+        },
+        "chapter": {
+          "en": "Chapter VII General Aviation"
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "Those engaging in general aviation activities shall take out third-party liability insurance.\nThose engaging in scheduled general aviation transport shall also, in accordance with the law, take out liability insurance or obtain the corresponding financial guarantee in respect of the liability for compensation borne for the passengers, baggage and cargo of the scheduled transport engaged in."
+        },
+        "noLabel": {
+          "en": "Article 161."
+        },
+        "chapter": {
+          "en": "Chapter VII General Aviation"
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Those engaging in scheduled general aviation transport shall also comply with the relevant provisions of Chapter VI of this Law on public air transport.\nGeneral aviation activities shall be subject to classified administration according to the type of business, and the specific measures shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 162."
+        },
+        "chapter": {
+          "en": "Chapter VII General Aviation"
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall, in accordance with this Law and the provisions of the relevant laws and administrative regulations, be responsible for the administration of civil aviation security; the public security department of the State Council shall, in accordance with this Law and the provisions of the relevant laws and administrative regulations, be responsible for the work relating to the administration of civil aviation security; and other relevant departments and units shall closely cooperate and coordinate in a linked manner to jointly safeguard civil aviation safety and order in accordance with their duties.\nWhere the State adjusts the duties of administration of civil aviation security, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 163."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 164,
+        "text": {
+          "en": "The relevant public security organs shall, in accordance with the law, safeguard safety and order within civil airports and prevent, stop and punish illegal and criminal acts endangering civil air transport activities."
+        },
+        "noLabel": {
+          "en": "Article 164."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 165,
+        "text": {
+          "en": "Passengers, baggage and cargo shall undergo security inspection, except those exempted from inspection as prescribed by the State Council.\nWhere the civil aviation security inspection institutions established by public air transport enterprises and transport airport operators consider that baggage or cargo is suspected of posing a safety risk, they may open and inspect it in the absence of the passenger, consignor or its agent. Opening and inspection in the absence of the person concerned shall be recorded in full by video and notified in writing after inspection, and prohibited articles and dangerous articles found during inspection shall be dealt with in accordance with the prescribed procedures.\nPassengers, baggage and cargo that have not undergone security inspection, that have not undergone security inspection in accordance with provisions, or in respect of which suspicion of a safety risk cannot be excluded after inspection may not enter the controlled area of a civil airport.\nThe procedures and standards for civil aviation security inspection shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 165."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 166,
+        "text": {
+          "en": "Civil aviation security inspection shall use security inspection instruments and equipment approved by the civil aviation authority of the State Council.\nPersonnel engaged in civil aviation security inspection shall obtain the national vocational qualification certificate."
+        },
+        "noLabel": {
+          "en": "Article 166."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 167,
+        "text": {
+          "en": "Public air transport enterprises, transport airport operators, civil aviation air traffic control units and the like shall, in accordance with the national civil aviation security programme, formulate their own security programmes and file them with the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 167."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 168,
+        "text": {
+          "en": "Operators of civil airports shall, in accordance with the provisions of the civil aviation authority of the State Council, take measures to safeguard the safety of persons and property within the airport."
+        },
+        "noLabel": {
+          "en": "Article 168."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "Aviation personnel, civil aviation security personnel and other relevant personnel who need to enter the controlled area of a civil airport shall lawfully undergo security background checks."
+        },
+        "noLabel": {
+          "en": "Article 169."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 170,
+        "text": {
+          "en": "The pilot-in-command and other crew members shall strictly perform security duties, maintain order on board the civil aircraft, and protect the safety of the civil aircraft and the persons and property carried thereon."
+        },
+        "noLabel": {
+          "en": "Article 170."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 171,
+        "text": {
+          "en": "The following acts impairing the safety and order of civil air transport shall be prohibited:\n(a) stealing, intentionally damaging or moving without authorisation civil aircraft equipment or other civil aviation facilities and equipment within an airport, opening the emergency exit door of a civil aircraft without authorisation, or entering the cockpit of a civil aircraft in violation of provisions;\n(b) destroying information and communication technology systems used for civil aviation purposes or facilities and equipment used for air traffic control;\n(c) forcibly occupying seats or luggage racks on board a civil aircraft, or blocking or forcibly occupying check-in counters, security inspection channels or boarding gates;\n(d) obstructing, or inciting others to obstruct, crew members or security inspectors in the performance of their duties;\n(e) insulting or assaulting crew members or ground staff;\n(f) unlawfully entering, remaining in or intercepting a civil aircraft, or fighting or creating disturbances on board a civil aircraft;\n(g) using ignition sources or smoking (including e-cigarettes) on board a civil aircraft, or using electronic devices that may affect civil aviation safety in violation of provisions;\n(h) unlawfully entering the protective fence of a civil airport or damaging safety protection facilities;\n(i) entering the controlled area of a civil airport without a pass for the airport controlled area or by using, counterfeiting or altering a pass for the airport controlled area;\n(j) disrupting the order of civil aviation operations by spreading rumours about civil aviation safety, threatening to commit dangerous acts such as arson or explosion, or placing false explosive, toxic, radioactive or corrosive substances or pathogens of infectious diseases or other dangerous substances;\n(k) carrying or consigning articles the carriage of which is prohibited or restricted in violation of provisions when taking a civil aircraft, or concealing dangerous articles in ordinary cargo or mail;\n(l) other acts prohibited by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 171."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 172,
+        "text": {
+          "en": "The security work of general aviation activities shall, according to the type of general aviation activity, be subject to classified and tiered administration in respect of security institutions, programmes and measures. The specific measures shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 172."
+        },
+        "chapter": {
+          "en": "Chapter VIII Civil Aviation Security"
+        }
+      },
+      {
+        "no": 173,
+        "text": {
+          "en": "The relevant departments of the State Council, air traffic control units, air transport enterprises, civil airport operators and other relevant units shall, in accordance with laws, administrative regulations and the relevant provisions of the State, formulate contingency plans for civil aircraft accidents and regularly carry out emergency drills."
+        },
+        "noLabel": {
+          "en": "Article 173."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 174,
+        "text": {
+          "en": "Where a civil aircraft encounters an emergency, it shall transmit signals, report to the air traffic control unit and make a request for rescue; the air traffic control unit shall immediately notify the search and rescue coordination centre. Where a civil aircraft encounters an emergency at sea, it shall also transmit signals to vessels and to the national maritime search and rescue organisation."
+        },
+        "noLabel": {
+          "en": "Article 174."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 175,
+        "text": {
+          "en": "Units or individuals that discover that a civil aircraft has encountered an emergency, or that receive signals of a civil aircraft encountering an emergency, shall immediately notify the relevant search and rescue coordination centre, maritime search and rescue organisation or local people's government."
+        },
+        "noLabel": {
+          "en": "Article 175."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 176,
+        "text": {
+          "en": "The search and rescue coordination centre, maritime search and rescue organisation and local people's government that receive the notification shall immediately organise search and rescue.\nThe search and rescue coordination centre that receives the notification shall endeavour to notify the civil aircraft in emergency of the search and rescue measures already taken.\nThe specific measures for search and rescue of civil aircraft shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 176."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 177,
+        "text": {
+          "en": "Public air transport enterprises, transport airports and general aviation enterprises engaged in scheduled transport and general airports shall, in accordance with the provisions of the civil aviation authority of the State Council, formulate family assistance plans for civil aircraft accidents.\nAfter the occurrence of a civil aircraft accident, the relevant departments of the State Council, the relevant local people's governments, public air transport enterprises, transport airports, general aviation enterprises engaged in scheduled transport, general airports and other relevant units shall immediately activate the contingency plan and, in accordance with the family assistance plan, carry out assistance work for the deceased, survivors and missing persons of the accident and their family members."
+        },
+        "noLabel": {
+          "en": "Article 177."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 178,
+        "text": {
+          "en": "Units or individuals performing search and rescue missions shall make every effort to rescue the persons carried on board the civil aircraft, take rescue measures in respect of the civil aircraft in accordance with provisions, protect the scene and preserve evidence."
+        },
+        "noLabel": {
+          "en": "Article 178."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 179,
+        "text": {
+          "en": "Civil aircraft accidents shall be classified, according to the consequences of the damage caused, into especially major accidents, major accidents, relatively major accidents and ordinary accidents. The standards for personal injury and death in classifying accident grades shall be determined in accordance with the provisions of the laws and administrative regulations on work safety; the standards for direct economic losses in classifying accident grades shall be determined by the civil aviation authority of the State Council together with the relevant departments of the State Council in the light of the special circumstances of civil aircraft accidents, and shall be published and implemented after being reported to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 179."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 180,
+        "text": {
+          "en": "Especially major civil aircraft accidents shall be investigated by an accident investigation team organised by the State Council or a department authorised by the State Council.\nCivil aircraft accidents of other grades shall be investigated by an accident investigation team organised by the civil aviation authority of the State Council or the regional civil aviation administration at the place where the accident occurred, and the specific measures shall be formulated by the civil aviation authority of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 180."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 181,
+        "text": {
+          "en": "An accident investigation team may, according to the needs of the investigation, lawfully require the relevant units to provide the relevant records, equipment and materials, question the parties and other relevant personnel, and inspect, examine and retain evidence. The relevant units and personnel shall truthfully provide the on-site circumstances and accident-related information.\nWhen the relevant local people's government administers the accident scene, it shall safeguard the rights of the investigation team to enter the scene, and to obtain and use the relevant evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 181."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 182,
+        "text": {
+          "en": "Technical investigation work carried out to ascertain the causes of a civil aircraft accident shall be coordinated with other accident investigation work. The specific measures for carrying out technical investigation of civil aircraft accidents shall be formulated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 182."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 183,
+        "text": {
+          "en": "The unit organising the accident investigation shall, in accordance with the law, publish the accident investigation report within 12 months from the date of the civil aircraft accident. Where the accident investigation report cannot be published on time under special circumstances, the progress of the investigation shall be published in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 183."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 184,
+        "text": {
+          "en": "The investigation of civil aircraft accidents occurring outside the territory of China that China participates in or organises shall be conducted in accordance with the provisions of the international treaties to which China is a party or has acceded."
+        },
+        "noLabel": {
+          "en": "Article 184."
+        },
+        "chapter": {
+          "en": "Chapter IX Search and Rescue and Accident Investigation"
+        }
+      },
+      {
+        "no": 185,
+        "text": {
+          "en": "Where the death or personal injury of a third party or damage to the property of a third party is caused by a civil aircraft in flight or by a person or object falling from a civil aircraft in flight, the victim has the right to compensation; however, the victim has no right to claim compensation where the damage suffered is not the direct consequence of the accident causing the damage, or where the damage suffered is merely caused by the passage of the civil aircraft through the air in accordance with the relevant air traffic rules of the State.\nIn flight as referred to in the preceding paragraph means any time from the moment when all external doors of the civil aircraft are closed after embarkation or loading is completed until any such door is opened for the purpose of disembarkation or unloading; in the case of a lighter-than-air civil aircraft, in flight means the period from the moment it leaves the ground until it comes to rest on the ground again."
+        },
+        "noLabel": {
+          "en": "Article 185."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 186,
+        "text": {
+          "en": "The liability for compensation provided in Article 185 of this Law shall be borne by the operator of the civil aircraft.\nOperator of the civil aircraft as referred to in this Law means the person using the civil aircraft. Where the right of use of a civil aircraft has been conferred directly or indirectly on another person and the person itself retains navigational control of the civil aircraft, that person shall still be regarded as the operator of the civil aircraft.\nWhere a servant or agent of the operator of a civil aircraft uses the civil aircraft in the course of employment or agency, whether or not acting within the scope of such employment or agency, it shall be regarded as use of the civil aircraft by the operator.\nThe registered owner of a civil aircraft shall be regarded as the operator of the civil aircraft and shall bear the liability of the operator; unless, in an action to determine its liability, the owner proves that another person is the operator of the civil aircraft and takes appropriate measures within the limits permitted by legal procedure to make that person a party to the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 186."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 187,
+        "text": {
+          "en": "The owner, lessor or financier retaining ownership of or holding a security interest in a civil aircraft, or the servants or agents thereof, who is not the operator of the civil aircraft as provided in Article 186 of this Law, shall not bear liability for compensation for damage suffered by a third party, except a person who intentionally causes such damage."
+        },
+        "noLabel": {
+          "en": "Article 187."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 188,
+        "text": {
+          "en": "Where a civil aircraft is used without the consent of the person having navigational control of the civil aircraft and damage is caused to a third party, the person having navigational control shall, unless it proves that it has exercised due care to prevent such use, bear joint and several liability with the person using the aircraft unlawfully."
+        },
+        "noLabel": {
+          "en": "Article 188."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 189,
+        "text": {
+          "en": "A person who should bear liability in accordance with the provisions of this Chapter shall not bear liability for damage directly caused by armed conflict or civil disturbance, or for nuclear damage caused by a nuclear incident.\nWhere the right of use of the civil aircraft of a person who should bear liability in accordance with the provisions of this Chapter has been lawfully deprived by a State organ at the time the damage occurred, that person shall not bear liability."
+        },
+        "noLabel": {
+          "en": "Article 189."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 190,
+        "text": {
+          "en": "Where a person who should bear liability in accordance with the provisions of this Chapter proves that the damage was caused entirely by the fault of the victim or of the victim's servants or agents, that person shall be exempted from liability for compensation; where the person who should bear liability proves that the damage was caused partly by the fault of the victim or of the victim's servants or agents, that person's liability for compensation shall be reduced accordingly. However, where the damage was caused by the fault of the victim's servants or agents and the victim proves that the acts of its servants or agents exceeded the scope of the authority conferred on them, the liability for compensation of the person who should bear liability shall not be exempted or reduced.\nWhere one person institutes an action against another person for compensation for the death of or injury to that other person and the damage was caused by the fault of that other person or of that other person's servants or agents, the provisions of the preceding paragraph shall apply."
+        },
+        "noLabel": {
+          "en": "Article 190."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 191,
+        "text": {
+          "en": "Where the event causing the damage involves two or more civil aircraft, the operators of the civil aircraft concerned shall bear joint and several liability for the damage suffered by the third party."
+        },
+        "noLabel": {
+          "en": "Article 191."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 192,
+        "text": {
+          "en": "The persons provided in paragraph 4 of Article 186 and in Article 188 of this Law shall enjoy the defences that the operator of the civil aircraft may invoke in accordance with the provisions of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 192."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 193,
+        "text": {
+          "en": "This Chapter shall not prejudice the right of a person who should bear liability for damage in accordance with the provisions of this Chapter to seek recourse against others."
+        },
+        "noLabel": {
+          "en": "Article 193."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 194,
+        "text": {
+          "en": "The operator of a civil aircraft taking off or landing within the territory of the People's Republic of China shall take out third-party liability insurance or obtain the corresponding financial guarantee."
+        },
+        "noLabel": {
+          "en": "Article 194."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 195,
+        "text": {
+          "en": "Apart from enjoying the same defences as the operator of the civil aircraft and the right to raise defences in respect of forged documents, an insurer or guarantor may raise only the following defences against a claim for compensation made in accordance with the provisions of this Chapter:\n(a) the damage occurred after the insurance or guarantee had ceased to be valid; however, where the insurance or guarantee expires in the course of a flight, it shall remain valid until the next landing specified in the flight plan, but for not more than 24 hours;\n(b) the damage occurred outside the area specified in the insurance or guarantee, unless the flight outside that area was due to force majeure, was necessary to assist others, or was caused by an error in piloting, navigation or pilotage.\nThe provisions of the preceding paragraph on the continued validity of insurance or guarantee shall apply only where they are favourable to the victim."
+        },
+        "noLabel": {
+          "en": "Article 195."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 196,
+        "text": {
+          "en": "A victim may institute an action directly against an insurer or guarantor only in the following circumstances:\n(a) the insurance or guarantee remains valid in accordance with items 1 and 2 of paragraph 1 of Article 195 of this Law;\n(b) the operator of the civil aircraft is bankrupt;\n(c) a direct action is instituted in accordance with the legal provisions on insurance contracts or guarantee contracts.\nApart from the defences provided in paragraph 1 of Article 195 of this Law, an insurer or guarantor may not, in a direct action instituted by a victim in accordance with the provisions of this Chapter, raise the defence that the insurance or guarantee is invalid or has terminated retroactively."
+        },
+        "noLabel": {
+          "en": "Article 196."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 197,
+        "text": {
+          "en": "Insurance or guarantee provided in accordance with Article 194 of this Law shall be specifically designated for the priority payment of compensation provided in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 197."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 198,
+        "text": {
+          "en": "Amounts payable by an insurer to the operator of a civil aircraft shall not, before the claims of third parties provided in this Chapter have been satisfied, be subject to attachment or disposal by the creditors of the operator of the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 198."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 199,
+        "text": {
+          "en": "The limitation period for an action for compensation for damage to a third party shall be two years, calculated from the date on which the damage occurred; however, in no case may the limitation period exceed three years from the date on which the damage occurred."
+        },
+        "noLabel": {
+          "en": "Article 199."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 200,
+        "text": {
+          "en": "Third party as referred to in this Chapter means persons other than the operator of the civil aircraft, the passengers, and the consignor and consignee of cargo.\nThe provisions of this Chapter shall not apply to the following damage:\n(a) damage to a civil aircraft in flight or to persons or property on board that aircraft;\n(b) damage in respect of which the victim is bound by a contract concluded with the operator of the civil aircraft or with the person having the right of use of the civil aircraft at the time the damage occurred, or by the provisions on employee compensation in the labour law applicable between the two parties."
+        },
+        "noLabel": {
+          "en": "Article 200."
+        },
+        "chapter": {
+          "en": "Chapter X Liability for Damage to Third Parties"
+        }
+      },
+      {
+        "no": 201,
+        "text": {
+          "en": "Where a foreign civil aircraft engages in civil aviation activities within the territory of the People's Republic of China, the provisions of this Chapter shall apply; where this Chapter contains no provisions, the other relevant provisions of this Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 201."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 202,
+        "text": {
+          "en": "A foreign civil aircraft may fly into and out of the territorial airspace of the People's Republic of China and fly and land within the territory of the People's Republic of China only in accordance with the agreements and arrangements concluded between the government of the State of its nationality registration and the Government of the People's Republic of China, or upon approval or acceptance by the civil aviation authority of the State Council.\nIn respect of a foreign civil aircraft that, in non-compliance with the preceding paragraph, flies into or out of the territorial airspace of the People's Republic of China without authorisation, the relevant authorities of the People's Republic of China have the right to take necessary measures and order it to land at a designated airport; in respect of an aircraft that complies with the preceding paragraph but which there are reasonable grounds to consider requires inspection, the relevant authorities have the right to order it to land at a designated airport."
+        },
+        "noLabel": {
+          "en": "Article 202."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 203,
+        "text": {
+          "en": "Where a foreign civil aircraft flies into the territorial airspace of the People's Republic of China, its operator shall provide the relevant certificates proving that it has taken out third-party liability insurance or obtained the corresponding financial guarantee; where its operator fails to provide the relevant certificates, the civil aviation authority of the State Council has the right to refuse its entry into the territorial airspace of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 203."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 204,
+        "text": {
+          "en": "The Government of the People's Republic of China shall, in accordance with the agreements and arrangements concluded with foreign governments, open traffic rights and permit the operators of civil aircraft of that foreign State to operate the relevant international scheduled air transport.\nThe operator of a foreign civil aircraft may operate the international scheduled air transport provided in the agreements and arrangements concluded between the Government of the People's Republic of China and that foreign government only after it has been designated by its own government and has obtained the air route operating permit and operating permit issued by the civil aviation authority of the State Council; the operator of a foreign civil aircraft may operate non-scheduled air transport between one point within the territory of the People's Republic of China and one point outside the territory only after it has obtained the approval of its own government and the approval of the civil aviation authority of the State Council.\nThe operator of a foreign civil aircraft shall, in accordance with the agreements and arrangements concluded between the Government of the People's Republic of China and that foreign government and the provisions of the laws and administrative regulations of the People's Republic of China, formulate a corresponding security programme and file it with the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 204."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 205,
+        "text": {
+          "en": "Where the operator of a foreign civil aircraft formulates standard terms such as general conditions of carriage, it shall publish a Chinese version and establish a dedicated body with Chinese language capability or designate dedicated personnel to be responsible for accepting complaints."
+        },
+        "noLabel": {
+          "en": "Article 205."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 206,
+        "text": {
+          "en": "The operator of a foreign civil aircraft may not operate air transport between two points within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 206."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 207,
+        "text": {
+          "en": "A foreign civil aircraft shall fly in accordance with the timetable or flight plan approved by the civil aviation authority of the State Council; where the timetable or flight plan is changed, its operator shall obtain the approval of the civil aviation authority of the State Council; where a flight is changed or cancelled for any reason, its operator shall promptly report to the civil aviation authority of the State Council.\nWhere a foreign civil aircraft changes its timetable or flight plan without approval, the civil aviation authority of the State Council and other competent authorities have the right to order rectification and take necessary measures."
+        },
+        "noLabel": {
+          "en": "Article 207."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 208,
+        "text": {
+          "en": "A foreign civil aircraft shall take off from or land at an international airport designated by the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 208."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 209,
+        "text": {
+          "en": "The civil aviation authority of the State Council and other competent authorities have the right to inspect the documents provided in Article 78 of this Law when a foreign civil aircraft lands or takes off."
+        },
+        "noLabel": {
+          "en": "Article 209."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 210,
+        "text": {
+          "en": "The certificate of airworthiness, crew competency certificates and licences of civil aircraft issued or validated by the State of nationality registration of a foreign civil aircraft shall be recognised as valid by the Government of the People's Republic of China; however, the requirements for the issuance or validation of such certificates or licences shall be equal to or higher than the minimum standards established by the International Civil Aviation Organisation."
+        },
+        "noLabel": {
+          "en": "Article 210."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 211,
+        "text": {
+          "en": "Where a foreign civil aircraft uses radio equipment within the territory of the People's Republic of China, it shall comply with the relevant provisions of the People's Republic of China on radio administration."
+        },
+        "noLabel": {
+          "en": "Article 211."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 212,
+        "text": {
+          "en": "Where a foreign civil aircraft is in distress in a search and rescue region of the People's Republic of China, the participation of its owner or of the State of nationality registration in search and rescue work shall be subject to the approval of the civil aviation authority of the State Council or shall be conducted in accordance with the agreement between the two governments."
+        },
+        "noLabel": {
+          "en": "Article 212."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 213,
+        "text": {
+          "en": "Where an accident occurs to a foreign civil aircraft within the territory of the People's Republic of China, the State of its nationality registration and other relevant States may participate in the accident investigation in accordance with the provisions of the international treaties to which China is a party or has acceded. The accident investigation report and the investigation results shall be communicated by the civil aviation authority of the State Council to the State of nationality registration of the foreign civil aircraft and other relevant States."
+        },
+        "noLabel": {
+          "en": "Article 213."
+        },
+        "chapter": {
+          "en": "Chapter XI Special Provisions on Foreign Civil Aircraft"
+        }
+      },
+      {
+        "no": 214,
+        "text": {
+          "en": "The acquisition, transfer and extinguishment of ownership of a civil aircraft shall be governed by the law of the State of nationality registration of the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 214."
+        },
+        "chapter": {
+          "en": "Chapter XII Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 215,
+        "text": {
+          "en": "A mortgage over a civil aircraft shall be governed by the law of the State of nationality registration of the civil aircraft."
+        },
+        "noLabel": {
+          "en": "Article 215."
+        },
+        "chapter": {
+          "en": "Chapter XII Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 216,
+        "text": {
+          "en": "A priority right over a civil aircraft shall be governed by the law of the place of the court accepting the case."
+        },
+        "noLabel": {
+          "en": "Article 216."
+        },
+        "chapter": {
+          "en": "Chapter XII Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 217,
+        "text": {
+          "en": "The parties to a civil air transport contract may choose the law applicable to the contract, unless otherwise provided by law; where the parties to the contract have not made a choice, the law of the State having the closest connection with the contract shall apply."
+        },
+        "noLabel": {
+          "en": "Article 217."
+        },
+        "chapter": {
+          "en": "Chapter XII Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 218,
+        "text": {
+          "en": "Compensation for damage caused by a civil aircraft to a third party shall be governed by the law of the place where the tort was committed.\nCompensation for damage caused by a civil aircraft to a third party over the high seas shall be governed by the law of the place of the court accepting the case.\nWhere civil aircraft of the same nationality collide, the compensation for damage between the colliding aircraft shall be governed by the law of the State of their nationality registration, irrespective of where the collision occurred."
+        },
+        "noLabel": {
+          "en": "Article 218."
+        },
+        "chapter": {
+          "en": "Chapter XII Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 219,
+        "text": {
+          "en": "The application of foreign laws or international usages in accordance with the provisions of this Chapter may not harm the sovereignty, security or development interests of the People's Republic of China and may not violate the social and public interests of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 219."
+        },
+        "chapter": {
+          "en": "Chapter XII Application of Law in Relations Involving Foreign Elements"
+        }
+      },
+      {
+        "no": 220,
+        "text": {
+          "en": "The State shall improve the innovation system of the civil aviation manufacturing industry with enterprises as the main body, the market as the orientation and the integration of industry, universities and research institutes, support the research and development of key core technologies, improve the research, development and design capabilities for large aircraft and advanced engines, promote the industrialisation of scientific and technological innovation achievements, and promote the development of the civil aviation manufacturing industry, so as to provide safe, advanced, green, economical and applicable civil aviation products for civil aviation activities."
+        },
+        "noLabel": {
+          "en": "Article 220."
+        },
+        "chapter": {
+          "en": "Chapter XIII Promotion of Development"
+        }
+      },
+      {
+        "no": 221,
+        "text": {
+          "en": "The State shall improve the organisational system and standards and norms of civil aircraft airworthiness certification, strengthen the training of airworthiness certification personnel, establish and improve a risk-based classified and tiered airworthiness management approach, and enhance airworthiness certification capability and level."
+        },
+        "noLabel": {
+          "en": "Article 221."
+        },
+        "chapter": {
+          "en": "Chapter XIII Promotion of Development"
+        }
+      },
+      {
+        "no": 222,
+        "text": {
+          "en": "Civil airports are public infrastructure. People's governments at all levels shall take necessary measures to support the construction, operation and maintenance of civil airports.\nThe relevant departments of the State Council shall, in accordance with the requirements of building a modern comprehensive transport system, improve the layout of civil airports, accelerate the construction of civil aviation hubs, coordinate the coordinated development of transport airports and general airports, and improve the general airport network."
+        },
+        "noLabel": {
+          "en": "Article 222."
+        },
+        "chapter": {
+          "en": "Chapter XIII Promotion of Development"
+        }
+      },
+      {
+        "no": 223,
+        "text": {
+          "en": "The State shall take measures to optimise the air route network, improve the efficiency of resource allocation, and build a widely covering, high-quality and efficient civil aviation service system."
+        },
+        "noLabel": {
+          "en": "Article 223."
+        },
+        "chapter": {
+          "en": "Chapter XIII Promotion of Development"
+        }
+      },
+      {
+        "no": 224,
+        "text": {
+          "en": "The State encourages the development of general aviation, accelerates the construction of a general aviation infrastructure network and cultivates the general aviation market.\nLocal people's governments at or above the county level shall, in the light of the actual development of their regions, take measures to support the development of the general aviation industry."
+        },
+        "noLabel": {
+          "en": "Article 224."
+        },
+        "chapter": {
+          "en": "Chapter XIII Promotion of Development"
+        }
+      },
+      {
+        "no": 225,
+        "text": {
+          "en": "The State shall take measures to optimise the allocation of low-altitude airspace resources, promote the construction of regulatory service platforms relating to civil low-altitude flight and applications, and establish and improve systems and standards for airworthiness certification, flight management and the like that meet the requirements of low-altitude economy development.\nThe relevant departments of the State Council and provincial people's governments shall, as required, formulate development plans relating to the low-altitude economy, improve supporting policies and measures, encourage technological innovation and application expansion in the low-altitude economy sector, and promote the development of the low-altitude economy."
+        },
+        "noLabel": {
+          "en": "Article 225."
+        },
+        "chapter": {
+          "en": "Chapter XIII Promotion of Development"
+        }
+      },
+      {
+        "no": 226,
+        "text": {
+          "en": "The State adheres to the principle of equality, mutual benefit and win-win cooperation, promotes international cooperation in civil aviation, actively participates in the formulation of international civil aviation standards, advances the high-level opening of the civil air transport market, and enhances the international competitiveness of civil aviation."
+        },
+        "noLabel": {
+          "en": "Article 226."
+        },
+        "chapter": {
+          "en": "Chapter XIII Promotion of Development"
+        }
+      },
+      {
+        "no": 227,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall strengthen supervision and inspection of civil aviation activities and, in accordance with the requirements of classified and tiered supervision and administration, reasonably determine the frequency and methods of inspection on the basis of factors such as the category of civil aviation activities, the credit records of units and the needs of civil aviation administration."
+        },
+        "noLabel": {
+          "en": "Article 227."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supervision and Management"
+        }
+      },
+      {
+        "no": 228,
+        "text": {
+          "en": "In performing its supervision and inspection duties, the civil aviation authority of the State Council may take the following measures:\n(a) questioning the parties concerned and investigating circumstances relating to civil aviation activities;\n(b) inspecting, copying and obtaining the records, documents and materials of the parties concerned relating to civil aviation activities;\n(c) conducting on-site inspections and investigating civil aviation activities suspected of violating the law;\n(d) inspecting certificates, equipment and premises relating to civil aviation activities;\n(e) where there is evidence proving the existence of activities endangering civil aviation safety, temporarily withholding the relevant licences and permits and, upon approval by the person in charge of the civil aviation authority of the State Council or the principal person in charge of the regional civil aviation administration authorised by the civil aviation authority of the State Council, seizing the civil aircraft and other relevant equipment and sealing up the relevant premises;\n(f) other measures prescribed by laws and administrative regulations.\nWhere the civil aviation authority of the State Council performs its duties in accordance with the law, the parties concerned shall render assistance and cooperate and may not refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 228."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supervision and Management"
+        }
+      },
+      {
+        "no": 229,
+        "text": {
+          "en": "Where, in circumstances such as emergencies or special support conditions, special measures different from the relevant provisions of the State on the operation of civil aircraft and civil airports must be taken, approval by the civil aviation authority of the State Council shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 229."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supervision and Management"
+        }
+      },
+      {
+        "no": 230,
+        "text": {
+          "en": "The civil aviation authority of the State Council shall use modern information technology means such as big data to improve its supervision and administration capability and level, and shall do a good job in data security protection in accordance with the provisions of the relevant laws and administrative regulations.\nUnits engaged in civil aviation production and business activities shall, in accordance with the civil aviation statistical investigation system and other provisions, provide the relevant materials to the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 230."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supervision and Management"
+        }
+      },
+      {
+        "no": 231,
+        "text": {
+          "en": "Units engaged in civil aviation production and business activities shall establish systems for the collection, analysis and release of civil aviation safety information, and shall report and release safety information in accordance with the provisions of the civil aviation authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 231."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supervision and Management"
+        }
+      },
+      {
+        "no": 232,
+        "text": {
+          "en": "The civil aviation authority of the State Council, local people's governments at all levels and their relevant departments, and units engaged in civil aviation production and business activities shall strengthen publicity and education on civil aviation laws, regulations and safety knowledge, and raise the civil aviation safety awareness of the whole of society."
+        },
+        "noLabel": {
+          "en": "Article 232."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supervision and Management"
+        }
+      },
+      {
+        "no": 233,
+        "text": {
+          "en": "Where investment in the civil aviation industry violates the relevant provisions of the civil aviation authority of the State Council, the civil aviation authority of the State Council shall order rectification within a time limit, confiscate the illegal gains and impose a fine of not less than 20,000 yuan but not more than 200,000 yuan; where rectification is not made within the time limit, a fine of not less than 200,000 yuan but not more than 500,000 yuan shall also be imposed; where the circumstances are especially serious, the relevant licences of the public air transport enterprise, general aviation enterprise or civil airport may be revoked.\nWhere foreign investment in the civil aviation industry violates the laws or administrative regulations on foreign investment or the relevant provisions of the State, legal liability shall be pursued in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 233."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 234,
+        "text": {
+          "en": "Where this Law is violated by engaging in the design, production or maintenance of civil aviation products and parts, or in the design or production of civil aviation chemical products or the supply or testing of aviation fuel, without approval, the civil aviation authority of the State Council shall order the cessation of the unlawful activities, confiscate the illegal gains and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than two million yuan shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 234."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 235,
+        "text": {
+          "en": "Where an enterprise that has obtained a design, production or maintenance certificate provided by this Law, or a certificate relating to the design or production of civil aviation chemical products or the supply or testing of aviation fuel, causes a serious accident due to quality problems, the civil aviation authority of the State Council shall order it to suspend business for rectification; where the circumstances are serious, the relevant certificates may be revoked."
+        },
+        "noLabel": {
+          "en": "Article 235."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 236,
+        "text": {
+          "en": "Where this Law is violated by conducting flight activities without obtaining a certificate of airworthiness or a special flight permit, or beyond the period of validity or the prescribed scope of the certificate, the civil aviation authority of the State Council shall order the cessation of the flight, confiscate the illegal gains and impose a fine of not less than 200,000 yuan but not more than two million yuan; where the circumstances are serious, the relevant certificates may be revoked."
+        },
+        "noLabel": {
+          "en": "Article 236."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 237,
+        "text": {
+          "en": "Where this Law is violated by engaging in civil aviation activities without obtaining the relevant aviation personnel licence or certificate, or beyond the matters stated in the licence or certificate, the civil aviation authority of the State Council shall order the cessation of the civil aviation activities and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where the circumstances are serious, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed; in respect of aviation personnel engaging in civil aviation activities beyond the matters stated in the licence or certificate, the relevant licence may be revoked or the unit to which they belong may be ordered to cancel the training certificate.\nWhere aviation personnel are in any of the circumstances in the preceding paragraph, the unit to which they belong shall be fined not less than 100,000 yuan but not more than 500,000 yuan; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than two million yuan shall be imposed; where the circumstances are especially serious, the relevant licences of the public air transport enterprise or general aviation enterprise may be revoked."
+        },
+        "noLabel": {
+          "en": "Article 237."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 238,
+        "text": {
+          "en": "Where this Law is violated by providing licence and qualification training for civil aircraft pilots, maintenance personnel or flight dispatchers without approval, the civil aviation authority of the State Council shall order the cessation of the unlawful conduct, confiscate the illegal gains and impose a fine of not less than 100,000 yuan but not more than one million yuan.\nWhere this Law is violated by using flight simulation training devices that have not passed appraisal, the civil aviation authority of the State Council shall order the cessation of the unlawful conduct, confiscate the illegal gains and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 238."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 239,
+        "text": {
+          "en": "Where this Law is violated by engaging in prohibited activities within the lawfully designated civil airport area, obstacle limitation area or electromagnetic environment protection area, the local people's government at or above the county level at the place where the airport is located shall order the cessation of the unlawful conduct and give a circular of criticism; where the circumstances are serious, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on the production and business unit, and a fine of not less than 2,000 yuan but not more than 20,000 yuan shall be imposed on the individual."
+        },
+        "noLabel": {
+          "en": "Article 239."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 240,
+        "text": {
+          "en": "Where this Law is violated by a transport airport or a general airport open to the public opening for operation without obtaining an airport operation licence, the civil aviation authority of the State Council shall order the cessation of the open operation, confiscate the illegal gains and impose a fine of not less than 100,000 yuan but not more than one million yuan.\nWhere this Law is violated by a general airport not open to the public failing to file in accordance with the provisions of the civil aviation authority of the State Council, the civil aviation authority of the State Council shall order rectification within a time limit and impose a fine of not less than 10,000 yuan but not more than 30,000 yuan; where rectification is not made within the time limit, a fine of not less than 30,000 yuan but not more than 100,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 240."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 241,
+        "text": {
+          "en": "Where this Law is violated by conducting flight activities with a civil aircraft without the permission of the air traffic control unit in accordance with the relevant provisions, the civil aviation authority of the State Council shall order the cessation of the flight, impose a fine of not less than 50,000 yuan but not more than 500,000 yuan on the owner or lessee of the civil aircraft, and temporarily withhold the relevant licence or certificate for one to three months; where the circumstances are serious, the relevant licence or certificate shall be revoked; the pilot-in-command shall be given a warning and fined not less than 10,000 yuan but not more than 50,000 yuan, and his licence shall be temporarily withheld for one to six months; where the circumstances are serious, the licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 241."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 242,
+        "text": {
+          "en": "Where this Law is violated and any of the following circumstances exists, the civil aviation authority of the State Council shall give a warning to the pilot-in-command of the civil aircraft and temporarily withhold his licence for one to six months; where the circumstances are serious, the licence shall be revoked:\n(a) taking off without carrying out an inspection of the civil aircraft;\n(b) failing to promptly and truthfully report the circumstances of an accident to the civil aviation authority of the State Council when an accident occurs to the civil aircraft;\n(c) the civil aircraft failing to fly along the air route and at the flight altitude designated by the air traffic control unit;\n(d) the civil aircraft failing to comply with the airport flight procedures and operating standards prescribed by the civil aviation authority of the State Council;\n(e) the civil aircraft flying over a city in violation of provisions;\n(f) the civil aircraft dropping articles in violation of provisions during flight."
+        },
+        "noLabel": {
+          "en": "Article 242."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 243,
+        "text": {
+          "en": "Where this Law is violated and the pilot-in-command or other crew members of a civil aircraft are in any of the following circumstances, the civil aviation authority of the State Council shall give a warning and temporarily withhold the relevant licence or training certificate for one to six months; where the circumstances are serious, the relevant licence shall be revoked or the unit to which they belong shall be ordered to cancel the training certificate:\n(a) failing to carry the licence, training certificate or medical certificate when engaged in flight activities;\n(b) failing to take the necessary disposal measures when the civil aircraft is in distress, or leaving the civil aircraft without authorisation;\n(c) engaging in flight activities when their working capacity is impaired by alcoholic beverages, narcotics or other drugs.\nWhere crew members violate the provisions of the civil aviation authority of the State Council on flight time, duty time and rest time, the public air transport enterprise or general aviation enterprise shall be fined not less than 10,000 yuan but not more than 100,000 yuan for each flight; the persons directly in charge and other persons directly responsible of the public air transport enterprise or general aviation enterprise shall be given a warning and fined not less than 1,000 yuan but not more than 5,000 yuan for each flight."
+        },
+        "noLabel": {
+          "en": "Article 243."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 244,
+        "text": {
+          "en": "Where this Law is violated and the duty time of an air traffic controller exceeds the prescribed time limit, the civil aviation authority of the State Council shall impose a fine of not less than 10,000 yuan but not more than 100,000 yuan on the civil aviation air traffic control unit.\nWhere this Law is violated and an air traffic controller's working capacity is impaired by alcoholic beverages, narcotics or other drugs while performing air traffic control work, the civil aviation authority of the State Council shall give a warning and temporarily withhold the licence for one to six months; where the circumstances are serious, the licence shall be revoked and a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed on the civil aviation air traffic control unit."
+        },
+        "noLabel": {
+          "en": "Article 244."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 245,
+        "text": {
+          "en": "Where this Law is violated by using communication, navigation or surveillance equipment that has not been approved or has not passed flight calibration and verification, the civil aviation authority of the State Council shall order rectification within a time limit and impose a fine of not less than 50,000 yuan but not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 245."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 246,
+        "text": {
+          "en": "Where this Law is violated by transporting articles the transport of which is prohibited by laws or administrative regulations, or by engaging in the air transport of dangerous goods without approval, the civil aviation authority of the State Council shall order the cessation of the unlawful conduct, confiscate the illegal gains and impose a fine of not less than 500,000 yuan but not more than two million yuan; where the circumstances are serious, the relevant licences of the offending public air transport enterprise or general aviation enterprise may be revoked."
+        },
+        "noLabel": {
+          "en": "Article 246."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 247,
+        "text": {
+          "en": "Where this Law is violated by a transport airport or public air transport enterprise failing to carry out security inspection work in accordance with the law, the civil aviation authority of the State Council shall order rectification and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan, and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan on the persons directly in charge and other persons directly responsible; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than two million yuan shall be imposed, and a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed on the persons directly in charge and other persons directly responsible; where the circumstances are especially serious, the relevant licences of the offending transport airport or public air transport enterprise may be revoked."
+        },
+        "noLabel": {
+          "en": "Article 247."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 248,
+        "text": {
+          "en": "Where this Law is violated by engaging in public air transport without approval, the civil aviation authority of the State Council shall order the cessation of the unlawful conduct, confiscate the illegal gains and impose a fine of not less than 500,000 yuan but not more than two million yuan.\nWhere this Law is violated by engaging in commercial general aviation activities without approval, the civil aviation authority of the State Council shall order the cessation of the unlawful conduct, confiscate the illegal gains and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan.\nWhere this Law is violated by engaging in non-commercial general aviation activities without filing with the civil aviation authority of the State Council, the civil aviation authority of the State Council shall order rectification within a time limit; where rectification is not made within the time limit, a fine of not less than 30,000 yuan but not more than 50,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 248."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 249,
+        "text": {
+          "en": "Where a public air transport enterprise, general aviation enterprise or civil airport has low flight operation efficiency, fails to meet the requirements for normal flight management or lacks sufficient capacity for safe operation support, the civil aviation authority of the State Council may suspend acceptance of its applications for new business or narrow the scope of its business.\nWhere a unit or individual that has obtained a licence to engage in civil aviation production and business activities falls into circumstances not meeting the licensing conditions, the civil aviation authority of the State Council shall require rectification within a time limit and may suspend acceptance of its applications for new business or narrow the scope of its business; where it still fails to meet the licensing conditions after the time limit, the relevant licences shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 249."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 250,
+        "text": {
+          "en": "Where this Law is violated by failing to formulate and file a civil aviation security programme, the civil aviation authority of the State Council shall order rectification within a time limit; where rectification is not made within the time limit, a fine of not less than 10,000 yuan but not more than 100,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 250."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 251,
+        "text": {
+          "en": "Where this Law is violated and a public air transport enterprise or a general aviation enterprise engaged in scheduled transport is in any of the following circumstances, the civil aviation authority of the State Council shall order rectification within a time limit; where rectification is not made within the time limit, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than 200,000 yuan but not more than one million yuan shall be imposed; where the circumstances are especially serious, the relevant licences may be revoked:\n(a) failing to lawfully take out liability insurance or obtain the corresponding financial guarantee in respect of the liability for compensation for the passengers, baggage and cargo of the transport engaged in and towards third parties;\n(b) failing to formulate, publish, file or notify standard terms such as general conditions of carriage in accordance with provisions, or failing to clearly inform passengers of them at the stage of ticket sales and in other stages;\n(c) failing to issue an information notice in accordance with provisions when a flight is delayed or cancelled, or failing to carry out handling and passenger service work as required;\n(d) failing to make public to society information such as the methods for accepting complaints, failing to accept and handle passenger complaints as required, or failing to promptly give feedback to complainants on the relevant circumstances;\n(e) failing to lawfully formulate a family assistance plan for civil aircraft accidents, or failing to carry out family assistance work in accordance with the plan;\n(f) failing to carry out emergency rescue in accordance with provisions when a civil aircraft accident occurs.\nWhere an operator of a civil airport is in any of the circumstances in items (c) to (f) of the preceding paragraph, it shall be punished in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 251."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 252,
+        "text": {
+          "en": "Where this Law is violated by committing acts impairing the safety and order of civil air transport and the circumstances are serious, the civil aviation authority of the State Council may restrict the person from taking civil aircraft for a certain period."
+        },
+        "noLabel": {
+          "en": "Article 252."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 253,
+        "text": {
+          "en": "Where this Law is violated and a unit engaged in civil aviation production and business activities is in any of the following circumstances, the civil aviation authority of the State Council shall order rectification within a time limit; where rectification is not made within the time limit, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed:\n(a) failing to provide the relevant materials to the civil aviation authority of the State Council in accordance with the civil aviation statistical investigation system and other provisions;\n(b) failing to establish systems for the collection, analysis and release of civil aviation safety information, or failing to report or release safety information in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 253."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 254,
+        "text": {
+          "en": "Where the staff of the civil aviation authority of the State Council or of a regional civil aviation administration neglect their duties, abuse their powers or engage in malpractice for personal gain, sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 254."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 255,
+        "text": {
+          "en": "Where this Law is violated by committing acts endangering civil aviation safety or disrupting civil aviation order which constitute a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 255."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 256,
+        "text": {
+          "en": "Where aviation personnel are sentenced to criminal punishment for an intentional crime, the civil aviation authority of the State Council shall revoke the relevant licence."
+        },
+        "noLabel": {
+          "en": "Article 256."
+        },
+        "chapter": {
+          "en": "Chapter XV Legal Liability"
+        }
+      },
+      {
+        "no": 257,
+        "text": {
+          "en": "The State shall establish government funds according to the needs of the development of civil aviation, and the specific period of implementation shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 257."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 258,
+        "text": {
+          "en": "Where the State Council and the Central Military Commission have other provisions on the administration of unmanned aircraft, those provisions shall apply.\nThe national air traffic management body shall, in accordance with laws, administrative regulations and the relevant provisions of the State, formulate rules on airspace and flight management."
+        },
+        "noLabel": {
+          "en": "Article 258."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 259,
+        "text": {
+          "en": "Where a civil aircraft having the nationality of the People's Republic of China is operated by an operator having its principal place of business or permanent residence in another State under an agreement for the lease, charter or interchange of civil aircraft or other similar agreement, the Government of the People's Republic of China may, in accordance with the agreements and arrangements concluded with the government of that foreign State, transfer to that foreign State the administrative duties and obligations provided by this Law in respect of flight management, radio station licences, certificates of airworthiness and crew licences, and the responsibility of the People's Republic of China for the transferred duties and obligations shall be correspondingly discharged."
+        },
+        "noLabel": {
+          "en": "Article 259."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 260,
+        "text": {
+          "en": "Where an international treaty concluded or acceded to by the People's Republic of China contains provisions differing from those of this Law, the provisions of the international treaty shall apply, except the provisions on which the People's Republic of China has declared a reservation.\nWhere neither the laws of the People's Republic of China nor the international treaties concluded or acceded to by the People's Republic of China contain provisions, international usages may be applied."
+        },
+        "noLabel": {
+          "en": "Article 260."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 261,
+        "text": {
+          "en": "Where any State or region adopts discriminatory prohibitions, restrictions or other similar measures against the People's Republic of China in fields relating to civil air transport and the manufacture of civil aircraft, the People's Republic of China may, according to the actual circumstances, take corresponding measures against the State or region concerned."
+        },
+        "noLabel": {
+          "en": "Article 261."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 262,
+        "text": {
+          "en": "This Law shall come into force on 1 July 2026."
+        },
+        "noLabel": {
+          "en": "Article 262."
+        },
+        "chapter": {
+          "en": "Chapter XVI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0211'] = {
     "lawId": "CN-LAW-0211",
     "sourceLang": "zh",
@@ -55002,6 +60714,1791 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0226'] = {
+    "lawId": "CN-LAW-0226",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 150 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to standardise futures trading and derivatives trading, protect the lawful rights and interests of all parties, maintain market order and social and public interests, promote the service of the futures market and the derivatives market to the national economy, prevent and resolve financial risks, and safeguard national economic security."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Within the territory of the People's Republic of China, futures trading, derivatives trading and related activities shall be governed by this Law.\nWhere futures trading, derivatives trading and related activities outside the territory of the People's Republic of China disrupt market order within the territory of the People's Republic of China or harm the lawful rights and interests of domestic traders, they shall be dealt with in accordance with the relevant provisions of this Law and legal liability shall be pursued."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Futures trading as referred to in this Law means trading activities the subject matter of which is futures contracts or standardised option contracts.\nDerivatives trading as referred to in this Law means trading activities other than futures trading the subject matter of which is swap contracts, forward contracts, non-standardised option contracts and combinations thereof.\nFutures contract as referred to in this Law means a standardised contract uniformly formulated by a futures trading venue which provides for the delivery of a certain quantity of the underlying at a specific time and place in the future.\nOption contract as referred to in this Law means a standardised or non-standardised contract which provides that the buyer has the right to buy or sell the agreed underlying (including futures contracts) at a specified price at a certain time in the future.\nSwap contract as referred to in this Law means a financial contract which provides for the mutual exchange of specific underlying within a specific period in the future.\nForward contract as referred to in this Law means a financial contract other than a futures contract which provides for the delivery of a certain quantity of the underlying at a specific time and place in the future."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State supports the sound development of the futures market and gives play to its functions of price discovery, risk management and resource allocation.\nThe State encourages the use of the futures market and the derivatives market for risk management activities such as hedging.\nThe State adopts measures to promote the development of the agricultural product futures market and derivatives market and to guide domestic agricultural production and operation.\nHedging as referred to in this Law means activities in which a trader, in order to manage risks arising from changes in the value of its assets, liabilities, etc., enters into futures trading and derivatives trading that basically match such assets, liabilities, etc."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The futures market and the derivatives market shall establish and improve systems and mechanisms for the monitoring, early warning, resolution and disposal of risks, restrict excessive speculation in accordance with the law, and prevent systemic market risks."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Futures trading and derivatives trading activities shall comply with laws, administrative regulations and relevant provisions of the State and follow the principles of openness, fairness and impartiality; acts of fraud, market manipulation and insider trading shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "All parties participating in futures trading and derivatives trading activities shall have equal legal status and shall follow the principles of voluntariness, compensation and good faith."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The futures regulatory authority of the State Council shall exercise centralised and unified supervision and administration over the national futures market in accordance with the law. Where the State Council provides otherwise for the supervision and administration of interest rate futures and exchange rate futures, those provisions shall apply.\nThe derivatives market shall be supervised and administered by the futures regulatory authority of the State Council or a department authorised by the State Council according to the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Futures and derivatives industry associations shall exercise self-regulation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "State audit institutions shall, in accordance with the law, conduct audit supervision over futures operating institutions, futures trading venues, futures clearing institutions and the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Futures trading shall be conducted on futures exchanges established in accordance with the law or other futures trading venues approved by the futures regulatory authority of the State Council for organising futures trading in accordance with the law (hereinafter collectively referred to as futures trading venues), by means of public centralised trading or other methods approved by the futures regulatory authority of the State Council.\nFutures trading outside futures trading venues shall be prohibited.\nDerivatives trading may be conducted by means of negotiated transactions or other trading methods prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "No entity or individual may manipulate the futures market or the derivatives market.\nIt shall be prohibited to manipulate the futures market by any of the following means, thereby affecting or intending to affect futures trading prices or futures trading volume:\n(a) independently or in collusion, concentrating capital advantages or position advantages, or exploiting information advantages, to jointly or continuously buy or sell contracts;\n(b) colluding with others to conduct futures trading with each other at a pre-agreed time, price and manner;\n(c) conducting futures trading between accounts actually controlled by oneself;\n(d) using false or uncertain material information to induce traders to conduct futures trading;\n(e) frequently or in large volumes submitting and withdrawing orders without the purpose of concluding transactions;\n(f) making public evaluations, forecasts or investment advice on the relevant futures trading or the trading of the contract underlying, and carrying out reverse or related operations;\n(g) hoarding spot goods in order to influence the futures market;\n(h) in the delivery month or near the delivery month, using improper means to circumvent position limits and thereby create a position advantage;\n(i) using activities in the relevant market to manipulate the futures market;\n(j) other means of manipulating the futures market."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Insiders of inside information relating to futures trading and derivatives trading, and persons who unlawfully obtain inside information, may not, before the inside information is made public, engage in the relevant futures trading or derivatives trading, expressly or implicitly cause others to engage in futures trading or derivatives trading related to the inside information, or divulge the inside information."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Inside information as referred to in this Law means information not yet made public that may have a material effect on the trading prices of futures trading or derivatives trading.\nInside information relating to futures trading includes:\n(a) policies, information or data that the futures regulatory authority of the State Council and other relevant departments are formulating or have not yet published and that may have a material effect on futures trading prices;\n(b) decisions made by futures trading venues or futures clearing institutions that may have a material effect on futures trading prices;\n(c) the funds and trading movements of members of futures trading venues and of traders;\n(d) information on material abnormal trading in the relevant market;\n(e) other information having a material effect on futures trading prices as prescribed by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Insiders of inside information as referred to in this Law means entities and individuals that, by reason of their business position, management position, supervisory position or official convenience, etc., are able to have access to or obtain inside information.\nInsiders of inside information relating to futures trading include:\n(a) the relevant personnel of futures operating institutions, futures trading venues, futures clearing institutions and futures service institutions;\n(b) the staff of the futures regulatory authority of the State Council and other relevant departments;\n(c) other entities and individuals that may obtain inside information as prescribed by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "No entity or individual may fabricate or disseminate false information or misleading information to disrupt the futures market or the derivatives market.\nFutures operating institutions, futures trading venues, futures clearing institutions, futures service institutions and their practitioners, venues and institutions organising derivatives trading and their practitioners, futures and derivatives industry associations, the futures regulatory authority of the State Council, departments authorised by the State Council and their staff shall be prohibited from making false statements or giving misleading information in futures trading, derivatives trading and related activities.\nAll media disseminating information on the futures market and the derivatives market shall be truthful and objective, and misleading shall be prohibited. Media and their staff engaged in reporting information on the futures market and the derivatives market may not engage in futures trading, derivatives trading and related activities that conflict with their duties."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The listing of futures contract varieties and standardised option contract varieties shall comply with the provisions of the futures regulatory authority of the State Council and shall be reported by the futures trading venue in accordance with the law to the futures regulatory authority of the State Council for registration.\nThe suspension of listing, resumption of listing and termination of listing of futures contract varieties and standardised option contract varieties shall comply with the provisions of the futures regulatory authority of the State Council and shall be decided by the futures trading venue and filed with the futures regulatory authority of the State Council.\nFutures contract varieties and standardised option contract varieties shall have economic value, the contracts shall not be easily manipulated, and they shall conform to social and public interests."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A real-name account system shall be applied to futures trading. Where a trader conducts futures trading, it shall hold lawful identification documents proving its identity and apply to open an account in its own name.\nNo entity or individual may, in violation of provisions, lend its own futures account or borrow another person's futures account to conduct futures trading."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Futures trading conducted on a futures trading venue shall be conducted by members of the futures trading venue or other participants meeting the provisions of the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a trader entrusts a futures operating institution with trading, it may issue trading instructions in writing, by telephone, through self-service terminals, via the Internet or by other means. Trading instructions shall be clear, specific and comprehensive."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where trading instructions are automatically generated or issued by computer programs for algorithmic trading, the provisions of the futures regulatory authority of the State Council shall be complied with and a report shall be made to the futures trading venue; the security of the systems of the futures trading venue and the normal trading order shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A margin system shall be applied to futures trading. A futures clearing institution collects margin from clearing participants, and clearing participants collect margin from traders. Margin shall be used for settlement and as performance security.\nForms of margin include cash, highly liquid marketable securities such as treasury bonds, stocks, fund shares and standard warehouse receipts, and other property prescribed by the futures regulatory authority of the State Council. Where marketable securities, etc. are used as margin, pledge or other means having the function of performance security may be adopted in accordance with the law.\nThe forms, ratios, etc. of margin collected by futures clearing institutions and clearing participants shall comply with the provisions of the futures regulatory authority of the State Council.\nWhere a trader trades in standardised option contracts, the seller shall pay margin and the buyer shall pay a premium.\nThe premium referred to in the preceding paragraph means the funds paid by the buyer for the purchase of standardised option contracts."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A position limit system shall be applied to futures trading to prevent the risk of excessive concentration of contract positions.\nThose engaging in risk management activities such as hedging may apply for an exemption from position limits.\nThe measures for the administration of position limits and hedging shall be formulated by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A reporting and administration system for actual controlling relationships of traders shall be applied to futures trading. Traders shall, in accordance with the provisions of the futures regulatory authority of the State Council, report their actual controlling relationships to futures operating institutions or futures trading venues."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The fees charged for futures trading shall be reasonable, and the fee items, fee rates and administrative measures shall be made public."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Trading conducted in accordance with the business rules lawfully formulated by a futures trading venue may not have its trading results altered, except as provided in paragraph 2 of Article 89 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Members of futures trading venues and traders shall, in accordance with the provisions of the futures regulatory authority of the State Council, report material matters such as the relevant trading, positions and margin."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "No entity or individual may, in violation of provisions, use credit funds or fiscal funds to conduct futures trading."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where institutions such as futures operating institutions, futures trading venues, futures clearing institutions and futures service institutions and their practitioners discover prohibited trading conduct, they shall promptly report it to the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 2 Futures Trading"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Venues established in accordance with the law may, upon approval by a department authorised by the State Council or by the futures regulatory authority of the State Council, organise derivatives trading.\nThe trading rules formulated by venues organising derivatives trading shall fairly protect the lawful rights and interests of all parties to the trading and prevent market risks, and shall be submitted to the department authorised by the State Council or the futures regulatory authority of the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where financial institutions conduct derivatives trading business, they shall obtain approval or verification in accordance with the law, perform the obligation of suitability management of traders, and comply with the relevant provisions of the State on supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a master agreement is adopted for derivatives trading, the master agreement, all supplementary agreements thereunder and the arrangements made by both parties on individual transactions together constitute a complete single agreement between the two parties and shall be legally binding."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The contract templates such as the master agreement provided in Article 32 of this Law shall be submitted for filing in accordance with the provisions of the department authorised by the State Council or the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In conducting derivatives trading, performance security may be provided by means of pledge, etc. in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where derivatives trading is lawfully conducted by adopting a master agreement, the transactions may be terminated in accordance with the agreement upon the occurrence of the agreed circumstances, and the profits and losses of all transactions under the agreement shall be settled on a net basis.\nNet settlement conducted in accordance with the preceding paragraph shall not be suspended, invalidated or revoked by reason of any party to the transaction entering bankruptcy proceedings in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The department authorised by the State Council and the futures regulatory authority of the State Council shall establish a derivatives trading repository to centrally collect, preserve, analyse and manage information such as the underlying, scale and counterparties of derivatives trading, and to disclose the relevant information to the market in a timely manner in accordance with provisions. The specific measures shall be prescribed by the department authorised by the State Council and the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where derivatives trading is centrally cleared by a clearing institution approved by the department authorised by the State Council or the futures regulatory authority of the State Council as the central counterparty, close-out netting may be conducted in accordance with the law; the clearing property shall be used in priority for clearing and delivery and may not be sealed up, frozen, seized or subject to compulsory enforcement; before clearing and delivery are completed, no person may use it.\nCentral clearing lawfully conducted shall not be suspended, invalidated or revoked by reason of any party participating in the clearing entering bankruptcy proceedings in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The specific measures for regulating and supervising derivatives trading and related activities shall be prescribed by the State Council in accordance with the principles of this Law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 3 Derivatives Trading"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "A daily mark-to-market settlement system shall be applied to futures trading. At the time prescribed by the futures trading venue, the futures clearing institution shall settle with clearing participants on the same day at the settlement price; clearing participants shall settle with traders on the basis of the settlement results of the futures clearing institution. The settlement results shall be notified to clearing participants and traders in a timely manner on the same day."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Margin, premiums, etc. collected by futures clearing institutions and clearing participants shall be kept separate from their own funds and, in accordance with the provisions of the futures regulatory authority of the State Council, deposited in special accounts with a futures margin depository institution and managed separately; misappropriation in violation of provisions shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the margin of a clearing participant does not meet the standards prescribed by the business rules of the futures clearing institution, the futures clearing institution shall, in accordance with the business rules, notify the clearing participant to make a margin call or close out its positions itself within the prescribed time; where the clearing participant fails to make the margin call or close out its positions itself within the prescribed time, the futures trading venue shall be notified to conduct compulsory liquidation.\nWhere the margin of a trader does not meet the standards agreed between the clearing participant and the trader, the clearing participant shall, in accordance with the agreement, notify the trader to make a margin call or close out its positions itself within the agreed time; where the trader fails to make the margin call or close out its positions itself within the agreed time, compulsory liquidation shall be conducted in accordance with the agreement.\nWhere marketable securities, etc. are used as margin and the futures clearing institution or clearing participant conducts compulsory liquidation in accordance with the preceding two paragraphs, the marketable securities, etc. may be disposed of."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a clearing participant defaults in the course of clearing, the futures clearing institution shall, in accordance with the business rules, use the clearing participant's margin, clearing guarantee fund and the risk reserve and own funds of the clearing institution, etc. to complete the clearing; where the futures clearing institution completes the clearing with its risk reserve, own funds, etc., it may lawfully seek recovery from that clearing participant.\nWhere a trader defaults in the course of clearing, the clearing participant entrusted by it shall, in accordance with the contract, use that trader's margin and the risk reserve and own funds of the clearing participant to complete the clearing; where the clearing participant completes the clearing with its risk reserve and own funds, it may lawfully seek recovery from that trader.\nClearing guarantee fund as referred to in this Law means the funds paid by clearing participants to the futures clearing institution out of their own funds to guarantee performance."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Assets such as margin, premiums, clearing guarantee fund and risk reserve collected and drawn by futures clearing institutions in accordance with their business rules shall be used in priority for clearing and delivery and may not be sealed up, frozen, seized or subject to compulsory enforcement.\nBefore clearing and delivery are completed, no person may use the margin used to guarantee performance and delivery or the delivery property entering the delivery process.\nClearing and delivery lawfully conducted shall not be suspended, invalidated or revoked by reason of any party participating in the clearing entering bankruptcy proceedings in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "When a futures contract expires, the trader shall close out the open contract by physical delivery or cash delivery.\nAt the time prescribed by a standardised option contract, the buyer of the contract has the right to buy or sell the underlying at the agreed price, or to settle the cash difference in accordance with the agreement, and the seller of the contract shall perform the corresponding obligations in accordance with the agreement. The exercise of standardised option contracts shall be organised by the futures clearing institution."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a futures contract adopts physical delivery, the futures clearing institution shall be responsible for organising the delivery of the purchase price and the documents of title to the contract underlying such as standard warehouse receipts.\nWhere a futures contract adopts cash delivery, the futures clearing institution shall, on the basis of the delivery settlement price, remit the profits and losses of both parties to the position.\nStandard warehouse receipt as referred to in this Law means a standardised document for taking delivery of goods issued by a delivery warehouse and registered with the futures trading venue."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Physical delivery of futures trading shall be conducted at delivery warehouses, delivery ports or other places meeting the requirements of the futures trading venue as designated by the futures trading venue. Physical delivery may not be subject to restrictions on the total delivery volume. Where documents or certificates other than standard warehouse receipts or other methods are used for physical delivery, the futures trading venue shall clearly prescribe the rights and obligations of the parties to the delivery."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a clearing participant defaults in the course of delivery, the futures clearing institution has the right to dispose of the clearing participant's documents of title to the contract underlying such as standard warehouse receipts.\nWhere a trader defaults in the course of delivery, the clearing participant has the right to dispose of the trader's documents of title to the contract underlying such as standard warehouse receipts."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Futures operating institutions not meeting the conditions for clearing participants may entrust clearing participants to clear on behalf of their clients. The rights and obligations between futures operating institutions not meeting the conditions for clearing participants and clearing participants and traders shall be governed by reference to the provisions of this Chapter on the rights and obligations between clearing participants and traders."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Futures Clearing and Delivery"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Futures traders as referred to in this Law means natural persons, legal persons and unincorporated organisations that conduct futures trading in accordance with this Law and bear the trading results.\nUnless otherwise provided by the futures regulatory authority of the State Council, futures traders conducting futures trading shall entrust futures operating institutions to do so."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "When providing services to traders, futures operating institutions shall, in accordance with provisions, fully understand the relevant information of traders such as their basic circumstances, property status, financial asset status, trading knowledge and experience, and professional competence; truthfully explain the important content of the services and fully disclose trading risks; and provide services matching the above circumstances of traders.\nWhen participating in futures trading and accepting services, traders shall provide the true information listed in the preceding paragraph as expressly required by futures operating institutions. Where a trader refuses to provide information or fails to provide information as required, the futures operating institution shall inform it of the consequences and refuse to provide services in accordance with provisions.\nWhere a futures operating institution violates the provisions of paragraph 1 and thereby causes losses to traders, it shall bear the corresponding liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Traders may be classified into ordinary traders and professional traders on the basis of factors such as property status, financial asset status, trading knowledge and experience, and professional competence. The standards for professional traders shall be prescribed by the futures regulatory authority of the State Council.\nWhere a dispute arises between an ordinary trader and a futures operating institution, the futures operating institution shall prove that its conduct complies with laws, administrative regulations and the provisions of the futures regulatory authority of the State Council and that there is no misleading, fraud or similar circumstance. Where the futures operating institution cannot prove this, it shall bear the corresponding liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Legal persons and unincorporated organisations participating in futures trading shall establish internal control systems and risk control systems commensurate with the types, scale and purposes of their trading contracts."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Practitioners of futures operating institutions, futures trading venues and futures clearing institutions, staff of the futures regulatory authority of the State Council and futures industry associations, and other persons prohibited from participating in futures trading by laws, administrative regulations and the futures regulatory authority of the State Council may not conduct futures trading."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Traders have the right to inquire about their entrustment records, trading records, margin balances and other important information relating to the services they receive."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Futures operating institutions, futures trading venues, futures clearing institutions, futures service institutions and their staff shall keep traders' information confidential in accordance with the law and may not unlawfully buy or sell, provide or disclose traders' information.\nFutures operating institutions, futures trading venues, futures clearing institutions, futures service institutions and their staff may not divulge trade secrets of which they become aware."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a dispute arises between a trader and a futures operating institution, etc., both parties may apply to an industry association, etc. for mediation. Where an ordinary trader has a futures business dispute with a futures operating institution and makes a mediation request, the futures operating institution may not refuse."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a trader brings a civil compensation action for futures matters such as market manipulation or insider trading, and the subject matters of the action are of the same kind and there is a large number of parties on one side, representatives may be elected in accordance with the law to conduct the action."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State establishes a futures trader protection fund. The specific measures for the raising, management and use of the futures trader protection fund shall be formulated by the futures regulatory authority of the State Council together with the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Futures Traders"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Futures operating institutions as referred to in this Law means futures companies established in accordance with the Company Law of the People's Republic of China and this Law, and other institutions approved by the futures regulatory authority of the State Council to engage in futures business."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "To establish a futures company, the following conditions shall be met and approval by the futures regulatory authority of the State Council shall be obtained:\n(a) having articles of association complying with laws and administrative regulations;\n(b) the principal shareholders and actual controllers having sound financial status and good credit records, with net assets not less than the standard prescribed by the futures regulatory authority of the State Council, and no record of material violations of laws and regulations in the most recent three years;\n(c) the registered capital not less than 100 million yuan and being paid-up monetary capital;\n(d) the persons engaged in futures business meeting the conditions prescribed by this Law, and the directors, supervisors and senior managers possessing the corresponding qualifications for their positions;\n(e) having a sound corporate governance structure, a robust risk management system and comprehensive internal control systems;\n(f) having qualified business premises, business facilities and information technology systems;\n(g) other conditions prescribed by laws, administrative regulations and the futures regulatory authority of the State Council.\nThe futures regulatory authority of the State Council may, on the principle of prudential supervision and according to the degree of risk of the various businesses, raise the minimum amount of registered capital.\nThe futures regulatory authority of the State Council shall, within six months from the date of accepting an application for the establishment of a futures company, conduct examination in accordance with the statutory conditions, statutory procedures and the principle of prudential supervision, make a decision to approve or not to approve, and notify the applicant; where it decides not to approve, it shall explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "A futures company shall indicate the word \"futures\" in its name, unless otherwise provided by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "A futures company shall obtain approval from the futures regulatory authority of the State Council for any of the following matters:\n(a) merger, division, suspension of business, dissolution or application for bankruptcy;\n(b) change of principal shareholder or of the actual controller of the company;\n(c) change of registered capital together with adjustment of the shareholding structure;\n(d) change of the scope of business;\n(e) other material matters prescribed by the futures regulatory authority of the State Council.\nFor the matters listed in items (c) and (e) of the preceding paragraph, the futures regulatory authority of the State Council shall, within 20 days from the date of accepting the application, make a decision to approve or not to approve; for the other matters listed in the preceding paragraph, the futures regulatory authority of the State Council shall, within 60 days from the date of accepting the application, make a decision to approve or not to approve."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "A futures company may, upon approval by the futures regulatory authority of the State Council, engage in the following futures business:\n(a) futures brokerage;\n(b) futures trading consulting;\n(c) futures market-making;\n(d) other futures business.\nWhere a futures company engages in asset management business, it shall comply with the provisions of laws and administrative regulations such as the Law of the People's Republic of China on Securities Investment Funds.\nWithout approval by the futures regulatory authority of the State Council, no entity or individual may establish or establish in a disguised form a futures company, operate or operate in a disguised form futures brokerage business or futures trading consulting business, or use the terms \"futures\", \"options\" or other names likely to cause confusion or misleading for business purposes."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The directors, supervisors and senior managers of a futures company shall be honest and upright, of good conduct, familiar with futures laws and administrative regulations, and possess the business management capability required to perform their duties. Where a futures company appoints or removes directors, supervisors and senior managers, it shall file with the futures regulatory authority of the State Council.\nA person in any of the following circumstances may not serve as a director, supervisor or senior manager of a futures company:\n(a) being in a circumstance provided by the Company Law of the People's Republic of China under which a person may not serve as a director, supervisor or senior manager of a company;\n(b) a director, supervisor or senior manager of a futures operating institution, or the person in charge of a futures trading venue or futures clearing institution, who was removed from office for unlawful or disciplinary conduct, where less than five years have elapsed since the date of removal;\n(c) a certified public accountant, lawyer or other professional of a futures service institution whose practice certificate was revoked or whose qualification was cancelled for unlawful or disciplinary conduct, where less than five years have elapsed since the date of revocation or cancellation."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Futures operating institutions shall operate in accordance with the law, perform their duties diligently and responsibly, and act in good faith. Futures operating institutions shall establish and improve internal control systems and adopt effective segregation measures to prevent conflicts of interest between the institution and its clients and between different clients.\nFutures operating institutions shall conduct their futures brokerage business, futures market-making business, asset management business and other related businesses separately and may not operate them in a mixed manner.\nFutures operating institutions shall establish and implement anti-money laundering systems in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a futures operating institution accepts a trader's entrustment to conduct futures trading for it, it shall conclude a written entrustment contract, conduct futures trading for the trader in its own name, and the trading results shall be borne by the trader.\nA futures operating institution engaging in brokerage business may not accept discretionary entrustment from traders."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a futures operating institution engaging in asset management business accepts client entrustment and utilises client assets for investment, it shall treat the different client assets under its management fairly and may not breach its fiduciary obligations."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Futures operating institutions may not, in violation of provisions, provide financing or security for their shareholders, actual controllers or persons associated with their shareholders or actual controllers, and may not provide external security in violation of provisions."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Persons engaged in futures business in futures operating institutions shall be honest and upright, of good conduct, and possess the professional competence required for futures business.\nPersons engaged in futures business in futures operating institutions may not privately accept client entrustment to conduct futures trading.\nWhere persons engaged in futures business in futures operating institutions, in the course of futures business activities, execute the instructions of the futures operating institution to which they belong or exploit their position to violate futures trading rules, the futures operating institution to which they belong shall bear full responsibility."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The futures regulatory authority of the State Council shall formulate ongoing operating rules for futures operating institutions, providing for the operating conditions, risk management, internal control, margin custody, compliance management, risk supervision indicators, related-party transactions and other aspects of futures operating institutions and their branches. Futures operating institutions shall comply with the ongoing operating rules."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Futures operating institutions shall, in accordance with provisions, submit to the futures regulatory authority of the State Council information and materials on business operations and financial management. The futures regulatory authority of the State Council has the right to require futures operating institutions and their principal shareholders, actual controllers and other related parties to provide the relevant information and materials within a designated period.\nThe information and materials submitted or provided by futures operating institutions and their principal shareholders, actual controllers or other related parties to the futures regulatory authority of the State Council shall be true, accurate and complete."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a futures operating institution is involved in major litigation or arbitration, its equity is frozen or used as security, or other major events occur, it shall submit a written report to the futures regulatory authority of the State Council within five days from the date of occurrence of the event.\nThe controlling shareholder or actual controller of a futures operating institution shall cooperate with the futures operating institution in performing the obligations provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where a futures operating institution fails to comply with the ongoing operating rules or presents operating risks, the futures regulatory authority of the State Council shall order it to rectify within a time limit; where the futures operating institution fails to rectify within the time limit, or its conduct seriously endangers the sound operation of the futures operating institution or harms the lawful rights and interests of traders, or it is suspected of serious violations of laws and regulations and is under investigation by the futures regulatory authority of the State Council, the futures regulatory authority of the State Council may, according to the circumstances, take the following measures against it:\n(a) restricting or suspending part of its business;\n(b) ceasing to approve new business;\n(c) restricting the distribution of dividends and restricting the payment of remuneration and provision of benefits to directors, supervisors and senior managers;\n(d) restricting the transfer of property or the creation of other rights over property;\n(e) ordering the replacement of directors, supervisors, senior managers or the persons in charge of the relevant business departments or branches, or restricting their powers;\n(f) restricting the allocation and use of the own funds or risk reserve of the futures operating institution;\n(g) determining the directors, supervisors and senior managers who are responsible to be unsuitable persons;\n(h) ordering the responsible shareholders to transfer their equity and restricting the responsible shareholders in exercising shareholder rights.\nFor a futures operating institution that has been rectified and complies with the relevant laws and administrative regulations and the requirements of the ongoing operating rules, the futures regulatory authority of the State Council shall, within three days from the date of completion of the acceptance inspection, lift the relevant measures taken against it.\nFor a futures operating institution that still fails to meet the requirements of the ongoing operating rules after rectification and whose normal operation is seriously affected, the futures regulatory authority of the State Council has the right to revoke part or all of its futures business licences and close part or all of its branches."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a futures operating institution operates unlawfully or presents major risks, seriously jeopardising the order of the futures market or harming the interests of traders, the futures regulatory authority of the State Council may take supervisory and administrative measures against the futures operating institution such as ordering suspension of business for rectification, designating another institution for custody or taking over.\nWhere a futures operating institution is in any of the circumstances listed in the preceding paragraph, the futures regulatory authority of the State Council may, upon approval, take the following measures against the directors, supervisors and senior managers directly responsible and other persons directly responsible of the futures operating institution:\n(a) deciding and notifying the exit and entry administration authority to prevent them from leaving the country in accordance with the law;\n(b) applying to the judicial authority to prohibit them from transferring, assigning or otherwise disposing of property, or creating other rights over property."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a shareholder of a futures operating institution makes a false capital contribution or withdraws capital contribution, the futures regulatory authority of the State Council shall order it to rectify within a time limit and may order it to transfer the equity it holds in the futures operating institution.\nBefore the shareholder rectifies the unlawful conduct and transfers the equity it holds in the futures operating institution in accordance with the requirements of the preceding paragraph, the futures regulatory authority of the State Council may restrict its shareholder rights."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a futures operating institution is in any of the following circumstances, the futures regulatory authority of the State Council shall, in accordance with the law, complete the formalities for cancellation of the relevant business licence:\n(a) its business licence is revoked in accordance with the law;\n(b) it fails to commence business for more than three months after establishment without justified reasons, or suspends business for three consecutive months or more after commencement without justified reasons;\n(c) it voluntarily applies for cancellation;\n(d) other circumstances in which an administrative licence shall be cancelled as provided by the Administrative Licensing Law of the People's Republic of China and the futures regulatory authority of the State Council.\nBefore cancelling the relevant business licence, the futures operating institution shall settle the relevant futures business and return the margin and other assets of traders in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where the futures regulatory authority of the State Council considers it necessary, it may entrust futures service institutions to audit or evaluate the financial status, internal control status and asset value of futures operating institutions. The specific measures shall be formulated by the futures regulatory authority of the State Council together with the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Futures operating institutions shall be prohibited from engaging in the following conduct that harms the interests of traders:\n(a) making commitments to traders guaranteeing that the principal of their assets will not suffer loss or that a minimum return will be obtained;\n(b) agreeing with traders to share profits and bear risks jointly;\n(c) conducting futures trading in breach of the trader's entrustment;\n(d) concealing material matters or using other improper means to induce traders to trade;\n(e) providing trading advice to traders on the basis of false or uncertain material information;\n(f) providing traders with false reports of concluded transactions;\n(g) failing to transmit traders' trading instructions to the futures trading venue;\n(h) misappropriating traders' margin;\n(i) failing to open margin accounts with a futures margin depository institution as required, or transferring traders' margin in violation of provisions;\n(j) taking advantage of the convenience of providing services to traders to obtain improper benefits or shift risks;\n(k) other conduct harming the rights and interests of traders."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter V Futures Operating Institutions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Futures trading venues shall follow the principle of giving priority to social and public interests, provide venues and facilities for futures trading, organise and supervise futures trading, maintain the fairness, orderliness and transparency of the market, and exercise self-regulation."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The establishment, modification and dissolution of a futures exchange shall be approved by the futures regulatory authority of the State Council.\nTo establish a futures exchange, articles of association shall be formulated. The formulation and amendment of the articles of association of a futures exchange shall be approved by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "A futures exchange shall indicate in its name the words \"commodity exchange\" or \"futures exchange\", etc. No other entity or individual may use the name futures exchange or other names likely to cause confusion or misleading."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "A futures exchange may adopt a membership organisation form or a company form.\nThe organisational structure of a membership futures exchange shall be prescribed by its articles of association."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Futures exchanges shall, in accordance with laws, administrative regulations and the provisions of the futures regulatory authority of the State Council, formulate the relevant business rules; the formulation and amendment of trading rules shall be submitted to the futures regulatory authority of the State Council for approval.\nThe business rules of futures exchanges shall embody the principle of fairly protecting the lawful rights and interests of all relevant parties in the market such as members and traders.\nThose engaging in futures trading and related activities on a futures exchange shall comply with the business rules lawfully formulated by the futures exchange. Those violating the business rules shall be given disciplinary sanctions or subjected to other self-regulatory measures by the futures exchange."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The person in charge of a futures exchange shall be nominated or appointed and removed by the futures regulatory authority of the State Council.\nA person in any of the circumstances provided by the Company Law of the People's Republic of China under which a person is unsuitable to serve as a director, supervisor or senior manager of a company, or in any of the following circumstances, may not serve as the person in charge of a futures exchange:\n(a) a director, supervisor or senior manager of a futures operating institution, or the person in charge of a futures trading venue or futures clearing institution, who was removed from office for unlawful or disciplinary conduct, where less than five years have elapsed since the date of removal;\n(b) a certified public accountant, lawyer or other professional of a futures service institution whose practice certificate was revoked or whose qualification was cancelled for unlawful or disciplinary conduct, where less than five years have elapsed since the date of revocation or cancellation."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Futures trading venues shall, in accordance with this Law and the provisions of the futures regulatory authority of the State Council, strengthen risk control over trading activities and the supervision and administration of members and of the staff of the trading venue, and perform the following duties in accordance with the law:\n(a) providing trading venues, facilities and services;\n(b) designing futures contract and standardised option contract varieties and arranging the listing of futures contract and standardised option contract varieties;\n(c) conducting real-time monitoring and risk monitoring of futures trading;\n(d) exercising self-regulation over members, traders, futures service institutions, etc. in accordance with the articles of association and business rules;\n(e) carrying out trader education and market cultivation;\n(f) other duties prescribed by the futures regulatory authority of the State Council.\nFutures trading venues may not participate directly or indirectly in futures trading. Without approval by the State Council, futures trading venues may not engage in trust investment, stock investment, investment in non-self-use real property or other business unrelated to their duties."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The income of a futures exchange shall be managed and used in accordance with the relevant provisions of the State and shall be used in priority to ensure the operation and improvement of the venues and facilities for futures trading."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Futures trading venues shall strengthen risk monitoring of futures trading; where abnormal circumstances occur, the futures trading venue may, in accordance with the business rules, independently or together with the futures clearing institution, take the following emergency measures and immediately report to the futures regulatory authority of the State Council:\n(a) adjusting margin;\n(b) adjusting the price limit range;\n(c) adjusting the trading limit or position limit standards for members and traders;\n(d) restricting the opening of positions;\n(e) compulsory liquidation;\n(f) temporarily suspending trading;\n(g) other emergency measures.\nAfter the abnormal circumstances disappear, the futures trading venue shall promptly cancel the emergency measures."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Futures trading venues shall publish real-time quotations of futures trading in real time and shall prepare and publish futures market quotation tables for each trading day.\nThe rights and interests in futures trading quotations shall be enjoyed by the futures trading venue. Without the permission of the futures trading venue, no entity or individual may publish futures trading quotations.\nFutures trading venues may not publish price forecast information.\nFutures trading venues shall, in accordance with the provisions of the futures regulatory authority of the State Council, perform the obligation of information reporting."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where unexpected events affect the normal conduct of futures trading, futures trading venues may, in order to maintain the normal order of futures trading and market fairness, take necessary disposal measures in accordance with this Law and the business rules, and shall promptly report to the futures regulatory authority of the State Council.\nWhere the unexpected events provided in the preceding paragraph cause material abnormalities in futures trading results, and settlement and delivery on the basis of the trading results would have a material impact on the normal order of futures trading and market fairness, the futures trading venue may, in accordance with the business rules, take measures such as cancelling the transactions, and shall promptly report to the futures regulatory authority of the State Council and make a public announcement."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Futures trading venues shall not bear civil liability for compensation for losses caused by measures taken in accordance with Articles 87 and 89 of this Law, unless there is gross negligence."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VI Futures Trading Venues"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Futures clearing institutions as referred to in this Law means legal persons established in accordance with the law that provide clearing and delivery services for futures trading and exercise self-regulation.\nFutures clearing institutions include futures trading venues with internal clearing departments, independent futures clearing institutions, and securities clearing institutions approved by the futures regulatory authority of the State Council to engage in futures trading clearing and delivery business related to securities business."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Futures Clearing Institutions"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "The establishment, modification and dissolution of an independent futures clearing institution shall be approved by the futures regulatory authority of the State Council.\nTo establish an independent futures clearing institution, the following conditions shall be met:\n(a) having sound financial status, with the minimum amount of registered capital complying with the provisions of the futures regulatory authority of the State Council;\n(b) having senior managers with the professional knowledge and business experience required for their positions;\n(c) having a comprehensive governance structure, internal control systems and risk control systems;\n(d) having business premises, information technology systems and other facilities relating to the clearing of futures trading that meet the requirements;\n(e) other conditions prescribed by the futures regulatory authority of the State Council.\nA futures trading venue assuming the duties of a futures clearing institution shall meet the conditions provided in paragraph 2 of this Article.\nThe futures regulatory authority of the State Council shall conduct examination on the principle of prudential supervision and make a decision to approve or not to approve within six months."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VII Futures Clearing Institutions"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "A futures clearing institution, as the central counterparty, is the common counterparty of clearing participants, conducts net settlement and provides centralised performance security for futures trading."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VII Futures Clearing Institutions"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Futures clearing institutions shall perform the following duties:\n(a) organising the clearing and delivery of futures trading;\n(b) exercising self-regulation over traders, futures operating institutions, futures service institutions, clearing participants that are not futures operating institutions, etc. in accordance with the articles of association and business rules;\n(c) handling information inquiry business relating to the clearing and delivery of futures trading;\n(d) other duties prescribed by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VII Futures Clearing Institutions"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Futures clearing institutions shall, in accordance with the provisions of the futures regulatory authority of the State Council, provide in their business rules for matters such as the clearing participant system, risk control system, information security management system, handling system for violations and defaults, and emergency handling and temporary disposal measures. The formulation and amendment of the articles of association and business rules of futures clearing institutions shall be approved by the futures regulatory authority of the State Council. Those participating in futures clearing shall comply with the business rules formulated by the futures clearing institution.\nIn formulating and implementing business rules, futures clearing institutions shall align and coordinate with the relevant systems of futures trading venues."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Chapter VII Futures Clearing Institutions"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Futures clearing institutions shall establish liquidity management systems to ensure the sound operation of clearing activities."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Chapter VII Futures Clearing Institutions"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The provisions of Article 84, paragraph 2 of Article 85, Article 86 and paragraphs 3 and 4 of Article 88 of this Law shall apply to independent futures clearing institutions and securities clearing institutions approved to engage in futures trading clearing and delivery business."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Chapter VII Futures Clearing Institutions"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Futures service institutions such as accounting firms, law firms, asset appraisal institutions, futures margin depository institutions, delivery warehouses and information technology service institutions shall perform their duties diligently and responsibly, provide services for futures trading and related activities in accordance with the relevant business rules, and provide the relevant materials as required by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Futures Service Institutions"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Where futures service institutions such as accounting firms, law firms and asset appraisal institutions accept entrustment from futures operating institutions, futures trading venues or futures clearing institutions to issue audit reports, legal opinions and other documents, they shall verify and validate the truthfulness, accuracy and completeness of the content of the documents and materials on which they rely."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Chapter VIII Futures Service Institutions"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Delivery warehouses include delivery storage warehouses and delivery factory warehouses, etc. Delivery warehouses provide the relevant services for the delivery of futures trading and shall meet the conditions prescribed by the futures trading venue. Futures trading venues shall conclude agreements with delivery warehouses to clarify the rights and obligations of both parties.\nDelivery warehouses may not engage in the following conduct:\n(a) issuing false warehouse receipts;\n(b) restricting the outbound and inbound delivery of goods in violation of the business rules of the futures trading venue;\n(c) divulging trade secrets relating to futures trading;\n(d) participating in futures trading in violation of the relevant provisions of the State;\n(e) other conduct in violation of the provisions of the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Chapter VIII Futures Service Institutions"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Institutions providing information technology system services for futures trading and related activities shall comply with the technical management provisions and standards of the State and the futures industry relating to information security, and shall file with the futures regulatory authority of the State Council.\nThe futures regulatory authority of the State Council may, in accordance with the law, require information technology service institutions to provide the relevant materials on the information technology systems provided in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Chapter VIII Futures Service Institutions"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The futures industry association is a self-regulatory organisation of the futures industry and a legal person of a social organisation.\nFutures operating institutions shall join the futures industry association. Futures service institutions may join the futures industry association."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Chapter IX Futures Industry Association"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "The organ of power of the futures industry association is the general meeting of members.\nThe articles of association of the futures industry association shall be formulated by the general meeting of members and filed with the futures regulatory authority of the State Council.\nThe futures industry association shall have a council. The members of the council shall be elected in accordance with the provisions of the articles of association."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Chapter IX Futures Industry Association"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The futures industry association shall perform the following duties:\n(a) formulating and implementing industry self-regulatory rules, supervising and inspecting the business activities of members and the practice conduct of practitioners, and giving disciplinary sanctions or implementing other self-regulatory measures in accordance with provisions against those violating laws, administrative regulations, relevant provisions of the State, the articles of association of the association and self-regulatory rules;\n(b) mediating disputes between members and between members and traders;\n(c) safeguarding the lawful rights and interests of members in accordance with the law and reflecting the suggestions and requests of members to the futures regulatory authority of the State Council;\n(d) organising business training for futures practitioners and carrying out business exchanges among members;\n(e) educating members and futures practitioners to comply with futures laws, regulations and policies, organising the development of industry integrity, and establishing incentive and restraint mechanisms for industry integrity;\n(f) carrying out trader education and protection, urging members to implement the trader suitability management system, and conducting publicity on the futures market;\n(g) exercising self-regulation over the information security work of members and urging members to implement the relevant provisions and technical standards of the State and the industry on information security;\n(h) organising members to conduct research on the development, operation and related content of the futures industry, collecting, collating and publishing futures-related information, providing services to members, organising industry exchanges, and guiding the innovative development of the industry;\n(i) other duties prescribed by the articles of association of the futures industry association."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Chapter IX Futures Industry Association"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The futures regulatory authority of the State Council shall, in accordance with the law, exercise supervision and administration over the futures market, maintain the openness, fairness and impartiality of the futures market, prevent systemic risks, safeguard the lawful rights and interests of traders, and promote the sound development of the futures market.\nIn exercising supervision and administration over the futures market, the futures regulatory authority of the State Council shall perform the following duties in accordance with the law:\n(a) formulating rules and regulations on the supervision and administration of the futures market, and conducting examination and approval, verification and registration, and handling filing in accordance with the law;\n(b) exercising supervision and administration over the listing, trading, clearing and delivery of varieties and other futures trading and related activities;\n(c) exercising supervision and administration over the futures business activities of market participants such as futures operating institutions, futures trading venues, futures clearing institutions, futures service institutions and clearing participants that are not futures operating institutions;\n(d) formulating codes of conduct for futures practitioners and supervising their implementation;\n(e) supervising and inspecting the disclosure of information on futures trading;\n(f) safeguarding the lawful rights and interests of traders and carrying out trader education;\n(g) investigating and dealing with futures violations of law;\n(h) monitoring, preventing and disposing of futures market risks;\n(i) supervising financial technology and information security in the futures industry;\n(j) guiding and supervising the self-regulatory activities of the futures industry association;\n(k) other duties prescribed by laws and administrative regulations.\nThe futures regulatory authority of the State Council may, as required, establish dispatched offices to perform supervision and administration duties in accordance with authorisation."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "In performing its duties in accordance with the law, the futures regulatory authority of the State Council has the right to take the following measures:\n(a) conducting on-site inspections of futures operating institutions, futures trading venues and futures clearing institutions and requiring them to submit the relevant materials on finance and accounting, business activities, internal control, etc.;\n(b) entering the premises where suspected unlawful conduct occurs to investigate and collect evidence;\n(c) questioning the parties and the entities and individuals relating to the investigated event, requiring them to make explanations on matters relating to the investigated event, or requiring them to submit documents and materials relating to the investigated event in a designated manner;\n(d) consulting and copying documents and materials such as property rights registration records and communication records relating to the investigated event;\n(e) consulting and copying the futures trading records, financial and accounting materials and other relevant documents and materials of the parties and of the entities and individuals relating to the investigated event; sealing up and seizing documents and materials that may be transferred, concealed or damaged;\n(f) inquiring into the margin accounts and bank accounts of the parties and of the entities and individuals relating to the investigated event and the information of other accounts having the functions of payment, custody and clearing, and copying the relevant documents and materials; where there is evidence proving that illegal funds or other property involved in the case have been or may be transferred or concealed, or that important evidence is concealed, forged or damaged, freezing and sealing up may be conducted upon approval by the principal person in charge of the futures regulatory authority of the State Council or another responsible person authorised by him, for a period of six months; where extension is necessary for special reasons, each extension may not exceed three months and the maximum period may not exceed two years;\n(g) when investigating major violations of law such as market manipulation and insider trading, restricting the trading of the parties to the investigated event upon approval by the principal person in charge of the futures regulatory authority of the State Council or another responsible person authorised by him, provided that the restriction may not exceed three months; where the case is complicated, it may be extended by three months;\n(h) deciding and notifying the exit and entry administration authority to prevent persons suspected of violations of law, the persons in charge of units suspected of violations of law and other persons directly responsible from leaving the country in accordance with the law.\nIn order to prevent futures market risks and maintain market order, the futures regulatory authority of the State Council may take measures such as ordering rectification, conducting supervisory talks and issuing warning letters."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "Where the futures regulatory authority of the State Council performs its duties in accordance with the law and conducts supervision and inspection or investigation, there shall be not less than two persons conducting the supervision and inspection or investigation, and they shall produce their law enforcement certificates and the relevant law enforcement documents for inspection, investigation and inquiry. Where there are fewer than two persons conducting the supervision and inspection or investigation, or where the law enforcement certificates and the relevant law enforcement documents are not produced, the entity or individual subject to inspection or investigation has the right to refuse."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The staff of the futures regulatory authority of the State Council shall act in accordance with the law, be loyal to their duties, be fair and honest, keep State secrets and the trade secrets of the relevant parties, and may not exploit their official convenience to seek improper benefits."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where the futures regulatory authority of the State Council performs its duties in accordance with the law, the entities and individuals subject to inspection or investigation shall cooperate, truthfully make explanations or provide the relevant documents and materials, and may not refuse, obstruct or conceal.\nThe futures regulatory authority of the State Council and other relevant departments shall establish mechanisms for coordination and cooperation in supervision and administration such as information sharing. Where the futures regulatory authority of the State Council performs its duties in accordance with the law and conducts supervision and inspection or investigation, the relevant departments shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Any entity or individual has the right to report suspected futures violations of law or regulations to the futures regulatory authority of the State Council.\nWhere a real-name report on a clue of suspected major violations of law or regulations is verified to be true, the futures regulatory authority of the State Council shall, in accordance with provisions, give the reporter a reward.\nThe futures regulatory authority of the State Council shall keep the identity information of reporters confidential."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The rules, regulations and supervision and administration work systems formulated by the futures regulatory authority of the State Council shall be made public in accordance with the law.\nThe penalty decisions made by the futures regulatory authority of the State Council on futures violations of law on the basis of investigation results shall be made public in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "During the investigation by the futures regulatory authority of the State Council of an entity or individual suspected of futures violations of law, where the party under investigation applies in writing and undertakes to correct the suspected unlawful conduct, compensate the losses of the relevant traders and eliminate the harm or adverse effects within a period recognised by the futures regulatory authority of the State Council, the futures regulatory authority of the State Council may decide to suspend the investigation. Where the party under investigation performs its undertaking, the futures regulatory authority of the State Council may decide to terminate the investigation; where the party under investigation fails to perform its undertaking or other circumstances prescribed by the State Council exist, the investigation shall be resumed. The specific measures shall be prescribed by the State Council.\nWhere the futures regulatory authority of the State Council suspends or terminates an investigation, it shall make the relevant information public in accordance with provisions."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "The futures regulatory authority of the State Council shall, in accordance with the law, include the compliance of the relevant futures market entities with this Law in the futures market integrity records."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "Where the futures regulatory authority of the State Council, in performing its duties in accordance with the law, discovers that a futures violation of law is suspected of constituting a crime, it shall transfer the case to the judicial authority for handling in accordance with the law; where it discovers that a public official is suspected of an official violation of law or an official crime, it shall transfer the case to the supervisory authority for handling in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "The futures regulatory authority of the State Council shall establish and improve the futures market monitoring system and strengthen the monitoring of the safe custody of margin through specialised institutions."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "In order to prevent the risks of trading and clearing, futures operating institutions, futures trading venues, futures clearing institutions and clearing participants that are not futures operating institutions shall draw, manage and use risk reserves from business income in accordance with the provisions of the futures regulatory authority of the State Council and the finance department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "Futures operating institutions, futures trading venues, futures clearing institutions, futures service institutions and clearing participants that are not futures operating institutions, etc. shall, in accordance with provisions, properly preserve the materials and information relating to business operations, and no person may divulge, conceal, forge, tamper with or damage them. The preservation period of information and materials of futures operating institutions, futures trading venues, futures clearing institutions and clearing participants that are not futures operating institutions may not be less than 20 years; the preservation period of information and materials of futures service institutions may not be less than 10 years."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Chapter X Supervision and Administration"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where an overseas futures trading venue provides domestic entities or individuals with services of direct access to its trading system for trading, it shall apply to the futures regulatory authority of the State Council for registration and accept the supervision and administration of the futures regulatory authority of the State Council, unless otherwise provided by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Chapter XI Cross-border Trading and Regulatory Cooperation"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where futures contracts, option contracts and derivatives contracts listed on overseas futures trading venues are settled by linkage to the prices of contracts listed on domestic futures trading venues, they shall comply with the provisions of the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Chapter XI Cross-border Trading and Regulatory Cooperation"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where domestic entities or individuals engage in overseas futures trading, they shall entrust domestic futures operating institutions qualified for overseas futures brokerage business to do so, unless otherwise provided by the State Council.\nWhere a domestic futures operating institution sub-entrusts an overseas futures operating institution to engage in overseas futures trading, the overseas futures operating institution shall apply to the futures regulatory authority of the State Council for registration and accept the supervision and administration of the futures regulatory authority of the State Council, unless otherwise provided by the futures regulatory authority of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Chapter XI Cross-border Trading and Regulatory Cooperation"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "Where an overseas futures trading venue establishes a representative office within the territory, it shall file with the futures regulatory authority of the State Council.\nA representative office of an overseas futures trading venue and its staff may not engage in or engage in a disguised form in any business activities."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Chapter XI Cross-border Trading and Regulatory Cooperation"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where an overseas institution engages in futures marketing, promotion and solicitation activities within the territory, it shall obtain approval from the futures regulatory authority of the State Council, and the relevant provisions of this Law shall apply.\nWhere a domestic institution engages in futures marketing, promotion and solicitation activities within the territory for an overseas institution, it shall obtain approval from the futures regulatory authority of the State Council.\nNo entity or individual may engage in futures marketing, promotion and solicitation activities in violation of the preceding two paragraphs."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Chapter XI Cross-border Trading and Regulatory Cooperation"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "The futures regulatory authority of the State Council may establish supervisory cooperation mechanisms with overseas futures regulatory authorities or join international organisations to implement cross-border supervision and administration.\nWhere the futures regulatory authority of the State Council provides assistance at the request of an overseas futures regulatory authority, it shall follow the provisions of State laws and regulations and the principles of reciprocity and mutual benefit, may not divulge State secrets, and may not harm national interests and social and public interests."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Chapter XI Cross-border Trading and Regulatory Cooperation"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "The futures regulatory authority of the State Council may, in accordance with the regulatory cooperation arrangements reached with overseas futures regulatory authorities, accept requests from overseas futures regulatory authorities and conduct investigation and evidence collection for them in accordance with the duties and procedures prescribed by this Law. The overseas futures regulatory authority shall provide the relevant case materials and explain that it is investigating the conduct of the party under investigation suspected of violating the local futures laws and regulations of the requesting party. Overseas futures regulatory authorities may not directly conduct investigation, evidence collection and other activities within the territory of the People's Republic of China.\nWithout the consent of the futures regulatory authority of the State Council and the relevant competent departments of the State Council, no entity or individual may provide documents and materials relating to futures business activities to overseas supervisory authorities without authorisation.\nThe futures regulatory authority of the State Council may, in accordance with the regulatory cooperation arrangements reached with overseas futures regulatory authorities, request overseas futures regulatory authorities to conduct investigation and evidence collection."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Chapter XI Cross-border Trading and Regulatory Cooperation"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "Where, in violation of Article 12 of this Law, the futures market or the derivatives market is manipulated, it shall be ordered to rectify, the illegal gains shall be confiscated, and a fine of not less than one time but not more than ten times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than one million yuan, a fine of not less than one million yuan but not more than ten million yuan shall be imposed. Where a unit manipulates the market, a warning shall also be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed.\nWhere market manipulation causes losses to traders, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "Where, in violation of Article 13 of this Law, insider trading is conducted, it shall be ordered to rectify, the illegal gains shall be confiscated, and a fine of not less than one time but not more than ten times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than 500,000 yuan, a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed. Where a unit conducts insider trading, a warning shall also be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed.\nWhere staff of the futures regulatory authority of the State Council, departments authorised by the State Council, futures trading venues or futures clearing institutions conduct insider trading, they shall be given a heavier penalty.\nWhere insider trading causes losses to traders, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where, in violation of paragraphs 1 and 3 of Article 16 of this Law, false information or misleading information is fabricated or disseminated to disrupt the futures market or the derivatives market, the illegal gains shall be confiscated and a fine of not less than one time but not more than ten times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than 200,000 yuan, a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 100,000 yuan but not more than one million yuan shall be imposed.\nWhere, in violation of paragraph 2 of Article 16 of this Law, false statements or misleading information are made in futures trading or derivatives trading activities, it shall be ordered to rectify and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed; where the offender is a functionary of the State, a sanction shall also be given in accordance with the law.\nWhere media and their staff engaged in reporting information on the futures market and the derivatives market, in violation of paragraph 3 of Article 16 of this Law, engage in futures trading or derivatives trading that conflicts with their duties, the illegal gains shall be confiscated and a fine of not more than one time the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than 100,000 yuan, a fine of not more than 100,000 yuan shall be imposed.\nWhere false information relating to futures trading or derivatives trading is fabricated or disseminated, or misleading information is given in futures trading or derivatives trading, causing losses to traders, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "Where, in violation of paragraph 2 of Article 18 of this Law, a person lends its own futures account or borrows another person's futures account to conduct futures trading, it shall be ordered to rectify, be given a warning, and may be imposed a fine of not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "Where, in violation of Article 21 of this Law, algorithmic trading is adopted to affect the security of the systems of a futures trading venue or the normal trading order, it shall be ordered to rectify and a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 100,000 yuan but not more than one million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "Where, in violation of Article 27 of this Law, the relevant material matters are not reported, it shall be ordered to rectify, be given a warning, and may be imposed a fine of not more than one million yuan."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where persons prohibited from participating in futures trading by laws, administrative regulations and the futures regulatory authority of the State Council, in violation of Article 53 of this Law, participate in futures trading directly or under an assumed name or in another person's name, they shall be ordered to rectify, be given a warning, have their illegal gains confiscated, and be imposed a fine of not less than 50,000 yuan but not more than 500,000 yuan; where the offender is a functionary of the State, a sanction shall also be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where a futures company is unlawfully established, or the relevant futures business is engaged in without approval, it shall be banned, the illegal gains shall be confiscated, and a fine of not less than one time but not more than ten times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than one million yuan, a fine of not less than one million yuan but not more than ten million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Where false application documents are submitted or other fraudulent means are adopted to obtain, by deception, the licence for the establishment of a futures company, the approval for a change of material matters or the futures business licence of a futures operating institution, the relevant licence shall be revoked, the illegal gains shall be confiscated, and a fine of not less than one time but not more than ten times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than 200,000 yuan, a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where a futures operating institution violates Articles 40, 62, 65, 68, 71 or 72 of this Law, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated, and be imposed a fine of not less than one time but not more than ten times the illegal gains; where there are no illegal gains or the illegal gains are less than 200,000 yuan, a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed; where the circumstances are serious, it shall be ordered to suspend business for rectification or its futures business licence shall be revoked. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed.\nWhere a futures operating institution is in any of the unlawful circumstances listed in the preceding paragraph and causes losses to traders, it shall bear liability for compensation in accordance with the law.\nWhere the principal shareholder, actual controller or other related party of a futures operating institution violates Article 71 of this Law, it shall be punished in accordance with paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where a futures operating institution violates the provisions of Article 50 of this Law on trader suitability management, or violates Article 66 of this Law by accepting discretionary entrustment from traders in conducting brokerage business, or commits any conduct harming the interests of traders as provided in Article 78, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated, and be imposed a fine of not less than one time but not more than ten times the illegal gains; where there are no illegal gains or the illegal gains are less than 500,000 yuan, a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed; where the circumstances are serious, the relevant business licence shall be revoked. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed.\nWhere a futures operating institution commits any conduct provided in Article 78 of this Law and causes losses to traders, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Where, in violation of Articles 11, 80 or 92 of this Law, a futures trading venue or futures clearing institution is unlawfully established, or futures trading is organised in another form, the illegal gains shall be confiscated and a fine of not less than one time but not more than ten times the illegal gains shall be imposed; where there are no illegal gains or the illegal gains are less than one million yuan, a fine of not less than one million yuan but not more than ten million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed. Where a futures trading venue is unlawfully established, the people's government at or above the county level shall ban it.\nWhere, in violation of Article 30 of this Law, derivatives trading is organised without approval, or where a financial institution, in violation of Article 31 of this Law, engages in derivatives trading without approval or verification, it shall be punished in accordance with the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Where a futures trading venue or futures clearing institution violates Article 17, Article 40 or paragraph 2 of Article 85 of this Law, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated, and be imposed a fine of not less than one time but not more than ten times the illegal gains; where there are no illegal gains or the illegal gains are less than 200,000 yuan, a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed; where the circumstances are serious, it shall be ordered to suspend business for rectification. A fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on the persons directly in charge and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Where a futures trading venue or futures clearing institution, in violation of paragraph 3 of Article 88 of this Law, publishes price forecast information, it shall be ordered to rectify, be given a warning, and be imposed a fine of not less than 200,000 yuan but not more than two million yuan. A fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed on the persons directly in charge and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "Where a futures service institution, in violation of Article 98 of this Law, engages in futures service business without providing the relevant materials as required, it shall be ordered to rectify and may be imposed a fine of not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where futures service institutions such as accounting firms, law firms and asset appraisal institutions, in violation of Article 99 of this Law, fail to perform their duties diligently and the documents prepared or issued by them contain false records, misleading statements or material omissions, they shall be ordered to rectify, their business income shall be confiscated, and a fine of not less than one time but not more than ten times the business income shall be imposed; where there is no business income or the business income is less than 500,000 yuan, a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed.\nWhere a futures service institution commits any of the unlawful conduct listed in the preceding paragraph and causes losses to others, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where a delivery warehouse commits any of the conduct listed in Article 100 of this Law, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated, and be imposed a fine of not less than one time but not more than ten times the illegal gains; where there are no illegal gains or the illegal gains are less than 100,000 yuan, a fine of not less than 100,000 yuan but not more than one million yuan shall be imposed; where the circumstances are serious, the futures trading venue shall be ordered to suspend or cancel its qualification as a delivery warehouse. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "Where an information technology service institution, in violation of Article 101 of this Law, fails to file, it shall be ordered to rectify and may be imposed a fine of not more than 200,000 yuan.\nWhere an information technology service institution, in violation of Article 101 of this Law, provides services not complying with the technical management provisions and standards of the State and the futures industry relating to information security, it shall be ordered to rectify, its business income shall be confiscated, and a fine of not less than one time but not more than ten times the business income shall be imposed; where there is no business income or the business income is less than 500,000 yuan, a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 200,000 yuan but not more than two million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Where, in violation of Article 116 of this Law, a futures operating institution, futures trading venue, futures clearing institution or clearing participant that is not a futures operating institution fails to draw, manage and use risk reserves in accordance with provisions, it shall be ordered to rectify and be given a warning. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 100,000 yuan but not more than one million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Where, in violation of Article 117 of this Law, futures operating institutions, futures trading venues, futures clearing institutions, futures service institutions, clearing participants that are not futures operating institutions, etc. fail to properly preserve the materials and information relating to business operations in accordance with provisions, they shall be ordered to rectify, be given a warning, and be imposed a fine of not less than 100,000 yuan but not more than one million yuan; where the relevant documents and materials are divulged, concealed, forged, tampered with or damaged, they shall be ordered to rectify, be given a warning, and be imposed a fine of not less than 200,000 yuan but not more than two million yuan; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed, and the relevant business licence shall be suspended or revoked or they shall be prohibited from engaging in the relevant business. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 100,000 yuan but not more than one million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "Where an overseas futures trading venue or futures operating institution, in violation of Articles 118 and 120 of this Law, fails to apply to the futures regulatory authority of the State Council for registration, it shall be ordered to rectify, have its illegal gains confiscated, and be imposed a fine of not less than one time but not more than ten times the illegal gains; where there are no illegal gains or the illegal gains are less than 500,000 yuan, a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 100,000 yuan but not more than one million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Where a domestic entity or individual violates paragraph 1 of Article 120 of this Law, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated, and be imposed a fine of not less than 100,000 yuan but not more than one million yuan; where the circumstances are serious, its overseas futures trading shall be suspended. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "Where a representative office established within the territory by an overseas futures trading venue or its staff, in violation of Article 121 of this Law, engages in or engages in a disguised form in any business activities, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated, and be imposed a fine of not less than one time but not more than ten times the illegal gains; where there are no illegal gains or the illegal gains are less than 500,000 yuan, a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 100,000 yuan but not more than one million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where, in violation of Article 122 of this Law, marketing, promotion and solicitation activities are conducted within the territory, it shall be ordered to rectify, be given a warning, have its illegal gains confiscated, and be imposed a fine of not less than one time but not more than ten times the illegal gains; where there are no illegal gains or the illegal gains are less than 500,000 yuan, a fine of not less than 500,000 yuan but not more than five million yuan shall be imposed. A warning shall be given to the persons directly in charge and other persons directly responsible, and a fine of not less than 100,000 yuan but not more than one million yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Where a person refuses or obstructs the futures regulatory authority of the State Council or a department authorised by the State Council or their staff in lawfully exercising the powers of supervision and inspection or investigation, it shall be ordered to rectify and be imposed a fine of not less than 100,000 yuan but not more than one million yuan, and the public security organ shall impose a public security administration penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Where laws, administrative regulations or the relevant provisions of the futures regulatory authority of the State Council are violated and the circumstances are serious, the futures regulatory authority of the State Council may take the measure of prohibiting the relevant responsible persons from entering the futures market.\nProhibition from entering the futures market referred to in the preceding paragraph means a system under which, for a certain period up to life, a person may not conduct futures trading or engage in futures business, and may not serve as a director, supervisor, senior manager or person in charge of a futures operating institution, futures trading venue or futures clearing institution."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Chapter XII Legal Liability"
         }
       }
     ]

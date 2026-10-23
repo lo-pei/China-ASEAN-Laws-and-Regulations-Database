@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p11
-   法规 76 部 / 译文 880 条
+   法规 77 部 / 译文 1043 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -1878,6 +1878,1488 @@
         },
         "noLabel": {
           "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0436'] = {
+    "lawId": "CN-JI-0436",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 163 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation is dissatisfied with an administrative act of an administrative organ or of its staff and files an action in accordance with the law, the case shall fall within the scope of cases accepted by a people's court for administrative litigation.\nThe following acts shall not fall within the scope of administrative litigation cases accepted by people's courts:\n(a) acts performed by public security, State security and other organs under the express authorisation of the Criminal Procedure Law;\n(b) mediation acts and arbitration acts prescribed by law;\n(c) administrative guidance acts;\n(d) repeated handling acts dismissing a party's appeal against an administrative act;\n(e) acts of administrative organs that do not produce external legal effect;\n(f) procedural acts such as preparation, argumentation, research, reporting to higher levels and consultation carried out by administrative organs for the purpose of making an administrative act;\n(g) enforcement acts carried out by administrative organs on the basis of effective judgments of people's courts or notices of assistance in enforcement, except where the administrative organ expands the scope of enforcement or carries it out in an unlawful manner;\n(h) acts of a higher administrative organ such as hearing reports, conducting law enforcement inspections and urging the performance of duties in respect of a lower administrative organ on the basis of an internal hierarchical supervisory relationship;\n(i) acts of administrative organs such as registration, acceptance, assignment, transmission, review opinions and re-examination opinions made in response to letters and visits;\n(j) acts that produce no actual effect on the rights and obligations of citizens, legal persons or other organisations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "\"Acts of State\" as provided in item 1 of Article 13 of the Administrative Litigation Law means acts relating to national defence and foreign affairs performed in the name of the State by the State Council, the Central Military Commission, the Ministry of National Defence, the Ministry of Foreign Affairs, etc. under the authorisation of the Constitution and laws, as well as acts such as declarations of a state of emergency by State organs authorised by the Constitution and laws.\n\"Decisions and orders with universal binding force\" as provided in item 2 of Article 13 of the Administrative Litigation Law means normative documents issued by administrative organs in respect of unspecified objects that can be applied repeatedly.\n\"Decisions on rewards and punishments, appointment and removal, etc. in respect of the staff of administrative organs\" as provided in item 3 of Article 13 of the Administrative Litigation Law means decisions made by administrative organs concerning the rights and obligations of the staff of administrative organs as public servants.\n\"Laws\" in \"administrative acts for which the law provides that an administrative organ shall make a final ruling\" as provided in item 4 of Article 13 of the Administrative Litigation Law means normative documents formulated and adopted by the National People's Congress and its Standing Committee.\nII. Jurisdiction"
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Administrative adjudication divisions of people's courts at all levels shall try administrative cases and review cases in which administrative organs apply for enforcement of their administrative acts.\nSpecialised people's courts and people's tribunals shall not try administrative cases, nor shall they review or enforce cases in which administrative organs apply for enforcement of their administrative acts. Where specialised people's courts such as railway transport courts try administrative cases, the provisions of paragraph 2 of Article 18 of the Administrative Litigation Law shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "After a case has been docketed, the jurisdiction of the people's court hearing the case shall not be affected by changes in facts or legal status such as changes in the domicile of a party or the addition of a defendant."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Any of the following circumstances shall constitute \"a major or complex case within the jurisdiction\" as provided in item 3 of Article 15 of the Administrative Litigation Law:\n(a) a joint action with major social impact;\n(b) a case involving foreign elements or involving the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region;\n(c) other major or complex cases."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a party, on the ground that the case is major and complex, considers that a basic-level people's court with jurisdiction is not suitable to exercise jurisdiction, or files an action with an intermediate people's court in accordance with Article 52 of the Administrative Litigation Law, the intermediate people's court shall, according to the different circumstances, make one of the following dispositions within seven days:\n(a) decide to try the case itself;\n(b) designate another basic-level people's court within its jurisdiction to exercise jurisdiction;\n(c) notify the party in writing to file the action with the basic-level people's court having jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a basic-level people's court considers that a first-instance administrative case under its jurisdiction needs to be tried by an intermediate people's court or requires designated jurisdiction, it may report the matter to the intermediate people's court for decision. The intermediate people's court shall, according to the different circumstances, make one of the following dispositions within seven days:\n(a) decide to try the case itself;\n(b) designate another basic-level people's court within its jurisdiction to exercise jurisdiction;\n(c) decide that the case be tried by the people's court that made the report."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "\"The locality of the plaintiff\" as provided in Article 19 of the Administrative Litigation Law includes the place of household registration of the plaintiff, the place of habitual residence and the place where personal freedom is restricted.\nWhere a party is dissatisfied with an administrative organ that, on the basis of the same facts, has adopted both an administrative compulsory measure restricting the personal freedom of a citizen and other administrative compulsory measures or an administrative penalty, the case shall be under the jurisdiction of the people's court at the locality of the defendant or at the locality of the plaintiff."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "\"An administrative action instituted on the ground of real property\" as provided in Article 20 of the Administrative Litigation Law means an action instituted on the ground that an administrative act has caused a change in real rights over immovable property.\nWhere the immovable property has been registered, the locality recorded in the immovable property register shall be the locality of the immovable property; where the immovable property has not been registered, the actual locality of the immovable property shall be the locality of the immovable property."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a defendant raises an objection to jurisdiction after a people's court has accepted a case, it shall do so within 15 days from the date of receipt of the copy of the complaint.\nA people's court shall review an objection to jurisdiction raised by a party. Where the objection is established, it shall rule to transfer the case to the people's court having jurisdiction; where the objection is not established, it shall rule to reject the objection.\nWhere a people's court determines after reviewing an objection to jurisdiction that it has jurisdiction, the jurisdiction shall not be changed by reason of a party increasing or altering its claims, unless the provisions on jurisdiction by level or exclusive jurisdiction are violated."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A people's court shall not review any of the following circumstances:\n(a) where a party raises an objection to jurisdiction in a case remanded for retrial or retried under first-instance procedure;\n(b) where a party raises an objection to jurisdiction in second-instance proceedings when it failed to raise the objection within the time limit and in the form prescribed by law in the first-instance proceedings.\nIII. Participants in Litigation"
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Any of the following circumstances shall constitute \"having an interest in the administrative act\" as provided in paragraph 1 of Article 25 of the Administrative Litigation Law:\n(a) the administrative act under challenge involves the party's right of neighbourhood or right to fair competition;\n(b) the party was added as a third party in administrative reconsideration or other administrative proceedings;\n(c) the party requests an administrative organ to pursue the legal liability of the person causing the harm in accordance with the law;\n(d) the revocation or modification of the administrative act involves the party's lawful rights and interests;\n(e) the party has lodged a complaint with an administrative organ to safeguard its own lawful rights and interests and the administrative organ having the duty to handle complaints has or has not handled it;\n(f) other circumstances in which the party has an interest in the administrative act."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a creditor institutes an administrative action on the ground that an administrative act made by an administrative organ in respect of the debtor impairs the realisation of its claim, the people's court shall inform it to institute a civil action in respect of the civil dispute, unless the administrative organ should have protected or taken into account the claim in accordance with the law when making the administrative act."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "\"Close relatives\" as provided in paragraph 2 of Article 25 of the Administrative Litigation Law includes spouses, parents, children, siblings, paternal and maternal grandparents, grandchildren and other relatives having a relationship of support or maintenance.\nWhere a citizen is unable to institute an action because his personal freedom is restricted, his close relatives may, upon his oral or written entrustment, institute the action in the name of that citizen. Where the close relatives are unable to contact the citizen whose personal freedom is restricted when instituting the action, the close relatives may institute the action first and submit the proof of entrustment supplementarily during the proceedings."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a partnership enterprise institutes an action with a people's court, the trade name approved and registered shall be the plaintiff. In the case of an individual partnership that has not been registered in accordance with the law and has not obtained a business licence, all the partners shall be joint plaintiffs; all the partners may elect representatives, and a letter of election shall be issued by all the partners for the elected representatives.\nWhere an individual industrial and commercial household institutes an action with a people's court, the operator registered on the business licence shall be the plaintiff. Where it has a trade name, the trade name registered on the business licence shall be the plaintiff, and the basic information of the operator of that trade name shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where the shareholders' meeting, shareholders' assembly or board of directors of a joint-stock enterprise considers that an administrative act made by an administrative organ infringes the enterprise's operational autonomy, it may institute an action in the name of the enterprise.\nWhere any party to a joint venture enterprise or a Chinese-foreign equity joint venture or contractual joint venture considers that the rights and interests of the joint venture, equity joint venture or contractual joint venture, or its own lawful rights and interests, are infringed by an administrative act, it may institute an action in its own name.\nWhere a non-State-owned enterprise is cancelled, revoked, merged, compulsorily amalgamated, sold, split or has its subordinate relationship changed by an administrative organ, the enterprise or its legal representative may institute an action."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where the investors or founders of a non-profit legal person such as a public institution, social organisation, foundation or social service institution consider that an administrative act harms the lawful rights and interests of the legal person, they may institute an action in their own names."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "An owners' committee may institute an action in its own name in respect of an administrative act made by an administrative organ that involves the common interests of the owners.\nWhere the owners' committee does not institute an action, owners whose exclusive parts account for more than half of the total floor area of the building or who account for more than half of the total number of households may institute an action."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a party is dissatisfied with an administrative act approved by a higher administrative organ and institutes an action with a people's court, the organ whose name appears on the document that produces external legal effect shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an institution established by an administrative organ and vested with administrative management functions but not capable of independently bearing legal liability makes an administrative act in its own name and a party is dissatisfied and institutes an action, the administrative organ that established the institution shall be the defendant.\nWhere an internal body, dispatched body or other organisation of an administrative organ authorised by laws, regulations or rules to exercise administrative powers performs an administrative act beyond the scope of statutory authorisation and a party is dissatisfied and institutes an action, the body or organisation that performed the act shall be the defendant.\nWhere, in the absence of provisions of laws, regulations or rules, an administrative organ authorises its internal body, dispatched body or other organisation to exercise administrative powers, it shall constitute an entrustment as provided in Article 26 of the Administrative Litigation Law. Where a party is dissatisfied and institutes an action, the administrative organ shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a party is dissatisfied with an administrative act made by the management institution of a development zone approved for establishment by the State Council or a provincial people's government and institutes an action, that management institution shall be the defendant; where a party is dissatisfied with an administrative act made by a functional department of a management institution of a development zone approved for establishment by the State Council or a provincial people's government and institutes an action, that functional department shall be the defendant; where a party is dissatisfied with an administrative act made by a functional department of any other management institution of a development zone and institutes an action, the management institution of the development zone shall be the defendant; where the management institution of the development zone does not have the qualification of an administrative subject, the local people's government that established it shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "\"The reconsideration organ alters the original administrative act\" as provided in paragraph 2 of Article 26 of the Administrative Litigation Law means that the reconsideration organ alters the outcome of the original administrative act. Where the reconsideration organ alters the main facts and evidence found in the original administrative act, or alters the normative basis applied in the original administrative act, but does not alter the outcome of the original administrative act, it shall be deemed that the reconsideration organ has upheld the original administrative act.\nWhere the reconsideration organ confirms that the original administrative act is invalid, it shall constitute an alteration of the original administrative act.\nWhere the reconsideration organ confirms that the original administrative act is unlawful, it shall constitute an alteration of the original administrative act, except where the reconsideration organ confirms that the original administrative act is unlawful on the ground of violation of statutory procedure."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where an administrative organ has been abolished or its functions and powers have been changed and there is no administrative organ continuing to exercise its functions and powers, the people's government to which it belongs shall be the defendant; where vertical leadership is practised, the administrative organ at the next higher level in the vertical leadership shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a party is dissatisfied with an act performed by a villagers' committee or residents' committee in performing administrative management duties under the authorisation of laws, regulations or rules and institutes an action, the villagers' committee or residents' committee shall be the defendant.\nWhere a party is dissatisfied with an act performed by a villagers' committee or residents' committee under the entrustment of an administrative organ and institutes an action, the entrusting administrative organ shall be the defendant.\nWhere a party is dissatisfied with an administrative act performed by a public institution such as an institution of higher education or by an industry association such as a lawyers association or a certified public accountants association under the authorisation of laws, regulations or rules and institutes an action, that public institution or industry association shall be the defendant.\nWhere a party is dissatisfied with an act performed by a public institution such as an institution of higher education or by an industry association such as a lawyers association or a certified public accountants association under the entrustment of an administrative organ and institutes an action, the entrusting administrative organ shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the housing expropriation department determined by a people's government at the municipal or county level makes an administrative act in the course of organising the implementation of housing expropriation and compensation and the expropriated person is dissatisfied and institutes an action, the housing expropriation department shall be the defendant.\nWhere an expropriation implementation unit, entrusted by the housing expropriation department, engages in conduct within the scope of the entrustment and the expropriated person is dissatisfied and institutes an action, the housing expropriation department shall be the defendant."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the defendant named by the plaintiff in the action is not qualified, the people's court shall inform the plaintiff to change the defendant; where the plaintiff does not agree to change, it shall rule to reject the action.\nWhere a defendant should be added but the plaintiff does not agree to the addition, the people's court shall notify that party to participate in the proceedings as a third party, except where the administrative reconsideration organ is a co-defendant."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a party that must jointly participate in the proceedings has not participated, the people's court shall notify it to participate in accordance with the law; a party may also apply to the people's court for participation.\nThe people's court shall review the application made by a party; where the grounds for the application are not established, it shall rule to reject it; where the grounds are established, it shall notify the applicant in writing to participate in the proceedings.\nJoint participation in proceedings as referred to in the preceding paragraph means, in accordance with Article 27 of the Administrative Litigation Law, an action in which one or both parties consist of two or more persons and an administrative dispute arises from the same administrative act and which the people's court must try in a consolidated manner."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "When a people's court adds a party to a joint action, it shall notify the other parties. A plaintiff that should be added but has expressly waived its substantive rights need not be added; one that is neither willing to participate in the proceedings nor waives its substantive rights shall be added as a third party, and its failure to participate in the proceedings shall not prevent the people's court from trying and adjudicating the case."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "\"A large number of persons\" as provided in Article 28 of the Administrative Litigation Law generally means 10 or more persons.\nIn accordance with Article 28 of the Administrative Litigation Law, where one party consists of a large number of persons, the parties shall elect representatives. Where the parties fail to elect representatives, the people's court may designate representatives from among the parties that instituted the action.\nThe number of representatives provided in Article 28 of the Administrative Litigation Law shall be two to five. The representatives may entrust one or two persons as litigation representatives."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the same administrative act of an administrative organ involves two or more interested parties and some of those interested parties, being dissatisfied with the administrative act, institute an action, the people's court shall notify the other interested parties that have not instituted an action to participate in the proceedings as third parties.\nA third party having an interest in the outcome of an administrative case may apply to participate in the proceedings, or the people's court may notify it to participate. A third party whose obligations are determined or whose rights and interests are diminished by a judgment of the people's court shall have the right to appeal or apply for retrial.\nWhere a third party as provided in Article 29 of the Administrative Litigation Law fails to participate in the proceedings for reasons not attributable to itself, but has evidence proving that an effective judgment, ruling or mediation statement has harmed its lawful rights and interests, it may, in accordance with Article 90 of the Administrative Litigation Law, apply to the people's court at the next higher level for retrial within six months from the date on which it knew or ought to have known that its lawful rights and interests were harmed."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a party entrusts a litigation representative, it shall submit to the people's court a power of attorney signed or sealed by the principal. The power of attorney shall state the matters entrusted and the specific scope of authority. Where a citizen is unable to entrust in writing under special circumstances, another person may write it on his behalf, and it shall be confirmed by the citizen by fingerprint or other means, and the people's court shall verify and record it in the case file; where the administrative organ being sued or another organ obliged to assist refuses to allow the people's court to verify with the citizen whose personal freedom is restricted, the entrustment shall be deemed established. Where a party rescinds or alters the entrustment, it shall report it to the people's court in writing."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In accordance with item 2 of paragraph 2 of Article 31 of the Administrative Litigation Law, an employee having a lawful labour or personnel relationship with a party may act as a litigation representative in the capacity of the party's staff member. To participate in litigation activities as a staff member of a party, one of the following pieces of evidence shall be submitted for proof:\n(a) a voucher of payment of social insurance;\n(b) a voucher of receipt of wages;\n(c) other evidence capable of proving his status as a staff member of the party."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "In accordance with item 3 of paragraph 2 of Article 31 of the Administrative Litigation Law, where a relevant social organisation recommends a citizen to serve as a litigation representative, the following conditions shall be met:\n(a) the social organisation is a non-profit legal person organisation registered for establishment in accordance with the law or exempted from registration for establishment in accordance with the law;\n(b) the principal is a member of the social organisation, or the domicile of one party is located within the area of activity of the social organisation;\n(c) the matter of representation falls within the scope of business stated in the articles of association of the social organisation;\n(d) the citizen recommended is the person in charge of the social organisation or a staff member having a lawful labour or personnel relationship with the social organisation.\nPatent agents recommended by the All-China Patent Agents Association may serve as litigation representatives in patent administrative cases.\nIV. Evidence"
+        },
+        "noLabel": {
+          "en": "Article 33."
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In accordance with paragraph 1 of Article 36 of the Administrative Litigation Law, where a defendant applies for an extension of time to provide evidence, it shall submit a written application to the people's court within 15 days from the date of receipt of the copy of the complaint. Where the people's court permits an extension, the defendant shall provide the evidence within 15 days after the legitimate reasons are eliminated. Evidence provided beyond the time limit shall be deemed that the administrative act under challenge has no corresponding evidence."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A plaintiff or third party shall provide evidence before the hearing or on the date designated by the people's court for the exchange of the list of evidence. Where an application for an extension of time to provide evidence is made for legitimate reasons, the evidence may, with the permission of the people's court, be provided during the court investigation. Where evidence is provided beyond the time limit, the people's court shall order the party to explain the reasons; where the party refuses to explain or the reasons are not established, it shall be deemed to have waived the right to adduce evidence.\nEvidence provided by a plaintiff or third party in second-instance proceedings without legitimate reasons, having not been provided in first-instance proceedings, shall not be accepted by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a party applies for an extension of the time limit for adducing evidence, it shall submit a written application to the people's court before the time limit expires.\nWhere the grounds for the application are established, the people's court shall permit it, appropriately extend the time limit for adducing evidence and notify the other parties. Where the grounds are not established, the people's court shall not permit it and shall notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "In accordance with Article 39 of the Administrative Litigation Law, in respect of facts that are not disputed by the parties but involve the interests of the State or the public interest or the lawful rights and interests of others, the people's court may order the parties to provide or supplement the relevant evidence."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "For cases in which the facts are relatively complex or the amount of evidence is relatively large, the people's court may organise the parties to present or exchange evidence with each other before the hearing and shall record the circumstances of the exchange of the list of evidence in the case file.\nEvidence that is not disputed by the parties in the pre-trial exchange of evidence and is recorded in the case file may, after being explained by the judicial personnel at the hearing, serve as the basis for establishing the facts of the case."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a party applies to investigate and collect evidence but the evidence is unrelated to the facts to be proved, is of no significance for proving the facts to be proved, or is otherwise unnecessary to investigate and collect, the people's court shall not permit it."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Before a witness testifies in court, the people's court shall inform the witness of the obligation to testify truthfully and the legal consequences of giving false testimony.\nNecessary expenses such as transport, accommodation and meals incurred by a witness in performing the obligation to testify in court, as well as losses from loss of working time, shall be borne by the party that loses the case."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "In any of the following circumstances, where the plaintiff or a third party requests the relevant administrative law enforcement personnel to appear in court to give explanations, the people's court may permit it:\n(a) objection to the legality or authenticity of the on-site record;\n(b) objection to the variety or quantity of the seized property;\n(c) objection to the sampling or custody of the items inspected;\n(d) objection to the legality of the identity of the administrative law enforcement personnel;\n(e) other circumstances in which an appearance in court is needed to give explanations."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Evidence that can reflect the true circumstances of the case, is related to the facts to be proved, and whose source and form comply with the provisions of law shall serve as the basis for establishing the facts of the case."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Any of the following circumstances shall constitute \"evidence obtained by unlawful means\" as provided in paragraph 3 of Article 43 of the Administrative Litigation Law:\n(a) evidential materials collected in serious violation of statutory procedure;\n(b) evidential materials obtained by means violating mandatory provisions of law and infringing the lawful rights and interests of others;\n(c) evidential materials obtained by means such as inducement, fraud, coercion or violence."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the people's court considers it necessary, it may require a party or the law enforcement personnel of an administrative organ to appear in court to be questioned on the relevant facts of the case. Before the questioning, they may be required to sign a guarantee.\nThe guarantee shall state that the statement will be made truthfully and that the person is willing to accept punishment if the statement is false. The party or the law enforcement personnel of the administrative organ shall sign or affix a fingerprint to the guarantee.\nWhere a party bearing the burden of proof refuses to appear in court, refuses to be questioned or refuses to sign the guarantee, and the facts to be proved lack other evidence in corroboration, the people's court shall not find the facts asserted by that party established."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the defendant has evidence proving that it required the plaintiff or a third party to provide evidence in accordance with statutory procedure in the administrative proceedings and the plaintiff or third party should have provided it in accordance with the law but did not, evidence provided in the litigation proceedings shall generally not be admitted by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a plaintiff or third party has evidence proving that evidence held by the defendant is favourable to the plaintiff or third party, it may, before the hearing, apply in writing to the people's court to order the administrative organ to submit it.\nWhere the grounds for the application are established, the people's court shall order the administrative organ to submit the evidence, and the expenses arising from the submission of evidence shall be advanced by the applicant. Where the administrative organ refuses to submit without justified reasons, the people's court may presume that the facts asserted by the plaintiff or third party on the basis of that evidence are established.\nWhere the party holding evidence destroys the relevant evidence or commits other acts rendering the evidence unusable for the purpose of preventing the other party from using it, the people's court may presume that the facts asserted by the other party on the basis of that evidence are established, and may deal with the matter in accordance with Article 59 of the Administrative Litigation Law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "In accordance with paragraph 2 of Article 38 of the Administrative Litigation Law, in administrative compensation and expropriation compensation cases, where the plaintiff is unable to adduce evidence on the circumstances of the damage for reasons attributable to the defendant, the defendant shall bear the burden of proof in respect of those circumstances.\nWhere the value of the losses asserted by the parties cannot be determined, the party bearing the burden of proof shall apply for an appraisal, unless laws, regulations or rules provide that the administrative organ should have assessed or appraised it in accordance with the law when making the administrative act; where the party bearing the burden of proof refuses to apply for an appraisal, it shall bear the adverse legal consequences.\nWhere the losses of a party cannot be appraised for objective reasons, the people's court shall determine the amount of compensation as it deems appropriate in the light of the party's assertions and the evidence on file, following judges' professional ethics and applying logical reasoning, life experience and common sense.\nV. Time Periods and Service"
+        },
+        "noLabel": {
+          "en": "Article 47."
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Time periods include statutory time periods and time periods designated by people's courts.\nTime periods shall be calculated by hour, day, month and year. The hour and day on which a time period begins shall not be counted in the time period.\nWhere the last day of a time period is a public holiday, the day following the holiday shall be the date on which the time period expires.\nTime periods shall not include time in transit; where litigation documents are handed to the post before the expiry of the time limit, they shall be deemed to have been despatched within the time limit."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The docketing time limit provided in paragraph 2 of Article 51 of the Administrative Litigation Law shall, where the plaintiff is notified to make corrections within a time limit because the content of the complaint is defective or contains other errors, be calculated from the day following the submission of the corrected complaint to the people's court. For cases transferred by a higher people's court to a lower people's court for docketing, it shall be calculated from the day following the receipt of the complaint by the people's court hearing the case."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The trial time limits provided in Articles 81, 83 and 88 of the Administrative Litigation Law mean the period from the date of docketing to the date of pronouncement of the judgment or the date of service of the mediation statement, excluding the period of public announcement, the period of appraisal, the period of mediation, the period of suspension of the proceedings, the period for trying an objection to jurisdiction raised by a party and the period for handling a dispute over jurisdiction between people's courts.\nWhere a retrial case is tried under first-instance or second-instance procedure, the trial time limits provided in Articles 81 and 88 of the Administrative Litigation Law shall apply. The trial time limit shall be calculated from the day following the docketing of the retrial.\nWhere a basic-level people's court applies for an extension of the trial time limit, it shall report directly to the higher people's court for approval and simultaneously file the matter with the intermediate people's court for the record."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "A people's court may require the parties to sign a confirmation of service address; the service address confirmed by a party shall be the address for service of legal documents of the people's court.\nWhere a party agrees to electronic service, it shall provide and confirm electronic service addresses such as a fax number and an e-mail address.\nWhere the service address of a party changes, it shall promptly inform the people's court hearing the case in writing; where it fails to do so promptly, service by the people's court at the original address shall be deemed lawful service.\nA people's court may effect service by court express mail through the national postal institution."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "A people's court may serve litigation documents directly on a party outside the party's domicile. Where a party refuses to sign the acknowledgement of service, service shall be deemed effected by recording the service process by photographing, video recording or other means. The judicial personnel and the court clerk shall note the circumstances of service on the acknowledgement of service and sign it.\nVI. Filing of Actions and Acceptance"
+        },
+        "noLabel": {
+          "en": "Article 52."
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "A people's court shall docket a case that meets the conditions for instituting an action and shall protect the exercise of litigation rights by parties in accordance with the law.\nFor an action lawfully instituted by a party, the people's court shall accept the complaint in accordance with Article 51 of the Administrative Litigation Law. Where it can determine that the conditions for instituting an action are met, it shall register the case on the spot; where it cannot determine on the spot whether the conditions are met, it shall decide whether to docket the case within seven days after accepting the complaint; where it still cannot make a determination within seven days, it shall docket the case first."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In accordance with Article 49 of the Administrative Litigation Law, a citizen, legal person or other organisation shall, when instituting an action, submit the following litigation materials:\n(a) identification materials of the plaintiff and valid contact details;\n(b) materials showing the existence of the administrative act under challenge or of the failure to perform a duty;\n(c) materials showing that the plaintiff has an interest in the administrative act under challenge;\n(d) other materials that the people's court considers necessary to be submitted.\nWhere an action is instituted on behalf of a party by a statutory representative or an entrusted representative, the basic information of the statutory representative or entrusted representative shall also be stated in the complaint or explained to the people's court when the action is instituted orally, and materials such as the identity certificate of the statutory representative or entrusted representative and proof of the scope of authority shall be submitted."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "In accordance with Article 51 of the Administrative Litigation Law, a people's court shall review whether the content and materials of the complaint are complete and whether the conditions for instituting an action provided by the Administrative Litigation Law are met.\nWhere the content or materials of the complaint are defective, the people's court shall provide guidance and explanation and inform the party in a single comprehensive manner of the content to be corrected, the materials to be supplemented and the time limit. Where the corrections are made within the designated time limit and the conditions for instituting an action are met, the case shall be registered and docketed. Where the party refuses to make corrections, or the conditions for instituting an action are still not met after correction, the complaint shall be returned and recorded; where the party insists on instituting the action, the court shall rule not to docket the case and state the reasons for not docketing it."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where laws or regulations provide that an application for reconsideration shall be made first and a citizen, legal person or other organisation directly institutes an action without applying for reconsideration, the people's court shall rule not to docket the case.\nIn accordance with Article 45 of the Administrative Litigation Law, where the reconsideration organ does not accept the application for reconsideration or fails to make a reconsideration decision within the statutory time limit and the citizen, legal person or other organisation, being dissatisfied, lawfully institutes an action with a people's court, the people's court shall lawfully docket the case."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where laws or regulations do not provide that administrative reconsideration is a mandatory pre-procedure for instituting an administrative action and a citizen, legal person or other organisation both institutes an action and applies for administrative reconsideration, the organ that first dockets the case shall have jurisdiction; where both are docketed at the same time, the citizen, legal person or other organisation shall choose. Where a citizen, legal person or other organisation has applied for administrative reconsideration and institutes an action with a people's court within the statutory reconsideration period, the people's court shall rule not to docket the case."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where laws or regulations do not provide that administrative reconsideration is a mandatory pre-procedure for instituting an administrative action, and a citizen, legal person or other organisation, after applying to a reconsideration organ for administrative reconsideration, withdraws the application for reconsideration with the consent of the reconsideration organ and institutes an action against the original administrative act within the statutory time limit for instituting an action, the people's court shall lawfully docket the case."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, after a citizen, legal person or other organisation applies to a reconsideration organ for administrative reconsideration, the reconsideration organ makes a decision to uphold the original administrative act, the reconsideration organ and the organ that made the original act shall be co-defendants, and the time limit for instituting an action shall be determined by the time of service of the reconsideration decision."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a people's court has ruled to permit a plaintiff to withdraw its action and the plaintiff institutes an action again on the same facts and grounds, the people's court shall not docket the case.\nWhere a ruling permitting withdrawal of the action is indeed erroneous and the plaintiff applies for retrial, the people's court shall, through the trial supervision procedure, revoke the original ruling permitting withdrawal of the action and retry the case."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a plaintiff or appellant fails to pay the case acceptance fee in advance within the prescribed time limit and does not apply for deferred, reduced or waived payment, or its application is not approved, the action shall be treated as automatically withdrawn. After the action has been treated as withdrawn, where the plaintiff or appellant institutes an action or appeals again within the statutory time limit and lawfully resolves the matter of advancing the litigation fee, the people's court shall docket the case."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a people's court has rendered a judgment revoking an administrative act of an administrative organ and a citizen, legal person or other organisation, being dissatisfied with the administrative act newly made by the administrative organ, institutes an action with a people's court, the people's court shall lawfully docket the case."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where an administrative organ fails to prepare or serve legal documents when making an administrative act, a citizen, legal person or other organisation may, so long as it can prove the existence of the administrative act and institutes an action within the statutory time limit, have the case docketed by the people's court in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where an administrative organ fails to inform a citizen, legal person or other organisation of the time limit for instituting an action when making an administrative act, the time limit for instituting an action shall be calculated from the date on which the citizen, legal person or other organisation knew or ought to have known the time limit for instituting an action, but shall not exceed one year from the date on which it knew or ought to have known the content of the administrative act.\nThe preceding paragraph shall apply where a reconsideration decision fails to inform a citizen, legal person or other organisation of the time limit for instituting an action."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation does not know the content of an administrative act made by an administrative organ, the time limit for instituting an action shall be calculated from the date on which it knew or ought to have known the content of the administrative act, but shall not exceed the time limit for instituting an action provided in paragraph 2 of Article 46 of the Administrative Litigation Law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation institutes an action against an administrative organ for failure to perform a statutory duty in accordance with paragraph 1 of Article 47 of the Administrative Litigation Law, it shall do so within six months from the date of expiry of the time limit for the administrative organ to perform the statutory duty."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where the name and other information of the defendant provided by the plaintiff are sufficient to distinguish the defendant from other administrative organs, it may be determined that there is \"a definite defendant\" as provided in item 2 of Article 49 of the Administrative Litigation Law.\nWhere the information on the defendant stated in the complaint is insufficient to determine a definite defendant, the people's court may inform the plaintiff to make corrections; where a definite defendant still cannot be determined after correction by the plaintiff, the people's court shall rule not to docket the case."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "\"Specific claims\" as provided in item 3 of Article 49 of the Administrative Litigation Law means:\n(a) a claim for a judgment revoking or modifying an administrative act;\n(b) a claim for a judgment ordering an administrative organ to perform a specific statutory duty or payment obligation;\n(c) a claim for a judgment confirming that an administrative act is unlawful;\n(d) a claim for a judgment confirming that an administrative act is invalid;\n(e) a claim for a judgment ordering an administrative organ to make compensation or pay expropriation compensation;\n(f) a claim for resolution of a dispute over an administrative agreement;\n(g) a claim for concurrent review of normative documents below the level of rules;\n(h) a claim for concurrent resolution of a related civil dispute;\n(i) other claims.\nWhere a party institutes an administrative compensation or expropriation compensation action separately or concurrently, there shall be specific matters and amounts of compensation; where concurrent review of normative documents below the level of rules is claimed, the exact title of the document or the object of review shall be provided; where concurrent resolution of a related civil dispute is claimed, there shall be specific civil litigation claims.\nWhere a party fails to correctly express its claims, the people's court shall require it to clarify its claims."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "In any of the following circumstances, where a case has already been docketed, a ruling shall be made to reject the action:\n(a) the conditions provided in Article 49 of the Administrative Litigation Law are not met;\n(b) the statutory time limit for instituting an action has been exceeded and no circumstance provided in Article 48 of the Administrative Litigation Law exists;\n(c) the defendant is wrongly named and the party refuses to change it;\n(d) litigation acts are performed not by a statutory representative, designated representative or representative in accordance with the provisions of law;\n(e) no prior application for reconsideration has been made to the administrative organ in accordance with the provisions of laws or regulations;\n(f) the action is a repeated action;\n(g) an action is instituted again without justified reasons after the original action was withdrawn;\n(h) the administrative act manifestly produces no actual effect on the party's lawful rights and interests;\n(i) the subject matter of the action is already bound by an effective judgment or mediation statement;\n(j) other circumstances in which the statutory conditions for instituting an action are not met.\nWhere the circumstances listed in the preceding paragraph can be corrected or remedied, the people's court shall designate a time period and order correction or remedy; where correction or remedy is made within the designated time period, the case shall be tried in accordance with the law.\nWhere a people's court, after reviewing the case file, conducting investigations or questioning the parties, considers that a hearing is unnecessary, it may directly rule to reject the action."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "After a copy of the complaint has been served on the defendant, the people's court shall not permit the plaintiff to raise new claims, unless there are justified reasons.\nVII. Trial and Judgment"
+        },
+        "noLabel": {
+          "en": "Article 70."
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a people's court tries a case under ordinary procedure, it shall summon the parties by summons not less than three days before the hearing. Witnesses, expert witnesses, inspectors and interpreters shall be notified by notice to appear in court. Where a party or other participant in the proceedings is in another locality, necessary time in transit shall be allowed."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "In any of the following circumstances, the hearing may be postponed:\n(a) a party or other participant in the proceedings that should appear in court fails to appear for justified reasons;\n(b) a party applies for withdrawal at the last moment and a decision cannot be made in a timely manner;\n(c) it is necessary to notify a new witness to appear in court, obtain new evidence, conduct a new appraisal or inspection, or conduct supplementary investigation;\n(d) other circumstances in which postponement is appropriate."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "In accordance with Article 27 of the Administrative Litigation Law, a people's court may decide to try the following cases in a consolidated manner in any of the following circumstances:\n(a) two or more administrative organs separately make administrative acts on the same facts and a citizen, legal person or other organisation, being dissatisfied, institutes actions with the same people's court;\n(b) an administrative organ separately makes administrative acts on the same facts in respect of several citizens, legal persons or other organisations and they, being dissatisfied, separately institute actions with the same people's court;\n(c) during the proceedings, the defendant makes a new administrative act in respect of the plaintiff and the plaintiff, being dissatisfied, institutes an action with the same people's court;\n(d) other circumstances in which the people's court considers that consolidated trial is appropriate."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where a party applies for withdrawal, it shall state the reasons and make the application at the commencement of the trial; where the grounds for withdrawal become known after the trial has commenced, the application shall be made before the conclusion of the court debate.\nThe person whose withdrawal is applied for shall, before the people's court makes a decision on whether to withdraw, temporarily suspend participation in the work of the case, unless urgent measures need to be taken in the case.\nThe people's court shall, within three days, make a decision in oral or written form on an application for withdrawal made by a party. Where an application is manifestly not based on statutory grounds for withdrawal, the court may reject it in court in accordance with the law.\nWhere an applicant is dissatisfied with the decision rejecting the application for withdrawal, it may apply once for reconsideration to the people's court that made the decision. During the reconsideration, the person whose withdrawal is applied for shall not cease participation in the work of the case. The people's court shall, within three days, make a reconsideration decision and notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Judicial personnel who have participated in the trial of a case in one trial procedure may not participate in the trial of the case in another procedure.\nIn a case remanded for retrial, where the case enters second-instance proceedings again after the first-instance court has made a judgment or ruling, the members of the collegial panel in the original second-instance proceedings shall not be subject to the restriction of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where, owing to the conduct of one party or other reasons, an administrative act or an effective judgment of a people's court may become impossible or difficult to enforce, the people's court may, upon the application of the other party, rule to preserve the party's property, order it to perform certain acts or prohibit it from performing certain acts; where a party has not made an application, the people's court may, when necessary, also rule to adopt the above preservation measures.\nWhere a people's court adopts preservation measures, it may order the applicant to provide security; where the applicant fails to provide security, it shall rule to reject the application.\nAfter accepting an application, a people's court must, in urgent circumstances, make a ruling within 48 hours; where it rules to adopt preservation measures, enforcement shall commence immediately.\nWhere a party is dissatisfied with a ruling on preservation, it may apply for reconsideration; the execution of the ruling shall not be suspended during the reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where an interested party, owing to urgent circumstances, would suffer irreparable harm to its lawful rights and interests if preservation were not applied for immediately, it may, before instituting an action, apply to the people's court at the place where the property to be preserved is located, at the domicile of the respondent or at the people's court having jurisdiction over the case for the adoption of preservation measures. The applicant shall provide security; where it fails to do so, the application shall be rejected by ruling.\nAfter accepting an application, a people's court must make a ruling within 48 hours; where it rules to adopt preservation measures, enforcement shall commence immediately.\nWhere an applicant fails to lawfully institute an action within 30 days after the people's court adopts preservation measures, the people's court shall release the preservation.\nWhere a party is dissatisfied with a ruling on preservation, it may apply for reconsideration; the execution of the ruling shall not be suspended during the reconsideration."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Preservation shall be limited to the scope of the claim or to the property related to the case.\nProperty preservation shall be effected by sealing up, seizure, freezing or other methods prescribed by law. After preserving property, a people's court shall immediately notify the person whose property is preserved.\nProperty that has already been sealed up or frozen may not be sealed up or frozen again.\nIn cases involving property, where the respondent provides security, the people's court shall rule to release the preservation.\nWhere an application is erroneous, the applicant shall compensate the respondent for the losses suffered as a result of the preservation."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a plaintiff or appellant applies to withdraw its action and the people's court rules not to permit it, and the plaintiff or appellant, having been summoned by summons, refuses to appear in court without justified reasons, or leaves the court in the course of the hearing without the permission of the court, the people's court may make a default judgment.\nWhere a third party, having been summoned by summons, refuses to appear in court without justified reasons, or leaves the court in the course of the hearing without the permission of the court, this shall not have the effect of preventing the trial of the case.\nIn accordance with Article 58 of the Administrative Litigation Law, where a defendant, having been summoned by summons, refuses to appear in court without justified reasons, or leaves the court in the course of the hearing without the permission of the court, the people's court may hold the hearing as scheduled or continue the hearing and, after trying the claims of the parties present, the grounds of claim and defence of both parties and the evidence and other litigation materials already submitted, make a default judgment in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where a plaintiff or appellant expressly refuses to make a statement at the hearing or refuses in other ways to make a statement, rendering the hearing unable to proceed, and still does not state its opinions after the court has explained the legal consequences, it shall be deemed to have waived its right to make a statement and shall bear the adverse legal consequences.\nWhere a party applies to withdraw its action, or the case may lawfully be treated as withdrawn, and the party has committed unlawful conduct that needs to be dealt with in accordance with the law, the people's court may not permit the withdrawal or may not treat the case as withdrawn.\nWhere a plaintiff applies to withdraw its action after the conclusion of the court debate, the people's court may permit it, unless the interests of the State or the public interest are involved."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a defendant alters the administrative act under challenge during first-instance proceedings, it shall inform the people's court in writing.\nWhere a plaintiff or third party, being dissatisfied with the altered administrative act, institutes an action, the people's court shall try the altered administrative act.\nWhere a defendant alters the original unlawful administrative act and the plaintiff still requests confirmation that the original administrative act was unlawful, the people's court shall lawfully make a declaratory judgment.\nWhere a plaintiff institutes an action against a defendant's failure to perform a duty and the defendant makes an administrative act during the proceedings while the plaintiff does not withdraw its action, the people's court shall lawfully make a declaratory judgment on the failure to perform the duty."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where parties maliciously collude in an attempt to infringe the interests of the State, the public interest or the lawful rights and interests of others through litigation or other means, the people's court shall rule to reject the action or make a judgment dismissing their claims, and impose a fine or detention according to the severity of the circumstances; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The fines and detention provided in Article 59 of the Administrative Litigation Law may be applied independently or concurrently.\nFines and detention for the same obstruction of administrative litigation may not be applied consecutively. Where new obstruction of administrative litigation occurs, the people's court may again impose fines or detention."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where a people's court tries an administrative case provided in paragraph 1 of Article 60 of the Administrative Litigation Law and considers that the legal relationship is clear and the facts are clear, it may directly conduct mediation after obtaining the consent of both parties."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where a mediation agreement is reached, the people's court shall prepare a mediation statement. The mediation statement shall state the claims, the facts of the case and the outcome of the mediation.\nThe mediation statement shall be signed by the judicial personnel and the court clerk, sealed with the seal of the people's court, and served on both parties.\nThe mediation statement shall become legally effective once it is signed for receipt by both parties. The date on which the mediation statement takes effect shall be determined on the basis of the date on which the party that last received the mediation statement signed for it."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where a people's court tries an administrative case, the mediation process shall not be public, unless the parties agree to it being public.\nWith the permission of the people's court, a third party may participate in the mediation. Where the people's court considers it necessary, it may notify a third party to participate in the mediation.\nThe content of the mediation agreement shall not be public, unless the people's court considers it truly necessary to make it public in order to protect the interests of the State, the public interest or the lawful rights and interests of others.\nWhere one or both parties are unwilling to mediate, or mediation fails to reach an agreement, the people's court shall make a judgment in a timely manner.\nWhere parties reach a settlement on their own or reach an agreement through mediation and then request the people's court to prepare a judgment in accordance with the content of the settlement agreement or mediation agreement, the people's court shall not permit it."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "During the proceedings, the litigation shall be suspended in any of the following circumstances:\n(a) the plaintiff dies and it is necessary to wait for its close relatives to indicate whether they will participate in the proceedings;\n(b) the plaintiff loses the capacity to litigate and no statutory representative has yet been determined;\n(c) the administrative organ, legal person or other organisation that is a party terminates and no successor to its rights and obligations has yet been determined;\n(d) a party is unable to participate in the proceedings for reasons of force majeure;\n(e) the case involves a question of legal application that needs to be referred to the competent authority for interpretation or confirmation;\n(f) the trial of the case must be based on the outcome of the trial of a related civil, criminal or other administrative case, and that related case has not yet been concluded;\n(g) other circumstances in which the litigation should be suspended.\nAfter the reasons for suspending the litigation are eliminated, the litigation shall be resumed."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "During the proceedings, the litigation shall be terminated in any of the following circumstances:\n(a) the plaintiff dies and has no close relatives, or its close relatives waive their litigation rights;\n(b) after the legal person or other organisation that is the plaintiff terminates, the successor to its rights and obligations waives its litigation rights.\nWhere the litigation has been suspended for 90 days for the reasons in items 1, 2 and 3 of paragraph 1 of Article 87 of this Interpretation and no one continues the litigation, the court shall rule to terminate the litigation, unless there are special circumstances."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where a reconsideration decision altering the original administrative act is erroneous, the people's court may, when making a judgment revoking the reconsideration decision, concurrently order the reconsideration organ to make a new reconsideration decision or make a judgment restoring the legal effect of the original administrative act."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a people's court makes a judgment ordering a defendant to make a new administrative act, and the new administrative act made by the defendant has the same outcome as the original administrative act but the main facts or main grounds have changed, this shall not constitute a circumstance provided in Article 71 of the Administrative Litigation Law.\nWhere a people's court makes a judgment revoking the administrative act under challenge on the ground of violation of statutory procedure, the making of a new administrative act by the administrative organ shall not be subject to the restriction of Article 71 of the Administrative Litigation Law.\nWhere an administrative organ makes a new administrative act basically identical to the original administrative act on the same facts and grounds, the people's court shall, in accordance with Articles 70 and 71 of the Administrative Litigation Law, make a judgment revoking it in whole or in part, and shall deal with the matter in accordance with Article 96 of the Administrative Litigation Law."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where the grounds on which a plaintiff requests a defendant to perform a statutory duty are established, and the defendant unlawfully refuses to perform or fails to respond within the time limit without justified reasons, the people's court may, in accordance with Article 72 of the Administrative Litigation Law, make a judgment ordering the defendant to perform the statutory duty requested by the plaintiff in accordance with the law within a certain period; where investigation or discretion by the defendant is still required, it shall make a judgment ordering the defendant to make a new disposition in response to the plaintiff's request."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Where the grounds on which a plaintiff applies to a defendant to lawfully perform a payment obligation such as payment of a pension, minimum living guarantee benefit or social insurance benefit are established, and the defendant is under a statutory payment obligation but refuses or delays performance, the people's court may, in accordance with Article 73 of the Administrative Litigation Law, make a judgment ordering the defendant to perform the corresponding payment obligation within a certain period."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Where a plaintiff requests a defendant to perform a statutory duty or lawfully perform a payment obligation such as payment of a pension, minimum living guarantee benefit or social insurance benefit, and the plaintiff has not first made an application to the administrative organ, the people's court shall rule to reject the action.\nWhere a people's court, after trial, considers that the statutory duty or payment obligation requested by the plaintiff to be performed is manifestly outside the scope of authority of the administrative organ, it may rule to reject the action."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation institutes an action requesting the revocation of an administrative act and the people's court, after review, considers the administrative act invalid, it shall make a judgment confirming the invalidity.\nWhere a citizen, legal person or other organisation institutes an action requesting confirmation that an administrative act is invalid, and the people's court, after review, considers that the administrative act does not fall within the circumstances of invalidity, and upon explanation the plaintiff requests revocation of the administrative act, the court shall continue the trial and lawfully make a corresponding judgment; where the plaintiff requests revocation of the administrative act but the statutory time limit for instituting an action has been exceeded, the court shall rule to reject the action; where the plaintiff refuses to change its claims, the court shall make a judgment dismissing its claims."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "Where a people's court, after trial, considers that the administrative act under challenge is unlawful or invalid and may cause losses to the plaintiff, and upon explanation the plaintiff requests concurrent resolution of the administrative compensation dispute, the people's court may conduct mediation on the matter of compensation; where mediation fails, it shall make a judgment on that matter concurrently. The people's court may also inform the plaintiff to institute a separate action on the matter of compensation."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "Any of the following circumstances, which does not cause substantial harm to the important procedural rights such as the right to a hearing, the right to make statements and the right to defence lawfully enjoyed by the plaintiff, shall constitute \"minor procedural unlawfulness\" as provided in item 2 of paragraph 1 of Article 74 of the Administrative Litigation Law:\n(a) minor unlawfulness in the time limit for handling;\n(b) minor unlawfulness in procedures such as notification and service;\n(c) other circumstances of minor procedural unlawfulness."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "Where the losses of a plaintiff or third party are jointly caused by its own fault and the unlawful administrative act of the administrative organ, the people's court shall determine the corresponding liability for compensation of the administrative organ on the basis of whether there is a causal relationship between the conduct of each party and the result of the damage and the magnitude of the contribution to the occurrence and result of the damage."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "Where the lawful rights and interests of a citizen, legal person or other organisation suffer damage because an administrative organ fails to perform or delays in performing a statutory duty, the people's court shall make a judgment that the administrative organ bear administrative compensation liability. In determining the amount of compensation, factors such as the role played by the failure to perform or the delay in performing the statutory duty in the process and result of the damage shall be taken into account."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Any of the following circumstances shall constitute \"major and manifest unlawfulness\" as provided in Article 75 of the Administrative Litigation Law:\n(a) the subject implementing the administrative act does not have the qualification of an administrative subject;\n(b) an administrative act that diminishes rights or increases obligations has no basis in legal norms;\n(c) the content of the administrative act is objectively impossible to implement;\n(d) other circumstances of major and manifest unlawfulness."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Where a people's court applies a judicial interpretation of the Supreme People's Court in trying an administrative case, it shall cite it in the judgment document.\nWhere a people's court tries an administrative case, it may cite lawful and valid rules and other normative documents in the judgment document."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "Rulings shall apply to the following matters:\n(a) not docketing a case;\n(b) rejecting an action;\n(c) objection to jurisdiction;\n(d) termination of litigation;\n(e) suspension of litigation;\n(f) transfer or designation of jurisdiction;\n(g) suspension of the enforcement of an administrative act during litigation or rejection of an application for suspension of enforcement;\n(h) property preservation;\n(i) advance enforcement;\n(j) permitting or not permitting withdrawal of an action;\n(k) correction of clerical errors in a judgment document;\n(l) suspension or termination of enforcement;\n(m) bringing a case up for trial, ordering retrial or remanding for retrial;\n(n) permitting or not permitting enforcement of an administrative act of an administrative organ;\n(o) other matters requiring a ruling.\nA party may appeal against the rulings in items (a), (b) and (c).\nA written ruling shall state the outcome of the ruling and the reasons for making it. The written ruling shall be signed by the judicial personnel and the court clerk and sealed with the seal of the people's court. An oral ruling shall be entered in the record."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "\"Clear facts\" in administrative cases as provided in Article 82 of the Administrative Litigation Law means that the parties' statements on the disputed facts are basically consistent and can be supported by corresponding evidence, so that the facts can be ascertained without the people's court investigating and collecting evidence; \"clear rights and obligations relationship\" means that the rights and obligations in the administrative legal relationship can be clearly distinguished; \"no major dispute\" means that the parties have no substantive disagreement on the legality of the administrative act and the bearing of liability."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "In an administrative case tried under summary procedure, a people's court may summon the parties, notify witnesses and serve litigation documents other than judgment documents by simple means such as oral notice, telephone, short message, fax and e-mail.\nWhere a notice of hearing served by simple means has not been confirmed by the party or there is no other evidence proving that the party has received it, the people's court may not make a default judgment."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "The time limit for adducing evidence in a case to which summary procedure applies shall be determined by the people's court, or may be agreed upon by the parties and permitted by the people's court, but may not exceed 15 days. Where the defendant requests to reply in writing, the people's court may determine a reasonable period for the reply.\nThe people's court shall inform both parties of the time limit for adducing evidence and the date of the hearing, and explain to the parties the legal consequences of adducing evidence beyond the time limit and of refusing to appear in court, and both parties shall sign or affix fingerprints to the record and the acknowledgement of service of the summons.\nWhere both parties express agreement to hold the hearing immediately or to shorten the time limit for adducing evidence or the period for reply, the people's court may hold the hearing immediately or set a date for a hearing in the near future."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "Where a people's court finds that the facts of a case are complex and that it needs to be converted to ordinary procedure, it shall make a ruling before the trial time limit expires and notify both parties in writing of the members of the collegial panel and the relevant matters.\nWhere a case is converted to ordinary procedure, the trial time limit shall be calculated from the date of docketing by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "Where a party institutes an action again in respect of a matter for which an action has already been instituted, during the proceedings or after the judgment takes effect, and the following circumstances exist concurrently, it shall constitute a repeated action:\n(a) the parties to the subsequent action are the same as those to the prior action;\n(b) the subject matter of the subsequent action is the same as that of the prior action;\n(c) the claims of the subsequent action are the same as those of the prior action, or the claims of the subsequent action are covered by the judgment in the prior action."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "After a first-instance people's court makes a judgment or ruling, where all parties appeal, each appealing party shall be an appellant.\nWhere some of the parties to the litigation appeal and the opposing parties do not appeal, the non-appealing opposing parties shall be appellees, and the other parties shall be listed according to their litigation status in the original trial."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "Where a party appeals, it shall submit copies of the appeal petition according to the number of the other parties or litigation representatives.\nThe people's court of original trial shall, within five days after receiving the appeal petition, send copies of the appeal petition to the other parties, and the opposing parties shall submit their statements of defence within 15 days from the date of receipt of the copies of the appeal petition.\nThe people's court of original trial shall, within five days after receiving the statement of defence, send a copy to the appellant. Where the opposing party does not submit a statement of defence, the trial by the people's court shall not be affected.\nThe people's court of original trial shall, within five days after receiving the appeal petition and the statement of defence, transmit them together with the entire case file and evidence to the second-instance people's court; litigation costs already collected in advance shall be transmitted together."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "Where a second-instance people's court, after trial, considers that the ruling of the first-instance people's court not to docket the case or to reject the action is indeed erroneous and that the party's action meets the conditions for instituting an action, it shall rule to revoke the ruling of the first-instance people's court and order the first-instance people's court to lawfully docket the case or continue the trial.\nWhere a second-instance people's court rules to remand an administrative case to the first-instance people's court for retrial, the first-instance people's court shall form a new collegial panel to conduct the trial.\nWhere the original judgment omits a party that must participate in the proceedings or omits a claim, the second-instance people's court shall rule to revoke the original judgment and remand the case for retrial.\nWhere the original judgment omits an administrative compensation claim and the second-instance people's court, after review, considers that compensation should not be granted in accordance with the law, it shall make a judgment dismissing the administrative compensation claim.\nWhere the original judgment omits an administrative compensation claim and the second-instance people's court, after trial, considers that compensation should be granted in accordance with the law, it may, while confirming that the administrative act under challenge is unlawful, conduct mediation on the matter of administrative compensation; where mediation fails, it shall remand the administrative compensation part for retrial.\nWhere a party raises an administrative compensation claim during second-instance proceedings, the second-instance people's court may conduct mediation; where mediation fails, it shall inform the party to institute a separate action."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "Where a party applies to a people's court at the next higher level for retrial, it shall do so within six months after the judgment, ruling or mediation statement takes legal effect. In any of the following circumstances, the application shall be made within six months from the date on which the party knew or ought to have known:\n(a) there is new evidence sufficient to overturn the original judgment or ruling;\n(b) the main evidence on which the original judgment or ruling is based for finding the facts is forged;\n(c) the legal document on the basis of which the original judgment or ruling was made has been revoked or altered;\n(d) the judicial personnel committed embezzlement, accepted bribes, engaged in malpractice for personal gain or perverted the law in adjudicating the case."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "Where a party applies for retrial, it shall submit a retrial application and other materials. Where the people's court considers it necessary, it may, within five days after receiving the retrial application, send a copy of the retrial application to the opposing party. The opposing party shall submit its written opinions within 15 days from the date of receipt of the copy of the retrial application. The people's court may require the applicant and the opposing party to supplement the relevant materials and may question them on the relevant matters."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "A people's court shall review a retrial application case within six months from the date of docketing; where an extension is necessary under special circumstances, it shall be approved by the president of the court."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "A people's court shall decide whether to question the parties according to the needs of reviewing the retrial application case; where new evidence may overturn the original judgment or ruling, the people's court shall question the parties."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "During the review of a retrial application, where the respondent and other parties to the original trial lawfully file retrial applications, the people's court shall list them as retrial applicants, review their grounds for retrial together, and recalculate the review time limit. Where, after review, the grounds for retrial asserted by one of the retrial applicants are established, it shall rule for retrial. Where the grounds for retrial asserted by all retrial applicants are not established, it shall rule to reject the retrial applications together."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "During the review of a retrial application, where the retrial applicant applies to the people's court to entrust an appraisal or inspection, the people's court shall not permit it.\nDuring the review of a retrial application, where the retrial applicant withdraws the retrial application, whether to permit it shall be ruled upon by the people's court.\nWhere a retrial applicant, having been summoned by summons, refuses to be questioned without justified reasons, it shall be treated as withdrawal of the retrial application.\nAfter the people's court permits withdrawal of the retrial application or treats the case as withdrawal of the retrial application, where the retrial applicant applies for retrial again, the case shall not be docketed, except where the circumstances provided in items 2, 3, 7 and 8 of Article 91 of the Administrative Litigation Law exist and the application is made within six months from the date on which the applicant knew or ought to have known."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "Where the grounds for retrial asserted by a party are established and the conditions for applying for retrial provided by the Administrative Litigation Law and this Interpretation are met, the people's court shall rule for retrial.\nWhere the grounds for retrial asserted by a party are not established, or the party's application for retrial exceeds the statutory time limit for applying for retrial, exceeds the statutory scope of grounds for retrial or otherwise fails to meet the conditions for applying for retrial provided by the Administrative Litigation Law and this Interpretation, the people's court shall rule to reject the retrial application."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "In any of the following circumstances, a party may apply to a people's procuratorate for a protest or a procuratorial suggestion:\n(a) the people's court has rejected the retrial application;\n(b) the people's court has failed to make a ruling on the retrial application within the time limit;\n(c) the retrial judgment or ruling contains manifest errors.\nAfter a people's court has made a retrial judgment or ruling on the basis of a protest or procuratorial suggestion, where a party applies for retrial, the people's court shall not docket the case."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "Where a case is decided to be retried under the trial supervision procedure, the court shall rule to suspend the enforcement of the original judgment, ruling or mediation statement, except that in cases concerning payment of pensions, minimum living guarantee benefits or social insurance benefits, enforcement need not be suspended.\nWhere a higher people's court decides to bring a case up for trial or orders a lower people's court to retry it, it shall make a ruling, and the ruling shall state the suspension of enforcement of the original judgment; in urgent circumstances, the ruling suspending enforcement may be notified orally to the people's court responsible for enforcement or the people's court that made the effective judgment or ruling, but the written ruling shall be issued within 10 days after the oral notification."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "Where a people's court retries a case under the trial supervision procedure and the effective judgment or ruling was made by a first-instance court, the case shall be tried under first-instance procedure and the parties may appeal against the judgment or ruling made; where the effective judgment or ruling was made by a second-instance court, the case shall be tried under second-instance procedure and the judgment or ruling made shall be an effective judgment or ruling; where a higher people's court brings a case up for trial under the trial supervision procedure, the case shall be tried under second-instance procedure and the judgment or ruling made shall be an effective judgment or ruling.\nWhere a people's court tries a retrial case, it shall form a new collegial panel."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "Where a people's court tries a retrial case, it shall focus on the retrial claims and the legality of the administrative act under challenge. Where a party's retrial claims exceed the claims in the original trial and meet the conditions for a separate action, the party shall be informed that it may institute a separate action.\nWhere the respondent and other parties to the original trial raise retrial claims before the conclusion of the court debate and the claims meet the time limit for application provided by this Interpretation, the people's court shall try them together.\nWhere a people's court, upon retrial, finds that an effective judgment or ruling harms the interests of the State, the public interest or the lawful rights and interests of others, it shall try the matter together."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "During retrial proceedings, the retrial procedure shall be ruled to terminate in any of the following circumstances:\n(a) the retrial applicant withdraws its retrial claims during the retrial and the people's court permits it;\n(b) the retrial applicant, having been summoned by summons, refuses to appear in court without justified reasons, or leaves the court in the course of the hearing without the permission of the court, and is treated as having withdrawn its retrial claims;\n(c) the people's procuratorate withdraws its protest;\n(d) other circumstances in which the retrial procedure should be terminated.\nIn a case in which retrial is ruled on the basis of a protest lodged by a people's procuratorate, where the party that applied for the protest is in any of the circumstances provided in the preceding paragraph and the interests of the State, the public interest or the lawful rights and interests of others are not harmed, the people's court shall rule to terminate the retrial procedure.\nAfter the retrial procedure is terminated, the original effective judgment for which the people's court ruled to suspend enforcement shall automatically resume enforcement."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "Where a people's court trying a retrial case considers that the original effective judgment or ruling is indeed erroneous, it may, while revoking the original effective judgment or ruling, make a corresponding adjudication on the content of the effective judgment or ruling, or may rule to revoke the effective judgment or ruling and remand the case to the people's court that made it for retrial."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where a people's court tries a second-instance case or a retrial case and the court of original trial erred in docketing the case, not docketing the case or rejecting the action, it shall make the following dispositions according to the different circumstances:\n(a) where, after a first-instance people's court has made a substantive judgment, the second-instance people's court considers that the case should not have been docketed, it may, while revoking the judgment of the first-instance people's court, directly reject the action;\n(b) where a second-instance people's court has erroneously upheld a ruling of a first-instance people's court not to docket the case, the retrial court shall revoke the rulings of the first-instance and second-instance people's courts and order the first-instance people's court to accept the case;\n(c) where a second-instance people's court has erroneously upheld a ruling of a first-instance people's court rejecting the action, the retrial court shall revoke the rulings of the first-instance and second-instance people's courts and order the first-instance people's court to try the case."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "In a case in which a people's procuratorate lodges a protest, the people's court accepting the protest shall rule for retrial within 30 days from the date of receipt of the written protest; where any of the circumstances provided in items 2 and 3 of Article 91 of the Administrative Litigation Law exists, it may order the people's court at the next lower level to retry the case, except where the case has already been retried by that court at the next lower level.\nDuring the review of protest materials, where the parties have already reached a settlement agreement, the people's court may suggest that the people's procuratorate withdraw the protest."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "In a case in which a people's procuratorate lodges a protest, the people's court shall, not less than three days before the retrial hearing, notify the people's procuratorate to send personnel to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "After receiving a retrial procuratorial suggestion, a people's court shall form a collegial panel and conduct a review within three months; where it finds that the original judgment, ruling or mediation statement is indeed erroneous and requires retrial, it shall rule for retrial in accordance with Article 92 of the Administrative Litigation Law and notify the parties; where, after review, it decides not to retry the case, it shall reply to the people's procuratorate in writing."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Where a people's court tries a case in which retrial is ruled on the basis of a protest or procuratorial suggestion of a people's procuratorate, it shall not be subject to the restriction of a previous ruling rejecting the party's retrial application.\nVIII. Appearance of Heads of Administrative Organs in Court"
+        },
+        "noLabel": {
+          "en": "Article 127."
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "The heads of administrative organs as provided in paragraph 3 of Article 3 of the Administrative Litigation Law include the principal and deputy heads of administrative organs and other heads participating in the division of responsibilities.\nWhere a head of an administrative organ appears in court to respond to the action, it may separately entrust one or two litigation representatives. Where the head of the administrative organ is unable to appear in court, it shall entrust the corresponding staff member of the administrative organ to appear in court and may not entrust only a lawyer to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "In cases involving major public interests, attracting a high degree of public attention or likely to give rise to mass incidents, and in cases in which a people's court recommends in writing that the head of an administrative organ appear in court, the head of the administrative organ being sued shall appear in court.\nWhere the head of the administrative organ being sued appears in court to respond to the action, this shall be stated in the parts on the basic information of the parties and their litigation representatives and on the origin of the case.\nWhere the head of an administrative organ is unable to appear in court to respond to the action for justified reasons, it shall submit an explanation of the circumstances to the people's court, sealed with the seal of the administrative organ or signed and confirmed by the principal person in charge of that organ.\nWhere an administrative organ refuses to explain the reasons, this shall not have the effect of preventing the trial of the case, and the people's court may make a judicial suggestion to the supervisory organ or the administrative organ at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "\"Corresponding staff members of the administrative organ\" as provided in paragraph 3 of Article 3 of the Administrative Litigation Law includes staff members of the administrative organ having the status of a State administrative establishment and other personnel performing public duties in accordance with the law.\nWhere the administrative act under challenge was made by a local people's government, the staff members of the legislative affairs body of the local people's government and the staff members of the organ that specifically handled the administrative act under challenge may be regarded as corresponding staff members of the people's government being sued."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "Where the head of an administrative organ appears in court to respond to the action, materials capable of proving the position of the head of the administrative organ shall be submitted to the people's court.\nWhere an administrative organ entrusts the corresponding staff member to appear in court to respond to the action, it shall submit to the people's court a power of attorney sealed with the seal of the administrative organ, stating the name, position and scope of authority of the staff member."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "Where neither the head of the administrative organ nor the corresponding staff member of the administrative organ appears in court and only a lawyer is entrusted to appear, or where a people's court recommends in writing that the head of the administrative organ appear in court to respond to the action and the head of the administrative organ does not appear, the people's court shall record the matter in the case file and state it in the judgment document, and may suggest that the relevant organ deal with it in accordance with the law.\nIX. Administrative Reconsideration Organs as Co-defendants"
+        },
+        "noLabel": {
+          "en": "Article 132."
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "\"The reconsideration organ decides to uphold the original administrative act\" as provided in paragraph 2 of Article 26 of the Administrative Litigation Law includes circumstances in which the reconsideration organ rejects the application for reconsideration or the reconsideration request, except where the rejection is on the ground that the application for reconsideration does not meet the conditions for acceptance."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "Where a reconsideration organ decides to uphold the original administrative act, the administrative organ that made the original administrative act and the reconsideration organ shall be co-defendants. Where the plaintiff institutes an action only against the administrative organ that made the original administrative act or only against the reconsideration organ, the people's court shall inform the plaintiff to add the defendant. Where the plaintiff does not agree to the addition, the people's court shall list the other organ as a co-defendant.\nWhere an administrative reconsideration decision contains both content upholding the original administrative act and content altering the original administrative act or not accepting the application, the administrative organ that made the original administrative act and the reconsideration organ shall be co-defendants.\nIn a case in which a reconsideration organ is a co-defendant, jurisdiction by level over the case shall be determined by the administrative organ that made the original administrative act."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Where a reconsideration organ decides to uphold the original administrative act, the people's court shall, while reviewing the legality of the original administrative act, concurrently review the legality of the reconsideration decision.\nThe administrative organ that made the original administrative act and the reconsideration organ shall jointly bear the burden of proof in respect of the legality of the original administrative act, and either organ may adduce the evidence. The reconsideration organ shall bear the burden of proof in respect of the legality of the reconsideration decision.\nIn a case in which a reconsideration organ is a co-defendant, evidence lawfully collected and supplemented by the reconsideration organ in the reconsideration proceedings may serve as the basis for the people's court to determine that the reconsideration decision and the original administrative act are lawful."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "Where a people's court makes a judgment on the original administrative act, it shall concurrently make a corresponding judgment on the reconsideration decision.\nWhere a people's court adds the administrative organ that made the original administrative act or the reconsideration organ as a co-defendant on its own authority, it may make a corresponding judgment on the original administrative act or the reconsideration decision.\nWhere a people's court makes a judgment revoking the original administrative act and the reconsideration decision, it may make a judgment ordering the administrative organ that made the original administrative act to make a new administrative act.\nWhere a people's court makes a judgment ordering the administrative organ that made the original administrative act to perform a statutory duty or payment obligation, it shall concurrently make a judgment revoking the reconsideration decision.\nWhere the original administrative act is lawful and the reconsideration decision is unlawful, the people's court may make a judgment revoking the reconsideration decision or confirming that the reconsideration decision is unlawful, and concurrently make a judgment dismissing the plaintiff's claims against the original administrative act.\nWhere the original administrative act is revoked, confirmed as unlawful or confirmed as invalid and losses are caused to the plaintiff, the administrative organ that made the original administrative act shall bear liability for compensation; where the reconsideration decision aggravates the damage, the reconsideration organ shall bear liability for compensation in respect of the aggravated part.\nWhere the original administrative act does not meet the conditions for acceptance, such as falling outside the scope of cases accepted for reconsideration or litigation, and the reconsideration organ makes a decision to uphold it, the people's court shall rule to reject the actions against both the original administrative act and the reconsideration decision together.\nX. Consolidated Trial of Related Civil Disputes"
+        },
+        "noLabel": {
+          "en": "Article 136."
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation requests the consolidated trial of a related civil dispute provided in Article 61 of the Administrative Litigation Law, it shall do so before the first-instance hearing; where there are justified reasons, it may also do so during the court investigation."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "Where a people's court decides to try a related civil dispute together with an administrative action, or where the parties to a case unanimously agree that a related civil dispute be resolved together with the administrative action and the people's court permits it, the people's court that accepted the administrative case shall have jurisdiction.\nWhere a citizen, legal person or other organisation requests the consolidated trial of a related civil dispute and the people's court, after review, finds that the time limit for instituting an action in the administrative case has been exceeded and the civil case has not yet been docketed, it shall inform the party to institute a separate civil action; where the civil case has already been docketed, the original adjudicating body shall continue the trial.\nWhere a people's court, in trying an administrative case, finds that a civil dispute is the basis for resolving the administrative dispute and the parties have not requested the people's court to try the related civil dispute together, the people's court shall inform the parties to lawfully apply for the concurrent resolution of the civil dispute. Where a party has instituted a separate civil action in respect of the civil dispute and the case has been docketed, the people's court shall suspend the trial of the administrative action. The period during which the civil dispute is being handled shall not be counted in the time limit for trial of the administrative action."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "In any of the following circumstances, a people's court shall make a decision not to permit the consolidated trial of a civil dispute and inform the party that it may assert its rights through other channels in accordance with the law:\n(a) the law provides that the matter shall be handled by an administrative organ first;\n(b) the provisions on exclusive jurisdiction of the Civil Procedure Law or the agreement on jurisdiction by agreement are violated;\n(c) arbitration has been agreed upon or a civil action has already been instituted;\n(d) other circumstances in which the consolidated trial of the civil dispute is inappropriate.\nA party may apply once for reconsideration against a decision not to permit."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "Where a people's court tries a related civil dispute together with an administrative action, the civil dispute shall be docketed as a separate case and tried by the same adjudicating body.\nWhere a people's court tries a case concerning a ruling made by an administrative organ on a civil dispute and tries the civil dispute together with it, a separate case need not be docketed."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "Where a people's court tries a related civil dispute together, the relevant provisions of civil legal norms shall apply, unless otherwise provided by law.\nA party's disposition of civil rights and interests in mediation may not serve as the basis for reviewing the legality of the administrative act under challenge."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "Judgments shall be made separately on the administrative dispute and the civil dispute.\nWhere a party appeals only against the administrative judgment or the civil judgment, the judgment not appealed against shall take legal effect upon expiry of the appeal period. The first-instance people's court shall transmit the entire case file to the second-instance people's court, and the administrative adjudication division shall try the case. Where the second-instance people's court finds that the effective judgment not appealed against is indeed erroneous, it shall retry the case in accordance with the trial supervision procedure."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "Where a plaintiff in administrative litigation applies to withdraw its action before the pronouncement of the judgment, whether to permit it shall be ruled upon by the people's court. Where a people's court rules to permit the plaintiff in administrative litigation to withdraw its action but the plaintiff does not withdraw the related civil dispute already instituted for consolidated trial, the people's court shall continue the trial."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "Where a people's court tries a related civil dispute together, it shall separately collect litigation costs according to the standards for administrative cases and civil cases.\nXI. Concurrent Review of Normative Documents"
+        },
+        "noLabel": {
+          "en": "Article 144."
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation, while instituting an action against an administrative act, concurrently requests review of the normative document on which the act is based, the people's court having jurisdiction over the administrative act case shall conduct the review together."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation requests a people's court to concurrently review a normative document provided in Article 53 of the Administrative Litigation Law, it shall do so before the first-instance hearing; where there are justified reasons, it may also do so during the court investigation."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "Where a people's court, in the course of reviewing a normative document, finds that the normative document may be unlawful, it shall hear the opinions of the organ that formulated the normative document.\nWhere the formulating organ applies to appear in court to state its opinions, the people's court shall permit it.\nWhere an administrative organ fails to state its opinions or to provide the relevant supporting materials, this shall not prevent the people's court from reviewing the normative document."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "Where a people's court conducts a concurrent review of a normative document, it may do so from the aspects of whether the formulating organ has exceeded its authority or violated statutory procedure, the provisions on which the administrative act is based and the related provisions.\nAny of the following circumstances shall constitute \"the normative document is unlawful\" as provided in Article 64 of the Administrative Litigation Law:\n(a) exceeding the statutory functions and powers of the formulating organ or exceeding the scope of authorisation of laws, regulations or rules;\n(b) conflicting with the provisions of superior laws such as laws, regulations and rules;\n(c) without a basis in laws, regulations or rules, unlawfully increasing the obligations of citizens, legal persons and other organisations or diminishing their lawful rights and interests;\n(d) failing to perform statutory approval procedures or public release procedures, in serious violation of the formulation procedure;\n(e) other circumstances violating the provisions of laws, regulations and rules."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Where a people's court, after review, considers that the normative document on which an administrative act is based is lawful, it shall serve as the basis for determining the lawfulness of the administrative act; where, after review, it considers that the normative document is unlawful, it shall not serve as the basis for determining the lawfulness of the administrative act, and this shall be explained in the reasons for the judgment. The people's court that made the effective judgment shall make suggestions for handling to the organ that formulated the normative document, and may copy them to the people's government at the same level as the formulating organ, the administrative organ at the next higher level, the supervisory organ and the organ with which the normative document is filed.\nWhere a normative document is unlawful, the people's court may, within three months from the date on which the judgment takes effect, make a judicial suggestion to the organ that formulated the normative document to amend or repeal it.\nWhere a normative document is jointly formulated by several departments, the people's court may send the judicial suggestion to the lead organ of the normative document or the common administrative organ at the next higher level.\nThe administrative organ receiving a judicial suggestion shall reply in writing within 60 days from the date of receipt of the judicial suggestion. In urgent circumstances, the people's court may suggest that the formulating organ or the administrative organ at the next higher level immediately cease the implementation of the normative document."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Where a people's court considers a normative document unlawful, it shall, after the judgment takes effect, report it to the people's court at the next higher level for the record. Where a normative document formulated by a department of the State Council or a provincial-level administrative organ is involved, the judicial suggestion shall also be reported level by level to the Supreme People's Court or the higher people's court for the record respectively."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        }
+      },
+      {
+        "no": 151,
+        "text": {
+          "en": "Where the president of a people's court at any level finds, in respect of a judgment or ruling of that court that has taken legal effect, that the determination of the legality of a normative document is erroneous and considers that a retrial is necessary, the matter shall be submitted to the judicial committee for discussion.\nWhere the Supreme People's Court finds, in respect of judgments and rulings of local people's courts at all levels that have taken legal effect, or where a higher people's court finds, in respect of judgments and rulings of lower people's courts that have taken legal effect, that the determination of the legality of a normative document is erroneous, it has the power to bring the case up for trial or to order the lower people's court to retry it.\nXII. Enforcement"
+        },
+        "noLabel": {
+          "en": "Article 151."
+        }
+      },
+      {
+        "no": 152,
+        "text": {
+          "en": "Where the party under an obligation refuses to perform an effective administrative judgment, administrative ruling, administrative compensation judgment or administrative mediation statement, the opposing party may apply to a people's court for compulsory enforcement in accordance with the law.\nWhere a people's court has made a judgment ordering an administrative organ to perform an administrative compensation, administrative expropriation compensation or other administrative payment obligation and the administrative organ refuses to perform it, the opposing party may apply to the court for compulsory enforcement in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 152."
+        }
+      },
+      {
+        "no": 153,
+        "text": {
+          "en": "The time limit for applying for enforcement shall be two years. The suspension and interruption of the limitation period for applying for enforcement shall be governed by the relevant provisions of law.\nThe time limit for applying for enforcement shall be calculated from the last day of the performance period prescribed in the legal document; where the legal document provides for performance in instalments, it shall be calculated from the last day of each prescribed performance period; where the legal document does not prescribe a performance period, it shall be calculated from the date on which the legal document is served on the party.\nWhere an application is made after the time limit, the people's court shall not accept it unless there are justified reasons."
+        },
+        "noLabel": {
+          "en": "Article 153."
+        }
+      },
+      {
+        "no": 154,
+        "text": {
+          "en": "An effective administrative judgment, administrative ruling, administrative compensation judgment or administrative mediation statement shall be enforced by the first-instance people's court.\nWhere the first-instance people's court considers that the circumstances are special and that enforcement by the second-instance people's court is necessary, it may report the matter to the second-instance people's court for enforcement; the second-instance people's court may decide that it shall enforce the document or that the first-instance people's court shall enforce it."
+        },
+        "noLabel": {
+          "en": "Article 154."
+        }
+      },
+      {
+        "no": 155,
+        "text": {
+          "en": "Where an administrative organ applies for enforcement of its administrative act in accordance with Article 97 of the Administrative Litigation Law, the following conditions shall be met:\n(a) the administrative act may lawfully be enforced by a people's court;\n(b) the administrative act has taken effect and has enforceable content;\n(c) the applicant is the administrative organ that made the administrative act or an organisation authorised by laws, regulations or rules;\n(d) the respondent is the party under the obligation determined by the administrative act;\n(e) the respondent has failed to perform the obligation within the period determined by the administrative act or within the period of the administrative organ's demand for performance;\n(f) the applicant has made the application within the statutory time limit;\n(g) the administrative case for which enforcement is applied falls within the jurisdiction of the people's court accepting the enforcement application.\nWhere an administrative organ applies to a people's court for enforcement, it shall submit the relevant materials provided in Article 55 of the Administrative Compulsion Law.\nWhere a people's court finds that an application meets the conditions, it shall docket and accept it within five days and notify the applicant; where it finds that an application does not meet the conditions, it shall rule not to accept it. Where an administrative organ objects to the ruling of non-acceptance and applies to the people's court at the next higher level for reconsideration within 15 days, the people's court at the next higher level shall make a ruling within 15 days from the date of receipt of the reconsideration application."
+        },
+        "noLabel": {
+          "en": "Article 155."
+        }
+      },
+      {
+        "no": 156,
+        "text": {
+          "en": "Where an administrative organ without compulsory enforcement power applies to a people's court for compulsory enforcement of its administrative act, it shall do so within three months from the date of expiry of the statutory time limit for the party subject to enforcement to institute an action. Where an application is made after the time limit, the people's court shall not accept it unless there are justified reasons."
+        },
+        "noLabel": {
+          "en": "Article 156."
+        }
+      },
+      {
+        "no": 157,
+        "text": {
+          "en": "Where an administrative organ applies to a people's court for compulsory enforcement of its administrative act, the basic-level people's court at the locality of the applicant shall accept the application; where the object of enforcement is immovable property, the basic-level people's court at the locality of the immovable property shall accept the application.\nWhere a basic-level people's court considers that enforcement is indeed difficult, it may report the matter to the people's court at a higher level for enforcement; the higher people's court may decide that it shall enforce the act or that a lower people's court shall enforce it."
+        },
+        "noLabel": {
+          "en": "Article 157."
+        }
+      },
+      {
+        "no": 158,
+        "text": {
+          "en": "Where an administrative organ, under the authorisation of law, has made a ruling on a civil dispute between subjects of equal status and a party neither institutes an action within the statutory time limit nor performs the ruling, and the administrative organ that made the ruling fails to apply to a people's court for compulsory enforcement within the time limit for applying for enforcement, the person entitled under the effective administrative ruling, or its heir or successor in rights, may apply to a people's court for compulsory enforcement within six months.\nWhere a citizen, legal person or other organisation enjoying the right applies to a people's court for compulsory enforcement of an effective administrative ruling, the provisions on an administrative organ applying to a people's court for compulsory enforcement of an administrative act shall be applied by reference."
+        },
+        "noLabel": {
+          "en": "Article 158."
+        }
+      },
+      {
+        "no": 159,
+        "text": {
+          "en": "Where, before applying to a people's court for compulsory enforcement, an administrative organ or the person entitled under an administrative act has sufficient grounds to believe that the party subject to enforcement may evade enforcement, it may apply to the people's court for the adoption of property preservation measures. Where the latter applies for compulsory enforcement, it shall provide corresponding property security."
+        },
+        "noLabel": {
+          "en": "Article 159."
+        }
+      },
+      {
+        "no": 160,
+        "text": {
+          "en": "After a people's court accepts a case in which an administrative organ applies for enforcement of its administrative act, the administrative adjudication division shall, within seven days, review the legality of the administrative act and rule on whether to permit enforcement.\nWhere, before making a ruling, a people's court finds that the administrative act is manifestly unlawful and harms the lawful rights and interests of the party subject to enforcement, it shall hear the opinions of the party subject to enforcement and of the administrative organ, and shall rule on whether to permit enforcement within 30 days from the date of acceptance.\nWhere compulsory enforcement measures need to be taken, they shall be enforced by the body of the same court responsible for compulsory enforcement of non-litigation administrative acts."
+        },
+        "noLabel": {
+          "en": "Article 160."
+        }
+      },
+      {
+        "no": 161,
+        "text": {
+          "en": "Where the administrative act for which enforcement is applied is in any of the following circumstances, the people's court shall rule not to permit enforcement:\n(a) the implementing subject does not have the qualification of an administrative subject;\n(b) there is a manifest lack of factual basis;\n(c) there is a manifest lack of basis in laws or regulations;\n(d) other circumstances of manifest unlawfulness that harm the lawful rights and interests of the party subject to enforcement.\nWhere an administrative organ objects to the ruling not to permit enforcement and applies to the people's court at the next higher level for reconsideration within 15 days, the people's court at the next higher level shall make a ruling within 30 days from the date of receipt of the reconsideration application.\nXIII. Supplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 161."
+        }
+      },
+      {
+        "no": 162,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation institutes an action against an administrative act made before 1 May 2015 and requests confirmation that the administrative act is invalid, the people's court shall not docket the case."
+        },
+        "noLabel": {
+          "en": "Article 162."
+        }
+      },
+      {
+        "no": 163,
+        "text": {
+          "en": "This Interpretation shall come into force on 8 February 2018.\nAfter this Interpretation comes into force, the Interpretation of the Supreme People's Court on Several Issues concerning the Implementation of the Administrative Litigation Law of the People's Republic of China (Fa Shi [2000] No. 8) and the Interpretation of the Supreme People's Court on the Application of the Administrative Litigation Law of the People's Republic of China (Fa Shi [2015] No. 9) shall be repealed at the same time. Where judicial interpretations previously issued by the Supreme People's Court are inconsistent with this Interpretation, they shall no longer apply."
+        },
+        "noLabel": {
+          "en": "Article 163."
         }
       }
     ]

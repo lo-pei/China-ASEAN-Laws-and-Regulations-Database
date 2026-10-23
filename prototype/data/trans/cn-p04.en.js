@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p04
-   法规 72 部 / 译文 4620 条
+   法规 73 部 / 译文 4770 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -41520,6 +41520,1788 @@
         },
         "noLabel": {
           "en": "Article 43."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0286'] = {
+    "lawId": "CN-LAW-0286",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 150 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region is an inalienable part of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The National People's Congress authorises the Hong Kong Special Administrative Region to exercise a high degree of autonomy and enjoy executive, legislative and independent judicial power, including that of final adjudication, in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The executive authorities and legislature of the Hong Kong Special Administrative Region shall be composed of permanent residents of Hong Kong in accordance with the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall safeguard the rights and freedoms of the residents of the Hong Kong Special Administrative Region and of other persons in the Region in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The socialist system and policies shall not be practised in the Hong Kong Special Administrative Region, and the previous capitalist system and way of life shall remain unchanged for 50 years."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall protect the right of private ownership of property in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The land and natural resources within the Hong Kong Special Administrative Region shall be State property. The Government of the Hong Kong Special Administrative Region shall be responsible for their management, use and development and for their lease or grant to individuals, legal persons or organisations for use or development. The revenues derived therefrom shall be exclusively at the disposal of the Government of the Region."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The laws previously in force in Hong Kong, that is, the common law, rules of equity, ordinances, subsidiary legislation and customary law, shall be maintained, except for any that contravene this Law, and subject to any amendment by the legislature of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In addition to the Chinese language, English may also be used as an official language by the executive authorities, legislature and judiciary of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Apart from displaying the national flag and national emblem of the People's Republic of China, the Hong Kong Special Administrative Region may also use a regional flag and regional emblem.\nThe regional flag of the Hong Kong Special Administrative Region is a red flag with a Bauhinia highlighted by five star-tipped stamens.\nThe regional emblem of the Hong Kong Special Administrative Region features a Bauhinia highlighted by five star-tipped stamens in the centre, surrounded by the words \"Hong Kong Special Administrative Region of the People's Republic of China\" in Chinese and \"Hong Kong\" in English."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In accordance with Article 31 of the Constitution of the People's Republic of China, the systems and policies practised in the Hong Kong Special Administrative Region, including the social and economic systems, the system for safeguarding the fundamental rights and freedoms of its residents, the executive, legislative and judicial systems, and the relevant policies, shall be based on the provisions of this Law.\nNo law enacted by the legislature of the Hong Kong Special Administrative Region shall contravene this Law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall be a local administrative region of the People's Republic of China, which shall enjoy a high degree of autonomy and come directly under the Central People's Government."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The Central People's Government shall be responsible for the foreign affairs relating to the Hong Kong Special Administrative Region.\nThe Ministry of Foreign Affairs of the People's Republic of China shall establish an office in Hong Kong to deal with foreign affairs.\nThe Central People's Government authorises the Hong Kong Special Administrative Region to conduct the relevant external affairs on its own in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The Central People's Government shall be responsible for the defence of the Hong Kong Special Administrative Region.\nThe Government of the Hong Kong Special Administrative Region shall be responsible for the maintenance of public order in the Region.\nMilitary forces stationed by the Central People's Government in the Hong Kong Special Administrative Region for defence shall not interfere in the local affairs of the Region. The Government of the Region may, when necessary, ask the Central People's Government for assistance from the garrison in the maintenance of public order and in disaster relief.\nIn addition to abiding by national laws, members of the garrison shall abide by the laws of the Hong Kong Special Administrative Region.\nExpenditure for the garrison shall be borne by the Central People's Government."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The Central People's Government shall appoint the Chief Executive and the principal officials of the executive authorities of the Hong Kong Special Administrative Region in accordance with the provisions of Chapter IV of this Law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall have executive power and shall, in accordance with the relevant provisions of this Law, conduct the administrative affairs of the Region on its own."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall have legislative power.\nLaws enacted by the legislature of the Hong Kong Special Administrative Region shall be reported to the Standing Committee of the National People's Congress for the record. Reporting such laws for the record shall not affect their entry into force.\nIf the Standing Committee of the National People's Congress, after consulting the Committee for the Basic Law of the Hong Kong Special Administrative Region under it, considers that any law enacted by the legislature of the Region is not in conformity with the provisions of this Law regarding the division of responsibilities between the Central Authorities and the Region or the relationship between the Central Authorities and the Region, the Standing Committee may return the law in question but shall not amend it. Any law returned by the Standing Committee of the National People's Congress shall immediately be invalidated. This invalidation shall not have retroactive effect, unless otherwise provided for in the laws of the Region."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The laws in force in the Hong Kong Special Administrative Region shall be this Law, the laws previously in force in Hong Kong as provided for in Article 8 of this Law, and the laws enacted by the legislature of the Region.\nNational laws shall not be applied in the Hong Kong Special Administrative Region except for those listed in Annex III to this Law. The laws listed in Annex III shall be applied locally by way of promulgation or legislation by the Region.\nThe Standing Committee of the National People's Congress may add to or delete from the list of laws in Annex III after consulting its Committee for the Basic Law of the Hong Kong Special Administrative Region and the Government of the Region. Laws listed in Annex III shall be confined to those relating to defence, foreign affairs and other matters outside the limits of the autonomy of the Region as specified by this Law.\nWhere the Standing Committee of the National People's Congress decides to declare a state of war or, by reason of turmoil within the Hong Kong Special Administrative Region which endangers national unity or security and is beyond the control of the Government of the Region, decides that the Region is in a state of emergency, the Central People's Government may issue an order applying the relevant national laws in the Region."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall have independent judicial power, including that of final adjudication.\nThe courts of the Hong Kong Special Administrative Region shall have jurisdiction over all cases in the Region, except that the restrictions on their jurisdiction imposed by the legal system and principles previously in force in Hong Kong shall be maintained.\nThe courts of the Hong Kong Special Administrative Region shall have no jurisdiction over acts of state such as defence and foreign affairs. The courts of the Region shall obtain a certificate from the Chief Executive on questions of fact concerning acts of state such as defence and foreign affairs whenever such questions arise in the adjudication of cases. This certificate shall be binding on the courts. Before issuing such a certificate, the Chief Executive shall obtain a certifying document from the Central People's Government."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region may enjoy other powers granted to it by the National People's Congress, the Standing Committee of the National People's Congress and the Central People's Government."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Chinese citizens who are residents of the Hong Kong Special Administrative Region shall be entitled to participate in the management of State affairs in accordance with law.\nIn accordance with the number of deputies and the method of their selection as determined by the National People's Congress, the Chinese citizens among the residents of the Hong Kong Special Administrative Region shall elect their deputies to the National People's Congress in Hong Kong to participate in the work of the highest organ of State power."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "No department of the Central People's Government and no province, autonomous region or municipality directly under the Central Government may interfere in the affairs which the Hong Kong Special Administrative Region administers on its own in accordance with this Law.\nIf there is a need for departments of the Central Government, or for provinces, autonomous regions or municipalities directly under the Central Government, to set up offices in the Hong Kong Special Administrative Region, they must obtain the consent of the Government of the Region and approval by the Central People's Government.\nAll offices set up in the Hong Kong Special Administrative Region by departments of the Central Government, or by provinces, autonomous regions or municipalities directly under the Central Government, and the personnel of these offices shall abide by the laws of the Region.\nPeople from other parts of China must apply for approval for entry into the Hong Kong Special Administrative Region. The number of persons who enter the Region for the purpose of settlement shall be determined by the competent authorities of the Central People's Government after consulting the Government of the Region.\nThe Hong Kong Special Administrative Region may establish an office in Beijing."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall enact laws on its own to prohibit any act of treason, secession, sedition, subversion against the Central People's Government, or theft of State secrets, to prohibit foreign political organisations or bodies from conducting political activities in the Region, and to prohibit political organisations or bodies of the Region from establishing ties with foreign political organisations or bodies."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Relationship between the Central Authorities and the Hong Kong Special Administrative Region"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Residents of the Hong Kong Special Administrative Region, referred to in short as Hong Kong residents, shall include permanent residents and non-permanent residents.\nPermanent residents of the Hong Kong Special Administrative Region shall be:\n(a) Chinese citizens born in Hong Kong before or after the establishment of the Hong Kong Special Administrative Region;\n(b) Chinese citizens who have ordinarily resided in Hong Kong for a continuous period of not less than seven years before or after the establishment of the Hong Kong Special Administrative Region;\n(c) persons of Chinese nationality born outside Hong Kong of those residents listed in items (a) and (b);\n(d) persons not of Chinese nationality who have entered Hong Kong with valid travel documents, have ordinarily resided in Hong Kong for a continuous period of not less than seven years and have taken Hong Kong as their place of permanent residence before or after the establishment of the Hong Kong Special Administrative Region;\n(e) persons under 21 years of age born in Hong Kong of those residents listed in item (d) before or after the establishment of the Hong Kong Special Administrative Region;\n(f) persons other than those residents listed in items (a) to (e) who, before the establishment of the Hong Kong Special Administrative Region, had the right of abode in Hong Kong only.\nThe above-mentioned residents shall have the right of abode in the Hong Kong Special Administrative Region and shall be qualified to obtain, in accordance with the laws of the Region, permanent identity cards which state their right of abode.\nNon-permanent residents of the Hong Kong Special Administrative Region shall be persons who are qualified to obtain Hong Kong identity cards in accordance with the laws of the Region but have no right of abode."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "All Hong Kong residents shall be equal before the law."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Permanent residents of the Hong Kong Special Administrative Region shall have the right to vote and the right to stand for election in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Hong Kong residents shall have freedom of speech, of the press and of publication; freedom of association, of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The freedom of the person of Hong Kong residents shall be inviolable.\nNo Hong Kong resident shall be subjected to arbitrary or unlawful arrest, detention or imprisonment. Arbitrary or unlawful search of the body of any resident or deprivation or restriction of the freedom of the person shall be prohibited. Torture of any resident or arbitrary or unlawful deprivation of the life of any resident shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The homes and other premises of Hong Kong residents shall be inviolable. Arbitrary or unlawful search of, or intrusion into, a resident's home or other premises shall be prohibited."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The freedom and privacy of communication of Hong Kong residents shall be protected by law. No department or individual may, on any grounds, infringe upon the freedom and privacy of communication of residents except that the relevant authorities may inspect communication in accordance with legal procedures to meet the needs of public security or of investigation into criminal offences."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Hong Kong residents shall have freedom of movement within the Hong Kong Special Administrative Region and freedom of emigration to other countries and regions. They shall have freedom to travel and to enter or leave the Region. Unless restrained by law, holders of valid travel documents shall be free to leave the Region without special authorisation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Hong Kong residents shall have freedom of conscience.\nHong Kong residents shall have freedom of religious belief and freedom to preach and to conduct and participate in religious activities in public."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Hong Kong residents shall have freedom of choice of occupation."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Hong Kong residents shall have freedom to engage in academic research, literary and artistic creation, and other cultural activities."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Hong Kong residents shall have the right to confidential legal advice, access to the courts, choice of lawyers for timely protection of their lawful rights and interests or for representation in the courts, and to judicial remedies.\nHong Kong residents shall have the right to institute legal proceedings in the courts against the acts of the executive authorities and their personnel."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Hong Kong residents shall have the right to social welfare in accordance with law. The welfare benefits and retirement security of the labour force shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The freedom of marriage of Hong Kong residents and their right to raise a family freely shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Hong Kong residents shall enjoy the other rights and freedoms safeguarded by the laws of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The provisions of the International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, and international labour conventions as applied to Hong Kong shall remain in force and shall be implemented through the laws of the Hong Kong Special Administrative Region.\nThe rights and freedoms enjoyed by Hong Kong residents shall not be restricted unless as prescribed by law. Such restrictions shall not contravene the provisions of the preceding paragraph of this Article."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The lawful traditional rights and interests of the indigenous inhabitants of the \"New Territories\" shall be protected by the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Persons in the Hong Kong Special Administrative Region other than Hong Kong residents shall, in accordance with law, enjoy the rights and freedoms of Hong Kong residents prescribed in this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Hong Kong residents and other persons in Hong Kong shall have the obligation to abide by the laws in force in the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Fundamental Rights and Duties of the Residents"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The Chief Executive of the Hong Kong Special Administrative Region shall be the head of the Hong Kong Special Administrative Region and shall represent the Region.\nThe Chief Executive of the Hong Kong Special Administrative Region shall be accountable to the Central People's Government and the Hong Kong Special Administrative Region in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The Chief Executive of the Hong Kong Special Administrative Region shall be a Chinese citizen of not less than 40 years of age who is a permanent resident of the Region with no right of abode in any foreign country and has ordinarily resided in Hong Kong for a continuous period of not less than 20 years."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The Chief Executive of the Hong Kong Special Administrative Region shall be selected by election or through consultations held locally and be appointed by the Central People's Government.\nThe method for selecting the Chief Executive shall be specified in the light of the actual situation in the Hong Kong Special Administrative Region and in accordance with the principle of gradual and orderly progress. The ultimate aim is the selection of the Chief Executive by universal suffrage upon nomination by a broadly representative nominating committee in accordance with democratic procedures.\nThe specific method for selecting the Chief Executive is prescribed in Annex I: \"Method for the Selection of the Chief Executive of the Hong Kong Special Administrative Region\"."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The term of office of the Chief Executive of the Hong Kong Special Administrative Region shall be five years. He or she may serve for not more than two consecutive terms."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The Chief Executive of the Hong Kong Special Administrative Region must be a person of integrity, dedicated to his or her duties.\nThe Chief Executive, on assuming office, shall declare his or her assets to the Chief Justice of the Court of Final Appeal of the Hong Kong Special Administrative Region. This declaration shall be put on record."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The Chief Executive of the Hong Kong Special Administrative Region shall exercise the following powers and functions:\n(a) to lead the Government of the Region;\n(b) to be responsible for the implementation of this Law and other laws which, in accordance with this Law, apply in the Hong Kong Special Administrative Region;\n(c) to sign bills passed by the Legislative Council and to promulgate laws;\nto sign budgets passed by the Legislative Council and report the budgets and final accounts to the Central People's Government for the record;\n(d) to decide on government policies and to issue executive orders;\n(e) to nominate and to report to the Central People's Government for appointment the following principal officials: Secretaries and Deputy Secretaries of Departments, Directors of Bureaux, the Commissioner against Corruption, the Director of Audit, the Commissioner of Police, the Director of Immigration and the Commissioner of Customs and Excise; and to recommend to the Central People's Government the removal of the above-mentioned officials;\n(f) to appoint or remove judges of the courts at all levels in accordance with legal procedures;\n(g) to appoint or remove holders of public office in accordance with legal procedures;\n(h) to implement the directives issued by the Central People's Government in respect of the relevant matters provided for in this Law;\n(i) to conduct, on behalf of the Government of the Region, external affairs and other affairs as authorised by the Central Authorities;\n(j) to approve the introduction of motions regarding revenues or expenditure to the Legislative Council;\n(k) to decide, in the light of security and vital public interests, whether government officials or other personnel in charge of government affairs should testify or give evidence before the Legislative Council or its committees;\n(l) to pardon persons convicted of criminal offences or commute their penalties;\n(m) to handle petitions and complaints."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "If the Chief Executive of the Hong Kong Special Administrative Region considers that a bill passed by the Legislative Council is not compatible with the overall interests of the Region, he or she may return it to the Legislative Council within three months for reconsideration. If the Legislative Council passes the original bill again by not less than a two-thirds majority of all the members, the Chief Executive must sign and promulgate it within one month, or act in accordance with the provisions of Article 50 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "If the Chief Executive of the Hong Kong Special Administrative Region refuses to sign a bill passed the second time by the Legislative Council, or the Legislative Council refuses to pass a budget or any other important bill introduced by the Government, and if consensus still cannot be reached after consultations, the Chief Executive may dissolve the Legislative Council.\nThe Chief Executive must consult the Executive Council before dissolving the Legislative Council. The Chief Executive may dissolve the Legislative Council only once in each term of his or her office."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "If the Legislative Council of the Hong Kong Special Administrative Region refuses to pass the budget introduced by the Government, the Chief Executive may apply to the Legislative Council for provisional appropriations. If appropriation of public funds cannot be approved because the Legislative Council has already been dissolved, the Chief Executive may, prior to the election of the new Legislative Council, approve provisional short-term appropriations according to the level of expenditure of the previous fiscal year."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The Chief Executive of the Hong Kong Special Administrative Region must resign if he or she:\n(a) is unable to discharge his or her duties as a result of serious illness or other reasons;\n(b) twice refuses to sign a bill passed by the Legislative Council and dissolves the Legislative Council, and the new Legislative Council again passes by a two-thirds majority of all the members the original bill in dispute, but the Chief Executive still refuses to sign it;\n(c) having dissolved the Legislative Council by reason of its refusal to pass the budget or any other important bill, the new Legislative Council still refuses to pass the original bill in dispute."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "If the Chief Executive of the Hong Kong Special Administrative Region is temporarily unable to discharge his or her duties, the Chief Secretary for Administration, the Financial Secretary and the Secretary for Justice shall act in that order as his or her deputies.\nIf the office of the Chief Executive becomes vacant, a new Chief Executive shall be selected within six months in accordance with the provisions of Article 45 of this Law. During the period of the vacancy, the duties of the Chief Executive shall be assumed in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The Executive Council of the Hong Kong Special Administrative Region shall be an organ for assisting the Chief Executive in policy-making."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Members of the Executive Council of the Hong Kong Special Administrative Region shall be appointed by the Chief Executive from among the principal officials of the executive authorities, members of the Legislative Council and public figures. Their appointment or removal shall be decided by the Chief Executive. The term of office of members of the Executive Council shall not extend beyond the expiry of the term of office of the Chief Executive who appoints them.\nMembers of the Executive Council of the Hong Kong Special Administrative Region shall be Chinese citizens who are permanent residents of the Region with no right of abode in any foreign country.\nThe Chief Executive may, as he or she deems necessary, invite other persons concerned to sit in on meetings of the Executive Council."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The Executive Council of the Hong Kong Special Administrative Region shall be presided over by the Chief Executive.\nThe Chief Executive shall consult the Executive Council before making important policy decisions, introducing bills to the Legislative Council, making subsidiary legislation or dissolving the Legislative Council, except in the case of appointment or removal of public officers, disciplinary action and measures taken in emergency situations.\nIf the Chief Executive does not accept a majority opinion of the Executive Council, he or she shall put the specific reasons on record."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall establish the Independent Commission Against Corruption. It shall work independently and be accountable to the Chief Executive."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall establish the Audit Commission. It shall work independently and be accountable to the Chief Executive."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 1 The Chief Executive"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall be the executive authorities of the Region."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 2 The Executive Authorities"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The head of the Government of the Hong Kong Special Administrative Region shall be the Chief Executive of the Region.\nThe Government of the Hong Kong Special Administrative Region shall consist of the Departments of Administration, Finance and Justice, and various bureaux, divisions and commissions."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 2 The Executive Authorities"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The principal officials of the Hong Kong Special Administrative Region shall be Chinese citizens who are permanent residents of the Region with no right of abode in any foreign country and have ordinarily resided in Hong Kong for a continuous period of not less than 15 years."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 2 The Executive Authorities"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall exercise the following powers and functions:\n(a) to formulate and implement policies;\n(b) to conduct administrative affairs;\n(c) to conduct external affairs as authorised by the Central People's Government under this Law;\n(d) to draw up and introduce budgets and final accounts;\n(e) to draft and introduce bills, motions and subsidiary legislation;\n(f) to designate officials to sit in on the meetings of the Legislative Council and to speak on behalf of the Government."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 2 The Executive Authorities"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The Department of Justice of the Hong Kong Special Administrative Region shall control criminal prosecutions, free from any interference."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 2 The Executive Authorities"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region must abide by the law and be accountable to the Legislative Council of the Region: it shall implement laws passed by the Council and already in force; it shall present regular policy addresses to the Council; it shall answer questions raised by members of the Council; and it shall obtain approval from the Council for taxation and public expenditure."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 2 The Executive Authorities"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The previous system of establishing advisory bodies by the executive authorities shall be maintained."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 2 The Executive Authorities"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The Legislative Council of the Hong Kong Special Administrative Region shall be the legislature of the Region."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The Legislative Council of the Hong Kong Special Administrative Region shall be composed of Chinese citizens who are permanent residents of the Region with no right of abode in any foreign country. However, permanent residents of the Region who are not of Chinese nationality or who have the right of abode in foreign countries may also be elected members of the Legislative Council of the Region, provided that the proportion of such members does not exceed 20 per cent of the total membership of the Council."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The Legislative Council of the Hong Kong Special Administrative Region shall be constituted by election.\nThe method for constituting the Legislative Council shall be specified in the light of the actual situation in the Hong Kong Special Administrative Region and in accordance with the principle of gradual and orderly progress. The ultimate aim is the election of all the members of the Legislative Council by universal suffrage.\nThe specific method for constituting the Legislative Council and the procedures for voting on bills and motions shall be prescribed in Annex II: \"Method for the Formation of the Legislative Council of the Hong Kong Special Administrative Region and its Voting Procedures\"."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The term of office of the Legislative Council of the Hong Kong Special Administrative Region shall be four years, except the first term which shall be two years."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "If the Legislative Council of the Hong Kong Special Administrative Region is dissolved by the Chief Executive in accordance with the provisions of this Law, it must be constituted again by election within three months in accordance with the provisions of Article 68 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The President of the Legislative Council of the Hong Kong Special Administrative Region shall be elected by and from among the members of the Council.\nThe President of the Legislative Council of the Hong Kong Special Administrative Region shall be a Chinese citizen of not less than 40 years of age who is a permanent resident of the Region with no right of abode in any foreign country and has ordinarily resided in Hong Kong for a continuous period of not less than 20 years."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The President of the Legislative Council of the Hong Kong Special Administrative Region shall exercise the following powers and functions:\n(a) to preside over meetings;\n(b) to decide on the agenda, giving priority to government bills for inclusion in the agenda;\n(c) to decide on the times of meetings;\n(d) to call special sessions during the recess;\n(e) to call emergency sessions on the request of the Chief Executive;\n(f) to exercise other powers and functions as prescribed in the rules of procedure of the Legislative Council."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The Legislative Council of the Hong Kong Special Administrative Region shall exercise the following powers and functions:\n(a) to enact, amend or repeal laws in accordance with the provisions of this Law and legal procedures;\n(b) to examine and approve budgets introduced by the Government;\n(c) to approve taxation and public expenditure;\n(d) to receive and debate the policy addresses of the Chief Executive;\n(e) to raise questions on the work of the Government;\n(f) to debate any issue concerning public interests;\n(g) to endorse the appointment and removal of the judges of the Court of Final Appeal and the Chief Judge of the High Court;\n(h) to receive and handle complaints from Hong Kong residents;\n(i) if a motion initiated jointly by one-fourth of all the members of the Legislative Council charges the Chief Executive with serious breach of law or dereliction of duty and if he or she refuses to resign, the Council may, after passing a motion for investigation, give a mandate to the Chief Justice of the Court of Final Appeal to form and chair an independent investigation committee. The committee shall be responsible for carrying out the investigation and reporting its findings to the Council. If the committee considers that there is sufficient evidence to establish the charge, the Council may pass a motion of impeachment by a two-thirds majority of all its members and report it to the Central People's Government for decision;\n(j) when exercising the above-mentioned powers and functions, to summon, as required, persons concerned to testify or give evidence."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Members of the Legislative Council of the Hong Kong Special Administrative Region may introduce bills in accordance with the provisions of this Law and legal procedures. Bills which do not relate to public expenditure or political structure or the operation of the Government may be introduced individually or jointly by members of the Council. The written consent of the Chief Executive shall be required before bills relating to government policies are introduced."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The quorum for the meeting of the Legislative Council of the Hong Kong Special Administrative Region shall be not less than one half of all its members.\nThe rules of procedure of the Legislative Council shall be made by the Council on its own, provided that they do not contravene this Law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "A bill passed by the Legislative Council of the Hong Kong Special Administrative Region may take effect only after it is signed and promulgated by the Chief Executive."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Members of the Legislative Council of the Hong Kong Special Administrative Region shall be immune from legal action in respect of their statements at meetings of the Council."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Members of the Legislative Council of the Hong Kong Special Administrative Region shall not be subjected to arrest when attending or on their way to a meeting of the Council."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "The President of the Legislative Council of the Hong Kong Special Administrative Region shall declare that a member of the Council is no longer qualified for the office when any of the following circumstances occurs:\n(a) the member is unable to discharge his or her duties as a result of serious illness or other reasons;\n(b) the member is absent from meetings for three consecutive months without the consent of the President of the Legislative Council and without a reasonable explanation;\n(c) the member loses or gives up his or her status as a permanent resident of the Region;\n(d) the member accepts a government appointment and becomes a public officer;\n(e) the member is bankrupt or, having been adjudged bankrupt by a court, fails to satisfy the court's judgment for repayment of debts;\n(f) the member is convicted of a criminal offence, sentenced to imprisonment for one month or more and, on a motion passed by two-thirds of the members of the Council present, is relieved of his or her duties;\n(g) the member is censured by a motion passed by two-thirds of the members of the Council present for misbehaviour or breach of oath."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Section 3 The Legislature"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The courts of the Hong Kong Special Administrative Region at all levels shall be the judiciary of the Region, exercising the judicial power of the Region."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall establish the Court of Final Appeal, the High Court, district courts, magistrates' courts and other special courts. The High Court shall comprise the Court of Appeal and the Court of First Instance.\nThe judicial system previously practised in Hong Kong shall be maintained, except for those changes consequent upon the establishment of the Court of Final Appeal of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The power of final adjudication of the Hong Kong Special Administrative Region shall vest in the Court of Final Appeal of the Region, which may as required invite judges from other common law jurisdictions to sit on the Court of Final Appeal."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "The structure, powers and functions of the courts of the Hong Kong Special Administrative Region at all levels shall be prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "The courts of the Hong Kong Special Administrative Region shall adjudicate cases in accordance with the laws applicable in the Region as prescribed in Article 18 of this Law and may refer to precedents of other common law jurisdictions."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "The courts of the Hong Kong Special Administrative Region shall exercise judicial power independently, free from any interference. Members of the judiciary shall be immune from legal action in the performance of their judicial functions."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "The principle of trial by jury previously practised in Hong Kong shall be maintained."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "In criminal and civil proceedings, the principles previously applied in Hong Kong and the rights previously enjoyed by parties to proceedings shall be maintained.\nAnyone who is lawfully arrested shall have the right to a fair trial by the judicial organs without delay and shall be presumed innocent until convicted by the judicial organs."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Judges of the courts of the Hong Kong Special Administrative Region shall be appointed by the Chief Executive on the recommendation of an independent commission composed of local judges, persons from the legal profession and other eminent persons."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "A judge of a court of the Hong Kong Special Administrative Region may only be removed for inability to discharge his or her duties, or for misbehaviour, by the Chief Executive on the recommendation of a tribunal appointed by the Chief Justice of the Court of Final Appeal and consisting of not fewer than three local judges.\nThe Chief Justice of the Court of Final Appeal of the Hong Kong Special Administrative Region may be investigated only for inability to discharge his or her duties, or for misbehaviour, by a tribunal appointed by the Chief Executive and consisting of not fewer than five local judges and may be removed by the Chief Executive on the recommendation of the tribunal and in accordance with the procedures prescribed in this Law."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "The Chief Justice of the Court of Final Appeal and the Chief Judge of the High Court of the Hong Kong Special Administrative Region shall be Chinese citizens who are permanent residents of the Region with no right of abode in any foreign country.\nIn addition to the procedures prescribed in Articles 88 and 89 of this Law, the appointment and removal of judges of the Court of Final Appeal and the Chief Judge of the High Court of the Hong Kong Special Administrative Region shall be subject to the endorsement of the Legislative Council and shall be reported to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "The previous system of appointment and removal of members of the judiciary other than judges of the Hong Kong Special Administrative Region shall be maintained."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Judges and other members of the judiciary of the Hong Kong Special Administrative Region shall be chosen on the basis of their judicial and professional qualities and may be recruited from other common law jurisdictions."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "Judges and other members of the judiciary serving in Hong Kong before the establishment of the Hong Kong Special Administrative Region may all remain in employment and retain their seniority with pay, allowances, benefits and conditions of service no less favourable than before.\nThe Government of the Hong Kong Special Administrative Region shall pay to judges and other members of the judiciary who retire or leave the service in compliance with regulations, including those who have retired or left the service before the establishment of the Region, or to their dependants, all pensions, gratuities, allowances and benefits due to them on terms no less favourable than before, irrespective of their nationality or place of residence."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region may, with reference to the previous system in Hong Kong, make provisions for local lawyers and lawyers from outside Hong Kong to work and practise in the Region."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 95,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region may, through consultations and in accordance with law, maintain juridical relations with the judicial organs of other parts of the country, and they may render assistance to each other."
+        },
+        "noLabel": {
+          "en": "Article 95."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 96,
+        "text": {
+          "en": "With the assistance or authorisation of the Central People's Government, the Government of the Hong Kong Special Administrative Region may make appropriate arrangements with foreign states for reciprocal juridical assistance."
+        },
+        "noLabel": {
+          "en": "Article 96."
+        },
+        "chapter": {
+          "en": "Section 4 The Judiciary"
+        }
+      },
+      {
+        "no": 97,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region may establish non-governmental regional organisations which shall be consulted by the Government of the Region on the administration of regional affairs and other matters, or which shall be responsible for providing services such as culture, recreation and environmental sanitation."
+        },
+        "noLabel": {
+          "en": "Article 97."
+        },
+        "chapter": {
+          "en": "Section 5 Regional Organisations"
+        }
+      },
+      {
+        "no": 98,
+        "text": {
+          "en": "The powers and functions and the composition of non-governmental regional organisations shall be prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Section 5 Regional Organisations"
+        }
+      },
+      {
+        "no": 99,
+        "text": {
+          "en": "Public servants serving in all government departments of the Hong Kong Special Administrative Region must be permanent residents of the Region, except where otherwise provided in Article 101 of this Law regarding foreign nationals and, where the law provides, persons below a certain rank.\nPublic servants must be dedicated to their duties and be responsible to the Government of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 99."
+        },
+        "chapter": {
+          "en": "Section 6 Public Servants"
+        }
+      },
+      {
+        "no": 100,
+        "text": {
+          "en": "Public servants serving in all the government departments of the Hong Kong Special Administrative Region before the establishment of the Region, including those in the police force, may all remain in employment and retain their seniority with pay, allowances, benefits and conditions of service no less favourable than before."
+        },
+        "noLabel": {
+          "en": "Article 100."
+        },
+        "chapter": {
+          "en": "Section 6 Public Servants"
+        }
+      },
+      {
+        "no": 101,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region may employ British and other foreign nationals previously serving in the public service in Hong Kong, or those holding permanent identity cards of the Region, to serve as public servants in government departments at all levels, but only Chinese citizens among permanent residents of the Region with no right of abode in any foreign country may fill the following posts: Secretaries and Deputy Secretaries of Departments, Directors of Bureaux, the Commissioner against Corruption, the Director of Audit, the Commissioner of Police, the Director of Immigration and the Commissioner of Customs and Excise.\nThe Government of the Hong Kong Special Administrative Region may also employ British and other foreign nationals as advisers to government departments and, when required, may recruit qualified candidates from outside the Region to fill professional and technical posts in government departments. These foreign nationals shall be employed only in their individual capacities and shall be responsible to the Government of the Region."
+        },
+        "noLabel": {
+          "en": "Article 101."
+        },
+        "chapter": {
+          "en": "Section 6 Public Servants"
+        }
+      },
+      {
+        "no": 102,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall pay to public servants who retire or who leave the service in compliance with regulations, including those who have retired or who have left the service in compliance with regulations before the establishment of the Region, or to their dependants, all pensions, gratuities, allowances and benefits due to them on terms no less favourable than before, irrespective of their nationality or place of residence."
+        },
+        "noLabel": {
+          "en": "Article 102."
+        },
+        "chapter": {
+          "en": "Section 6 Public Servants"
+        }
+      },
+      {
+        "no": 103,
+        "text": {
+          "en": "Appointment and promotion of public servants shall be on the basis of their qualifications, experience and ability. Hong Kong's previous system of recruitment, employment, assessment, discipline, training and management for the public service, including special bodies for their appointment, pay and conditions of service, shall be maintained, except for any provisions for privileged treatment of foreign nationals."
+        },
+        "noLabel": {
+          "en": "Article 103."
+        },
+        "chapter": {
+          "en": "Section 6 Public Servants"
+        }
+      },
+      {
+        "no": 104,
+        "text": {
+          "en": "When assuming office, the Chief Executive, principal officials, members of the Executive Council and of the Legislative Council, judges of the courts at all levels and other members of the judiciary in the Hong Kong Special Administrative Region must, in accordance with law, swear to uphold the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China and swear allegiance to the Hong Kong Special Administrative Region of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 104."
+        },
+        "chapter": {
+          "en": "Section 6 Public Servants"
+        }
+      },
+      {
+        "no": 105,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall, in accordance with law, protect the right of individuals and legal persons to the acquisition, use, disposal and inheritance of property and their right to compensation for lawful deprivation of their property.\nSuch compensation shall correspond to the real value of the property concerned at the time and shall be freely convertible and paid without undue delay.\nThe ownership of enterprises and the investments from outside the Region shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 105."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 106,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall have independent finances.\nThe Hong Kong Special Administrative Region shall use its financial revenues exclusively for its own purposes, and they shall not be handed over to the Central People's Government.\nThe Central People's Government shall not levy taxes in the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 106."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 107,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall follow the principle of keeping expenditure within the limits of revenues in drawing up its budget, and strive to achieve a fiscal balance, avoid deficits and keep the budget commensurate with the growth rate of its gross domestic product."
+        },
+        "noLabel": {
+          "en": "Article 107."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 108,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall practise an independent taxation system.\nThe Hong Kong Special Administrative Region shall, taking the low tax policy previously pursued in Hong Kong as reference, enact laws on its own concerning types of taxes, tax rates, tax reductions, allowances and exemptions, and other matters of taxation."
+        },
+        "noLabel": {
+          "en": "Article 108."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 109,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall provide an appropriate economic and legal environment for the maintenance of the status of Hong Kong as an international financial centre."
+        },
+        "noLabel": {
+          "en": "Article 109."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 110,
+        "text": {
+          "en": "The monetary and financial systems of the Hong Kong Special Administrative Region shall be prescribed by law.\nThe Government of the Hong Kong Special Administrative Region shall, on its own, formulate monetary and financial policies, safeguard the free operation of financial business and financial markets, and regulate and supervise them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 110."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 111,
+        "text": {
+          "en": "The Hong Kong dollar, as the legal tender in the Hong Kong Special Administrative Region, shall continue to circulate.\nThe authority to issue Hong Kong currency shall be vested in the Government of the Hong Kong Special Administrative Region. The issue of Hong Kong currency must be backed by a 100 per cent reserve fund. The system of issuing Hong Kong currency and the system of the reserve fund shall be prescribed by law.\nThe Government of the Hong Kong Special Administrative Region may authorise designated banks to issue or continue to issue Hong Kong currency under statutory authority, after satisfying itself that any issue of currency will be soundly based and that the arrangements for such issue are consistent with the object of maintaining the stability of the currency."
+        },
+        "noLabel": {
+          "en": "Article 111."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 112,
+        "text": {
+          "en": "No foreign exchange control policies shall be applied in the Hong Kong Special Administrative Region. The Hong Kong dollar shall be freely convertible. Markets for foreign exchange, gold, securities, futures and the like shall continue to operate.\nThe Government of the Hong Kong Special Administrative Region shall safeguard the free flow of capital within, into and out of the Region."
+        },
+        "noLabel": {
+          "en": "Article 112."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 113,
+        "text": {
+          "en": "The Exchange Fund of the Hong Kong Special Administrative Region shall be managed and controlled by the Government of the Region, primarily for the purpose of regulating the exchange value of the Hong Kong dollar."
+        },
+        "noLabel": {
+          "en": "Article 113."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 114,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall maintain the status of a free port and shall not impose any tariff unless otherwise prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 114."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 115,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall pursue the policy of free trade and safeguard the free movement of goods, intangible assets and capital."
+        },
+        "noLabel": {
+          "en": "Article 115."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 116,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall be a separate customs territory.\nThe Hong Kong Special Administrative Region may, using the name \"Hong Kong, China\", participate in relevant international organisations and international trade agreements, such as the General Agreement on Tariffs and Trade and arrangements regarding international trade in textiles, including preferential trade arrangements.\nExport quotas, tariff preferences and other similar arrangements obtained by the Hong Kong Special Administrative Region, or which it has obtained before and which remain valid, shall be enjoyed exclusively by the Region."
+        },
+        "noLabel": {
+          "en": "Article 116."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 117,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region may issue certificates of origin for products in accordance with prevailing rules of origin."
+        },
+        "noLabel": {
+          "en": "Article 117."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 118,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall provide an economic and legal environment for encouraging investments, technological progress and the development of new industries."
+        },
+        "noLabel": {
+          "en": "Article 118."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 119,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall formulate appropriate policies to promote and coordinate the development of various trades such as manufacturing, commerce, tourism, real estate, transport, public utilities, services, agriculture and fisheries, and pay regard to the protection of the environment."
+        },
+        "noLabel": {
+          "en": "Article 119."
+        },
+        "chapter": {
+          "en": "Section 1 Finance, Monetary Affairs, Trade, Industry and Commerce"
+        }
+      },
+      {
+        "no": 120,
+        "text": {
+          "en": "All leases of land granted, decided upon or renewed before the establishment of the Hong Kong Special Administrative Region which extend beyond 30 June 1997, and all rights in relation to such leases, shall continue to be recognised and protected under the law of the Region."
+        },
+        "noLabel": {
+          "en": "Article 120."
+        },
+        "chapter": {
+          "en": "Section 2 Land Leases"
+        }
+      },
+      {
+        "no": 121,
+        "text": {
+          "en": "As regards all leases of land granted or renewed where the original leases contain no right of renewal, during the period from 27 May 1985 to 30 June 1997, which extend beyond 30 June 1997 and expire not later than 30 June 2047, the lessee shall not be required to pay an additional premium, but shall pay an annual rent equivalent to 3 per cent of the rateable value of the property at that date, adjusted in step with any changes in the rateable value thereafter."
+        },
+        "noLabel": {
+          "en": "Article 121."
+        },
+        "chapter": {
+          "en": "Section 2 Land Leases"
+        }
+      },
+      {
+        "no": 122,
+        "text": {
+          "en": "In the case of old schedule lots, village lots, small houses and similar rural holdings, where the property was on 30 June 1984 held by, or, in the case of small houses granted after that date, where the property is granted to, a person descended from a person who was a village inhabitant in 1898 in Hong Kong, the previous rent shall remain unchanged so long as the property is held by that person or by his lawful successor in the male line."
+        },
+        "noLabel": {
+          "en": "Article 122."
+        },
+        "chapter": {
+          "en": "Section 2 Land Leases"
+        }
+      },
+      {
+        "no": 123,
+        "text": {
+          "en": "Where a lease of land expires without a right of renewal after the establishment of the Hong Kong Special Administrative Region, the Government of the Region shall enact laws and policies on its own to deal with the matter."
+        },
+        "noLabel": {
+          "en": "Article 123."
+        },
+        "chapter": {
+          "en": "Section 2 Land Leases"
+        }
+      },
+      {
+        "no": 124,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall maintain Hong Kong's previous systems of shipping management and shipping regulation, including the system for the regulation of shipping personnel.\nThe Government of the Hong Kong Special Administrative Region shall, on its own, define its specific functions and responsibilities in respect of shipping."
+        },
+        "noLabel": {
+          "en": "Article 124."
+        },
+        "chapter": {
+          "en": "Section 3 Shipping"
+        }
+      },
+      {
+        "no": 125,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall continue to maintain a shipping register and issue related certificates under the law of the Region, using the name \"Hong Kong, China\", as authorised by the Central People's Government."
+        },
+        "noLabel": {
+          "en": "Article 125."
+        },
+        "chapter": {
+          "en": "Section 3 Shipping"
+        }
+      },
+      {
+        "no": 126,
+        "text": {
+          "en": "With the exception of foreign warships, access for which requires the special permission of the Central People's Government, ships shall enjoy access to the ports of the Hong Kong Special Administrative Region in accordance with the laws of the Region."
+        },
+        "noLabel": {
+          "en": "Article 126."
+        },
+        "chapter": {
+          "en": "Section 3 Shipping"
+        }
+      },
+      {
+        "no": 127,
+        "text": {
+          "en": "Private shipping businesses and shipping-related businesses and private container terminals in the Hong Kong Special Administrative Region may continue to operate freely."
+        },
+        "noLabel": {
+          "en": "Article 127."
+        },
+        "chapter": {
+          "en": "Section 3 Shipping"
+        }
+      },
+      {
+        "no": 128,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall provide conditions and take measures for the maintenance of the status of Hong Kong as a centre of international and regional aviation."
+        },
+        "noLabel": {
+          "en": "Article 128."
+        },
+        "chapter": {
+          "en": "Section 4 Civil Aviation"
+        }
+      },
+      {
+        "no": 129,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall continue the previous system of civil aviation management in Hong Kong and keep its own aircraft register in accordance with provisions laid down by the Central People's Government concerning nationality marks and registration marks of aircraft.\nAccess of foreign state aircraft to the Hong Kong Special Administrative Region shall require the special permission of the Central People's Government."
+        },
+        "noLabel": {
+          "en": "Article 129."
+        },
+        "chapter": {
+          "en": "Section 4 Civil Aviation"
+        }
+      },
+      {
+        "no": 130,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall be responsible on its own for matters of routine business and technical management of civil aviation, including the management of airports, the provision of air traffic services within the flight information region of the Region, and the discharge of other responsibilities allocated to it under the regional air navigation procedures of the International Civil Aviation Organisation."
+        },
+        "noLabel": {
+          "en": "Article 130."
+        },
+        "chapter": {
+          "en": "Section 4 Civil Aviation"
+        }
+      },
+      {
+        "no": 131,
+        "text": {
+          "en": "The Central People's Government shall, in consultation with the Government of the Hong Kong Special Administrative Region, make arrangements providing air services between the Region and other parts of the People's Republic of China for airlines incorporated in the Region and having their principal place of business in Hong Kong and other airlines of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 131."
+        },
+        "chapter": {
+          "en": "Section 4 Civil Aviation"
+        }
+      },
+      {
+        "no": 132,
+        "text": {
+          "en": "All air service agreements providing air services between other parts of the People's Republic of China and other states and regions with stops at the Hong Kong Special Administrative Region and air services between the Hong Kong Special Administrative Region and other states and regions with stops at other parts of the People's Republic of China shall be concluded by the Central People's Government.\nIn concluding the air service agreements referred to in the first paragraph of this Article, the Central People's Government shall take account of the special conditions and economic interests of the Region and consult the Government of the Region.\nRepresentatives of the Government of the Hong Kong Special Administrative Region may, as members of the delegations of the Government of the People's Republic of China, participate in air service consultations conducted by the Central People's Government with foreign governments concerning arrangements for such services referred to in the first paragraph of this Article."
+        },
+        "noLabel": {
+          "en": "Article 132."
+        },
+        "chapter": {
+          "en": "Section 4 Civil Aviation"
+        }
+      },
+      {
+        "no": 133,
+        "text": {
+          "en": "Acting under the specific authorisation of the Central People's Government, the Government of the Hong Kong Special Administrative Region may:\n(a) renew or amend air service agreements and arrangements previously in force;\n(b) negotiate and conclude new air service agreements providing routes for airlines incorporated in the Region and having their principal place of business in Hong Kong and providing rights for over-flights and technical stops;\n(c) negotiate and conclude provisional arrangements with foreign states or regions with which no air service agreements have been concluded.\nAll scheduled air services to, from or through Hong Kong, which do not operate to, from or through the mainland of China, shall be regulated by the air service agreements or provisional arrangements referred to in this Article."
+        },
+        "noLabel": {
+          "en": "Article 133."
+        },
+        "chapter": {
+          "en": "Section 4 Civil Aviation"
+        }
+      },
+      {
+        "no": 134,
+        "text": {
+          "en": "The Central People's Government shall give the Government of the Hong Kong Special Administrative Region the authority to:\n(a) negotiate and conclude with other authorities all arrangements concerning the implementation of the air service agreements and provisional arrangements referred to in Article 133 of this Law;\n(b) issue licences to airlines incorporated in the Region and having their principal place of business in Hong Kong;\n(c) designate airlines for the air services specified in the air service agreements and provisional arrangements referred to in Article 133 of this Law;\n(d) issue permits to foreign airlines for services other than those to, from or through the mainland of China."
+        },
+        "noLabel": {
+          "en": "Article 134."
+        },
+        "chapter": {
+          "en": "Section 4 Civil Aviation"
+        }
+      },
+      {
+        "no": 135,
+        "text": {
+          "en": "Airlines incorporated in Hong Kong and having their principal place of business in Hong Kong and businesses related to civil aviation may continue to operate after the establishment of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 135."
+        },
+        "chapter": {
+          "en": "Section 4 Civil Aviation"
+        }
+      },
+      {
+        "no": 136,
+        "text": {
+          "en": "On the basis of the previous educational system, the Government of the Hong Kong Special Administrative Region shall, on its own, formulate policies on the development and improvement of education, including policies regarding the educational system and its administration, the language of instruction, the allocation of funds, the examination system, the system of academic awards and the recognition of educational qualifications.\nCommunity organisations and individuals may, in accordance with law, run educational undertakings of various kinds in the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 136."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 137,
+        "text": {
+          "en": "Educational institutions of all kinds may retain their autonomy and enjoy academic freedom. They may continue to recruit staff and use teaching materials from outside the Hong Kong Special Administrative Region. Schools run by religious organisations may continue to provide religious education, including courses in religion.\nStudents shall enjoy freedom of choice of educational institutions and freedom to pursue their education outside the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 137."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 138,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall, on its own, formulate policies to develop traditional Chinese medicine and western medicine and to improve medical and health services. Community organisations and individuals may, in accordance with law, provide various medical and health services."
+        },
+        "noLabel": {
+          "en": "Article 138."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 139,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall, on its own, formulate policies on science and technology and protect by law achievements in scientific and technological research, patents, discoveries and inventions.\nThe Government of the Hong Kong Special Administrative Region shall, on its own, decide on the scientific and technological standards and specifications applicable in Hong Kong."
+        },
+        "noLabel": {
+          "en": "Article 139."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 140,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall, on its own, formulate policies on culture and protect by law the achievements and lawful rights and interests of authors in their literary and artistic creation."
+        },
+        "noLabel": {
+          "en": "Article 140."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 141,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall not restrict the freedom of religious belief, interfere in the internal affairs of religious organisations or restrict religious activities which do not contravene the laws of the Region.\nReligious organisations shall, in accordance with law, enjoy the rights to acquire, use, dispose of and inherit property and the right to receive financial assistance. Their previous property rights and interests shall be maintained and protected.\nReligious organisations may, in accordance with the previous practice, continue to run seminaries and other schools, hospitals and welfare institutions and to provide other social services.\nReligious organisations and believers in the Hong Kong Special Administrative Region may maintain and develop their relations with religious organisations and believers elsewhere."
+        },
+        "noLabel": {
+          "en": "Article 141."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 142,
+        "text": {
+          "en": "On the basis of maintaining the previous systems concerning the professions, the Government of the Hong Kong Special Administrative Region shall, on its own, formulate provisions for assessing the qualifications for practice in the various professions.\nPersons with professional qualifications or qualifications for professional practice obtained prior to the establishment of the Hong Kong Special Administrative Region may retain their previous qualifications in accordance with the relevant regulations and codes of practice.\nThe Government of the Hong Kong Special Administrative Region shall continue to recognise the professions and professional bodies previously recognised before the establishment of the Region, and the recognised professional bodies may assess and confer professional qualifications on their own.\nThe Government of the Hong Kong Special Administrative Region may, as required by developments in society and in consultation with the parties concerned, recognise new professions and professional bodies."
+        },
+        "noLabel": {
+          "en": "Article 142."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall, on its own, formulate policies on sports. Non-governmental sports organisations may continue to exist and develop in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 143."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 144,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region shall maintain the previous policy of providing financial support to non-governmental organisations in such fields as education, medical and health care, culture, art, recreation, sports, social welfare and social work. Personnel previously serving in these subvented organisations may continue to be employed under the previous system."
+        },
+        "noLabel": {
+          "en": "Article 144."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 145,
+        "text": {
+          "en": "On the basis of the previous social welfare system, the Government of the Hong Kong Special Administrative Region shall, on its own, formulate policies on the development and improvement of this system in the light of the economic conditions and social needs."
+        },
+        "noLabel": {
+          "en": "Article 145."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 146,
+        "text": {
+          "en": "Voluntary organisations providing social services in the Hong Kong Special Administrative Region may, on their own, decide their forms of service, provided that the law is not contravened."
+        },
+        "noLabel": {
+          "en": "Article 146."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 147,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region shall, on its own, formulate laws and policies relating to labour."
+        },
+        "noLabel": {
+          "en": "Article 147."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 148,
+        "text": {
+          "en": "The relationship between non-governmental organisations and religious organisations in such fields as education, science, technology, culture, art, sports, the professions, medical and health care, labour, social welfare and social work in the Hong Kong Special Administrative Region, on the one hand, and their counterparts in other parts of the country, on the other, shall be based on the principles of non-subordination, non-interference and mutual respect."
+        },
+        "noLabel": {
+          "en": "Article 148."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 149,
+        "text": {
+          "en": "Non-governmental organisations and religious organisations in the Hong Kong Special Administrative Region in such fields as education, science, technology, culture, art, sports, the professions, medical and health care, labour, social welfare and social work may maintain and develop relations with their counterparts in foreign states and regions and with relevant international organisations. They may, as required, use the name \"Hong Kong, China\" in the relevant activities."
+        },
+        "noLabel": {
+          "en": "Article 149."
+        },
+        "chapter": {
+          "en": "Chapter VI Education, Science, Culture, Sports, Religion, Labour and Social Services"
+        }
+      },
+      {
+        "no": 150,
+        "text": {
+          "en": "Representatives of the Government of the Hong Kong Special Administrative Region may, as members of delegations of the Government of the People's Republic of China, participate in negotiations at the diplomatic level directly affecting the Region conducted by the Central People's Government."
+        },
+        "noLabel": {
+          "en": "Article 150."
+        },
+        "chapter": {
+          "en": "Chapter VII External Affairs"
         }
       }
     ]
