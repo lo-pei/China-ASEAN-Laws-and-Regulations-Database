@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn
-   法规 25 部 / 译文 2987 条
+   法规 26 部 / 译文 3039 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -29316,6 +29316,645 @@
         },
         "noLabel": {
           "en": "Article 98."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-APPLICATION-2010'] = {
+    "lawId": "CN-LAW-APPLICATION-2010",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to clarify the application of laws to foreign-related civil relations, reasonably resolve foreign-related civil disputes and safeguard the lawful rights and interests of the parties."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The law applicable to foreign-related civil relations shall be determined in accordance with this Law. Where other laws contain special provisions on the application of laws to foreign-related civil relations, those provisions shall apply.\nWhere neither this Law nor other laws contain provisions on the application of laws to foreign-related civil relations, the law most closely connected with the foreign-related civil relation shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The parties may, as provided by law, expressly choose the law applicable to a foreign-related civil relation."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where the law of the People's Republic of China contains mandatory provisions on a foreign-related civil relation, those mandatory provisions shall apply directly."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the application of a foreign law would impair the public interests of the People's Republic of China, the law of the People's Republic of China shall apply."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the law of a foreign State applies to a foreign-related civil relation and different laws are in force in different regions of that State, the law of the region most closely connected with the foreign-related civil relation shall apply."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The limitation of actions shall be governed by the law applicable to the relevant foreign-related civil relation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The characterisation of a foreign-related civil relation shall be governed by the law of the place of the court."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The foreign law applicable to a foreign-related civil relation does not include the law of that State on the application of laws."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The foreign law applicable to a foreign-related civil relation shall be ascertained by the people's court, an arbitration institution or an administrative organ. Where the parties choose the application of a foreign law, they shall provide the law of that State.\nWhere the foreign law cannot be ascertained or the law of that State contains no relevant provisions, the law of the People's Republic of China shall apply."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter I General Provisions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The capacity for civil rights of a natural person shall be governed by the law of the place of his or her habitual residence."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The capacity for civil conduct of a natural person shall be governed by the law of the place of his or her habitual residence.\nWhere a natural person engaging in civil activities is without capacity for civil conduct under the law of the place of his or her habitual residence but has capacity for civil conduct under the law of the place of the act, the law of the place of the act shall apply, except in respect of marriage and family and succession."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Declaration of disappearance or declaration of death shall be governed by the law of the place of habitual residence of the natural person."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The capacity for civil rights, capacity for civil conduct, organisational structure, rights and obligations of shareholders and other matters of a legal person and its branches shall be governed by the law of the place of registration.\nWhere the principal place of business of a legal person is inconsistent with the place of registration, the law of the principal place of business may apply. The place of habitual residence of a legal person is its principal place of business."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The content of personality rights shall be governed by the law of the place of habitual residence of the right holder."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Agency shall be governed by the law of the place of the act of agency, except that the civil relationship between the principal and the agent shall be governed by the law of the place where the agency relationship arises.\nThe parties may choose by agreement the law applicable to entrusted agency."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The parties may choose by agreement the law applicable to a trust. Where the parties make no choice, the law of the place where the trust property is located or the law of the place where the trust relationship arises shall apply."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The parties may choose by agreement the law applicable to an arbitration agreement. Where the parties make no choice, the law of the place where the arbitration institution is located or the law of the place of arbitration shall apply."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where, in accordance with this Law, the law of the country of nationality applies and a natural person has two or more nationalities, the law of the country of nationality in which he or she has habitual residence shall apply; where he or she has habitual residence in none of the countries of nationality, the law of the country of nationality most closely connected with him or her shall apply. Where a natural person is stateless or his or her nationality is unknown, the law of the place of his or her habitual residence shall apply."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where, in accordance with this Law, the law of the place of habitual residence applies and the habitual residence of a natural person is unknown, the law of the place of his or her present residence shall apply."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Civil Subjects"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The conditions for marriage shall be governed by the law of the place of common habitual residence of the parties; where there is no common place of habitual residence, the law of the country of their common nationality shall apply; where there is no common nationality and the marriage is concluded at the place of habitual residence or in the country of nationality of one party, the law of the place where the marriage is concluded shall apply."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The formalities of marriage shall be valid if they conform to the law of the place where the marriage is concluded, the law of the place of habitual residence of one party or the law of the country of nationality of one party."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The personal relations between spouses shall be governed by the law of their common place of habitual residence; where there is no common place of habitual residence, the law of the country of their common nationality shall apply."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "In respect of the property relations between spouses, the parties may choose by agreement the application of the law of the place of habitual residence of one party, the law of the country of nationality of one party or the law of the place where the principal property is located. Where the parties make no choice, the law of their common place of habitual residence shall apply; where there is no common place of habitual residence, the law of the country of their common nationality shall apply."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The personal and property relations between parents and children shall be governed by the law of their common place of habitual residence; where there is no common place of habitual residence, the law that is more conducive to protecting the rights and interests of the weaker party among the law of the place of habitual residence and the law of the country of nationality of one party shall apply."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In respect of divorce by agreement, the parties may choose by agreement the application of the law of the place of habitual residence of one party or the law of the country of nationality of one party. Where the parties make no choice, the law of their common place of habitual residence shall apply; where there is no common place of habitual residence, the law of the country of their common nationality shall apply; where there is no common nationality, the law of the place where the organ handling the divorce formalities is located shall apply."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Divorce by litigation shall be governed by the law of the place of the court."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The conditions and formalities of adoption shall be governed by the law of the place of habitual residence of the adopter and of the adoptee. The effects of adoption shall be governed by the law of the place of habitual residence of the adopter at the time of adoption. The dissolution of the adoptive relationship shall be governed by the law of the place of habitual residence of the adoptee at the time of adoption or the law of the place of the court."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Maintenance shall be governed by the law that is more conducive to protecting the rights and interests of the person entitled to maintenance among the law of the place of habitual residence, the law of the country of nationality and the law of the place where the principal property is located of one party."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Guardianship shall be governed by the law that is more conducive to protecting the rights and interests of the ward among the law of the place of habitual residence and the law of the country of nationality of one party."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Marriage and Family"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Statutory succession shall be governed by the law of the place of habitual residence of the deceased at the time of death, except that statutory succession to immovable property shall be governed by the law of the place where the immovable property is located."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Succession"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A will shall be valid as to form if its form conforms to the law of the place of habitual residence of the testator at the time of making the will or at the time of death, the law of the country of his or her nationality, or the law of the place of the act of making the will."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Succession"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The validity of a will shall be governed by the law of the place of habitual residence of the testator at the time of making the will or at the time of death or the law of the country of his or her nationality."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Succession"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Matters such as the administration of estates shall be governed by the law of the place where the estate is located."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Succession"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The attribution of an estate with no heirs shall be governed by the law of the place where the estate is located at the time of the death of the deceased."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Succession"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Real rights in immovable property shall be governed by the law of the place where the immovable property is located."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Property Rights"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The parties may choose by agreement the law applicable to real rights in movable property. Where the parties make no choice, the law of the place where the movable property is located at the time when the legal fact occurs shall apply."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Property Rights"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The parties may choose by agreement the law applicable to a change in real rights in movable property in transit. Where the parties make no choice, the law of the place of destination of the transport shall apply."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Property Rights"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Negotiable securities shall be governed by the law of the place where the rights under the negotiable securities are realised or other law most closely connected with the negotiable securities."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Property Rights"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A pledge of rights shall be governed by the law of the place where the pledge is created."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Property Rights"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The parties may choose by agreement the law applicable to a contract. Where the parties make no choice, the law of the place of habitual residence of the party whose performance of obligations best characterises the contract or other law most closely connected with the contract shall apply."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Creditors' Rights"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A consumer contract shall be governed by the law of the place of habitual residence of the consumer; where the consumer chooses the application of the law of the place where the goods or services are supplied, or the business operator does not carry out the relevant business activities at the place of habitual residence of the consumer, the law of the place where the goods or services are supplied shall apply."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Creditors' Rights"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "An employment contract shall be governed by the law of the place where the worker works; where the place where the worker works is difficult to determine, the law of the principal place of business of the employer shall apply. Labour dispatch may be governed by the law of the place of dispatch."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Creditors' Rights"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Liability for tort shall be governed by the law of the place where the tort is committed, except that where the parties have a common place of habitual residence, the law of their common place of habitual residence shall apply. Where, after the tort occurs, the parties choose by agreement the applicable law, their agreement shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Creditors' Rights"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Product liability shall be governed by the law of the place of habitual residence of the person whose rights are infringed; where that person chooses the application of the law of the principal place of business of the infringer or the law of the place where the damage occurs, or the infringer does not carry out the relevant business activities at the place of habitual residence of the person whose rights are infringed, the law of the principal place of business of the infringer or the law of the place where the damage occurs shall apply."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Creditors' Rights"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the rights to name, portrait, reputation, privacy or other personality rights are infringed through the Internet or by other means, the law of the place of habitual residence of the person whose rights are infringed shall apply."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Creditors' Rights"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Unjust enrichment and negotiorum gestio shall be governed by the law chosen by agreement of the parties. Where the parties make no choice, the law of their common place of habitual residence shall apply; where there is no common place of habitual residence, the law of the place where the unjust enrichment or negotiorum gestio occurs shall apply."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Creditors' Rights"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The ownership and content of intellectual property shall be governed by the law of the place where protection is sought."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Intellectual Property Rights"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The parties may choose by agreement the law applicable to the assignment and licensing of intellectual property. Where the parties make no choice, the relevant provisions of this Law on contracts shall apply."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Intellectual Property Rights"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Liability for infringement of intellectual property shall be governed by the law of the place where protection is sought, and the parties may also, after the infringement occurs, choose by agreement the application of the law of the place of the court."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Intellectual Property Rights"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where Article 146 and Article 147 of the General Principles of Civil Law of the People's Republic of China and Article 36 of the Succession Law of the People's Republic of China are inconsistent with the provisions of this Law, this Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "This Law shall enter into force on 1 April 2011."
+        },
+        "noLabel": {
+          "en": "Article 52."
         },
         "chapter": {
           "en": "Chapter VIII Supplementary Provisions"

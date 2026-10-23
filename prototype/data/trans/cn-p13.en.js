@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p13
-   法规 63 部 / 译文 1903 条
+   法规 80 部 / 译文 2978 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -1020,6 +1020,657 @@
         },
         "noLabel": {
           "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0026'] = {
+    "lawId": "CN-REG-0026",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 55 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted in order to promote the high-quality development of urban public transport, improve the level of urban public transport services, safeguard the safety of urban public transport, better meet the basic travel needs of the public and advance the modernisation of cities."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, urban public transport means the provision of basic travel services to the public within the area designated by the urban people's government by means of public transport vehicles such as public buses and trolleybuses and urban rail transit vehicles and the relevant systems and facilities, operating on approved routes, stops, timetables and fares."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall implement the strategy of giving priority to the development of urban public transport and adopt comprehensive measures in respect of planning, land, fiscal and financial matters and other aspects to guarantee the development of urban public transport and enhance its competitiveness and attractiveness.\nThe State shall encourage and guide the public to give priority to public transport as the mode of motorised travel."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Work on urban public transport shall adhere to the leadership of the Communist Party of China, adhere to a people-centred approach, adhere to the public welfare nature of urban public transport, implement the strategy of giving priority to the development of urban public transport, and build a safe, convenient, efficient, green and economical urban public transport system."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The urban people's government is the responsible entity for the development of urban public transport.\nThe urban people's government shall strengthen organisation and leadership over work on urban public transport, implement the guarantee measures for the development of urban public transport, strengthen supervision and administration of the safety of urban public transport, and make overall study of and coordinate the resolution of major issues in work on urban public transport.\nThe competent department of urban public transport under the State Council, other relevant departments and the people's governments of provinces and autonomous regions shall strengthen guidance over work on urban public transport."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The urban people's government shall, in light of actual circumstances and characteristics such as the functional positioning, scale, spatial layout, development goals and public travel needs of the city, in coordination with urban land and space use and with an overall view of the various modes of transport, scientifically determine the development goals and development models of urban public transport and promote an increase in the share of urban public transport in motorised travel."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The enterprises that undertake urban public transport operation services (hereinafter referred to as urban public transport enterprises) shall be determined in accordance with the law by the urban people's government or its competent department of urban public transport."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall encourage and support the promotion and application of new technologies, new energy and new equipment in urban public transport systems, improve the level of informatisation and intelligentisation of urban public transport, promote the green and low-carbon transformation of urban public transport and enhance operational efficiency and management."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The comprehensive urban transport system plan shall clearly establish the principle of giving priority to public transport, make overall arrangements for the construction of urban transport infrastructure, rationally allocate and utilise the various transport resources and strengthen the connection and coordination of the various modes of transport. The urban people's government shall, in light of actual circumstances and needs, organise the formulation of the urban public transport plan.\nCities that build urban rail transit systems shall formulate urban rail transit network plans and construction plans in accordance with the relevant provisions of the State.\nThe comprehensive urban transport system plan, the urban public transport plan and the urban rail transit network plans and construction plans shall be connected with territorial spatial planning, and the reasonable needs relating to land and space use shall be incorporated into the implementation and supervision system for territorial spatial planning for overall guarantee."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The relevant departments of the urban people's government shall, in light of the relevant plans and the circumstances of urban development and public travel needs, rationally determine urban public transport routes, lay out public transport stations and other facilities, and increase the coverage of public transport.\nThe urban people's government shall organise the relevant departments to carry out surveys of public travel, which shall serve as the basis for optimising urban public transport routes and the layout of stations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In the new construction, reconstruction or expansion of large construction projects such as residential areas, transport hubs, schools, hospitals, sports venues and commercial centres, overall consideration shall be given to public transport travel needs; where the approval or verification documents for a construction project require the supporting construction of urban public transport infrastructure, the project owner shall build the relevant facilities as required and put them into use simultaneously.\nThe construction of urban public transport infrastructure shall meet the requirements for the construction of a barrier-free environment and shall be combined with age-friendly renovation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Urban people's governments shall safeguard land for urban public transport infrastructure in accordance with the law. Where land for urban public transport infrastructure meets the prescribed conditions, it may be supplied by way of allocation, negotiated grant and other means.\nOn the premise of conforming to the requirements of territorial spatial planning and use control and without affecting the functions and scale of urban public transport, comprehensive development of land for urban public transport infrastructure may be carried out in accordance with the relevant provisions of the State to support the development of urban public transport."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Urban people's governments shall, in light of the actual situation of urban public transport and their fiscal capacity, arrange the funds needed for the development of urban public transport and include them in the budget at the corresponding level.\nThe State shall encourage and guide financial institutions to provide financial services compatible with the development of urban public transport and to increase financing support for the development of urban public transport.\nThe State shall encourage and support social capital in participating in the construction and operation of urban public transport infrastructure in accordance with the law and shall safeguard its lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Urban public transport fares shall be subject to government pricing or government-guided pricing in accordance with the law, and a dynamic adjustment mechanism shall be established. It is encouraged to establish a multi-tiered and differentiated urban public transport fare system on the basis of factors such as the quality of urban public transport services, the distance of carriage and the modes of transfer.\nIn setting and adjusting urban public transport fares, overall consideration shall be given to factors such as the operating costs of enterprises, the affordability of society and the state of transport supply and demand, and procedures such as the supervision and examination of pricing costs shall be performed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Urban public transport enterprises may, on the premise of guaranteeing the basic travel of the public, carry out customised travel service business. Market-regulated prices may apply to customised travel service business."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Urban people's governments shall organise the relevant departments to grant subsidies and compensation in a timely manner in accordance with the provisions, on the basis of the evaluation of the operating service quality of urban public transport enterprises and the examination of their annual accounting reports on costs and expenses, and taking comprehensive account of factors such as fiscal capacity and the scope for enterprises to increase revenue and reduce expenditure."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Urban people's governments may, in light of actual circumstances and needs and in accordance with the principle of coordinating public transport efficiency with overall transport efficiency and intensively using urban road resources, designate exclusive lanes for public transport and exercise scientific management and dynamic adjustment thereof."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent department of urban public transport of the urban people's government shall, by such means as concluding operation service agreements with urban public transport enterprises, specify matters such as the service standards, norms and requirements for urban public transport operations and the evaluation of operating service quality.\nUrban public transport enterprises shall comply with the service standards, norms and requirements for urban public transport operations, strengthen internal management and continuously improve the quality and efficiency of operating services.\nUrban public transport enterprises shall not transfer or lease the urban public transport routes they operate, or transfer or lease them in disguised form, to others for operation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Urban public transport enterprises shall provide urban public transport vehicles in accordance with the operation service agreement or the requirements of the competent department of urban public transport of the urban people's government, and shall set up vehicle operation service signs in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Urban public transport enterprises shall, in a manner convenient for the public to know, promptly disclose information such as operating routes, stops, operating hours, departure intervals and fares. Urban public transport enterprises are encouraged to provide information enquiry services to the public through informatised means such as electronic stop boards and travel information service systems."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Urban public transport enterprises shall strengthen operation scheduling management and, on the premise of ensuring safety, improve punctuality and operational efficiency."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Urban public transport enterprises shall not change operating routes, stops or operating hours or suspend operation services without authorisation; where operating routes, stops or operating hours need to be temporarily changed, or operation services need to be temporarily suspended, for special reasons, they shall, except where unexpected incidents occur or emergency measures are taken to guarantee operational safety, announce the matter to the public in advance and report to the competent department of urban public transport of the urban people's government."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where, due to large-scale mass activities or other circumstances, public transport passenger flows are concentrated and normal operation service arrangements can hardly meet demand, urban public transport enterprises shall, in accordance with the requirements of the competent department of urban public transport of the urban people's government, promptly take measures such as running additional temporary services, shortening departure intervals and extending operating hours to guarantee operation services."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Passengers shall pay the fare in accordance with the fare scale; where a passenger refuses to pay the fare, the urban public transport enterprise may refuse to allow the passenger to enter the station and board.\nUrban public transport enterprises shall, in accordance with laws, regulations and the relevant provisions of the State, provide convenience and preferential treatment to the relevant groups in taking public transport vehicles."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Urban public transport enterprises shall establish a mechanism for handling complaints about operating service quality and announce it to the public, promptly and properly handle complaints raised by passengers and give feedback to passengers on the handling results; where a passenger is dissatisfied with the handling results, the passenger may lodge an appeal with the competent department of urban public transport of the urban people's government, and that department shall give a reply in a timely manner. Passengers may also directly complain to the competent department of urban public transport of the urban people's government about problems concerning operating service quality."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The competent department of urban public transport of the urban people's government shall regularly organise evaluations of the operating service quality of urban public transport enterprises and announce the evaluation results to the public."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Without the consent of the urban people's government, an urban public transport enterprise shall not terminate operation services; where operation services are terminated due to bankruptcy or dissolution, the enterprise shall report to the competent department of urban public transport of the urban people's government 30 days in advance, and that department shall promptly take measures such as designating a temporary operation service enterprise and redeploying operating vehicles to ensure that operation services are not interrupted; where an enterprise to undertake urban public transport operation services needs to be determined anew, the urban people's government or its competent department of urban public transport shall determine it in a timely manner in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Operating Services"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Urban public transport enterprises shall comply with the laws, regulations and standards on work safety, implement the work safety responsibility of all staff, establish and improve work safety management systems and work safety responsibility systems, guarantee funding for safety, build a dual preventive mechanism of tiered management and control of safety risks and investigation and treatment of hidden dangers, and enhance the ability to prevent and respond to emergencies."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The survey, design, construction and supervision of urban public transport construction projects shall comply with the laws, regulations and standards on the management of construction projects.\nFacilities of urban public transport construction projects that involve public safety shall be planned, constructed and put into use simultaneously with the principal works."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Vehicles put into operation by urban public transport enterprises shall pass inspection in accordance with the law, and shall be equipped, in accordance with the relevant standards of the State, with fire extinguishers, safety hammers and safety equipment for safety isolation, emergency alarms and emergency door opening, and shall bear conspicuous safety warning signs.\nUrban public transport enterprises shall maintain and service vehicles and the relevant systems and facilities and equipment in accordance with the relevant standards of the State to ensure good performance and safe operation.\nWhere advertisements are installed on urban public transport vehicles or facilities and equipment, the laws and regulations on advertisement management shall be complied with, and the safety of urban public transport operations shall not be affected."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Personnel in key posts of urban public transport enterprises who are directly involved in operational safety, such as drivers, conductors, dispatchers, duty officers, signal workers and communications workers (hereinafter collectively referred to as personnel in key posts), shall meet the following conditions:\n(a) having the ability to perform the duties of the post;\n(b) being free from diseases that may endanger operational safety;\n(c) having no record of violent crimes or drug use;\n(d) other conditions prescribed by the competent department of urban public transport of the State Council.\nIn addition to meeting the conditions specified in the preceding paragraph, drivers of urban public buses and trolleybuses shall also obtain a motor vehicle driving licence for the corresponding permitted vehicle type, and train drivers of urban rail transit shall also obtain the corresponding vocational access qualification in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Urban public transport enterprises shall regularly train and assess personnel in key posts in respect of post duties, operating procedures, service norms, safety precautions, basic knowledge of emergency response and other aspects, and such personnel may take up their posts only after passing the assessment. Records of training and assessment shall be kept on file for inspection.\nUrban public transport enterprises shall pay attention to the physical and mental conditions and behavioural habits of personnel in key posts, regularly organise medical examinations for such personnel, strengthen psychological counselling, and promptly take effective measures to prevent operational safety accidents caused by abnormal physical or mental conditions or behaviour of personnel in key posts.\nUrban public transport enterprises shall reasonably arrange the working hours of drivers to prevent fatigued driving."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Urban public transport enterprises shall, in accordance with the provisions of the relevant laws and regulations, implement safety precautions responsibilities such as conducting security background checks on the relevant personnel and providing security personnel and the corresponding facilities and equipment."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Urban public transport enterprises shall strengthen routine monitoring of passenger flow conditions; where large accumulations of passengers occur or may occur, they shall promptly take measures to disperse the flow and, where necessary, may take measures such as temporarily restricting passenger flow or temporarily closing stations to ensure operational safety.\nWhere operational safety is endangered by unexpected incidents or failures of facilities and equipment or for other reasons, urban public transport enterprises may suspend operation services on some sections or on the entire network, and shall do a good job in dispersing passengers and maintaining order at the scene. Passengers shall evacuate in an orderly manner under the direction and guidance of the staff of the urban public transport enterprise."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Passengers shall comply with the norms for riding and maintain order on board.\nPassengers shall not carry flammable, explosive, toxic, radioactive or corrosive dangerous articles or other dangerous articles that may endanger personal and property safety into stations or on board; where a passenger insists on carrying such articles, the urban public transport enterprise shall refuse to allow the passenger to enter the station and board.\nUrban rail transit operating entities shall, in accordance with the relevant provisions of the State, conduct security checks on persons entering urban rail transit stations and the articles they carry; where a person refuses to accept a security check, they shall refuse to allow the person to enter the station and board. Security checks shall comply with the relevant operating norms and improve quality and efficiency."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "No unit or individual shall commit any of the following acts endangering the safety of urban public transport operations:\n(a) unlawfully intercepting urban public transport vehicles or forcibly boarding or alighting from them;\n(b) unlawfully occupying urban public transport stations or entrances and exits;\n(c) entering urban rail transit lines, vehicle depots, control centres, train cabs or other areas where non-staff are prohibited from entering without authorisation;\n(d) throwing objects at urban public transport vehicles or placing obstacles on urban rail transit lines;\n(e) intentionally damaging, or moving or covering without authorisation, urban public transport stop signs, safety warning signs, monitoring equipment or safety protection equipment;\n(f) operating safety equipment bearing safety warning signs without authorisation in a non-emergency state;\n(g) interfering with or obstructing the safe driving of drivers of urban public transport vehicles;\n(h) other acts endangering the safety of urban public transport operations.\nWhere an urban public transport enterprise discovers an act specified in the preceding paragraph, it shall promptly stop it, take measures to eliminate the safety hazard and, where necessary, request the relevant departments to handle it in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The relevant departments of the urban people's government shall, in accordance with the division of duties, strengthen supervision and administration of the safety of urban public transport operations and establish a coordination mechanism for work on the safety of urban public transport operations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The competent department of urban public transport of the urban people's government shall, together with the relevant departments, formulate an emergency plan for urban public transport and submit it to the urban people's government for approval.\nUrban public transport enterprises shall, on the basis of the emergency plan for urban public transport, formulate their own emergency plans, file them with the competent department of urban public transport and the emergency management department of the urban people's government, and regularly organise drills.\nUrban people's governments shall strengthen the development of emergency response capacity for urban public transport, organise the relevant departments, urban public transport enterprises and other relevant units to jointly carry out emergency response drills for urban public transport, and improve the capacity to respond to emergencies."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Urban people's governments shall improve the information-sharing mechanism between the relevant departments and urban public transport enterprises. The competent department of urban public transport of the urban people's government and urban public transport enterprises shall strengthen communication with the relevant departments, promptly obtain information on meteorological conditions, natural disasters, public security and other matters that may affect the safety of urban public transport operations, and take targeted safety precautionary measures. The relevant departments shall provide support and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Urban people's governments shall incorporate urban rail transit into urban disaster prevention and mitigation plans, improve the design and verification of urban rail transit against inundation, fire, ice and snow, lightning strikes, storms and other hazards, and enhance the capacity of urban rail transit to prevent and respond to disasters."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the construction unit of urban rail transit organises the compilation of the feasibility study report and preliminary design documents for an urban rail transit construction project, it shall implement the requirements of the State concerning public safety and operation services."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "After an urban rail transit construction project has passed acceptance in accordance with the law, the competent department of urban public transport of the urban people's government shall organise a pre-operation safety assessment, and the project may be put into operation only after passing the safety assessment. The construction unit and the operating unit of urban rail transit shall complete the construction and operation handover formalities in accordance with the relevant provisions of the State.\nThe measures for the administration of the acceptance of urban rail transit construction projects and of the construction and operation handover shall be formulated by the competent department of housing and urban-rural development of the State Council together with the competent department of urban public transport of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Urban people's governments shall organise the relevant departments to delineate safety protection zones for urban rail transit lines and formulate management systems for the safety protection zones.\nWhere operations are carried out within a safety protection zone for urban rail transit lines, the consent of the urban rail transit operating entity shall be obtained. The operating unit shall formulate and implement a safety protection plan, conduct dynamic monitoring of the areas affected by the operations in the course of the operations, and promptly detect and eliminate safety hazards. The urban rail transit operating entity may enter the operation site to conduct inspections and, where it finds that the operations endanger or may endanger the safety of urban rail transit operations, shall require the operating unit to take measures to eliminate the safety hazard or to stop the operations."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The competent department of urban public transport of the urban people's government shall regularly organise third-party assessments of the safety of urban rail transit operations and urge operating entities to promptly detect and eliminate safety hazards."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Management"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a unit or individual other than an urban public transport enterprise engages in the operation of urban public transport routes without authorisation, the competent department of urban public transport of the urban people's government shall order it to stop operating, confiscate the illegal gains and impose a fine of not less than one time but not more than five times the illegal gains; where there are no illegal gains or the illegal gains are less than 10,000 yuan, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed.\nWhere an urban public transport enterprise transfers or leases the urban public transport routes it operates, or transfers or leases them in disguised form, to others for operation, the competent department of urban public transport of the urban people's government shall order it to rectify and shall impose a penalty in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an urban public transport enterprise commits any of the following acts, the competent department of urban public transport of the urban people's government shall order it to rectify; where it refuses to rectify, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed:\n(a) failing to comply with the service standards, norms and requirements for urban public transport operations;\n(b) failing to provide urban public transport vehicles or to set up vehicle operation service signs in accordance with the provisions;\n(c) failing to disclose information such as operating routes, stops, operating hours, departure intervals and fares."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where an urban public transport enterprise changes operating routes, stops or operating hours without authorisation, the competent department of urban public transport of the urban people's government shall order it to rectify; where it refuses to rectify, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed.\nWhere an urban public transport enterprise suspends operation services without authorisation, the competent department of urban public transport of the urban people's government shall order it to rectify; where it refuses to rectify, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed.\nWhere an urban public transport enterprise changes operating routes, stops or operating hours, or temporarily suspends operation services, for special reasons without announcing the matter to the public and reporting to the competent department of urban public transport of the urban people's government in accordance with the provisions, the competent department of urban public transport of the urban people's government shall order it to rectify and may impose a fine of not more than 10,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an urban public transport enterprise, in violation of the provisions of these Regulations, terminates operation services without the consent of the urban people's government, the competent department of urban public transport of the urban people's government shall order it to rectify; where it refuses to rectify, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an urban public transport enterprise commits any of the following acts, the competent department of urban public transport of the urban people's government shall order it to rectify and may impose a fine of not more than 50,000 yuan, and where there are illegal gains, the illegal gains shall be confiscated; where it refuses to rectify, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed:\n(a) installing advertisements on urban public transport vehicles or facilities and equipment in a manner that affects the safety of urban public transport operations;\n(b) having personnel in key posts who do not meet the prescribed conditions, or failing to train and assess personnel in key posts in accordance with the provisions, or arranging for personnel in key posts who have failed the assessment to take up their posts."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a unit carrying out operations within a safety protection zone for urban rail transit lines commits any of the following acts, the competent department of urban public transport of the urban people's government shall order it to rectify and to suspend operations temporarily, and may impose a fine of not more than 50,000 yuan; where it refuses to rectify, it shall be ordered to stop operations and a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed; where damage is caused to urban rail transit facilities or the safety of operations is affected, a fine of not less than 200,000 yuan but not more than 1 million yuan shall be imposed in addition:\n(a) carrying out operations without obtaining the consent of the urban rail transit operating entity;\n(b) failing to formulate and implement a safety protection plan;\n(c) failing to conduct dynamic monitoring of the areas affected by the operations in the course of the operations, or failing to promptly eliminate the safety hazards detected."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where staff of an urban people's government and of its competent department of urban public transport or other relevant departments abuse their powers, neglect their duties or engage in malpractices for personal gain in work on urban public transport, sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an act in violation of the provisions of these Regulations constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with the law; where the act constitutes a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Urban ferries used for public transport services shall be governed by reference to the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Urban people's governments shall, in light of the needs of urban-rural integration and coordinated regional development, make overall progress in the integrated development of public transport between urban and rural areas and between regions."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 December 2024."
+        },
+        "noLabel": {
+          "en": "Article 55."
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
@@ -3264,6 +3915,2232 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0034'] = {
+    "lawId": "CN-REG-0034",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 59 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted in order to strengthen the management of urban drainage and sewage treatment, ensure the safe operation of urban drainage and sewage treatment facilities, prevent and control urban water pollution and waterlogging disasters, safeguard the safety of citizens' lives and property and public safety, and protect the environment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the planning of urban drainage and sewage treatment, the construction, maintenance and protection of urban drainage and sewage treatment facilities, the discharge of sewage into urban drainage facilities and sewage treatment, and the prevention and control of urban waterlogging."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen leadership over work on urban drainage and sewage treatment and incorporate such work into the national economic and social development plans."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Urban drainage and sewage treatment shall follow the principles of respecting nature, making overall plans, supporting construction, ensuring safety and comprehensive utilisation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent department of housing and urban-rural development of the State Council shall guide and supervise work on urban drainage and sewage treatment throughout the country.\nThe competent department of urban drainage and sewage treatment of local people's governments at or above the county level (hereinafter referred to as the competent department of urban drainage) shall be responsible for the supervision and administration of urban drainage and sewage treatment within its administrative region.\nOther relevant departments of people's governments at or above the county level shall, in accordance with the provisions of these Regulations and other relevant laws and regulations and within the scope of their respective duties, be responsible for the related work of supervision and administration of urban drainage and sewage treatment."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages the adoption of various forms such as concession operation and government purchase of services to attract social funds to participate in the investment in, construction of and operation of urban drainage and sewage treatment facilities.\nPeople's governments at or above the county level shall encourage and support scientific and technological research on urban drainage and sewage treatment, promote the application of advanced and appropriate technologies, processes, equipment and materials, promote the recycling of sewage and the resource utilisation of sludge and rainwater, and improve the capacity of urban drainage and sewage treatment."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent department of housing and urban-rural development of the State Council shall, together with the relevant departments of the State Council, compile the national plan for urban drainage and sewage treatment, and shall specify the medium- and long-term development goals, development strategies, layout, tasks and guarantee measures for urban drainage and sewage treatment throughout the country.\nThe competent department of urban drainage shall, together with the relevant departments, compile the plan for urban drainage and sewage treatment of its administrative region in light of the local level of economic and social development and geographical and climatic characteristics, and shall specify the goals and standards for drainage and sewage treatment, the volume of drainage and the drainage modes, the requirements for sewage treatment and recycling and for sludge treatment and disposal, the measures for drainage and waterlogging prevention, the scale, layout, construction sequence and construction land of urban drainage and sewage treatment facilities, and the guarantee measures; cities and towns prone to waterlogging shall also compile a special plan for the prevention and control of urban waterlogging and incorporate it into the plan for urban drainage and sewage treatment of their administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The compilation of plans for urban drainage and sewage treatment shall be based on the national economic and social development plans, urban and rural plans, overall land use plans, water pollution prevention and control plans and flood control plans, and shall be connected with the special plans for urban development and construction, roads, green spaces, water systems and other matters.\nThe compilation of a special plan for the prevention and control of urban waterlogging shall, on the basis of factors such as the population and scale of the city or town, rainfall patterns and the risk of rainstorm waterlogging, rationally determine the goals and requirements for waterlogging prevention and control, make full use of natural ecosystems and improve the capacity for the retention, infiltration, storage and discharge of rainwater."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department of urban drainage shall submit the plan for urban drainage and sewage treatment it has compiled to the people's government at the corresponding level for approval before organising its implementation, and shall file it with the competent department of urban drainage of the people's government at the next higher level.\nOnce approved and published, the plan for urban drainage and sewage treatment shall be strictly implemented; where modification is truly necessary due to economic and social development, the plan shall be submitted for approval in accordance with the original approval procedures."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the requirements of the plans for urban drainage and sewage treatment, increase investment in the construction and maintenance of urban drainage and sewage treatment facilities."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The construction land for urban drainage and sewage treatment facilities determined by urban and rural plans and by plans for urban drainage and sewage treatment shall not be used for other purposes without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the principle of planning before construction and on the basis of the plans for urban drainage and sewage treatment, rationally determine the construction standards for urban drainage and sewage treatment facilities, and make overall arrangements for the construction and renovation of drainage and sewage treatment facilities such as pipe networks, pumping stations, sewage treatment plants and facilities for sludge treatment and disposal, reclaimed water utilisation, and rainwater storage and discharge.\nIn the development and construction of new urban areas, priority shall be given to the construction of drainage and sewage treatment facilities in accordance with the construction sequence determined by the plans for urban drainage and sewage treatment; where such facilities have not been built, or have been built but do not meet the relevant standards of the State, they shall be renovated in accordance with the annual renovation plan so as to improve the capacity of urban drainage and sewage treatment."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the requirements for urban drainage and waterlogging prevention and in light of the nature and conditions of urban land use, strengthen the construction and renovation of facilities such as rainwater pipe networks, pumping stations and facilities for rainwater storage and for the discharge of excessive rainwater runoff.\nThe new construction, reconstruction or expansion of municipal infrastructure projects shall include the construction of facilities for the collection and utilisation of rainwater, increase the retention and infiltration capacity of green spaces, gravel surfaces, permeable pavements and natural ground for rainwater, and build facilities for the collection and utilisation of rainwater in buildings, parking lots, squares and roads so as to reduce rainwater runoff and improve the capacity for the prevention and control of urban waterlogging.\nIn the construction of new areas and the reconstruction of old urban areas, the relevant facilities shall be built in accordance with the rainwater runoff control requirements determined by the plans for urban drainage and sewage treatment."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "For construction projects of urban drainage and sewage treatment facilities within the scope of the plans for urban drainage and sewage treatment, and for new construction, reconstruction or expansion projects that need to be connected to urban drainage and sewage treatment facilities, the competent department of urban and rural planning shall, when issuing the construction land planning permit in accordance with the law, seek the opinions of the competent department of urban drainage. The competent department of urban drainage shall put forward opinions on whether the drainage design scheme conforms to the plans for urban drainage and sewage treatment and the relevant standards.\nThe project owner shall build connecting pipe networks and other facilities in accordance with the drainage design scheme; where connecting pipe networks and other facilities have not been built, the project shall not be put into use. The competent department of urban drainage or the specialised agency entrusted by it shall strengthen guidance and supervision."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "After a construction project for urban drainage and sewage treatment facilities is completed, the project owner shall organise completion acceptance in accordance with the law. The project may be delivered for use only after passing completion acceptance, and within 15 days from the date of passing completion acceptance, the completion acceptance report and the relevant materials shall be filed with the competent department of urban drainage."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After a construction project for urban drainage and sewage treatment facilities passes completion acceptance, the competent department of urban drainage shall, by such means as tendering and bidding or entrustment, determine a qualified facility maintenance and operation unit to be responsible for management. Where a concession operation contract or an entrusted operation contract involves the reduction of pollutants and the operation service fees for sewage treatment, the competent department of urban drainage shall seek the opinions of the competent department of environmental protection and the competent department of pricing. The State encourages the implementation of the concession operation system for urban sewage treatment. The specific measures shall be formulated by the competent department of housing and urban-rural development of the State Council together with the relevant departments of the State Council.\nA unit maintaining and operating urban drainage and sewage treatment facilities shall meet the following conditions:\n(a) having the status of a legal person;\n(b) having funds and equipment appropriate to the activities of maintaining and operating urban drainage and sewage treatment facilities;\n(c) having sound operation management and safety management systems;\n(d) having a technical officer and personnel in key posts who have received professional training and passed the assessment;\n(e) having a corresponding sound track record and experience in maintenance and operation;\n(f) other conditions prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Planning and Construction"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in light of local rainfall patterns and the risk of rainstorm waterlogging and on the basis of meteorological and hydrological data, establish a geographic information system for drainage facilities, strengthen the management of rainwater discharge and improve the level of prevention and control of urban waterlogging.\nLocal people's governments at or above the county level shall organise the relevant departments and units to take corresponding preventive and control measures, establish early warning, consultation and coordination mechanisms for the prevention and control of urban waterlogging, give play to the flood conveyance capacity of river courses and the flood regulation and storage functions of reservoirs, depressions and lakes, strengthen the management of urban drainage facilities and the protection and improvement of river courses, and take measures such as regular dredging in light of local conditions to ensure the smooth discharge of rainwater and jointly carry out the work of preventing and controlling urban waterlogging."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent department of urban drainage shall, in accordance with the requirements of the special plan for the prevention and control of urban waterlogging, determine the construction standards for facilities for the collection and utilisation of rainwater, specify the drainage sub-areas and drainage outlets for rainwater, and rationally control rainwater runoff."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Except in arid areas, new areas shall be built with separate systems for rainwater and sewage; in areas with a combined rainwater and sewage system, the separation of rainwater and sewage shall be carried out in accordance with the requirements of the plans for urban drainage and sewage treatment. The separation of rainwater and sewage may be carried out in conjunction with the reconstruction of old urban areas and road construction.\nIn areas with separate rainwater and sewage systems, the construction of new areas and the reconstruction of old urban areas shall not involve cross-connection between rainwater pipe networks and sewage pipe networks.\nIn areas where conditions permit, the collection and treatment of initial rainwater shall be gradually advanced, the interception ratio shall be rationally determined, and the regulation of the discharge of initial rainwater and the prevention and control of pollution shall be strengthened by such means as setting up initial rainwater storage tanks and building intercepting trunk mains."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Units and individuals discharging sewage within the coverage of urban drainage facilities shall discharge sewage into urban drainage facilities in accordance with the relevant provisions of the State.\nIn areas with separate rainwater and sewage systems, sewage shall not be discharged into rainwater pipe networks."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where enterprises, public institutions and individually owned businesses engaged in industry, construction, catering, medical treatment and other activities (hereinafter referred to as sewage dischargers) discharge sewage into urban drainage facilities, they shall apply to the competent department of urban drainage for a permit for the discharge of sewage into the drainage pipe network. The competent department of urban drainage shall, in accordance with the relevant standards of the State, focus its examination on matters affecting the safe operation of urban drainage and sewage treatment facilities.\nSewage dischargers shall discharge sewage in accordance with the requirements of the permit for the discharge of sewage into the drainage pipe network."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A sewage discharger applying for a permit for the discharge of sewage into the drainage pipe network shall satisfy the following conditions:\n(a) the setting of the discharge outlet conforms to the requirements of the plans for urban drainage and sewage treatment;\n(b) the corresponding pre-treatment facilities and water quality and quantity monitoring facilities have been built in accordance with the relevant provisions of the State;\n(c) the sewage discharged conforms to the relevant discharge standards prescribed by the State or the locality;\n(d) other conditions prescribed by laws and regulations.\nWhere the conditions specified in the preceding paragraph are met, the competent department of urban drainage shall issue the permit for the discharge of sewage into the drainage pipe network; the specific measures shall be formulated by the competent department of housing and urban-rural development of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The competent department of urban drainage shall strengthen guidance over and supervision of the setting of discharge outlets and the construction of pre-treatment facilities and water quality and quantity monitoring facilities; where these do not conform to planning requirements or the relevant provisions of the State, it shall require the sewage discharger to take measures and rectify within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The drainage monitoring agency entrusted by the competent department of urban drainage shall monitor the quality and quantity of the sewage discharged by sewage dischargers and establish drainage monitoring files. Sewage dischargers shall accept such monitoring and truthfully provide the relevant materials.\nAutomatic monitoring equipment for the discharge of water pollutants installed by sewage dischargers listed in the directory of key pollutant discharging units shall be connected to the monitoring equipment of the competent department of environmental protection. The competent department of environmental protection shall share the monitoring data with the competent department of urban drainage."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the maintenance or servicing of urban drainage facilities may affect drainage, the unit maintaining and operating the urban drainage facilities shall notify the relevant sewage dischargers 24 hours in advance; where it may seriously affect drainage, the unit shall report to the competent department of urban drainage in advance, take emergency response measures and announce the matter to the public."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Inspection wells on motor vehicle roads shall be constructed in accordance with the relevant provisions of the State, and their bearing capacity and stability and other aspects shall be ensured to meet the relevant requirements.\nCovers of inspection wells of drainage pipe networks shall have the functions of preventing falling and preventing theft and shall meet the structural strength requirements."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The competent department of urban drainage shall, in accordance with the relevant provisions of the State, establish a risk assessment system for urban drainage and waterlogging prevention and a post-disaster assessment system, conduct a comprehensive inspection of urban drainage facilities before the flood season, require the units concerned to deal with the problems found within a time limit, strengthen the improvement of waterlogging-prone points such as urban squares, the areas under overpasses, underground structures and shantytowns, strengthen waterlogging prevention measures and add the necessary forced drainage facilities and equipment.\nUnits maintaining and operating urban drainage facilities shall, in accordance with flood control requirements, conduct comprehensive inspection, maintenance, cleaning and dredging of urban drainage facilities to ensure their safe operation.\nDuring the flood season, the flood control command agencies of the people's governments with jurisdiction shall strengthen patrols of waterlogging-prone points and take immediate measures upon discovering dangerous situations. During the flood season, the relevant units and individuals shall submit to the unified scheduling and command or supervision of the flood control command agencies of the people's governments with jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Drainage"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The competent department of urban drainage shall conclude maintenance and operation contracts with units maintaining and operating urban sewage treatment facilities, specifying the rights and obligations of both parties.\nUnits maintaining and operating urban sewage treatment facilities shall carry out maintenance and operation in accordance with laws, regulations and the relevant provisions and the maintenance and operation contracts, regularly disclose information on maintenance and operation to the public, and accept the supervision of the relevant departments and the public."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Units maintaining and operating urban sewage treatment facilities shall ensure that the quality of the effluent water meets the discharge standards prescribed by the State and the locality, and shall not discharge sewage that does not meet the standards.\nUnits maintaining and operating urban sewage treatment facilities shall, in accordance with the relevant provisions of the State, test the quality of the influent and effluent water, submit to the competent department of urban drainage and the competent department of environmental protection information such as the quality and quantity of the treated sewage and the amount of major pollutants reduced, and submit to the competent department of urban drainage information such as production and operation costs in accordance with the relevant provisions and the maintenance and operation contracts.\nUnits maintaining and operating urban sewage treatment facilities shall submit the relevant cost information to the competent department of pricing in accordance with the relevant provisions of the State.\nWhen verifying the operating costs of urban sewage treatment, the competent department of urban drainage shall take into account the reduction of major pollutants."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Units maintaining and operating urban sewage treatment facilities or units treating and disposing of sludge shall safely treat and dispose of sludge, ensure that the sludge after treatment and disposal meets the relevant standards of the State, track and record the sludge generated and the destination, use and quantity of the sludge after treatment and disposal, and report to the competent department of urban drainage and the competent department of environmental protection. No unit or individual shall dump, pile up, discard or scatter sludge without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Units maintaining and operating urban sewage treatment facilities shall not suspend the operation of urban sewage treatment facilities without authorisation; where the operation of urban sewage treatment facilities needs to be suspended, wholly or partly, for servicing or other reasons, they shall report to the competent department of urban drainage and the competent department of environmental protection 90 working days in advance.\nWhere major changes in the quality and quantity of the influent water may cause the quality of the effluent water to exceed the standards, or where unexpected circumstances affecting the safe operation of urban sewage treatment facilities occur, units maintaining and operating urban sewage treatment facilities shall immediately take emergency response measures and report to the competent department of urban drainage and the competent department of environmental protection.\nUpon receiving a report, the competent department of urban drainage or the competent department of environmental protection shall verify and handle the matter in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Units and individuals discharging sewage shall pay sewage treatment fees in accordance with the relevant provisions of the State.\nThose who discharge sewage into urban sewage treatment facilities and pay sewage treatment fees shall no longer pay pollutant discharge fees.\nWhere a drainage monitoring agency engages in the relevant monitoring activities upon entrustment by the competent department of urban drainage, it shall not charge any fees to units maintaining and operating urban sewage treatment facilities or to sewage dischargers."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Sewage treatment fees shall be included in the management of local fiscal budgets and shall be used exclusively for the construction and operation of urban sewage treatment facilities and for sludge treatment and disposal, and shall not be diverted to other purposes. The rate of sewage treatment fees shall not be lower than the cost of normal operation of urban sewage treatment facilities. Where, for special reasons, the sewage treatment fees collected are insufficient to cover the cost of normal operation of urban sewage treatment facilities, the local people's government shall grant subsidies.\nThe collection and use of sewage treatment fees shall be disclosed to the public."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent department of environmental protection of local people's governments at or above the county level shall, in accordance with the law, supervise and inspect the quality and quantity of the effluent water of urban sewage treatment facilities.\nThe competent department of urban drainage shall supervise and assess the operation of urban sewage treatment facilities and publish the supervision and assessment results to the public. The relevant units and individuals shall provide cooperation.\nUnits maintaining and operating urban sewage treatment facilities shall provide the conditions for the safe operation of the online monitoring systems for influent and effluent water."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The competent department of urban drainage shall verify the operation service fees of urban sewage treatment facilities on the basis of the performance by units maintaining and operating urban sewage treatment facilities of the maintenance and operation contracts and the results of the supervision and inspection by the competent department of environmental protection of the quality and quantity of the effluent water of urban sewage treatment facilities. The relevant departments of the local people's government shall allocate the operation service fees of urban sewage treatment facilities in a timely and full amount."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where, in the course of supervision and assessment, the competent department of urban drainage finds that a unit maintaining and operating urban sewage treatment facilities fails to carry out maintenance and operation in accordance with laws, regulations and the relevant provisions and the maintenance and operation contract, suspends the operation of urban sewage treatment facilities wholly or partly without authorisation, or is otherwise unable to operate safely, it shall require the unit to take measures and rectify within a time limit; where the unit fails to rectify within the time limit, or remains unable to operate safely after rectification, the competent department of urban drainage may terminate the maintenance and operation contract.\nWhere the competent department of urban drainage terminates the maintenance and operation contract concluded with a unit maintaining and operating urban sewage treatment facilities, it shall take effective measures to safeguard the safe operation of urban sewage treatment facilities."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State encourages the recycling of treated urban sewage; reclaimed water shall be given priority for use in industrial production, urban greening, road cleaning, vehicle washing, construction, ecological landscapes and other purposes.\nLocal people's governments at or above the county level shall, in light of local water resources and water environment conditions, rationally determine the scale of reclaimed water utilisation and formulate guarantee measures to promote the utilisation of reclaimed water.\nReclaimed water shall be incorporated into the unified allocation of water resources, and the competent departments of water administration of local people's governments at or above the county level shall strengthen guidance in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Sewage Treatment"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Units maintaining and operating urban drainage and sewage treatment facilities shall establish and improve work safety management systems, strengthen routine patrol, repair and maintenance of inspection well covers and other urban drainage and sewage treatment facilities, and safeguard the safe operation of the facilities.\nWhere work involving pipe network maintenance, emergency drainage, or operations in wells or confined spaces is carried out, the facility maintenance and operation unit shall arrange for dedicated personnel to conduct on-site safety management, set up conspicuous warning signs, take effective measures to prevent personnel from falling and vehicles from sinking, and promptly restore inspection well covers, so as to ensure compliance with operating procedures and the implementation of safety measures. The relevant special operations personnel shall obtain the corresponding qualification certificates in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Maintenance and Protection of Facilities"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in light of actual circumstances, organise the compilation of emergency plans for urban drainage and sewage treatment in accordance with the law and make overall arrangements for the materials necessary for responding to unexpected incidents and for urban drainage and waterlogging prevention.\nUnits maintaining and operating urban drainage and sewage treatment facilities shall formulate their own emergency plans, be equipped with the necessary emergency rescue equipment and materials, and regularly organise drills."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Maintenance and Protection of Facilities"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where, due to accidents or other unexpected incidents, the sewage discharged by a sewage discharger may endanger the safe operation of urban drainage and sewage treatment facilities, the discharger shall immediately take measures to eliminate the danger and promptly report to the competent department of urban drainage, the competent department of environmental protection and other relevant departments.\nAfter a safety accident or unexpected incident in urban drainage or sewage treatment occurs, the facility maintenance and operation unit shall immediately activate its own emergency plan, take protective measures, organise emergency repairs and promptly report to the competent department of urban drainage and the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Maintenance and Protection of Facilities"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent department of urban drainage shall, together with the relevant departments, delineate the protection areas for urban drainage and sewage treatment facilities in accordance with the relevant provisions of the State and publish them to the public.\nWithin a protection area, where the unit concerned engages in blasting, drilling, piling, jacking, excavation, earth removal or other activities that may affect the safety of urban drainage and sewage treatment facilities, it shall, together with the facility maintenance and operation unit and others, formulate a facility protection plan and take the corresponding safety protection measures."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Maintenance and Protection of Facilities"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The following activities endangering the safety of urban drainage and sewage treatment facilities are prohibited:\n(a) damaging or stealing urban drainage and sewage treatment facilities;\n(b) piercing or blocking urban drainage and sewage treatment facilities;\n(c) discharging or dumping highly toxic, flammable and explosive or corrosive waste liquids and waste residues into urban drainage and sewage treatment facilities;\n(d) dumping rubbish, residue soil, construction mud and other waste into urban drainage and sewage treatment facilities;\n(e) constructing buildings, structures or other facilities that occupy or press upon urban drainage and sewage treatment facilities;\n(f) other activities endangering the safety of urban drainage and sewage treatment facilities."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Maintenance and Protection of Facilities"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The new construction, reconstruction or expansion of construction projects shall not affect the safety of urban drainage and sewage treatment facilities.\nBefore construction starts, the project owner shall ascertain the relevant circumstances of the underground urban drainage and sewage treatment facilities within the scope of the project. The competent department of urban drainage, other relevant departments and units shall provide the relevant materials in a timely manner.\nWhere urban drainage and sewage treatment facilities such as drainage pipe networks are located within the construction scope of a project, the project owner shall, together with the construction unit and the facility maintenance and operation unit, formulate a facility protection plan and take the corresponding safety protection measures.\nWhere urban drainage and sewage treatment facilities need to be demolished or altered for project construction, the project owner shall formulate a demolition and alteration plan, submit it to the competent department of urban drainage for examination, and bear the costs of reconstruction, alteration and temporary measures."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Maintenance and Protection of Facilities"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The competent department of urban drainage of people's governments at or above the county level shall, together with the relevant departments, strengthen supervision and inspection of the operation, maintenance and protection of urban drainage and sewage treatment facilities, and disclose the inspection circumstances and results to the public. In conducting supervision and inspection, it shall have the power to take the following measures:\n(a) entering the site for inspection and monitoring;\n(b) consulting and copying the relevant documents and materials;\n(c) requiring the units and individuals subject to supervision and inspection to give explanations on the relevant issues.\nThe units and individuals subject to supervision and inspection shall provide cooperation and shall not obstruct or hinder supervision and inspection activities carried out in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Maintenance and Protection of Facilities"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Audit institutions shall strengthen supervision over the raising, management and use of funds for the construction, operation, maintenance and protection of urban drainage and sewage treatment facilities, and shall publish the audit results."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Maintenance and Protection of Facilities"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a local people's government at or above the county level, its competent department of urban drainage or another relevant department fails to make an administrative licensing decision or handle approval documents in accordance with the law, fails to investigate and deal with an illegal act discovered or reported, or otherwise fails to perform its duties in accordance with these Regulations, sanctions shall be given in accordance with the law to the persons directly in charge and other persons directly responsible; where the acts of the persons directly in charge and other persons directly responsible constitute a crime, criminal responsibility shall be investigated in accordance with the law.\nWhere, in violation of the provisions of these Regulations, supervision and inspection are not carried out after the issuance of a permit for the discharge of sewage into the drainage pipe network or a pollutant discharge permit, the department issuing the permit and its staff shall be dealt with in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the competent department of urban drainage issues a permit for the discharge of sewage into the drainage pipe network to a sewage discharger that does not meet the statutory conditions, or refuses to issue such a permit to a sewage discharger that meets the statutory conditions, sanctions shall be given in accordance with the law to the persons directly in charge and other persons directly responsible; where the acts of the persons directly in charge and other persons directly responsible constitute a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a project owner or construction unit cross-connects rainwater pipe networks and sewage pipe networks in an area with separate rainwater and sewage systems, the competent department of urban drainage shall order it to rectify and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where losses are caused, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit or individual discharging sewage within the coverage of urban drainage and sewage treatment facilities fails to discharge sewage into urban drainage facilities in accordance with the relevant provisions of the State, or discharges sewage into rainwater pipe networks in an area with separate rainwater and sewage systems, the competent department of urban drainage shall order it to rectify and give a warning; where it fails to rectify within the time limit or serious consequences are caused, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed on a unit, and a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed on an individual; where losses are caused, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a sewage discharger discharges sewage into urban drainage facilities without obtaining a permit for the discharge of sewage into the drainage pipe network, the competent department of urban drainage shall order it to cease the illegal act, take treatment measures within a time limit and go through the formalities for obtaining the permit for the discharge of sewage into the drainage pipe network, and may impose a fine of not more than 500,000 yuan; where losses are caused, it shall bear liability for compensation in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law.\nWhere, in violation of the provisions of these Regulations, a sewage discharger fails to discharge sewage in accordance with the requirements of the permit for the discharge of sewage into the drainage pipe network, the competent department of urban drainage shall order it to cease the illegal act and rectify within a time limit, and may impose a fine of not more than 50,000 yuan; where serious consequences are caused, the permit for the discharge of sewage into the drainage pipe network shall be revoked and a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed, and the matter may be circulated to the public in a notice; where losses are caused, it shall bear liability for compensation in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the maintenance or servicing of urban drainage facilities may affect or seriously affect drainage and the unit maintaining and operating the urban drainage facilities fails to notify the relevant sewage dischargers in advance, or fails to report to the competent department of urban drainage in advance and take emergency response measures, or fails to conduct comprehensive inspection, maintenance, cleaning and dredging of urban drainage facilities in accordance with flood control requirements, thereby affecting the smooth discharge of water during the flood season, the competent department of urban drainage shall order it to rectify and give a warning; where it fails to rectify within the time limit or serious consequences are caused, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed; where losses are caused, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit maintaining and operating urban sewage treatment facilities fails to test the quality of the influent and effluent water in accordance with the relevant provisions of the State, or fails to submit information such as the quality and quantity of the treated sewage and the amount of major pollutants reduced, or information such as production and operation costs, the competent department of urban drainage shall order it to rectify and may impose a fine of not more than 50,000 yuan; where losses are caused, it shall bear liability for compensation in accordance with the law.\nWhere, in violation of the provisions of these Regulations, a unit maintaining and operating urban sewage treatment facilities suspends the operation of urban sewage treatment facilities without authorisation and fails to report in advance or take emergency response measures in accordance with the provisions, the competent department of urban drainage shall order it to rectify and give a warning; where it fails to rectify within the time limit or serious consequences are caused, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed; where losses are caused, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit maintaining and operating urban sewage treatment facilities or a unit treating and disposing of sludge fails to track and record the destination, use and quantity of the sludge generated and the sludge after treatment and disposal, or the sludge after treatment and disposal does not meet the relevant standards of the State, the competent department of urban drainage shall order it to take treatment measures within a time limit and give a warning; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 200,000 yuan shall be imposed; where treatment measures are not taken within the time limit, the competent department of urban drainage may designate a unit with the capacity to treat the matter to do so on its behalf, and the costs shall be borne by the party concerned; where losses are caused, it shall bear liability for compensation in accordance with the law.\nWhere, in violation of the provisions of these Regulations, sludge is dumped, piled up, discarded or scattered without authorisation, the competent department of urban drainage shall order the cessation of the illegal act, require treatment measures within a time limit and give a warning; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed on a unit, and a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed on an individual; where treatment measures are not taken within the time limit, the competent department of urban drainage may designate a unit with the capacity to treat the matter to do so on its behalf, and the costs shall be borne by the party concerned; where losses are caused, it shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit or individual discharging sewage fails to pay sewage treatment fees, the competent department of urban drainage shall order payment within a time limit; where payment is refused after the time limit expires, a fine of not less than one time but not more than three times the amount of the sewage treatment fees payable shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit maintaining and operating urban drainage and sewage treatment facilities falls under any of the following circumstances, the competent department of urban drainage shall order it to rectify and give a warning; where it fails to rectify within the time limit or serious consequences are caused, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed; where losses are caused, it shall bear liability for compensation in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(a) failing to perform the duties of routine patrol, repair and maintenance in accordance with the relevant provisions of the State so as to safeguard the safe operation of the facilities;\n(b) failing to promptly take protective measures and organise emergency repairs of accidents;\n(c) causing the loss or damage of inspection well covers and casualties and property losses due to inadequate patrol and maintenance."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person engages in activities endangering the safety of urban drainage and sewage treatment facilities, the competent department of urban drainage shall order the cessation of the illegal act, require restoration to the original state within a time limit or the adoption of other remedial measures, and give a warning; where remedial measures are not taken within the time limit or serious consequences are caused, a fine of not less than 100,000 yuan but not more than 300,000 yuan shall be imposed on a unit, and a fine of not less than 20,000 yuan but not more than 100,000 yuan shall be imposed on an individual; where losses are caused, liability for compensation shall be borne in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the unit concerned fails to formulate a facility protection plan together with the construction unit, the facility maintenance and operation unit and others and to take the corresponding safety protection measures, the competent department of urban drainage shall order it to rectify and impose a fine of not less than 20,000 yuan but not more than 50,000 yuan; where serious consequences are caused, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall be imposed; where losses are caused, it shall bear liability for compensation in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law.\nWhere, in violation of the provisions of these Regulations, urban drainage and sewage treatment facilities are demolished or altered without authorisation, the competent department of urban drainage shall order rectification, restoration to the original state or the adoption of other remedial measures, and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where serious consequences are caused, a fine of not less than 100,000 yuan but not more than 300,000 yuan shall be imposed; where losses are caused, it shall bear liability for compensation in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in accordance with the provisions of the Law of the People's Republic of China on the Prevention and Control of Water Pollution, a sewage discharger needs to obtain a pollutant discharge permit, the permit shall be issued by the competent department of environmental protection; where sewage is discharged in violation of the provisions of the Law of the People's Republic of China on the Prevention and Control of Water Pollution, the competent department of environmental protection shall impose a penalty."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 January 2014."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0035'] = {
+    "lawId": "CN-REG-0035",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 55 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted in order to strengthen the management of urban gas, guarantee the supply of gas, prevent and reduce gas safety accidents, safeguard the safety of citizens' lives and property and public safety, protect the lawful rights and interests of gas operators and gas users, and promote the sound development of the gas industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the development plans and emergency guarantees for urban gas, gas operation and services, the use of gas, the protection of gas facilities, the prevention and handling of gas safety accidents and the related management activities.\nThese Regulations do not apply to the production and import of natural gas and liquefied petroleum gas, the pipeline transportation of natural gas outside city gate stations, the use of gas as a raw material for industrial production, or the production and use of biogas and straw gas.\nFor the purposes of these Regulations, gas means gaseous fuel that is used as fuel and meets certain requirements, including natural gas (including coal-bed methane), liquefied petroleum gas and manufactured gas."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Work on gas shall adhere to the principles of comprehensive planning, safeguarding safety, ensuring supply, standardising services, and saving energy with high efficiency."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen leadership over work on gas and incorporate such work into the national economic and social development plans."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent department of construction of the State Council shall be responsible for the management of gas throughout the country.\nThe gas management departments of local people's governments at or above the county level shall be responsible for the management of gas within their respective administrative regions.\nOther relevant departments of people's governments at or above the county level shall, in accordance with the provisions of these Regulations and other relevant laws and regulations and within the scope of their respective duties, be responsible for the related work of gas management."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages and supports scientific and technological research on gas and the popularisation and use of new gas technologies, new processes and new products that are safe, energy-saving, efficient and environmentally friendly."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The relevant departments of people's governments at or above the county level shall establish and improve supervision and management systems for gas safety, publicise the laws and regulations on gas and knowledge of gas safety, and raise the gas safety awareness of the whole people."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent department of construction of the State Council shall, together with the relevant departments of the State Council and on the basis of the national economic and social development plans, the overall land use plans, urban and rural plans and energy plans, and in light of the overall balance of gas resources throughout the country, organise the compilation of the national gas development plan and organise its implementation.\nThe gas management departments of local people's governments at or above the county level shall, together with the relevant departments and on the basis of the national economic and social development plans, the overall land use plans, urban and rural plans, energy plans and the gas development plan at the next higher level, organise the compilation of the gas development plan of their administrative regions, submit it to the people's government at the corresponding level for approval before organising its implementation, and file it with the gas management department of the people's government at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Gas Development Planning and Emergency Support"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The content of a gas development plan shall include: gas sources, types of gas, modes and scale of gas supply, layout and construction sequence of gas facilities, construction land for gas facilities, protection areas for gas facilities, guarantee measures for gas supply and safety guarantee measures, and other matters."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Gas Development Planning and Emergency Support"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the requirements of the gas development plans, increase investment in the construction of gas facilities and encourage social funds to invest in the construction of gas facilities."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Gas Development Planning and Emergency Support"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In the construction of new areas and the reconstruction of old areas, gas facilities shall be built as supporting facilities or construction land for gas facilities shall be reserved in accordance with urban and rural plans and gas development plans.\nFor construction projects for gas facilities within the scope of a gas development plan, the competent department of urban and rural planning shall, when issuing the site selection opinion in accordance with the law, seek the opinions of the gas management department on whether the construction of the gas facilities conforms to the gas development plan; where a site selection opinion need not be issued, the competent department of urban and rural planning shall, when issuing the construction land planning permit or the rural construction planning permit in accordance with the law, seek the opinions of the gas management department on whether the construction of the gas facilities conforms to the gas development plan.\nAfter a construction project for gas facilities is completed, the project owner shall organise completion acceptance in accordance with the law, and within 15 days from the date of passing completion acceptance, report the completion acceptance to the gas management department for filing."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Gas Development Planning and Emergency Support"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish and improve the emergency reserve system for gas, organise the compilation of emergency plans for gas and take comprehensive measures to improve the capacity for emergency gas supply guarantees.\nAn emergency plan for gas shall specify matters such as the emergency gas sources and types, the emergency supply modes, the emergency handling procedures and the emergency rescue measures.\nThe gas management departments of local people's governments at or above the county level shall, together with the relevant departments, monitor, forecast and give early warning of the state of gas supply and demand."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Gas Development Planning and Emergency Support"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "After the occurrence of unexpected incidents such as a serious shortage or interruption of gas supply, local people's governments at or above the county level shall promptly take emergency measures such as drawing on reserves and emergency scheduling, and gas operators and other relevant units and individuals shall provide cooperation and undertake the relevant emergency tasks."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Gas Development Planning and Emergency Support"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "For gas facilities constructed with government investment, gas operators shall be selected by means of tendering and bidding.\nFor gas facilities constructed with social funds, the investor may operate them itself or separately select a gas operator."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State applies a licensing system to gas operation. An enterprise engaged in gas operation activities shall meet the following conditions:\n(a) conforming to the requirements of the gas development plan;\n(b) having gas sources and gas facilities that meet the national standards;\n(c) having a fixed business premises, sound safety management systems and a sound operation plan;\n(d) having its principal person in charge, work safety management personnel and operation, maintenance and emergency repair personnel professionally trained and having passed the assessment;\n(e) other conditions prescribed by laws and regulations.\nWhere the conditions specified in the preceding paragraph are met, the gas management department of the local people's government at or above the county level shall issue the gas operation licence."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Individuals are prohibited from engaging in the operation of pipeline gas.\nIndividuals engaging in the operation of bottled gas shall comply with the relevant provisions of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Gas operators shall continuously, steadily and safely supply gas that meets the national quality standards to gas users, guide gas users to use gas safely and economically, and conduct regular safety inspections of gas facilities.\nGas operators shall publicise information such as business procedures, service commitments, charging standards and service hotlines, and provide services in accordance with the national gas service standards."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Gas operators shall not commit the following acts:\n(a) refusing to supply gas to units or individuals within the coverage of the municipal gas pipeline network that meet the conditions for gas use;\n(b) reselling, mortgaging, leasing, lending, transferring or altering the gas operation licence;\n(c) suspending gas supply or adjusting the volume of gas supply without authorisation without performing the necessary obligation to inform, or suspending business or closing down without authorisation without approval;\n(d) supplying gas for business purposes to units or individuals that have not obtained a gas operation licence;\n(e) storing gas in places that do not meet safety conditions;\n(f) requiring gas users to purchase products designated by them or to accept services provided by them;\n(g) filling gas into gas cylinders not owned by them without authorisation;\n(h) selling bottled gas filled by a filling unit without a licence, or selling bottled gas that a filling unit has filled into gas cylinders not owned by it without authorisation;\n(i) engaging in gas operation or service activities by falsely using the name or logo of another enterprise."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Pipeline gas operators shall bear responsibility for the operation, maintenance, emergency repair and renewal and renovation of municipal gas facilities within their gas supply areas and of gas facilities other than the exclusive parts of owners within building zones.\nPipeline gas operators shall, in accordance with the provisions of gas supply and use contracts, bear the corresponding management responsibility for the gas facilities of unit gas users."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a pipeline gas operator needs to temporarily adjust the volume of gas supply or suspend gas supply for construction, servicing or other reasons, it shall announce the matter or notify gas users in writing 48 hours in advance of the working time and the areas affected, and restore normal gas supply in a timely manner in accordance with the relevant provisions; where gas supply is affected by an unexpected incident, it shall take emergency measures and promptly notify gas users.\nWhere a gas operator suspends business or closes down, it shall make proper arrangements in advance for the normal gas use of gas users within its gas supply area, and shall report to the local gas management department 90 working days in advance and may suspend business or close down only after approval."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Under any of the following circumstances, the gas management department shall take measures to guarantee the normal gas use of gas users:\n(a) a pipeline gas operator temporarily adjusts the volume of gas supply or suspends gas supply and fails to restore normal gas supply in a timely manner;\n(b) a pipeline gas operator fails to take emergency measures where gas supply is affected by an unexpected incident;\n(c) a gas operator suspends business or closes down without authorisation;\n(d) the gas management department withdraws, revokes, cancels or rescinds the gas operation licence in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Gas operators shall establish and improve gas quality testing systems and ensure that the gas they supply meets the national standards.\nThe quality supervision, industry and commerce administration, gas management and other departments of local people's governments at or above the county level shall, in accordance with the division of duties, strengthen supervision and inspection of gas quality in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The selling price of gas shall be rationally determined and adjusted in a timely manner on the basis of the cost of purchasing gas, the operating costs and the local level of economic and social development. The competent department of pricing of local people's governments at or above the county level shall, when determining and adjusting the selling price of pipeline gas, seek the opinions of pipeline gas users, pipeline gas operators and the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where gas is transported by road, water or rail, the provisions of laws and administrative regulations on the safety of the transport of dangerous goods and the relevant provisions of the transport department of the State Council and the railway department of the State Council shall be complied with; where gas is transported by road or water, a road transport permit for dangerous goods or a water transport permit for dangerous goods shall also be obtained in accordance with the provisions of the laws and administrative regulations on road transport and water transport respectively."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Gas operators shall strengthen management of the personnel and vehicles engaged in the delivery of bottled gas on their behalf and bear the corresponding responsibility.\nActivities involving the filling of bottled gas shall comply with the provisions of laws, administrative regulations and national standards on the filling of gas cylinders."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Gas operators shall operate in accordance with the law, act in good faith and accept the supervision of the public.\nGas industry associations shall strengthen self-disciplinary management of the industry and promote improvements in the service quality and technical level of gas operators."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Gas Operation and Services"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Gas users shall comply with the rules for the safe use of gas, use qualified gas-burning appliances and gas cylinders, promptly replace gas-burning appliances, connecting pipes and other items that the State has explicitly ordered to be eliminated or whose service life has expired, and pay gas charges within the agreed time limit.\nUnit gas users shall also establish and improve safety management systems and strengthen training of operating and maintenance personnel in gas safety knowledge and operating skills."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Gas"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Gas users and the relevant units and individuals shall not commit the following acts:\n(a) operating public gas valves without authorisation;\n(b) using gas pipelines as load-bearing supports or grounding conductors;\n(c) installing or using gas-burning appliances that do not meet the requirements of the gas source;\n(d) installing, modifying or dismantling indoor gas facilities and gas metering devices without authorisation;\n(e) using or storing gas in places that do not meet safety conditions;\n(f) stealing gas;\n(g) changing the purpose of gas use or transferring gas supply."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Gas"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Gas users have the right to make enquiries to gas operators about matters such as gas charges and services, and gas operators shall reply within five working days from the date of receiving the enquiry.\nGas users have the right to complain to the competent department of pricing, the gas management department and other relevant departments of local people's governments at or above the county level about matters such as gas charges and services, and the relevant departments shall handle the complaint within 15 working days from the date of receiving it."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Gas"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where indoor gas facilities are installed, modified or dismantled, the work shall be carried out in accordance with the relevant national standards for engineering construction."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Gas"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Gas management departments shall publish to the public information such as the types of gas and the composition of gas quality within their administrative regions.\nManufacturers of gas-burning appliances shall clearly mark on the appliances the type of gas for which they are suitable."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Gas"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Manufacturers and sellers of gas-burning appliances shall set up, or entrust others to set up, after-sales service stations and be equipped with installation and repair personnel for gas-burning appliances who have passed the assessment, so as to be responsible for after-sales installation and repair services.\nThe installation and repair of gas-burning appliances shall conform to the relevant national standards."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Gas"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The gas management departments of local people's governments at or above the county level shall, together with the competent department of urban and rural planning and other relevant departments, delineate protection areas for gas facilities in accordance with the relevant national standards and provisions and publish them to the public.\nWithin a protection area for gas facilities, the following activities endangering the safety of gas facilities are prohibited:\n(a) constructing buildings, structures or other facilities that occupy or press upon underground gas pipelines;\n(b) carrying out blasting, earth removal or other operations, or using open flames;\n(c) dumping or discharging corrosive substances;\n(d) placing flammable and explosive dangerous articles or planting deep-rooted plants;\n(e) other activities endangering the safety of gas facilities."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Gas Facilities"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Within a protection area for gas facilities, where the unit concerned engages in pipe laying, piling, jacking, excavation, drilling or other activities that may affect the safety of gas facilities, it shall, together with the gas operator, formulate a gas facility protection plan and take the corresponding safety protection measures."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Gas Facilities"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Gas operators shall, in accordance with the relevant national standards for engineering construction and the provisions on work safety management, install protection devices for corrosion prevention, insulation, lightning protection, pressure reduction and isolation and safety warning signs for gas facilities, and shall conduct regular patrol, testing, repair and maintenance to ensure the safe operation of gas facilities."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Gas Facilities"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "No unit or individual shall encroach upon, damage, or dismantle or move without authorisation gas facilities, or damage, cover, alter, or dismantle or move without authorisation the safety warning signs of gas facilities.\nAny unit or individual that discovers an act likely to endanger gas facilities or safety warning signs has the right to dissuade and stop it; where dissuasion and stopping are ineffective, it shall immediately inform the gas operator or report to the gas management department, the work safety supervision and administration department and the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Gas Facilities"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The new construction, expansion or reconstruction of construction projects shall not affect the safety of gas facilities.\nBefore construction starts, the project owner shall ascertain the relevant circumstances of the underground gas pipelines within the construction scope of the project; the gas management department and other relevant departments and units shall provide the relevant materials in a timely manner.\nWhere important gas facilities such as underground gas pipelines are located within the construction scope of a project, the project owner shall, together with the construction unit and the pipeline gas operator, formulate a gas facility protection plan. The project owner and the construction unit shall take the corresponding safety protection measures to ensure the safe operation of gas facilities; the pipeline gas operator shall send professional personnel to provide on-site guidance. Where laws and regulations provide otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Gas Facilities"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a gas operator alters municipal gas facilities, it shall formulate an alteration plan and submit it to the gas management department of the local people's government at or above the county level for approval.\nThe alteration plan shall conform to the gas development plan, specify the requirements for safe construction, and include measures for safety protection and for guaranteeing normal gas use."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Gas Facilities"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Gas management departments shall, together with the relevant departments, formulate emergency plans for gas safety accidents, establish a system for the statistical analysis of gas accidents and regularly notify the results of accident handling.\nGas operators shall formulate their own emergency plans for gas safety accidents, be equipped with emergency personnel and the necessary emergency equipment and materials, and regularly organise drills."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Handling of Gas Safety Accidents"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Any unit or individual that discovers a gas safety accident, a hidden danger of a gas safety accident or other such circumstances shall immediately inform the gas operator, or report to the gas management department, the fire protection institution of the public security organ and other relevant departments and units."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Handling of Gas Safety Accidents"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Gas operators shall establish and improve gas safety assessment and risk management systems and, upon discovering a hidden danger of a gas safety accident, shall promptly take measures to eliminate the hidden danger.\nGas management departments and other relevant departments and units shall, in accordance with their respective duties, supervise and inspect the safety of gas operation and gas use and, upon discovering a hidden danger of a gas safety accident, shall notify the gas operator or gas user to promptly take measures to eliminate the hidden danger; where failure to eliminate the hidden danger in a timely manner may seriously threaten public safety, the gas management department and other relevant departments and units shall take measures in accordance with the law and promptly organise the elimination of the hidden danger, and the relevant units and individuals shall provide cooperation."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Handling of Gas Safety Accidents"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "After a gas safety accident occurs, the gas operator shall immediately activate its own emergency plan for gas safety accidents and organise emergency rescue and repair.\nAfter a gas safety accident occurs, the gas management department, the work safety supervision and administration department, the fire protection institution of the public security organ and other relevant departments and units shall, in accordance with their respective duties, immediately take measures to prevent the expansion of the accident and activate the emergency plan for gas safety accidents in light of the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Handling of Gas Safety Accidents"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a gas safety accident is determined upon investigation to be an accident caused by negligence, the cause shall be ascertained, responsibility shall be clearly identified and accountability shall be pursued in accordance with the law.\nGas production safety accidents shall be reported, investigated and handled in accordance with the provisions of the laws and administrative regulations on the reporting, investigation and handling of production safety accidents."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention and Handling of Gas Safety Accidents"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a local people's government at or above the county level, its gas management department or another relevant department fails to make an administrative licensing decision or handle approval documents in accordance with the law, fails to investigate and deal with an illegal act discovered or reported, or otherwise fails to perform its duties in accordance with the provisions of these Regulations, sanctions shall be given in accordance with the law to the persons directly in charge and other persons directly responsible; where the acts of the persons directly in charge and other persons directly responsible constitute a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person engages in gas operation activities without obtaining a gas operation licence, the gas management department shall order the cessation of the illegal act and impose a fine of not less than 50,000 yuan but not more than 500,000 yuan; where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law.\nWhere, in violation of the provisions of these Regulations, a gas operator fails to engage in gas operation activities in accordance with the provisions of the gas operation licence, the gas management department shall order it to rectify within a time limit and impose a fine of not less than 30,000 yuan but not more than 200,000 yuan; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, the gas operation licence shall be revoked; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a gas operator commits any of the following acts, the gas management department shall order it to rectify within a time limit and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, the gas operation licence shall be revoked; where losses are caused, it shall bear liability for compensation in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(a) refusing to supply gas to units or individuals within the coverage of the municipal gas pipeline network that meet the conditions for gas use;\n(b) reselling, mortgaging, leasing, lending, transferring or altering the gas operation licence;\n(c) suspending gas supply or adjusting the volume of gas supply without authorisation without performing the necessary obligation to inform, or suspending business or closing down without authorisation without approval;\n(d) supplying gas for business purposes to units or individuals that have not obtained a gas operation licence;\n(e) storing gas in places that do not meet safety conditions;\n(f) requiring gas users to purchase products designated by them or to accept services provided by them;\n(g) failing to continuously, steadily and safely supply gas that meets the national quality standards to gas users, or failing to conduct regular safety inspections of the gas facilities of gas users."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person fills gas into gas cylinders not owned by it without authorisation, or sells bottled gas filled by a filling unit without a licence, a penalty shall be imposed in accordance with the provisions of the State on the safety supervision of gas cylinders.\nWhere, in violation of the provisions of these Regulations, a person sells bottled gas that a filling unit has filled into gas cylinders not owned by it without authorisation, the gas management department shall order it to rectify and may impose a fine of not more than 10,000 yuan.\nWhere, in violation of the provisions of these Regulations, a person engages in gas operation or service activities by falsely using the name or logo of another enterprise, a penalty shall be imposed in accordance with the provisions of the laws on countering unfair competition."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a gas operator fails to install protection devices for corrosion prevention, insulation, lightning protection, pressure reduction and isolation and safety warning signs for gas facilities in accordance with the relevant national standards for engineering construction and the provisions on work safety management, or fails to conduct regular patrol, testing, repair and maintenance, or fails to take measures to promptly eliminate a hidden danger of a gas safety accident, the gas management department shall order it to rectify within a time limit and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a gas user or the relevant unit or individual commits any of the following acts, the gas management department shall order rectification within a time limit; where rectification is not made within the time limit, a fine of not more than 100,000 yuan may be imposed on a unit and a fine of not more than 1,000 yuan may be imposed on an individual; where losses are caused, liability for compensation shall be borne in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(a) operating public gas valves without authorisation;\n(b) using gas pipelines as load-bearing supports or grounding conductors;\n(c) installing or using gas-burning appliances that do not meet the requirements of the gas source;\n(d) installing, modifying or dismantling indoor gas facilities and gas metering devices without authorisation;\n(e) using or storing gas in places that do not meet safety conditions;\n(f) changing the purpose of gas use or transferring gas supply;\n(g) failing to set up after-sales service stations or failing to be equipped with installation and repair personnel for gas-burning appliances who have passed the assessment;\n(h) installing or repairing gas-burning appliances in a manner that does not conform to the relevant national standards.\nWhoever steals gas shall be penalised in accordance with the provisions of the laws on public security administration penalties."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person carries out any of the following activities within a protection area for gas facilities, the gas management department shall order the cessation of the illegal act, require restoration to the original state within a time limit or the adoption of other remedial measures, impose a fine of not less than 50,000 yuan but not more than 100,000 yuan on a unit and a fine of not less than 5,000 yuan but not more than 50,000 yuan on an individual; where losses are caused, liability for compensation shall be borne in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(a) carrying out blasting, earth removal or other operations, or using open flames;\n(b) dumping or discharging corrosive substances;\n(c) placing flammable and explosive articles or planting deep-rooted plants;\n(d) engaging in pipe laying, piling, jacking, excavation, drilling or other activities that may affect the safety of gas facilities without formulating a gas facility protection plan together with the gas operator and taking the corresponding safety protection measures.\nWhere, in violation of the provisions of these Regulations, buildings, structures or other facilities that occupy or press upon underground gas pipelines are constructed within a protection area for gas facilities, a penalty shall be imposed in accordance with the provisions of the laws and administrative regulations on urban and rural planning."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person encroaches upon, damages, or dismantles or moves without authorisation gas facilities, or alters municipal gas facilities without authorisation, the gas management department shall order rectification within a time limit and restoration to the original state or the adoption of other remedial measures, impose a fine of not less than 50,000 yuan but not more than 100,000 yuan on a unit and a fine of not less than 5,000 yuan but not more than 50,000 yuan on an individual; where losses are caused, liability for compensation shall be borne in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law.\nWhere, in violation of the provisions of these Regulations, a person damages, covers, alters, or dismantles or moves without authorisation the safety warning signs of gas facilities, the gas management department shall order rectification within a time limit and restoration to the original state, and may impose a fine of not more than 5,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, important gas facilities such as underground gas pipelines are located within the construction scope of a project and the project owner fails to formulate a gas facility protection plan together with the construction unit and the pipeline gas operator, or the project owner or the construction unit fails to take the corresponding safety protection measures, the gas management department shall order rectification and impose a fine of not less than 10,000 yuan but not more than 100,000 yuan; where losses are caused, liability for compensation shall be borne in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The terms used in these Regulations have the following meanings:\n(a) Gas facilities means the collective term for manufactured gas production plants, gas storage and distribution stations, city gate stations, gasification stations, mixing stations, filling stations, filling plants, supply stations, pressure regulating stations, municipal gas pipeline networks and the like, including municipal gas facilities, gas facilities other than the exclusive parts of owners within building zones, and indoor gas facilities.\n(b) Gas-burning appliances means combustion appliances fuelled by gas, including gas stoves, water heaters, water boilers, space heaters, air conditioners and other appliances used by households and commercial users."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The management of gas in rural areas shall be governed by reference to the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 March 2011."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0036'] = {
+    "lawId": "CN-REG-0036",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 73 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted in accordance with the Constitution in order to strengthen the administration of publication activities, develop and prosper the publishing industry and publishing undertakings with socialist characteristics, safeguard citizens' exercise of the right to freedom of publication in accordance with the law, and promote the building of socialist spiritual civilisation and material civilisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to publication activities carried out within the territory of the People's Republic of China.\nFor the purposes of these Regulations, publication activities include the publication, printing or reproduction, import and distribution of publications.\nFor the purposes of these Regulations, publications mean newspapers, periodicals, books, audio-visual products, electronic publications and the like."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Publication activities must adhere to the direction of serving the people and serving socialism, adhere to the guidance of Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory and the important thought of Three Represents, implement and apply the Scientific Outlook on Development, disseminate and accumulate scientific, technological and cultural knowledge conducive to improving the quality of the nation and to economic development and social progress, carry forward the fine culture of the nation, promote international cultural exchanges, and enrich and improve the spiritual life of the people."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In engaging in publication activities, social benefits shall be placed first and social benefits shall be combined with economic benefits."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Citizens exercise the right to freedom of publication in accordance with the law, and people's governments at all levels shall safeguard this.\nIn exercising the right to freedom of publication, citizens must comply with the Constitution and the laws, shall not oppose the basic principles established by the Constitution, and shall not harm the interests of the State, society and the collective or the lawful freedoms and rights of other citizens."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent department of publication administration of the State Council shall be responsible for the supervision and administration of publication activities throughout the country. Other relevant departments of the State Council shall, in accordance with the division of duties prescribed by the State Council, be responsible for the supervision and administration of the relevant publication activities.\nThe departments responsible for publication administration of local people's governments at or above the county level (hereinafter referred to as the competent departments of publication administration) shall be responsible for the supervision and administration of publication activities within their respective administrative regions. Other relevant departments of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the supervision and administration of the relevant publication activities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a competent department of publication administration, on the basis of evidence of suspected illegality already obtained or of a report, investigates and deals with conduct suspected of illegally engaging in the publication, printing or reproduction, import or distribution of publications, it may inspect the articles and business premises related to the suspected illegal activity; it may seal up or seize articles proved by evidence to be related to the illegal activity."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Social organisations of the publishing industry shall, in accordance with their articles of association and under the guidance of the competent departments of publication administration, exercise self-disciplinary management."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Newspapers, periodicals, books, audio-visual products and electronic publications shall be published by publishing units.\nFor the purposes of these Regulations, publishing units include newspaper offices, periodical offices, book publishing houses, audio-visual publishing houses and electronic publication publishing houses.\nWhere a legal person publishes a newspaper or periodical without establishing a newspaper office or periodical office, the newspaper editorial department or periodical editorial department it establishes shall be deemed a publishing unit."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent department of publication administration of the State Council shall formulate plans for the total number, structure and layout of publishing units throughout the country and guide and coordinate the development of the publishing industry and publishing undertakings."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "To establish a publishing unit, the following conditions shall be met:\n(a) having a name and articles of association for the publishing unit;\n(b) having a sponsor and its competent authority recognised by the competent department of publication administration of the State Council;\n(c) having a defined scope of business;\n(d) having a registered capital of RMB 300,000 or more and a fixed workplace;\n(e) having an organisational structure suited to the needs of the scope of business and editorial and publishing professionals who meet the qualifications prescribed by the State;\n(f) other conditions prescribed by laws and administrative regulations.\nIn approving the establishment of a publishing unit, in addition to the conditions listed in the preceding paragraph, the plans of the State on the total number, structure and layout of publishing units shall also be complied with."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "To establish a publishing unit, its sponsor shall submit an application to the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located; after examination and consent by that department, the application shall be submitted to the competent department of publication administration of the State Council for approval. Where the publishing unit to be established is a public institution, the formalities for the examination and approval of institutional staffing shall also be completed."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The application for the establishment of a publishing unit shall state the following matters:\n(a) the name and address of the publishing unit;\n(b) the names and addresses of the sponsor of the publishing unit and its competent authority;\n(c) the name, residential address and qualification documents of the legal representative or principal person in charge of the publishing unit;\n(d) the source and amount of the funds of the publishing unit.\nWhere a newspaper office, periodical office, newspaper editorial department or periodical editorial department is to be established, the application shall also state the name, publication frequency, page format or format size and printing premises of the newspaper or periodical.\nThe application shall be accompanied by the articles of association of the publishing unit and the relevant supporting documents of the sponsor and its competent authority for the establishment of the publishing unit."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent department of publication administration of the State Council shall, within 60 days from the date of accepting an application for the establishment of a publishing unit, make a decision to approve or not to approve, and the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government shall notify the sponsor in writing; where the application is not approved, the reasons shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The sponsor establishing a publishing unit shall, within 60 days from the date of receiving the decision of approval, register with the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located and obtain a publication licence. The registration particulars shall be prescribed by the competent department of publication administration of the State Council.\nAfter obtaining the publication licence, a publishing unit that is a public institution legal person shall, with the publication licence, register with the registration and administration organ for public institutions and obtain a legal person certificate for a public institution in accordance with the law; a publishing unit that is an enterprise legal person shall, with the publication licence, register with the industry and commerce administration department and obtain a business licence in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Newspaper offices, periodical offices, book publishing houses, audio-visual publishing houses, electronic publication publishing houses and the like shall meet the conditions for legal persons and, after approval and registration, acquire the status of legal persons and independently bear civil liability with all their legal person property.\nIn accordance with the provisions of paragraph 3 of Article 9 of these Regulations, newspaper editorial departments and periodical editorial departments deemed publishing units do not have the status of legal persons, and their civil liability shall be borne by their sponsors."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a publishing unit changes its name, sponsor or the competent authority of the sponsor, scope of business or capital structure, merges or splits, establishes branch organisations, publishes new newspapers or periodicals, or where a newspaper or periodical changes its name, it shall complete the approval formalities in accordance with the provisions of Articles 12 and 13 of these Regulations. Where the publishing unit is a public institution legal person, it shall also, with the approval document, complete the corresponding registration formalities with the registration and administration organ for public institutions; where it is an enterprise legal person, it shall also, with the approval document, complete the corresponding registration formalities with the industry and commerce administration department.\nWhere a publishing unit changes matters other than those listed in the preceding paragraph, it shall, after examination and consent by the sponsor and its competent authority, apply to the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located for registration of the change, and report the change to the competent department of publication administration of the State Council for filing. Where the publishing unit is a public institution legal person, it shall also, with the approval document, complete the registration of the change with the registration and administration organ for public institutions; where it is an enterprise legal person, it shall also, with the approval document, complete the registration of the change with the industry and commerce administration department."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a publishing unit suspends publication activities, it shall report to the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located for filing and state the reasons and the period; the suspension of publication activities by a publishing unit shall not exceed 180 days.\nWhere a publishing unit terminates publication activities, the sponsor shall submit an application and, after consent by the competent authority, the sponsor shall complete deregistration with the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located and report the matter to the competent department of publication administration of the State Council for filing. Where the publishing unit is a public institution legal person, it shall also, with the approval document, complete deregistration with the registration and administration organ for public institutions; where it is an enterprise legal person, it shall also, with the approval document, complete deregistration with the industry and commerce administration department."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a book publishing house, audio-visual publishing house or electronic publication publishing house has not engaged in publication activities for 180 days from the date of registration, or where a newspaper office or periodical office has not published a newspaper or periodical for 90 days from the date of registration, the competent department of publication administration that originally registered it shall deregister it and report the matter to the competent department of publication administration of the State Council for filing.\nWhere the circumstances listed in the preceding paragraph arise due to force majeure or other justified reasons, the publishing unit may apply to the competent department of publication administration that originally registered it for an extension."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The annual publication plans of book publishing houses, audio-visual publishing houses and electronic publication publishing houses, and major subject selections involving national security, social stability and other such matters, shall be examined by the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government where the publishing unit is located and then reported to the competent department of publication administration of the State Council for filing; publications involving major subject selections that have not been filed before publication shall not be published. The specific measures shall be formulated by the competent department of publication administration of the State Council.\nMajor subject selections of periodical offices shall be filed in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A publishing unit shall not sell to any unit or individual, or transfer in any other form, its own name, book number, periodical number or edition number, or page space, and shall not lease its own name or periodical number.\nPublishing units and their employees shall not use publication activities to seek other improper benefits."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Publishing units shall, in accordance with the relevant provisions of the State, deliver copies free of charge to the National Library of China, the Archives Library of Chinese Publications and the competent department of publication administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Management of Publishing Entities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Citizens may, in accordance with the provisions of these Regulations, freely express in publications their views and aspirations concerning State affairs, economic and cultural undertakings and social affairs, and freely publish the results of their scientific research, literary and artistic creation and other cultural activities.\nLawful publications are protected by law, and no organisation or individual shall unlawfully interfere with, obstruct or disrupt the publication of publications."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Publication of Publications"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Publishing units shall apply an editorial responsibility system to ensure that the content carried in publications conforms to the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Publication of Publications"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "No publication shall contain the following content:\n(a) opposing the basic principles established by the Constitution;\n(b) endangering national unity, sovereignty or territorial integrity;\n(c) divulging State secrets, endangering national security, or harming national honour and interests;\n(d) inciting ethnic hatred or ethnic discrimination, undermining ethnic solidarity, or infringing upon ethnic customs and habits;\n(e) advocating cults or superstition;\n(f) disrupting social order or undermining social stability;\n(g) advocating obscenity, gambling or violence, or instigating crimes;\n(h) insulting or defaming others, or infringing upon the lawful rights and interests of others;\n(i) endangering social morality or the fine cultural traditions of the nation;\n(j) containing other content prohibited by laws, administrative regulations and the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Publication of Publications"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Publications intended for minors shall not contain content that induces minors to imitate conduct contrary to social morality or conduct that is illegal or criminal, and shall not contain terrifying, cruel or other content harmful to the physical and mental health of minors."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Publication of Publications"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the content of a publication is untrue or unfair and thereby infringes upon the lawful rights and interests of a citizen, legal person or other organisation, the publishing unit shall make a public correction, eliminate the adverse effects and bear other civil liability in accordance with the law.\nWhere the content of a work published in a newspaper or periodical is untrue or unfair and thereby infringes upon the lawful rights and interests of a citizen, legal person or other organisation, the party concerned has the right to require the publishing unit concerned to make a correction or publish a reply, and the publishing unit concerned shall publish it in a recent issue of the newspaper or periodical; where it refuses to publish, the party concerned may bring a lawsuit before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Publication of Publications"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Publications must, in accordance with the relevant provisions of the State, state the names and addresses of the author, publisher, printer or reproducer and distributor, the book number, periodical number or edition number, the cataloguing-in-publication data, the date of publication, the publication frequency and other relevant matters.\nThe specifications, format size, layout, binding and proofreading of publications must conform to national standards and the requirements of norms so as to ensure the quality of publications.\nThe spoken and written language used in publications must conform to the provisions of State laws and the relevant standards and norms."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Publication of Publications"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "No unit or individual shall publish publications by forging or falsely using the name of a publishing unit or the name of a newspaper or periodical."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Publication of Publications"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Textbooks for primary and secondary schools shall be examined and approved by the competent department of education administration of the State Council; the units publishing and distributing them shall have funds, organisational structures, personnel and other conditions suited to the needs of the textbook publishing and distribution business, and shall have obtained the textbook publishing and distribution qualifications approved by the competent department of publication administration of the State Council. Where textbooks for primary and secondary schools fall within the scope of government procurement, the distributing units shall be determined in accordance with the relevant provisions of the Government Procurement Law of the People's Republic of China. No other unit or individual shall engage in the business of publishing or distributing textbooks for primary and secondary schools."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Publication of Publications"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A unit engaging in the printing or reproduction of publications shall submit an application to the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located and, after examination, approval and licensing and after completing the relevant formalities with the industry and commerce administration department in accordance with the relevant provisions of the State, may engage in the printing or reproduction of publications.\nWithout a licence and the completion of the relevant formalities, no person shall print newspapers, periodicals or books or reproduce audio-visual products or electronic publications."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A publishing unit shall not entrust the printing or reproduction of publications to a unit that has not obtained a licence for the printing or reproduction of publications.\nWhere a publishing unit entrusts a printing or reproduction unit with the printing or reproduction of publications, it must provide the relevant certificates for the printing or reproduction of publications that conform to the provisions of the State and conclude a contract with the printing or reproduction unit in accordance with the law.\nA printing or reproduction unit shall not accept the entrustment of non-publishing units or individuals to print newspapers, periodicals or books or to reproduce audio-visual products or electronic publications, and shall not print or distribute newspapers, periodicals or books or reproduce or distribute audio-visual products or electronic publications without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A printing or reproduction unit may, with the approval of the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located, undertake the printing or reproduction of overseas publications; however, the overseas publications printed or reproduced must be shipped out of the territory in their entirety and shall not be distributed within the territory.\nThe content of overseas publications entrusted for printing or reproduction shall be examined by the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government. The entrusting party shall hold a power of attorney from the copyright owner and register with the copyright administration department."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A printing or reproduction unit shall, within two years from the date of completing the printing or reproduction of a publication, retain one copy of the publication sample it has undertaken for inspection."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A unit engaging in the wholesale of publications shall be examined, approved and licensed by the competent department of publication administration of the people's government of the province, autonomous region or municipality directly under the Central Government and obtain a Publication Business Licence.\nA unit or individually owned business engaging in the retail of publications shall be examined, approved and licensed by the competent department of publication administration of the county-level people's government and obtain a Publication Business Licence."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A unit or individually owned business engaging in the publication distribution business through the Internet or other information networks shall obtain a Publication Business Licence in accordance with the provisions of these Regulations.\nAn operator providing online trading platform services shall examine the identity of the business entity of a unit or individually owned business applying to engage in the publication distribution business through the online trading platform and verify its Publication Business Licence."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a unit or individually owned business engaging in the publication distribution business changes the registered particulars of its Publication Business Licence, or is merged or consolidated or splits, it shall complete the approval formalities in accordance with the provisions of Article 35 of these Regulations.\nWhere a unit or individually owned business engaging in the publication distribution business terminates its business activities, it shall report to the competent department of publication administration that originally approved it for filing."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A publishing unit may distribute publications published by itself, and shall not distribute publications published by other publishing units."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State permits the establishment of foreign-invested enterprises engaging in the distribution of books, newspapers, periodicals and electronic publications."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A printing or reproduction unit, distribution unit or individually owned business shall not print or reproduce or distribute publications falling under any of the following circumstances:\n(a) containing content prohibited by Articles 25 and 26 of these Regulations;\n(b) illegally imported;\n(c) bearing a forged or falsely used name of a publishing unit or name of a newspaper or periodical;\n(d) not bearing the name of a publishing unit;\n(e) textbooks for primary and secondary schools that have not been examined and approved in accordance with the law;\n(f) infringing upon the copyright of others."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Printing or Reproduction and Distribution of Publications"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The publication import business shall be operated by publication import business units established in accordance with these Regulations; no other unit or individual shall engage in the publication import business."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Import of Publications"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "To establish a publication import business unit, the following conditions shall be met:\n(a) having a name and articles of association for the publication import business unit;\n(b) having a sponsor and its competent authority recognised by the competent department of publication administration of the State Council;\n(c) having a defined scope of business;\n(d) having the capacity to examine the content of imported publications;\n(e) having funds appropriate to the publication import business;\n(f) having a fixed business premises;\n(g) other conditions prescribed by laws, administrative regulations and the State."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Import of Publications"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "To establish a publication import business unit, an application shall be submitted to the competent department of publication administration of the State Council and, after examination and approval, a publication import business licence shall be obtained from the competent department of publication administration of the State Council, with which the applicant shall obtain a business licence from the industry and commerce administration department in accordance with the law.\nTo establish a publication import business unit, the corresponding formalities shall also be completed in accordance with the provisions of the laws and administrative regulations on foreign trade."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Import of Publications"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a publication import business unit changes its name, scope of business, capital structure, sponsor or the competent authority of the sponsor, merges or splits, or establishes branch organisations, it shall complete the approval formalities in accordance with the provisions of Articles 42 and 43 of these Regulations and, with the approval document, complete the corresponding registration formalities with the industry and commerce administration department."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Import of Publications"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Publications imported by a publication import business unit shall not contain content prohibited by Articles 25 and 26 of these Regulations.\nA publication import business unit shall be responsible for examining the content of the publications it imports. The competent departments of publication administration of people's governments at or above the provincial level may directly examine the content of publications imported by publication import business units. Where a publication import business unit is unable to determine whether a publication it imports contains content prohibited by Articles 25 and 26 of these Regulations, it may request the competent department of publication administration of a people's government at or above the provincial level to examine the content. Where the competent department of publication administration of a people's government at or above the provincial level examines the content of imported publications at the request of a publication import business unit, it may charge fees in accordance with the standards approved by the competent department of pricing of the State Council.\nThe competent department of publication administration of the State Council may prohibit the import of specific publications."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Import of Publications"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A publication import business unit shall, before importing publications, submit the catalogue of the publications to be imported to the competent department of publication administration of a people's government at or above the provincial level for filing; where that department discovers publications whose import is prohibited or suspended, it shall promptly notify the publication import business unit and notify the customs. A publication import business unit shall not import, and the customs shall not release, publications notified as prohibited or suspended from import.\nThe specific measures for the filing of publication imports shall be formulated by the competent department of publication administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Import of Publications"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Whoever distributes imported publications must obtain the publications from a publication import business unit established in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Import of Publications"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a publication import business unit holds an exhibition of overseas publications within the territory, it must report to the competent department of publication administration of the State Council for approval. Without approval, no unit or individual shall hold an exhibition of overseas publications.\nWhere overseas publications exhibited in accordance with the preceding paragraph are to be sold, the relevant formalities shall be completed in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Import of Publications"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Competent departments of publication administration shall strengthen routine supervision and administration of the publication activities of publishing units within their administrative regions; the sponsors of publishing units and their competent authorities bear direct management responsibility for the publication activities of the publishing units under them and shall cooperate with the competent departments of publication administration in urging the publishing units under them to implement the various management provisions.\nPublishing units and publication import business units shall, in accordance with the provisions of the competent department of publication administration of the State Council, submit written reports to the competent departments of publication administration on their publication activities and publication import activities."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Management"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Competent departments of publication administration shall perform the following duties:\n(a) exercising industry supervision over units publishing, printing, reproducing, distributing and importing publications, and implementing entry and exit management;\n(b) supervising publication activities and investigating and dealing with acts in violation of these Regulations;\n(c) supervising the content and quality of publications;\n(d) administering publication practitioners in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Management"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Competent departments of publication administration shall, in accordance with the relevant provisions and standards, supervise and inspect the quality of publications in respect of content, editing and proofreading, printing or reproduction, and binding design."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Management"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The competent department of publication administration of the State Council shall formulate measures for the comprehensive assessment of publishing units and implement comprehensive assessment of publishing units by category.\nWhere a unit publishing, printing or reproducing, distributing or importing publications no longer meets the statutory conditions for administrative licensing, the competent department of publication administration shall order it to rectify within a time limit; where it still fails to rectify within the time limit, the authority that originally issued the licence shall revoke the administrative licence."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Management"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State applies a vocational qualification system to persons engaged in professional and technical work on publishing in publishing units; professional and technical personnel in publishing shall obtain professional and technical qualifications by passing the national professional and technical personnel qualification examination. The specific measures shall be formulated jointly by the competent department of human resources and social security of the State Council and the competent department of publication administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Management"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State formulates relevant policies to safeguard and promote the development and prosperity of the publishing industry and publishing undertakings."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Awards"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State supports and encourages the publication of the following excellent and key publications:\n(a) those playing a significant role in expounding and disseminating the basic principles established by the Constitution;\n(b) those of important significance for carrying forward the socialist core value system, conducting education among the people in patriotism, collectivism, socialism and ethnic solidarity, and carrying forward social morality, professional ethics and family virtues;\n(c) those playing a significant role in carrying forward the fine culture of the nation and promoting international cultural exchanges;\n(d) those making significant contributions to advancing cultural innovation and promptly reflecting new scientific and cultural achievements at home and abroad;\n(e) those playing a significant role in serving agriculture, rural areas and farmers and promoting public cultural services;\n(f) others of important ideological value, scientific value or cultural and artistic value."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Awards"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State guarantees the publication and distribution of textbooks.\nThe State supports the publication and distribution of publications in the languages of ethnic minorities and in Braille.\nThe State applies preferential policies to the distribution of publications in ethnic minority areas, border areas, economically underdeveloped areas and rural areas."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Awards"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where newspapers and periodicals are distributed by postal enterprises, the postal enterprises shall ensure timely and accurate distribution in accordance with the contract.\nTransport enterprises carrying publications shall provide convenience for the transport of publications."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Awards"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Units and individuals that have made important contributions to the development and prosperity of the publishing industry and publishing undertakings shall be rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Awards"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "In respect of acts unlawfully interfering with, obstructing or disrupting the publication, printing or reproduction, import or distribution of publications, the competent departments of publication administration and other relevant departments of people's governments at or above the county level shall promptly take measures to stop them."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Awards"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where staff of a competent department of publication administration or another relevant department take advantage of their position to accept property or other benefits from others, approve applicants that do not meet the statutory conditions to obtain licences or approval documents, fail to perform their supervisory duties, or fail to investigate and deal with illegal acts discovered, thereby causing serious consequences, sanctions of demotion up to dismissal shall be given in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law pursuant to the provisions of the Criminal Law on the crime of accepting bribes, the crime of abuse of power, the crime of dereliction of duty or other crimes."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, without approval, a unit is established without authorisation to publish, print or reproduce, or import publications, or a person engages in the publication, printing or reproduction, import or distribution of publications without authorisation, or publishes publications by falsely using the name of a publishing unit or by forging or falsely using the name of a newspaper or periodical, the competent department of publication administration and the industry and commerce administration department shall, in accordance with their statutory functions and powers, ban it; criminal responsibility shall be investigated in accordance with the law pursuant to the provisions of the Criminal Law on the crime of illegal business operation; where the case is not serious enough for criminal punishment, the publications, illegal gains and the special tools and equipment used for the illegal activities shall be confiscated, and where the illegal gains are 50,000 yuan or more, a fine of not less than five times but not more than ten times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than 50,000 yuan, a fine of not more than 250,000 yuan shall also be imposed; where the lawful rights and interests of others are infringed, civil liability shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where any of the following acts is committed and violates the criminal law, criminal responsibility shall be investigated in accordance with the law pursuant to the relevant provisions of the Criminal Law; where the case is not serious enough for criminal punishment, the competent department of publication administration shall order the suspension of business for rectification within a time limit and confiscate the publications and illegal gains, and where the illegal business turnover is 10,000 yuan or more, a fine of not less than five times but not more than ten times the illegal business turnover shall also be imposed; where the illegal business turnover is less than 10,000 yuan, a fine of not more than 50,000 yuan may be imposed; where the circumstances are serious, the authority that originally issued the licence shall revoke the licence:\n(a) publishing or importing publications containing content prohibited by Articles 25 and 26 of these Regulations;\n(b) printing or reproducing or distributing publications while knowing or ought to have known that they contain content prohibited by Articles 25 and 26 of these Regulations;\n(c) selling to another person, or transferring in any other form, the name, book number, periodical number, edition number or page space of the publishing unit, or leasing the name or periodical number of the publishing unit, while knowing or ought to have known that the other person publishes publications containing content prohibited by Articles 25 and 26 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent department of publication administration shall order the cessation of the illegal act and confiscate the publications and illegal gains, and where the illegal business turnover is 10,000 yuan or more, a fine of not less than five times but not more than ten times the illegal business turnover shall also be imposed, and where the illegal business turnover is less than 10,000 yuan, a fine of not more than 50,000 yuan shall also be imposed; where the circumstances are serious, the relevant production and business activities shall be restricted as the case may be, the suspension of business for rectification within a time limit shall be ordered, or the authority that originally issued the licence shall lower the relevant qualification grade or even revoke the licence:\n(a) importing, printing or reproducing, or distributing publications whose import is prohibited by the competent department of publication administration of the State Council;\n(b) printing or reproducing smuggled overseas publications.\nWhere imported publications are distributed without obtaining them from a publication import business unit prescribed by these Regulations, the competent department of publication administration shall order the cessation of the illegal act and confiscate the publications and illegal gains, and where the illegal gains are 50,000 yuan or more, a fine of not less than five times but not more than ten times the illegal gains shall also be imposed, and where there are no illegal gains or the illegal gains are less than 50,000 yuan, a fine of not more than 250,000 yuan shall also be imposed; where the circumstances are serious, the relevant production and business activities shall be restricted as the case may be, the suspension of business for rectification within a time limit shall be ordered, or the authority that originally issued the licence shall lower the relevant qualification grade or even revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Whoever smuggles publications shall be investigated for criminal responsibility in accordance with the law pursuant to the provisions of the Criminal Law on the crime of smuggling; where the case is not serious enough for criminal punishment, the customs shall impose an administrative penalty in accordance with the provisions of the Customs Law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent department of publication administration shall confiscate the publications and illegal gains, and where the illegal gains are 50,000 yuan or more, a fine of not less than five times but not more than ten times the illegal gains shall also be imposed, and where there are no illegal gains or the illegal gains are less than 50,000 yuan, a fine of not more than 250,000 yuan shall also be imposed; where the circumstances are serious, the relevant production and business activities shall be restricted as the case may be, the suspension of business for rectification within a time limit shall be ordered, or the authority that originally issued the licence shall lower the relevant qualification grade or even revoke the licence:\n(a) a publishing unit entrusting a unit that has not obtained a licence for the printing or reproduction of publications with the printing or reproduction of publications;\n(b) a printing or reproduction unit printing or reproducing publications without obtaining a printing or reproduction licence;\n(c) a printing or reproduction unit accepting the entrustment of non-publishing units or individuals to print or reproduce publications;\n(d) a printing or reproduction unit printing or reproducing overseas publications without performing the statutory formalities, or failing to ship all the overseas publications printed or reproduced out of the territory;\n(e) a printing or reproduction unit, distribution unit or individually owned business printing or reproducing or distributing publications that do not bear the name of a publishing unit.\nWhere any of the following acts is committed, the competent department of publication administration shall confiscate the publications and illegal gains, and where the illegal business turnover is 10,000 yuan or more, a fine of not less than five times but not more than ten times the illegal business turnover shall also be imposed, and where the illegal business turnover is less than 10,000 yuan, a fine of not more than 50,000 yuan shall also be imposed; where the circumstances are serious, the relevant production and business activities shall be restricted as the case may be, the suspension of business for rectification within a time limit shall be ordered, or the authority that originally issued the licence shall lower the relevant qualification grade or even revoke the licence:\n(a) a printing or reproduction unit, distribution unit or individually owned business printing or reproducing or distributing publications bearing a forged or falsely used name of a publishing unit or name of a newspaper or periodical;\n(b) a publishing, printing or distribution unit publishing, printing or distributing textbooks for primary and secondary schools that have not been examined and approved in accordance with the law, or a unit not determined in accordance with the provisions of these Regulations engaging in the business of publishing or distributing textbooks for primary and secondary schools."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a publishing unit commits any of the following acts, the competent department of publication administration shall order the cessation of the illegal act, give a warning and confiscate the illegally operated publications and illegal gains, and where the illegal gains are 50,000 yuan or more, a fine of not less than five times but not more than ten times the illegal gains shall also be imposed, and where there are no illegal gains or the illegal gains are less than 50,000 yuan, a fine of not more than 250,000 yuan shall also be imposed; where the circumstances are serious, the relevant production and business activities shall be restricted as the case may be, the suspension of business for rectification within a time limit shall be ordered, or the authority that originally issued the licence shall lower the relevant qualification grade or even revoke the licence:\n(a) selling or transferring in any other form the name, book number, periodical number, edition number or page space of the publishing unit, or leasing the name or periodical number of the unit;\n(b) using publication activities to seek other improper benefits."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent department of publication administration shall order rectification and give a warning; where the circumstances are serious, it shall order the suspension of business for rectification within a time limit or the authority that originally issued the licence shall revoke the licence:\n(a) a publishing unit changing its name, sponsor or the competent authority of the sponsor, or scope of business, merging or splitting, publishing a new newspaper or periodical, or a newspaper or periodical changing its name, or a publishing unit changing other matters, without completing the formalities of approval or registration of change with the competent department of publication administration in accordance with the provisions of these Regulations;\n(b) a publishing unit failing to file its annual publication plan and major subject selections involving national security, social stability and other such matters;\n(c) a publishing unit failing to deliver copies of publications in accordance with the provisions of these Regulations;\n(d) a printing or reproduction unit failing to retain the materials for inspection in accordance with the provisions of these Regulations;\n(e) a publication import business unit failing to submit the catalogue of the publications it imports for filing;\n(f) a publishing unit suspending publication activities without authorisation for more than 180 days;\n(g) a publication distribution unit or publication import business unit failing to complete the formalities of approval of change in accordance with the provisions of these Regulations;\n(h) the quality of publications not conforming to the relevant provisions and standards."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where an exhibition of overseas publications is held without approval, the competent department of publication administration shall order the cessation of the illegal act and confiscate the publications and illegal gains; where the circumstances are serious, it shall order the suspension of business for rectification within a time limit or the authority that originally issued the licence shall revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a person prints or reproduces, wholesales, retails, leases or distributes publications containing content prohibited by Articles 25 and 26 of these Regulations or other illegal publications, and the party concerned explains and identifies the source of the illegal publications and the explanation and identification are verified as true, the publications and illegal gains shall be confiscated, and other administrative penalties may be mitigated or exempted."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a unit is given the administrative penalty of revoking its licence for violating these Regulations, its legal representative or principal person in charge shall not serve as the legal representative or principal person in charge of a unit publishing, printing or reproducing, importing or distributing publications within 10 years from the date the licence is revoked.\nWhere publication practitioners violate the provisions of these Regulations and the circumstances are serious, the authority that originally issued the certificate shall revoke their qualification certificates."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where the administrative penalty of a fine is imposed in accordance with the provisions of these Regulations, the decision on the fine and the collection of the fine shall be separated in accordance with the provisions of the relevant laws and administrative regulations; all fines collected must be turned over to the State Treasury.\nFor the purposes of these Regulations, illegal gains mean the amount of profit obtained from the illegal act after deducting costs; where there are no costs or the costs are difficult to calculate, the money obtained from the illegal act shall be the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where administrative regulations provide otherwise on the publication, reproduction, import or distribution of audio-visual products and electronic publications, those provisions shall apply.\nThe measures for the administration of accepting publications donated by overseas organisations or individuals, the measures for the administration of subscriptions to overseas publications by subscribers, and the measures for the examination and approval and administration of online publication shall be separately formulated by the competent department of publication administration of the State Council in accordance with the principles of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 February 2002. The Regulations on the Administration of Publication issued by the State Council on 2 January 1997 are repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]
@@ -5927,6 +8804,762 @@
     ]
   };
 
+  TR['CN-REG-0044'] = {
+    "lawId": "CN-REG-0044",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 63 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Land Administration Law of the People's Republic of China and the Water Law of the People's Republic of China in order to properly carry out compensation for land acquisition and resettlement in the construction of large and medium-sized water conservancy and hydropower projects, safeguard the lawful rights and interests of resettlers and ensure the smooth progress of project construction."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to compensation for land acquisition and resettlement in large and medium-sized water conservancy and hydropower projects."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State implements a policy of development-oriented resettlement and adopts a method combining compensation and subsidies at the early stage with later-stage support, so that the living standards of resettlers reach or exceed their original levels."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Compensation for land acquisition and resettlement in the construction of large and medium-sized water conservancy and hydropower projects shall follow the following principles:\n(a) putting people first, safeguarding the lawful rights and interests of resettlers and meeting the needs of their survival and development;\n(b) taking the overall situation into account, submitting to the overall arrangements of the State and giving consideration to the interests of the State, the collective and individuals;\n(c) economising on the use of land, rationally planning the land occupied by the project and controlling the scale of resettlement;\n(d) sustainable development, in harmony with the comprehensive development and utilisation of resources and the protection of the ecological environment;\n(e) adapting measures to local conditions and engaging in overall planning."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The administration of resettlement shall be based on a system of government leadership, responsibility at different levels, the county as the basis and participation by project legal persons.\nThe administrative institution for the resettlement of water conservancy and hydropower projects under the State Council (hereinafter referred to as the resettlement administration of the State Council) shall be responsible for the administration and supervision of resettlement in large and medium-sized water conservancy and hydropower projects throughout the country.\nLocal people's governments at or above the county level shall be responsible for organising and leading resettlement in large and medium-sized water conservancy and hydropower projects within their respective administrative areas; the resettlement administration prescribed by the people's government of a province, autonomous region or municipality directly under the Central Government shall be responsible for the administration and supervision of resettlement in large and medium-sized water conservancy and hydropower projects within its administrative area."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "For large and medium-sized water conservancy and hydropower projects for which a project legal person has been established, the project legal person shall prepare an outline of the resettlement plan and submit it, in accordance with the authority for examination and approval, to the people's government of the province, autonomous region or municipality directly under the Central Government or to the resettlement administration of the State Council for examination and approval; before examination and approval, the people's government of the province, autonomous region or municipality directly under the Central Government or the resettlement administration of the State Council shall solicit the opinions of the local people's governments at or above the county level of the relocation area and of the resettlement area.\nFor large and medium-sized water conservancy and hydropower projects for which no project legal person has been established, the competent department of the project shall, together with the local people's governments at or above the county level of the relocation area and of the resettlement area, prepare an outline of the resettlement plan and submit it, in accordance with the authority for examination and approval, to the people's government of the province, autonomous region or municipality directly under the Central Government or to the resettlement administration of the State Council for examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The outline of the resettlement plan shall be prepared on the basis of the results of the survey of physical assets in the land occupied by the project and in the inundation area, as well as the economic and social conditions and the carrying capacity of resources and the environment of the relocation area and of the resettlement area.\nThe survey of physical assets in the land occupied by the project and in the inundation area shall be carried out by the competent department of the project or the project legal person together with the local people's government of the place where the land occupied by the project and the inundation area are located; the survey of physical assets shall be comprehensive and accurate, and after the survey results have been signed and confirmed by the surveyors and by the persons surveyed and have been made public, the relevant local people's government shall sign its opinions thereon. Before the survey of physical assets begins, the provincial people's government of the place where the land occupied by the project and the inundation area are located shall issue a notice prohibiting the addition of new construction projects and the inward migration of population in the land occupied by the project and in the inundation area, and shall make arrangements for the survey of physical assets."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The outline of the resettlement plan shall mainly include such contents as the tasks, destinations and standards of resettlement, the modes of production resettlement of rural resettlers, the assessment of the living standards of resettlers and the forecast of their living standards after relocation, the policies for later-stage support for reservoir resettlers, the principles for delimiting the affected scope above the inundation line and the principles for preparing the resettlement plan."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In preparing the outline of the resettlement plan, the opinions of resettlers and of the residents of the resettlement area shall be solicited extensively; where necessary, a hearing shall be held.\nThe approved outline of the resettlement plan is the basic basis for preparing the resettlement plan and shall be strictly implemented and shall not be adjusted or modified at will; where adjustment or modification is truly necessary, it shall be submitted to the original approving authority for approval."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a project legal person has been established, the project legal person shall prepare the resettlement plan on the basis of the approved outline of the resettlement plan; where no project legal person has been established, the competent department of the project shall, together with the local people's governments at or above the county level of the relocation area and of the resettlement area, prepare the resettlement plan on the basis of the approved outline of the resettlement plan.\nThe resettlement plan for a large and medium-sized water conservancy and hydropower project shall, after examination by the resettlement administration of the people's government of the province, autonomous region or municipality directly under the Central Government or by the resettlement administration of the State Council in accordance with the authority for examination and approval, be submitted by the project legal person or by the competent department of the project to the department for examination and approval or verification of the project, and shall be examined and approved or verified together with the feasibility study report or the project application report.\nWhen the resettlement administration of the people's government of the province, autonomous region or municipality directly under the Central Government or the resettlement administration of the State Council examines the resettlement plan, it shall solicit the opinions of the relevant departments of the people's government at the same level and of the local people's governments at or above the county level of the relocation area and of the resettlement area."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The preparation of the resettlement plan shall be based on the carrying capacity of resources and the environment and shall follow the principle of combining local resettlement with resettlement elsewhere, centralised resettlement with dispersed resettlement, and government-arranged resettlement with resettlement arranged by resettlers through their own efforts.\nIn preparing the resettlement plan, the modes of production and ways of life and the customs and habits of ethnic minorities shall be respected.\nThe resettlement plan shall be consistent with the national economic and social development plan, the overall plan for land utilisation, the overall urban plan and the plans for villages and market towns."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The resettlement plan shall make arrangements for the resettlement of rural resettlers, the relocation and reconstruction of towns (market towns), the relocation and reconstruction of industrial and mining enterprises, the relocation or reconstruction of special facilities, the construction of protection works, the development and utilisation of reservoir waters, the measures for later-stage support for reservoir resettlers, and the budgetary estimate (assessment) of funds for compensation for land acquisition and resettlement.\nProblems of difficulty in production and daily life of residents within the affected scope above the inundation line caused by the impounding of the reservoir shall be incorporated into the resettlement plan and properly handled in accordance with the principle of economic rationality."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In planning the resettlement of rural resettlers, priority shall be given to resettlement through agricultural production, the principles of adapting measures to local conditions, facilitating production, convenience of daily life and protecting the ecology shall be followed, and resettlement sites for rural resettlers shall be rationally planned; where conditions permit, this may be carried out in conjunction with the construction of small towns.\nAfter the resettlement of rural resettlers, the resettlers shall be provided with land and other means of agricultural production basically equivalent to those of the residents of the resettlement area."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "In planning the resettlement of town (market town) resettlers, the existing conditions of the town (market town) shall be taken as the basis, land shall be used economically and the layout shall be rational.\nThe relocation and reconstruction of industrial and mining enterprises shall conform to the industrial policies of the State and shall be carried out in conjunction with technological transformation and structural adjustment; enterprises with backward technology, which waste resources, whose product quality is poor, which cause serious pollution or which do not meet the conditions for safe production shall be closed down in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "In preparing the resettlement plan, the opinions of resettlers and of the residents of the resettlement area shall be solicited extensively; where necessary, a hearing shall be held.\nThe approved resettlement plan is the basic basis for organising the implementation of resettlement and shall be strictly implemented and shall not be adjusted or modified at will; where adjustment or modification is truly necessary, it shall be re-submitted for approval in accordance with Article 10 of these Regulations.\nFor construction projects of large and medium-sized water conservancy and hydropower projects for which no resettlement plan has been prepared or whose resettlement plan has not been examined, the relevant departments shall not approve or verify their construction and shall not handle land use and other relevant formalities for them."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Funds for compensation for land acquisition and resettlement, the farmland occupation tax and farmland reclamation fee that shall be paid in accordance with the law, and the forest vegetation restoration fee and other fees paid in accordance with the relevant provisions of the State Council shall be included in the budgetary estimate of large and medium-sized water conservancy and hydropower projects.\nFunds for compensation for land acquisition and resettlement include land compensation fees, resettlement subsidies, compensation fees for the relocation and reconstruction of rural residential areas, for the relocation and reconstruction of towns (market towns), for the relocation and reconstruction of industrial and mining enterprises and for the relocation or reconstruction of special facilities (including compensation fees for the relevant attachments to the land), compensation fees for the personal property of resettlers (including compensation fees for attachments to the land and young crops) and moving expenses, fees for clearing the reservoir bottom, fees for the protection of cultural relics in the inundation area and other fees prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "For the selection of sites for the relocation or reconstruction of infrastructure such as rural residential areas for the centralised resettlement of rural resettlers, towns (market towns), industrial and mining enterprises and special facilities, environmental impact assessment, hydrogeological and engineering geological surveying, prevention and control of geological disasters and assessment of the danger of geological disasters shall be properly carried out in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "For residential areas, cultivated land and the like within the inundation area that meet the conditions for protection, protection measures such as the construction of protection works shall be taken under the premise of economic rationality so as to reduce inundation losses.\nThe costs of constructing protection works shall be borne by the project legal person, and the costs of operation and maintenance shall be the responsibility of the unit managing the large and medium-sized water conservancy and hydropower project."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For cultural relics within the land occupied by the project and within the inundation area, their distribution shall be ascertained and their protection value confirmed, the policy of giving priority to protection and taking rescue as the first task shall be adhered to, and protection and excavation shall be carried out at key sites."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Resettlement Planning"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Land for construction projects of large and medium-sized water conservancy and hydropower projects determined in the river basin plans approved in accordance with the law shall be incorporated into the overall plan for land utilisation of the place where the project is located.\nAfter the construction project of a large and medium-sized water conservancy and hydropower project has been verified or its feasibility study report has been approved, the land for the project shall be included in the annual plan for land utilisation.\nFor construction projects of large and medium-sized water conservancy and hydropower projects that are water conservancy and energy infrastructure supported by the State as key projects, the land may be acquired by way of allocation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Land Requisition Compensation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "For land used for construction projects of large and medium-sized water conservancy and hydropower projects, application shall be made and examination and approval formalities shall be completed in accordance with the law, and a system of one-time submission for approval, acquisition by stages and payment of compensation for land acquisition on schedule shall be implemented.\nFor emergency projects such as flood control and waterlogging control, the land may, upon decision by the people's government with the authority to approve, be used in advance, and the land use formalities shall be completed afterwards."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Land Requisition Compensation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "For land compensation fees and resettlement subsidies for land expropriated for the construction of large and medium-sized water conservancy and hydropower projects, the same compensation standards as those for land used for infrastructure projects such as railways shall be applied, and the standards prescribed by the province, autonomous region or municipality directly under the Central Government where the expropriated land is located shall be followed.\nThe compensation standards for scattered trees, young crops and the like on the expropriated land shall follow the standards prescribed by the province, autonomous region or municipality directly under the Central Government where the expropriated land is located.\nBuildings attached to the expropriated land shall be compensated in accordance with the principle of their original scale and original standards or of the restoration of their original functions; impoverished resettlers whose compensation fees are insufficient for the construction of basic housing shall be given appropriate subsidies.\nWhere State-owned cultivated land lawfully used by another unit or individual is used, compensation shall be given with reference to the compensation standards for expropriated cultivated land; where State-owned unused land not determined for use by a unit or individual is used, no compensation shall be given.\nAfter resettlers have moved to distant places, scattered trees, houses and the like above the inundation line around the reservoir that are owned by resettlers individually shall be compensated in accordance with the standards prescribed in paragraph 2 and paragraph 3 of this Article respectively."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Land Requisition Compensation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Temporary land used for the construction of large and medium-sized water conservancy and hydropower projects shall be approved by the competent department of land of the people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Land Requisition Compensation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Compensation for the relocation or reconstruction of industrial and mining enterprises and of special facilities such as communications, electric power, telecommunications and radio and television, as well as of primary and secondary schools, shall be given in accordance with the principle of their original scale and original standards or of the restoration of their original functions."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Land Requisition Compensation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where cultivated land is occupied for the construction of large and medium-sized water conservancy and hydropower projects, the provisions on the balance between occupation and replenishment shall be implemented. Cultivated land reclaimed for the resettlement of resettlers, newly increased cultivated land resulting from land consolidation carried out for the construction of large and medium-sized water conservancy and hydropower projects, and newly created cultivated land from project construction may be deducted from or set off against the area of cultivated land occupied by construction.\nWhere sloping cultivated land of more than 25 degrees is occupied for the construction of large and medium-sized water conservancy and hydropower projects, it shall not be counted in the scope of cultivated land requiring replenishment."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Land Requisition Compensation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The local people's governments at or above the county level of the relocation area and of the resettlement area shall be responsible for organising the implementation of the resettlement plan."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Before a large and medium-sized water conservancy and hydropower project commences, the project legal person shall, on the basis of the approved resettlement plan, conclude a resettlement agreement with the people's government of the province, autonomous region or municipality directly under the Central Government or with the people's government of the city or county where the relocation area and the resettlement area are located; the people's government of the province, autonomous region or municipality directly under the Central Government or the people's government of the city that has concluded the agreement may conclude a resettlement agreement with the people's government at the next lower level that has tasks of relocation or resettlement."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The project legal person shall, in accordance with the requirements of the construction of the large and medium-sized water conservancy and hydropower project and the resettlement plan, within 60 days after the end of the flood season each year, put forward to the local people's government with which it has concluded the resettlement agreement suggestions for the resettlement plan for the following year; the local people's government with which the resettlement agreement has been concluded shall, in accordance with the resettlement plan and the suggestions of the project legal person for the annual resettlement plan, and on the basis of full consultation with the project legal person, organise the preparation and issuance of the annual resettlement plan for the following year for its administrative area."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The project legal person shall, in accordance with the annual resettlement plan and the progress of resettlement implementation, pay the funds for compensation for land acquisition and resettlement to the local people's government with which it has concluded the resettlement agreement."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where rural resettlers are resettled in a centralised manner in the same county through newly developed land or readjusted land, the county people's government shall pay the land compensation fees, resettlement subsidies and compensation fees for collective property directly and in full to the collective economic organisation of the village or to the villagers' committee.\nWhere rural resettlers are resettled in a dispersed manner in other village collective economic organisations or villagers' committees within the same county, the village collective economic organisation or villagers' committee of the resettlement village shall conclude an agreement with the county people's government and arrange the production and daily life of the resettlers in accordance with the agreement."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where rural resettlers are resettled in other counties within the administrative area of the same province, the local people's government that has concluded the resettlement agreement with the project legal person shall promptly hand over the corresponding funds for compensation for land acquisition and resettlement to the county people's government of the resettlement area for arranging the production and daily life of the resettlers.\nWhere rural resettlers are resettled across provinces, the project legal person shall promptly hand over the corresponding funds for compensation for land acquisition and resettlement to the people's government of the province, autonomous region or municipality directly under the Central Government of the resettlement area for arranging the production and daily life of the resettlers."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Moving expenses and compensation fees for personal property such as the houses and ancillary buildings of resettlers, scattered trees owned by individuals, young crops and sideline agricultural facilities shall be paid by the county people's government of the relocation area directly and in full to the resettlers."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where resettlers voluntarily join relatives or friends, they shall themselves submit an application to the county people's government of the relocation area and submit a certificate of acceptance issued by the county people's government of the place of acceptance; after the county people's government of the relocation area has confirmed that they have land and other means of agricultural production, it shall conclude an agreement with the county people's government of the place of acceptance and with the resettlers, hand over the land compensation fees and resettlement subsidies to the county people's government of the place of acceptance for the overall arrangement of the production and daily life of the resettlers, and pay the compensation fees for personal property and the moving expenses to the resettlers themselves."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Compensation fees for the relocation and reconstruction of towns (market towns), for the relocation and reconstruction of industrial and mining enterprises and for the relocation or reconstruction of special facilities shall be handed over by the local people's government at or above the county level of the relocation area to the local people's government or to the relevant unit. Expenses increased as a result of expansion of scale or raising of standards shall be resolved by the relevant local people's government or the relevant unit itself."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Rural residential areas for the centralised resettlement of rural resettlers shall be relocated and reconstructed in accordance with the scale and standards determined in the approved resettlement plan.\nInfrastructure such as roads, water supply and power supply in rural residential areas for the centralised resettlement of rural resettlers shall be organised and constructed uniformly by the township (town) and the village.\nHousing for rural resettlers shall be built by the resettlers themselves. The relevant local people's government or the villagers' committee shall plan the house sites uniformly, but shall not impose building standards by coercion."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Land used for the resettlement of rural resettlers shall be subject to the relevant formalities in accordance with the Land Administration Law of the People's Republic of China and the Law of the People's Republic of China on Rural Land Contracting."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "When the phased objectives of resettlement have been achieved and the work of resettlement has been completed, the people's government of the province, autonomous region or municipality directly under the Central Government or the resettlement administration of the State Council shall organise the relevant units to conduct acceptance inspection; where resettlement has not been subject to acceptance inspection or fails to pass acceptance inspection, the phased acceptance inspection and the completion acceptance inspection of the large and medium-sized water conservancy and hydropower project shall not be carried out."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Resettlement"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The local people's governments at or above the county level of the resettlement area shall prepare plans for later-stage support for reservoir resettlers and implement them after approval by the people's government at the next higher level or by its resettlement administration.\nIn preparing plans for later-stage support for reservoir resettlers, the opinions of resettlers shall be solicited extensively; where necessary, a hearing shall be held.\nThe approved plan for later-stage support for reservoir resettlers is the basic basis for later-stage support for reservoir resettlers and shall be strictly implemented and shall not be adjusted or modified at will; where adjustment or modification is truly necessary, it shall be submitted to the original approving authority for approval.\nWhere no plan for later-stage support for reservoir resettlers has been prepared or the plan for later-stage support for reservoir resettlers has not been approved, the relevant units shall not allocate funds for later-stage support for reservoir resettlers."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The plan for later-stage support for reservoir resettlers shall include such contents as the scope and duration of later-stage support, the specific measures and the objectives expected to be achieved. The local people's governments at or above the county level of the reservoir resettlement area shall take effective measures such as establishing a responsibility system to ensure the implementation of the plan for later-stage support."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Funds for later-stage support for reservoir resettlers shall, in accordance with the plan for later-stage support for reservoir resettlers, mainly be distributed to resettlers individually as subsidies for production and daily life; where necessary, support may be provided by project so as to resolve prominent problems existing in the production and daily life of resettler villages, or a method combining subsidies for production and daily life with support by project may be adopted. The specific support standards and duration and the raising, use and administration of funds shall be governed by the relevant provisions of the State Council.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the principles prescribed by the State and in the light of the actual circumstances of their administrative areas, formulate specific implementing measures for later-stage support for reservoir resettlers and implement them after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "People's governments at all levels shall strengthen the construction of infrastructure such as communications, energy, water conservancy, environmental protection, telecommunications, culture, education, health, radio and television in resettlement areas and support the development of resettlement areas.\nThe local people's governments of resettlement areas shall incorporate later-stage support for reservoir resettlers into the national economic and social development plans of the people's governments at the same level."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Production and construction projects established by the State in resettlement areas and in areas benefiting from large and medium-sized water conservancy and hydropower projects shall give priority to employing resettlers who meet the conditions."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The water surface formed after the completion of a large and medium-sized water conservancy and hydropower project and the land in the drawdown zone of the reservoir shall be owned by the State and shall be managed by the unit managing the project, and may, on the premise of submitting to the unified dispatch of the reservoir, ensuring the safety of the project and conforming to the requirements of soil and water conservation and water quality protection, be allocated with priority through the local county people's government for use by local rural resettlers."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "When the State arranges funds for basic farmland and for water conservancy construction, it shall give priority to supporting the counties where resettlement areas are located."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments shall strengthen training in scientific and cultural knowledge and in practical skills for resettlers, strengthen publicity and education in the legal system, improve the quality of resettlers and enhance their employability."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The local people's governments at all levels and their relevant departments of areas benefiting from large and medium-sized water conservancy and hydropower projects shall, in accordance with the principles of complementing each other's advantages, mutual benefit, long-term cooperation and common development, provide support to resettlement areas in various forms."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Subsequent Support"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State exercises supervision over the whole process of resettlement and of later-stage support for reservoir resettlers. The people's governments of provinces, autonomous regions and municipalities directly under the Central Government and the resettlement administration of the State Council shall strengthen supervision over resettlement and later-stage support for reservoir resettlers and shall promptly take measures when problems are found."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State implements an inspection system for the allocation, use and administration of funds for compensation for land acquisition and resettlement and of funds for later-stage support for reservoir resettlers, and conducts, in accordance with the law, audits of economic responsibility during their term of office for the persons in charge of the relevant local people's governments and their relevant departments that allocate, use and administer funds for compensation for land acquisition and resettlement and funds for later-stage support for reservoir resettlers."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen supervision over the allocation, use and administration of funds for compensation for land acquisition and resettlement and of funds for later-stage support for reservoir resettlers by people's governments at lower levels and by their relevant departments or institutions such as those for finance, development and reform, and resettlement.\nLocal people's governments at or above the county level or their resettlement administrations shall strengthen the administration of funds for compensation for land acquisition and resettlement and of funds for later-stage support for reservoir resettlers, regularly report to the people's government at the next higher level or to its resettlement administration and notify the project legal person of the allocation, use and administration of the relevant funds."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Audit and supervisory organs at all levels shall, in accordance with the law, strengthen auditing and supervision over the allocation, use and administration of funds for compensation for land acquisition and resettlement and of funds for later-stage support for reservoir resettlers.\nThe finance departments of people's governments at or above the county level shall strengthen supervision over the allocation, use and administration of funds for compensation for land acquisition and resettlement and of funds for later-stage support for reservoir resettlers.\nWhen audit and supervisory organs and finance departments conduct auditing, supervision and inspection, the relevant units and individuals shall cooperate and promptly provide the relevant materials."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State exercises supervision and evaluation over the whole process of resettlement. The local people's government with which the resettlement agreement has been concluded and the project legal person shall, by way of tender, jointly entrust a resettlement supervision and evaluation unit to supervise and evaluate the progress of the relocation of resettlers, the quality of resettlement, the allocation and use of resettlement funds and the restoration of the living standards of resettlers; the entrusted party shall promptly report the supervision and evaluation to the entrusting party."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Funds for compensation for land acquisition and resettlement shall be deposited in a special account and accounted for in separate books, and the interest accrued during the period of deposit shall be included in the funds for compensation for land acquisition and resettlement and shall not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The county people's governments of the relocation area and of the resettlement area shall, with the village as the unit, make public to the masses the area and types of land expropriated for the large and medium-sized water conservancy and hydropower project, the results of the survey of physical assets, the scope, standards and amounts of compensation and the resettlement scheme. Where the masses raise objections, the county people's government shall promptly verify them and correct matters in which the statistical survey results are inaccurate; where verification shows that there is no error, it shall promptly explain the matter to the masses.\nTownships (towns) and villages with resettlement tasks shall establish and improve financial management systems for funds for compensation for land acquisition and resettlement and shall post the income and expenditure of funds for compensation for land acquisition and resettlement for public inspection and accept supervision by the masses; the plan for the use of land compensation fees and of compensation fees for collective property shall be discussed and adopted by the villagers' meeting or by the meeting of villagers' representatives.\nThe people's governments of townships (towns) and the villagers' (residents') committees of resettlement areas shall take effective measures to help resettlers adapt to local production and daily life and promptly mediate and resolve disputes."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Local people's governments at or above the county level or their resettlement administrations and project legal persons shall establish archives of resettlement work and manage them in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State effectively safeguards the lawful rights and interests of resettlers.\nIn the course of compensation for land acquisition and resettlement, where resettlers consider that their lawful rights and interests have been infringed, they may report the matter to the people's government at or above the county level or to its resettlement administration in accordance with the law, and the people's government at or above the county level or its resettlement administration shall verify the problems reported by the resettlers and properly resolve them. Resettlers may also institute legal proceedings in a people's court in accordance with the law.\nAfter resettlement, resettlers shall enjoy the same rights and bear the same obligations as the local residents of the resettlement area."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Resettlers who must relocate in accordance with the resettlement plan shall not delay relocation or refuse to relocate without justified reasons. Resettlers who have been resettled shall not move back."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a relevant local people's government, resettlement administration, project examination and approval department or other relevant department commits any of the following acts, administrative sanctions shall be imposed in accordance with the law on the persons directly in charge and on the other persons directly responsible; where serious consequences are caused and the persons responsible constitute a crime, criminal responsibility shall be investigated in accordance with the law:\n(a) approving the outline of a resettlement plan, a resettlement plan or a plan for later-stage support for reservoir resettlers in violation of the provisions;\n(b) approving or verifying a construction project of a large and medium-sized water conservancy and hydropower project for which no resettlement plan has been prepared or whose resettlement plan has not been examined, in violation of the provisions;\n(c) carrying out the phased acceptance inspection or the completion acceptance inspection of a large and medium-sized water conservancy and hydropower project where resettlement has not been subject to acceptance inspection or fails to pass acceptance inspection;\n(d) allocating funds for later-stage support for reservoir resettlers by the relevant units where no plan for later-stage support for reservoir resettlers has been prepared;\n(e) failing to investigate and deal with illegal acts discovered in the course of the administration, supervision and organisation of implementation of resettlement;\n(f) failing to promptly handle problems discovered in the course of resettlement, thereby causing serious consequences, and committing other illegal acts such as abuse of power and dereliction of duty."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the competent department of the project or a relevant local people's government and its relevant department adjusts or modifies the outline of a resettlement plan, a resettlement plan or a plan for later-stage support for reservoir resettlers, the relevant people's government or its relevant department or institution that approved the outline of the plan or the plan shall order rectification and impose administrative sanctions in accordance with the law on the persons directly in charge and on the other persons directly responsible; where major losses are caused and the persons responsible constitute a crime, criminal responsibility shall be investigated in accordance with the law.\nWhere, in violation of the provisions of these Regulations, the project legal person adjusts or modifies the outline of a resettlement plan or a resettlement plan, the relevant people's government or its relevant department or institution that approved the outline of the plan or the plan shall order rectification and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; impose a fine of not less than RMB 10,000 but not more than RMB 50,000 on the persons directly in charge and on the other persons directly responsible; where major losses are caused and the persons responsible constitute a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, falsehood is practised in preparing the outline of a resettlement plan, a resettlement plan or a plan for later-stage support for reservoir resettlers, or in carrying out the survey of physical assets or the supervision and evaluation of resettlement, the relevant people's government or its relevant department or institution that approved the outline of the plan or the plan shall order rectification and impose a fine of not less than RMB 100,000 but not more than RMB 500,000 on the relevant unit and a fine of not less than RMB 10,000 but not more than RMB 50,000 on the persons directly in charge and on the other persons directly responsible; where losses are caused to others, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, funds for compensation for land acquisition and resettlement or funds for later-stage support for reservoir resettlers are misappropriated, withheld or embezzled, the funds shall be ordered to be returned and compensated, and a fine of not more than three times the amount of funds misappropriated, withheld or embezzled shall be imposed, administrative sanctions shall be imposed in accordance with the law on the persons directly in charge and on the other persons responsible; where a crime is constituted, criminal responsibility of the persons responsible shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, relocation is delayed or refused, the local people's government or its resettlement administration may apply to a people's court for compulsory enforcement; where the laws and regulations on the administration of public security are violated, a penalty for the administration of public security shall be imposed in accordance with the law; where a crime is constituted, criminal responsibility of the persons responsible shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The resettlement work of the Three Gorges Project on the Yangtze River shall be carried out in accordance with the Regulations on the Resettlement for the Construction of the Three Gorges Project on the Yangtze River.\nThe work of compensation for land acquisition and resettlement of the South-to-North Water Diversion Project shall be carried out in accordance with these Regulations. However, the preparation and approval of the resettlement plans for the first-phase projects of the middle route and of the eastern route of the South-to-North Water Diversion Project shall be carried out in accordance with the provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 September 2006. The Regulations on Compensation for Land Acquisition and Resettlement for the Construction of Large and Medium-Sized Water Conservancy and Hydropower Projects promulgated by the State Council on 15 February 1991 are repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0045'] = {
     "lawId": "CN-REG-0045",
     "sourceLang": "zh",
@@ -7389,6 +11022,1455 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0050'] = {
+    "lawId": "CN-REG-0050",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 58 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Surveying and Mapping Law of the People's Republic of China in order to strengthen map administration, safeguard national sovereignty, security and interests, promote the sound development of the geoinformation industry and serve economic construction, social development and the daily life of the people."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations shall be observed in carrying out, within the territory of the People's Republic of China, the compilation, examination and publication of maps made public to society and online map services, as well as activities of supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Map work shall follow the principles of safeguarding national sovereignty, ensuring the security of geoinformation and facilitating the daily life of the people.\nThe compilation, examination and publication of maps and online map services shall comply with the provisions of the relevant laws and regulations on confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of surveying, mapping and geoinformation under the State Council shall be responsible for the unified supervision and administration of map work throughout the country. Other relevant departments under the State Council shall be responsible for the relevant map work in accordance with the division of duties prescribed by the State Council.\nThe administrative department responsible for the administration of surveying, mapping and geoinformation work of a local people's government at or above the county level (hereinafter referred to as the competent department of surveying, mapping and geoinformation) shall be responsible for the unified supervision and administration of map work within its administrative area. Other relevant departments of a local people's government at or above the county level shall be responsible for the relevant map work in accordance with the division of duties prescribed by the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "People's governments at all levels, their relevant departments and the news media shall strengthen publicity and education on the national territory and enhance citizens' awareness of the national territory.\nEducation on awareness of the national territory shall be incorporated into the teaching content of primary and secondary schools.\nCitizens, legal persons and other organisations shall use maps that correctly represent the national territory."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages the compilation and publication of various map products that conform to standards and provisions, supports scientific and technological innovation and industrial development in geoinformation, accelerates the structural adjustment and optimisation and upgrading of the geoinformation industry and promotes the in-depth application of geoinformation.\nPeople's governments at or above the county level shall establish and improve mechanisms for the co-construction and sharing of geoinformation resources among government departments.\nThe competent departments of surveying, mapping and geoinformation of people's governments at or above the county level shall take effective measures to promptly acquire, process and update basic geoinformation data, provide geoinformation public services to society through the geoinformation public service platform and achieve the open sharing of geoinformation data."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Units engaging in map compilation activities shall obtain the corresponding surveying and mapping qualification certificate in accordance with the law and shall carry out map compilation work within the scope permitted by their qualification grade."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Map Compilation"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In compiling maps, the relevant State standards for map compilation shall be implemented and the relevant State provisions on the representation of map content shall be observed.\nThe following content shall not be represented on maps:\n(a) content that endangers national unity, sovereignty and territorial integrity;\n(b) content that endangers national security or damages national honour and interests;\n(c) content that constitutes a State secret;\n(d) content that affects ethnic unity or infringes the customs and habits of ethnic groups;\n(e) other content that shall not be represented as provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Map Compilation"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In compiling maps, the most recent map materials shall be selected and promptly supplemented or updated, the geographical location, form, names and interrelationships of the various elements shall be correctly reflected, and the content shall conform to the purpose for which the map is used.\nIn compiling world maps and national maps that involve the national boundaries of the People's Republic of China, the territory of the People's Republic of China shall be represented in its entirety."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Map Compilation"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In drawing the national boundaries of the People's Republic of China, the historical boundaries of China, the boundaries between countries of the world and the historical boundaries between countries of the world on maps, the following provisions shall be observed:\n(a) the national boundaries of the People's Republic of China shall be drawn in accordance with the standard sample map of the method of drawing China's national boundary lines;\n(b) the historical boundaries of China shall be drawn in accordance with the actual historical boundaries on the basis of the relevant historical materials;\n(c) the boundaries between countries of the world shall be drawn in accordance with the reference sample map of the method of drawing the national boundary lines of countries of the world;\n(d) the historical boundaries between countries of the world shall be drawn in accordance with the actual historical boundaries on the basis of the relevant historical materials.\nThe standard sample map of the method of drawing China's national boundary lines and the reference sample map of the method of drawing the national boundary lines of countries of the world shall be drafted by the Ministry of Foreign Affairs and the competent department of surveying, mapping and geoinformation under the State Council and shall be promulgated after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Map Compilation"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The drawing on maps of the boundaries or scope of administrative areas at or above the county level of China shall conform to the standard drawing map of the boundaries of administrative areas, the administrative area maps of the special administrative regions approved and promulgated by the State Council and other relevant provisions of the State.\nThe standard drawing map of the boundaries of administrative areas shall be drafted by the civil affairs department under the State Council and the competent department of surveying, mapping and geoinformation under the State Council and shall be promulgated after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Map Compilation"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where important geoinformation data are represented on maps, the important geoinformation data promulgated in accordance with the law shall be used."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Map Compilation"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where maps are compiled using surveying and mapping results that involve State secrets, the surveying and mapping results that have undergone confidentiality technical processing by the competent department of surveying, mapping and geoinformation under the State Council or by the competent department of surveying, mapping and geoinformation of the people's government of the province, autonomous region or municipality directly under the Central Government shall be used in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Map Compilation"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent departments of surveying, mapping and geoinformation of people's governments at or above the county level shall promulgate public-benefit maps to society for use free of charge.\nThe competent departments of surveying, mapping and geoinformation of people's governments at or above the county level shall promptly organise the collection of information on changes in administrative divisions, place names, communications, river systems, vegetation, public facilities, residential areas and the like that are related to map content, for use in periodically updating public-benefit maps. The relevant departments and units shall promptly provide the relevant updated materials."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Map Compilation"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State implements a map examination system.\nMaps made public to society shall be submitted to the competent department of surveying, mapping and geoinformation with the authority to examine them for examination. Maps with simple content such as scenic area maps, street block maps and metro route maps are excepted.\nNo fees shall be charged for map examination."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where maps are published, the publishing unit shall submit them for examination; where maps that are not publications are displayed or carried, the person displaying or carrying them shall submit them for examination; where maps that are not publications, or products with maps affixed, are imported, the importer shall submit them for examination; where maps that are publications are imported, the relevant provisions of the Regulations on the Administration of Publication shall be applied; where maps that are not publications, or products with maps affixed, are exported, the exporter shall submit them for examination; where products with maps affixed are produced, the producer shall submit them for examination.\nThe following materials shall be submitted for examination:\n(a) an application form for map examination;\n(b) a sample map or sample product requiring examination;\n(c) the surveying and mapping qualification certificate of the map compilation unit.\nFor the import of maps that are not publications and of products with maps affixed, only the materials prescribed in subparagraphs (a) and (b) of the preceding paragraph need be submitted. Where maps are compiled using surveying and mapping results that involve State secrets, a certificate of confidentiality technical processing shall also be submitted."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The competent department of surveying, mapping and geoinformation under the State Council shall be responsible for the examination of the following maps:\n(a) national maps and maps whose main area represented covers the administrative areas of two or more provinces, autonomous regions or municipalities directly under the Central Government;\n(b) maps of the Hong Kong Special Administrative Region, maps of the Macao Special Administrative Region and maps of the Taiwan region;\n(c) world maps and maps whose main area represented is located abroad;\n(d) historical maps."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent department of surveying, mapping and geoinformation of the people's government of a province, autonomous region or municipality directly under the Central Government shall be responsible for examining maps whose main area represented is within its administrative area. Among them, maps whose main area represented is within the administrative area of a city with districts and which do not involve national boundary lines shall be examined by the competent department of surveying, mapping and geoinformation of the people's government of the city with districts."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The competent department of surveying, mapping and geoinformation with the authority to examine maps shall make an examination decision within 20 working days from the date of acceptance of the application for map examination.\nFor maps for current affairs publicity and for maps inserted in or attached to books, newspapers and periodicals that have high requirements for timeliness, an examination decision shall be made within seven working days from the date of acceptance of the application for map examination.\nWhere maps are needed for special circumstances such as emergency support, they shall be examined immediately upon submission."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Maps involving specialised content shall be examined in accordance with the examination basis formulated by the competent department of surveying, mapping and geoinformation under the State Council together with the relevant departments. Where there is no clear examination basis, the competent department of surveying, mapping and geoinformation with the authority to examine maps shall solicit the opinions of the relevant departments, and the relevant departments shall put forward their opinions within 20 working days from the date of receipt of the materials for soliciting opinions. The time for soliciting opinions shall not be counted in the time limit for map examination.\nWhere there is no clear examination basis for world maps, historical maps or maps for current affairs publicity, the competent department of surveying, mapping and geoinformation under the State Council shall examine them after consultation with the Ministry of Foreign Affairs."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where maps submitted for examination conform to the following provisions, the competent department of surveying, mapping and geoinformation with the authority to examine maps shall issue a map examination and approval document and indicate the map examination number:\n(a) they conform to the relevant State standards for map compilation and represent the territory of the People's Republic of China in its entirety;\n(b) national boundaries, boundaries, historical boundaries, the boundaries or scope of administrative areas, important geoinformation data, place names and the like conform to the relevant State provisions on the representation of map content;\n(c) they do not contain content that shall not be represented on maps.\nThe map examination and approval document and the map examination number shall promptly be announced on the website of the competent department of surveying, mapping and geoinformation with the authority to examine maps or in other news media."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Examined and approved maps shall have the map examination number conspicuously marked in an appropriate position on the map or on the product with a map affixed. Where they are publications, the map examination number shall be marked on the copyright page."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Nationwide teaching maps for primary and secondary schools shall be organised for approval by the education administrative department under the State Council together with the competent department of surveying, mapping and geoinformation under the State Council and the Ministry of Foreign Affairs; local teaching maps for primary and secondary schools shall be organised for approval by the education administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government together with the competent department of surveying, mapping and geoinformation of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "No unit or individual shall publish, display, carry, sell, import or export maps that do not conform to the relevant State standards and provisions, and shall not carry or send by post maps that do not conform to the relevant State standards and provisions into or out of the territory.\nWhere maps are imported or exported, the map examination and approval document and the map examination number shall be submitted to the customs."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "For examined and approved maps, the person submitting them for examination shall, in accordance with the relevant provisions, deliver samples free of charge to the competent department of surveying, mapping and geoinformation with the authority to examine maps."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Map Examination"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The publication administrative departments of people's governments at or above the county level shall strengthen the supervision and administration of map publication activities and investigate and deal with illegal acts of map publication in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Map Publication"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a publishing unit engages in map publication activities, it shall have a map publication business scope examined and approved by the publication administrative department under the State Council and shall complete the examination and approval formalities in accordance with the relevant provisions of the Regulations on the Administration of Publication."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Map Publication"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Publishing units may, as needed, insert or attach examined and approved maps in publications."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Map Publication"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "No publishing unit shall publish teaching maps for primary and secondary schools that have not been approved."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Map Publication"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a publishing unit publishes maps, it shall deliver samples free of charge to the National Library of China, the Archives Library of Chinese Publications and the publication administrative department under the State Council in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Map Publication"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The protection of copyright in maps shall be governed by the provisions of the relevant laws and regulations on copyright."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Map Publication"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State encourages and supports online map service units in carrying out the development and utilisation of geoinformation and value-added services.\nPeople's governments at or above the county level shall strengthen policy support for and supervision and administration of the online map service industry."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an online map service unit provides services to the public such as geographical positioning, the uploading and annotation of geoinformation and the development of map databases, it shall obtain the corresponding surveying and mapping qualification certificate in accordance with the law.\nWhere an online map service unit engages in online map publication activities, it shall undergo examination and approval by the publication administrative department under the State Council in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Online map service units shall locate the servers storing map data within the territory of the People's Republic of China and shall formulate online map data security management systems and safeguard measures.\nThe competent departments of surveying, mapping and geoinformation of people's governments at or above the county level shall, together with the relevant departments, strengthen the supervision and administration of online map data security."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where online map service units collect or use users' personal information, they shall expressly state the purpose, method and scope of the collection and use of the information and shall obtain the users' consent.\nWhere online map service units need to collect or use users' personal information, they shall make public the rules for collection and use and shall not divulge, tamper with, sell or unlawfully provide users' personal information to others.\nOnline map service units shall take technical measures and other necessary measures to prevent the divulgence or loss of users' personal information."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The map databases and other databases used by online map service units to provide services shall not store or record content that shall not be represented on maps in accordance with the relevant provisions of the State. Where an online map service unit discovers that map information transmitted on its website contains content that shall not be represented, it shall immediately stop the transmission, keep the relevant records and report to the competent department of surveying, mapping and geoinformation, the publication administrative department, the competent department of cybersecurity and informatisation and other relevant departments of the people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "No unit or individual shall upload or annotate through the Internet content that shall not be represented on maps in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Online map service units shall use maps examined and approved in accordance with the law, strengthen the verification and proofreading of newly added content of online maps, and file records with the competent department of surveying, mapping and geoinformation under the State Council or the competent department of surveying, mapping and geoinformation of the province, autonomous region or municipality directly under the Central Government in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Online map service units shall keep confidential the information involving State secrets and trade secrets obtained in the course of their work."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Online map service units shall strengthen industry self-discipline, advance the development of the industry credit system and improve their level of service."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The provisions of this Chapter apply to activities of online map services; where this Chapter does not provide for a matter, the other relevant provisions of these Regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Internet Map Services"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall, in accordance with the law, strengthen supervision and inspection of activities such as the compilation, publication, display, carrying, production, sale, import and export of maps."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "When the competent departments of surveying, mapping and geoinformation, the publication administrative departments and other relevant departments of people's governments at or above the county level conduct supervision and inspection in accordance with the law, they have the power to take the following measures:\n(a) enter the premises suspected of illegal acts relating to maps and carry out on-site inspection;\n(b) consult and copy the relevant contracts, invoices, account books and other materials;\n(c) seal up and seize maps suspected of being illegal, products with maps affixed and equipment, tools, raw materials and the like used to commit illegal acts relating to maps."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The competent department of surveying, mapping and geoinformation under the State Council and the publication administrative department under the State Council shall establish and improve a map supervision and administration information system, achieve the sharing of information resources and facilitate inquiry by the public."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The competent departments of surveying, mapping and geoinformation of people's governments at or above the county level shall, in accordance with the relevant State standards and technical specifications, strengthen the supervision and administration of map quality.\nUnits engaged in the compilation, publication, display, carrying, production, sale, import and export of maps shall establish and improve a map quality responsibility system and take effective measures to ensure map quality."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Any unit or individual has the right to report illegal acts relating to maps.\nThe people's government or the relevant department that receives the report shall promptly investigate and deal with it in accordance with the law and shall keep the informant confidential."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a people's government at or above the county level or its relevant department, in violation of the provisions of these Regulations, commits any of the following acts, the competent authority or the supervisory organ shall order rectification; where the circumstances are serious, sanctions shall be imposed in accordance with the law on the persons directly in charge and on the other persons directly responsible; where the acts of the persons directly in charge and of the other persons directly responsible constitute a crime, criminal responsibility shall be investigated in accordance with the law:\n(a) failing to make a decision on administrative licence or to handle an approval document in accordance with the law;\n(b) failing to investigate and deal with an illegal act discovered or a report of an illegal act received;\n(c) other acts of failing to perform duties in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person engages in map compilation activities or online map service activities without obtaining a surveying and mapping qualification certificate or beyond the scope permitted by the qualification grade, the penalty shall be imposed in accordance with the relevant provisions of the Surveying and Mapping Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a map that shall be submitted for examination is not submitted for examination, the person shall be ordered to rectify, be given a warning and have the illegal map or the product with a map affixed confiscated, and may be fined not more than RMB 100,000; where there are illegal gains, the illegal gains shall be confiscated; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a map that does not need to be submitted for examination does not conform to the relevant State standards and provisions, the person shall be ordered to rectify, be given a warning and have the illegal map or the product with a map affixed confiscated, and may be fined not more than RMB 100,000; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, a notice may be circulated to the public; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a map that has been examined and found not to conform to the relevant State standards and provisions is made public to society without having been modified in accordance with the examination requirements, the person shall be ordered to rectify, be given a warning and have the illegal map or the product with a map affixed confiscated, and may be fined not more than RMB 100,000; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, the person shall be ordered to suspend business for rectification, have the qualification grade lowered or have the surveying and mapping qualification certificate revoked, and a notice may be circulated to the public; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person practises fraud, forges application materials to obtain a map examination and approval document by deception, or forges or fraudulently uses a map examination and approval document or a map examination number, the person shall be ordered to stop the illegal act, be given a warning and have the illegal map and the product with a map affixed confiscated, and shall in addition be fined not less than RMB 100,000 but not more than RMB 200,000; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, the person shall be ordered to suspend business for rectification, have the qualification grade lowered or have the surveying and mapping qualification certificate revoked; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person fails to conspicuously mark the map examination number in an appropriate position on a map, or fails to deliver samples in accordance with the relevant provisions, the person shall be ordered to rectify and be given a warning; where the circumstances are serious, the person shall be ordered to suspend business for rectification, have the qualification grade lowered or have the surveying and mapping qualification certificate revoked."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, an online map service unit uses a map that has not been examined and approved in accordance with the law to provide services, or fails to verify and proofread newly added content of an online map, the unit shall be ordered to rectify, be given a warning and may be fined not more than RMB 200,000; where there are illegal gains, the illegal gains shall be confiscated; where the circumstances are serious, the unit shall be ordered to suspend business for rectification, have the qualification grade lowered or have the surveying and mapping qualification certificate revoked; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person uploads or annotates through the Internet content that shall not be represented on maps in accordance with the relevant provisions of the State, the person shall be ordered to rectify, be given a warning and may be fined not more than RMB 100,000; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The administrative penalties of lowering the qualification grade and revoking the surveying and mapping qualification certificate prescribed in these Regulations shall be decided by the department that issued the qualification certificate; other administrative penalties shall be decided by the competent department of surveying, mapping and geoinformation of the people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The administration of maps compiled by military units and the administration of nautical charts shall be governed by the provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 January 2016. The Regulations of the People's Republic of China on the Administration of the Compilation and Publication of Maps promulgated by the State Council on 10 July 1995 are repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0051'] = {
+    "lawId": "CN-REG-0051",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Water Law of the People's Republic of China, the Law of the People's Republic of China on the Prevention and Control of Water Pollution and other laws in order to strengthen groundwater administration, prevent and control the overexploitation and pollution of groundwater, safeguard the quality and sustainable use of groundwater and advance the development of ecological civilisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to activities such as the survey and planning of groundwater, its conservation and protection, the treatment of overexploitation, the prevention and control of pollution, and supervision and administration.\nGroundwater referred to in these Regulations means water occurring below the surface of the ground."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Groundwater administration shall adhere to the principles of overall planning, giving priority to water conservation, efficient utilisation and systematic treatment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent water administration department under the State Council shall be responsible for the unified supervision and administration of groundwater throughout the country. The competent department of ecology and environment under the State Council shall be responsible for the supervision and administration of the prevention and control of groundwater pollution throughout the country. The competent departments of natural resources and other departments under the State Council shall, in accordance with the division of duties, properly carry out the relevant work of groundwater survey and monitoring."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Local people's governments at or above the county level shall be responsible for groundwater administration within their respective administrative areas, shall incorporate groundwater administration into the national economic and social development plans at the same level, and shall take measures such as controlling the volume of extraction and preventing and controlling pollution so as to maintain a reasonable groundwater level and protect groundwater quality.\nThe competent water administration department of a local people's government at or above the county level shall, in accordance with its administrative authority, be responsible for the unified supervision and administration of groundwater within its administrative area. The competent department of ecology and environment of a local people's government shall be responsible for the supervision and administration of the prevention and control of groundwater pollution within its administrative area. The competent departments of natural resources and other departments of a local people's government at or above the county level shall, in accordance with the division of duties, properly carry out the relevant work of groundwater survey and monitoring and the like within their administrative area."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Units and individuals that use groundwater shall strengthen the administration of groundwater extraction works, conserve and protect groundwater and prevent groundwater pollution."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State Council applies a target responsibility system and an assessment and evaluation system to the administration and protection of groundwater by provinces, autonomous regions and municipalities directly under the Central Government. The relevant departments under the State Council shall, in accordance with the division of duties, be responsible for the specific organisation and implementation of the assessment and evaluation work."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Any unit or individual has the right to supervise and report acts that damage groundwater.\nUnits and individuals that have made outstanding contributions to the conservation, protection and administration of groundwater shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State strengthens publicity and education on the conservation and protection of groundwater and encourages and supports research, dissemination and application of advanced science and technology relating to groundwater."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State periodically organises the survey and evaluation of groundwater conditions. The survey and evaluation of groundwater conditions include the survey and evaluation of groundwater resources, the survey and evaluation of groundwater pollution, and hydrogeological survey and evaluation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Survey and Planning"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "People's governments at or above the county level shall organise the competent departments of water administration, natural resources, ecology and environment and other departments to carry out the survey and evaluation of groundwater conditions. The results of the survey and evaluation are an important basis for preparing plans for the protection and utilisation of groundwater and for the prevention and control of pollution and for the administration of groundwater. The results of the survey and evaluation shall be promulgated to society in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Survey and Planning"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent departments of water administration, natural resources, ecology and environment and other departments of people's governments at or above the county level shall, on the basis of the results of the survey and evaluation of groundwater conditions and taking overall account of factors such as the needs of economic and social development, the conditions of groundwater resources and the prevention and control of pollution, prepare the plans for the protection and utilisation of groundwater and for the prevention and control of pollution at the same level, and promulgate them to society after completing the procedures such as soliciting opinions and demonstration and evaluation in accordance with the law.\nThe plans for the protection and utilisation of groundwater and for the prevention and control of pollution are the basic basis for the conservation, protection, utilisation, restoration and treatment of groundwater. Such plans shall be subordinate to the comprehensive water resources plan and the environmental protection plan."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Survey and Planning"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The preparation of the national economic and social development plans, territorial space plans and other relevant plans and the layout of major construction projects shall be compatible with the conditions of groundwater resources and the requirements for groundwater protection, and shall be subject to scientific demonstration."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Survey and Planning"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where the preparation of special plans for industry, agriculture, municipal affairs, energy, the development of mineral resources and the like involves groundwater, their content shall be consistent with the plans for the protection and utilisation of groundwater and for the prevention and control of pollution."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Survey and Planning"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State establishes a groundwater reserve system. The competent water administration department under the State Council shall, together with the competent departments of natural resources, development and reform and other departments under the State Council, guide, coordinate and supervise and inspect the work of groundwater reserves.\nThe competent water administration department of a local people's government at or above the county level shall, together with the competent departments of natural resources, development and reform and other departments of the people's government at the same level, and in accordance with the groundwater conditions, climate conditions and the needs of water resource reserves within its administrative area, formulate a contingency plan for the use of groundwater reserves and submit it to the people's government at the same level for approval.\nExcept in years of exceptional drought and in the event of major emergencies, groundwater reserves shall not be used."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Survey and Planning"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State implements a system of total volume control over groundwater extraction. The competent water administration department under the State Council shall, together with the competent department of natural resources under the State Council, and on the basis of the exploitable volume of groundwater and the conditions of surface water resources of each province, autonomous region and municipality directly under the Central Government, formulate and assign the total volume control targets for groundwater extraction of each province, autonomous region and municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The competent water administration department of the people's government of a province, autonomous region or municipality directly under the Central Government shall, together with the relevant departments of the people's government at the same level and on the basis of the total volume control targets for groundwater extraction assigned by the State, formulate the total volume control targets for groundwater extraction and the groundwater level control targets for administrative areas at or above the county level within its administrative area, and after approval by the people's government of the province, autonomous region or municipality directly under the Central Government, assign them for implementation and report them to the competent water administration department under the State Council or to the river basin authority authorised by it for the record."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the competent water administration department of the people's government of a province, autonomous region or municipality directly under the Central Government formulates the total volume control targets for groundwater extraction and the groundwater level control targets for its administrative area and the matter involves areas on provincial boundaries that belong to the same hydrogeological unit, the targets shall be determined through consultation with the competent water administration departments of the people's governments of the neighbouring provinces, autonomous regions or municipalities directly under the Central Government. Where consultation fails, the targets shall be determined by the competent water administration department under the State Council together with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the total volume control targets for groundwater extraction, the groundwater level control targets and the relevant technical standards of the State, rationally determine the layout of groundwater extraction works within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The competent water administration department of a local people's government at or above the county level shall, in accordance with the total volume control targets for groundwater extraction and the groundwater level control targets for its administrative area and with the scientifically analysed and calculated groundwater demand and water use structure, formulate an annual plan for groundwater extraction, exercise total volume control over the annual extraction and use of groundwater within its administrative area, and report the plan to the competent water administration department of the people's government at the next higher level for the record."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Units and individuals that extract or use groundwater shall comply with the requirements for total volume control and quota management, use advanced water-saving technologies, processes and equipment, take measures such as water recycling, comprehensive utilisation and the treatment and reuse of wastewater, carry out technological transformation and reduce water consumption.\nThe production, sale, import or use of the following processes, equipment and products shall be stopped within the prescribed time limit:\n(a) those included in the catalogue of backward processes, equipment and products to be eliminated that consume large amounts of water;\n(b) those included in the catalogue of processes that seriously pollute the water environment and are prohibited from adoption within a time limit, and in the catalogue of equipment that seriously pollutes the water environment and is prohibited from production, sale, import or use within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Newly built, reconstructed or expanded groundwater extraction works shall be installed with measuring facilities at the same time. Where existing groundwater extraction works have not been installed with measuring facilities, such facilities shall be installed within the time limit prescribed by the competent water administration department of the local people's government at or above the county level.\nWhere the volume of groundwater extracted by a unit or individual reaches the extraction scale or above, the unit or individual shall install online measuring facilities for groundwater extraction and transmit the measurement data in real time to the competent water administration department with administrative authority. The extraction scale shall be formulated and promulgated by the competent water administration department of the people's government of the province, autonomous region or municipality directly under the Central Government and reported to the competent water administration department under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "In areas where groundwater is used as the source of irrigation water, local people's governments at or above the county level shall take measures such as guaranteeing construction input, increasing credit support for enterprises and establishing and improving community-level water conservancy service systems, encourage the development of water-saving agriculture, and promote the application of water-saving irrigation technologies such as sprinkler irrigation, micro-irrigation, pipeline water conveyance irrigation and canal seepage-proof water conveyance irrigation, as well as advanced agricultural machinery, agronomic and biological technologies, so as to improve the efficiency of agricultural water use and economise on agricultural water use."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State Council shall, in accordance with the needs of national economic and social development, levy a water resources tax on a pilot basis on units and individuals that extract or use groundwater. The groundwater water resources tax shall be levied at differentiated tax rates on the basis of local groundwater resource conditions, the type of water extraction and use and economic development, and the levy standards shall be reasonably raised. Where the water resources tax is levied, the collection of water resources fees shall cease.\nIn provinces, autonomous regions and municipalities directly under the Central Government where the pilot levy of the water resources tax has not yet been carried out, for the same type of water extraction and use, the levy standard of water resources fees for groundwater shall be higher than the standard for surface water, the levy standard in groundwater overdraft areas shall be higher than the standard in areas that are not overdraft areas, and the levy standard in areas of serious groundwater overdraft shall be substantially higher than the standard in areas that are not overdraft areas."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "In any of the following circumstances, an application for a water extraction permit for the extraction of groundwater shall not be approved:\n(a) it does not conform to the requirements for total volume control of groundwater extraction or for groundwater level control;\n(b) it does not conform to the provisions on water extraction and use in areas where extraction is restricted;\n(c) it does not conform to the water use quota for the industry or the provisions on water conservation;\n(d) it does not conform to the mandatory national standards;\n(e) it involves the new construction, reconstruction or expansion of high water-consuming projects in areas where water resources are scarce or the ecology is fragile;\n(f) groundwater is extracted for reclamation and planting in violation of the provisions of laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Construction units and individuals shall take measures to prevent underground engineering construction from causing major adverse effects on groundwater recharge, runoff and discharge. For underground works excavated to a certain depth or reaching a certain scale of drainage, the construction unit and individual shall, before commencement of the works, report the construction plan and the plan of measures to prevent adverse effects on groundwater to the competent water administration department with administrative authority for the record. The excavation depth and the scale of drainage shall be formulated and promulgated by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Except in the following circumstances, the extraction of groundwater that is difficult to renew is prohibited:\n(a) water extraction for emergency water supply;\n(b) water for the daily life of residents in areas where there is no alternative water source;\n(c) the extraction of small quantities of water for the monitoring, exploration and testing of groundwater.\nWhere such groundwater has already been extracted, the relevant local people's government at or above the county level shall, except in the circumstances prescribed in the preceding paragraph, take measures to prohibit or restrict extraction and gradually achieve a comprehensive prohibition of extraction; once the circumstances prescribed in the preceding paragraph have ceased, the extraction and use of groundwater shall immediately stop."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen the protection of the recharge of groundwater sources, make full use of natural conditions to replenish groundwater and effectively conserve groundwater sources.\nUrban and rural construction shall take overall account of the needs of the conservation and recharge of groundwater sources, promote sponge-type buildings, roads, squares, parks and green spaces in accordance with the requirements for the construction of sponge cities, and gradually improve the system for the collection and utilisation of rain and flood water that combines retention, infiltration, storage and drainage. The improvement of rivers and lakes shall also take account of the conservation of groundwater sources and strengthen the protection and restoration of the natural forms of water bodies.\nUrban people's governments shall, in the light of local conditions, take effective measures to promote water-saving domestic water appliances, encourage the use of reclaimed water and improve the efficiency of water use."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the conditions and needs of groundwater sources, construct emergency standby drinking water sources and formulate contingency plans to ensure normal use when needed.\nAfter the emergency use of an emergency standby groundwater source has ended, the extraction of water shall immediately stop."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The relevant competent water administration departments of local people's governments at or above the county level shall, together with the relevant departments of the people's government at the same level, prepare protection schemes for important spring areas, clarify the scope of protection and the protection measures, and implement them after approval by the people's government at the same level.\nFor spring areas that have dried up but are of important historical, cultural and ecological value, measures shall be taken to restore them where conditions permit."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Conservation and Protection"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The competent water administration department under the State Council shall, together with the competent department of natural resources under the State Council and on the basis of the results of the survey and evaluation of groundwater conditions, organise the delimitation of groundwater overdraft areas throughout the country and promulgate them to society in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Over-Extraction"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent water administration department of the people's government of a province, autonomous region or municipality directly under the Central Government shall, together with the competent departments of natural resources and other departments of the people's government at the same level and taking overall account of factors such as the delimitation of groundwater overdraft areas, the situation of groundwater utilisation and the conditions of the geological environment, organise the delimitation of the areas where groundwater extraction is prohibited and the areas where groundwater extraction is restricted within its administrative area, promulgate them after approval by the people's government of the province, autonomous region or municipality directly under the Central Government, and report them to the competent water administration department under the State Council for the record.\nWhere adjustment of the areas where groundwater extraction is prohibited or restricted is truly necessary after delimitation, the adjustment shall be made in accordance with the original delimitation procedure."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Over-Extraction"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "In any of the following circumstances, the area shall be delimited as an area where groundwater extraction is prohibited:\n(a) areas where serious geological disasters such as land subsidence, ground fissures, seawater (saline water) intrusion and vegetation degradation, or ecological damage, have occurred;\n(b) areas within groundwater overdraft areas that are covered by the public water supply network or where the demand for water supply has already been met through alternative water sources;\n(c) other areas where the extraction of groundwater is prohibited as provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Over-Extraction"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In any of the following circumstances, the area shall be delimited as an area where groundwater extraction is restricted:\n(a) areas where the volume of groundwater extracted is approaching the exploitable volume;\n(b) areas where the extraction of groundwater may cause geological disasters or ecological damage;\n(c) other areas where the extraction of groundwater is restricted as provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Over-Extraction"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Except in the following circumstances, the extraction and use of groundwater is prohibited in areas where groundwater extraction is prohibited:\n(a) temporary emergency extraction (drainage) of water that is necessary to ensure the safety of underground engineering construction and the safety of production;\n(b) temporary emergency extraction of water to eliminate hazards to public safety or the public interest;\n(c) the extraction of small quantities of water for the monitoring, exploration and testing of groundwater.\nExcept in the circumstances prescribed in the preceding paragraph, the new extraction and use of groundwater is prohibited in areas where groundwater extraction is restricted, and the volume of groundwater extracted shall be gradually reduced; once the circumstances prescribed in the preceding paragraph have ceased, the extraction and use of groundwater shall immediately stop."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Over-Extraction"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The competent water administration department of the people's government of a province, autonomous region or municipality directly under the Central Government shall, together with the relevant departments of the people's government at the same level, prepare a comprehensive treatment scheme for groundwater overexploitation within its administrative area and, after approval by the people's government of the province, autonomous region or municipality directly under the Central Government, report it to the competent water administration department under the State Council for the record.\nThe comprehensive treatment scheme for groundwater overexploitation shall specify the treatment objectives, treatment measures and safeguard measures."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Over-Extraction"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Local people's governments at or above the county level of groundwater overdraft areas shall strengthen the development of a water-saving society and gradually achieve a balance between the extraction and recharge of groundwater through measures such as intensifying the construction of sponge cities, adjusting the planting structure, promoting water-saving agriculture, strengthening water conservation in industry and implementing the recharge of groundwater from rivers and lakes.\nThe State shall increase its support for the local people's governments of groundwater overdraft areas in such respects as the supply of alternative water sources, the construction of public water supply networks and the adjustment of the industrial structure."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Over-Extraction"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The relevant competent water administration departments of local people's governments at or above the county level shall, together with the competent departments of natural resources of the people's governments at the same level, strengthen the monitoring and prevention of seawater (saline water) intrusion. In areas where seawater (saline water) intrusion has already occurred, comprehensive treatment measures shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Over-Extraction"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The competent department of ecology and environment under the State Council shall, together with the competent departments of water administration, natural resources and other departments under the State Council, guide the delimitation of key areas for the prevention and control of groundwater pollution throughout the country. The competent department of ecology and environment of the people's government of a province, autonomous region or municipality directly under the Central Government shall, together with the competent departments of water administration, natural resources and other departments of the people's government at the same level and in accordance with the needs of the prevention and control of groundwater pollution within its administrative area, delimit the key areas for the prevention and control of groundwater pollution."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The following acts of polluting or possibly polluting groundwater are prohibited:\n(a) discharging water pollutants by means of seepage wells, seepage pits, fissures, karst caves, privately installed concealed pipes and other means of evading supervision;\n(b) using rock pores, fissures, karst caves, abandoned mine pits and the like to store petrochemical raw materials and products, pesticides, hazardous waste, sludge generated by urban sewage treatment facilities and treated sludge, or other toxic and harmful substances;\n(c) using ditches, pits and ponds without anti-seepage measures to convey or store wastewater containing toxic pollutants, sewage containing pathogens and other waste;\n(d) other acts of polluting or possibly polluting groundwater prohibited by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Enterprises, public institutions and other producers and operators shall take the following measures to prevent groundwater pollution:\n(a) in building underground engineering facilities or carrying out underground exploration, mining and other activities, the environmental impact assessment documents prepared in accordance with the law shall include content on the prevention and control of groundwater pollution, and protective measures shall be taken;\n(b) operators and managers of chemical production enterprises, industrial agglomeration areas, mining areas, tailings ponds, hazardous waste disposal sites, refuse landfills and the like shall take measures such as anti-seepage and construct groundwater quality monitoring wells for monitoring;\n(c) underground oil tanks of petrol stations and the like shall use double-layer tanks or adopt other effective measures such as the construction of anti-seepage pools, and shall be subject to anti-seepage monitoring;\n(d) sites where soluble highly toxic waste residues are stored shall be subject to measures against water, seepage and loss;\n(e) other measures to prevent groundwater pollution that shall be taken as provided by laws and regulations.\nIn accordance with the provisions of the competent department of ecology and environment under the State Council and on the basis of the discharge of toxic and harmful substances by the enterprises, public institutions and other producers and operators prescribed in subparagraph (b) of the preceding paragraph, the competent department of ecology and environment of the local people's government shall, after consultation with the relevant departments, determine and promulgate the list of key pollutant discharging units for the prevention and control of groundwater pollution. Key pollutant discharging units for the prevention and control of groundwater pollution shall, in accordance with the law, install automatic monitoring equipment for the discharge of water pollutants, connect it to the monitoring equipment of the competent department of ecology and environment, and ensure the normal operation of the monitoring equipment."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Within the scope of protection of spring areas and within areas where karst is strongly developed and where there are many sinkholes and karst funnels, no new construction, reconstruction or expansion of construction projects that may cause groundwater pollution shall be undertaken."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The extraction and recharge of groundwater in multi-layer aquifers shall prevent cross-layer pollution.\nWhere the water quality of the aquifers of multi-layer groundwater differs greatly, extraction shall be carried out by layers; polluted unconfined water and confined water shall not be extracted in a mixed manner.\nWhere cross-layer pollution of groundwater has already occurred, the wells extracting across layers shall be backfilled within the time limit in accordance with the technical requirements for well sealing, and the resulting groundwater pollution shall be treated and restored.\nArtificial recharge to replenish groundwater shall conform to the relevant water quality standards and shall not cause deterioration of groundwater quality."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Agricultural producers and operators and other relevant units and individuals shall use agricultural inputs such as pesticides and fertilisers in a scientific and rational manner, and water used for farmland irrigation shall conform to the relevant water quality standards so as to prevent groundwater pollution.\nLocal people's governments at or above the county level and their relevant departments shall strengthen guidance on the use of agricultural inputs such as pesticides and fertilisers and provide technical services, and encourage and guide agricultural producers and operators and other relevant units and individuals to use such agricultural inputs rationally so as to prevent groundwater pollution."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "In accordance with the relevant provisions of the Law of the People's Republic of China on the Prevention and Control of Soil Pollution, where soil pollution in plots of agricultural land in the safe utilisation category or the strict control category affects or may affect the safety of groundwater, the plan for the prevention and control of pollution shall include content on the prevention and control of groundwater pollution.\nFor plots of construction land where the content of pollutants exceeds the soil pollution risk control standards, the report on the soil pollution risk assessment shall include content on whether groundwater has been polluted; for plots of construction land included in the list for risk control and restoration, the risk control measures taken shall include content on the prevention and control of groundwater pollution.\nFor plots of agricultural land requiring restoration and plots of construction land included in the list for risk control and restoration, the restoration plan shall include content on the prevention and control of groundwater pollution."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Pollution Prevention and Control"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The competent departments of water administration, natural resources, ecology and environment and other departments of people's governments at or above the county level shall, in accordance with their duties, strengthen supervision and administration and improve the mechanisms for collaboration and cooperation.\nThe competent departments of water administration, natural resources, ecology and environment and other departments under the State Council shall establish a unified national groundwater monitoring station network and a mechanism for sharing groundwater monitoring information, and carry out dynamic monitoring of groundwater.\nThe competent departments of water administration, natural resources, ecology and environment and other departments of local people's governments at or above the county level shall, as needed, improve the groundwater monitoring work system and strengthen groundwater monitoring."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "No unit or individual shall encroach upon, damage or arbitrarily move groundwater monitoring facilities and equipment or their markers.\nNewly built, reconstructed or expanded construction projects shall avoid groundwater monitoring facilities and equipment; where avoidance is truly impossible and the groundwater monitoring facilities and equipment need to be dismantled, the competent departments of water administration, natural resources, ecology and environment and other departments of the people's government at or above the county level shall organise their relocation and reconstruction in accordance with the relevant technical requirements, and the costs of relocation and reconstruction shall be borne by the construction unit.\nNo unit or individual shall tamper with or forge groundwater monitoring data."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Units and individuals that construct groundwater extraction works shall attach the construction plan for the groundwater extraction works when applying for a water extraction permit, and shall carry out construction themselves or entrust a unit with the corresponding professional and technical capacity in accordance with the requirements of the approval document for the water extraction permit. A construction unit shall not undertake groundwater extraction works for which a water extraction permit should be obtained but has not been obtained.\nFor groundwater extraction works for the purpose of monitoring and exploration, no application for a water extraction permit is required, and the construction unit shall report them to the competent water administration department with jurisdiction for the record before construction.\nThe owner of groundwater extraction works shall be responsible for the safety management of the works."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The competent water administration departments of local people's governments at or above the county level shall register groundwater extraction works within their respective administrative areas and establish a supervision and administration system.\nAbandoned mines, boreholes and groundwater extraction works, or groundwater extraction works that have not been completed, that have completed exploration tasks or whose water extraction shall cease in accordance with the law, shall be sealed or backfilled by the owner or management unit of the works; the owner or management unit shall inform the competent water administration department of the local people's government at or above the county level of the sealing or backfilling; where the owner or management unit cannot be determined, the local people's government at or above the county level or the department authorised by it shall be responsible for organising the implementation of the sealing or backfilling.\nThe sealing or backfilling shall conform to the relevant technical standards of the State."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Local people's governments at or above the county level shall organise the competent departments of water administration, natural resources, ecology and environment and other departments to delimit centralised groundwater drinking water sources and promulgate the list thereof, and periodically organise safety assessments of groundwater drinking water sources."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The competent water administration departments of local people's governments at or above the county level shall, together with the competent departments of natural resources and other departments of the people's governments at the same level and in accordance with the hydrogeological conditions and the requirements for groundwater protection, delimit the scope in which water extraction is prohibited or restricted for geothermal energy development and utilisation projects that require the extraction of water.\nThe construction of geothermal energy development and utilisation projects that require the extraction of water is prohibited in centralised groundwater drinking water sources. The extraction of groundwater that is difficult to renew for use in geothermal energy development and utilisation projects that require the extraction of water is prohibited.\nFor the construction of geothermal energy development and utilisation projects that require the extraction of water, the extraction and recharge of water shall be measured, an equal volume of water shall be extracted from and recharged into the same aquifer, and no pollution of groundwater shall be caused. Where the extraction scale is reached or exceeded, online measuring facilities for extraction and recharge shall be installed and the measurement data shall be transmitted in real time to the competent water administration department with administrative authority. The extraction scale shall be formulated and promulgated by the competent water administration department of the people's government of the province, autonomous region or municipality directly under the Central Government.\nFor existing geothermal energy development and utilisation projects that require the extraction of water and do not conform to the provisions of paragraphs 1, 2 and 3 of this Article, the units and individuals extracting water shall carry out rectification within the time limit prescribed by the competent water administration department, and those that fail to pass the rectification shall be closed down."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where the volume of dewatering discharge from mineral resource mining or underground engineering construction reaches the prescribed scale, an application for a water extraction permit shall be made in accordance with the law, measuring facilities for drainage shall be installed, and the volume of dewatering discharge and the groundwater level shall be periodically reported to the authority examining and approving the water extraction permit. The scale of dewatering discharge shall be formulated and promulgated by the people's government of the province, autonomous region or municipality directly under the Central Government.\nWhere temporary emergency extraction (drainage) of water is necessary to ensure the safety of the construction of underground works such as mines and the safety of production, no application for a water extraction permit is required. The unit or individual extracting (draining) water shall, within five working days after the end of the temporary emergency extraction (drainage) of water, report the matter to the competent water administration department of the local people's government at or above the county level with administrative authority for the record.\nDewatering discharge from mineral resource mining or underground engineering construction shall be utilised as a priority, and where it cannot be utilised, it shall be discharged after meeting the standards."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The competent departments of water administration, ecology and environment and other departments of people's governments at or above the county level shall establish credit files for units and individuals engaged in activities of conserving, protecting and utilising groundwater, record the results of routine supervision and inspection, the investigation and handling of illegal acts and the like, and publicise them to society in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a local people's government at or above the county level, or the competent departments of water administration, ecology and environment and natural resources of a people's government at or above the county level, or any other department with duties of groundwater supervision and administration commits any of the following acts, the authority at the next higher level shall order rectification and impose sanctions in accordance with the law on the responsible persons in charge and on the other persons directly responsible:\n(a) failing to take effective measures, resulting in the expansion of the scope of groundwater overexploitation within its administrative area, or in groundwater pollution that has not been improved or has even deteriorated;\n(b) failing to fulfil the total volume control targets for groundwater extraction and the groundwater level control targets within its administrative area;\n(c) failing to take the relevant measures where the groundwater level is lower than the control level;\n(d) failing to investigate and deal with an illegal act discovered or a report of an illegal act received;\n(e) other illegal acts such as abuse of power, dereliction of duty and engaging in malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, groundwater is extracted without approval, or water pollutants are discharged by means of seepage wells, seepage pits, fissures, karst caves, privately installed concealed pipes and other means of evading supervision, or other illegal acts are committed, the penalty shall be imposed in accordance with the provisions of the Water Law of the People's Republic of China, the Law of the People's Republic of China on the Prevention and Control of Water Pollution, the Law of the People's Republic of China on the Prevention and Control of Soil Pollution, the Regulations on the Administration of Water Extraction Licensing and the Collection of Water Resources Fees and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where groundwater extraction works have not been installed with measuring facilities, the competent water administration department of the local people's government at or above the county level shall order their installation within a time limit, levy the relevant fees on the basis of the volume of water extracted calculated at the maximum daily extraction capacity, and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where the circumstances are serious, the water extraction permit shall be revoked.\nWhere measuring facilities are substandard or do not operate normally, the competent water administration department of the local people's government at or above the county level shall order their replacement or repair within a time limit; where they are not replaced or repaired within the time limit, the relevant fees shall be levied on the basis of the volume of water extracted calculated at the maximum daily extraction capacity, and a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed; where the circumstances are serious, the water extraction permit shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where underground engineering construction causes major adverse effects on groundwater recharge, runoff and discharge, the competent water administration department of the local people's government at or above the county level shall order the taking of measures within a time limit to eliminate the adverse effects and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where measures are not taken within the time limit to eliminate the adverse effects, the competent water administration department of the local people's government at or above the county level shall organise the taking of measures to eliminate the adverse effects, and the costs incurred shall be borne by the person committing the illegal act.\nWhere, in underground engineering construction, the construction plan and the plan of measures to prevent adverse effects on groundwater should be filed before commencement of the works but are not filed, or where the volume of dewatering discharge and the groundwater level should be periodically reported for dewatering discharge from mineral resource mining or underground engineering construction but are not reported, the competent water administration department of the local people's government at or above the county level shall order supplementary filing or reporting within a time limit; where supplementary filing or reporting is not made within the time limit, a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where abandoned mines, boreholes and groundwater extraction works, or groundwater extraction works that have not been completed, that have completed exploration tasks or whose water extraction shall cease in accordance with the law, are not sealed or backfilled in accordance with the provisions, the people's government at or above the county level or the department authorised by it shall order the sealing or backfilling and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where the person lacks the capacity to seal or backfill, the people's government at or above the county level or the department authorised by it shall organise the sealing or backfilling, and the costs incurred shall be borne by the person committing the illegal act."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where rock pores, fissures, karst caves, abandoned mine pits and the like are used to store petrochemical raw materials and products, pesticides, hazardous waste or other toxic and harmful substances, the competent department of ecology and environment of the local people's government shall order correction within a time limit and impose a fine of not less than RMB 100,000 but not more than RMB 1 million.\nWhere rock pores, fissures, karst caves, abandoned mine pits and the like are used to store sludge generated by urban sewage treatment facilities and treated sludge, the competent department of urban drainage of the local people's government at or above the county level shall order correction within a time limit and impose a fine of not less than RMB 200,000 but not more than RMB 2 million, and impose a fine of not less than RMB 20,000 but not more than RMB 100,000 on the persons directly in charge and on the other persons directly responsible; where serious consequences are caused, a fine of not less than RMB 2 million but not more than RMB 5 million shall be imposed, and a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed on the persons directly in charge and on the other persons directly responsible.\nWhere, within the scope of protection of spring areas or within areas where karst is strongly developed and where there are many sinkholes and karst funnels, a construction project causing groundwater pollution is newly built, reconstructed or expanded, the competent department of ecology and environment of the local people's government shall impose a fine of not less than RMB 100,000 but not more than RMB 500,000 and, after approval by the people's government with the authority to approve, order the demolition or closure of the project."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where groundwater monitoring facilities and equipment or their markers are encroached upon, damaged or arbitrarily moved, the competent departments of water administration, natural resources and ecology and environment of the local people's government at or above the county level shall order the cessation of the illegal act, order the taking of remedial measures within a time limit and impose a fine of not less than RMB 20,000 but not more than RMB 100,000; where remedial measures are not taken within the time limit, the competent departments of water administration, natural resources and ecology and environment of the local people's government at or above the county level shall organise the remediation, and the costs incurred shall be borne by the person committing the illegal act."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where groundwater extraction works for the purpose of monitoring and exploration should be filed before construction but are not filed, the competent water administration department of the local people's government at or above the county level shall order the completion of the filing formalities within a time limit; where the filing formalities are not completed within the time limit, it shall order the sealing or backfilling of the wells within a time limit and impose a fine of not less than RMB 20,000 but not more than RMB 100,000; where the wells are not sealed or backfilled within the time limit, the competent water administration department of the local people's government at or above the county level shall organise the sealing or backfilling, and the costs incurred shall be borne by the person committing the illegal act."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes an act in violation of public security administration, a penalty for the administration of public security shall be imposed by the public security organ in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The terms used in these Regulations have the following meanings:\nGroundwater extraction works means groundwater extraction wells and their supporting facilities, including water wells, water collection galleries, water collection tanks, infiltration galleries, injection wells, and the extraction wells and recharge wells of geothermal energy development and utilisation projects that require the extraction of water.\nGroundwater overdraft area means an area where the actual volume of groundwater extracted exceeds the exploitable volume, causing a continuous decline in the groundwater level and giving rise to ecological damage and geological disasters.\nGroundwater that is difficult to renew means groundwater that has no close hydraulic connection with atmospheric precipitation and surface water bodies and that cannot be recharged or is recharged very slowly."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 December 2021."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -11798,6 +16880,816 @@
     ]
   };
 
+  TR['CN-REG-0063'] = {
+    "lawId": "CN-REG-0063",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 68 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the administration of the film industry, develop and invigorate the film undertaking, meet the needs of the cultural life of the people and promote the development of socialist material civilisation and socialist spiritual civilisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to activities such as the production, import, export, distribution and screening of feature films, documentaries, science and education films, animated films, special-topic films and other films within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In engaging in activities such as the production, import, export, distribution and screening of films, the Constitution and the relevant laws and regulations shall be observed, and the orientation of serving the people and serving socialism shall be adhered to."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The radio, film and television administrative department under the State Council shall be in charge of film work throughout the country.\nThe film administrative department of a local people's government at or above the county level (hereinafter referred to as the film administrative department) shall, in accordance with the provisions of these Regulations, be responsible for the administration of film work within its administrative area."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State implements a licensing system for the shooting, import, export, distribution and screening of films and for the public screening of films. Without a licence, no unit or individual shall engage in activities of shooting, importing, distributing or screening films, and shall not import, export, distribute or screen films for which no licence has been obtained.\nLicences and approval documents issued in accordance with these Regulations shall not be leased, lent, sold or transferred in any other form."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "National social organisations of the film industry shall, in accordance with their articles of association and under the guidance of the radio, film and television administrative department under the State Council, exercise self-disciplinary management."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall give awards to units and individuals that have made notable contributions to the development of the film undertaking."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The establishment of a film production unit shall be subject to the following conditions:\n(a) having a name and articles of association for the film production unit;\n(b) having a sponsoring unit recognised by the radio, film and television administrative department under the State Council and a competent authority for that sponsoring unit;\n(c) having a definite business scope;\n(d) having an organisational structure and professional personnel suited to the needs of the business scope;\n(e) having funds, premises and equipment suited to the needs of the business scope;\n(f) other conditions prescribed by laws and administrative regulations.\nIn examining and approving the establishment of a film production unit, in addition to the conditions listed in the preceding paragraph, the plan for the total number, layout and structure of film production units formulated by the radio, film and television administrative department under the State Council shall also be met."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "An application for the establishment of a film production unit shall be examined and consented to by the film administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government where the unit is located and then submitted to the radio, film and television administrative department under the State Council for examination and approval.\nThe application shall state the following:\n(a) the name, address and economic nature of the film production unit;\n(b) the name, address and nature of the sponsoring unit of the film production unit and its competent authority;\n(c) the name, address and documents certifying the qualifications of the legal representative of the film production unit;\n(d) the sources and amount of the funds of the film production unit."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The radio, film and television administrative department under the State Council shall, within 90 days from the date of receipt of the application for the establishment of a film production unit, make a decision to approve or not to approve and notify the applicant. Where approval is given, the radio, film and television administrative department under the State Council shall issue a Film Shooting Licence, and the applicant shall, holding the Film Shooting Licence, complete the registration formalities with the administrative department for industry and commerce under the State Council and obtain a business licence in accordance with the law; where approval is not given, the reasons shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A film production unit shall, with all of its legal person property, enjoy civil rights and bear civil liabilities in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a film production unit changes or terminates, it shall report the matter to the radio, film and television administrative department under the State Council for approval and shall, in accordance with the law, complete the registration of change or the registration of cancellation with the administrative department for industry and commerce with which it was originally registered."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A film production unit may engage in the following activities:\n(a) shooting films;\n(b) making copies of the films it has shot in accordance with the relevant provisions of the State;\n(c) distributing throughout the country the films it has shot and which have been licensed for public screening, and copies thereof, in accordance with the relevant provisions of the State;\n(d) exporting the films it has shot and which have been licensed for public screening, and copies thereof, in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Film production units shall establish and improve management systems and guarantee the quality of films."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A film production unit shall enjoy copyright in the films it has shot in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a unit other than a film production unit independently engages in the business of film shooting, it shall report the matter to the radio, film and television administrative department under the State Council for approval and, holding the approval document, complete the corresponding registration formalities with the administrative department for industry and commerce.\nWhere a unit other than a film production unit shoots a film after approval, it shall, in advance, obtain from the radio, film and television administrative department under the State Council a one-off Film Shooting Licence (Single Film), and shall enjoy rights and bear obligations with reference to those of a film production unit. The specific measures shall be formulated by the radio, film and television administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State encourages enterprises, public institutions, other social organisations and individuals to participate in the shooting of films in the form of financial support or investment. The specific measures shall be formulated by the radio, film and television administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A film production unit may, with the approval of the radio, film and television administrative department under the State Council, cooperate with film producers outside the territory in shooting films; no other unit or individual may cooperate with film producers outside the territory in shooting films.\nA film production unit and a unit holding a Film Shooting Licence (Single Film) may, with the approval of the radio, film and television administrative department under the State Council, engage in film shooting activities outside the territory.\nNo organisation or individual outside the territory may independently engage in film shooting activities within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For the Sino-foreign cooperative shooting of films, the Chinese cooperator shall, in advance, submit a project application to the radio, film and television administrative department under the State Council. After soliciting the opinions of the relevant departments and upon examination showing conformity with the provisions, the radio, film and television administrative department under the State Council shall issue to the applicant a one-off Licence for the Sino-Foreign Cooperative Shooting of Films. After obtaining the Licence for the Sino-Foreign Cooperative Shooting of Films, the applicant shall conclude a contract for the Sino-foreign cooperative shooting of films in accordance with the provisions of the radio, film and television administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where equipment, materials, film stock or props need to be imported for the Sino-foreign cooperative shooting of films, the Chinese cooperator shall, holding the approval document of the radio, film and television administrative department under the State Council, complete the import or temporary import formalities with the customs."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where film producers outside the territory cooperate with Chinese cooperators or shoot films within the territory of the People's Republic of China in other forms, they shall observe the laws and regulations of the People's Republic of China and respect the customs and habits of the Chinese nation."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The development of film negatives and sample prints and post-production shall be completed within the territory of the People's Republic of China. Where it is truly necessary to complete them outside the territory due to special technical requirements, a separate application shall be made and, after approval by the radio, film and television administrative department under the State Council, the requirements stated in the approval document shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Film processing units shall not develop or print negatives or sample prints of films shot by units that have not obtained a Film Shooting Licence or a Film Shooting Licence (Single Film), and shall not develop or print copies of films that have not obtained a Film Public Screening Licence.\nWhere a film processing unit accepts a commission to develop and print film negatives, sample prints or film copies from outside the territory, it shall obtain the approval of the radio, film and television administrative department under the State Council in advance and, holding the approval document, complete the relevant import formalities with the customs in accordance with the law. All the developed and printed film negatives, sample prints and film copies shall be transported out of the territory."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Film Production"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State implements a film review system.\nFilms that have not passed the review of the film review institution of the radio, film and television administrative department under the State Council (hereinafter referred to as the film review institution) shall not be distributed, screened, imported or exported.\nThe import of special-topic films for reference in scientific research and teaching and the import of archive films by the China Film Archive shall be handled in accordance with the provisions of Article 32 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Film Examination"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Films are prohibited from containing the following content:\n(a) content opposing the basic principles established by the Constitution;\n(b) content endangering national unity, sovereignty and territorial integrity;\n(c) content divulging State secrets, endangering national security or damaging national honour and interests;\n(d) content inciting ethnic hatred or ethnic discrimination, undermining ethnic unity, or infringing the customs and habits of ethnic groups;\n(e) content propagating cults or superstition;\n(f) content disturbing social order or undermining social stability;\n(g) content propagating obscenity, gambling or violence, or instigating crime;\n(h) content insulting or defaming others, or infringing the lawful rights and interests of others;\n(i) content endangering social morality or the fine cultural traditions of the nation;\n(j) content containing other matters prohibited by laws, administrative regulations and the provisions of the State.\nThe technical quality of films shall conform to national standards."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Film Examination"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Film production units shall, in accordance with the provisions of Article 25 of these Regulations, be responsible for the review of film scripts before shooting begins and of films before they leave the factory.\nAfter a film production unit has reviewed a film script it intends to shoot in accordance with the provisions of the preceding paragraph, it shall report it to the film review institution for the record; the film review institution may review film scripts reported for the record and, upon discovering content prohibited by Article 25 of these Regulations, shall promptly notify the film production unit that shooting shall not begin. The specific measures shall be formulated by the radio, film and television administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Film Examination"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A film production unit shall, after completing the shooting of a film, submit it to the film review institution for review; a film import and business unit shall, after completing the temporary import formalities for a film, submit it to the film review institution for review.\nThe standards for film review fees shall be prescribed by the competent department of prices under the State Council together with the radio, film and television administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Film Examination"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The film review institution shall, within 30 days from the date of receipt of a film submitted for review, notify the unit submitting it in writing of the review decision. Where the film passes the review, the radio, film and television administrative department under the State Council shall issue a Film Public Screening Licence.\nThe film production unit or the film import and business unit shall print the licence number of the Film Public Screening Licence at the beginning of the first reel of the copy of the film.\nWhere a film fails the review and is submitted for re-review after modification, the review period shall be recalculated in accordance with the provisions of paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Film Examination"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a film production unit or a film import and business unit is dissatisfied with the review decision on a film, it may, within 30 days from the date of receipt of the review decision, apply to the film re-review institution of the radio, film and television administrative department under the State Council for re-review; where the film passes the re-review, the radio, film and television administrative department under the State Council shall issue a Film Public Screening Licence."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Film Examination"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The business of film import shall be operated by the film import and business units designated by the radio, film and television administrative department under the State Council; without designation, no unit or individual shall operate the business of film import."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Film Import and Export"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For the import of films for public screening, the films shall be submitted to the film review institution for review before import.\nFor films submitted to the film review institution for review, the designated film import and business unit shall, holding the temporary import approval document of the radio, film and television administrative department under the State Council, complete the temporary import formalities for the films with the customs; after the temporarily imported films pass the review of the film review institution and are issued a Film Public Screening Licence and an import approval document, the film import and business unit shall, holding the import approval document, complete the import formalities with the customs."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Film Import and Export"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For the import of special-topic films for reference in scientific research and teaching, the importing unit shall report the matter to the relevant administrative department under the State Council for examination and approval, complete the import formalities with the customs holding the approval document, and file a record with the radio, film and television administrative department under the State Council within 30 days from the date of import. However, feature films shall not be imported in the name of scientific research or teaching.\nWhere the China Film Archive imports archive films, it may directly complete the import formalities with the customs. The China Film Archive shall file a quarterly record of the archive films it imports with the radio, film and television administrative department under the State Council.\nExcept as provided in this Article, no unit or individual shall import films that have not passed the review of the radio, film and television administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Film Import and Export"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A film import and business unit shall, after obtaining the licence to use the film work from the copyright owner, use the film work within the scope of the licence; where no licence to use has been obtained, no unit or individual shall use the imported film work."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Film Import and Export"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a film production unit exports films it has produced, it shall, holding the Film Public Screening Licence, complete the film export formalities with the customs.\nWhere films shot through Sino-foreign cooperation are exported, the Chinese cooperator shall, holding the Film Public Screening Licence, complete the export formalities with the customs. Where materials for films shot through Sino-foreign cooperation are exported, the Chinese cooperator shall, holding the approval document of the radio, film and television administrative department under the State Council, complete the export formalities with the customs.\nWhere China assists in the shooting of films or the export of film materials out of the territory, the Chinese assisting party shall, holding the approval document of the radio, film and television administrative department under the State Council, complete the formalities for leaving the territory with the customs."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Film Import and Export"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The holding of Sino-foreign film exhibitions and international film festivals and the provision of films for participation in film exhibitions and film festivals outside the territory shall be reported to the radio, film and television administrative department under the State Council for approval.\nFilms participating in the film exhibitions and film festivals prescribed in the preceding paragraph shall be submitted to the radio, film and television administrative department under the State Council for examination and approval. After films participating in film exhibitions and film festivals outside the territory are approved, the participants shall, holding the approval document of the radio, film and television administrative department under the State Council, complete the temporary export formalities for the films with the customs. After films from outside the territory participating in Sino-foreign film exhibitions and international film festivals held within the territory of China are approved, the organisers shall, holding the approval document of the radio, film and television administrative department under the State Council, complete the temporary import formalities with the customs."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Film Import and Export"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The establishment of a film distribution unit or a film screening unit shall be subject to the following conditions:\n(a) having a name and articles of association for the film distribution unit or the film screening unit;\n(b) having a definite business scope;\n(c) having an organisational structure and professional personnel suited to the needs of the business scope;\n(d) having funds, premises and equipment suited to the needs of the business scope;\n(e) other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "An application for the establishment of a film distribution unit shall be submitted to the film administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government where the unit is located; an application for the establishment of a film distribution unit operating across provinces, autonomous regions or municipalities directly under the Central Government shall be submitted to the radio, film and television administrative department under the State Council. The film administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government where the unit is located or the radio, film and television administrative department under the State Council shall, within 60 days from the date of receipt of the application, make a decision to approve or not to approve and notify the applicant. Where approval is given, a Film Distribution Business Licence shall be issued, and the applicant shall, holding the Film Distribution Business Licence, register with the administrative department for industry and commerce and obtain a business licence in accordance with the law; where approval is not given, the reasons shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "An application for the establishment of a film screening unit shall be submitted to the film administrative department of the people's government of the county or of the city with districts where the unit is located. The film administrative department of the people's government of the county or of the city with districts where the unit is located shall, within 60 days from the date of receipt of the application, make a decision to approve or not to approve and notify the applicant. Where approval is given, a Film Screening Business Licence shall be issued, and the applicant shall, holding the Film Screening Business Licence, register with the local administrative department for industry and commerce and obtain a business licence in accordance with the law; where approval is not given, the reasons shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a film distribution unit or a film screening unit changes its business scope, merges with another film distribution unit or film screening unit, or establishes a new film distribution unit or film screening unit as a result of merger or division, it shall complete the examination and approval formalities in accordance with the provisions of Article 37 or Article 38 of these Regulations and complete the corresponding registration formalities with the administrative department for industry and commerce.\nWhere a film distribution unit or a film screening unit changes its name, address, legal representative or principal person in charge, or terminates its film distribution or screening business activities, it shall complete the registration of change or the registration of cancellation with the administrative department for industry and commerce with which it was originally registered and file a record with the film administrative department that originally examined and approved it."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Units or individuals applying to engage in the business of distributing or screening 16mm films in rural areas may directly complete the registration formalities with the local administrative department for industry and commerce and file a record with the film administrative department of the local county people's government; after filing the record, they may engage in the business of distributing and screening 16mm films in rural areas throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State permits enterprises, public institutions, other social organisations and individuals to invest in the construction and renovation of cinemas.\nThe State permits the construction and renovation of cinemas by way of Sino-foreign equity joint ventures or Sino-foreign cooperative ventures. The specific measures shall be formulated by the radio, film and television administrative department under the State Council together with the culture administrative department under the State Council and the competent department of foreign economic relations and trade under the State Council in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Films may be distributed and screened only after obtaining the Film Public Screening Licence issued by the radio, film and television administrative department under the State Council in accordance with the law.\nFor films that have obtained the Film Public Screening Licence, the radio, film and television administrative department under the State Council may, in special circumstances, decide to cease their distribution and screening or to permit their distribution and screening only after modification; where the copyright owner of a film that may be distributed and screened only after modification refuses to make the modification, the radio, film and television administrative department under the State Council shall decide to cease its distribution and screening.\nDecisions to cease distribution and screening made by the radio, film and television administrative department under the State Council shall be executed by film distribution units and film screening units."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where audio-visual products are produced from films, the provisions of the State on the administration of audio-visual products shall be observed.\nNo unit or individual shall use archive films to engage in or in disguised form engage in profit-making distribution or screening activities."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The screening of films shall conform to the proportion of screening time for domestic films and imported films prescribed by the State.\nThe time spent by a screening unit on screening domestic films each year shall not be less than two-thirds of its total annual film screening time."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Film screening units shall maintain public order and environmental sanitation in cinemas and ensure the safety and health of audiences."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Film Distribution and Screening"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State establishes and improves a film management system suited to the socialist market economy and develops the film undertaking."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Support for the Film Industry"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State guarantees freedom of film creation, attaches importance to and cultivates film professionals, attaches importance to and strengthens theoretical research on film, invigorates film creation and improves film quality."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Support for the Film Industry"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State establishes a special fund for the development of the film undertaking and adopts other preferential measures to support the development of the film undertaking.\nUnits required to pay the special fund for the development of the film undertaking shall perform their payment obligations in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Support for the Film Industry"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The special fund for the development of the film undertaking supports and subsidises the following projects:\n(a) the shooting of key films advocated and confirmed by the State and the solicitation of outstanding film scripts;\n(b) the technological transformation of key production bases;\n(c) the renovation of cinemas and the technological transformation of screening facilities;\n(d) the development of the film undertaking in ethnic minority areas, remote and impoverished areas and rural areas;\n(e) other projects requiring subsidy."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Support for the Film Industry"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State encourages and supports the production, distribution and screening of science and education films, documentaries, animated films and films for children."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Support for the Film Industry"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State implements preferential policies for the distribution and screening of films in ethnic minority areas, remote and impoverished areas and rural areas.\nThe State supports units and individuals engaged in the business of distributing and screening 16mm films in rural areas. The specific measures shall be prescribed by the radio, film and television administrative department under the State Council and the culture administrative department under the State Council together with the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Support for the Film Industry"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The construction plans for their administrative areas formulated by local people's governments at or above the county level shall include plans for the construction of cinemas and screening facilities.\nThe renovation or demolition of cinemas and screening facilities shall be reported to the film administrative department of the local people's government at or above the county level for examination and approval, and the film administrative department of the people's government at or above the county level shall, in accordance with the relevant provisions of the State, make a decision to approve or not to approve."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Support for the Film Industry"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The film administrative departments and other relevant administrative departments of local people's governments at or above the county level shall promptly take measures to stop acts that interfere with, obstruct or disrupt the production, distribution and screening of films and shall investigate and deal with them in accordance with the law.\nThe mass media shall not publicise illegal films."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Support for the Film Industry"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the radio, film and television administrative department under the State Council, the film administrative department of a local people's government at or above the county level or any other relevant department, or their staff members, take advantage of their office to accept money, property or other benefits from others and approve film production, distribution and screening units that do not meet the statutory conditions for establishment, or fail to perform their supervisory duties, or fail to investigate and deal with illegal acts discovered, thereby causing serious consequences, criminal responsibility shall be investigated in accordance with the law on the responsible persons in charge and on the other persons directly responsible in accordance with the provisions of the Criminal Law on the crime of acceptance of bribes, the crime of abuse of power, the crime of dereliction of duty or other crimes; where the case is not serious enough for criminal punishment, an administrative sanction of demotion or removal from office shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person establishes a film production, distribution or screening unit without approval, or engages in film production, import, distribution or screening activities without approval, the administrative department for industry and commerce shall ban it; criminal responsibility shall be investigated in accordance with the law in accordance with the provisions of the Criminal Law on the crime of illegal business operation; where the case is not serious enough for criminal punishment, the illegally operated films, the illegal gains and the special tools and equipment used for the illegal business activities shall be confiscated; where the illegal gains are RMB 50,000 or more, a fine of not less than five times but not more than ten times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 50,000, a fine of not less than RMB 200,000 but not more than RMB 500,000 shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a person shoots films containing content prohibited by Article 25 of these Regulations, or develops, prints, imports, distributes or screens films that he knows or ought to know contain content prohibited by Article 25 of these Regulations, criminal responsibility shall be investigated in accordance with the law in accordance with the relevant provisions of the Criminal Law; where the case is not serious enough for criminal punishment, the film administrative department shall order the person to suspend business for rectification and confiscate the illegally operated films and the illegal gains; where the illegal gains are RMB 50,000 or more, a fine of not less than five times but not more than ten times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 50,000, a fine of not less than RMB 200,000 but not more than RMB 500,000 shall also be imposed; where the circumstances are serious, the licence-issuing authority that issued the licence shall also revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where films are smuggled, criminal responsibility shall be investigated in accordance with the law in accordance with the provisions of the Criminal Law on the crime of smuggling; where the case is not serious enough for criminal punishment, the customs shall impose an administrative penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a person exports, distributes or screens films for which no Film Public Screening Licence has been obtained, the film administrative department shall order the person to cease the illegal act and confiscate the illegally operated films and the illegal gains; where the illegal gains are RMB 50,000 or more, a fine of not less than ten times but not more than fifteen times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 50,000, a fine of not less than RMB 200,000 but not more than RMB 500,000 shall also be imposed; where the circumstances are serious, the person shall also be ordered to suspend business for rectification or the licence-issuing authority that issued the licence shall revoke the licence."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where any of the following acts is committed, the film administrative department shall order the cessation of the illegal act and confiscate the illegally operated films and the illegal gains; where the illegal gains are RMB 50,000 or more, a fine of not less than five times but not more than ten times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 50,000, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall also be imposed; where the circumstances are serious, the person shall also be ordered to suspend business for rectification or the licence-issuing authority that issued the licence shall revoke the licence:\n(a) cooperating with an organisation or individual outside the territory in shooting films without approval, or engaging in film shooting activities outside the territory without approval;\n(b) developing or post-producing film negatives or sample prints outside the territory without approval, or failing to follow the requirements stated in the approval document;\n(c) developing or printing negatives or sample prints of films shot by units that have not obtained a Film Shooting Licence or a Film Shooting Licence (Single Film), or developing or printing copies of films that have not obtained a Film Public Screening Licence;\n(d) accepting a commission to develop or print film negatives, sample prints or film copies from outside the territory without approval, or failing to transport out of the territory all the developed and printed film negatives, sample prints or film copies from outside the territory;\n(e) using archive films to engage in or in disguised form engage in profit-making distribution or screening activities;\n(f) failing to screen films in accordance with the prescribed proportion of time, or failing to execute the decision of the radio, film and television administrative department under the State Council to cease distribution and screening."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where an organisation or individual outside the territory independently engages in film shooting activities within the territory of the People's Republic of China, the radio, film and television administrative department under the State Council shall order the cessation of the illegal activities, confiscate the illegally shot films and the special tools and equipment used for the illegal activities, and impose a fine of not less than RMB 300,000 but not more than RMB 500,000."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a person holds a Sino-foreign film exhibition or an international film festival without approval, or provides films for participation in a film exhibition or film festival outside the territory without approval, the radio, film and television administrative department under the State Council shall order the cessation of the illegal activities and confiscate the films illegally entered in the exhibition and the illegal gains; where the illegal gains are RMB 20,000 or more, a fine of not less than five times but not more than ten times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 20,000, a fine of not less than RMB 20,000 but not more than RMB 100,000 shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a person renovates or demolishes a cinema or screening facilities without approval, the film administrative department of the local people's government at or above the county level shall order the restoration of the cinema or screening facilities to their original state within a time limit, give a warning, and impose disciplinary sanctions in accordance with the law on the responsible persons in charge and on the other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a unit violates these Regulations and is subject to the administrative penalty of revocation of its licence, it shall, in accordance with the relevant provisions of the State, complete the registration of change or the registration of cancellation with the administrative department for industry and commerce; where it fails to do so within the time limit, the administrative department for industry and commerce shall revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a unit violates these Regulations and is subject to the administrative penalty of revocation of its licence, its legal representative or principal person in charge shall not serve as the legal representative or principal person in charge of a film production, import, export, distribution or screening unit within five years from the date of revocation of the licence.\nWhere an individual violates these Regulations by engaging in the business of film production, import or distribution without approval, or by holding a Sino-foreign film exhibition or an international film festival without approval, or by providing films for participation in a film exhibition or film festival outside the territory without approval, the individual shall not engage in the relevant film business within five years."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a unit fails to perform its obligation to pay the special fund for the development of the film undertaking in accordance with the relevant provisions of the State, the film administrative department of the people's government at or above the provincial level shall order it to make supplementary payment within a time limit and shall, from the date of arrears, charge a late fee of 0.05 per cent of the amount in arrears per day."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The imposition of the administrative penalty of a fine in accordance with the provisions of these Regulations shall, in accordance with the provisions of the relevant laws and administrative regulations, separate the decision on the fine from the collection of the fine; all fines collected shall be turned over to the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The State implements an annual inspection system for the Film Shooting Licence, the Film Distribution Business Licence and the Film Screening Business Licence. The measures for annual inspection shall be formulated by the radio, film and television administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 February 2002. The Regulations on the Administration of Films promulgated by the State Council on 19 June 1996 are repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0064'] = {
     "lawId": "CN-REG-0064",
     "sourceLang": "zh",
@@ -12378,6 +18270,645 @@
         },
         "noLabel": {
           "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0067'] = {
+    "lawId": "CN-REG-0067",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 53 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to regulate foreign labour service cooperation, safeguard the lawful rights and interests of workers and promote the sound development of foreign labour service cooperation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Foreign labour service cooperation referred to in these Regulations means the profit-making activity of organising workers to go to other countries or regions to work for enterprises or institutions abroad (hereinafter collectively referred to as foreign employers).\nEnterprises, institutions or individuals abroad shall not recruit workers within the territory of China to work abroad."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State encourages and supports the conduct of foreign labour service cooperation in accordance with the law, raises the level of foreign labour service cooperation and safeguards the lawful rights and interests of workers.\nThe relevant departments under the State Council shall formulate and improve policies and measures for promoting the development of foreign labour service cooperation and establish and improve service systems for foreign labour service cooperation and mechanisms for risk prevention and disposal."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of commerce under the State Council shall be responsible for the supervision and administration of foreign labour service cooperation throughout the country. The relevant departments under the State Council, such as those for foreign affairs, public security, human resources and social security, transport, housing and urban-rural development, fisheries and industry and commerce administration, shall, within the scope of their respective duties, be responsible for the relevant work of supervision and administration of foreign labour service cooperation.\nLocal people's governments at or above the county level shall exercise unified leadership over, and organise and coordinate, the supervision and administration of foreign labour service cooperation within their respective administrative areas. The competent departments of commerce of local people's governments at or above the county level shall be responsible for the supervision and administration of foreign labour service cooperation within their respective administrative areas, and the other relevant departments shall, within the scope of their respective duties, be responsible for the relevant work of supervision and administration of foreign labour service cooperation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "To engage in foreign labour service cooperation, a person shall, in accordance with the provisions of the people's government of the province, autonomous region or municipality directly under the Central Government, obtain the approval of the competent department of commerce of the people's government at the provincial level or at the level of a city with districts and acquire the qualification to conduct foreign labour service cooperation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "An application for the qualification to conduct foreign labour service cooperation shall be subject to the following conditions:\n(a) conforming to the conditions for an enterprise legal person;\n(b) having paid-in registered capital of not less than RMB 6 million;\n(c) having three or more managerial personnel familiar with the business of foreign labour service cooperation;\n(d) having sound internal management systems and a system for responding to emergencies;\n(e) the legal representative having no record of intentional crime."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "An enterprise applying for the qualification to conduct foreign labour service cooperation shall submit to the competent department of commerce of the people's government at the provincial level or at the level of a city with districts where it is located (hereinafter referred to as the examining and approving department of commerce) supporting materials proving that it meets the conditions prescribed in Article 6 of these Regulations. The examining and approving department of commerce shall, within 20 working days from the date of receipt of the supporting materials, conduct an examination and make a decision to approve or not to approve. Where approval is granted, a qualification certificate for foreign labour service cooperation shall be issued; where approval is not granted, the applicant shall be notified in writing and the reasons shall be stated.\nThe applicant shall, holding the qualification certificate for foreign labour service cooperation, complete registration with the administrative department for industry and commerce in accordance with the law.\nThe examining and approving department of commerce shall report to the competent department of commerce under the State Council the list of enterprises that have lawfully obtained the qualification certificate for foreign labour service cooperation and completed registration (hereinafter referred to as foreign labour service cooperation enterprises), and the competent department of commerce under the State Council shall promptly notify the Chinese embassies and consulates abroad.\nA person that has not lawfully obtained the qualification certificate for foreign labour service cooperation and completed registration shall not engage in foreign labour service cooperation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall not permit another unit or individual to organise workers to work abroad in the name of the enterprise.\nNo unit or individual shall organise workers to work abroad in the name of business, tourism, study abroad or the like."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall, within five working days from the date of registration with the administrative department for industry and commerce, open a special account with a bank designated by the examining and approving department of commerce and deposit a risk disposal reserve fund for foreign labour service cooperation of not less than RMB 3 million (hereinafter referred to as the reserve fund). The reserve fund may also be deposited by submitting a bank guarantee of an equivalent amount to the examining and approving department of commerce.\nThe examining and approving department of commerce shall promulgate to society the list of foreign labour service cooperation enterprises that have deposited the reserve fund."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The reserve fund shall be used to pay the following expenses that a foreign labour service cooperation enterprise refuses to bear or is unable to bear:\n(a) service fees collected by the foreign labour service cooperation enterprise in violation of State provisions that shall be refunded to workers;\n(b) labour remuneration that shall be paid by the foreign labour service cooperation enterprise to workers in accordance with the law or as agreed;\n(c) expenses required for compensating workers for their losses in accordance with the law;\n(d) expenses required for the return of workers to China or for emergency relief in the event of an emergency.\nAfter the reserve fund has been used, the foreign labour service cooperation enterprise shall, within 20 working days from the date of use, restore the reserve fund to its original amount.\nThe specific measures for the deposit, use and supervision and administration of the reserve fund shall be formulated by the competent department of commerce under the State Council together with the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall not organise workers to work abroad in jobs related to gambling or pornographic activities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall arrange for workers to receive training in the vocational skills, safety precautions, foreign languages and the relevant laws, religious beliefs, customs and habits of the country or region where the employing project is located that are needed for working abroad; where workers have not been arranged to receive training, the enterprise shall not organise them to work abroad.\nWorkers shall receive training, master the relevant skills and knowledge needed for working abroad, and improve their ability to adapt to the requirements of jobs abroad and to take safety precautions."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall purchase personal accident insurance for workers for the period of their work abroad. However, this does not apply where the foreign labour service cooperation enterprise and the foreign employer have agreed that the foreign employer shall purchase such insurance for the workers."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall complete the exit formalities for workers and assist in completing formalities such as residence and work permits for workers abroad.\nAfter organising workers to leave the territory, a foreign labour service cooperation enterprise shall promptly report the relevant situation to the Chinese embassy or consulate in the country where the employing project is located."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Foreign labour service cooperation enterprises and workers shall observe the laws of the country or region where the employing project is located and respect the local religious beliefs, customs and habits and cultural traditions.\nForeign labour service cooperation enterprises and workers shall not engage in activities that harm national security or national interests."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall follow up and keep informed of the work and living conditions of workers abroad, assist in resolving the difficulties and problems in their work and daily life, and promptly convey the reasonable demands of workers to the foreign employer.\nWhere a foreign labour service cooperation enterprise dispatches more than 100 workers to the same country or region, it shall arrange accompanying managerial personnel and report the list of such personnel to the Chinese embassy or consulate in the country where the employing project is located for the record."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall formulate contingency plans for emergencies. Where an emergency occurs abroad, the foreign labour service cooperation enterprise shall promptly and properly handle it and shall immediately report to the Chinese embassy or consulate in the country where the employing project is located and to the relevant domestic departments."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where an emergency such as war, riot or major natural disaster occurs in the country or region where the employing project is located and the Chinese Government makes corresponding arrangements for risk avoidance, foreign labour service cooperation enterprises and workers shall submit to the arrangements and cooperate with them."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise ceases to carry out foreign labour service cooperation, it shall make proper arrangements for the workers it has dispatched who are still working abroad and report the arrangement plan to the examining and approving department of commerce for the record. The examining and approving department of commerce shall report the arrangement plan to the competent department of commerce under the State Council, and the competent department of commerce under the State Council shall promptly notify the Chinese embassies and consulates in the country where the employing project is located."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Workers have the right to complain to the competent department of commerce and other relevant departments about acts of a foreign labour service cooperation enterprise that violate the contract or otherwise infringe the lawful rights and interests of workers. The department receiving the complaint shall promptly handle it in accordance with the law within the scope of its duties and give feedback on the handling to the complainant."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Enterprises and Workers Engaged in Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall conclude a written labour service cooperation contract with the foreign employer; where no written labour service cooperation contract has been concluded with the foreign employer, the enterprise shall not organise workers to work abroad.\nThe labour service cooperation contract shall state the following matters relating to the protection of the rights and interests of workers:\n(a) the work content, workplace, working hours and rest and leave of the workers;\n(b) the term of the contract;\n(c) the labour remuneration of the workers and the method of its payment;\n(d) the payment of social insurance premiums for the workers;\n(e) the working conditions, labour protection, vocational training and protection against occupational hazards of the workers;\n(f) the welfare benefits and living conditions of the workers;\n(g) the handling of formalities such as residence and work permits for the workers abroad;\n(h) the purchase of personal accident insurance for the workers;\n(i) the economic compensation to the workers for the termination of their contracts for reasons attributable to the foreign employer;\n(j) assistance and relief to the workers in the event of an emergency;\n(k) liability for breach of contract."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise concludes a labour service cooperation contract with a foreign employer, it shall, in advance, acquaint itself with the circumstances of the foreign employer and of the employing project and with the relevant laws of the country or region where the employing project is located.\nWhere the laws of the country or region where the employing project is located provide that an enterprise or institution shall obtain approval to employ foreign workers, the foreign labour service cooperation enterprise may conclude a labour service cooperation contract only with an approved enterprise or institution.\nA foreign labour service cooperation enterprise shall not conclude a labour service cooperation contract with an individual abroad."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Except in the circumstances prescribed in paragraph 2 of this Article, a foreign labour service cooperation enterprise shall conclude a written service contract with workers; where no written service contract has been concluded with workers, the enterprise shall not organise them to work abroad. The service contract shall state the matters in the labour service cooperation contract that relate to the protection of the rights and interests of workers, as well as the service items, the service fees and the method of their collection, and liability for breach of contract.\nWhere a foreign labour service cooperation enterprise organises workers with whom it has established labour relations to work abroad, the labour contracts concluded with the workers shall state the matters in the labour service cooperation contract that relate to the protection of the rights and interests of workers; where no labour contract has been concluded with the workers, the enterprise shall not organise them to work abroad."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "When a foreign labour service cooperation enterprise concludes a service contract or a labour contract with workers, it shall truthfully inform the workers of the matters in the labour service cooperation contract that relate to the protection of their rights and interests and of other circumstances that the workers require to know, and shall clearly warn the workers of the risks of working abroad, including the risk to personal safety, and shall not conceal the relevant information from the workers or provide false information.\nA foreign labour service cooperation enterprise has the right to learn the basic personal circumstances of workers that are directly relevant to the conclusion of the service contract or labour contract, and the workers shall truthfully provide an account thereof."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Service fees charged by a foreign labour service cooperation enterprise to workers with whom it has concluded a service contract shall conform to the relevant provisions formulated by the competent department of prices under the State Council together with the competent department of commerce under the State Council.\nA foreign labour service cooperation enterprise shall not charge service fees to workers with whom it has concluded a labour contract.\nA foreign labour service cooperation enterprise shall not, under any pretext, collect deposits from workers or require workers to provide property security."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall, within 10 working days from the date of concluding a service contract or labour contract with workers, report copies of the service contract or labour contract and of the labour service cooperation contract together with the list of workers to the examining and approving department of commerce for the record. The examining and approving department of commerce shall report the employing project, the relevant information on the foreign employer and the list of workers to the competent department of commerce under the State Council.\nWhere the competent department of commerce finds that a service contract or labour contract or a labour service cooperation contract does not state the requisite matters in accordance with the provisions of these Regulations, it shall require the foreign labour service cooperation enterprise to make corrections."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A foreign labour service cooperation enterprise shall be responsible for assisting workers in concluding with the foreign employer a contract that determines the labour relationship, and shall ensure that the clauses in the contract relating to the protection of the rights and interests of workers are consistent with the corresponding clauses of the labour service cooperation contract."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Foreign labour service cooperation enterprises and workers shall honour their contracts and fully perform their respective obligations as agreed in the contracts."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the rights and interests actually enjoyed by workers abroad do not conform to the contract, the foreign labour service cooperation enterprise shall assist the workers in safeguarding their lawful rights and interests and require the foreign employer to perform its contractual obligations and compensate for losses; where the workers have not received due compensation, they have the right to require the foreign labour service cooperation enterprise to bear the corresponding liability for compensation. Where the foreign labour service cooperation enterprise does not assist the workers in claiming compensation from the foreign employer, the workers may claim compensation directly from the foreign labour service cooperation enterprise.\nWhere the rights and interests actually enjoyed by workers abroad do not conform to the laws of the country or region where the employing project is located, the foreign labour service cooperation enterprise shall assist the workers in safeguarding their lawful rights and interests and require the foreign employer to perform its obligations under the law and compensate for losses.\nWhere, owing to reasons such as the concealment of relevant information or the provision of false information by the foreign labour service cooperation enterprise, the rights and interests actually enjoyed by workers abroad do not conform to the contract, the foreign labour service cooperation enterprise shall bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Contracts Relating to Foreign Labour Service Cooperation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The competent department of commerce under the State Council shall, together with the relevant departments under the State Council, establish a system for collecting and circulating information on foreign labour service cooperation and provide information services to foreign labour service cooperation enterprises and workers free of charge."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The competent department of commerce under the State Council shall, together with the relevant departments under the State Council, establish a mechanism for monitoring and assessing the risks of foreign labour service cooperation, promptly publish the assessment results of the security situation of the relevant countries or regions, provide early warning information and guide foreign labour service cooperation enterprises in properly preventing security risks; where the security situation of the relevant country or region cannot guarantee the personal safety of workers, foreign labour service cooperation enterprises shall not organise workers to work in that country or region."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent department of commerce under the State Council shall, together with the statistics department under the State Council, establish a statistics system for foreign labour service cooperation, and promptly keep informed of, compile and analyse the development of foreign labour service cooperation."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall provide the necessary financial support for the training of workers.\nThe competent department of commerce under the State Council shall, together with the department of human resources and social security under the State Council, strengthen guidance and supervision over the training of workers."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the actual situation of foreign labour service cooperation in their areas and the provisions of the competent department of commerce under the State Council together with the relevant departments under the State Council, organise the establishment of service platforms for foreign labour service cooperation (hereinafter referred to as service platforms) to provide the relevant services to foreign labour service cooperation enterprises and workers free of charge, and encourage and guide foreign labour service cooperation enterprises to recruit workers through service platforms.\nThe competent department of commerce under the State Council shall, together with the relevant departments under the State Council, strengthen guidance and supervision over the operation of service platforms."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Chinese embassies and consulates abroad shall provide the necessary assistance to foreign labour service cooperation enterprises in learning about the circumstances of foreign employers and employing projects and the laws of the country or region where the employing project is located, safeguard the legitimate rights and interests abroad of foreign labour service cooperation enterprises and workers in accordance with their duties, and promptly notify the competent department of commerce under the State Council and the relevant people's governments of provinces, autonomous regions and municipalities directly under the Central Government of acts found to be in violation of the provisions of these Regulations.\nWorkers may lawfully and in an orderly manner report their demands to Chinese embassies and consulates abroad, and shall not disrupt the normal working order of the embassies and consulates."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The relevant departments under the State Council and the relevant local people's governments at or above the county level shall establish and improve mechanisms for early warning, prevention and emergency handling of emergencies in foreign labour service cooperation and formulate contingency plans for emergencies in foreign labour service cooperation.\nThe emergency handling of emergencies in foreign labour service cooperation shall be the responsibility of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the unit or individual that organised the workers to work abroad is located, and the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the workers are registered as residents shall provide cooperation.\nChinese embassies and consulates abroad shall assist in handling emergencies in foreign labour service cooperation."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The competent department of commerce under the State Council shall, together with the relevant departments under the State Council, establish a system of records of poor credit and public announcements for foreign labour service cooperation, and publish the acts of foreign labour service cooperation enterprises and foreign employers that fail to perform their contractual obligations and infringe the lawful rights and interests of workers, as well as the decisions on penalties for the illegal acts of foreign labour service cooperation enterprises."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Any unit or individual has the right to report to the competent departments of commerce, public security, industry and commerce administration and other relevant departments acts of organising workers to work abroad in violation of the provisions of these Regulations and other acts in violation of the provisions of these Regulations. The department receiving the report shall promptly handle it within the scope of its duties.\nThe competent department of commerce under the State Council shall, together with the public security department, the department of industry and commerce administration and other relevant departments under the State Council, establish and improve the relevant management systems to prevent and stop the illegal organisation of workers to work abroad."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Government Services and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a person engages in foreign labour service cooperation without lawfully obtaining the qualification to conduct foreign labour service cooperation, the competent department of commerce shall request the administrative department for industry and commerce to investigate, handle and ban it in accordance with the provisions of the Measures for the Investigation, Handling and Banning of Unlicensed Business Operations; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise falls under any of the following circumstances, the competent department of commerce shall revoke its qualification certificate for foreign labour service cooperation, and any illegal gains shall be confiscated:\n(a) organising workers to work abroad in the name of business, tourism, study abroad or the like;\n(b) permitting another unit or individual to organise workers to work abroad in the name of the enterprise;\n(c) organising workers to work abroad in jobs related to gambling or pornographic activities."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise fails to deposit or restore the reserve fund in accordance with the provisions of these Regulations, the competent department of commerce shall order it to rectify; where it refuses to rectify, its qualification certificate for foreign labour service cooperation shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise falls under any of the following circumstances, the competent department of commerce shall order it to rectify; where it refuses to rectify, a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed, and a fine of not less than RMB 10,000 but not more than RMB 30,000 shall be imposed on its principal person in charge:\n(a) organising workers to work abroad without arranging for them to receive training;\n(b) failing to purchase personal accident insurance for workers for the period of their work abroad in accordance with the provisions of these Regulations;\n(c) failing to arrange accompanying managerial personnel in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise falls under any of the following circumstances, the competent department of commerce shall order it to rectify and impose a fine of not less than RMB 100,000 but not more than RMB 200,000, and shall impose a fine of not less than RMB 20,000 but not more than RMB 50,000 on its principal person in charge; where major labour disputes or emergencies are caused abroad or other serious consequences are caused, its qualification certificate for foreign labour service cooperation shall be revoked:\n(a) organising workers to work abroad without concluding a labour service cooperation contract with the foreign employer;\n(b) organising workers to work abroad without concluding a service contract or labour contract with them in accordance with the provisions of these Regulations;\n(c) concluding a labour service cooperation contract with an unapproved foreign employer or with an individual abroad and organising workers to work abroad, in violation of the provisions of these Regulations;\n(d) concealing relevant information or providing false information when concluding a service contract or labour contract with workers;\n(e) failing to promptly handle an emergency that occurs abroad;\n(f) ceasing to carry out foreign labour service cooperation without making arrangements for the workers it has dispatched who are still working abroad.\nWhere the circumstances prescribed in subparagraph (d) of the preceding paragraph constitute a crime, criminal responsibility shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise charges service fees to workers with whom it has concluded a service contract in a manner that does not conform to the relevant provisions of the State, or collects deposits from workers or requires workers to provide property security, the competent department of prices shall impose a penalty in accordance with the provisions of the relevant laws and administrative regulations on prices.\nWhere a foreign labour service cooperation enterprise charges fees to workers with whom it has concluded a labour contract, a penalty shall be imposed in accordance with the provisions of the Labour Contract Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise falls under any of the following circumstances, the competent department of commerce shall order it to rectify; where it refuses to rectify, a fine of not less than RMB 10,000 but not more than RMB 20,000 shall be imposed, and a fine of not less than RMB 2,000 but not more than RMB 5,000 shall be imposed on its principal person in charge:\n(a) failing to report copies of the service contract or labour contract and of the labour service cooperation contract together with the list of workers to the competent department of commerce for the record;\n(b) failing to report the relevant situation to the Chinese embassy or consulate in the country where the employing project is located after organising workers to leave the territory, or failing to report the list of accompanying managerial personnel to the examining and approving department of commerce for the record in accordance with the provisions of these Regulations;\n(c) failing to formulate contingency plans for emergencies;\n(d) ceasing to carry out foreign labour service cooperation without reporting its arrangement plan for the workers to the competent department of commerce for the record.\nWhere a foreign labour service cooperation enterprise refuses to report copies of the service contract or labour contract and of the labour service cooperation contract to the competent department of commerce for the record, and the contracts do not state the requisite matters prescribed in these Regulations, or where it refuses to correct the requisite matters of the contracts as required by the competent department of commerce after the contracts have been filed for the record, a penalty shall be imposed in accordance with the provisions of Article 43 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in the course of investigating and dealing with acts in violation of these Regulations, the competent department of commerce or another relevant department finds that an illegal act is suspected of constituting a crime, it shall promptly transfer the case to the judicial organ for handling in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a staff member of the competent department of commerce or of another relevant department commits any of the following acts in the supervision and administration of foreign labour service cooperation, sanctions shall be imposed in accordance with the law; where a crime is constituted, criminal responsibility shall be investigated in accordance with the law:\n(a) approving an application for the qualification to conduct foreign labour service cooperation that does not meet the conditions prescribed in these Regulations;\n(b) failing to revoke the original approval where a foreign labour service cooperation enterprise no longer meets the conditions prescribed in these Regulations;\n(c) failing to investigate and deal with, in accordance with the law, acts of organising workers to work abroad in violation of the provisions of these Regulations and other acts in violation of the provisions of these Regulations;\n(d) other acts of abuse of power, dereliction of duty or engaging in malpractice for personal gain, or of failing to perform the duties of supervision and administration in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Chambers of commerce relating to foreign labour service cooperation shall carry out activities in accordance with their articles of association formulated in accordance with the law, provide services to their members and play a self-disciplinary role."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The administration of personnel dispatched abroad to work under foreign contracted projects shall be governed by the Regulations on the Administration of Foreign Contracted Projects and the provisions of the competent department of commerce under the State Council and the competent department of housing and urban-rural development under the State Council.\nThe measures for the administration of foreign labour service cooperation in respect of the dispatch of seafarers (excluding fishery crew members) shall be separately formulated by the competent department of transport under the State Council in accordance with the Regulations of the People's Republic of China on Seafarers and the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where workers are organised to work in the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region, the provisions of these Regulations shall be applied with reference."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a foreign labour service cooperation enterprise organises workers to work in a specific country or region determined by the competent department of commerce under the State Council together with the foreign affairs and other relevant departments under the State Council, it shall obtain the approval of the competent department of commerce under the State Council together with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Enterprises that were approved to engage in foreign labour service cooperation in accordance with the relevant provisions of the State before the entry into force of these Regulations but do not meet the conditions prescribed in these Regulations shall meet the conditions prescribed in these Regulations within the time limit prescribed by the competent department of commerce under the State Council; where they fail to do so within the time limit, they shall not continue to engage in foreign labour service cooperation."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 August 2012."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -14771,6 +21302,1596 @@
     ]
   };
 
+  TR['CN-REG-0076'] = {
+    "lawId": "CN-REG-0076",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 76 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Marine Environment Protection Law of the People's Republic of China for the purpose of preventing and controlling pollution of the marine environment by ships and their related operations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the prevention and control of pollution of the sea areas under the jurisdiction of the People's Republic of China by ships and their related operations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The prevention and control of pollution of the marine environment by ships and their related operations shall follow the principle of giving priority to prevention and combining prevention with control."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of transport of the State Council shall be responsible for the prevention and control of pollution of the marine environment by non-military ships in the waters of port areas under its jurisdiction and by non-fishery and non-military ships outside the waters of port areas.\nThe maritime safety administration shall, in accordance with these Regulations, be specifically responsible for the supervision and control of the prevention and control of pollution of the marine environment by ships and their related operations."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent department of transport of the State Council shall, in light of the needs of preventing and controlling pollution of the marine environment by ships and their related operations, organise the formulation of a plan for building the emergency response capacity for preventing and controlling pollution of the marine environment by ships and their related operations, and publish it for implementation after approval by the State Council.\nThe local people's governments at or above the level of a city with districts in coastal areas shall, in accordance with the plan for building the emergency response capacity approved by the State Council and in light of the actual circumstances of their respective areas, organise the formulation of corresponding plans for building the emergency response capacity for preventing and controlling pollution of the marine environment by ships and their related operations."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent department of transport of the State Council and the local people's governments at or above the level of a city with districts in coastal areas shall establish and improve an emergency response mechanism for preventing and controlling pollution of the marine environment by ships and their related operations, and formulate emergency plans for preventing and controlling pollution of the marine environment by ships and their related operations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The maritime safety administration shall, in light of the needs of preventing and controlling pollution of the marine environment by ships and their related operations, together with the competent department of ocean affairs, establish and improve a monitoring and surveillance mechanism for pollution of the marine environment by ships and their related operations, and strengthen the monitoring and surveillance of pollution of the marine environment by ships and their related operations."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent department of transport of the State Council and the local people's governments at or above the level of a city with districts in coastal areas shall, in accordance with the plan for building the emergency response capacity for preventing and controlling pollution of the marine environment by ships and their related operations, establish professional emergency response teams and warehouses of emergency equipment, and be equipped with special facilities, equipment and materials."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Any unit or individual that discovers that pollution of the marine environment has been caused or may be caused by ships or their related operations shall immediately report to the nearest maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The structure, equipment and materials of ships shall conform to the State technical specifications for the prevention and control of pollution of the marine environment by ships and the requirements of the international treaties concluded or acceded to by the People's Republic of China.\nShips shall, in accordance with the provisions of laws and administrative regulations, the provisions of the competent department of transport of the State Council and the requirements of the international treaties concluded or acceded to by the People's Republic of China, obtain and carry on board the corresponding certificates and documents for the prevention and control of pollution of the marine environment by ships."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Prevention of Pollution of the Marine Environment by Ships and Related Operations"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The owner, operator or manager of a ship of Chinese nationality shall, in accordance with the provisions of the competent department of transport of the State Council, establish and improve a management system for safe operation and the prevention of pollution from ships.\nThe maritime safety administration shall audit the management system for safe operation and the prevention of pollution from ships and, where the audit is satisfactory, issue a document of compliance and the corresponding ship safety management certificate."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Prevention of Pollution of the Marine Environment by Ships and Related Operations"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Ports, wharves, loading and unloading stations and units engaged in ship repair and building shall be equipped with pollution monitoring facilities and pollutant reception facilities appropriate to the types of cargo loaded and unloaded and the throughput capacity or the ship repair and building capacity, and shall keep such facilities in good condition."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Prevention of Pollution of the Marine Environment by Ships and Related Operations"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Units at ports, wharves and loading and unloading stations and units engaged in ship repair and building, salvage, dismantling and other operations shall formulate management systems for safe operation and pollution prevention, and be equipped with corresponding pollution prevention equipment and materials in accordance with the State norms and standards for the prevention and control of pollution of the marine environment by ships and their related operations.\nUnits at ports, wharves and loading and unloading stations and units engaged in ship repair and building, salvage, dismantling and other operations shall regularly inspect and maintain the pollution prevention equipment and materials provided, and ensure that such equipment and materials meet the requirements for the prevention and control of pollution of the marine environment by ships and their related operations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Prevention of Pollution of the Marine Environment by Ships and Related Operations"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Shipowners, operators or managers shall formulate emergency plans for the prevention and control of pollution of the marine environment by ships and their related operations, and file such plans with the maritime safety administration.\nThe operators of ports, wharves and loading and unloading stations and the relevant operating units shall formulate emergency plans for the prevention and control of pollution of the marine environment by ships and their related operations, and file such plans with the maritime safety administration and the competent department of environmental protection.\nShips, ports, wharves, loading and unloading stations and other relevant operating units shall, in accordance with the emergency plans, organise drills regularly and keep proper records."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Prevention of Pollution of the Marine Environment by Ships and Related Operations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Ship-generated garbage, domestic sewage, oily water, sewage containing toxic and harmful substances, exhaust gas and other pollutants, as well as ballast water, discharged by ships into the sea in the sea areas under the jurisdiction of the People's Republic of China shall meet the requirements of laws and administrative regulations, the international treaties concluded or acceded to by the People's Republic of China and the relevant standards.\nShips shall discharge pollutants that do not meet the discharge requirements specified in the preceding paragraph into port reception facilities or have them received by ship pollutant reception units.\nShips shall not discharge ship pollutants into marine nature reserves, coastal scenic and historic interest areas, important fishery waters and other sea areas requiring special protection that are designated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Discharge and Reception of Ship Pollutants"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Ships shall truthfully record the disposal of pollutants in the corresponding record books.\nShips shall keep used record books of ship-generated garbage on board for two years, and keep used record books of oily water and sewage containing toxic and harmful substances on board for three years."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Discharge and Reception of Ship Pollutants"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A ship pollutant reception unit engaged in the reception of ship-generated garbage, residual oil, oily water or sewage containing toxic and harmful substances shall prepare an operation plan, comply with the relevant operating procedures and take necessary pollution prevention measures. A ship pollutant reception unit shall, as required, report the reception of ship pollutants to the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Discharge and Reception of Ship Pollutants"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A ship pollutant reception unit shall, upon receiving ship pollutants, issue a pollutant reception document to the ship, which shall be signed and confirmed by both parties and kept for at least two years. The pollutant reception document shall state the names of both parties to the operation, the time and place of the commencement and completion of the operation, and the types and quantities of the pollutants. Ships shall keep the pollutant reception documents in the corresponding record books."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Discharge and Reception of Ship Pollutants"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A ship pollutant reception unit shall treat the ship pollutants received in accordance with the State provisions on the treatment of pollutants, and report the reception and treatment of ship pollutants monthly to the maritime safety administration for the record."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Discharge and Reception of Ship Pollutants"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Units engaged in ship tank cleaning, tank washing, supply and receipt of oil, loading and unloading, lighterage, repair and building, salvage, dismantling, packing and tank filling of pollution-hazardous cargo, pollution clean-up operations and operations using ships for surface and underwater construction shall comply with the relevant operating procedures and take necessary safety and pollution prevention measures.\nPersons engaged in the operations specified in the preceding paragraph shall have the professional knowledge and skills relating to safety and pollution prevention."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a ship does not meet the requirements for the carriage of pollution-hazardous cargo, it shall not carry pollution-hazardous cargo, and wharves and loading and unloading stations shall not carry out loading operations for it.\nThe catalogue of pollution-hazardous cargo shall be published by the State maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "For a ship carrying pollution-hazardous cargo into or out of a port, the carrier, cargo owner or agent shall submit an application to the maritime safety administration and may enter or leave the port or stay in transit only after approval."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A ship carrying pollution-hazardous cargo shall carry out loading and unloading operations at wharves and loading and unloading stations with the corresponding safe loading and unloading and pollutant treatment capacity published by the maritime safety administration."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The cargo owner or agent delivering pollution-hazardous cargo for carriage by ship shall ensure that the packaging and marks of the cargo conform to the relevant provisions on safety and pollution prevention, and shall accurately state on the transport documents the technical name, number, class (nature), quantity, precautions and emergency measures of the cargo.\nWhere the cargo owner or agent delivers cargo of unknown pollution hazard for carriage by ship, it shall entrust a relevant technical institution to conduct a hazard assessment to clarify the hazardous nature of the cargo and the relevant safety and pollution prevention requirements before delivering the cargo for carriage by ship."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the maritime safety administration considers that pollution-hazardous cargo delivered for carriage by ship should have been declared but was not declared, or that the contents declared do not conform to the actual situation, it may, in accordance with the provisions of the competent department of transport of the State Council, conduct inspection by such means as opening the packages.\nWhere the maritime safety administration inspects pollution-hazardous cargo, the cargo owner or agent shall be present and shall be responsible for moving the cargo and for opening and resealing the packaging of the cargo. Where the maritime safety administration considers it necessary, it may directly inspect, re-inspect or take samples of the cargo, and the relevant units and individuals shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "For a ship carrying out lighterage of pollution-hazardous cargo in bulk liquids, the carrier, cargo owner or agent shall submit an application to the maritime safety administration, inform it of the place of operation, and attach the lighterage operation plan, operating procedures, pollution prevention measures and other materials.\nThe maritime safety administration shall, within two working days from the date of accepting the application, make a decision on whether or not to grant a licence. Where it cannot make a decision within two working days, it may, with the approval of the person in charge of the maritime safety administration, extend the period by five working days."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A unit that has obtained the qualification for the supply and receipt of ship fuel oil in accordance with law shall file with the maritime safety administration. The maritime safety administration shall supervise and inspect the supply and receipt of ship fuel oil and shall stop any practice that does not meet the requirements for safety and pollution prevention."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A ship fuel oil supply unit shall truthfully complete the fuel oil supply and receipt documents and provide the ship with the ship fuel oil supply and receipt documents and fuel oil samples.\nShips and ship fuel oil supply units shall keep the fuel oil supply and receipt documents for three years and keep the fuel oil samples properly for one year."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The sites for ship repair and building and for the dismantling of ships on water shall conform to the environmental functional zoning and the marine functional zoning."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A unit engaged in ship dismantling shall, before dismantling a ship, dispose of the residues and wastes on the ship, pump out the oil stored in the oil tanks (cabinets), and carry out ship tank cleaning, tank washing and explosion measurement.\nA unit engaged in ship dismantling shall promptly clean up the ship dismantling site and treat the pollutants generated by ship dismantling in accordance with the relevant State provisions.\nShip dismantling operations by way of beaching are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Ships are prohibited from transferring hazardous waste through the internal waters and the territorial sea of the People's Republic of China.\nWhere hazardous waste is transferred through other sea areas under the jurisdiction of the People's Republic of China, the prior written consent of the competent department of environmental protection of the State Council shall be obtained, and the ship shall navigate along the route designated by the maritime safety administration and report its position at regular intervals."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a ship dumps waste into the sea, it shall truthfully record the dumping. After returning to port, it shall submit a written report to the maritime safety administration at the place where the port of departure is located."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "For a ship carrying pollution-hazardous cargo in bulk liquids and other ships of 10,000 gross tonnage or more, the operator shall, before the operation or before entering or leaving the port, conclude a pollution clean-up operation agreement with a pollution clean-up operation unit that conforms to the relevant State technical specifications, specifying the rights and obligations of both parties with respect to pollution clean-up after a ship pollution accident.\nA pollution clean-up operation unit that has concluded a pollution clean-up operation agreement with a ship operator shall, after a ship pollution accident occurs, promptly carry out pollution clean-up operations in accordance with the agreement."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Pollution Prevention and Control in Ship-Related Operations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "For the purposes of these Regulations, 'ship pollution accident' means an accident of pollution of the marine environment caused by the leakage of oil, oily mixtures and other toxic and harmful substances from ships or in the course of their related operations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Ship pollution accidents are classified into the following grades:\n(a) a particularly serious ship pollution accident means a ship pollution accident in which the ship spills 1,000 tonnes or more of oil, or which causes direct economic losses of RMB 200 million or more;\n(b) a serious ship pollution accident means a ship pollution accident in which the ship spills 500 tonnes or more but less than 1,000 tonnes of oil, or which causes direct economic losses of RMB 100 million or more but less than RMB 200 million;\n(c) a relatively serious ship pollution accident means a ship pollution accident in which the ship spills 100 tonnes or more but less than 500 tonnes of oil, or which causes direct economic losses of RMB 50 million or more but less than RMB 100 million;\n(d) an ordinary ship pollution accident means a ship pollution accident in which the ship spills less than 100 tonnes of oil, or which causes direct economic losses of less than RMB 50 million."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a ship has a pollution accident in the sea areas under the jurisdiction of the People's Republic of China, or has a pollution accident outside those sea areas that causes or may cause pollution of the sea areas under the jurisdiction of the People's Republic of China, it shall immediately activate the corresponding emergency plan, take measures to control and eliminate pollution, and report to the nearest maritime safety administration.\nWhere it is discovered that ships or their related operations may cause pollution of the marine environment, the ship, wharf or loading and unloading station shall immediately take corresponding emergency response measures and report to the nearest maritime safety administration.\nThe maritime safety administration receiving the report shall immediately verify the relevant circumstances and report to the maritime safety administration at the higher level or to the competent department of transport of the State Council, and at the same time report to the relevant local people's government at or above the level of a city with districts in the coastal area."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A ship pollution accident report shall include the following:\n(a) the name, nationality, call sign or number of the ship;\n(b) the name and address of the shipowner, operator or manager;\n(c) the time and place of the accident and the relevant meteorological and hydrological conditions;\n(d) the cause of the accident or a preliminary judgment on the cause of the accident;\n(e) an overview of the types, quantities and loading positions of the pollutants on board the ship;\n(f) the extent of pollution;\n(g) the pollution control and clean-up measures already taken or to be taken, the status of pollution control, and requests for rescue;\n(h) other matters that the competent department of transport of the State Council requires to be reported.\nWhere new circumstances arise after a ship pollution accident report is made, the ship and the relevant units shall promptly make a supplementary report."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a particularly serious ship pollution accident occurs, the State Council or the competent department of transport of the State Council as authorised by the State Council shall establish an accident emergency command organisation.\nWhere a serious ship pollution accident occurs, the people's government of the relevant province, autonomous region or municipality directly under the Central Government shall, together with the maritime safety administration, establish an accident emergency command organisation.\nWhere a relatively serious or ordinary ship pollution accident occurs, the people's government of the relevant city with districts shall, together with the maritime safety administration, establish an accident emergency command organisation.\nThe relevant departments and units shall, under the unified organisation and command of the accident emergency command organisation and according to the division of work in the emergency plan, carry out the corresponding emergency response work."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a ship has an accident and is in danger of sinking, the crew shall, before leaving the ship, close as far as possible the valves of the piping systems of all cargo tanks (cabinets) and oil tanks (cabinets) and plug the ventilation openings of the cargo tanks (cabinets) and oil tanks (cabinets).\nWhere a ship sinks, the shipowner, operator or manager shall promptly report to the maritime safety administration the nature, quantity, type and loading position of the ship's fuel oil, pollution-hazardous cargo and other pollutants, and promptly take measures to remove them."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a ship pollution accident occurs or a ship sinks and may cause pollution of the sea areas under the jurisdiction of the People's Republic of China, the relevant local people's government at or above the level of a city with districts in the coastal area and the maritime safety administration may, according to the needs of emergency response, requisition the ships, pollution prevention facilities, equipment and materials and other supplies of the relevant units or individuals, and the relevant units and individuals shall cooperate.\nThe requisitioned ships, pollution prevention facilities, equipment and materials and other supplies shall be returned promptly after use or after the completion of the emergency response work. Where such ships, pollution prevention facilities, equipment and materials and other supplies are requisitioned, or are damaged or lost after requisition, compensation shall be given."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a ship pollution accident occurs, the maritime safety administration may take necessary measures such as clean-up, salvage, towage, pilotage and lighterage to mitigate pollution damage. The related costs shall be borne by the ship and the relevant operating unit that caused the pollution of the marine environment.\nA ship required to bear the costs specified in the preceding paragraph shall pay the related costs in full or provide corresponding financial security before departure."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Oil dispersants used in dealing with ship pollution accidents shall conform to the relevant State standards."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response to Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The investigation and handling of ship pollution accidents shall be conducted in accordance with the following provisions:\n(a) a particularly serious ship pollution accident shall be investigated and handled by the State Council or, as authorised by the State Council, by the competent department of transport of the State Council and other departments;\n(b) a serious ship pollution accident shall be investigated and handled by the State maritime safety administration;\n(c) a relatively serious or ordinary ship pollution accident shall be investigated and handled by the maritime safety administration at the place where the accident occurs.\nWhere a ship pollution accident causes damage to fisheries, the competent department of fisheries shall be included in the investigation and handling; where it causes damage to the waters of a military port, the relevant competent department of the armed forces shall be included in the investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Investigation and Handling of Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a ship pollution accident occurs, the organ organising the investigation and handling of the accident or the maritime safety administration shall promptly, objectively and impartially carry out the accident investigation, conduct an inquest at the accident site, inspect the ship concerned, question the persons concerned, collect evidence and ascertain the cause of the accident."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Investigation and Handling of Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The organ organising the investigation and handling of the accident or the maritime safety administration may, according to the needs of the investigation and handling, temporarily detain the corresponding certificates, documents and materials; and where necessary, may prohibit the ship from leaving the port or order it to stop navigation, change its course or stop operations, or even temporarily detain the ship."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Investigation and Handling of Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "When the organ organising the investigation and handling of the accident or the maritime safety administration carries out an accident investigation, the parties to the ship pollution accident and other persons concerned shall truthfully report the circumstances and provide information, and shall not forge, conceal or destroy evidence or otherwise obstruct the investigation and the collection of evidence."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Investigation and Handling of Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The organ organising the investigation and handling of the accident or the maritime safety administration shall, within 20 working days from the date of completion of the accident investigation, prepare a written accident determination and serve it on the parties.\nThe written accident determination shall state the basic circumstances of the accident, the cause of the accident and the responsibility for the accident."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Investigation and Handling of Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "A person responsible for damage caused by pollution of the marine environment shall eliminate the harm and compensate for the losses; where the damage by pollution of the marine environment is caused entirely by the intent or negligence of a third party, the third party shall eliminate the harm and bear the liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Compensation for Damage from Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "No liability shall be borne where pollution damage to the marine environment is caused entirely by any of the following circumstances and could not have been avoided despite the timely adoption of reasonable measures:\n(a) war;\n(b) irresistible natural disasters;\n(c) negligence or other negligent acts of the competent department responsible for lighthouses or other aids to navigation in the performance of its duties."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Compensation for Damage from Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The limits of compensation for ship pollution accidents shall be governed by the provisions of the Maritime Code of the People's Republic of China on limitation of liability for maritime claims. However, where persistent oil in bulk carried by a ship causes pollution of the sea areas under the jurisdiction of the People's Republic of China, the limits of compensation shall be governed by the provisions of the relevant international treaties concluded or acceded to by the People's Republic of China.\nFor the purposes of the preceding paragraph, 'persistent oil' means any persistent hydrocarbon mineral oil."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Compensation for Damage from Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The owner of a ship navigating in the sea areas under the jurisdiction of the People's Republic of China shall, in accordance with the provisions of the competent department of transport of the State Council, take out insurance against civil liability for oil pollution damage from ships or obtain corresponding financial security, except ships of less than 1,000 gross tonnage carrying non-oil substances.\nThe amount of the insurance against civil liability for oil pollution damage from ships taken out by a shipowner or of the financial security obtained shall be not less than the limits of compensation for oil pollution specified in the Maritime Code of the People's Republic of China and the relevant international treaties concluded or acceded to by the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Compensation for Damage from Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "For a ship of Chinese nationality that has taken out insurance against civil liability for oil pollution damage from ships or obtained financial security in accordance with Article 51 of these Regulations, the owner shall, with the certificate of ship nationality and the insurance contract against civil liability for oil pollution damage from ships or the certificate of financial security, apply to the maritime safety administration of the port of registry for a certificate of insurance against civil liability for oil pollution damage from ships or a certificate of financial security."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Compensation for Damage from Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a ship oil pollution accident occurs, the necessary costs incurred by the State in organising the relevant units to carry out emergency response and clean up pollution shall be given priority in satisfaction in the compensation for ship oil pollution damage."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Compensation for Damage from Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The owner or agent of a cargo of persistent oil carried by sea and received in the waters under the jurisdiction of the People's Republic of China shall pay contributions to the Ship Oil Pollution Compensation Fund.\nThe specific measures for the collection, use and management of the Ship Oil Pollution Compensation Fund shall be formulated by the department of finance of the State Council together with the competent department of transport of the State Council.\nThe State shall establish a Ship Oil Pollution Compensation Fund Management Committee, which shall be responsible for handling compensation and other affairs of the Ship Oil Pollution Compensation Fund. The Ship Oil Pollution Compensation Fund Management Committee shall be composed of the relevant administrative organs and the major cargo owners that pay contributions to the Ship Oil Pollution Compensation Fund."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Compensation for Damage from Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "In the event of a dispute over compensation for damage caused by a ship pollution accident, the parties may request the maritime safety administration to mediate, or apply to an arbitration institution for arbitration or bring a civil action in a people's court."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Compensation for Damage from Ship Pollution Accidents"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a ship or a relevant operating unit violates these Regulations, the maritime safety administration shall order it to rectify; where it refuses to rectify, the maritime safety administration may order it to stop operations, compel unloading, prohibit the ship from entering or leaving the port, berthing or staying in transit, or order it to stop navigation, change its course, leave the territory or sail to a designated place."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of these Regulations, the structure of a ship does not conform to the State technical specifications for the prevention and control of pollution of the marine environment by ships or the requirements of the relevant international treaties, the maritime safety administration shall impose a fine of not less than RMB 100,000 nor more than RMB 300,000."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of these Regulations, any of the following circumstances exists, the maritime safety administration shall impose a penalty in accordance with the relevant provisions of the Marine Environment Protection Law of the People's Republic of China:\n(a) the ship has not obtained and does not carry on board the certificates and documents for the prevention and control of pollution of the marine environment by ships;\n(b) the ship, port, wharf or loading and unloading station is not equipped with pollution prevention equipment and materials;\n(c) the ship discharges into the sea pollutants the discharge of which is prohibited by these Regulations;\n(d) the ship has not truthfully recorded the disposal of pollutants;\n(e) the ship discharges pollutants into the sea in excess of the standards;\n(f) the unit engaged in ship dismantling operations on water causes damage by pollution of the marine environment."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of these Regulations, a ship fails to keep on board records of the disposal of ship pollutants as required, or the records of the disposal of ship pollutants do not correspond to the quantity of pollutants generated in the course of the operation of the ship, the maritime safety administration shall impose a fine of not less than RMB 20,000 nor more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of these Regulations, a ship pollutant reception unit engaged in the reception of ship-generated garbage, residual oil, oily water or sewage containing toxic and harmful substances fails to prepare an operation plan, comply with the relevant operating procedures or take necessary pollution prevention measures, the maritime safety administration shall impose a fine of not less than RMB 10,000 nor more than RMB 50,000; where pollution of the marine environment is caused, a fine of not less than RMB 50,000 nor more than RMB 250,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of these Regulations, a ship pollutant reception unit fails to report the reception of ship pollutants to the maritime safety administration as required, or fails to issue pollutant reception documents to the ship as required, or fails to report the reception and treatment of ship pollutants to the maritime safety administration for the record as required, the maritime safety administration shall impose a fine of not more than RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of these Regulations, any of the following circumstances exists, the maritime safety administration shall impose a fine of not less than RMB 2,000 nor more than RMB 10,000:\n(a) the ship has not kept the pollutant reception documents as required;\n(b) the ship fuel oil supply unit has not truthfully completed the fuel oil supply and receipt documents;\n(c) the ship fuel oil supply unit has not provided the ship with the fuel oil supply and receipt documents and fuel oil samples as required;\n(d) the ship and the ship fuel oil supply unit have not kept the fuel oil supply and receipt documents and fuel oil samples as required."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of these Regulations, any of the following circumstances exists, the maritime safety administration shall impose a fine of not less than RMB 20,000 nor more than RMB 100,000:\n(a) the ship carrying pollution-hazardous cargo does not meet the requirements for the carriage of pollution-hazardous cargo;\n(b) the ship carrying pollution-hazardous cargo has not carried out loading and unloading operations at wharves or loading and unloading stations with the corresponding safe loading and unloading and pollutant treatment capacity;\n(c) the cargo owner or agent has not conducted a hazard assessment of cargo of unknown pollution hazard as required."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of these Regulations, a ship carries pollution-hazardous cargo into or out of a port, stays in transit or carries out lighterage without the approval of the maritime safety administration, the maritime safety administration shall impose a fine of not less than RMB 10,000 nor more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of these Regulations, any of the following circumstances exists, the maritime safety administration shall impose a fine of not less than RMB 20,000 nor more than RMB 100,000:\n(a) where a ship has an accident and sinks, the shipowner or operator has not promptly reported to the maritime safety administration the nature, quantity, type and loading position of the ship's fuel oil, pollution-hazardous cargo and other pollutants;\n(b) where a ship has an accident and sinks, the shipowner or operator has not promptly taken measures to remove the ship's fuel oil, pollution-hazardous cargo and other pollutants."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where, in violation of these Regulations, any of the following circumstances exists, the maritime safety administration shall impose a fine of not less than RMB 10,000 nor more than RMB 50,000:\n(a) for a ship carrying pollution-hazardous cargo in bulk liquids and other ships of 10,000 gross tonnage or more, the operator has not concluded a pollution clean-up operation agreement as required;\n(b) a pollution clean-up operation unit carries out pollution clean-up operations without conforming to the relevant State technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where, in violation of these Regulations, a ship pollution accident occurs and the ship or the relevant operating unit fails to immediately activate the emergency plan, the maritime safety administration shall impose on the ship or the relevant operating unit a fine of not less than RMB 20,000 nor more than RMB 100,000, and shall impose on the person directly in charge and other persons directly responsible a fine of not less than RMB 10,000 nor more than RMB 20,000. Where the person directly in charge and other persons directly responsible are crew members, they shall additionally be punished by suspension of their certificates of competency or other relevant certificates for one to three months."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where, in violation of these Regulations, a ship pollution accident occurs and the ship or the relevant operating unit delays or omits reporting the accident, the maritime safety administration shall impose on the ship or the relevant operating unit a fine of not less than RMB 50,000 nor more than RMB 250,000, and shall impose on the person directly in charge and other persons directly responsible a fine of not less than RMB 10,000 nor more than RMB 50,000. Where the person directly in charge and other persons directly responsible are crew members, they shall additionally be punished by suspension of their certificates of competency or other relevant certificates for three to six months. Where the accident is concealed or falsely reported, the maritime safety administration shall impose on the ship or the relevant operating unit a fine of not less than RMB 250,000 nor more than RMB 500,000, and shall impose on the person directly in charge and other persons directly responsible a fine of not less than RMB 50,000 nor more than RMB 100,000. Where the person directly in charge and other persons directly responsible are crew members, they shall additionally be punished by revocation of their certificates of competency or other relevant certificates."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where, in violation of these Regulations, oil dispersants are used not in accordance with the standards prescribed by the State, the maritime safety administration shall impose on the ship or the user a fine of not less than RMB 10,000 nor more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where, in violation of these Regulations, a party to a ship pollution accident or other persons concerned fail to truthfully report the circumstances and provide information to the organ organising the investigation and handling of the accident or the maritime safety administration, or forge, conceal or destroy evidence or otherwise obstruct the investigation and the collection of evidence, the maritime safety administration shall impose a fine of not less than RMB 10,000 nor more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where, in violation of these Regulations, a shipowner falls under any of the following circumstances, the maritime safety administration shall order it to rectify and may impose a fine of not more than RMB 50,000; where it refuses to rectify, a fine of not less than RMB 50,000 nor more than RMB 250,000 shall be imposed:\n(a) for a ship navigating in the sea areas under the jurisdiction of the People's Republic of China, the owner has not taken out insurance against civil liability for oil pollution damage from ships or obtained corresponding financial security as required;\n(b) the amount of the insurance against civil liability for oil pollution damage from ships taken out by the shipowner or of the financial security obtained is less than the limits of compensation for oil pollution specified in the Maritime Code of the People's Republic of China and the relevant international treaties concluded or acceded to by the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where, in violation of these Regulations, the owner or agent of a cargo of persistent oil carried by sea and received in the waters under the jurisdiction of the People's Republic of China fails to pay contributions to the Ship Oil Pollution Compensation Fund as required, the maritime safety administration shall order it to rectify; where it refuses to rectify, the loading, unloading and lighterage operations of the persistent oil cargo received by it in the waters under the jurisdiction of the People's Republic of China may be suspended.\nWhere the cargo owner or agent fails to pay contributions to the Ship Oil Pollution Compensation Fund within the time limit, it shall pay, from the date on which payment is due, an overdue fine of 0.05 per cent of the unpaid amount for each day of delay."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where the international treaties concluded or acceded to by the People's Republic of China contain provisions on the prevention and control of pollution of the marine environment by ships and their related operations, the provisions of such international treaties shall apply, except the provisions to which the People's Republic of China has declared reservations."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The competent department of fisheries of the people's government at or above the county level shall be responsible for the supervision and control of pollution of the marine environment by non-military ships in the waters of fishing ports and by fishing vessels outside the waters of fishing ports, be responsible for the protection of the ecological environment of fishing waters, and be responsible for the investigation and handling of the fishery pollution accidents specified in paragraph 4 of Article 5 of the Marine Environment Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The environmental protection department of the armed forces shall be responsible for the supervision and control of pollution of the marine environment by military ships and for the investigation and handling of pollution accidents."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 March 2010. The Regulations of the People's Republic of China on the Prevention of Pollution of Sea Areas by Ships promulgated by the State Council on 29 December 1983 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0077'] = {
+    "lawId": "CN-REG-0077",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 58 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Marine Environment Protection Law of the People's Republic of China for the purpose of preventing and mitigating pollution damage to the marine environment by marine engineering construction projects (hereinafter referred to as marine engineering projects), maintaining the marine ecological balance and protecting marine resources."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to activities for the prevention and control of pollution damage to the marine environment by marine engineering projects carried out in the sea areas under the jurisdiction of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of these Regulations, 'marine engineering project' means a newly built, reconstructed or expanded project constructed for the purpose of developing, utilising, protecting and restoring marine resources, the main body of which is located on the seaward side of the coastline. It specifically includes:\n(a) sea reclamation and sea enclosure projects and offshore dyke projects;\n(b) artificial islands, offshore and submarine material storage facilities, cross-sea bridges and submarine tunnels;\n(c) submarine pipelines and submarine power (optical) cables;\n(d) exploration and development of marine mineral resources and their ancillary projects;\n(e) projects for the development and utilisation of marine energy such as offshore tidal power stations, wave power stations and ocean thermal energy conversion stations;\n(f) large-scale mariculture farms and artificial fish reef projects;\n(g) projects for the comprehensive utilisation of seawater such as salt fields and seawater desalination;\n(h) offshore entertainment, sports and landscape development projects;\n(i) other marine engineering projects specified by the competent department of ocean affairs of the State together with the competent department of environmental protection of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department of ocean affairs of the State shall be responsible for the supervision and control of environmental protection in marine engineering projects throughout the country and shall be subject to the guidance, coordination and supervision of the competent department of environmental protection of the State Council. The competent departments of ocean affairs of the local people's governments at or above the county level in coastal areas shall be responsible for the supervision and control of environmental protection in marine engineering projects in the sea areas adjacent to their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The site selection and construction of marine engineering projects shall conform to the marine functional zoning, the marine environmental protection plan and the relevant State environmental protection standards, and shall not affect the environmental quality of marine functional zones or impair the functions of adjacent sea areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent department of ocean affairs of the State shall, in accordance with the State targets for the control of the total quantity of pollutants discharged into the sea in key sea areas, allocate the control quantities of pollutants discharged into the sea by marine engineering projects in key sea areas."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Any unit or individual shall have the right to report to the competent department of ocean affairs any illegal act such as pollution damage to the marine environment or destruction of marine ecology by a marine engineering project.\nThe competent department of ocean affairs receiving the report shall conduct investigation and handling in accordance with law and shall keep the identity of the reporter confidential."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State applies a system of environmental impact assessment for marine engineering projects.\nThe environmental impact assessment of a marine engineering project shall focus on the impact of the project on the marine environment and marine resources, conduct comprehensive analysis, prediction and evaluation, and propose corresponding ecological protection measures to prevent, control or mitigate the impact of and damage to the marine environment and marine resources caused by the project.\nThe environmental impact report of a marine engineering project shall be prepared on the basis of the technical standards for the environmental impact assessment of marine engineering projects and other relevant environmental protection standards. The preparation of the environmental impact report shall use survey and monitoring data that meet the requirements of the competent department of ocean affairs of the State."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Environmental Impact Assessment"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The environmental impact report of a marine engineering project shall include the following:\n(a) an overview of the project;\n(b) the current environmental conditions of the sea area where the project is located and the development and utilisation of adjacent sea areas;\n(c) analysis, prediction and evaluation of the possible impact of the project on the marine environment and marine resources;\n(d) analysis and prediction of the impact of the project on the functions of adjacent sea areas and on other development and utilisation activities;\n(e) an economic cost-benefit analysis and an environmental risk analysis of the impact of the project on the marine environment;\n(f) the environmental protection measures to be taken and the economic and technical verification thereof;\n(g) public participation;\n(h) the conclusions of the environmental impact assessment.\nWhere a marine engineering project may cause damage to the coastal ecological environment, an analysis and evaluation of the impact of the project on coastal nature reserves and other terrestrial ecosystems shall be added to its environmental impact report."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Environmental Impact Assessment"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The construction unit of a newly built, reconstructed or expanded marine engineering project shall prepare an environmental impact report and submit it to the competent department of ocean affairs with the power of approval for approval.\nBefore approving the environmental impact report of a marine engineering project, the competent department of ocean affairs shall seek the opinions of the maritime safety and fisheries competent departments and the environmental protection department of the armed forces; and where necessary, it may hold a hearing. Among them, a hearing must be held for sea reclamation projects."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Environmental Impact Assessment"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The environmental impact reports of the following marine engineering projects shall be approved by the competent department of ocean affairs of the State:\n(a) projects of a special nature involving national maritime rights and interests, national defence security and the like;\n(b) exploration and development of marine mineral resources and their ancillary projects;\n(c) sea reclamation projects of 50 hectares or more and sea enclosure projects of 100 hectares or more;\n(d) projects for the development and utilisation of marine energy such as tidal power stations, wave power stations and ocean thermal energy conversion stations;\n(e) marine engineering projects subject to examination and approval by the State Council or the relevant departments of the State Council.\nThe environmental impact reports of marine engineering projects other than those specified in the preceding paragraph shall be approved by the competent departments of ocean affairs of the local people's governments at or above the county level in coastal areas within the limits of authority prescribed by the people's governments of the coastal provinces, autonomous regions and municipalities directly under the Central Government.\nWhere a marine engineering project may cause trans-regional environmental impact and the competent departments of ocean affairs concerned disagree on the conclusions of the environmental impact assessment, the environmental impact report of the project shall be approved by the competent department of ocean affairs at the next higher level common to them."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Environmental Impact Assessment"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent department of ocean affairs shall, within 60 working days from the date of receiving the environmental impact report of a marine engineering project, make a decision on whether or not to approve it and notify the construction unit in writing.\nWhere supplementary materials are required, the construction unit shall be notified promptly, and the approval period shall be recalculated from the date on which the materials are completed."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Environmental Impact Assessment"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "After the environmental impact report of a marine engineering project is approved, where major changes occur in the nature, scale, location, production process or the environmental protection measures to be taken, the construction unit shall prepare a new environmental impact report and submit it to the competent department of ocean affairs that originally approved the environmental impact report of the project for approval; where a marine engineering project starts construction more than five years after the date of approval of its environmental impact report, the environmental impact report of the project shall, before the commencement of construction, be submitted to the competent department of ocean affairs that originally approved the environmental impact report of the project for re-approval."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Environmental Impact Assessment"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The construction unit may determine the unit for the environmental impact assessment of the marine engineering project by means of tender. No other unit or individual shall designate a unit for environmental impact assessment for a marine engineering project."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Environmental Impact Assessment"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The environmental protection facilities of a marine engineering project shall be designed, constructed and put into operation and use simultaneously with the principal project."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In the preliminary design of a marine engineering project, a chapter on environmental protection shall be prepared in accordance with the design norms for environmental protection and the requirements of the approved environmental impact report, and the environmental protection measures and the estimated investment in environmental protection shall be implemented."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The construction unit shall, 30 working days before the date on which a marine engineering project is put into operation, apply to the competent department of ocean affairs that originally approved the environmental impact report of the project for acceptance inspection of the environmental protection facilities; where the marine engineering project is put into trial operation, it shall, within 60 working days from the date on which the project is put into trial operation, apply to the competent department of ocean affairs that originally approved the environmental impact report of the project for acceptance inspection of the environmental protection facilities.\nFor a marine engineering project constructed in stages and put into operation in stages, the corresponding environmental protection facilities shall be subject to acceptance inspection in stages."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent department of ocean affairs shall complete the acceptance inspection within 30 working days from the date of receiving the application for acceptance inspection of environmental protection facilities; where the inspection is not satisfactory, rectification shall be required within a time limit.\nWhere the environmental protection facilities to be constructed as ancillary facilities of a marine engineering project have not been subject to acceptance inspection by the competent department of ocean affairs or have failed such inspection, the project shall not be put into operation.\nThe construction unit shall not remove or leave idle the environmental protection facilities of a marine engineering project without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where circumstances arise during the construction or operation of a marine engineering project that do not conform to the approved environmental impact report, the construction unit shall, within 20 working days from the date on which such circumstances arise, organise a post-assessment of the environmental impact, take improvement measures in accordance with the conclusions of the post-assessment, and report the conclusions of the post-assessment and the improvement measures taken to the competent department of ocean affairs that originally approved the environmental impact report of the project for the record; the competent department of ocean affairs that originally approved the environmental impact report of the project may also require the construction unit to conduct a post-assessment of the environmental impact and take improvement measures."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Sea reclamation and sea enclosure projects shall be strictly controlled. Sea reclamation and sea enclosure activities are prohibited in the natural spawning grounds, breeding grounds and feeding grounds of economically important organisms and in bird habitats.\nThe filling materials used in sea reclamation and sea enclosure projects shall conform to the relevant environmental protection standards."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The construction of marine engineering projects shall not cause erosion, siltation or damage to the base points of the territorial sea and their surrounding environment, or endanger the stability of the base points of the territorial sea.\nWhere offshore dykes, cross-sea bridges, offshore entertainment, sports and landscape development projects are constructed, effective measures shall be taken to prevent erosion or siltation of the coast."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The outfalls of offshore sewage discharge projects shall be located in conformity with the marine functional zoning and the marine environmental protection plan, and shall not impair the functions of adjacent sea areas.\nOffshore sewage discharge shall not exceed the discharge standards prescribed by the State or local authorities. In sea areas where control of the total quantity of pollutants discharged into the sea is implemented, the control targets for the total quantity of pollutants discharged into the sea shall not be exceeded."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A mariculture operator shall adopt scientific aquaculture methods to reduce pollution of the marine environment by aquaculture bait. Where a sea area is polluted or the marine landscape is seriously damaged as a result of aquaculture, the operator shall restore and remediate it."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "During the construction and operation of a project for the exploration and development of solid marine mineral resources, the construction unit shall take effective measures to prevent pollutants from suspending and dispersing over a wide area and damaging the marine environment."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Oil-water separation facilities, oily water treatment equipment, oil discharge monitoring devices, residual oil and waste oil recovery facilities and garbage shredding equipment shall be provided in operations for the exploration and development of offshore oil and gas mineral resources.\nFixed platforms, mobile platforms, floating oil storage devices, oil pipelines and other auxiliary facilities used in operations for the exploration and development of offshore oil and gas mineral resources shall meet the requirements of seepage prevention, leakage prevention and corrosion prevention; the operating unit shall conduct regular inspections to prevent oil leakage accidents.\nFor the purposes of the preceding paragraph, fixed platforms and mobile platforms mean drilling ships, drilling platforms, oil production platforms and other platforms used in operations for the exploration and development of offshore oil and gas mineral resources."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A unit engaged in the exploration and development of offshore oil and gas mineral resources shall take out insurance against civil liability for pollution damage."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where offshore blasting operations are required in the course of the construction of a marine engineering project, the construction unit shall report to the competent department of ocean affairs before the blasting operations, and the competent department of ocean affairs shall promptly notify the maritime safety, fisheries and other relevant departments.\nIn offshore blasting operations, conspicuous marks and signals shall be provided, and effective measures shall be taken to protect marine resources. Where explosive blasting or other operations that may cause damage to fishery resources are carried out in important fishery waters, the spawning season of the major commercial fish and prawns shall be avoided."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a marine engineering project needs to be dismantled or converted to other uses, it shall be reported, before the operation, to the competent department of ocean affairs that originally approved the environmental impact report of the project for the record. Where the dismantling or conversion of use may produce a significant environmental impact, an environmental impact assessment shall be conducted.\nWhere a marine engineering project needs to be abandoned at sea, the parts that may cause pollution damage to the marine environment or affect the development and utilisation of marine resources shall be dismantled, and the operation shall be carried out in accordance with the relevant provisions on the management of waste dumping at sea.\nWhen a marine engineering project is dismantled, the construction unit shall prepare an environmental protection plan for the dismantling and take necessary measures to prevent pollution of and damage to the marine environment."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Pollution Prevention and Control for Marine Engineering"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The disposal of pollutants generated in operations for the exploration and development of offshore oil and gas mineral resources shall comply with the following provisions:\n(a) oily water shall not be discharged directly or after dilution into the sea; it shall be discharged only after treatment in conformity with the relevant State discharge standards;\n(b) plastic products, residual oil, waste oil, oil-based mud, oily garbage and other toxic and harmful residual liquids and residues shall not be discharged directly or abandoned into the sea; they shall be stored in dedicated containers and transported back to land for treatment."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Management of Pollutant Discharge"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The addition of oil to water-based mud shall be strictly controlled; where addition is truly necessary, the type and quantity of oil added shall be truthfully recorded and reported to the competent department of ocean affairs that originally approved the environmental impact report of the project. It is prohibited to discharge into the sea water-based mud and drill cuttings with an oil content exceeding the standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Management of Pollutant Discharge"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "After a marine engineering project is put into trial operation or formally put into operation, the construction unit shall truthfully record the operation of pollutant discharge facilities and treatment equipment and the discharge and disposal of pollutants, and shall periodically report to the competent department of ocean affairs that originally approved the environmental impact report of the project in accordance with the provisions of the competent department of ocean affairs of the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Management of Pollutant Discharge"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The competent departments of ocean affairs of the people's governments at or above the county level shall, within their respective limits of authority, verify the types and quantities of pollutants discharged by marine engineering projects and determine, in accordance with the charging standards formulated by the competent department of prices and the department of finance of the State Council, the amount of the pollutant discharge fee payable by the discharger.\nThe discharger shall pay the pollutant discharge fee at a designated commercial bank."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Management of Pollutant Discharge"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Automatic pollutant flow monitoring instruments shall be installed in operations for the exploration and development of offshore oil and gas mineral resources to measure the discharge of production sewage, engine room sewage and domestic sewage."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Management of Pollutant Discharge"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "It is prohibited to discharge oil, acid liquor, alkali liquor, highly toxic waste liquid and high-level and intermediate-level radioactive wastewater into the sea; the discharge of low-level radioactive wastewater into the sea shall be strictly restricted, and where discharge is truly necessary, it shall conform to the State standards for the prevention and control of radioactive pollution.\nThe discharge of gases containing toxic substances into the atmosphere shall be strictly restricted; where discharge is truly necessary, the gases shall be subject to purification treatment and shall not exceed the discharge standards prescribed by the State or local authorities; the discharge of gases containing radioactive substances into the atmosphere shall conform to the State standards for the prevention and control of radioactive pollution.\nThe discharge into the sea of wastewater containing non-readily degradable organic substances and heavy metals shall be strictly controlled; the discharge of other pollutants shall conform to the State or local standards."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Management of Pollutant Discharge"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The pollutant discharge fees of marine engineering projects shall be incorporated in full into the fiscal budget, be managed under the 'two separate lines of revenue and expenditure' system, and be used exclusively for the prevention and control of marine environmental pollution. The specific measures shall be formulated by the department of finance of the State Council together with the competent department of ocean affairs of the State."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Management of Pollutant Discharge"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The construction unit shall, before a marine engineering project is formally put into operation, formulate an emergency plan for the prevention and control of pollution damage to the marine environment by the marine engineering project and submit it to the competent department of ocean affairs that originally approved the environmental impact report of the project and the relevant competent departments for the record."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Handling of Pollution Accidents"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The emergency plan for the prevention and control of pollution damage to the marine environment by a marine engineering project shall include the following:\n(a) the environmental and resource conditions of the project and its adjacent sea areas;\n(b) risk analysis of pollution accidents;\n(c) the provision of emergency facilities;\n(d) the plan for handling pollution accidents."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Handling of Pollution Accidents"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where, during the construction or operation of a marine engineering project, an accident or other sudden event causes or may cause a marine environmental pollution accident, the construction unit shall immediately report to the competent department of ocean affairs or other relevant competent department of the local people's government at or above the county level in the coastal area that may be affected by the pollution, take effective measures to mitigate or eliminate the pollution, and at the same time notify the units and individuals that may be endangered.\nAfter receiving the report, the competent department of ocean affairs or other relevant competent department of the local people's government at or above the county level in the coastal area shall, in accordance with the provisions on the classification of pollution accidents, promptly report to the people's government at or above the county level and the competent department at the higher level; the people's government at or above the county level and the relevant competent departments shall, in accordance with their respective duties, immediately send personnel to the scene, take effective measures to eliminate or mitigate the harm, and investigate and handle the pollution accident."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Handling of Pollution Accidents"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Marine engineering construction activities carried out in marine nature reserves shall be conducted in accordance with the State provisions on marine nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Prevention and Handling of Pollution Accidents"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The competent departments of ocean affairs of the people's governments at or above the county level shall be responsible for the supervision and inspection of the prevention and control of pollution damage to the marine environment by marine engineering projects, and shall investigate and punish acts violating the laws and regulations on the prevention and control of marine pollution.\nThe supervision and inspection personnel of the competent departments of ocean affairs of the people's governments at or above the county level shall carry out supervision and inspection strictly in accordance with the procedures and limits of authority prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "When the competent department of ocean affairs of a people's government at or above the county level conducts an on-site inspection of a marine engineering project in accordance with law, it shall have the power to take the following measures:\n(a) require the unit or individual under inspection to provide documents, certificates, data, technical materials and other materials relating to environmental protection for examination or reproduction;\n(b) require the person in charge of the unit under inspection or the relevant personnel to give explanations on the relevant issues;\n(c) enter the workplace of the unit under inspection to carry out monitoring, inquest, sampling and testing, photography and videography;\n(d) inspect the installation and operation of environmental protection facilities, equipment and materials;\n(e) order the violator to stop the illegal activity and accept investigation and handling;\n(f) require the violator to take effective measures to prevent the expansion of the pollution situation."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Supervision and inspection personnel of the competent departments of ocean affairs of the people's governments at or above the county level shall present the prescribed law enforcement certificates when conducting on-site law enforcement inspections. Official aircraft, vessels and vehicles used for law enforcement inspections and patrol surveillance shall bear conspicuous law enforcement markings."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The units and individuals under inspection shall truthfully provide materials and shall not refuse or obstruct supervision and inspection personnel in the lawful performance of their official duties.\nThe relevant units and individuals shall cooperate with the supervision and inspection work of the competent department of ocean affairs."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The competent department of ocean affairs of a people's government at or above the county level shall, in accordance with law, make an administrative decision on the handling of acts violating the laws and regulations on the prevention and control of marine pollution; where the competent department of ocean affairs concerned fails to make such a decision in accordance with law, the competent department of ocean affairs at the higher level shall have the power to order it to make the decision in accordance with law or to make the decision directly."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a construction unit, in violation of these Regulations, commits any of the following acts, the competent department of ocean affairs responsible for approving the environmental impact report of the project shall order it to stop construction and operation, complete the formalities within a time limit, and impose a fine of not less than RMB 50,000 nor more than RMB 200,000:\n(a) commencing construction without authorisation before the environmental impact report is approved;\n(b) putting the marine engineering project into operation without applying for acceptance inspection of the environmental protection facilities or where the inspection is not satisfactory."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a construction unit, in violation of these Regulations, commits any of the following acts, the competent department of ocean affairs that originally approved the environmental impact report of the project shall order it to stop construction and operation, complete the formalities within a time limit, and impose a fine of not less than RMB 50,000 nor more than RMB 200,000:\n(a) where major changes occur in the nature, scale, location, production process or environmental protection measures to be taken of the marine engineering project and a new environmental impact report has not been prepared and submitted to the competent department of ocean affairs that originally approved the environmental impact report of the project for approval;\n(b) where the marine engineering project starts construction more than five years after the date of approval of the environmental impact report and its environmental impact report has not been resubmitted to the competent department of ocean affairs that originally approved the environmental impact report of the project for approval;\n(c) where the marine engineering project needs to be dismantled or converted to other uses and no report has been made to the competent department of ocean affairs that originally approved the environmental impact report of the project for the record, or no environmental impact assessment has been conducted as required."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a construction unit, in violation of these Regulations, commits any of the following acts, the competent department of ocean affairs that originally approved the environmental impact report of the project shall order it to make rectification within a time limit; where it fails to rectify within the time limit, it shall order it to stop operation and impose a fine of not less than RMB 10,000 nor more than RMB 100,000:\n(a) removing or leaving idle environmental protection facilities without authorisation;\n(b) failing to conduct a post-assessment of the environmental impact within the prescribed time or failing to take rectification measures as required."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a construction unit, in violation of these Regulations, commits any of the following acts, the competent department of ocean affairs of the people's government at or above the county level shall order it to stop construction and operation and restore the original state within a time limit; where it fails to restore the original state within the time limit, the competent department of ocean affairs may designate a unit with the corresponding qualifications to restore the original state on its behalf, the costs of which shall be borne by the construction unit, and impose a fine of not less than one nor more than two times the costs required for restoring the original state:\n(a) causing erosion, siltation or damage to the base points of the territorial sea and their surrounding environment;\n(b) carrying out marine engineering construction activities in a marine nature reserve in violation of the provisions."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a construction unit, in violation of these Regulations, uses filling materials that do not conform to the relevant environmental protection standards in a sea reclamation or sea enclosure project, the competent department of ocean affairs of the people's government at or above the county level shall order it to make rectification within a time limit; where it fails to rectify within the time limit, it shall order it to stop construction and operation and impose a fine of not less than RMB 50,000 nor more than RMB 200,000; where a marine environmental pollution accident is caused and the person directly in charge and other persons directly responsible commit a crime, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a construction unit, in violation of these Regulations, commits any of the following acts, the competent department of ocean affairs that originally approved the environmental impact report of the project shall order it to make rectification within a time limit; where it fails to rectify within the time limit, a fine of not less than RMB 10,000 nor more than RMB 50,000 shall be imposed:\n(a) failing to report the operation of pollutant discharge facilities and treatment equipment or the discharge and disposal of pollutants as required;\n(b) failing to report the type and quantity of oil added to water-based mud as required;\n(c) failing to file the emergency plan for the prevention and control of pollution damage to the marine environment by the marine engineering project as required;\n(d) failing to report to the competent department of ocean affairs before offshore blasting operations as required;\n(e) failing to provide conspicuous marks and signals during offshore blasting operations as required."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a construction unit, in violation of these Regulations, fails to take effective measures to protect marine resources during offshore blasting operations, the competent department of ocean affairs of the people's government at or above the county level shall order it to make rectification within a time limit; where it fails to rectify within the time limit, a fine of not less than RMB 10,000 nor more than RMB 100,000 shall be imposed.\nWhere a construction unit, in violation of these Regulations, carries out explosive blasting or other operations that may cause damage to fishery resources in important fishery waters without avoiding the spawning season of the major commercial fish and prawns, the competent department of ocean affairs of the people's government at or above the county level shall give a warning, order it to stop the operations, and impose a fine of not less than RMB 50,000 nor more than RMB 200,000."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a unit engaged in the exploration and development of offshore oil and gas mineral resources, in violation of these Regulations, discharges oily water into the sea, or directly discharges or abandons into the sea plastic products, residual oil, waste oil, oil-based mud, oily garbage and other toxic and harmful residual liquids and residues, the competent department of ocean affairs of the State or its dispatched office shall order it to clean up within a time limit and impose a fine of not less than RMB 20,000 nor more than RMB 200,000; where it fails to clean up within the time limit, the competent department of ocean affairs of the State or its dispatched office may designate a unit with the corresponding qualifications to clean up on its behalf, the costs of which shall be borne by the unit engaged in the exploration and development of offshore oil and gas mineral resources; where a marine environmental pollution accident is caused and the person directly in charge and other persons directly responsible commit a crime, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a mariculture operator fails to adopt scientific aquaculture methods as required and causes pollution of the marine environment or seriously affects the marine landscape, the competent department of ocean affairs of the people's government at or above the county level shall order it to make rectification within a time limit; where it fails to rectify within the time limit, it shall order it to stop aquaculture activities and impose a fine of not less than one nor more than two times the costs required to clean up the pollution or restore the marine landscape."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a construction unit fails to pay the pollutant discharge fee in accordance with these Regulations, the competent department of ocean affairs of the people's government at or above the county level shall order it to pay within a time limit; where it refuses to pay within the time limit, a fine of not less than two nor more than three times the amount of the pollutant discharge fee payable shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where damage by pollution of the marine environment is caused in violation of these Regulations, the person responsible shall eliminate the harm and compensate for the losses. Where the damage by pollution of the marine environment is caused entirely by the intent or negligence of a third party, the third party shall eliminate the harm and bear the liability for compensation.\nWhere a marine environmental pollution accident is caused in violation of these Regulations and the person directly in charge and other persons directly responsible commit a crime, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a staff member of the competent department of ocean affairs, in violation of these Regulations, falls under any of the following circumstances, an administrative disciplinary sanction shall be given in accordance with law; where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) failing to approve the environmental impact report of a marine engineering project as required;\n(b) failing to conduct acceptance inspection of environmental protection facilities as required;\n(c) failing to report, investigate and handle marine environmental pollution accidents as required;\n(d) failing to collect the pollutant discharge fee as required;\n(e) failing to carry out supervision and inspection as required."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The prevention and control of pollution from ships shall be governed by the provisions of the relevant laws and administrative regulations of the State."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 November 2006."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0078'] = {
     "lawId": "CN-REG-0078",
     "sourceLang": "zh",
@@ -15311,6 +23432,1647 @@
     ]
   };
 
+  TR['CN-REG-0079'] = {
+    "lawId": "CN-REG-0079",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 69 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the supervision and control of the safety and protection of radioactive isotopes and radiation devices, promoting the safe application of radioactive isotopes and radiation devices, safeguarding human health and protecting the environment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The production, sale and use of radioactive isotopes and radiation devices, and the transfer, import and export of radioactive isotopes, within the territory of the People's Republic of China shall comply with these Regulations.\nFor the purposes of these Regulations, radioactive isotopes include radioactive sources and unsealed radioactive substances."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent department of ecology and environment of the State Council shall exercise unified supervision and control over the safety and protection of radioactive isotopes and radiation devices throughout the country.\nThe public security, health and other departments of the State Council shall, according to the division of duties and the provisions of these Regulations, exercise supervision and control over the safety and protection of radioactive isotopes and radiation devices.\nThe competent departments of ecology and environment and other relevant departments of the local people's governments at or above the county level shall, according to the division of duties and the provisions of these Regulations, exercise supervision and control over the safety and protection of radioactive isotopes and radiation devices within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State applies a classified management system to radioactive sources and radiation devices. According to the degree of potential harm of radioactive sources and radiation devices to human health and the environment, radioactive sources are classified, in descending order of harm, into Class I, Class II, Class III, Class IV and Class V, and the specific measures for classification shall be formulated by the competent department of ecology and environment of the State Council; radiation devices are classified into Class I, Class II and Class III, and the specific measures for classification shall be formulated by the competent department of ecology and environment of the State Council in consultation with the competent department of health of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "A unit producing, selling or using radioactive isotopes or radiation devices shall obtain a licence in accordance with the provisions of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Except for units that use Class I radioactive sources for medical purposes and units that prepare radioactive pharmaceuticals for positron emission tomography for their own use, the licences of units producing radioactive isotopes, selling and using Class I radioactive sources, and selling and using Class I radiation devices shall be examined and issued by the competent department of ecology and environment of the State Council.\nOther than the licences examined and issued by the competent department of ecology and environment of the State Council, the licences of other units shall be examined and issued by the competent departments of ecology and environment of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government.\nBefore issuing a licence to a unit producing radioactive isotopes, the competent department of ecology and environment of the State Council shall send copies of the application materials to the competent department of the industry concerned for comments.\nThe competent department of ecology and environment shall notify the public security department and the competent department of health at the same level of the examination and issuance of licences."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A unit producing, selling or using radioactive isotopes or radiation devices that applies for a licence shall meet the following conditions:\n(a) it has professional and technical personnel commensurate with the scale of the production, sale or use activities in which it engages and possessing the corresponding professional knowledge, protection knowledge and health conditions;\n(b) it has premises, facilities and equipment that conform to the State environmental protection standards, occupational health standards and safety protection requirements;\n(c) it has a dedicated safety and protection management body or full-time or part-time safety and protection management personnel, and is equipped with the necessary protective articles and monitoring instruments;\n(d) it has sound rules and regulations for safety and protection management and emergency measures for radiation accidents;\n(e) where radioactive waste gas, waste liquid or solid waste is generated, it has the treatment capacity or a feasible treatment plan to ensure that the radioactive waste gas, waste liquid and solid waste are discharged or disposed of in conformity with the standards."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A unit producing, selling or using radioactive isotopes or radiation devices shall, in advance, submit a licence application to the competent department of ecology and environment with the power of examination and approval, and submit supporting materials proving that it meets the conditions specified in Article 7 of these Regulations.\nA medical and health institution that uses radioactive isotopes and radiation devices for radiodiagnosis and radiotherapy shall also obtain a licence for radioactive source diagnosis and treatment technology and for a medical radiation institution."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department of ecology and environment shall complete the examination within 20 working days from the date of accepting the application and, where the conditions are met, issue a licence and make an announcement; where the conditions are not met, it shall notify the applicant unit in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A licence shall include the following main particulars:\n(a) the name, address and legal representative of the unit;\n(b) the type and scope of the activities in which the unit engages;\n(c) the period of validity;\n(d) the date of issue and the certificate number."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a licence-holding unit changes its name, address or legal representative, it shall, within 20 days from the date of the change registration, apply to the original licence-issuing authority for the formalities of licence modification."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Under any of the following circumstances, a licence-holding unit shall re-apply for a licence in accordance with the original application procedures:\n(a) it changes the type or scope of the activities in which it engages;\n(b) it constructs new production, sale or use facilities or premises, or reconstructs or expands such facilities or premises."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A licence shall be valid for five years. Where extension is required upon expiry of the period of validity, the licence-holding unit shall, 30 days before the expiry, submit an application for extension to the original licence-issuing authority. The original licence-issuing authority shall complete the examination before the expiry of the licence from the date of accepting the extension application and, where the conditions are met, grant the extension; where the conditions are not met, it shall notify the applicant unit in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a licence-holding unit partially or wholly terminates its activities of producing, selling or using radioactive isotopes or radiation devices, it shall apply to the original licence-issuing authority for partial modification or cancellation of the licence, and the original licence-issuing authority shall modify or cancel the licence after verification confirms that the requirements are met."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "It is prohibited to engage in the production, sale or use of radioactive isotopes or radiation devices without a licence or not in accordance with the type and scope specified in the licence.\nIt is prohibited to forge, alter or transfer licences."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The competent department of foreign trade of the State Council shall, together with the competent department of ecology and environment of the State Council, the General Administration of Customs and the competent department of the industry of units producing radioactive isotopes, formulate and publish the catalogue of radioactive isotopes subject to restricted import and export and the catalogue of radioactive isotopes prohibited from import and export.\nFor the import of radioactive isotopes listed in the catalogue of restricted import and export, the competent department of foreign trade of the State Council shall, after examination and approval by the competent department of ecology and environment of the State Council, issue an import licence in accordance with the relevant State provisions on foreign trade. For the import of radioactive isotopes other than those in the catalogue of restricted import and export and the catalogue of prohibited import and export, the import formalities shall be completed in accordance with the relevant State provisions on foreign trade."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "An application for the import of radioactive isotopes listed in the catalogue of restricted import and export shall meet the following requirements:\n(a) the importing unit has obtained a licence consistent with the activities in which it engages;\n(b) the importing unit has a disposal plan for the imported radioactive isotopes upon expiry of their use, and, for the import of Class I, Class II and Class III radioactive sources, has a written commitment from the original exporter to be responsible for their recovery;\n(c) the imported radioactive sources have clear serial numbers and necessary explanatory documents, and, for Class I, Class II and Class III radioactive sources, the serial numbers shall be engraved on the body of the source or on the shell of the sealed package, while for Class IV and Class V radioactive sources, the serial numbers shall be recorded in the corresponding explanatory documents;\n(d) where the imported radioactive isotopes are to be sold to other units for use, the importing unit shall also have a written agreement concluded with the user unit and a copy of the licence obtained by the user unit."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A unit importing radioactive isotopes listed in the catalogue of restricted import and export shall submit an import application to the competent department of ecology and environment of the State Council and submit supporting materials proving that it meets the requirements specified in Article 17 of these Regulations.\nThe competent department of ecology and environment of the State Council shall complete the examination within 10 working days from the date of accepting the application and, where the requirements are met, grant approval; where the requirements are not met, it shall notify the applicant unit in writing and state the reasons.\nThe customs shall, upon presentation of the import licence for radioactive isotopes, complete the relevant import formalities. Where the packaging materials of imported radioactive isotopes are subject to quarantine in accordance with law, the provisions of the State laws and regulations on quarantine shall apply.\nFor imported radioactive sources, the competent department of ecology and environment of the State Council shall at the same time determine the radioactive source codes corresponding to their serial numbers."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "An application for the transfer of radioactive isotopes shall meet the following requirements:\n(a) the transferring and receiving units hold licences consistent with the activities in which they engage;\n(b) the receiving unit has a disposal plan for the radioactive isotopes upon expiry of their use;\n(c) the two parties to the transfer have concluded a written transfer agreement."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "For the transfer of radioactive isotopes, the receiving unit shall submit an application to the competent department of ecology and environment of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located, and submit supporting materials proving that it meets the requirements specified in Article 19 of these Regulations.\nThe competent department of ecology and environment of the people's government of the province, autonomous region or municipality directly under the Central Government shall complete the examination within 15 working days from the date of accepting the application and, where the requirements are met, grant approval; where the requirements are not met, it shall notify the applicant unit in writing and state the reasons."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The transferring and receiving units of radioactive isotopes shall, within 20 days from the date of completion of the transfer, respectively file with the competent departments of ecology and environment of the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government where they are located."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A unit producing radioactive isotopes shall establish a product ledger of radioactive isotopes and, in accordance with the coding rules formulated by the competent department of ecology and environment of the State Council, uniformly code the radioactive sources it produces. The product ledger of radioactive isotopes and the list of radioactive source codes shall be filed with the competent department of ecology and environment of the State Council.\nRadioactive sources produced shall bear clear serial numbers and necessary explanatory documents. For Class I, Class II and Class III radioactive sources, the serial numbers shall be engraved on the body of the source or on the shell of the sealed package, while for Class IV and Class V radioactive sources, the serial numbers shall be recorded in the corresponding explanatory documents.\nThe competent department of ecology and environment of the State Council shall be responsible for establishing an information management system for the filing of radioactive isotopes and shall share information with the relevant departments.\nRadioactive isotopes not entered in the product ledger and radioactive sources not coded shall not leave the factory or be sold."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a unit holding radioactive sources returns spent radioactive sources to the producing unit, returns them to the original exporter, or delivers them to a centralised storage unit for radioactive waste for storage, it shall, within 20 days from the date of completion of the activity, file with the competent department of ecology and environment of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "For radioactive isotopes produced and imported before the entry into force of these Regulations, the unit holding the radioactive isotopes shall, within six months from the date of entry into force of these Regulations, go through the filing formalities with the competent department of ecology and environment of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located, and the said department shall uniformly code the radioactive sources."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a unit using radioactive isotopes needs to transfer radioactive isotopes to another province, autonomous region or municipality directly under the Central Government for use, it shall, with a copy of the licence, file with the competent department of ecology and environment of the people's government of the province, autonomous region or municipality directly under the Central Government of the place of use, and shall accept the supervision and control of the local competent department of ecology and environment."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "For the export of radioactive isotopes listed in the catalogue of restricted import and export, supporting materials proving that the importing party may lawfully hold the radioactive isotopes shall be provided, and the competent department of ecology and environment of the State Council shall complete the relevant formalities in accordance with the relevant laws and the international treaties and agreements concluded or acceded to by China.\nThe export of radioactive isotopes shall comply with the relevant State provisions on foreign trade."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Licensing and Filing"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A unit producing, selling or using radioactive isotopes or radiation devices shall be responsible for the safety and protection of its radioactive isotopes and radiation devices and shall, in accordance with law, bear liability for the radiation harm caused by them.\nThe competent department of the industry of units producing radioactive isotopes shall strengthen the management of the safety and protection work of the producing units and shall periodically supervise and inspect their implementation of laws, regulations and State standards."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A unit producing, selling or using radioactive isotopes or radiation devices shall provide education and training in safety and protection knowledge to the staff directly engaged in production, sale or use activities and shall assess them; those who fail the assessment shall not take up their posts.\nKey posts for radiation safety shall be held by registered nuclear safety engineers. The catalogue of key posts for radiation safety shall be formulated and published by the competent department of ecology and environment of the State Council in consultation with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A unit producing, selling or using radioactive isotopes or radiation devices shall, strictly in accordance with the State provisions on personal dose monitoring and health management, conduct personal dose monitoring and occupational health examinations for the staff directly engaged in production, sale or use activities, and establish personal dose records and occupational health surveillance records."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A unit producing, selling or using radioactive isotopes or radiation devices shall conduct an annual assessment of the safety and protection status of its radioactive isotopes and radiation devices. Where a hidden safety hazard is discovered, rectification shall be carried out immediately."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a unit producing, selling or using radioactive isotopes or radiation devices needs to terminate its activities, it shall, in advance, sort out and register its radioactive isotopes and radioactive waste, make proper arrangements for their disposal, and shall not leave any hidden safety hazard. Where a unit producing, selling or using radioactive isotopes or radiation devices undergoes a change, the unit after the change shall bear the responsibility for disposal. Where the parties concerned have otherwise agreed before the change, such agreement shall prevail; however, the agreement shall not exempt the parties from their disposal obligations.\nFor units producing, selling or using radioactive isotopes or radiation devices that have already terminated before the entry into force of these Regulations, the competent department of ecology and environment of the people's government of the province, autonomous region or municipality directly under the Central Government where they are located shall propose a disposal plan and dispose of their untreated spent radioactive sources and radioactive waste in a timely manner. The funds required shall be borne by the people's government at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a unit producing or importing radioactive sources sells Class I, Class II or Class III radioactive sources to other units for use, it shall conclude an agreement on the return of spent radioactive sources with the unit using the radioactive sources; the unit using the radioactive sources shall, in accordance with the agreement on the return of spent radioactive sources, return the spent radioactive sources to the producing unit or to the original exporter. Where it is truly impossible to return them to the producing unit or to the original exporter, they shall be delivered to a centralised storage unit for radioactive waste with the corresponding qualifications for storage.\nThe unit using radioactive sources shall, in accordance with the provisions of the competent department of ecology and environment of the State Council, package and prepare Class IV and Class V spent radioactive sources and deliver them to a centralised storage unit for radioactive waste with the corresponding qualifications for storage."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The premises where Class I, Class II and Class III radioactive sources are used and the premises where radioactive isotopes are produced, as well as radiation devices that generate radioactive contamination after the termination of operation, shall be decommissioned in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The premises where radioactive isotopes and radiation devices are produced, sold, used or stored shall be provided with conspicuous radiation signs in accordance with the relevant State provisions, and safety and protection facilities and the necessary protective safety interlocks, alarm devices or operating signals shall be installed at their entrances in accordance with the requirements of the relevant State safety and protection standards. The premises for the production, commissioning and use of radiation devices shall be provided with safety measures to prevent misoperation and to prevent workers and the public from accidental exposure.\nThe packaging containers of radioactive isotopes, equipment containing radioactive isotopes and radiation devices shall be marked with conspicuous radioactive markings and warning instructions in Chinese; where radioactive markings can be provided on radioactive sources, they shall also be provided. The means of transport for radioactive isotopes and radiation devices containing radioactive sources shall, in accordance with the relevant State provisions, be provided with conspicuous radiation signs or danger signals."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Radioactive isotopes shall be stored separately and shall not be stored together with flammable, explosive or corrosive articles, and shall be kept in the charge of specially designated persons. When radioactive isotopes are stored, collected, used and returned, registration and inspection shall be carried out so that the accounts correspond to the actual items. Safety measures against fire, water, theft, loss, sabotage and radiation leakage shall be taken at the storage premises for radioactive isotopes.\nFor radioactive sources, corresponding multi-level protection and safety measures shall also be established according to the degree of their potential harm, and movable radioactive sources shall be periodically inventoried to ensure that they are kept at the designated positions and are under reliable safety safeguards."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where radioactive isotopes and radiation devices are used outdoors or in the field, a safety protection zone shall be demarcated in accordance with the requirements of the State safety and protection standards, conspicuous radiation signs shall be provided, and where necessary, specially designated persons shall be assigned to keep guard.\nRadioactive isotope tracer tests carried out in the field shall be subject to the approval of the competent department of ecology and environment of the people's government at or above the provincial level in consultation with the relevant departments at the same level."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Radiation protection equipment, equipment containing radioactive isotopes, radiation devices, products containing radioactive substances and electrical products that generate X-rays in the course of operation shall meet radiation protection requirements. Substandard products shall not leave the factory or be sold."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A medical and health institution that uses radioactive isotopes and radiation devices for radiodiagnosis and radiotherapy shall, in accordance with the relevant provisions of the competent department of health of the State Council and the State standards, formulate a quality assurance programme appropriate to the diagnosis and treatment items in which it engages, comply with the monitoring norms for quality assurance, follow the principles of justification of medical exposure and optimisation of radiation protection, avoid all unnecessary exposure, and inform patients and examinees in advance of the potential effects of radiation on health."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "When recovering and smelting scrap metal, a metal smelting plant shall take the necessary monitoring measures to prevent radioactive substances from being melted into products. Where a problem is found in monitoring, it shall promptly notify the competent department of ecology and environment of the people's government at or above the level of a city with districts where it is located."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Safety and Protection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "According to factors such as the nature, severity, controllability and scope of impact of radiation accidents, radiation accidents are classified, in descending order of severity, into four grades: particularly serious radiation accidents, serious radiation accidents, relatively serious radiation accidents and ordinary radiation accidents.\nA particularly serious radiation accident means the loss, theft or loss of control of Class I or Class II radioactive sources causing serious radiation contamination over a wide area, or the loss of control of radioactive isotopes and radiation devices resulting in the acute death of three or more persons (inclusive).\nA serious radiation accident means the loss, theft or loss of control of Class I or Class II radioactive sources, or the loss of control of radioactive isotopes and radiation devices resulting in the acute death of two or fewer persons (inclusive) or acute severe radiation sickness or disability of a local organ in 10 or more persons (inclusive).\nA relatively serious radiation accident means the loss, theft or loss of control of Class III radioactive sources, or the loss of control of radioactive isotopes and radiation devices resulting in acute severe radiation sickness or disability of a local organ in nine or fewer persons (inclusive).\nAn ordinary radiation accident means the loss, theft or loss of control of Class IV or Class V radioactive sources, or the loss of control of radioactive isotopes and radiation devices resulting in persons being exposed to radiation in excess of the annual dose limit."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling of Radiation Accidents"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent departments of ecology and environment of the people's governments at or above the county level shall, together with the public security, health, finance and other departments at the same level, prepare emergency plans for radiation accidents and submit them to the people's government at the same level for approval. An emergency plan for radiation accidents shall include the following:\n(a) the emergency response bodies and the division of duties;\n(b) the organisation and training of emergency personnel and the preparation of equipment, funds and materials for emergency response and rescue;\n(c) the grading of radiation accidents and the emergency response measures;\n(d) the procedures for the investigation, reporting and handling of radiation accidents.\nUnits producing, selling or using radioactive isotopes or radiation devices shall, according to the risk of possible radiation accidents, formulate their own emergency plans and make emergency preparations."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling of Radiation Accidents"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "When a radiation accident occurs, the unit producing, selling or using radioactive isotopes or radiation devices shall immediately activate its own emergency plan, take emergency measures and immediately report to the local competent department of ecology and environment, public security department and competent department of health.\nAfter receiving a report of a radiation accident, the competent department of ecology and environment, the public security department and the competent department of health shall immediately send personnel to the scene, conduct an on-site investigation, take effective measures to control and eliminate the impact of the accident, and at the same time report the information on the radiation accident to the people's government at the same level and to the competent department of ecology and environment, the public security department and the competent department of health of the people's government at the higher level.\nAfter receiving a report of a radiation accident, the local people's government at or above the county level and its relevant departments shall, in accordance with the provisions on graded accident reporting, promptly report the information on the radiation accident to the people's government at the higher level and its relevant departments. After a particularly serious or serious radiation accident occurs, the people's government of the province, autonomous region or municipality directly under the Central Government where the accident occurs and the relevant departments of the State Council shall report to the State Council within four hours; under special circumstances, the people's government where the accident occurs and its relevant departments may report directly to the State Council and at the same time report to the people's government at the higher level and its relevant departments.\nDelayed, concealed, false or omitted reporting of radiation accidents is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling of Radiation Accidents"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "When a radiation accident occurs or there is evidence that a radiation accident may occur, the competent department of ecology and environment of the people's government at or above the county level shall have the power to take the following interim control measures:\n(a) order the suspension of the operations that caused or may cause the radiation accident;\n(b) organise the control of the accident scene."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling of Radiation Accidents"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "After a radiation accident occurs, the relevant people's government at or above the county level shall, according to the grade of the radiation accident, activate and organise the implementation of the corresponding emergency plan.\nThe competent departments of ecology and environment, the public security departments and the competent departments of health of the people's governments at or above the county level shall, according to the division of duties, make the corresponding emergency response to radiation accidents:\n(a) the competent department of ecology and environment shall be responsible for the emergency response to, investigation and handling of, and characterisation and grading of radiation accidents, and shall assist the public security department in monitoring and recovering lost or stolen radioactive sources;\n(b) the public security department shall be responsible for filing and investigating cases of lost or stolen radioactive sources and for their recovery;\n(c) the competent department of health shall be responsible for the medical emergency response to radiation accidents.\nThe competent departments of ecology and environment, the public security departments and the competent departments of health shall promptly notify each other of the emergency response, investigation and handling, characterisation and grading, case filing and investigation, and medical emergency response in respect of radiation accidents. The department designated by the State Council shall, according to the nature and grade of the radiation accident determined by the competent department of ecology and environment, be responsible for the relevant international information notification."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling of Radiation Accidents"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A unit where a radiation accident occurs shall immediately send persons who may have suffered radiation injury to a hospital designated by the local competent department of health or a hospital with the capacity to treat patients with radiation injury for examination and treatment, or request the hospital to immediately send personnel to the accident scene to take rescue measures."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling of Radiation Accidents"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The competent departments of ecology and environment and other relevant departments of the people's governments at or above the county level shall, in accordance with their respective duties, supervise and inspect units producing, selling or using radioactive isotopes or radiation devices.\nThe units under inspection shall cooperate, truthfully report the circumstances and provide the necessary information, and shall not refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The competent departments of ecology and environment of the people's governments at or above the county level shall be staffed with radiation protection safety supervisors. Radiation protection safety supervisors shall be professional personnel who engage in radiation protection work, possess radiation protection safety knowledge and are recognised by the competent departments of ecology and environment of the people's governments at or above the provincial level. Radiation protection safety supervisors shall periodically receive professional training and assessment."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in the course of supervision and inspection, the competent department of ecology and environment of a people's government at or above the county level finds that a unit producing, selling or using radioactive isotopes or radiation devices no longer meets the conditions for the original issuance of the licence, it shall order the unit to make rectification within a time limit.\nSupervision and inspection personnel shall present their certificates when conducting supervision and inspection in accordance with law and shall keep the technical and business secrets of the units under inspection confidential."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Any unit or individual shall have the right to report to the competent department of ecology and environment and other relevant departments any act violating these Regulations, and shall have the right to report to the people's government at the same level or the relevant departments of the people's government at the higher level any failure of the competent department of ecology and environment and other relevant departments to perform their supervision and control duties in accordance with law. The people's government, the competent department of ecology and environment and other relevant departments receiving the report shall promptly verify and handle it."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of these Regulations, the competent department of ecology and environment of a people's government at or above the county level commits any of the following acts, an administrative disciplinary sanction shall be given in accordance with law to the person directly in charge and other persons directly responsible; where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) issuing a licence to a unit that does not meet the conditions specified in these Regulations, or approving the import or transfer of radioactive isotopes by a unit that does not meet the conditions specified in these Regulations;\n(b) failing to investigate and punish a unit that, without obtaining a licence in accordance with law, produces, sells or uses radioactive isotopes or radiation devices without authorisation, or failing to handle it in accordance with law after receiving a report;\n(c) failing to investigate and punish the import or transfer of radioactive isotopes without approval in accordance with law, or failing to handle it in accordance with law after receiving a report;\n(d) failing to perform supervision and control duties in respect of units that have obtained licences in accordance with law, or failing to investigate and punish acts violating these Regulations that are discovered;\n(e) other dereliction of duty in the supervision and control of the safety and protection of radioactive isotopes and radiation devices."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of these Regulations, the competent department of ecology and environment of a people's government at or above the county level or another relevant department commits any of the following acts, an administrative disciplinary sanction shall be given in accordance with law to the person directly in charge and other persons directly responsible; where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) delaying, concealing, falsely reporting or omitting to report a radiation accident;\n(b) failing to prepare an emergency plan for radiation accidents as required or failing to perform the duties of emergency response to radiation accidents in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of these Regulations, a unit producing, selling or using radioactive isotopes or radiation devices commits any of the following acts, the competent department of ecology and environment of the people's government at or above the county level shall order it to stop the illegal act and make rectification within a time limit; where it fails to rectify within the time limit, it shall order it to suspend production or business or the original licence-issuing authority shall revoke its licence; where there are illegal gains, the illegal gains shall be confiscated; where the illegal gains are RMB 100,000 or more, a fine of not less than one nor more than five times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000, a fine of not less than RMB 10,000 nor more than RMB 100,000 shall also be imposed:\n(a) engaging in the production, sale or use of radioactive isotopes or radiation devices without a licence;\n(b) engaging in the production, sale or use of radioactive isotopes or radiation devices not in accordance with the provisions of the licence;\n(c) changing the type or scope of the activities in which it engages, or constructing new, reconstructing or expanding production, sale or use facilities or premises, without re-applying for a licence as required;\n(d) where the licence expires and extension is required, failing to complete the extension formalities as required;\n(e) importing or transferring radioactive isotopes without approval."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of these Regulations, a unit producing, selling or using radioactive isotopes or radiation devices changes its name, address or legal representative without completing the licence modification formalities in accordance with law, the competent department of ecology and environment of the people's government at or above the county level shall order it to make rectification within a time limit and give it a warning; where it fails to rectify within the time limit, the original licence-issuing authority shall suspend or revoke its licence."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, in violation of these Regulations, a unit producing, selling or using radioactive isotopes or radiation devices partially or wholly terminates its production, sale or use activities without completing the formalities for licence modification or cancellation as required, the competent department of ecology and environment of the people's government at or above the county level shall order it to stop the illegal act and make rectification within a time limit; where it fails to rectify within the time limit, a fine of not less than RMB 10,000 nor more than RMB 100,000 shall be imposed; where a radiation accident is caused and a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of these Regulations, a licence is forged, altered or transferred, the competent department of ecology and environment of the people's government at or above the county level shall confiscate the forged or altered licence or the original licence-issuing authority shall revoke the licence, and a fine of not less than RMB 50,000 nor more than RMB 100,000 shall be imposed; where a crime is constituted, criminal responsibility shall be investigated in accordance with law.\nWhere, in violation of these Regulations, an approval document for the import or transfer of radioactive isotopes is forged, altered or transferred, the competent department of ecology and environment of the people's government at or above the county level shall confiscate the forged or altered approval document or the original approving authority shall revoke the approval document, and a fine of not less than RMB 50,000 nor more than RMB 100,000 shall be imposed; where the circumstances are serious, the original licence-issuing authority may revoke the licence; where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of these Regulations, a unit producing, selling or using radioactive isotopes commits any of the following acts, the competent department of ecology and environment of the people's government at or above the county level shall order it to make rectification within a time limit and give it a warning; where it fails to rectify within the time limit, the original licence-issuing authority shall suspend or revoke its licence:\n(a) failing to file, as required, in respect of radioactive isotopes transferred in or out;\n(b) failing to file, as required, in respect of the transfer of radioactive isotopes to another province, autonomous region or municipality directly under the Central Government for use;\n(c) failing to file, as required, in respect of the return of spent radioactive sources to the producing unit, their return to the original exporter or their delivery to a centralised storage unit for radioactive waste for storage."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of these Regulations, a unit producing, selling or using radioactive isotopes or radiation devices commits any of the following acts, the competent department of ecology and environment of the people's government at or above the county level shall order it to stop the illegal act and make rectification within a time limit; where it fails to rectify within the time limit, a fine of not less than RMB 10,000 nor more than RMB 100,000 shall be imposed:\n(a) using radioactive isotopes and radiation devices outdoors or in the field without demarcating a safety protection zone and providing conspicuous radiation signs in accordance with the requirements of the relevant State safety and protection standards;\n(b) carrying out radioactive isotope tracer tests in the field without approval."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of these Regulations, a unit producing radioactive isotopes commits any of the following acts, the competent department of ecology and environment of the people's government at or above the county level shall order it to make rectification within a time limit and give it a warning; where it fails to rectify within the time limit, the radioactive isotopes not filed and the radioactive sources not coded shall be confiscated in accordance with law, a fine of not less than RMB 50,000 nor more than RMB 100,000 shall be imposed, and the original licence-issuing authority may suspend or revoke its licence:\n(a) failing to establish a product ledger of radioactive isotopes;\n(b) failing to uniformly code the radioactive sources it produces in accordance with the coding rules formulated by the competent department of ecology and environment of the State Council;\n(c) failing to file the product ledger of radioactive isotopes and the list of radioactive source codes with the competent department of ecology and environment of the State Council;\n(d) leaving the factory or selling radioactive isotopes not entered in the product ledger and radioactive sources not coded."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of these Regulations, a unit producing, selling or using radioactive isotopes or radiation devices commits any of the following acts, the competent department of ecology and environment of the people's government at or above the county level shall order it to stop the illegal act and make rectification within a time limit; where it fails to rectify within the time limit, the original licence-issuing authority shall designate a unit with the capacity for disposal to carry out the disposal or decommissioning on its behalf, the costs of which shall be borne by the unit producing, selling or using radioactive isotopes or radiation devices, and a fine of not less than RMB 10,000 nor more than RMB 100,000 shall be imposed:\n(a) failing to dispose of spent radioactive sources as required;\n(b) failing to decommission, as required, the premises where Class I, Class II and Class III radioactive sources are used and the premises where radioactive isotopes are produced, as well as radiation devices that generate radioactive contamination after the termination of operation."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of these Regulations, a unit producing, selling or using radioactive isotopes or radiation devices commits any of the following acts, the competent department of ecology and environment of the people's government at or above the county level shall order it to stop the illegal act and make rectification within a time limit; where it fails to rectify within the time limit, it shall order it to suspend production or business and impose a fine of not less than RMB 20,000 nor more than RMB 200,000; where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) failing to assess the safety and protection status of its radioactive isotopes and radiation devices as required, or failing to promptly rectify a hidden safety hazard that is discovered;\n(b) failing to install safety and protection facilities and radiation signs as required at the premises where radioactive isotopes and radiation devices are produced, sold, used or stored."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of these Regulations, a radiation accident is caused, the original licence-issuing authority shall order rectification within a time limit and impose a fine of not less than RMB 50,000 nor more than RMB 200,000; where the circumstances are serious, the original licence-issuing authority shall revoke the licence; where an act in violation of public security administration is constituted, the public security organ shall impose a public security penalty in accordance with law; where a crime is constituted, criminal responsibility shall be investigated in accordance with law.\nWhere damage to another person is caused by a radiation accident, civil liability shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a unit producing, selling or using radioactive isotopes or radiation devices is ordered to make rectification within a time limit but fails to rectify within the time limit, or still fails to meet the conditions for the original issuance of the licence after rectification, the original licence-issuing authority shall suspend or revoke its licence."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "A unit whose licence has been revoked in accordance with law, or a unit that has forged or altered a licence, in violation of these Regulations, shall not apply for a licence within five years."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The division of the authority of the competent departments of ecology and environment of the local people's governments at or above the county level to impose administrative penalties shall be determined by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The supervision and control of the safety and protection of military radioactive isotopes and radiation devices shall be governed by the provisions of Article 60 of the Law of the People's Republic of China on the Prevention and Control of Radioactive Pollution."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The prevention and control of occupational diseases caused by workers' exposure to radioactive isotopes and radiation devices in occupational activities shall be governed by the Law of the People's Republic of China on the Prevention and Control of Occupational Diseases and the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The transport of radioactive isotopes and the disposal of radioactive waste generated in the production, sale and use of radioactive isotopes and radiation devices shall be governed by the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "In these Regulations, the following terms have the following meanings:\nRadioactive isotope means a nuclide of an element that undergoes radioactive decay and has the same atomic number but a different mass.\nRadioactive source means solid radioactive material permanently sealed in a container or with a tight cladding, other than material within the scope of the nuclear fuel cycle of research reactors and power reactors.\nRadiation device means an X-ray machine, an accelerator, a neutron generator or a device containing a radioactive source.\nUnsealed radioactive substance means radioactive material that is not permanently sealed in a cladding or tightly consolidated in a covering layer.\nTransfer means the transfer of the ownership or right of use of radioactive isotopes between different holders, other than import, export and recovery activities.\nElectrical product that generates X-rays in the course of operation means an electrical product that is not intended to generate X-rays but generates X-rays in the course of production or use.\nRadiation accident means the loss, theft or loss of control of a radioactive source, or the loss of control of radioactive isotopes and radiation devices resulting in accidental abnormal exposure of persons."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 December 2005. The Regulations on Radiation Protection of Radioactive Isotopes and Radiation Devices promulgated by the State Council on 24 October 1989 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0080'] = {
+    "lawId": "CN-REG-0080",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 68 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to strengthen the safety administration of the transport of radioactive items, safeguard human health, protect the environment and promote the development and peaceful use of nuclear energy and nuclear technology, these Regulations are formulated in accordance with the Law of the People's Republic of China on the Prevention and Control of Radioactive Pollution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the transport of radioactive items and to activities such as the design and manufacture of transport containers for radioactive items.\nFor the purposes of these Regulations, radioactive items mean items that contain radioactive nuclides and whose activity and specific activity are both higher than the exemption values prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Radioactive items are classified into Class I, Class II and Class III according to their characteristics and the degree of potential harm they pose to human health and the environment.\nClass I radioactive items mean radioactive items such as Class I radioactive sources, high-level radioactive waste and spent fuel that, after release into the environment, produce a significant radiation impact on human health and the environment.\nClass II radioactive items mean radioactive items such as Class II and Class III radioactive sources and intermediate-level radioactive waste that, after release into the environment, produce a general radiation impact on human health and the environment.\nClass III radioactive items mean radioactive items such as Class IV and Class V radioactive sources, low-level radioactive waste and radioactive pharmaceutical products that, after release into the environment, produce a relatively minor radiation impact on human health and the environment.\nThe specific classification and catalogue of radioactive items shall be formulated by the nuclear safety regulatory department of the State Council together with the competent departments of public security, health, customs, transport, railways, civil aviation and the nuclear industry of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The nuclear safety regulatory department of the State Council shall exercise supervision and administration over the nuclear and radiation safety of the transport of radioactive items.\nThe competent departments of public security, transport, railways and civil aviation and other relevant departments of the State Council shall, in accordance with the provisions of these Regulations and their respective duties, be responsible for the related supervision and administration of the safety of the transport of radioactive items.\nThe competent departments of environmental protection, public security and transport and other relevant departments of the local people's governments at or above the county level shall, in accordance with the provisions of these Regulations and their respective duties, be responsible for the related supervision and administration of the safety of the transport of radioactive items within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Dedicated transport packaging containers for radioactive items (hereinafter referred to as transport containers) shall be used for the transport of radioactive items.\nThe transport of radioactive items and the design and manufacture of transport containers for radioactive items shall conform to the national standards for the safety of the transport of radioactive items.\nThe national standards for the safety of the transport of radioactive items shall be formulated by the nuclear safety regulatory department of the State Council and jointly promulgated by the nuclear safety regulatory department and the competent department of standardisation of the State Council. In formulating the national standards for the safety of the transport of radioactive items, the nuclear safety regulatory department of the State Council shall solicit the opinions of the competent departments of public security, health, transport, railways, civil aviation and the nuclear industry of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Entities designing and manufacturing transport containers for radioactive items shall establish and improve a responsibility system, strengthen quality management, and be responsible for the design and manufacturing activities of transport containers for radioactive items that they undertake.\nThe consignor of radioactive items (hereinafter referred to as the consignor) shall formulate an emergency plan for nuclear and radiation accidents, take effective radiation protection and safety and security measures in the transport of radioactive items, and be responsible for nuclear and radiation safety in the transport of radioactive items."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "All entities and individuals have the right to report to the nuclear safety regulatory department of the State Council or to other departments that perform the duty of supervision and administration of the safety of the transport of radioactive items in accordance with law any act that violates the provisions of these Regulations.\nThe department receiving a report shall investigate and handle it in accordance with law and keep the identity of the informant confidential."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A design entity of transport containers for radioactive items shall establish, improve and effectively implement a quality assurance system, carry out design in accordance with the national standards for the safety of the transport of radioactive items, and evaluate the safety performance of the transport containers designed by means of testing and verification or analytical demonstration."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Design of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A design entity of transport containers for radioactive items shall establish and improve an archive system and, in accordance with the requirements of the quality assurance system, truthfully record the process of designing and evaluating the safety performance of transport containers for radioactive items.\nFor the design of a Class I transport container for radioactive items, a design safety evaluation report shall be prepared; for the design of a Class II transport container for radioactive items, a design safety evaluation report form shall be prepared."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Design of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The design of a Class I transport container for radioactive items shall be submitted to the nuclear safety regulatory department of the State Council for examination and approval before it is first used for manufacture.\nTo apply for approval of the design of a Class I transport container for radioactive items, the design entity shall submit a written application to the nuclear safety regulatory department of the State Council and submit the following materials:\n(a) the general design drawings and the design specifications thereof;\n(b) the design safety evaluation report;\n(c) the quality assurance programme."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Design of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The nuclear safety regulatory department of the State Council shall complete the examination within 45 working days from the date of acceptance of the application and shall, for designs that conform to the national standards for the safety of the transport of radioactive items, issue a design approval certificate for Class I transport containers for radioactive items and announce the approval number; for designs that do not conform to the national standards for the safety of the transport of radioactive items, it shall notify the applicant entity in writing and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Design of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a design entity modifies safety-related content in an approved design of a Class I transport container for radioactive items, it shall, in accordance with the original application procedure, apply afresh to the nuclear safety regulatory department of the State Council for a design approval certificate for Class I transport containers for radioactive items."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Design of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "For the design of a Class II transport container for radioactive items, the design entity shall, before the design is first used for manufacture, file the general design drawings and the design specifications thereof and the design safety evaluation report form with the nuclear safety regulatory department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Design of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "For the design of a Class III transport container for radioactive items, the design entity shall prepare documents certifying that the design conforms to the national standards for the safety of the transport of radioactive items and keep them on file for inspection."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Design of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A manufacturing entity of transport containers for radioactive items shall, in accordance with the design requirements and the national standards for the safety of the transport of radioactive items, carry out quality inspection of the transport containers for radioactive items that it manufactures and prepare quality inspection reports.\nTransport containers for radioactive items that have not undergone quality inspection or that fail inspection shall not be delivered for use."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "An entity engaging in the manufacture of Class I transport containers for radioactive items shall meet the following conditions:\n(a) having professional and technical personnel suited to the manufacturing activities it undertakes;\n(b) having production conditions and testing means suited to the manufacturing activities it undertakes;\n(c) having sound management rules and a perfect quality assurance system."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "An entity engaging in the manufacture of Class I transport containers for radioactive items shall apply for a manufacturing licence for Class I transport containers for radioactive items (hereinafter referred to as the manufacturing licence).\nAn entity applying for the manufacturing licence shall submit a written application to the nuclear safety regulatory department of the State Council together with supporting materials proving that it meets the conditions provided in Article 16 of these Regulations and the model of the transport container that it applies to manufacture.\nIt is prohibited to engage in the manufacture of Class I transport containers for radioactive items without a manufacturing licence or beyond the scope specified in the manufacturing licence."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The nuclear safety regulatory department of the State Council shall complete the examination within 45 working days from the date of acceptance of the application and shall, for entities that meet the conditions, issue the manufacturing licence and announce it; for entities that do not meet the conditions, it shall notify the applicant entity in writing and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The manufacturing licence shall state the following:\n(a) the name, domicile and legal representative of the manufacturing entity;\n(b) the model of the transport container that it is licensed to manufacture;\n(c) the period of validity;\n(d) the licensing authority, the date of issue and the certificate number."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a manufacturing entity of Class I transport containers for radioactive items changes its name, domicile or legal representative, it shall, within 20 days from the date of the industrial and commercial modification registration, complete the formalities for modification of the manufacturing licence with the nuclear safety regulatory department of the State Council.\nWhere a manufacturing entity of Class I transport containers for radioactive items changes the model of the transport container it manufactures, it shall, in accordance with the original application procedure, apply afresh to the nuclear safety regulatory department of the State Council for the manufacturing licence."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The manufacturing licence shall be valid for five years.\nWhere the manufacturing licence expires and extension is required, the manufacturing entity of Class I transport containers for radioactive items shall, six months before the expiry of the manufacturing licence, submit an application for extension to the nuclear safety regulatory department of the State Council.\nThe nuclear safety regulatory department of the State Council shall decide whether to grant the extension before the manufacturing licence expires."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "An entity engaging in the manufacture of Class II transport containers for radioactive items shall, 30 days before the commencement of its first manufacturing activity, file with the nuclear safety regulatory department of the State Council for the record supporting materials proving that it has professional and technical personnel, production conditions and testing means suited to the manufacturing activities it undertakes and that it has sound management rules and a perfect quality assurance system."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Manufacturing entities of Class I and Class II transport containers for radioactive items shall, in accordance with the coding rules formulated by the nuclear safety regulatory department of the State Council, assign unified codes to the Class I and Class II transport containers for radioactive items that they manufacture and shall, before 31 January each year, file the list of transport container codes for the previous year with the nuclear safety regulatory department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "An entity engaging in the manufacture of Class III transport containers for radioactive items shall, before 31 January each year, file the models and quantities of the transport containers it manufactured in the previous year with the nuclear safety regulatory department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A user entity of transport containers for radioactive items shall carry out regular maintenance and servicing of the transport containers for radioactive items that it uses and establish maintenance and servicing archives; where a transport container for radioactive items reaches its designed service life or a hidden safety hazard is found in it, it shall be discontinued from use and dealt with.\nA user entity of Class I transport containers for radioactive items shall also evaluate the safety performance of the Class I transport containers for radioactive items that it uses once every two years and file the evaluation results with the nuclear safety regulatory department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a Class I transport container for radioactive items manufactured by an entity outside the territory is to be used, it shall be submitted to the nuclear safety regulatory department of the State Council for examination and approval before it is first used.\nAn entity applying to use a Class I transport container for radioactive items manufactured by an entity outside the territory shall submit a written application to the nuclear safety regulatory department of the State Council and submit the following materials:\n(a) a copy of the design approval document issued by the nuclear safety regulatory department of the country where the design entity is located;\n(b) the design safety evaluation report;\n(c) supporting materials on the relevant track record of the manufacturing entity;\n(d) the quality conformity certificate;\n(e) explanatory materials showing conformity with the laws and administrative regulations of the People's Republic of China and with the national standards for the safety of the transport of radioactive items or with standards recognised by the nuclear safety regulatory department of the State Council.\nThe nuclear safety regulatory department of the State Council shall complete the examination within 45 working days from the date of acceptance of the application and shall, for containers that conform to the national standards for the safety of the transport of radioactive items, issue a use approval certificate; for containers that do not conform to those standards, it shall notify the applicant entity in writing and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a Class II transport container for radioactive items manufactured by an entity outside the territory is to be used, the quality conformity certificate of the transport container and explanatory materials showing conformity with the laws and administrative regulations of the People's Republic of China and with the national standards for the safety of the transport of radioactive items or with standards recognised by the nuclear safety regulatory department of the State Council shall, before the container is first used, be filed with the nuclear safety regulatory department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the nuclear safety regulatory department of the State Council handles the examination and approval and the filing formalities for the use of Class I and Class II transport containers for radioactive items manufactured by entities outside the territory, it shall at the same time determine codes for the transport containers."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Manufacture and Use of Containers for the Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "To consign radioactive items, the consignor shall hold valid proof of the production, sale, use or disposal of the radioactive items, use transport containers suited to the class of the radioactive items consigned for packaging, be equipped with the necessary radiation monitoring equipment, protective articles and anti-theft and anti-tampering devices, and prepare transport instructions, a guide for emergency response to nuclear and radiation accidents, loading and unloading methods and a safety protection guide.\nThe transport instructions shall include the name, quantity, physical and chemical form and hazard risk of the radioactive items."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "To consign Class I radioactive items, the consignor shall entrust a qualified radiation monitoring institution to monitor surface contamination and radiation levels, and the radiation monitoring institution shall issue a radiation monitoring report.\nTo consign Class II and Class III radioactive items, the consignor shall monitor surface contamination and radiation levels itself and prepare a radiation monitoring report.\nWhere the monitoring results do not conform to the national standards for the safety of the transport of radioactive items, the items shall not be consigned."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "To carry radioactive items, the transport qualification prescribed by the State shall be obtained. The administration of the qualifications of carriers shall be carried out in accordance with the relevant laws, administrative regulations and the provisions of the competent departments of transport, railways, civil aviation and postal service of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The consignor and the carrier shall train the staff directly engaged in the transport of radioactive items in knowledge of transport safety and emergency response and shall assess them; those who fail the assessment shall not engage in the relevant work.\nThe consignor and the carrier shall, in accordance with the national standards for the safety of the transport of radioactive items and the relevant provisions of the State, display warning signs on transport containers and means of transport for radioactive items.\nThe State shall use a satellite positioning system to conduct online monitoring of the transport process of means of transport for Class I and Class II radioactive items. The specific measures shall be formulated by the nuclear safety regulatory department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The consignor and the carrier shall, in accordance with the relevant provisions of the State on the prevention and control of occupational diseases, conduct individual dose monitoring of the staff directly engaged in the transport of radioactive items and establish individual dose archives and occupational health surveillance archives."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The consignor shall submit the transport instructions, the radiation monitoring report, the guide for emergency response to nuclear and radiation accidents, the loading and unloading methods and the safety protection guide to the carrier, and the carrier shall check and keep them. Where the documents submitted by the consignor are incomplete, the carrier shall not carry the items."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "To consign Class I radioactive items, the consignor shall prepare a nuclear and radiation safety analysis report on the transport of the radioactive items and submit it to the nuclear safety regulatory department of the State Council for examination and approval.\nThe nuclear and radiation safety analysis report on the transport of radioactive items shall include the name and quantity of the radioactive items, the model of the transport container, the mode of transport, radiation protection measures, emergency measures and other content.\nThe nuclear safety regulatory department of the State Council shall complete the examination within 45 working days from the date of acceptance of the application and shall, for transport that conforms to the national standards for the safety of the transport of radioactive items, issue an approval certificate for the nuclear and radiation safety analysis report; for transport that does not conform to those standards, it shall notify the applicant entity in writing and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The approval certificate for the nuclear and radiation safety analysis report on the transport of radioactive items shall state the following main content:\n(a) the name, address and legal representative of the consignor;\n(b) the name and quantity of the radioactive items transported;\n(c) the model of the transport container and the mode of transport for the radioactive items;\n(d) the date of approval and the period of validity."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Before Class I radioactive items are dispatched, the consignor shall file the approval certificate for the nuclear and radiation safety analysis report on the transport of the radioactive items and the radiation monitoring report with the competent department of environmental protection of the people's government of the province, autonomous region or municipality directly under the Central Government at the place of departure for the record.\nThe competent department of environmental protection that receives the filed materials shall promptly notify the competent departments of environmental protection of the people's governments of the province, autonomous region or municipality directly under the Central Government at the places en route and at the place of arrival of the relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where radioactive items are transported by road, approval of the public security organ shall be obtained, the vehicle shall travel at the designated time, along the designated route and at the designated speed, display warning signs, be staffed with escort personnel, and keep the radioactive items under the supervision of the escort personnel.\nWhere spent fuel from nuclear reactors is transported by road, the consignor shall submit it to the public security department of the State Council for approval. Where other radioactive items are transported by road, the consignor shall submit them to the public security organ of the people's government at or above the county level at the place of departure for approval. The specific measures shall be formulated by the public security department of the State Council after consultation with the nuclear safety regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where radioactive items are transported by water, the relevant provisions of the laws, administrative regulations and rules on the transport of dangerous goods by water shall be applied.\nWhere radioactive items are transported by railway or air, the relevant provisions of the competent departments of railways and civil aviation of the State Council shall be applied.\nIt is prohibited to post Class I and Class II radioactive items. The posting of Class III radioactive items shall be governed by the relevant provisions of the competent department of postal service of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "An entity that produces, sells, uses or disposes of radioactive items may, in accordance with the provisions of the Regulations of the People's Republic of China on Road Transport, apply to the road transport administration institution of the people's government of a city with districts for a non-commercial road dangerous goods transport qualification in order to transport its own radioactive items, and shall assume the obligations of the consignor and the carrier provided in these Regulations.\nAn entity applying for a non-commercial road dangerous goods transport qualification for radioactive items shall meet the following conditions:\n(a) holding valid proof of the production, sale, use or disposal of radioactive items;\n(b) having transport containers for radioactive items that meet the requirements of these Regulations;\n(c) having professional and technical personnel with knowledge of radiation protection and safety protection and drivers who have passed the examinations;\n(d) having means of transport, facilities and equipment that meet the requirements for safety protection in the transport of radioactive items and that have passed testing;\n(e) being equipped with the necessary protective articles and monitoring instruments that have passed periodic verification in accordance with law;\n(f) having rules and regulations on transport safety and radiation protection management and emergency measures for nuclear and radiation accidents.\nThe specific conditions for the non-commercial road dangerous goods transport qualification for radioactive items shall be formulated by the competent department of transport of the State Council together with the nuclear safety regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where Class I radioactive items are transported from outside the territory into the territory of the People's Republic of China or are transported through the territory of the People's Republic of China, the consignor shall prepare a nuclear and radiation safety analysis report on the transport of the radioactive items and submit it to the nuclear safety regulatory department of the State Council for examination and approval. The examination and approval procedure shall be carried out in accordance with the provisions of paragraph 3 of Article 35 of these Regulations.\nWhere Class II and Class III radioactive items are transported from outside the territory into the territory of the People's Republic of China or are transported through the territory of the People's Republic of China, the consignor shall prepare a radiation monitoring report on the transport of the radioactive items and file it with the nuclear safety regulatory department of the State Council for the record.\nWhere the consignor, the carrier or their agent completes the relevant formalities with the customs, it shall submit the approval certificate for the nuclear and radiation safety analysis report on the transport of radioactive items or the filing certificate for the radiation monitoring report on the transport of radioactive items issued by the nuclear safety regulatory department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Emergency plans for environmental emergencies organised and prepared by people's governments at or above the county level shall include content on emergency response to nuclear and radiation accidents that may occur in the transport of radioactive items."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a nuclear and radiation accident occurs in the transport of radioactive items, the carrier and the consignor shall, in accordance with the requirements of the guide for emergency response to nuclear and radiation accidents, carry out accident emergency work properly and immediately report to the competent department of environmental protection of the people's government at or above the county level at the place where the accident occurs. The competent department of environmental protection receiving the report shall immediately send personnel to the scene, conduct an on-site investigation, take effective measures to control the impact of the accident, and promptly report to the people's government at the same level and notify the competent departments of public security, health and transport at the same level.\nThe people's government at or above the county level that receives the report and its relevant competent departments shall, in accordance with the emergency plan, carry out emergency work properly and promptly report information on the nuclear and radiation accident at the higher level in accordance with the provisions of the State on classified reporting of emergencies.\nThe preparation for and response to nuclear accident emergencies in the transport of spent fuel from nuclear reactors shall also comply with the relevant provisions of the State on nuclear emergencies."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport of Radioactive Materials"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The nuclear safety regulatory department of the State Council and other departments that perform the duty of supervision and administration of the safety of the transport of radioactive items in accordance with law shall, on the basis of their respective duties, conduct supervision and inspection of the safety of the transport of radioactive items.\nThe nuclear safety regulatory department of the State Council shall notify the competent departments of environmental protection of the people's governments of the province, autonomous region or municipality directly under the Central Government at the place where the design and manufacturing entities are located and at the places en route of the transport of the design and manufacture of the Class I, Class II and Class III transport containers for radioactive items that it has approved or recorded and of the transport of radioactive items. The competent departments of environmental protection of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall strengthen supervision and inspection and supervisory monitoring of the safety of the transport of radioactive items within their respective administrative areas.\nThe entities inspected shall cooperate, truthfully report the circumstances and provide the necessary information, and shall not refuse or obstruct the inspection."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the nuclear safety regulatory department of the State Council, the competent departments of environmental protection of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and other departments that perform the duty of supervision and administration of the safety of the transport of radioactive items in accordance with law conduct supervision and inspection, the supervisory and inspecting personnel shall not be fewer than two persons and shall produce valid administrative law enforcement certificates.\nThe staff of the nuclear safety regulatory department of the State Council, of the competent departments of environmental protection of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and of other departments that perform the duty of supervision and administration of the safety of the transport of radioactive items in accordance with law shall keep confidential the commercial secrets they learn of in supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where supervision and inspection reveals that an approved design of a Class I transport container for radioactive items does in fact have a major design safety defect, the nuclear safety regulatory department of the State Council shall order the manufacture or use of transport containers of that model to be stopped and revoke the design approval certificate for Class I transport containers for radioactive items."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where supervision and inspection reveals that an activity of transporting radioactive items fails to conform to the national standards for the safety of the transport of radioactive items, or that a manufacturing entity of Class I transport containers for radioactive items fails to meet the conditions specified in the manufacturing licence, it shall be ordered to rectify within a prescribed period; where it is found that the activity of transporting radioactive items may cause nuclear and radiation harm to human health and the environment, the transport shall be ordered to stop."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the nuclear safety regulatory department of the State Council, the competent departments of environmental protection of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and other departments that perform the duty of supervision and administration of the safety of the transport of radioactive items in accordance with law monitor activities of transporting radioactive items, they shall not charge monitoring fees.\nThe nuclear safety regulatory department of the State Council, the competent departments of environmental protection of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and other departments that perform the duty of supervision and administration of the safety of the transport of radioactive items in accordance with law shall strengthen training of supervisory and administrative personnel in knowledge of radiation protection and safety protection."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the nuclear safety regulatory department of the State Council, the competent departments of environmental protection of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government or other departments that perform the duty of supervision and administration of the safety of the transport of radioactive items in accordance with law commit any of the following acts, a sanction shall be given in accordance with law to the directly responsible persons in charge and other directly responsible persons; where a directly responsible person in charge or other directly responsible person commits a crime, criminal responsibility shall be investigated in accordance with law:\n(a) failing to make an administrative licence decision or to handle approval documents in accordance with the provisions of these Regulations;\n(b) discovering an act that violates the provisions of these Regulations but failing to investigate and deal with it, or receiving a report but failing to handle it in accordance with law;\n(c) failing to perform in accordance with law the duty of emergency response to nuclear and radiation accidents in the transport of radioactive items;\n(d) charging monitoring fees for monitoring activities of transporting radioactive items;\n(e) other acts of failing to perform the duty of supervision and administration in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a design or manufacturing entity of transport containers for radioactive items commits any of the following acts, the nuclear safety regulatory department of the State Council shall order it to stop the illegal act and shall impose a fine of not less than RMB 500,000 but not more than RMB 1 million; where there are illegal gains, the illegal gains shall be confiscated:\n(a) using for manufacture a design of a Class I transport container for radioactive items for which no design approval certificate has been obtained;\n(b) modifying safety-related content in an approved design of a Class I transport container for radioactive items and using it for manufacture without obtaining a new design approval certificate."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a design or manufacturing entity of transport containers for radioactive items commits any of the following acts, the nuclear safety regulatory department of the State Council shall order it to stop the illegal act and shall impose a fine of not less than RMB 50,000 but not more than RMB 100,000; where there are illegal gains, the illegal gains shall be confiscated:\n(a) using for manufacture a design of a Class II or Class III transport container for radioactive items that does not conform to the national standards for the safety of the transport of radioactive items;\n(b) using for manufacture a design of a Class II transport container for radioactive items that has not been filed for the record."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a design entity of transport containers for radioactive items commits any of the following acts, the nuclear safety regulatory department of the State Council shall order it to rectify within a prescribed period; where it fails to rectify at the expiry of the period, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed:\n(a) failing to evaluate the safety performance of the design of a Class II or Class III transport container for radioactive items;\n(b) failing to truthfully record the process of designing and evaluating the safety performance of a Class II or Class III transport container for radioactive items;\n(c) failing to prepare and keep on file for inspection documents certifying that the design of a Class III transport container for radioactive items conforms to the national standards for the safety of the transport of radioactive items."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a manufacturing entity of transport containers for radioactive items commits any of the following acts, the nuclear safety regulatory department of the State Council shall order it to stop the illegal act and shall impose a fine of not less than RMB 500,000 but not more than RMB 1 million; where there are illegal gains, the illegal gains shall be confiscated:\n(a) engaging in the manufacture of Class I transport containers for radioactive items without obtaining a manufacturing licence;\n(b) continuing to engage in the manufacture of Class I transport containers for radioactive items after the manufacturing licence has expired without completing the extension formalities in accordance with the provisions;\n(c) engaging in the manufacture of Class I transport containers for radioactive items beyond the scope specified in the manufacturing licence;\n(d) changing the model of the Class I transport containers for radioactive items manufactured without obtaining the manufacturing licence afresh in accordance with the provisions;\n(e) delivering for use Class I transport containers for radioactive items that have not undergone quality inspection or that fail inspection.\nWhere any of the acts in subparagraphs (c), (d) and (e) of the preceding paragraph is committed and the circumstances are serious, the manufacturing licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a manufacturing entity of Class I transport containers for radioactive items changes its name, domicile or legal representative without completing the formalities for modification of the manufacturing licence in accordance with law, the nuclear safety regulatory department of the State Council shall order it to rectify within a prescribed period; where it fails to rectify at the expiry of the period, a fine of RMB 20,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a manufacturing entity of transport containers for radioactive items commits any of the following acts, the nuclear safety regulatory department of the State Council shall order it to stop the illegal act and shall impose a fine of not less than RMB 50,000 but not more than RMB 100,000; where there are illegal gains, the illegal gains shall be confiscated:\n(a) failing to file the relevant supporting materials with the nuclear safety regulatory department of the State Council for the record in accordance with the provisions before the first manufacturing activity of Class II transport containers for radioactive items begins;\n(b) delivering for use Class II or Class III transport containers for radioactive items that have not undergone quality inspection or that fail inspection."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a manufacturing entity of transport containers for radioactive items commits any of the following acts, the nuclear safety regulatory department of the State Council shall order it to rectify within a prescribed period; where it fails to rectify at the expiry of the period, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed:\n(a) failing to assign unified codes to the Class I and Class II transport containers for radioactive items that it manufactures in accordance with the provisions;\n(b) failing to file the list of codes of the Class I and Class II transport containers for radioactive items that it manufactures with the nuclear safety regulatory department of the State Council for the record in accordance with the provisions;\n(c) failing to file the models and quantities of the Class III transport containers for radioactive items that it manufactures with the nuclear safety regulatory department of the State Council for the record in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a user entity of transport containers for radioactive items fails to evaluate the safety performance of the Class I transport containers for radioactive items that it uses in accordance with the provisions, or fails to file the evaluation results with the nuclear safety regulatory department of the State Council for the record, the nuclear safety regulatory department of the State Council shall order it to rectify within a prescribed period; where it fails to rectify at the expiry of the period, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a Class I transport container for radioactive items manufactured by an entity outside the territory is used without obtaining a use approval certificate in accordance with the provisions, the nuclear safety regulatory department of the State Council shall order the illegal act to be stopped and shall impose a fine of not less than RMB 500,000 but not more than RMB 1 million.\nWhere a Class II transport container for radioactive items manufactured by an entity outside the territory is used without completing the filing formalities in accordance with the provisions, the nuclear safety regulatory department of the State Council shall order the illegal act to be stopped and shall impose a fine of not less than RMB 50,000 but not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the consignor fails to prepare transport instructions, a guide for emergency response to nuclear and radiation accidents, loading and unloading methods and a safety protection guide for radioactive items in accordance with the provisions, the nuclear safety regulatory department of the State Council shall order it to rectify within a prescribed period; where it fails to rectify at the expiry of the period, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed.\nWhere the consignor fails to file the approval certificate for the nuclear and radiation safety analysis report on the transport of radioactive items and the radiation monitoring report in accordance with the provisions, the competent department of environmental protection of the people's government of the province, autonomous region or municipality directly under the Central Government at the place of departure shall order it to rectify within a prescribed period; where it fails to rectify at the expiry of the period, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where the consignor or the carrier, in an activity of transporting radioactive items, commits an act that violates the provisions of the relevant laws and administrative regulations on the administration of the transport of dangerous goods, the competent departments of transport, railways, civil aviation and other relevant departments shall impose a penalty in accordance with law.\nWhere radioactive items are posted in violation of the provisions of the relevant laws and administrative regulations, the public security organ and the department of postal service shall impose a penalty in accordance with law. Where radioactive items are found in posted incoming articles, the customs shall deal with them in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the consignor consigns Class I radioactive items without obtaining the approval certificate for the nuclear and radiation safety analysis report on the transport of radioactive items, the nuclear safety regulatory department of the State Council shall order the illegal act to be stopped and shall impose a fine of not less than RMB 500,000 but not more than RMB 1 million."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where radioactive items are transported by road and any of the following acts is committed, the public security organ shall order rectification within a prescribed period and impose a fine of not less than RMB 20,000 but not more than RMB 100,000; where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) transporting radioactive items by road without the approval of the public security organ;\n(b) the transport vehicle failing to travel at the designated time, along the designated route and at the designated speed or failing to display warning signs;\n(c) failing to be staffed with escort personnel or the radioactive items departing from the supervision of the escort personnel."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where the consignor commits any of the following acts, the competent department of environmental protection of the people's government of the province, autonomous region or municipality directly under the Central Government at the place of departure shall order the illegal act to be stopped and shall impose a fine of not less than RMB 50,000 but not more than RMB 200,000:\n(a) failing to monitor the surface contamination and radiation levels of the radioactive items consigned in accordance with the provisions;\n(b) delivering for consignment radioactive items that are found by monitoring not to conform to the national standards for the safety of the transport of radioactive items;\n(c) issuing a false radiation monitoring report."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where radioactive items from outside the territory are transported into the territory of the People's Republic of China or are transported through the territory of the People's Republic of China without the approval certificate for the nuclear and radiation safety analysis report on the transport of radioactive items or the filing certificate for the radiation monitoring report on the transport of radioactive items, the customs shall order the consignor to return the radioactive items and impose a penalty in accordance with the customs laws and administrative regulations; where a crime is constituted, criminal responsibility shall be investigated in accordance with law. Where the consignor is unknown, the carrier shall bear the responsibility for returning the radioactive items or bear the costs of disposing of the radioactive items."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a nuclear and radiation accident is caused in the transport of radioactive items, the competent department of environmental protection of the local people's government at or above the county level shall impose a fine, the amount of which shall be calculated at 20 per cent of the direct losses caused by the nuclear and radiation accident; where a crime is constituted, criminal responsibility shall be investigated in accordance with law.\nWhere the consignor or the carrier fails to carry out accident emergency work properly and report the accident in accordance with the requirements of the guide for emergency response to nuclear and radiation accidents, the competent department of environmental protection of the local people's government at or above the county level shall impose a fine of not less than RMB 50,000 but not more than RMB 200,000.\nWhere a nuclear and radiation accident causes harm to another person, civil liability shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a person refuses or obstructs supervision and inspection by the nuclear safety regulatory department of the State Council or by another department that performs the duty of supervision and administration of the safety of the transport of radioactive items in accordance with law, or practises fraud when accepting supervision and inspection, the supervisory and inspecting department shall order rectification and impose a fine of not less than RMB 10,000 but not more than RMB 20,000; where an act violating the administration of public security is constituted, the public security organ shall impose a penalty for the administration of public security in accordance with law; where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The supervision and administration of the safety of the transport of military radioactive items shall be carried out in accordance with the provisions of Article 60 of the Law of the People's Republic of China on the Prevention and Control of Radioactive Pollution."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 January 2010."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0081'] = {
     "lawId": "CN-REG-0081",
     "sourceLang": "zh",
@@ -15633,6 +25395,726 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0082'] = {
+    "lawId": "CN-REG-0082",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 60 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to regulate the conduct of non-bank payment institutions, protect the lawful rights and interests of the parties concerned, prevent and resolve risks and promote the sound development of the non-bank payment industry, these Regulations are formulated in accordance with the Law of the People's Republic of China on the People's Bank of China, the E-commerce Law of the People's Republic of China and other laws."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, non-bank payment institutions mean limited liability companies or joint stock companies established in accordance with law within the territory of the People's Republic of China (hereinafter referred to as within the territory) which, apart from banking financial institutions, have obtained a payment business licence and engage in payment business such as the transfer of monetary funds on the basis of electronic payment instructions submitted by payees or payers (hereinafter collectively referred to as users).\nWhere a non-bank institution outside the territory of the People's Republic of China (hereinafter referred to as outside the territory) intends to provide cross-border payment services to users within the territory, it shall establish a non-bank payment institution within the territory in accordance with the provisions of these Regulations, unless otherwise provided by the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In conducting business, a non-bank payment institution shall comply with the provisions of laws and administrative regulations, follow the principles of safety, efficiency, good faith and fair competition, take the provision of small-sum payment services convenient to the public as its purpose, safeguard national financial security, and shall not harm national interests, public interests or the lawful rights and interests of others."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The supervision and administration of non-bank payment institutions shall implement the line, principles and policies and the decisions and arrangements of the Party and the State, focus on serving the real economy, balance development and security, and maintain the order of fair competition.\nThe People's Bank of China shall exercise supervision and administration over non-bank payment institutions in accordance with law. The branches of the People's Bank of China shall perform the duties of supervision and administration as authorised by the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Non-bank payment institutions shall comply with the provisions on anti-money laundering and counter-terrorism financing, combating telecom and online fraud, preventing and disposing of illegal fund-raising and combating gambling, and shall take the necessary measures to prevent and counter illegal and criminal activities."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The establishment of a non-bank payment institution shall be subject to the approval of the People's Bank of China and the obtaining of a payment business licence. The name of a non-bank payment institution shall contain the word \"payment\".\nWithout approval obtained in accordance with law, no entity or individual may engage in, or engage in a disguised form of, payment business, or use the word \"payment\" in the name of the entity or in the scope of business, unless otherwise provided by laws, administrative regulations or the State. Where a payment business licence is cancelled in accordance with law, the institution shall not continue to use the word \"payment\" in its name or scope of business."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The establishment of a non-bank payment institution shall conform to the provisions of the Company Law of the People's Republic of China and meet the following conditions:\n(a) having registered capital that conforms to the provisions of these Regulations;\n(b) the major shareholders and actual controllers having a sound financial condition and good records of good faith, and having no record of major violations of laws and regulations in the last three years; where a major shareholder or actual controller is a company, its equity structure shall be clear and transparent and there shall be no dispute over ownership;\n(c) the proposed directors, supervisors and senior managers being familiar with the relevant laws and regulations, having the business management capability required to perform their duties, and having no record of major violations of laws and regulations in the last three years;\n(d) having business premises, safety and security measures and business systems, facilities and technology that conform to the provisions;\n(e) having a sound corporate governance structure, internal control and risk management systems, an exit plan and a mechanism for protecting the rights and interests of users;\n(f) other prudential conditions provided by laws, administrative regulations and the rules of the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The minimum amount of registered capital for the establishment of a non-bank payment institution shall be RMB 100 million, which shall be paid-up monetary capital.\nThe People's Bank of China may, on the basis of factors such as the type of business, the scope of business territory and the business scale of the non-bank payment institution, raise the minimum amount of registered capital provided in the preceding paragraph.\nThe shareholders of a non-bank payment institution shall make capital contributions with their own funds and shall not contribute with entrusted funds, debt funds or other funds that are not their own."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To apply for the establishment of a non-bank payment institution, an application shall be submitted to the People's Bank of China together with materials proving that it meets the conditions provided in Article 7 and Article 8 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The People's Bank of China shall, within six months from the date of acceptance of the application, make a decision to approve or not to approve. Where it decides to approve, it shall issue a payment business licence and announce it; where it decides not to approve, it shall notify the applicant in writing and explain the reasons.\nThe payment business licence shall state the type of business that the non-bank payment institution may engage in and the scope of its business territory."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "After receiving the payment business licence, the applicant shall promptly complete the registration formalities with the market supervision and administration department and obtain a business licence.\nWhere a non-bank payment institution has not carried out payment business for two consecutive years or more without justified reasons after its establishment, the People's Bank of China shall cancel its payment business licence."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The principal place of business of a non-bank payment institution shall be consistent with its registered domicile. Where a non-bank payment institution intends to provide payment services to designated merchants operating offline in a province, autonomous region or municipality directly under the Central Government other than the place of its domicile, it shall establish a branch in accordance with the provisions and file it with the People's Bank of China for the record.\nFor the purposes of these Regulations, designated merchants mean business entities that conclude a payment service agreement with a non-bank payment institution and for which the non-bank payment institution completes the settlement of funds in accordance with the agreement."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A non-bank payment institution shall obtain the approval of the People's Bank of China to handle the following matters:\n(a) changing its name, registered capital, type of business or scope of business territory;\n(b) changing its domicile across provinces, autonomous regions or municipalities directly under the Central Government;\n(c) changing its major shareholders or actual controllers;\n(d) changing its directors, supervisors or senior managers;\n(e) merging or splitting.\nWhere a non-bank payment institution applies to change its name or registered capital, the People's Bank of China shall, within one month from the date of acceptance of the application, make a written decision to approve or not to approve; where it applies to handle the other matters listed in the preceding paragraph, the People's Bank of China shall, within three months from the date of acceptance of the application, make a written decision to approve or not to approve. After approval, the non-bank payment institution shall complete the relevant registration formalities with the market supervision and administration department in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a non-bank payment institution intends to terminate its payment business, it shall apply to the People's Bank of China for cancellation of its payment business licence. Where a non-bank payment institution applies for cancellation of its payment business licence, or has its payment business licence revoked or its payment business permit withdrawn by the People's Bank of China, it shall, in accordance with the provisions, formulate a plan that effectively safeguards the safety of users' funds and information and announce it to users. Where a non-bank payment institution is dissolved, it shall also carry out liquidation in accordance with law, and the liquidation process shall be subject to the supervision of the People's Bank of China.\nOnly after a non-bank payment institution has completed the formalities for cancellation of its payment business licence may it complete the formalities for modification or cancellation of registration with the market supervision and administration department."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment, Change and Termination"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Non-bank payment business is divided into stored-value account operation and payment transaction processing according to whether funds prepaid by payers may be received, except that single-purpose prepaid card business is not payment business as provided in these Regulations.\nThe specific classification method and the supervision and administration rules for stored-value account operation business and payment transaction processing business shall be formulated by the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A non-bank payment institution shall engage in payment business in accordance with the type of business and the scope of business territory stated in its payment business licence, and shall not engage in other business that requires approval in accordance with law without approval.\nA non-bank payment institution shall not alter, resell, lease or lend its payment business licence, or illegally transfer the administrative licence in any other form."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A non-bank payment institution shall, in accordance with the requirements of prudent operation, establish, improve and implement a compliance management system, an internal control system, a business management system, a risk management system, an emergency plan for unexpected events and a mechanism for protecting the rights and interests of users."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A non-bank payment institution shall have the necessary and independent business systems, facilities and technology and shall, in accordance with the mandatory national standards and the relevant requirements for the administration of network and data security, ensure the timeliness and accuracy of payment transaction processing and the continuity, security and traceability of payment business.\nThe business systems of a non-bank payment institution and their backups shall be kept within the territory."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a non-bank payment institution provides payment services for transactions within the territory, it shall complete transaction processing, settlement of funds and data storage within the territory.\nWhere a non-bank payment institution provides payment services for cross-border transactions, it shall comply with the relevant provisions on cross-border payment, cross-border renminbi business, foreign exchange administration and cross-border data flow."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A non-bank payment institution shall conclude a payment service agreement with the user. A non-bank payment institution shall draft the terms of the agreement in accordance with the principle of fairness and shall make them public in a conspicuous position at its business premises, on its official website, in its mobile internet applications and elsewhere.\nThe payment service agreement shall specify the rights and obligations of the non-bank payment institution and the user, the payment business process, the transmission path of electronic payment instructions, the settlement of funds, the principles for handling disputes, liability for breach of contract and other matters, and shall not contain content that excludes or restricts competition, or that unreasonably exempts or mitigates the liability of the non-bank payment institution, aggravates the liability of the user, or restricts or excludes the main rights of the user. For terms in the agreement that are sufficient to affect whether a user agrees to use the payment services, the non-bank payment institution shall draw the user's attention to them in a reasonable manner and explain them at the user's request.\nWhere a non-bank payment institution intends to modify the content of the agreement, it shall fully solicit the opinions of users and may modify it only after it has been announced for 30 days in the conspicuous position provided in paragraph 1 of this Article. The non-bank payment institution shall reach agreement with the user on the modified content of the agreement in written form such as an electronic data message."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A non-bank payment institution shall establish a continuous and effective system of user due diligence, identify and verify user identities in accordance with the provisions, understand the transaction background and risk profile of users, and take corresponding risk management measures.\nA non-bank payment institution shall not entrust a third party with the processing of core business and technical services relating to the security of funds and information."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A non-bank payment institution shall itself complete business activities such as due diligence on designated merchants, the conclusion of payment service agreements and continuous risk monitoring. A non-bank payment institution shall not provide services to merchants that have not been established in accordance with law or that engage in illegal business activities."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a non-bank payment institution engaging in stored-value account operation business opens a payment account for a user, it shall comply with the provisions of laws and administrative regulations and of the People's Bank of China on the administration of payment accounts. The State guides and encourages non-bank payment institutions to cooperate with commercial banks and to provide payment services to entity users through bank accounts.\nThe non-bank payment institution provided in the preceding paragraph shall establish and improve business management and risk management systems for the opening, use, modification and cancellation of payment accounts, prevent the opening of anonymous and pseudonymous payment accounts, take effective measures to safeguard the security of payment accounts, carry out risk monitoring of abnormal accounts, and prevent payment accounts from being used in illegal and criminal activities.\nFor the purposes of these Regulations, payment accounts mean electronic book-entry carriers opened for users in accordance with their true intention and used to initiate payment instructions, reflect transaction details and record fund balances. Payment accounts shall be opened in the real name of the user.\nNo entity or individual may illegally buy or sell, lease or lend payment accounts."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A non-bank payment institution engaging in stored-value account operation business shall promptly convert the prepaid funds obtained from users into payment account balances or prepaid fund balances of equivalent value. Users may withdraw the balances they hold in accordance with the agreement, except that a non-bank payment institution shall not pay users interest or other returns relating to the balances they hold."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A non-bank payment institution shall include the necessary information such as information on the payee and the payer in electronic payment instructions, and ensure the integrity, consistency, traceability and auditability, and immutability of the electronic payment instructions transmitted.\nA non-bank payment institution shall not forge or alter electronic payment instructions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A non-bank payment institution shall access accounts by means of security authentication recognised by clearing institutions, banking financial institutions and other non-bank payment institutions, and shall not retain sensitive information on bank accounts or payment accounts in violation of the provisions."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A non-bank payment institution shall transfer reserve funds on the basis of payment instructions initiated by users, except where the reserve funds of users are frozen or deducted in accordance with law.\nFor the purposes of these Regulations, reserve funds mean the monetary funds received in advance and pending payment that a non-bank payment institution actually receives in handling payment business for users.\nA non-bank payment institution shall not misappropriate, occupy or borrow reserve funds in any form, and shall not use reserve funds to provide security for itself or for others."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The ratio of the net assets of a non-bank payment institution to the daily average balance of its reserve funds shall conform to the provisions of the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A non-bank payment institution shall deposit its reserve funds with the People's Bank of China or with a commercial bank that meets the requirements of the People's Bank of China.\nNo entity or individual may apply to freeze or enforce against an account in which a non-bank payment institution deposits its reserve funds, unless otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A non-bank payment institution shall process payment business carried out in cooperation with banking financial institutions and other non-bank payment institutions through a clearing institution determined by the People's Bank of China, comply with the provisions on the administration of clearing, and shall not engage in, or engage in a disguised form of, clearing business.\nA non-bank payment institution shall promptly submit true, accurate and complete transaction information to the clearing institution.\nA non-bank payment institution shall, in accordance with the provisions on the administration of settlement, handle the settlement of funds for users and take risk management measures."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A non-bank payment institution shall properly keep user materials and transaction records. Where the relevant authorities, in accordance with the provisions of laws and administrative regulations, inquire into user materials, transaction records and the payment account balances or prepaid fund balances held by users, or freeze or deduct user funds, the non-bank payment institution shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In processing user information, a non-bank payment institution shall follow the principles of lawfulness, legitimacy, necessity and good faith, make public its rules for processing user information, clearly indicate the purpose, method and scope of processing user information, and obtain the consent of the user, unless otherwise provided by laws or administrative regulations.\nA non-bank payment institution shall process user information in accordance with laws, administrative regulations, the relevant provisions of the State and the agreement of the parties, shall not collect user information unrelated to the services it provides, and shall not refuse to provide services on the ground that the user does not consent to the processing of its information or has withdrawn consent, unless the processing of the relevant information is necessary for the provision of services.\nA non-bank payment institution shall keep user information strictly confidential, take effective measures to prevent unauthorised access and the leakage, alteration or loss of user information, and shall not illegally buy or sell, provide or make public user information.\nWhere a non-bank payment institution shares user information with its affiliates, it shall inform the user of the name and contact details of the affiliate and obtain the separate consent of the user with respect to the content of the information sharing and the purpose, period, method and protection measures of the information processing. The non-bank payment institution shall also agree with the affiliate on the aforesaid content and on the rights and obligations of both parties, and shall supervise the user information processing activities of the affiliate so as to ensure that such activities are lawful and compliant and that the risks are controllable.\nWhere a user finds that a non-bank payment institution processes its information in violation of laws, administrative regulations, the relevant provisions of the State or the agreement of the parties, it has the right to require the non-bank payment institution to delete its information and to bear liability in accordance with law. Where a user finds that its information is inaccurate or incomplete, it has the right to require the non-bank payment institution to correct or supplement it."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the relevant network facilities or information systems of a non-bank payment institution are determined in accordance with law to be critical information infrastructure, or where the personal information it processes reaches the quantity prescribed by the national cyberspace administration department, the processing of the personal information it collects and generates within the territory shall be carried out within the territory. Where it is genuinely necessary to provide such information outside the territory, the provisions of laws, administrative regulations and the relevant provisions of the State shall be complied with and the separate consent of the user shall be obtained.\nThe security administration of the outbound transfer of important data collected and generated by a non-bank payment institution within the territory shall be carried out in accordance with laws, administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A non-bank payment institution shall, in accordance with the provisions of the relevant laws and administrative regulations on prices, reasonably determine and make public the charging items and charging standards of its payment business, and shall mark prices clearly.\nA non-bank payment institution shall, in a conspicuous position at its business premises and at the key points of the channels for handling business, clearly and completely indicate the content of services, charging items, charging standards, restrictive conditions and the relevant requirements, so as to safeguard the user's right to know and right to choose, and shall not charge any fee that has not been indicated."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "A non-bank payment institution shall promptly and properly handle disputes with users, perform its primary responsibility for handling complaints, and effectively protect the lawful rights and interests of users.\nThe State encourages users and non-bank payment institutions to resolve disputes through mediation, arbitration and other means."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Rules for Payment Business"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The controlling shareholders and actual controllers of a non-bank payment institution shall comply with the provisions on the administration of equity of non-bank payment institutions and shall not be in any of the following circumstances:\n(a) circumventing supervision by means of a special purpose vehicle or by entrusting others to hold equity;\n(b) harming the lawful rights and interests of the non-bank payment institution or its users by conducting related-party transactions in violation of the provisions or by other means;\n(c) other circumstances that may have a major adverse impact on the operation and management of the non-bank payment institution.\nThe same shareholder shall not directly or indirectly hold 10 per cent or more of the equity or voting rights of two or more non-bank payment institutions of the same type of business. The same actual controller shall not control two or more non-bank payment institutions of the same type of business, unless otherwise provided by the State."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A non-bank payment institution shall, in accordance with the provisions, submit to the People's Bank of China payment business information, audited financial and accounting reports, statements of operating data, statistical data, and other materials relating to corporate governance and business operations that the People's Bank of China requires to be submitted."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The People's Bank of China shall, in accordance with the provisions, classify and rate non-bank payment institutions and shall exercise classified supervision and administration on the basis of the classification and rating results.\nThe People's Bank of China shall formulate in accordance with law the standards for identifying systemically important non-bank payment institutions and the rules for their supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In performing its duties in accordance with law, the People's Bank of China has the power to take the following measures:\n(a) conducting on-site inspection and off-site supervision and administration of non-bank payment institutions;\n(b) entering the premises where suspected violations of laws and regulations occur to investigate and collect evidence;\n(c) questioning the parties and the entities and individuals related to the event under investigation, and requiring them to give explanations on matters relating to the event under investigation;\n(d) consulting and duplicating the relevant documents, materials and business systems of the parties and of the entities and individuals related to the event under investigation; sealing up or seizing documents, materials and business systems that may be transferred, concealed or destroyed;\n(e) with the approval of the person in charge of the People's Bank of China or of its dispatched office at the provincial level, inquiring into the account information of the parties and of the entities related to the event under investigation.\nIn order to prevent risks and maintain market order, the People's Bank of China may take measures such as ordering rectification, conducting supervisory talks, issuing warning letters and releasing risk alerts to the public."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the People's Bank of China performs its duties in accordance with law and conducts on-site inspection or investigation, its on-site inspection and investigation personnel shall not be fewer than two persons and shall produce lawful certificates and law enforcement documents. Where the on-site inspection and investigation personnel are fewer than two persons or fail to produce lawful certificates and law enforcement documents, the entities and individuals inspected or investigated have the right to refuse.\nWhere the People's Bank of China performs its duties in accordance with law, the entities and individuals inspected or investigated shall cooperate, truthfully provide the relevant documents, materials and business systems, and shall not refuse, obstruct or conceal."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a non-bank payment institution encounters any matter that has a major impact on its operation and development, on the stability and continuity of its payment business, or on the lawful rights and interests of users, it shall report to the People's Bank of China in accordance with the provisions.\nWhere a major shareholder of a non-bank payment institution intends to pledge the equity of the non-bank payment institution, it shall report to the People's Bank of China in accordance with the provisions, and the equity pledged shall not exceed 50 per cent of the total equity of the non-bank payment institution held by that shareholder."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A non-bank payment institution shall not commit monopolistic acts or acts of unfair competition that impair the order of fair competition in the market.\nWhere the People's Bank of China, in performing its duties, finds that a non-bank payment institution is suspected of monopolistic acts or acts of unfair competition, it shall refer the relevant clues to the competent law enforcement department and cooperate with it in the investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a risk event occurs in a non-bank payment institution, it shall report to the People's Bank of China in accordance with the provisions.\nThe People's Bank of China may, as needed, notify the local people's government at the place of domicile of the non-bank payment institution of the risk situation. The local people's government shall cooperate with the People's Bank of China in the disposal of the relevant risks and maintain social stability."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a risk event occurs in a non-bank payment institution and affects its normal operation or harms the lawful rights and interests of users, the People's Bank of China may, distinguishing between the circumstances, take the following measures against the non-bank payment institution:\n(a) ordering the major shareholders to fulfil their regulatory undertaking to replenish capital;\n(b) restricting major asset transactions;\n(c) ordering the adjustment of directors, supervisors or senior managers or restricting their powers."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The People's Bank of China and its staff shall keep confidential the state secrets, commercial secrets and personal information that they learn of in the course of supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The People's Bank of China shall, in accordance with laws, administrative regulations and the relevant provisions of the State, improve the measures for preventing and resolving risks in the non-bank payment institution industry and resolve the risks of non-bank payment institutions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, without approval obtained in accordance with law, a non-bank payment institution is established without authorisation or payment business is engaged in, or engaged in a disguised form of, the People's Bank of China shall ban it in accordance with law and confiscate the illegal gains; where the illegal gains are RMB 500,000 or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 500,000, a fine of not less than RMB 500,000 but not more than RMB 2 million shall be imposed, alone or in addition. A warning shall be given to its legal representative or principal person in charge, the directly responsible persons in charge and other directly responsible persons, and a fine of not less than RMB 100,000 but not more than RMB 500,000 shall also be imposed on them. The local people's government shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a person applies, by improper means such as deception, false capital contribution, circular capital injection or the use of funds that are not its own, to establish, merge or split a non-bank payment institution or to change the major shareholders or actual controllers of a non-bank payment institution, and the application is not approved, the applicant shall not apply again, or participate in applying, for the relevant licence within one year. Where the application has been approved, the applicant shall be ordered to terminate its payment business, the relevant licence shall be withdrawn and the illegal gains shall be confiscated; where the illegal gains are RMB 500,000 or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 500,000, a fine of not less than RMB 500,000 but not more than RMB 2 million shall also be imposed; and the applicant shall not apply again, or participate in applying, for the relevant licence within three years."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a non-bank payment institution violates the provisions of these Regulations and is in any of the following circumstances, it shall be ordered to rectify within a prescribed period, be given a warning and be circulated a notice of criticism, and the illegal gains shall be confiscated; where the illegal gains are RMB 100,000 or more, a fine of not less than one time but not more than five times the illegal gains may also be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000, a fine of not more than RMB 500,000 may also be imposed; where the circumstances are serious or it fails to rectify at the expiry of the period, part of its payment business shall be restricted or it shall be ordered to suspend business for rectification:\n(a) failing to use the word \"payment\" in its name;\n(b) failing to establish, improve or implement the relevant compliance management system, internal control system, business management system, risk management system, emergency plan for unexpected events or mechanism for protecting the rights and interests of users;\n(c) the relevant business systems, facilities or technology failing to conform to the provisions on administration;\n(d) failing to submit or keep the relevant information and materials, to make public the relevant matters or to perform the reporting requirements in accordance with the provisions;\n(e) changing, without approval, the matters provided in subparagraphs (a), (b) or (d) of paragraph 1 of Article 13 of these Regulations, or failing to establish a branch in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a non-bank payment institution violates the provisions of these Regulations and is in any of the following circumstances, it shall be ordered to rectify within a prescribed period, be given a warning and be circulated a notice of criticism, and the illegal gains shall be confiscated; where the illegal gains are RMB 500,000 or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 500,000, a fine of not more than RMB 1 million shall also be imposed; where the circumstances are serious or it fails to rectify at the expiry of the period, part of its payment business shall be restricted or it shall be ordered to suspend business for rectification, until its payment business licence is revoked:\n(a) failing to conclude a payment service agreement with the user, handle the settlement of funds or take risk management measures in accordance with the provisions;\n(b) failing to complete business activities such as due diligence on designated merchants, the conclusion of payment service agreements and continuous risk monitoring in accordance with the provisions;\n(c) entrusting a third party with the processing of core business or the relevant technical services;\n(d) opening payment accounts in violation of the provisions, or payment accounts being used in violation of the provisions other than through illegal buying or selling, leasing or lending;\n(e) paying interest or other returns to users in violation of the provisions, or retaining sensitive information on bank accounts or payment accounts in violation of the provisions;\n(f) failing to deposit or transfer reserve funds in accordance with the provisions;\n(g) failing to comply with the relevant provisions on cross-border payment;\n(h) failing to terminate payment business in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a non-bank payment institution violates the provisions of these Regulations and is in any of the following circumstances, it shall be ordered to rectify within a prescribed period, be given a warning and be circulated a notice of criticism, and the illegal gains shall be confiscated; where the illegal gains are RMB 500,000 or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 500,000, a fine of not less than RMB 500,000 but not more than RMB 2 million shall also be imposed; where the circumstances are serious or it fails to rectify at the expiry of the period, part of its payment business shall be restricted or it shall be ordered to suspend business for rectification, until its payment business licence is revoked:\n(a) altering, reselling, leasing or lending its payment business licence, or illegally transferring the administrative licence in any other form;\n(b) carrying out payment business beyond the approved type of business or scope of business territory;\n(c) providing a channel for payment business to entities or individuals illegally engaged in non-bank payment business;\n(d) changing its major shareholders or actual controllers, or merging or splitting, without approval;\n(e) misappropriating, occupying or borrowing reserve funds, or using reserve funds to provide security for itself or for others;\n(f) interrupting payment business without justified reasons, or failing to process electronic payment instructions in accordance with the provisions;\n(g) carrying out, or carrying out a disguised form of, clearing business;\n(h) refusing, obstructing or evading inspection or investigation, or falsely reporting, concealing or destroying the relevant documents, materials or business systems."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a non-bank payment institution violates the provisions of these Regulations in processing user information or business data, it shall be penalised in accordance with the relevant provisions of the Personal Information Protection Law of the People's Republic of China, the Cybersecurity Law of the People's Republic of China, the Data Security Law of the People's Republic of China and other relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a non-bank payment institution fails to establish a system of user due diligence or to perform the relevant obligations in accordance with the provisions, or commits an illegal act relating to foreign exchange or prices, or where any entity or individual illegally buys or sells, leases or lends payment accounts, the relevant competent departments shall impose a penalty in accordance with the relevant laws and administrative regulations.\nWhere a non-bank payment institution engages in other business that requires approval in accordance with law without approval, a penalty shall be imposed in accordance with the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the controlling shareholders or actual controllers of a non-bank payment institution violate the provisions of these Regulations and are in any of the following circumstances, they shall be ordered to rectify within a prescribed period, be given a warning and be circulated a notice of criticism, and the illegal gains shall be confiscated; where the illegal gains are RMB 100,000 or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000, a fine of not less than RMB 100,000 but not more than RMB 500,000 shall also be imposed:\n(a) circumventing supervision by means of a special purpose vehicle or by entrusting others to hold equity;\n(b) harming the lawful rights and interests of the non-bank payment institution or its users by conducting related-party transactions in violation of the provisions or by other means;\n(c) violating the provisions on the administration of the equity of non-bank payment institutions.\nWhere a major shareholder of a non-bank payment institution violates the provisions of these Regulations on the administration of equity such as equity pledge, it shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a non-bank payment institution is penalised in accordance with the provisions of these Regulations, a warning may, on the basis of the specific circumstances, at the same time be given to the directors, supervisors, senior managers and other persons who bear direct responsibility, and they may be circulated a notice of criticism and be fined not less than RMB 50,000 but not more than RMB 500,000, alone or in addition.\nWhere a non-bank payment institution violates the provisions of these Regulations and the circumstances are serious, the directors, supervisors and senior managers who bear direct responsibility may be prohibited from serving as directors, supervisors or senior managers of a non-bank payment institution for a specified period or for life."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a staff member of the People's Bank of China is in any of the following circumstances, a sanction shall be given in accordance with law:\n(a) examining and approving, in violation of the provisions, matters such as applications for the establishment, modification and termination of non-bank payment institutions;\n(b) divulging state secrets, commercial secrets or personal information learned of in the course of performing duties;\n(c) other acts of abusing power or dereliction of duty."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes a crime, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Self-regulatory organisations of the payment and clearing industry shall carry out industry self-regulation activities in accordance with law and be subject to the guidance and supervision of the People's Bank of China.\nSelf-regulatory organisations of the payment and clearing industry may formulate industry self-regulatory rules for non-bank payment institutions."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The transitional measures for non-bank payment institutions established in accordance with the relevant provisions before the entry into force of these Regulations shall be prescribed by the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 May 2024."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -16182,6 +26664,627 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0085'] = {
+    "lawId": "CN-REG-0085",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the administration of scenic and historic areas and to effectively protect and rationally use scenic and historic resources."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The establishment, planning, protection, use and administration of scenic and historic areas shall be governed by these Regulations.\nFor the purpose of these Regulations, a scenic and historic area means an area that is of ornamental, cultural or scientific value, where natural and cultural landscapes are relatively concentrated and the environment is beautiful, and that is available for people to visit or in which people may carry out scientific and cultural activities."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall apply the principles of scientific planning, unified administration, strict protection and sustainable use to scenic and historic areas."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The management institution of a scenic and historic area established by the local people's government at or above the county level in the place where the scenic and historic area is located shall be responsible for the protection, use and unified administration of the scenic and historic area."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent construction department under the State Council shall be responsible for the supervision and administration of scenic and historic areas throughout the country. Other relevant departments under the State Council shall, in accordance with the division of duties prescribed by the State Council, be responsible for the relevant supervision and administration of scenic and historic areas.\nThe competent construction department of the people's government of a province or autonomous region and the competent department for scenic and historic areas of the people's government of a municipality directly under the Central Government shall be responsible for the supervision and administration of scenic and historic areas within their respective administrative areas. Other relevant departments of the people's government of a province, autonomous region or municipality directly under the Central Government shall, in accordance with the prescribed division of duties, be responsible for the relevant supervision and administration of scenic and historic areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "All units and individuals shall have the obligation to protect scenic and historic resources and shall have the right to stop and report acts that damage scenic and historic resources."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The establishment of a scenic and historic area shall be conducive to the protection and rational use of scenic and historic resources.\nA newly established scenic and historic area shall not overlap or intersect with a nature reserve; where an established scenic and historic area overlaps or intersects with a nature reserve, the plan for the scenic and historic area shall be coordinated with the plan for the nature reserve."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Scenic and historic areas are divided into national scenic and historic areas and provincial scenic and historic areas.\nWhere natural and cultural landscapes can reflect important natural change processes and major historical and cultural development processes, are basically in a natural state or retain their original historical appearance and are of national representativeness, an application may be made to establish a national scenic and historic area; where they are of regional representativeness, an application may be made to establish a provincial scenic and historic area."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "An application for the establishment of a scenic and historic area shall be accompanied by the relevant materials containing the following:\n(a) the basic conditions of the scenic and historic resources;\n(b) the boundaries of the scenic and historic area proposed to be established and the boundaries of the core scenic zone;\n(c) the nature and protection objectives of the scenic and historic area proposed to be established;\n(d) the visiting conditions of the scenic and historic area proposed to be established;\n(e) the contents and results of the consultation with the owners and users of land, forests and other natural resources and of houses and other property within the scenic and historic area proposed to be established."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "For the establishment of a national scenic and historic area, an application shall be submitted by the people's government of the province, autonomous region or municipality directly under the Central Government; the competent construction department under the State Council shall, together with the competent departments of environmental protection, of forestry and of cultural relics and other relevant departments under the State Council, organise demonstration and put forward examination opinions, and submit them to the State Council for approval and publication.\nFor the establishment of a provincial scenic and historic area, an application shall be submitted by the county-level people's government; the competent construction department of the people's government of the province or autonomous region or the competent department for scenic and historic areas of the people's government of the municipality directly under the Central Government shall, together with other relevant departments, organise demonstration and put forward examination opinions, and submit them to the people's government of the province, autonomous region or municipality directly under the Central Government for approval and publication."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The lawful rights and interests of the owners and users of land, forests and other natural resources and of houses and other property within a scenic and historic area shall be protected by law.\nThe people's government applying for the establishment of a scenic and historic area shall, before submitting the application for examination and approval, consult fully with the owners and users of land, forests and other natural resources and of houses and other property within the scenic and historic area.\nWhere the establishment of a scenic and historic area causes losses to the owners and users of land, forests and other natural resources and of houses and other property within the scenic and historic area, compensation shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The plan for a scenic and historic area is divided into the master plan and the detailed plan."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The compilation of the master plan for a scenic and historic area shall reflect the requirements of harmonious coexistence between humanity and nature, coordinated regional development and all-round economic and social progress, adhere to the principle of giving priority to protection and subordinating development to protection, and highlight the natural characteristics, cultural connotations and local features of the scenic and historic resources.\nThe master plan for a scenic and historic area shall include the following:\n(a) assessment of scenic resources;\n(b) measures for the protection of ecological resources, the layout of major construction projects and the intensity of development and utilisation;\n(c) the functional structure and spatial layout of the scenic and historic area;\n(d) the areas where development is prohibited and the areas where development is restricted;\n(e) the tourist capacity of the scenic and historic area;\n(f) the relevant special plans."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A scenic and historic area shall complete the compilation of its master plan within two years from the date of its establishment. The planning period of a master plan shall generally be 20 years."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The detailed plan for a scenic and historic area shall be compiled in light of the different requirements of the core scenic zone and other scenic zones, shall determine the siting, layout and scale of such construction projects as infrastructure facilities, tourist facilities and cultural facilities, and shall specify the scope of construction land and the conditions for planning and design.\nThe detailed plan for a scenic and historic area shall conform to the master plan for the scenic and historic area."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The plan for a national scenic and historic area shall be organised and compiled by the competent construction department of the people's government of the province or autonomous region or by the competent department for scenic and historic areas of the people's government of the municipality directly under the Central Government.\nThe plan for a provincial scenic and historic area shall be organised and compiled by the county-level people's government."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In compiling a plan for a scenic and historic area, a unit with the corresponding grade of qualifications shall be selected to undertake the work by such means of fair competition as bidding.\nA plan for a scenic and historic area shall be compiled in accordance with the examined and approved boundaries, nature and protection objectives of the scenic and historic area and in accordance with the relevant laws, regulations and technical norms of the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "In compiling a plan for a scenic and historic area, the opinions of the relevant departments, the public and experts shall be widely solicited; where necessary, a hearing shall be held.\nThe materials submitted for the examination and approval of a plan for a scenic and historic area shall include the opinions of all sectors of society as well as the extent to which such opinions have been adopted and the reasons for not adopting them."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The master plan for a national scenic and historic area shall, after examination by the people's government of the province, autonomous region or municipality directly under the Central Government, be submitted to the State Council for examination and approval.\nThe detailed plan for a national scenic and historic area shall be submitted by the competent construction department of the people's government of the province or autonomous region or by the competent department for scenic and historic areas of the people's government of the municipality directly under the Central Government to the competent construction department under the State Council for examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The master plan for a provincial scenic and historic area shall be examined and approved by the people's government of the province, autonomous region or municipality directly under the Central Government and reported to the competent construction department under the State Council for the record.\nThe detailed plan for a provincial scenic and historic area shall be examined and approved by the competent construction department of the people's government of the province or autonomous region or by the competent department for scenic and historic areas of the people's government of the municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Once a plan for a scenic and historic area is approved, it shall be made public, and any organisation or individual shall have the right to consult it.\nUnits and individuals within a scenic and historic area shall comply with the approved plan for the scenic and historic area and shall be subject to planning administration.\nWhere a plan for a scenic and historic area has not been approved, no construction activities of any kind shall be carried out within the scenic and historic area."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "An approved plan for a scenic and historic area shall not be modified without authorisation. Where it is truly necessary to modify the boundaries, nature, protection objectives, measures for the protection of ecological resources, layout of major construction projects or intensity of development and utilisation of the scenic and historic area, or the functional structure, spatial layout or tourist capacity of the scenic and historic area, in the master plan, the modification shall be submitted to the organ that originally approved the plan for approval; where other contents are modified, the modification shall be reported to the organ that originally approved the plan for the record.\nWhere the detailed plan for a scenic and historic area truly needs to be modified, the modification shall be submitted to the organ that originally approved the plan for approval.\nWhere a government or a government department causes property losses to citizens, legal persons or other organisations by modifying the plan for a scenic and historic area, compensation shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Two years before the expiry of the planning period of the master plan for a scenic and historic area, the organ that organised the compilation of the plan shall organise experts to evaluate the plan and decide whether to recompile the plan. The original plan shall remain valid until the new plan is approved."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Planning"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The landscape and natural environment within a scenic and historic area shall, in accordance with the principle of sustainable development, be strictly protected and shall not be damaged or arbitrarily altered.\nThe management institution of the scenic and historic area shall establish and improve various management systems for the protection of scenic and historic resources.\nResidents and visitors within a scenic and historic area shall protect the scenery, water bodies, forest and grass vegetation, wild animals and various facilities of the scenic and historic area."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The management institution of a scenic and historic area shall investigate and appraise the important landscapes within the scenic and historic area and formulate corresponding protection measures."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The following activities are prohibited within a scenic and historic area:\n(a) cutting into hillsides, quarrying, mining, reclaiming wasteland, building graves and erecting monuments, and other activities that damage the landscape, vegetation or topography;\n(b) constructing facilities for the storage of explosive, flammable, radioactive, toxic or corrosive articles;\n(c) carving or daubing on scenery or facilities;\n(d) littering."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "It is prohibited, in violation of the plan for a scenic and historic area, to establish development zones of any kind within a scenic and historic area or to construct hotels, guest houses, training centres, sanatoriums and other buildings unrelated to the protection of scenic and historic resources within the core scenic zone; those already constructed shall be gradually relocated in accordance with the plan for the scenic and historic area."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Construction activities carried out within a scenic and historic area that fall outside the scope prohibited by Articles 26 and 27 of these Regulations shall, after examination and verification by the management institution of the scenic and historic area, be subject to examination and approval formalities in accordance with the provisions of the relevant laws and regulations.\nFor the construction of cable cars, ropeways and other major construction projects within a national scenic and historic area, the siting plan of the project shall be submitted to the competent construction department of the people's government of the province or autonomous region and to the competent department for scenic and historic areas of the people's government of the municipality directly under the Central Government for verification and approval."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The following activities carried out within a scenic and historic area shall, after examination and verification by the management institution of the scenic and historic area, be submitted to the relevant competent department for approval in accordance with the provisions of the relevant laws and regulations:\n(a) installing or posting commercial advertisements;\n(b) holding large-scale amusement and other activities;\n(c) activities that alter the natural state of water resources or of the water environment;\n(d) other activities affecting the ecology and the landscape."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Construction projects within a scenic and historic area shall conform to the plan for the scenic and historic area and be coordinated with the landscape, and shall not damage the landscape, pollute the environment or impede sightseeing.\nWhere construction activities are carried out within a scenic and historic area, the construction unit and the construction entity shall formulate plans for pollution prevention and control and for soil and water conservation, and shall take effective measures to protect the surrounding scenery, water bodies, forest and grass vegetation, wild animal resources and topography."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State shall establish a management information system for scenic and historic areas to conduct dynamic monitoring of the implementation of plans for scenic and historic areas and of the protection of resources.\nThe management institution of the scenic and historic area in the place where a national scenic and historic area is located shall, every year, submit to the competent construction department under the State Council a report on the implementation of the plan for the scenic and historic area and on the protection of land, forests and other natural resources; the competent construction department under the State Council shall, in a timely manner, send copies of the information on the protection of land, forests and other natural resources to the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The management institution of a scenic and historic area shall, in light of the characteristics of the scenic and historic area, protect traditional ethnic and folk culture, carry out healthy and beneficial sightseeing tours and cultural and recreational activities, and popularise historical, cultural and scientific knowledge."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Utilisation and Management"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The management institution of a scenic and historic area shall, in accordance with the plan for the scenic and historic area, rationally use the scenic and historic resources and improve transport, service facilities and visiting conditions.\nThe management institution of a scenic and historic area shall install signs for the scenic and historic area and such signboards as road signs and safety warnings within the scenic and historic area."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Utilisation and Management"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The administration of sites for religious activities within a scenic and historic area shall be carried out in accordance with the provisions of the State on the administration of sites for religious activities.\nWhere matters within a scenic and historic area involve the protection, use and administration of natural resources, the protection of cultural relics and the administration of nature reserves, the provisions of the relevant laws and regulations of the State shall also be implemented."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Utilisation and Management"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The competent construction department under the State Council shall supervise, inspect and evaluate the implementation of the plans for national scenic and historic areas and the protection of resources. Problems discovered shall be corrected and dealt with in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Utilisation and Management"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The management institution of a scenic and historic area shall establish and improve a safety and security system, strengthen safety management, ensure the safety of visitors, and urge the business operators within the scenic and historic area to accept the supervision and inspection conducted by the relevant departments in accordance with laws and regulations.\nIt is prohibited to admit tourists in excess of the permitted capacity or to carry out touring activities in areas without safety and security guarantees."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Utilisation and Management"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Admission tickets for entering a scenic and historic area shall be sold by the management institution of the scenic and historic area. Ticket prices shall be governed by the provisions of the laws and regulations on prices.\nOperators of transport, services and other projects within a scenic and historic area shall be determined by the management institution of the scenic and historic area in accordance with the relevant laws and regulations and the plan for the scenic and historic area and by such means of fair competition as bidding.\nThe management institution of the scenic and historic area shall conclude contracts with the operators to determine their respective rights and obligations in accordance with the law. The operators shall pay the fee for the paid use of scenic and historic resources."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Utilisation and Management"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The ticket revenue of a scenic and historic area and the fee for the paid use of scenic and historic resources shall be subject to the administration of separating revenue from expenditure.\nThe ticket revenue of a scenic and historic area and the fee for the paid use of scenic and historic resources shall be used exclusively for the protection and administration of scenic and historic resources and for compensation for losses suffered by the owners and users of property within the scenic and historic area. The specific administrative measures shall be formulated by the department of finance and the competent department of prices under the State Council, together with the competent construction department and other relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Utilisation and Management"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The management institution of a scenic and historic area shall not engage in business activities for profit-making purposes, nor shall it entrust enterprises or individuals with the exercise of such administrative functions as planning, administration and supervision.\nThe staff of the management institution of a scenic and historic area shall not hold concurrent posts in enterprises within the scenic and historic area."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Utilisation and Management"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following acts is committed, the management institution of the scenic and historic area shall order the cessation of the illegal act and restoration to the original state or demolition within a time limit, confiscate the illegal gains, and impose a fine of not less than 500,000 yuan but not more than 1,000,000 yuan:\n(a) cutting into hillsides, quarrying, mining or engaging in other activities within a scenic and historic area that damage the landscape, vegetation or topography;\n(b) constructing facilities within a scenic and historic area for the storage of explosive, flammable, radioactive, toxic or corrosive articles;\n(c) constructing hotels, guest houses, training centres, sanatoriums and other buildings unrelated to the protection of scenic and historic resources within the core scenic zone.\nWhere a local people's government at or above the county level or its relevant competent department approves the implementation of the acts specified in paragraph 1 of this Article, the person directly in charge and other persons directly responsible shall be given such sanctions as demotion or removal from office in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, construction activities outside the prohibited scope are carried out within a scenic and historic area without the examination and verification of the management institution of the scenic and historic area, the management institution of the scenic and historic area shall order the cessation of construction and demolition within a time limit, impose a fine of not less than 20,000 yuan but not more than 50,000 yuan on an individual, and impose a fine of not less than 200,000 yuan but not more than 500,000 yuan on a unit."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, cable cars, ropeways or other major construction projects are constructed within a national scenic and historic area, the siting plan of the project has not been verified and approved by the competent construction department of the people's government of the province or autonomous region and by the competent department for scenic and historic areas of the people's government of the municipality directly under the Central Government, and the relevant department of the local people's government at or above the county level issues a siting opinion, the person directly in charge and other persons directly responsible shall be given sanctions in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, an individual engages in reclaiming wasteland, building graves, erecting monuments or other activities within a scenic and historic area that damage the landscape, vegetation or topography, the management institution of the scenic and historic area shall order the cessation of the illegal act and restoration to the original state within a time limit or the adoption of other remedial measures, confiscate the illegal gains, and impose a fine of not less than 1,000 yuan but not more than 10,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person carves or daubs on scenery or facilities or litters within a scenic and historic area, the management institution of the scenic and historic area shall order restoration to the original state or the adoption of other remedial measures and impose a fine of 50 yuan; where a person carves, daubs or otherwise intentionally damages cultural relics or places of historic interest and scenic beauty under State protection, the person shall be penalised in accordance with the relevant provisions of the Law on Penalties for Administration of Public Security; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the following activities are carried out within a scenic and historic area without the examination and verification of the management institution of the scenic and historic area, the management institution of the scenic and historic area shall order the cessation of the illegal act and restoration to the original state within a time limit or the adoption of other remedial measures, confiscate the illegal gains, and impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; where the circumstances are serious, it shall additionally impose a fine of not less than 100,000 yuan but not more than 200,000 yuan:\n(a) installing or posting commercial advertisements;\n(b) holding large-scale amusement and other activities;\n(c) activities that alter the natural state of water resources or of the water environment;\n(d) other activities affecting the ecology and the landscape."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a construction entity causes damage to the surrounding scenery, water bodies, forest and grass vegetation, wild animal resources or topography in the course of construction, the management institution of the scenic and historic area shall order the cessation of the illegal act and restoration to the original state within a time limit or the adoption of other remedial measures, and shall impose a fine of not less than 20,000 yuan but not more than 100,000 yuan; where the original state is not restored or effective measures are not taken at the expiry of the time limit, the management institution of the scenic and historic area shall order the cessation of construction."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the competent construction department under the State Council, a local people's government at or above the county level or its relevant competent department commits any of the following acts, the person directly in charge and other persons directly responsible shall be given sanctions in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law:\n(a) establishing development zones of any kind within a scenic and historic area in violation of the plan for the scenic and historic area;\n(b) failing to complete the compilation of the master plan for a scenic and historic area within two years from the date of its establishment;\n(c) selecting a unit without the corresponding grade of qualifications to compile the plan for a scenic and historic area;\n(d) approving construction activities within a scenic and historic area before the plan for the scenic and historic area is approved;\n(e) modifying the plan for a scenic and historic area without authorisation;\n(f) other acts of failing to perform the duties of supervision and administration in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the management institution of a scenic and historic area commits any of the following acts, the local people's government at or above the county level that established the management institution of the scenic and historic area shall order it to rectify; where the circumstances are serious, the person directly in charge and other persons directly responsible shall be given such sanctions as demotion or removal from office; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law:\n(a) admitting tourists in excess of the permitted capacity or carrying out touring activities in areas without safety and security guarantees;\n(b) failing to install signs for the scenic and historic area and such signboards as road signs and safety warnings;\n(c) engaging in business activities for profit-making purposes;\n(d) entrusting enterprises or individuals with the exercise of such administrative functions as planning, administration and supervision;\n(e) permitting the staff of the management institution of the scenic and historic area to hold concurrent posts in enterprises within the scenic and historic area;\n(f) approving upon examination and verification construction activities within a scenic and historic area that do not conform to the plan for the scenic and historic area;\n(g) failing to investigate and deal with illegal acts discovered."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the relevant departments have already imposed penalties in accordance with the provisions of the relevant laws and administrative regulations for the illegal acts specified in paragraph 1 of Article 40, and in Articles 41, 43, 44, 45 and 46 of these Regulations, the management institution of the scenic and historic area shall not impose further penalties."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where the illegal acts specified in paragraph 1 of Article 40, and in Articles 41, 43, 44, 45 and 46 of these Regulations infringe upon the property of the State, a collective or an individual, the unit or individual concerned shall bear civil liability in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in accordance with the provisions of these Regulations, a unit or individual is ordered to demolish within a time limit buildings, structures or other facilities illegally constructed within a scenic and historic area, the unit or individual must immediately cease the construction activities and demolish them by itself; where construction is continued, the organ that made the decision ordering demolition within a time limit shall have the power to stop it. Where a unit or individual is dissatisfied with the decision ordering demolition within a time limit, it may bring a suit before a people's court within 15 days from the date of receipt of the decision; where it neither brings a suit nor demolishes the facilities by itself at the expiry of the time limit, the organ that made the decision ordering demolition within a time limit shall, in accordance with the law, apply to a people's court for compulsory enforcement, and the costs shall be borne by the lawbreaker."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 December 2006. The Interim Regulations on the Administration of Scenic and Historic Areas promulgated by the State Council on 7 June 1985 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -17247,6 +28350,807 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0090'] = {
+    "lawId": "CN-REG-0090",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 67 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to ensure that employees who suffer accidental injuries or occupational diseases in the course of work receive medical treatment and economic compensation, to promote the prevention of work-related injuries and occupational rehabilitation, and to spread the risk of work-related injuries of employing units."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Enterprises, public institutions, social organisations, non-enterprise units established with non-governmental funds, foundations, law firms, accounting firms and other organisations within the territory of the People's Republic of China, and individually owned businesses with employees (hereinafter referred to as the employing unit) shall participate in work-related injury insurance in accordance with the provisions of these Regulations and pay work-related injury insurance premiums for all their employees or hired workers (hereinafter referred to as employees).\nThe employees of enterprises, public institutions, social organisations, non-enterprise units established with non-governmental funds, foundations, law firms, accounting firms and other organisations within the territory of the People's Republic of China and the hired workers of individually owned businesses shall all have the right to enjoy work-related injury insurance benefits in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The collection and payment of work-related injury insurance premiums shall be carried out in accordance with the provisions of the Interim Regulations on the Collection and Payment of Social Insurance Premiums concerning the collection and payment of basic old-age insurance premiums, basic medical insurance premiums and unemployment insurance premiums."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "An employing unit shall make public within the unit the relevant information on its participation in work-related injury insurance.\nEmploying units and employees shall comply with the laws and regulations on work safety and on the prevention and control of occupational diseases, implement the rules and standards for safety and health, prevent the occurrence of work-related injuries, and avoid and reduce the hazards of occupational diseases.\nWhere an employee suffers a work-related injury, the employing unit shall take measures to ensure that the injured employee receives timely treatment."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The administrative department of social insurance under the State Council shall be responsible for work-related injury insurance throughout the country.\nThe administrative departments of social insurance of the local people's governments at or above the county level shall be responsible for work-related injury insurance within their respective administrative areas.\nThe social insurance agencies established by the administrative departments of social insurance in accordance with the relevant provisions of the State Council (hereinafter referred to as the agencies) shall undertake the specific work of work-related injury insurance."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the administrative department of social insurance and other departments formulate policies and standards for work-related injury insurance, they shall solicit the opinions of trade union organisations and the representatives of employing units."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The work-related injury insurance fund shall be composed of the work-related injury insurance premiums paid by employing units, the interest on the work-related injury insurance fund, and other funds incorporated into the work-related injury insurance fund in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Work-Related Injury Insurance Funds"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The premium rate of work-related injury insurance shall be determined in accordance with the principles of determining revenue by expenditure and maintaining a balance between revenue and expenditure.\nThe State shall determine differentiated premium rates for different industries according to the degree of work-related injury risk in each industry, and shall determine several rate grades within each industry according to the use of work-related injury insurance premiums, the incidence of work-related injuries and other circumstances. The differentiated premium rates for industries and the rate grades within industries shall be formulated by the administrative department of social insurance under the State Council and shall be published and implemented after approval by the State Council.\nThe agency of a pooling area shall, in light of the use of work-related injury insurance premiums by an employing unit, the incidence of work-related injuries and other circumstances, apply the corresponding rate grade in the industry to which the unit belongs to determine the unit's premium rate."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Work-Related Injury Insurance Funds"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The administrative department of social insurance under the State Council shall regularly ascertain the revenue and expenditure of the work-related injury insurance funds of the various pooling areas throughout the country, and shall promptly propose plans for adjusting the differentiated premium rates for industries and the rate grades within industries, which shall be published and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Work-Related Injury Insurance Funds"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "An employing unit shall pay work-related injury insurance premiums on time. Employees shall not pay work-related injury insurance premiums.\nThe amount of work-related injury insurance premiums paid by an employing unit shall be the product of the total wages of the employees of the unit multiplied by the unit's premium rate.\nFor industries in which it is difficult to pay work-related injury insurance premiums on the basis of total wages, the specific method of paying work-related injury insurance premiums shall be prescribed by the administrative department of social insurance under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Work-Related Injury Insurance Funds"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The work-related injury insurance fund shall gradually be pooled at the provincial level.\nFor industries that operate across regions and whose production is highly mobile, work-related injury insurance may be participated in, in a relatively centralised manner, in a pooling area outside the place where they are located. The specific measures shall be formulated by the administrative department of social insurance under the State Council together with the competent departments of the industries concerned."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Work-Related Injury Insurance Funds"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The work-related injury insurance fund shall be deposited in the special fiscal account for social security funds and shall be used for the payment of the work-related injury insurance benefits prescribed by these Regulations, the expenses for the appraisal of labour capacity and for publicity and training for the prevention of work-related injuries, and other expenses for work-related injury insurance prescribed by laws and regulations.\nThe specific measures for the proportion of funds set aside for the prevention of work-related injuries and for the use and administration of such funds shall be formulated by the administrative department of social insurance under the State Council together with the departments of finance, of health administration and of work safety supervision and administration under the State Council.\nNo unit or individual shall use the work-related injury insurance fund for investment and operation, for the construction or reconstruction of office premises, for the payment of bonuses, or for any other purpose."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Work-Related Injury Insurance Funds"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The work-related injury insurance fund shall retain a reserve fund of a certain proportion for the payment of work-related injury insurance benefits for major accidents in the pooling area; where the reserve fund is insufficient for payment, the people's government of the pooling area shall advance the difference. The specific proportion of the reserve fund in the total amount of the fund and the measures for the use of the reserve fund shall be prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Work-Related Injury Insurance Funds"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where an employee is in any of the following circumstances, it shall be determined as a work-related injury:\n(a) being injured by an accident within working hours and at the workplace for reasons of work;\n(b) being injured by an accident at the workplace before or after working hours while engaged in preparatory or finishing work related to work;\n(c) being injured by violence or other accidental injuries within working hours and at the workplace in the performance of work duties;\n(d) suffering from an occupational disease;\n(e) being injured for reasons of work, or disappearing in an accident, during a work trip;\n(f) being injured on the way to or from work in a traffic accident, or in an accident of urban rail transit, passenger ferry or train, for which he is not mainly responsible;\n(g) other circumstances in which a work-related injury shall be determined as such as prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Determination of Work-Related Injuries"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an employee is in any of the following circumstances, it shall be deemed as a work-related injury:\n(a) dying from a sudden illness within working hours and at the work post, or dying after ineffective emergency treatment within 48 hours;\n(b) being injured in activities for national defence and disaster relief or in other activities safeguarding the interests of the State and the public interest;\n(c) having previously served in the military, being injured and disabled in combat or in the line of duty, having obtained a certificate for disabled revolutionary servicemen, and suffering a relapse of the old injury after joining the employing unit.\nWhere an employee is in the circumstances specified in subparagraph (a) or (b) of the preceding paragraph, the employee shall enjoy work-related injury insurance benefits in accordance with the relevant provisions of these Regulations; where an employee is in the circumstances specified in subparagraph (c) of the preceding paragraph, the employee shall enjoy work-related injury insurance benefits, other than the one-off disability subsidy, in accordance with the relevant provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Determination of Work-Related Injuries"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where an employee meets the provisions of Articles 14 and 15 of these Regulations but is in any of the following circumstances, it shall not be determined or deemed as a work-related injury:\n(a) committing an intentional crime;\n(b) being drunk or taking drugs;\n(c) inflicting injury on himself or committing suicide."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Determination of Work-Related Injuries"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where an employee suffers an accidental injury or is diagnosed or appraised as suffering from an occupational disease in accordance with the provisions of the Law on the Prevention and Control of Occupational Diseases, the unit in which the employee works shall, within 30 days from the date on which the accidental injury occurs or on which the occupational disease is diagnosed or appraised, submit an application for the determination of a work-related injury to the administrative department of social insurance of the pooling area. In special circumstances, the time limit for application may be appropriately extended upon approval by the administrative department of social insurance.\nWhere an employing unit fails to submit an application for the determination of a work-related injury in accordance with the provisions of the preceding paragraph, the injured employee or his close relatives or the trade union organisation may, within one year from the date on which the accidental injury occurs or on which the occupational disease is diagnosed or appraised, directly submit an application for the determination of a work-related injury to the administrative department of social insurance of the pooling area where the employing unit is located.\nMatters that shall be subject to the determination of a work-related injury by the provincial administrative department of social insurance in accordance with the provisions of paragraph 1 of this Article shall, in accordance with the principle of territoriality, be handled by the administrative department of social insurance at the level of a city with districts where the employing unit is located.\nWhere an employing unit fails to submit an application for the determination of a work-related injury within the time limit prescribed in paragraph 1 of this Article, the work-related injury benefits and other relevant expenses conforming to the provisions of these Regulations that arise during that period shall be borne by the employing unit."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Determination of Work-Related Injuries"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "An application for the determination of a work-related injury shall be submitted together with the following materials:\n(a) an application form for the determination of a work-related injury;\n(b) proof of the existence of an employment relationship (including a de facto employment relationship) with the employing unit;\n(c) a certificate of medical diagnosis or a certificate of diagnosis of an occupational disease (or an appraisal document of diagnosis of an occupational disease).\nThe application form for the determination of a work-related injury shall include such basic information as the time, place and cause of the accident and the degree of injury of the employee.\nWhere the materials provided by the applicant for the determination of a work-related injury are incomplete, the administrative department of social insurance shall, in a single written notice, inform the applicant of all the materials that need to be supplemented or corrected. After the applicant has supplemented or corrected the materials as required by the written notice, the administrative department of social insurance shall accept the application."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Determination of Work-Related Injuries"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "After accepting an application for the determination of a work-related injury, the administrative department of social insurance may, as required for examination, conduct investigation and verification of the accidental injury, and the employing unit, the employee, the trade union organisation, the medical institution and the relevant departments shall provide assistance. The diagnosis of occupational diseases and the appraisal of disputes over diagnosis shall be carried out in accordance with the relevant provisions of the Law on the Prevention and Control of Occupational Diseases. Where a certificate of diagnosis of an occupational disease or an appraisal document of diagnosis of an occupational disease has been obtained in accordance with the law, the administrative department of social insurance shall no longer conduct investigation and verification.\nWhere an employee or his close relatives believes that an injury is a work-related injury but the employing unit does not, the employing unit shall bear the burden of proof."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Determination of Work-Related Injuries"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The administrative department of social insurance shall, within 60 days from the date of accepting an application for the determination of a work-related injury, make a decision on the determination of the work-related injury, and shall notify in writing the employee who applied for the determination or his close relatives and the unit in which the employee works.\nFor an application for the determination of a work-related injury that it has accepted and in which the facts are clear and the rights and obligations are explicit, the administrative department of social insurance shall make a decision on the determination of the work-related injury within 15 days.\nWhere a decision on the determination of a work-related injury needs to be based on the conclusion of a judicial organ or of the relevant competent administrative department, the time limit for making the decision on the determination of the work-related injury shall be suspended while the judicial organ or the competent administrative department has not yet reached a conclusion.\nWhere a staff member of the administrative department of social insurance has an interest in the applicant for the determination of a work-related injury, the staff member shall withdraw."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Determination of Work-Related Injuries"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where an employee suffers a work-related injury and, after treatment, the injury is relatively stable and results in disability affecting the capacity for work, an appraisal of labour capacity shall be conducted."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The appraisal of labour capacity means the grading appraisal of the degree of impairment of the capacity for work and the degree of impairment of the capacity for self-care in daily living.\nImpairment of the capacity for work is divided into ten grades of disability, the most serious being Grade 1 and the lightest being Grade 10.\nImpairment of the capacity for self-care in daily living is divided into three grades: complete inability to care for oneself in daily living, inability to care for most of one's daily living, and inability to care for part of one's daily living.\nThe standards for the appraisal of labour capacity shall be formulated by the administrative department of social insurance under the State Council together with the administrative department of health and other departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The appraisal of labour capacity shall be applied for by the employing unit, the injured employee or his close relatives to the committee for the appraisal of labour capacity at the level of a city with districts, and the decision on the determination of the work-related injury and the relevant materials on the medical treatment of the employee's work-related injury shall be provided."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The committees for the appraisal of labour capacity of provinces, autonomous regions and municipalities directly under the Central Government and the committees for the appraisal of labour capacity at the level of a city with districts shall be composed, respectively, of the representatives of the administrative departments of social insurance, the administrative departments of health, the trade union organisations and the agencies of the province, autonomous region or municipality directly under the Central Government and at the level of a city with districts, and the representatives of employing units.\nA committee for the appraisal of labour capacity shall establish a pool of medical and health experts. The medical and health professionals and technical personnel included in the pool of experts shall meet the following conditions:\n(a) holding the qualification for a senior professional and technical post in medicine and health;\n(b) mastering the knowledge related to the appraisal of labour capacity;\n(c) having good professional ethics."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "After receiving an application for the appraisal of labour capacity, the committee for the appraisal of labour capacity at the level of a city with districts shall randomly select three or five relevant experts from the pool of medical and health experts it has established to form an expert group, and the expert group shall put forward appraisal opinions. The committee for the appraisal of labour capacity at the level of a city with districts shall, on the basis of the appraisal opinions of the expert group, make a conclusion on the appraisal of the labour capacity of the injured employee; where necessary, it may entrust a qualified medical institution with assisting in the relevant diagnosis.\nThe committee for the appraisal of labour capacity at the level of a city with districts shall, within 60 days from the date of receiving the application for the appraisal of labour capacity, make a conclusion on the appraisal of labour capacity; where necessary, the time limit for making the conclusion may be extended by 30 days. The conclusion on the appraisal of labour capacity shall be served in a timely manner on the unit and individual that applied for the appraisal."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the unit or individual that applied for the appraisal is dissatisfied with the appraisal conclusion made by the committee for the appraisal of labour capacity at the level of a city with districts, it may, within 15 days from the date of receiving the appraisal conclusion, apply to the committee for the appraisal of labour capacity of the province, autonomous region or municipality directly under the Central Government for a re-appraisal. The conclusion on the appraisal of labour capacity made by the committee for the appraisal of labour capacity of the province, autonomous region or municipality directly under the Central Government shall be final."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The appraisal of labour capacity shall be conducted objectively and impartially. Where a member of a committee for the appraisal of labour capacity or an expert participating in an appraisal has an interest in a party, the member or expert shall withdraw."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "One year after the date on which a conclusion on the appraisal of labour capacity is made, where the injured employee or his close relatives, the unit in which he works or the agency believes that the condition of the disability has changed, an application may be made for a review appraisal of labour capacity."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The time limits for the re-appraisal and the review appraisal conducted by a committee for the appraisal of labour capacity in accordance with the provisions of Articles 26 and 28 of these Regulations shall be governed by the provisions of paragraph 2 of Article 25 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Assessment of Work Capacity"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where an employee suffers an accidental injury in the course of work or suffers an occupational disease and receives treatment, the employee shall enjoy work-related injury medical benefits.\nAn employee receiving treatment for a work-related injury shall seek medical treatment at a medical institution that has concluded a service agreement; in an emergency, the employee may first receive emergency treatment at the nearest medical institution.\nWhere the expenses required for the treatment of a work-related injury conform to the catalogue of diagnostic and treatment items for work-related injury insurance, the catalogue of medicines for work-related injury insurance and the standards for in-patient services for work-related injury insurance, such expenses shall be paid from the work-related injury insurance fund. The catalogue of diagnostic and treatment items for work-related injury insurance, the catalogue of medicines for work-related injury insurance and the standards for in-patient services for work-related injury insurance shall be prescribed by the administrative department of social insurance under the State Council together with the administrative department of health, the department of supervision and administration of food and drugs and other departments under the State Council.\nThe food subsidy for an employee receiving in-patient treatment for a work-related injury, and the travelling and accommodation expenses required for an injured employee to seek medical treatment outside the pooling area upon certification by a medical institution and with the consent of the agency, shall be paid from the work-related injury insurance fund, and the specific standards for payment from the fund shall be prescribed by the people's government of the pooling area.\nWhere an injured employee receives treatment for a disease not caused by the work-related injury, the employee shall not enjoy work-related injury medical benefits, and the matter shall be handled in accordance with the measures for basic medical insurance.\nWhere an injured employee undergoes work-related injury rehabilitation at a medical institution that has concluded a service agreement, the expenses conforming to the provisions shall be paid from the work-related injury insurance fund."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where administrative reconsideration or administrative litigation occurs after the administrative department of social insurance has made a decision determining an injury as a work-related injury, the payment of the medical expenses for the treatment of the work-related injury of the injured employee shall not be suspended during the period of administrative reconsideration and administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where an injured employee needs, for the purposes of daily living or employment, to be fitted with artificial limbs, orthopaedic devices, artificial eyes or artificial teeth or to be provided with wheelchairs and other auxiliary devices, upon confirmation by the committee for the appraisal of labour capacity, the expenses required shall be paid from the work-related injury insurance fund in accordance with the standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an employee suffers an accidental injury in the course of work or suffers an occupational disease and needs to suspend work to receive medical treatment for the work-related injury, the original wages and welfare benefits shall remain unchanged during the period of suspension of work with retained wages and shall be paid monthly by the unit in which the employee works.\nThe period of suspension of work with retained wages shall generally not exceed 12 months. Where the injury is serious or the circumstances are special, upon confirmation by the committee for the appraisal of labour capacity at the level of a city with districts, the period may be appropriately extended, but the extension shall not exceed 12 months. After the injured employee's grade of disability is appraised, the payment of the original benefits shall cease and the employee shall enjoy disability benefits in accordance with the relevant provisions of this Chapter. Where an injured employee still needs treatment after the expiry of the period of suspension of work with retained wages, the employee shall continue to enjoy work-related injury medical benefits.\nWhere an injured employee who is unable to care for himself needs nursing during the period of suspension of work with retained wages, the unit in which the employee works shall be responsible for it."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where the grade of disability of an injured employee has been appraised and the committee for the appraisal of labour capacity has confirmed that the employee needs nursing care in daily living, a nursing care fee shall be paid monthly from the work-related injury insurance fund.\nThe nursing care fee shall be paid according to the three different grades of complete inability to care for oneself in daily living, inability to care for most of one's daily living and inability to care for part of one's daily living, and the standards shall be 50 per cent, 40 per cent and 30 per cent respectively of the average monthly wage of employees in the pooling area in the previous year."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where an employee is disabled in the course of work and is appraised as having a Grade 1 to Grade 4 disability, the employment relationship shall be retained, the employee shall leave the work post, and the employee shall enjoy the following benefits:\n(a) a one-off disability subsidy paid from the work-related injury insurance fund according to the grade of disability, the standards being 27 months of the employee's own wage for a Grade 1 disability, 25 months of the employee's own wage for a Grade 2 disability, 23 months of the employee's own wage for a Grade 3 disability and 21 months of the employee's own wage for a Grade 4 disability;\n(b) a disability allowance paid monthly from the work-related injury insurance fund, the standards being 90 per cent of the employee's own wage for a Grade 1 disability, 85 per cent for a Grade 2 disability, 80 per cent for a Grade 3 disability and 75 per cent for a Grade 4 disability. Where the actual amount of the disability allowance is lower than the local minimum wage standard, the difference shall be made up from the work-related injury insurance fund;\n(c) after the injured employee reaches the retirement age and completes the retirement formalities, the payment of the disability allowance shall cease and the employee shall enjoy basic old-age insurance benefits in accordance with the relevant provisions of the State. Where the basic old-age insurance benefits are lower than the disability allowance, the difference shall be made up from the work-related injury insurance fund.\nWhere an employee is disabled in the course of work and is appraised as having a Grade 1 to Grade 4 disability, the employing unit and the employee shall pay basic medical insurance premiums on the basis of the disability allowance."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where an employee is disabled in the course of work and is appraised as having a Grade 5 or Grade 6 disability, the employee shall enjoy the following benefits:\n(a) a one-off disability subsidy paid from the work-related injury insurance fund according to the grade of disability, the standards being 18 months of the employee's own wage for a Grade 5 disability and 16 months of the employee's own wage for a Grade 6 disability;\n(b) the employment relationship with the employing unit shall be retained, and the employing unit shall arrange appropriate work for the employee. Where it is difficult to arrange work, the employing unit shall pay the employee a disability allowance on a monthly basis, the standards being 70 per cent of the employee's own wage for a Grade 5 disability and 60 per cent of the employee's own wage for a Grade 6 disability, and the employing unit shall, in accordance with the provisions, pay the various social insurance premiums payable for the employee. Where the actual amount of the disability allowance is lower than the local minimum wage standard, the employing unit shall make up the difference.\nUpon the request of the injured employee, the employee may dissolve or terminate the employment relationship with the employing unit, in which case the work-related injury insurance fund shall pay a one-off work-related injury medical subsidy and the employing unit shall pay a one-off disability employment subsidy. The specific standards for the one-off work-related injury medical subsidy and the one-off disability employment subsidy shall be prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an employee is disabled in the course of work and is appraised as having a Grade 7 to Grade 10 disability, the employee shall enjoy the following benefits:\n(a) a one-off disability subsidy paid from the work-related injury insurance fund according to the grade of disability, the standards being 13 months of the employee's own wage for a Grade 7 disability, 11 months of the employee's own wage for a Grade 8 disability, nine months of the employee's own wage for a Grade 9 disability and seven months of the employee's own wage for a Grade 10 disability;\n(b) where a labour contract or an employment contract expires and is terminated, or the employee requests the dissolution of the labour contract or employment contract, the work-related injury insurance fund shall pay a one-off work-related injury medical subsidy and the employing unit shall pay a one-off disability employment subsidy. The specific standards for the one-off work-related injury medical subsidy and the one-off disability employment subsidy shall be prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where the work-related injury of an injured employee relapses and it is confirmed that treatment is needed, the employee shall enjoy the work-related injury benefits prescribed in Articles 30, 32 and 33 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where an employee dies in the course of work, his close relatives shall receive a funeral subsidy, a pension for dependent relatives and a one-off work-related death subsidy from the work-related injury insurance fund in accordance with the following provisions:\n(a) the funeral subsidy shall be six months of the average monthly wage of employees in the pooling area in the previous year;\n(b) the pension for dependent relatives shall be paid, at a certain proportion of the employee's own wage, to the relatives who were the main source of livelihood provided by the deceased employee before his death and who have no capacity for work. The standards shall be 40 per cent per month for the spouse and 30 per cent per month for each other relative, and a further 10 per cent per month on the basis of the above standards for each elderly person living alone or orphan. The total amount of the verified pensions for dependent relatives shall not be higher than the wage of the deceased employee before his death. The specific scope of dependent relatives shall be prescribed by the administrative department of social insurance under the State Council;\n(c) the standard for the one-off work-related death subsidy shall be 20 times the per capita disposable income of urban residents nationwide in the previous year.\nWhere a disabled employee dies as a result of a work-related injury during the period of suspension of work with retained wages, his close relatives shall enjoy the benefits prescribed in paragraph 1 of this Article.\nWhere an employee with a Grade 1 to Grade 4 disability dies after the expiry of the period of suspension of work with retained wages, his close relatives may enjoy the benefits prescribed in subparagraphs (a) and (b) of paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The disability allowance, the pension for dependent relatives and the nursing care fee shall be adjusted in a timely manner by the administrative department of social insurance of the pooling area in light of changes in the average wage of employees and in the cost of living. The measures for adjustment shall be prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where an employee has an accident during a work trip or disappears in flood fighting and disaster relief, wages shall continue to be paid as before for three months from the month in which the accident occurs, and payment of wages shall cease from the fourth month, and the work-related injury insurance fund shall pay a pension for dependent relatives monthly to his dependent relatives. Where living is difficult, 50 per cent of the one-off work-related death subsidy may be advanced. Where an employee is declared dead by a people's court, the matter shall be handled in accordance with the provisions of Article 39 of these Regulations on death in the course of work."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an injured employee is in any of the following circumstances, the employee shall cease to enjoy work-related injury insurance benefits:\n(a) ceasing to meet the conditions for enjoying the benefits;\n(b) refusing to accept the appraisal of labour capacity;\n(c) refusing treatment."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where an employing unit is divided, merged or transferred, the successor unit shall bear the work-related injury insurance liability of the original employing unit; where the original employing unit has already participated in work-related injury insurance, the successor unit shall complete the formalities for the modification of work-related injury insurance registration with the local agency.\nWhere an employing unit operates under a contracting arrangement, the work-related injury insurance liability shall be borne by the unit with which the employee has an employment relationship.\nWhere an employee suffers a work-related injury during a period of secondment, the original employing unit shall bear the work-related injury insurance liability, but the original employing unit and the seconding unit may agree on the method of compensation.\nWhere an enterprise goes bankrupt, the expenses for work-related injury insurance benefits payable by the unit shall be allocated in accordance with the law during the bankruptcy liquidation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an employee is dispatched to work abroad and is required, under the law of the country or region to which he is sent, to participate in local work-related injury insurance, the employee shall participate in local work-related injury insurance and his domestic work-related injury insurance relationship shall be suspended; where he cannot participate in local work-related injury insurance, his domestic work-related injury insurance relationship shall not be suspended."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an employee suffers a work-related injury again and is entitled to a disability allowance in accordance with the provisions, the employee shall enjoy disability allowance benefits according to the newly determined grade of disability."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Work-Related Injury Insurance Benefits"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "An agency shall undertake the specific work of work-related injury insurance and perform the following duties:\n(a) collecting work-related injury insurance premiums in accordance with the provisions of the people's government of the province, autonomous region or municipality directly under the Central Government;\n(b) verifying the total wages and the number of employees of employing units, handling work-related injury insurance registration, and keeping records of the premium payments of employing units and of the enjoyment of work-related injury insurance benefits by employees;\n(c) conducting investigation and statistics on work-related injury insurance;\n(d) administering the expenditure of the work-related injury insurance fund in accordance with the provisions;\n(e) verifying work-related injury insurance benefits in accordance with the provisions;\n(f) providing consulting services free of charge to injured employees or their close relatives."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "An agency shall conclude service agreements with medical institutions and institutions supplying auxiliary devices on the basis of consultation on an equal footing, and shall publish the lists of the medical institutions and the institutions supplying auxiliary devices that have concluded service agreements. The specific measures shall be formulated by the administrative department of social insurance under the State Council together with the administrative department of health, the department of civil affairs and other departments under the State Council respectively."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "An agency shall, in accordance with the agreements and the relevant catalogues and standards of the State, verify the use of the medical expenses, rehabilitation expenses and expenses for auxiliary devices of injured employees, and shall settle the expenses on time and in full."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "An agency shall regularly publish the revenue and expenditure of the work-related injury insurance fund and shall promptly put forward to the administrative department of social insurance suggestions for adjusting the premium rates."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The administrative department of social insurance and the agencies shall regularly seek the opinions of injured employees, medical institutions, institutions supplying auxiliary devices and all sectors of society on improving the work of work-related injury insurance."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The administrative department of social insurance shall, in accordance with the law, supervise and inspect the collection and payment of work-related injury insurance premiums and the payment from the work-related injury insurance fund.\nThe department of finance and the auditing organs shall, in accordance with the law, supervise the revenue, expenditure and administration of the work-related injury insurance fund."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Any organisation or individual shall have the right to report illegal acts relating to work-related injury insurance. The administrative department of social insurance shall promptly investigate the report, handle it in accordance with the provisions, and keep the informant confidential."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Trade union organisations shall, in accordance with the law, safeguard the lawful rights and interests of injured employees and shall exercise supervision over the work-related injury insurance work of employing units."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Disputes between an employee and an employing unit over work-related injury insurance benefits shall be handled in accordance with the relevant provisions on the handling of labour disputes."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where any of the following circumstances occurs, the unit or individual concerned may apply for administrative reconsideration in accordance with the law and may also institute administrative litigation before a people's court in accordance with the law:\n(a) the employee who applied for the determination of a work-related injury, his close relatives or the unit in which the employee works is dissatisfied with the decision not to accept the application for the determination of a work-related injury;\n(b) the employee who applied for the determination of a work-related injury, his close relatives or the unit in which the employee works is dissatisfied with the conclusion on the determination of a work-related injury;\n(c) an employing unit is dissatisfied with the unit premium rate determined by the agency;\n(d) a medical institution or an institution supplying auxiliary devices that has concluded a service agreement considers that the agency has failed to perform the relevant agreement or provisions;\n(e) an injured employee or his close relatives objects to the work-related injury insurance benefits verified by the agency."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a unit or individual, in violation of the provisions of Article 12 of these Regulations, misappropriates the work-related injury insurance fund and a crime is constituted, criminal responsibility shall be pursued in accordance with the law; where a crime is not constituted, sanctions or disciplinary sanctions shall be given in accordance with the law. The misappropriated fund shall be recovered by the administrative department of social insurance and incorporated into the work-related injury insurance fund; the illegal gains confiscated shall be turned over to the State Treasury in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a staff member of the administrative department of social insurance is in any of the following circumstances, sanctions shall be given in accordance with the law; where the circumstances are serious and a crime is constituted, criminal responsibility shall be pursued in accordance with the law:\n(a) refusing to accept an application for the determination of a work-related injury without justified reasons, or resorting to fraud to determine as an injured employee a person who does not meet the conditions for a work-related injury;\n(b) failing to properly keep the evidentiary materials for the application for the determination of a work-related injury, resulting in the loss of the relevant evidence;\n(c) accepting property from a party."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where an agency commits any of the following acts, the administrative department of social insurance shall order it to rectify, and shall give disciplinary sanctions in accordance with the law to the person directly in charge and other responsible persons; where the circumstances are serious and a crime is constituted, criminal responsibility shall be pursued in accordance with the law; where economic losses are caused to a party, the agency shall bear the liability for compensation in accordance with the law:\n(a) failing to keep records of the premium payments of employing units and of the enjoyment of work-related injury insurance benefits by employees in accordance with the provisions;\n(b) failing to verify work-related injury insurance benefits in accordance with the provisions;\n(c) accepting property from a party."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a medical institution or an institution supplying auxiliary devices fails to provide services in accordance with the service agreement, the agency may terminate the service agreement.\nWhere an agency fails to settle expenses on time and in full, the administrative department of social insurance shall order it to rectify; the medical institution or the institution supplying auxiliary devices may terminate the service agreement."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where an employing unit, an injured employee or his close relatives fraudulently obtains work-related injury insurance benefits, or a medical institution or an institution supplying auxiliary devices fraudulently obtains expenditure from the work-related injury insurance fund, the administrative department of social insurance shall order the return thereof and impose a fine of not less than two times but not more than five times the amount fraudulently obtained; where the circumstances are serious and a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where an organisation or individual engaged in the appraisal of labour capacity is in any of the following circumstances, the administrative department of social insurance shall order it to rectify and impose a fine of not less than 2,000 yuan but not more than 10,000 yuan; where the circumstances are serious and a crime is constituted, criminal responsibility shall be pursued in accordance with the law:\n(a) providing false appraisal opinions;\n(b) providing false certificates of diagnosis;\n(c) accepting property from a party."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where an employing unit shall, in accordance with the provisions of these Regulations, participate in work-related injury insurance but fails to do so, the administrative department of social insurance shall order it to participate within a time limit, to make up the work-related injury insurance premiums payable, and shall, from the date of default, collect a late fee of 0.05 per cent per day; where it still fails to pay at the expiry of the time limit, a fine of not less than one time but not more than three times the amount in default shall be imposed.\nWhere an employee of an employing unit that shall, in accordance with the provisions of these Regulations, participate in work-related injury insurance but has not done so suffers a work-related injury, the employing unit shall pay the expenses according to the items and standards of work-related injury insurance benefits prescribed by these Regulations.\nAfter an employing unit has participated in work-related injury insurance and has made up the work-related injury insurance premiums payable and the late fee, the work-related injury insurance fund and the employing unit shall pay the newly incurred expenses in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where an employing unit, in violation of the provisions of Article 19 of these Regulations, refuses to assist the administrative department of social insurance in investigating and verifying an accident, the administrative department of social insurance shall order it to rectify and impose a fine of not less than 2,000 yuan but not more than 20,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The total wages referred to in these Regulations mean the total amount of labour remuneration paid directly by an employing unit to all its employees.\nThe employee's own wage referred to in these Regulations means the average monthly premium-paying wage of the injured employee in the 12 months before he suffered the accidental injury or contracted the occupational disease in the course of work. Where the employee's own wage is higher than 300 per cent of the average wage of employees in the pooling area, it shall be calculated at 300 per cent of the average wage of employees in the pooling area; where the employee's own wage is lower than 60 per cent of the average wage of employees in the pooling area, it shall be calculated at 60 per cent of the average wage of employees in the pooling area."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where civil servants and the staff of public institutions and social organisations administered by reference to the Civil Servants Law suffer accidental injuries or occupational diseases in the course of work, the expenses shall be paid by the units in which they work. The specific measures shall be formulated by the administrative department of social insurance under the State Council together with the department of finance under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where an employee of a unit that has no business licence or has not been registered or put on record in accordance with the law, or of a unit whose business licence has been revoked or whose registration or record has been cancelled in accordance with the law, suffers an accidental injury or an occupational disease, the unit shall give a one-off compensation to the disabled employee or to the close relatives of the deceased employee, and the standard of compensation shall not be lower than the work-related injury insurance benefits prescribed by these Regulations; an employing unit shall not use child labour, and where an employing unit uses child labour and causes disability or death of the child labourer, the unit shall give a one-off compensation to the child labourer or to the close relatives of the child labourer, and the standard of compensation shall not be lower than the work-related injury insurance benefits prescribed by these Regulations. The specific measures shall be prescribed by the administrative department of social insurance under the State Council.\nWhere a dispute arises between the disabled employee or the close relatives of the deceased employee specified in the preceding paragraph and the unit over the amount of compensation, or where a dispute arises between the child labourer or the close relatives of the child labourer specified in the preceding paragraph and the unit over the amount of compensation, the matter shall be handled in accordance with the relevant provisions on the handling of labour disputes."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 January 2004. Where an employee who suffered an accidental injury or contracted an occupational disease before the entry into force of these Regulations has not yet completed the determination of the work-related injury, the matter shall be handled in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -19710,6 +31614,918 @@
         },
         "noLabel": {
           "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0099'] = {
+    "lawId": "CN-REG-0099",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 77 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Highway Law of the People's Republic of China in order to strengthen the protection of highways and to ensure that highways are intact, safe and smooth."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The people's governments at all levels shall strengthen their leadership over the protection of highways and perform their duties of highway protection in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent department of transport under the State Council shall be in charge of the protection of highways throughout the country.\nThe competent departments of transport of local people's governments at or above the county level shall be in charge of the protection of highways within their respective administrative areas; however, the duties of the competent departments of transport of local people's governments at or above the county level for the protection of national and provincial highways shall be determined by the people's government of the province, autonomous region or municipality directly under the Central Government.\nHighway administration institutions shall, in accordance with the provisions of these Regulations, be specifically responsible for the supervision and administration of highway protection."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The departments of development and reform, of industry and information technology, of public security, of industry and commerce, of quality inspection and other departments of the people's governments at or above the county level shall, in accordance with the division of duties, carry out the relevant work of highway protection in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The people's governments at or above the county level shall incorporate into the fiscal budget of the people's government at the same level the funds required by the government and its relevant departments for highway administration and maintenance and the funds required by highway administration institutions for the exercise of their highway administrative functions. The funds for the protection of special-purpose highways shall be excepted."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent departments of transport of the people's governments at or above the county level shall, taking comprehensive account of such factors as the relevant vehicle technical standards of the State and the conditions of use of highways, gradually raise the level of highway construction, administration and maintenance, and endeavour to meet the needs of national economic and social development and of the production and daily life of the people."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent departments of transport of the people's governments at or above the county level shall, in accordance with the provisions of the Emergency Response Law of the People's Republic of China, formulate contingency plans for emergencies that damage highways, such as earthquakes, mudslides and rain, snow and freezing disasters (hereinafter referred to as highway emergencies), and shall implement them after approval by the people's government at the same level.\nHighway administration institutions and highway operating enterprises shall, on the basis of the contingency plans for highway emergencies formulated by the competent departments of transport, form emergency teams and regularly organise emergency drills."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall establish and improve a guarantee system for the reserve of emergency supplies for highway emergencies and improve the system for reserving and allocating emergency supplies, so as to ensure that the needs of emergency response work can be met when a highway emergency occurs."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "No unit or individual shall damage, destroy, unlawfully occupy or unlawfully use a highway, highway land or the ancillary facilities of a highway."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Highway administration institutions shall establish and improve highway administration archives and shall investigate, verify and register highways, highway land and the ancillary facilities of highways."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the principles of ensuring the safety of highway operation and economising on land use and in light of the needs of highway development, organise the departments of transport, of land and resources and other departments to delimit the scope of highway building control zones.\nThe standards for the distance of the scope of a highway building control zone, measured outwards from the outer edge of the highway land, shall be:\n(a) not less than 20 metres for a national highway;\n(b) not less than 15 metres for a provincial highway;\n(c) not less than 10 metres for a county highway;\n(d) not less than 5 metres for a township highway.\nWhere the highway is an expressway, the standard for the distance of the scope of the highway building control zone, measured outwards from the outer edge of the highway land, shall be not less than 30 metres.\nThe scope of the building control zone on the inner side of a highway curve, at an interchange and at an at-grade junction shall be determined in accordance with the requirements for safe sight distance and other requirements."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The scope of the building control zone of a newly built or reconstructed highway shall, within 30 days from the date of approval of the preliminary design of the highway, be delimited and announced by the local people's governments at or above the county level along the highway in accordance with these Regulations.\nWhere a highway building control zone overlaps with a railway line safety protection zone, a waterway protection area, a river course administration area or the administration and protection area of a water project, it shall be delimited after consultation between the highway administration institution and the railway administration institution, the waterway administration institution, the competent department of water administration or the river basin management institution."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Within a highway building control zone, no buildings or ground structures shall be constructed except as required for highway protection; buildings and structures lawfully constructed before the delimitation of the highway building control zone shall not be extended, and where they need to be demolished for reasons of highway construction or of ensuring the safety of highway operation, compensation shall be given in accordance with the law.\nBuildings, ground structures and other facilities constructed outside a highway building control zone shall not obscure highway signs or impede safe sight distance."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The distance between a newly built village or town, development zone, school, goods distribution centre, large commercial outlet, farmers' market or other public place and the outer edge of the boundary of a highway building control zone shall meet the following standards, and the facility shall as far as possible be built on one side of the highway:\n(a) not less than 50 metres for a national or provincial highway;\n(b) not less than 20 metres for a county or township highway."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a newly built or reconstructed highway crosses an existing urban road, railway, telecommunications line or other line, or where a newly built or reconstructed urban road, railway, telecommunications line or other line crosses an existing highway, the construction costs shall be borne by the unit undertaking the new construction or reconstruction; where the administration department or unit of the urban road, railway, telecommunications line or other line or the highway administration institution requests a raising of the existing construction standards and additional costs are thereby incurred, such costs shall be borne by the department or unit making the request.\nWhere the mode of crossing between an existing highway and an urban road, railway, telecommunications line or other line needs to be changed, the construction costs shall be shared in accordance with the principle of fairness and reasonableness."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "It is prohibited to use a highway as a test ground for testing the braking performance of vehicles.\nIt is prohibited, on a highway or within the scope of highway land, to set up stalls, stack goods, dump rubbish, place obstacles, dig ditches to divert water, thresh and dry grain, plant crops, graze livestock, quarry, remove earth, carry out mining under the highway, burn articles, discharge pollutants through highway side ditches, or engage in other acts that damage or pollute the highway or affect the smooth flow of highway traffic."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "It is prohibited to carry out mining, quarrying, earth removal, blasting and other activities that endanger the safety of a highway, highway bridge, highway tunnel or highway ferry within the following areas:\n(a) within 100 metres outwards from the outer edge of the highway land of a national, provincial or county highway, and within 50 metres outwards from the outer edge of the highway land of a township highway;\n(b) within 200 metres around a highway ferry and a highway bridge of medium size or above;\n(c) above a highway tunnel and within 100 metres outside its portal.\nWithin the areas prescribed in the preceding paragraph, where dikes need to be built or riverbeds need to be narrowed or widened for emergency rescue or flood control, the work may be carried out only after approval by the competent department of transport of the people's government of the province, autonomous region or municipality directly under the Central Government together with the competent department of water administration or the river basin management institution, and after safety protection measures have been taken."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Apart from the places and facilities for refuelling vehicles established in accordance with the relevant provisions of the State, it is prohibited to establish places or facilities for the production, storage or sale of flammable, explosive, highly toxic, radioactive or other dangerous articles within the following areas:\n(a) within 100 metres outwards from the outer edge of highway land;\n(b) within 200 metres around a highway ferry and a highway bridge of medium size or above;\n(c) above a highway tunnel and within 100 metres outside its portal."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "It is prohibited, without authorisation, to extract groundwater, erect floating bridges or construct other facilities endangering the safety of a highway bridge within 1,000 metres upstream and downstream of the river course spanned by a highway bridge of medium size or above.\nWithin the areas prescribed in the preceding paragraph, where it is truly necessary to extract groundwater, erect floating bridges or carry out other activities, such activities may be carried out only after approval by the competent department of water administration, the river basin management institution or other relevant unit together with the highway administration institution, and after safety protection measures have been taken."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "It is prohibited to extract sand within the following areas upstream and downstream of the river course spanned by a highway bridge:\n(a) 500 metres upstream and 3,000 metres downstream of the river course spanned by an extra-large highway bridge;\n(b) 500 metres upstream and 2,000 metres downstream of the river course spanned by a large highway bridge;\n(c) 500 metres upstream and 1,000 metres downstream of the river course spanned by a medium-sized or small highway bridge."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where dredging operations are lawfully carried out within 500 metres upstream and downstream of the river course spanned by a highway bridge, the operations shall meet the safety requirements of the highway bridge and may be carried out only after the highway administration institution has confirmed that they are safe."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "It is prohibited to use a highway bridge for traction, hoisting or other construction operations that endanger the safety of the highway bridge.\nIt is prohibited to use a highway bridge (including the space beneath the bridge), a highway tunnel or a culvert for stacking goods, erecting facilities, or laying high-voltage power lines and pipelines for conveying flammable, explosive or other toxic and harmful gases or liquids."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a highway bridge spans a waterway, the construction unit shall, in accordance with the relevant provisions of the State, install bridge navigation marks, pier marks and bridge water gauge marks, and shall, in accordance with national standards and industry standards, install water navigation marks in the bridge area and anti-collision devices on the piers. The water navigation marks in the bridge area shall be maintained by the navigation mark administration institution.\nVessels passing under a highway bridge shall meet the navigable clearance requirements of the highway bridge, strictly observe the navigation rules, and shall not berth or moor beneath the highway bridge."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Important highway bridges and highway tunnels shall be guarded by the Chinese People's Armed Police Force in accordance with the Law of the People's Republic of China on the People's Armed Police Force and the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "It is prohibited to damage, move without authorisation, alter or obscure the ancillary facilities of a highway, or to use such ancillary facilities for laying pipelines or hanging articles."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "It is prohibited to destroy the vegetation on a highway or within the scope of highway land. Where road-protection trees need to be felled for regeneration, an application shall be submitted to the highway administration institution and the felling for regeneration may proceed only after approval, and the trees shall be replanted in a timely manner; where replanting cannot be carried out in a timely manner, the expenses required for replanting shall be paid and the highway administration institution shall replant the trees on behalf."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the following construction activities involving highways are carried out, the construction unit shall submit an application to the highway administration institution:\n(a) occupying or excavating a highway or highway land, or causing a highway to be rerouted, for the construction of railways, airports, power supply, water conservancy, telecommunications and other construction projects;\n(b) constructing bridges or aqueducts across or through a highway, or erecting or laying pipelines, cables and other facilities;\n(c) erecting or laying pipelines, cables and other facilities within the scope of highway land;\n(d) laying cables and other facilities by using a highway bridge, highway tunnel or culvert;\n(e) hanging non-highway signs on facilities that span a highway;\n(f) adding or reconstructing at-grade junctions on a highway;\n(g) laying pipelines, cables and other facilities within a highway building control zone."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A construction unit applying to carry out construction activities involving a highway shall submit the following materials to the highway administration institution:\n(a) a design and construction plan conforming to the requirements of the relevant technical standards and norms;\n(b) a technical evaluation report on ensuring the quality and safety of the highway and its ancillary facilities;\n(c) a contingency plan for dealing with dangerous situations and accidents during construction.\nThe highway administration institution shall, within 20 days from the date of accepting the application, make a decision to grant or not to grant the permit; where traffic safety is affected, the consent of the traffic management department of the public security organ shall be obtained; where a commercial highway is involved, the opinions of the highway operating enterprise shall be solicited; where the permit is not granted, the highway administration institution shall notify the applicant in writing and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The construction unit shall carry out the construction operations in accordance with the permitted design and construction plan and shall implement the protective measures for ensuring the quality and safety of the highway and its ancillary facilities.\nAfter the completion of construction involving a highway, the highway administration institution shall conduct acceptance inspection as to whether the highway and its ancillary facilities meet the prescribed technical standards and whether the construction meets the requirements for ensuring the quality and safety of the highway and its ancillary facilities; where traffic safety is affected, acceptance inspection by the traffic management department of the public security organ shall also be required.\nThe owner and the manager of the engineering facilities involving a highway shall strengthen maintenance and administration to ensure that the engineering facilities do not affect the intactness, safety and smooth flow of the highway."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Routes"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The overall dimensions, axle loads and total mass of vehicles shall conform to the national safety technical standards for motor vehicles concerning overall dimensions, axle loads, mass limits and the like, and vehicles not conforming to the standards shall not be manufactured or sold."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the traffic management department of the public security organ handles vehicle registration, it shall conduct an on-the-spot inspection and shall not register a vehicle that does not conform to the national safety technical standards for motor vehicles."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a vehicle needs to be modified for the transport of indivisible articles, the modification shall be carried out by a vehicle manufacturing enterprise with the corresponding qualifications in accordance with the prescribed vehicle type and technical parameters."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Vehicles exceeding the weight, height, width or length limits of a highway, highway bridge or highway tunnel shall not run on the highway, highway bridge or highway tunnel; vehicles exceeding the weight, height, width or length limits of a vehicle ferry shall not use the vehicle ferry.\nWhere the weight, height, width or length limits of a highway, highway bridge or highway tunnel are adjusted, the highway administration institution and the highway operating enterprise shall promptly change the signs for the weight, height, width and length limits; where a detour is needed, the detour route shall also be indicated."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent department of transport of a county-level people's government or a township-level people's government may, in light of the need to protect township and village highways, install necessary height-limiting and width-limiting facilities at the entrances and exits of township and village highways, provided that such facilities shall not affect the needs of emergency passage for firefighting and medical first aid and shall not charge fees to passing vehicles."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a vehicle carries indivisible articles and the overall dimensions or total mass of the vehicle and goods exceed the weight, height, width or length limits of a highway, highway bridge or highway tunnel and the vehicle truly needs to run on the highway, highway bridge or highway tunnel, the unit and individual engaged in the transport shall apply to the highway administration institution for a permit for highway transport exceeding limits."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "An application for a permit for highway transport exceeding limits shall be handled in accordance with the following provisions:\n(a) for transport exceeding limits across provinces, autonomous regions or municipalities directly under the Central Government, an application shall be submitted to the highway administration institutions of each province, autonomous region or municipality directly under the Central Government along the highway, and shall be uniformly accepted by the highway administration institution of the province, autonomous region or municipality directly under the Central Government at the place of departure, which shall coordinate the highway administration institutions of the provinces, autonomous regions or municipalities directly under the Central Government along the highway in examining and approving the application for transport exceeding limits; where necessary, the competent department of transport under the State Council may coordinate and handle the matter uniformly;\n(b) for transport exceeding limits across cities with districts within the scope of a province or autonomous region, or across districts and counties within the scope of a municipality directly under the Central Government, an application shall be submitted to the highway administration institution of the province, autonomous region or municipality directly under the Central Government, which shall accept and examine and approve it;\n(c) for transport exceeding limits across districts and counties within the scope of a city with districts, an application shall be submitted to the highway administration institution of the city with districts, which shall accept and examine and approve it;\n(d) for transport exceeding limits within the scope of a district or county, an application shall be submitted to the highway administration institution of the district or county, which shall accept and examine and approve it.\nWhere highway transport exceeding limits affects traffic safety, the highway administration institution shall, when examining and approving the application for transport exceeding limits, solicit the opinions of the traffic management department of the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "When examining and approving an application for transport exceeding limits, the highway administration institution shall survey the route of passage in light of the actual circumstances and, where reinforcement or reconstruction measures are needed, may conclude a relevant agreement with the applicant and formulate a corresponding reinforcement or reconstruction plan.\nThe highway administration institution shall, in accordance with the reinforcement or reconstruction plan it has formulated, reinforce or reconstruct the highway bridges, culverts and other facilities on the route of passage; where necessary, it shall supervise the vehicles engaged in transport exceeding limits."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where the highway administration institution approves an application for transport exceeding limits, it shall issue to the vehicles engaged in transport exceeding limits a pass for vehicles engaged in transport exceeding limits in the form prescribed by the competent department of transport under the State Council.\nVehicles approved to carry out transport exceeding limits shall carry the pass for vehicles engaged in transport exceeding limits on board, run at the designated time, on the designated route and at the designated speed, and display conspicuous signs.\nIt is prohibited to lend or transfer a pass for vehicles engaged in transport exceeding limits. It is prohibited to use a forged or altered pass for vehicles engaged in transport exceeding limits."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "With the approval of the people's government of the province, autonomous region or municipality directly under the Central Government, the relevant competent department of transport may establish fixed inspection stations for excess limits, equipped with the necessary equipment and personnel.\nFixed inspection stations for excess limits shall carry out law enforcement in a standardised manner and shall publish a supervision telephone number. Highway administration institutions shall strengthen the administration of fixed inspection stations for excess limits."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a highway administration institution finds in supervision and inspection that a vehicle exceeds the weight, height, width or length limits of a highway, highway bridge, highway tunnel or vehicle ferry, it shall guide the vehicle to the nearest fixed inspection station for excess limits for handling.\nVehicles shall accept inspection for excess limits in accordance with the indicating signs for inspection for excess limits or the directions of the supervision and inspection personnel of the highway administration institution, and shall not intentionally block the traffic lanes of a fixed inspection station for excess limits, force their way through a fixed inspection station for excess limits or otherwise disrupt the order of inspection for excess limits, and shall not evade inspection for excess limits by such means as short-distance transhipment.\nIt is prohibited to facilitate the evasion of inspection for excess limits by vehicles not conforming to the relevant national loading standards through guiding the way or detouring or by other means."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The operators and managers of goods distribution centres for coal, cement and other goods and of freight stations and other places shall take effective measures to prevent vehicles not conforming to the relevant national loading standards from leaving the premises (stations).\nRoad transport administration institutions shall strengthen supervision and inspection of goods distribution centres for coal, cement and other goods and of freight stations and other places, and shall stop vehicles not conforming to the relevant national loading standards from leaving the premises (stations).\nNo unit or individual shall instruct or coerce a vehicle driver to transport goods in excess of limits, or obstruct the road transport administration institution in conducting supervision and inspection in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Vehicles carrying flammable, explosive, highly toxic, radioactive or other dangerous articles shall conform to the relevant provisions of the State on safety management and shall avoid passing over extra-large highway bridges or through extra-long highway tunnels; where they truly need to pass over an extra-large highway bridge or through an extra-long highway tunnel, the organ responsible for approving the permit for the transport of flammable, explosive, highly toxic, radioactive or other dangerous articles shall, in advance, notify the unit administering the extra-large highway bridge or extra-long highway tunnel of the time and route of passage, and shall supervise on site the vehicles running on the extra-large highway bridge or through the extra-long highway tunnel."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Vehicles shall be loaded in a standardised manner, and the load shall not drag on the ground. Where the load of a vehicle is liable to fall, spill or scatter, the vehicle may run on a highway only after effective protective measures such as enclosed van-type carriage have been taken.\nWhere the load of a vehicle running on a highway falls, spills or scatters, the driver and the escort shall promptly take measures to deal with it; where they are unable to deal with it, they shall place warning signs at an appropriate distance in the direction from which vehicles approach the fallen, spilled or scattered load and shall promptly report to the highway administration institution or the traffic management department of the public security organ. Where other persons discover an obstacle on a highway that affects traffic safety, they shall also promptly report it to the highway administration institution or the traffic management department of the public security organ. The traffic management department of the public security organ shall order the correction of illegal acts such as the falling, spilling or scattering of vehicle loads; the highway administration institution and the highway operating enterprise shall promptly remove the obstacles fallen, spilled or scattered on the highway.\nWhere, after the load of a vehicle falls, spills or scatters, the driver and the escort fail to promptly take measures to deal with it and personal injury or property damage is caused to others, the road transport enterprise and the vehicle driver shall bear the liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Traffic"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Highway administration institutions and highway operating enterprises shall strengthen highway maintenance to ensure that highways are constantly in good technical condition.\nGood technical condition referred to in the preceding paragraph means that the physical condition of the highway itself conforms to the requirements of the relevant technical standards, including a level road surface, smooth shoulders and side slopes, and intact relevant facilities."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Highway maintenance shall be carried out in accordance with the technical norms and operating rules prescribed by the competent department of transport under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A unit engaged in highway maintenance operations shall have the following qualifications:\n(a) a certain number of technical personnel meeting the requirements;\n(b) technical equipment suitable for highway maintenance operations;\n(c) operating experience suitable for highway maintenance operations;\n(d) other conditions prescribed by the competent department of transport under the State Council.\nThe measures for the administration of the qualifications of units engaged in highway maintenance operations shall be separately formulated by the competent department of transport under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Highway administration institutions and highway operating enterprises shall patrol highways in accordance with the provisions of the competent department of transport under the State Council and shall keep patrol records; where collapse, potholes, bulging or other damage to a highway is discovered, warning signs shall be promptly installed and measures shall be taken to repair it.\nWhere the traffic management department of the public security organ discovers collapse, potholes, bulging or other damage to a highway that endangers traffic safety, it shall promptly take measures to direct traffic and shall notify the highway administration institution or the highway operating enterprise.\nWhere other persons discover collapse, potholes, bulging or other damage to a highway, they shall promptly report it to the highway administration institution or the traffic management department of the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Highway administration institutions and highway operating enterprises shall regularly inspect and appraise highways, highway bridges and highway tunnels to ensure that their technical condition conforms to the relevant technical standards; where inspection reveals that they do not meet the safety requirements for vehicle passage, they shall be repaired, an announcement shall be promptly made to the public, and the traffic management department of the public security organ shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Highway administration institutions and highway operating enterprises shall regularly inspect the drainage, ventilation, lighting, monitoring, alarm, firefighting, rescue and other facilities of highway tunnels and shall keep the facilities in good condition."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Highway administration institutions shall make overall arrangements for highway maintenance operation plans so as to avoid traffic congestion caused by concentrated highway maintenance operations.\nWhere highway maintenance operations carried out in an area at the boundary of provinces, autonomous regions or municipalities directly under the Central Government may cause traffic congestion, the highway administration institutions and the traffic management departments of the public security organs concerned shall, in advance, notify in writing the highway administration institutions and the traffic management departments of the public security organs of the adjacent provinces, autonomous regions or municipalities directly under the Central Government, and shall jointly formulate contingency plans for directing traffic and determine the routes for diverting traffic."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where highway maintenance operations require the closure of a highway, or occupy half of a highway for the operations, the length of the work section is two kilometres or more and the work period exceeds 30 days, the unit engaged in highway maintenance operations shall, except in emergencies, make an announcement to the public five days before the date of commencement of the operations, specify the detour route and install signs at the detour; where a detour is not possible, a temporary road shall be built."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Personnel engaged in highway maintenance operations shall wear uniform safety sign clothing while working. Highway maintenance vehicles and machinery and equipment shall, while working, display conspicuous operation signs and turn on hazard warning flashers."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a highway emergency affects traffic, the highway administration institution and the highway operating enterprise shall promptly repair the highway and restore traffic. The competent department of transport of a people's government at or above the level of a city with districts shall, in light of the need to repair highways and restore traffic, promptly assemble emergency repair forces, make overall arrangements for the relevant operation plans, issue road network dispatching instructions, and cooperate with the relevant departments in organising detours and traffic diversion.\nHighway administration institutions at or above the level of a city with districts shall, in accordance with the provisions of the competent department of transport under the State Council, collect and compile information on highway damage and highway traffic volume, carry out monitoring, forecasting and early warning of highway emergencies, and promptly release information on highway operation to the public through various means."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The traffic corps of the Chinese People's Armed Police Force shall, in accordance with the relevant provisions of the State, undertake the task of emergency repair of highways, highway bridges, highway tunnels and other facilities."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a highway is permanently taken out of use, it shall be scrapped after verification and approval in accordance with the procedures prescribed by the competent department of transport under the State Council, and an announcement shall be made to the public.\nThe administration of land use after a highway is scrapped shall be carried out in accordance with the laws and administrative regulations on land administration."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following circumstances occurs, the highway administration institution shall order demolition within a time limit and may impose a fine of not more than 50,000 yuan. Where demolition is not carried out at the expiry of the time limit, the highway administration institution shall demolish the structures, and the relevant expenses shall be borne by the person committing the illegal act:\n(a) constructing or extending buildings or ground structures within a highway building control zone, or laying pipelines, cables and other facilities without a permit;\n(b) buildings, ground structures and other facilities constructed outside a highway building control zone obscure highway signs or impede safe sight distance."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where the provisions of Articles 18, 19 and 23 of these Regulations are violated, the matter shall be handled in accordance with the law by the department of work safety supervision and administration, the competent department of water administration, the river basin management institution, the maritime safety administration institution and other relevant units."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where the provisions of Article 20 of these Regulations are violated, the competent department of water administration or the river basin management institution shall order rectification and may impose a fine of not more than 30,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the provisions of Article 22 of these Regulations are violated, the highway administration institution shall order rectification and impose a fine of not less than 20,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following acts is committed, the highway administration institution shall order rectification and may impose a fine of not more than 30,000 yuan:\n(a) damaging, moving without authorisation, altering or obscuring the ancillary facilities of a highway, or using such ancillary facilities for laying pipelines or hanging articles, in a manner likely to endanger highway safety;\n(b) engineering facilities involving a highway affecting the intactness, safety and smooth flow of the highway."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, road-protection trees are felled for regeneration without approval, the highway administration institution shall order replanting, confiscate the illegal gains, and impose a fine of not less than three times but not more than five times the value of the trees felled."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, construction activities involving a highway specified in subparagraphs (a) to (e) of Article 27 of these Regulations are carried out without a permit, the highway administration institution shall order rectification and may impose a fine of not more than 30,000 yuan; where construction activities involving a highway specified in subparagraph (f) of Article 27 of these Regulations are carried out without a permit, the highway administration institution shall order rectification and impose a fine of not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, vehicles whose overall dimensions, axle loads or total mass do not conform to the national safety technical standards for motor vehicles concerning overall dimensions, axle loads, mass limits and the like are illegally manufactured or sold, the matter shall be penalised in accordance with the relevant provisions of the Road Traffic Safety Law of the People's Republic of China.\nWhere a vehicle manufacturing enterprise with the qualifications prescribed by the State modifies a vehicle not in accordance with the prescribed vehicle type and technical parameters, the organ that originally issued the certificate shall order rectification and impose a fine of not less than 40,000 yuan but not more than 200,000 yuan; where it refuses to rectify, its qualification certificate shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the overall dimensions, axle loads or total mass of a vehicle and its goods running on a highway exceed the limits prescribed for the highway, highway bridge, highway tunnel or vehicle ferry, the highway administration institution shall order rectification and may impose a fine of not more than 30,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a vehicle approved to carry out transport exceeding limits fails to run at the designated time, on the designated route and at the designated speed, the highway administration institution or the traffic management department of the public security organ shall order rectification; where it refuses to rectify, the highway administration institution or the traffic management department of the public security organ may detain the vehicle.\nWhere a vehicle does not carry on board the pass for vehicles engaged in transport exceeding limits, the highway administration institution shall detain the vehicle and order the driver to produce the pass for vehicles engaged in transport exceeding limits or the corresponding certification.\nWhere a pass for vehicles engaged in transport exceeding limits is lent or transferred, the highway administration institution shall confiscate the pass and impose a fine of not less than 1,000 yuan but not more than 5,000 yuan. Where a forged or altered pass for vehicles engaged in transport exceeding limits is used, the highway administration institution shall confiscate the forged or altered pass and impose a fine of not more than 30,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "For a goods vehicle that has carried out transport exceeding limits in violation of the law more than three times within one year, the road transport administration institution shall revoke its vehicle operating certificate; for a driver of a goods vehicle that has carried out transport exceeding limits in violation of the law more than three times within one year, the road transport administration institution shall order the driver to cease engaging in commercial transport; where the goods vehicles of a road transport enterprise that have carried out transport exceeding limits in violation of the law within one year exceed 10 per cent of the total number of goods vehicles of the enterprise, the road transport administration institution shall order the road transport enterprise to suspend business for rectification; where the circumstances are serious, it shall revoke its road transport operating permit and make an announcement to the public."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following acts is committed, the highway administration institution shall forcibly tow away or detain the vehicle and impose a fine of not more than 30,000 yuan:\n(a) disrupting the order of inspection for excess limits by intentionally blocking the traffic lanes of a fixed inspection station for excess limits, forcing a way through a fixed inspection station for excess limits or other means;\n(b) evading inspection for excess limits by such means as short-distance transhipment."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person instructs or coerces a vehicle driver to transport goods in excess of limits, the road transport administration institution shall order rectification and impose a fine of not more than 30,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the load of a vehicle drags on the ground, falls, spills or scatters and thereby damages or pollutes the road surface of a highway, the highway administration institution shall order rectification and impose a fine of not more than 5,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit engaged in highway maintenance operations carries out highway maintenance operations not in accordance with the technical norms and operating rules prescribed by the competent department of transport under the State Council, the highway administration institution shall order rectification and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where it refuses to rectify, its qualification certificate shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "A unit or individual that causes damage to a highway or its ancillary facilities shall immediately report to the highway administration institution and accept on-site investigation and handling by the highway administration institution; where traffic safety is endangered, warning signs shall also be installed or other safety protection measures taken, and the traffic management department of the public security organ shall be promptly notified.\nWhere a traffic accident causes damage to a highway or its ancillary facilities, the traffic management department of the public security organ shall, when handling the traffic accident, promptly notify the relevant highway administration institution to be present for investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where damage is caused to a highway or its ancillary facilities and the person concerned refuses to accept on-site investigation and handling by the highway administration institution, the highway administration institution may detain the vehicle and tools.\nWhere the highway administration institution detains a vehicle or tools, it shall issue a receipt on the spot and inform the party concerned to accept handling at the highway administration institution within the prescribed time limit. Where the party concerned fails to accept handling at the expiry of the time limit and still fails to come to accept handling three months after an announcement is made, the detained vehicle and tools shall be handled by the highway administration institution in accordance with the law.\nThe highway administration institution shall properly keep the detained vehicle and tools and shall not use them."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a staff member of a highway administration institution commits any of the following acts, sanctions shall be given in accordance with the law:\n(a) implementing administrative licence unlawfully;\n(b) stopping or inspecting vehicles running normally in violation of the provisions;\n(c) failing to promptly take measures to deal with collapse, potholes, bulging or other damage to a highway;\n(d) unlawfully detaining a vehicle or tools or using a vehicle or tools lawfully detained;\n(e) other acts of dereliction of duty, malpractice for personal gain or abuse of power.\nWhere a highway administration institution commits any of the acts listed in the preceding paragraph, sanctions shall be given in accordance with the law to the person in charge bearing direct responsibility and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an act in violation of public security administration is constituted, the public security organ shall impose a penalty for public security administration in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The administration and maintenance of village highways shall be carried out by township-level people's governments with reference to the provisions of these Regulations.\nThese Regulations shall not apply to the protection of special-purpose highways."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The use of highways for military transport shall be governed by the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 July 2011. The Regulations of the People's Republic of China on the Administration of Highways promulgated by the State Council on 13 October 1987 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 77."
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"

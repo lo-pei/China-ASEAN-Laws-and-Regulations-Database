@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p16
-   法规 64 部 / 译文 2050 条
+   法规 69 部 / 译文 2338 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -5517,6 +5517,690 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0281'] = {
+    "lawId": "CN-REG-0281",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 58 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Water Law of the People's Republic of China in order to strengthen the management and protection of water resources and to promote the economical use and rational development and utilisation of water resources."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"abstraction of water\" means the direct abstraction and use of water resources from rivers, lakes or underground by means of water abstraction works or facilities.\nUnits and individuals that abstract and use water resources shall, except in the circumstances specified in Article 4 of these Regulations, apply for and obtain a water abstraction permit and pay a water resources fee.\nFor the purposes of these Regulations, \"water abstraction works or facilities\" means sluices, dams, canals, artificial watercourses, siphons, water pumps, wells, hydropower stations and the like."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent water administrative departments of people's governments at or above the county level shall, in accordance with the limits of authority for tiered management, be responsible for organising the implementation of the water abstraction permit system and for its supervision and management.\nThe river basin management institutions established by the competent water administrative department of the State Council in the important rivers and lakes designated by the State (hereinafter referred to as river basin management institutions) shall, in accordance with the provisions of these Regulations and the authorisation of the competent water administrative department of the State Council, be responsible for organising the implementation of the water abstraction permit system and for its supervision and management within the scope under their jurisdiction.\nThe competent water administrative departments, finance departments and pricing departments of people's governments at or above the county level shall, in accordance with the provisions of these Regulations and the limits of management authority, be responsible for the collection, management and supervision of water resources fees."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A water abstraction permit need not be applied for and obtained in the following circumstances:\n(a) where rural collective economic organisations and their members use water from ponds and reservoirs of the collective economic organisation concerned;\n(b) where small quantities of water are abstracted for domestic life and for drinking by livestock and poultry kept in scattered or confined raising;\n(c) where temporary emergency abstraction (or drainage) of water is necessary to safeguard the construction safety and production safety of underground works such as mines;\n(d) where temporary emergency abstraction of water is necessary to eliminate harm to public safety or the public interest; and\n(e) where temporary emergency abstraction of water is necessary for agricultural drought relief and for the maintenance of the ecology and environment.\nThe quota for the small quantities of water specified in item (b) of the preceding paragraph shall be prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government; the abstraction of water specified in items (c) and (d) shall be promptly reported to the competent water administrative department of the local people's government at or above the county level or to the river basin management institution for the record; and the abstraction of water specified in item (e) shall be subject to the consent of the competent water administrative department of the people's government at or above the county level or of the river basin management institution."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Water abstraction permits shall first satisfy the water used for the domestic life of urban and rural residents, and shall also take into account the needs of agriculture, industry, the ecology and environment, and navigation.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the duties and limits of authority prescribed by these Regulations, prescribe a specific order of priority for the various uses of water in the preceding paragraph within the same river basin or region according to actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The implementation of water abstraction permits must conform to comprehensive water resources plans, comprehensive river basin plans, medium- and long-term water supply and demand plans and water function zoning, and must comply with the water volume allocation schemes approved in accordance with the provisions of the Water Law of the People's Republic of China; where a water volume allocation scheme has not yet been formulated, the agreements concluded between the local people's governments concerned shall be complied with."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The implementation of water abstraction permits shall adhere to the principles of giving overall consideration to surface water and groundwater, combining the development of new sources with water conservation while giving priority to water conservation, and applying a combination of total volume control and quota management.\nThe total water consumption for which abstraction is approved within a river basin shall not exceed the available quantity of water resources of that river basin.\nThe total quantity of water for which abstraction is approved within an administrative area shall not exceed the quantity of water made available for use in that administrative area by the river basin management institution or the competent water administrative department at the next higher level; of that total, the total quantity of groundwater for which abstraction is approved shall not exceed the exploitable quantity of groundwater in that administrative area and shall comply with the requirements of the plan for the development and utilisation of groundwater. The opinions of the competent land and resources department shall be sought in formulating a plan for the development and utilisation of groundwater."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The implementation of the water abstraction permit system and the water resources fee collection and management system shall follow the principles of openness, fairness, impartiality, efficiency and convenience to the people."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "All units and individuals have the duty to conserve and protect water resources.\nUnits and individuals that have made outstanding contributions to the conservation and protection of water resources shall be commended and rewarded by people's governments at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A unit or individual applying to abstract water (hereinafter referred to as the applicant) shall submit an application to the approval organ with the power of approval. Where an application involves the use of multiple water sources and the approval organs for water abstraction permits for the various water sources are different, the application shall be submitted to the approval organ at the highest level among them.\nWhere the authority to grant a water abstraction permit lies with a river basin management institution, the application shall be submitted to the competent water administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where the water intake is located. The competent water administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, within 20 working days from the date of receipt of the application, put forward its opinions and forward them together with all the application materials to the river basin management institution; and the river basin management institution shall, after receipt, handle the matter in accordance with the provisions of Article 13 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Application for and Acceptance of Water Abstraction"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "To apply to abstract water, the following materials shall be submitted:\n(a) an application form;\n(b) an explanation of the interest relationship with a third party;\n(c) where the project is subject to the filing system, the relevant filing materials; and\n(d) other materials prescribed by the competent water administrative department of the State Council.\nWhere a construction project requires the abstraction of water, the applicant shall also submit a report on the demonstration of water resources for the construction project. The demonstration report shall include such content as the source of the abstracted water, the rationality of water use and the impact on the ecology and environment."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Application for and Acceptance of Water Abstraction"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The application form shall include the following matters:\n(a) the title (name) and address of the applicant;\n(b) the reasons for the application;\n(c) the starting time and duration of the abstraction of water;\n(d) the purpose of abstraction, the quantity of water abstracted, the monthly water consumption within the year and the like;\n(e) the water source and the place of water intake;\n(f) the method of abstraction, the method of measurement and water conservation measures;\n(g) the place of return flow, the main pollutants contained in the return flow and sewage treatment measures; and\n(h) other matters prescribed by the competent water administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Application for and Acceptance of Water Abstraction"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The competent water administrative department of a local people's government at or above the county level or a river basin management institution shall, within 5 working days from the date of receipt of an application for water abstraction, examine the application materials and handle the matter separately according to the following different circumstances:\n(a) where the application materials are complete, conform to the statutory form and fall within the scope of acceptance of the organ, the application shall be accepted;\n(b) where the materials submitted are incomplete or the content of the application form is unclear, the applicant shall be notified to make a supplementary correction; and\n(c) where the matter does not fall within the scope of acceptance of the organ, the applicant shall be informed to submit an application to the organ with the power of acceptance."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Application for and Acceptance of Water Abstraction"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Water abstraction permits shall be subject to tiered approval.\nThe following abstractions of water shall be approved by river basin management institutions:\n(a) abstraction above the quota in the main courses of the Yangtze River, the Yellow River, the Huaihe River, the Haihe River, the Luanhe River, the Pearl River, the Songhua River, the Liaohe River, the Jinsha River and the Hanjiang River and in Taihu Lake, as well as in designated reaches of other rivers and lakes that cross provinces, autonomous regions or municipalities directly under the Central Government;\n(b) abstraction above the quota in designated reaches of international transboundary rivers and in international boundary rivers;\n(c) abstraction above the quota in rivers and lakes on the boundaries between provinces;\n(d) abstraction that crosses the administrative areas of provinces, autonomous regions or municipalities directly under the Central Government;\n(e) abstraction for large and medium-sized construction projects subject to examination and approval or verification by the State Council or the investment competent department of the State Council; and\n(f) abstraction from watercourses (reaches of watercourses) and lakes directly managed by river basin management institutions.\nThe designated reaches and quotas referred to in the preceding paragraph, and the watercourses (reaches of watercourses) and lakes directly managed by river basin management institutions, shall be prescribed by the competent water administrative department of the State Council.\nOther abstractions of water shall be approved by the competent water administrative departments of local people's governments at or above the county level in accordance with the approval authority prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "An approved water volume allocation scheme or a concluded agreement is the basis for determining the total volume control of water abstraction permits for a river basin and an administrative area.\nWhere a water volume allocation scheme has not yet been formulated or an agreement has not yet been concluded for a river or lake that crosses provinces, autonomous regions or municipalities directly under the Central Government, the total volume control targets for water abstraction permits of the provinces, autonomous regions or municipalities directly under the Central Government concerned shall be proposed by the river basin management institution on the basis of the water resources conditions of the river basin, in accordance with the comprehensive water resources plan, the comprehensive river basin plan and the medium- and long-term water supply and demand plan and in the light of the current abstraction situation and the supply and demand situation of each province, autonomous region or municipality directly under the Central Government, in consultation with the competent water administrative departments of the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government concerned, and shall be submitted to the competent water administrative department of the State Council for approval; the total volume control targets for water abstraction permits for the administrative areas of cities divided into districts and counties (cities) shall be formulated by the competent water administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government on the basis of the total volume control targets for water abstraction permits of that province, autonomous region or municipality directly under the Central Government and in the light of the current abstraction situation and the supply and demand situation of each locality, and shall be reported to the river basin management institution for the record."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The water consumption verified according to the water use quota of the industry is the main basis for the approval of the quantity of water abstracted.\nThe competent water administrative department and the quality supervision and inspection administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government shall be responsible for guiding and organising the formulation of water use quotas for industries within their administrative areas.\nWhere water use quotas for industries within an administrative area have not yet been formulated, the water use quotas for industries formulated by the relevant industry competent department of the State Council may be applied by reference."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After accepting an application for water abstraction, the approval organ shall conduct a comprehensive examination of the application materials and, taking into overall consideration the possible impact of the abstraction on the conservation and protection of water resources and on economic and social development, decide whether to approve the application for water abstraction."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the approval organ considers that the abstraction of water involves the public interest and that a hearing is needed, it shall announce the matter to the public and hold a hearing.\nWhere the abstraction of water involves a significant interest relationship between the applicant and others, the approval organ shall, before making a decision on whether to approve the application for water abstraction, inform the applicant and the interested parties. Where the applicant or the interested parties request a hearing, the approval organ shall organise a hearing.\nWhere a dispute or litigation arises from an application for water abstraction, the approval organ shall notify the applicant in writing to suspend the approval procedure; and the approval procedure shall be resumed after the dispute is resolved or the litigation is terminated."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The approval organ shall, within 45 working days from the date of acceptance of an application for water abstraction, decide whether to approve or not to approve it. Where it decides to approve, it shall at the same time issue a document approving the application for water abstraction.\nFor an application for the abstraction of groundwater within an urban planning area, the approval organ shall seek the opinions of the competent urban construction department, and the competent urban construction department shall, within 5 working days from the date of receipt of the materials on which opinions are sought, put forward its opinions and transmit them to the water abstraction approval organ.\nThe approval time limit specified in the first paragraph of this Article does not include the time needed to hold a hearing and to seek the opinions of the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Under any of the following circumstances, the approval organ shall not grant approval and shall, when making the decision of non-approval, inform the applicant in writing of the reasons and basis for the non-approval:\n(a) the abstraction of groundwater in an area where groundwater abstraction is prohibited;\n(b) an increase in the quantity of water abstracted in an area where the water abstraction permits already granted have reached the total volume control of water abstraction permits;\n(c) likely significant harm to the use functions of the waters of a water function zone;\n(d) an unreasonable layout for the abstraction and return flow of water;\n(e) abstraction of groundwater by the self-provided water abstraction facilities of a construction project when the urban public water supply network is able to satisfy the demand for water;\n(f) likely significant harm to a third party or the public interest;\n(g) a project subject to the filing system in respect of which no filing has been submitted; and\n(h) other circumstances prescribed by laws and administrative regulations.\nThe quantity of water approved for abstraction shall not exceed the designed abstraction capacity of the water abstraction works or facilities."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Only after an application for water abstraction has been approved by the approval organ may the applicant construct water abstraction works or facilities."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where, within 3 years after approval of an application for water abstraction, construction of the water abstraction works or facilities has not commenced, or where a construction project requiring examination and approval or verification by the State has not obtained such approval or verification, the document approving the application for water abstraction shall become invalid of itself.\nWhere there is a relatively major change in the water abstraction matters of a construction project, the construction unit shall conduct a new demonstration of water resources for the construction project and apply anew for water abstraction."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "After the completion of water abstraction works or facilities, the applicant shall, in accordance with the provisions of the competent water administrative department of the State Council, submit to the water abstraction approval organ the relevant materials such as the trial operation of the water abstraction works or facilities; and where they pass acceptance inspection, the approval organ shall issue a water abstraction permit.\nWhere existing water abstraction works or facilities are directly used for the abstraction of water, a water abstraction permit shall be issued after examination and confirmation of conformity by the approval organ.\nThe approval organ shall promptly notify the competent water administrative department of the people's government at the county level in the place where the water intake is located of the issuance of water abstraction permits, and shall periodically announce the issuance of water abstraction permits."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A water abstraction permit shall include the following content:\n(a) the title (name) of the unit or individual abstracting water;\n(b) the duration of the abstraction of water;\n(c) the quantity of water abstracted and the purpose of the abstraction;\n(d) the type of water source; and\n(e) the places of abstraction and of return flow, and the method and quantity of the return flow.\nThe quantity of water abstracted specified in item (c) of the preceding paragraph is the maximum quantity of water that the unit or individual is permitted to abstract under the multi-year average water volume conditions of the rivers, lakes and groundwater.\nWater abstraction permits shall be uniformly produced by the competent water administrative department of the State Council, and the approval organ may only charge a cost fee for issuing a water abstraction permit."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A water abstraction permit shall generally be valid for 5 years and for no longer than 10 years. Where an extension is needed upon expiry of the period of validity, the unit or individual abstracting water shall, 45 days before the expiry, submit an application to the original approval organ, and the original approval organ shall make a decision on whether to extend it before the expiry of the period of validity."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a unit or individual abstracting water requests a change in the matters stated in the water abstraction permit, it shall apply to the original approval organ in accordance with the provisions of these Regulations, and shall go through the relevant change formalities after approval by the original approval organ."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a unit or individual that has obtained the right to abstract water in accordance with the law conserves water resources through measures such as adjusting its products and industrial structure, reforming its techniques and saving water, it may, within the period of validity of the water abstraction permit and within the abstraction quota and subject to the approval of the original approval organ, transfer its conserved water resources for consideration in accordance with the law and shall go through the formalities for changing the right to abstract water with the original approval organ. The specific measures shall be formulated by the competent water administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Examination and Decision on Water Abstraction Permits"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Units and individuals abstracting water shall pay a water resources fee.\nUnits and individuals abstracting water shall abstract water in accordance with the approved annual water abstraction plan. Where water is abstracted in excess of the plan or in excess of the quota, a water resources fee shall be collected on a progressive basis for the portion in excess of the plan or quota.\nThe standards for collecting water resources fees shall be formulated by the pricing department of the people's government of a province, autonomous region or municipality directly under the Central Government together with the finance department and the water administrative department at the corresponding level, submitted to the people's government at the corresponding level for approval, and reported to the pricing department, the finance department and the water administrative department of the State Council for the record. Of these, the standards for collecting water resources fees for water conservancy projects directly under the Central Government and water conservancy projects crossing provinces, autonomous regions or municipalities directly under the Central Government for which water abstraction is approved by a river basin management institution shall be formulated by the pricing department of the State Council together with the finance department and the water administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The following principles shall be followed in formulating the standards for collecting water resources fees:\n(a) promoting the rational development, utilisation, conservation and protection of water resources;\n(b) being commensurate with local water resources conditions and the level of economic and social development;\n(c) giving overall consideration to the rational development and utilisation of surface water and groundwater and preventing the excessive extraction of groundwater; and\n(d) giving full consideration to the differences between different industries and sectors."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Local people's governments at all levels shall take measures to improve the efficiency of agricultural water use and develop water-saving agriculture.\nThe standards for collecting water resources fees for water abstracted for agricultural production shall be formulated on the basis of local water resources conditions, the state of rural economic development and the need to promote water conservation in agriculture. The standards for collecting water resources fees for water abstracted for agricultural production shall be lower than those for other uses of water, and the standards for grain crops shall be lower than those for cash crops. The steps and scope of collecting water resources fees for water abstracted for agricultural production shall be prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Water resources fees shall be collected by the water abstraction approval organ; of these, where the abstraction is approved by a river basin management institution, the water resources fee shall be collected on its behalf by the competent water administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where the water intake is located."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The amount of the water resources fee payable shall be determined on the basis of the standard for collecting water resources fees in the place where the water intake is located and the actual quantity of water abstracted.\nFor water used in hydroelectric power generation and once-through cooling water used in thermal power generation, the amount payable may be determined on the basis of the standard for collecting water resources fees in the place where the water intake is located and the actual amount of electricity generated."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "After determining the amount of the water resources fee payable, the water abstraction approval organ shall serve a notice of payment of the water resources fee on the unit or individual abstracting water, and the unit or individual abstracting water shall complete the payment formalities within 7 days from the date of receipt of the notice of payment.\nWhere water resources are abstracted directly from rivers, lakes or underground for agricultural production, the unit or individual abstracting water shall, in respect of the water resources in excess of the agricultural production water quota prescribed by the province, autonomous region or municipality directly under the Central Government, pay a water resources fee on the basis of the standard for collecting water resources fees in the place where the water intake is located and the actual quantity of water abstracted; and no water resources fee shall be paid for the abstraction of water within the prescribed agricultural production water quota. Where water from a water supply project is used for agricultural production, the unit or individual using the water shall pay a water charge to the water supply project unit according to the actual quantity of water used, and the water supply project unit shall pay the water resources fee in a unified manner; the water resources fee shall be included in the cost of water supply.\nFor temporary emergency diversion of water implemented in accordance with a water volume allocation scheme across administrative areas approved by the State for the needs of the public interest, the unit or individual abstracting and using water in the receiving area shall pay a water resources fee on the basis of the standard for collecting water resources fees and the actual quantity of water abstracted in the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a unit or individual abstracting water is unable to pay the water resources fee on time due to special difficulties, it may, within 7 days from the date of receipt of the notice of payment of the water resources fee, apply to the water administrative department that issued the notice of payment for a deferral of payment; the water administrative department that issued the notice of payment shall, within 5 working days from the date of receipt of the application for deferral, make a written decision and notify the applicant; and where no decision is made upon expiry of that period, the application shall be deemed approved. The period of deferral of payment of the water resources fee shall not exceed 90 days."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Water resources fees collected shall be remitted separately to the central and local treasuries in accordance with the provisions of the finance department of the State Council. Where the State Council provides otherwise on the retention and remittance of water resources fees for the purpose of raising funds for water conservancy projects, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Water resources fees collected shall be fully incorporated into the fiscal budget and shall be arranged in an overall manner by the finance department in accordance with the approved departmental fiscal budget, and shall be mainly used for the conservation, protection and management of water resources and may also be used for the rational development of water resources."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "No unit or individual may withhold, misappropriate or divert water resources fees.\nAudit institutions shall strengthen audit supervision over the use and management of water resources fees."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Collection, Use and Management of Water Resources Fees"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The competent water administrative departments of people's governments at or above the county level or river basin management institutions shall, in accordance with the provisions of these Regulations, strengthen supervision and management over the implementation of the water abstraction permit system.\nThe competent water administrative departments, finance departments and pricing departments of people's governments at or above the county level shall strengthen supervision and management over the collection and use of water resources fees."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The annual water volume allocation scheme and the annual water abstraction plan are the basis for the control of the total annual water abstraction, and shall be formulated on the basis of the approved water volume allocation scheme or the concluded agreement and in the light of the actual water use situation, the water use quotas of industries and the predicted inflow of the following year.\nThe river basin annual water volume allocation scheme and annual water abstraction plan for the important rivers and lakes designated by the State shall be formulated by the river basin management institution together with the competent water administrative departments of the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government concerned.\nThe annual water volume allocation scheme and annual water abstraction plan for each local administrative area at or above the county level shall be formulated by the competent water administrative department of the local people's government at or above the county level on the basis of the annual water volume allocation scheme and annual water abstraction plan issued by the competent water administrative department of the people's government at the next higher level or by the river basin management institution."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The water abstraction approval organ shall, in accordance with the water abstraction plan of the region for the following year and the proposals for the water abstraction plan for the following year put forward by the units or individuals abstracting water and in accordance with the principles of overall coordination, comprehensive balance and leaving a margin, issue the water abstraction plan for the following year to the units or individuals abstracting water.\nWhere a unit or individual abstracting water needs to adjust the annual water abstraction plan for special reasons, it shall obtain the consent of the original approval organ."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Under any of the following circumstances, the approval organ may restrict the annual quantity of water abstracted by a unit or individual:\n(a) where, for natural reasons, water resources cannot satisfy the normal water supply of the region;\n(b) where the abstraction and return flow of water cause serious impact on the use functions of the waters of a water function zone and on the ecology and environment;\n(c) where groundwater is seriously over-extracted or where geological disasters such as land subsidence are caused by the extraction of groundwater; and\n(d) where other special circumstances requiring restriction of the quantity of water abstracted arise.\nWhen a major drought occurs, the approval organ may impose emergency restrictions on the quantity of water abstracted by units or individuals."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Units and individuals abstracting water shall, before 31 December each year, submit to the approval organ a report on the water abstraction situation of the current year and proposals for the water abstraction plan for the following year.\nThe approval organ shall, on an annual basis, copy the information on the abstraction of groundwater to the competent land and resources department at the corresponding level and copy the information on the abstraction of groundwater within the urban planning area to the competent urban construction department at the corresponding level.\nWhere the approval organ needs to restrict the annual quantity of water abstracted by a unit or individual in accordance with the provisions of the first paragraph of Article 41 of these Regulations, it shall promptly notify the unit or individual in writing before taking the restrictive measures."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Units and individuals abstracting water shall install measuring facilities in accordance with the technical standards of the State, ensure the normal operation of the measuring facilities and fill in the water abstraction statistical statements in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the abstraction of water has been continuously suspended for a full 2 years, the original approval organ shall cancel the water abstraction permit. Where the abstraction of water has been suspended for a full 2 years due to force majeure or the carrying out of major technical upgrading, the water abstraction permit may be retained with the consent of the original approval organ."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "In conducting supervision and inspection, the competent water administrative department of a people's government at or above the county level or a river basin management institution has the power to take the following measures:\n(a) to require the unit or individual under inspection to provide the relevant documents, certificates and materials;\n(b) to require the unit or individual under inspection to give explanations on issues relating to the implementation of these Regulations;\n(c) to enter the production premises of the unit or individual under inspection for investigation; and\n(d) to order the unit or individual under inspection to stop acts in violation of these Regulations and to perform its statutory duties.\nSupervision and inspection personnel shall present their lawful and valid administrative law enforcement certificates when conducting supervision and inspection. The units and individuals concerned shall cooperate in the supervision and inspection work and shall not refuse or obstruct supervision and inspection personnel in the lawful performance of their official duties."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The competent water administrative department of a local people's government at or above the county level shall, in accordance with the provisions of the competent water administrative department of the State Council, promptly report to the competent water administrative department at the next higher level or to the river basin management institution of the river basin concerned on the issuance of water abstraction permits in its administrative area in the previous year.\nRiver basin management institutions shall, in accordance with the provisions of the competent water administrative department of the State Council, promptly report to the competent water administrative department of the State Council on the issuance of water abstraction permits by them in the previous year and shall at the same time copy the report to the competent water administrative departments of the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government in the places where the water intakes are located.\nWhere the competent water administrative department at the next higher level or a river basin management institution discovers that approval has been granted beyond authority, that the total quantity of water approved in water abstraction permits exceeds the quantity prescribed by the water volume allocation scheme or agreement, or that the total quantity of water actually abstracted in a year exceeds the issued annual water volume allocation scheme and annual water abstraction plan, it shall promptly require the competent water administrative department or river basin management institution concerned to make correction."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the competent water administrative department of a local people's government at or above the county level, a river basin management institution or any other relevant department or its staff commits any of the following acts, the administrative organ at the higher level or the supervisory organ shall order it to make correction; where the circumstances are serious, administrative sanctions shall be imposed in accordance with the law on the directly responsible persons in charge and other directly responsible personnel; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) refusing to accept an application for water abstraction that meets the statutory conditions, or failing to grant approval within the statutory time limit;\n(b) issuing a document approving an application for water abstraction or issuing a water abstraction permit to an applicant that does not meet the statutory conditions;\n(c) issuing a document approving an application for water abstraction or issuing a water abstraction permit in violation of the approval authority;\n(d) failing to collect water resources fees in accordance with the provisions, or approving a deferral of payment of water resources fees for a party that does not meet the conditions for deferral;\n(e) misappropriating, withholding or diverting water resources fees;\n(f) failing to perform supervisory duties and failing to investigate and deal with illegal acts discovered; and\n(g) other acts of abuse of power, dereliction of duty or malpractice for personal gain.\nWater resources fees that have been misappropriated, withheld or diverted as specified in item (e) of the preceding paragraph shall be recovered in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where water is abstracted without approval, or water is abstracted not in accordance with the conditions specified in the approved water abstraction permit, a penalty shall be imposed in accordance with the provisions of Article 69 of the Water Law of the People's Republic of China; and where obstruction or loss is caused to others, the obstruction shall be removed and the loss shall be compensated."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where water abstraction works or facilities are constructed without approval without having obtained a document approving the application for water abstraction, the unit or individual shall be ordered to stop the illegal act and to complete the relevant formalities within a time limit; where the formalities are not completed within the time limit or the completed formalities are not approved, it shall be ordered to demolish or seal off the water abstraction works or facilities within a time limit; and where the water abstraction works or facilities are not demolished or sealed off within the time limit, the competent water administrative department of the local people's government at or above the county level or the river basin management institution shall organise the demolition or sealing off, the costs of which shall be borne by the offender, and a fine of not more than RMB 50,000 may be imposed."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where an applicant conceals the relevant circumstances or provides false materials to fraudulently obtain a document approving an application for water abstraction or a water abstraction permit, the document approving the application for water abstraction or the water abstraction permit shall be invalid, the applicant shall be given a warning, ordered to pay the water resources fee due within a time limit, and imposed a fine of not less than RMB 20,000 and not more than RMB 100,000; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a party refuses to execute a decision on the restriction of the quantity of water abstracted made by the approval organ, or transfers the right to abstract water without approval, it shall be ordered to stop the illegal act, make correction within a time limit and pay a fine of not less than RMB 20,000 and not more than RMB 100,000; and where it refuses to make correction within the time limit or the circumstances are serious, its water abstraction permit shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where any of the following acts is committed, the party shall be ordered to stop the illegal act, make correction within a time limit and pay a fine of not less than RMB 5,000 and not more than RMB 20,000; and where the circumstances are serious, its water abstraction permit shall be revoked:\n(a) failing to submit a report on the annual water abstraction situation in accordance with the provisions;\n(b) refusing to accept supervision and inspection or resorting to deception; and\n(c) the quality of the return flow failing to meet the prescribed requirements."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where measuring facilities are not installed, the party shall be ordered to install them within a time limit, and a water resources fee shall be collected on the basis of the quantity of water abstracted calculated according to the maximum daily abstraction capacity and the standard for collecting water resources fees, and a fine of not less than RMB 5,000 and not more than RMB 20,000 shall be imposed; and where the circumstances are serious, its water abstraction permit shall be revoked.\nWhere measuring facilities are not up to standard or do not operate normally, the party shall be ordered to replace or repair them within a time limit; where they are not replaced or repaired within the time limit, a water resources fee shall be collected on the basis of the quantity of water abstracted calculated according to the maximum daily abstraction capacity and the standard for collecting water resources fees, and a fine of not more than RMB 10,000 may be imposed; and where the circumstances are serious, its water abstraction permit shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a unit or individual abstracting water refuses to pay, delays payment of or defaults on the water resources fee, a penalty shall be imposed in accordance with the provisions of Article 70 of the Water Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where water resources fees or water abstraction permit certificate fees are collected in violation of the provisions, the pricing department shall impose an administrative penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a document approving an application for water abstraction or a water abstraction permit is forged, altered or used fraudulently, the party shall be ordered to make correction, the illegal gains and illegal property shall be confiscated, and a fine of not less than RMB 20,000 and not more than RMB 100,000 shall be imposed; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The administrative penalties prescribed in these Regulations shall be decided by the competent water administrative department of a people's government at or above the county level or by a river basin management institution in accordance with the prescribed limits of authority."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "These Regulations shall come into force on 15 April 2006. The Measures for the Implementation of the Water Abstraction Permit System promulgated by the State Council on 1 August 1993 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -13103,6 +13787,657 @@
     ]
   };
 
+  TR['CN-REG-0303'] = {
+    "lawId": "CN-REG-0303",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 56 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Forest Law of the People's Republic of China for the purpose of effectively preventing and fighting forest fires, safeguarding the safety of people's lives and property, protecting forest resources and maintaining ecological security."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the prevention and fighting of forest fires within the territory of the People's Republic of China, except in urban areas of cities."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Forest fire prevention work shall follow the policy of giving priority to prevention and actively extinguishing fires."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The national forest fire prevention command body shall be responsible for organising, coordinating and guiding forest fire prevention work throughout the country.\nThe competent forestry department of the State Council shall be responsible for the supervision and management of forest fire prevention work throughout the country and shall undertake the day-to-day work of the national forest fire prevention command body.\nOther relevant departments of the State Council shall, in accordance with the division of duties, be responsible for the relevant forest fire prevention work."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "A system under which the administrative heads of the local people's governments at various levels are responsible shall apply to forest fire prevention work.\nThe forest fire prevention command bodies established by the local people's governments at or above the county level in light of actual needs shall be responsible for organising, coordinating and guiding forest fire prevention work within their own administrative areas.\nThe competent forestry departments of the local people's governments at or above the county level shall be responsible for the supervision and management of forest fire prevention work within their own administrative areas and shall undertake the day-to-day work of the forest fire prevention command bodies of the people's governments at the same level.\nOther relevant departments of the local people's governments at or above the county level shall, in accordance with the division of duties, be responsible for the relevant forest fire prevention work."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Units and individuals operating forests, forest trees and forest land shall bear responsibility for forest fire prevention within the scope of their operations."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where forest fire prevention work involves two or more administrative areas, the local people's governments concerned shall establish a joint prevention mechanism for forest fire prevention, determine the areas of joint prevention, establish a joint prevention system, share information and strengthen supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The people's governments at or above the county level shall incorporate the construction of forest fire prevention infrastructure into their plans for national economic and social development and shall include funds for forest fire prevention in their fiscal budgets at the same level."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall support scientific research on forest fire prevention, popularise and apply advanced science and technology, and raise the scientific and technological level of forest fire prevention."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The people's governments at various levels and the relevant departments shall organise regular publicity activities on forest fire prevention, popularise knowledge of forest fire prevention and properly carry out the prevention of forest fires."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State encourages the transfer of forest fire risks through insurance so as to improve the capacity of the forestry sector for disaster prevention and mitigation and for self-help after disasters."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Units and individuals that have achieved outstanding results in forest fire prevention work shall be commended and rewarded in accordance with the relevant provisions of the State.\nUnits and individuals that have distinguished themselves in fighting major and especially major forest fires may be commended and rewarded on the spot by the forest fire prevention command body."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The competent forestry departments of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the standards for grading forest fire danger zoning formulated by the competent forestry department of the State Council, determine the grade of forest fire danger zoning for their own administrative areas by county, publish it to the public and report it to the competent forestry department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent forestry department of the State Council shall, on the basis of the national grades of forest fire danger zoning and actual work needs, draw up a national forest fire prevention plan and organise its implementation after it has been submitted to and approved by the State Council or a department authorised by the State Council.\nThe competent forestry departments of the local people's governments at or above the county level shall, on the basis of the national forest fire prevention plan and in light of local actual circumstances, draw up forest fire prevention plans for their own administrative areas and organise their implementation after they have been submitted to and approved by the people's governments at the same level."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level shall, in accordance with forest fire prevention plans, strengthen the construction of forest fire prevention infrastructure, keep the necessary forest fire prevention materials in reserve, and integrate and improve the forest fire prevention command information system in light of actual needs.\nThe State Council and the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the actual needs of forest fire prevention and by making full use of satellite remote sensing technology and the existing military and civil aviation infrastructure, establish an aerial forest protection coordination mechanism with the participation of the units concerned, improve the aerial forest protection infrastructure and ensure the funds needed for aerial forest protection."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The competent forestry department of the State Council shall, in accordance with the relevant provisions, draw up contingency plans for major and especially major forest fires nationwide and submit them to the State Council for approval.\nThe competent forestry departments of the local people's governments at or above the county level shall, in accordance with the relevant provisions, draw up contingency plans for forest fires, submit them to the people's governments at the same level for approval and report them to the competent forestry departments of the people's governments at the next higher level for the record.\nThe people's governments at the county level shall organise the township (town) people's governments to formulate measures for emergency handling of forest fires on the basis of the contingency plans for forest fires; the villagers' committees shall, in accordance with the provisions of the contingency plans for forest fires and the measures for emergency handling of forest fires, assist in properly carrying out the emergency handling of forest fires.\nThe people's governments at or above the county level and their relevant departments shall organise the necessary drills of the contingency plans for forest fires."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Contingency plans for forest fires shall include the following:\n(a) the emergency organisation and command body for forest fires and its duties;\n(b) the early warning, monitoring, information reporting and handling of forest fires;\n(c) the emergency response mechanism and measures for forest fires;\n(d) support measures in respect of funds, materials and technology;\n(e) post-disaster handling."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where industrial and mining enterprises are lawfully established, tourist areas are set up or new development zones are built in forest areas, their forest fire prevention facilities shall be planned, designed, constructed and accepted simultaneously with the construction project; where forests are planted in contiguous tracts in forest areas, forest fire prevention facilities shall be built as supporting facilities at the same time."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The operating units of railways shall be responsible for fire prevention on the forest land under their own ownership and shall cooperate with the local people's governments at or above the county level in fire prevention in sections along the railway where forest fires are likely to occur.\nThe units responsible for forest fire prevention in respect of power transmission lines, telecommunications lines and oil and gas pipelines shall establish fire isolation belts in sections where forest fires are likely to occur and shall organise personnel to patrol and protect them."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Units and individuals operating forests, forest trees and forest land shall, in accordance with the provisions of the competent forestry departments, establish a forest fire prevention responsibility system, designate areas of responsibility for forest fire prevention, designate persons responsible for forest fire prevention, and equip forest fire prevention facilities and equipment."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The local people's governments at various levels and State-owned forestry enterprises and institutions shall, in light of actual needs, set up professional forest fire fighting teams; the local people's governments at or above the county level shall guide forest operating units and the residents' committees, villagers' committees, enterprises and institutions in forest areas to set up mass forest fire fighting teams. Professional and mass fire fighting teams shall undergo training and drills at regular intervals."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The part-time or full-time forest rangers assigned by units operating forests, forest trees and forest land shall be responsible for patrolling the forests, managing the use of fire in the open air, promptly reporting fire situations and assisting the relevant authorities in investigating forest fire cases."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The local people's governments at or above the county level shall, in light of the distribution of forest resources and the patterns of occurrence of forest fires within their own administrative areas, designate forest fire prevention zones, prescribe forest fire prevention periods and publish them to the public.\nDuring a forest fire prevention period, the forest fire prevention command bodies of the people's governments at various levels and the units and individuals operating forests, forest trees and forest land shall, in accordance with forest fire danger forecasts, take the corresponding preventive and emergency preparedness measures."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The forest fire prevention command bodies of the people's governments at or above the county level shall organise the relevant departments to inspect the establishment of forest fire prevention organisations, the implementation of the forest fire prevention responsibility system, the construction of forest fire prevention facilities and other matters in the units concerned within forest fire prevention zones; with respect to hidden dangers of forest fire discovered in inspection, the competent forestry departments of the local people's governments at or above the county level shall promptly issue notices of rectification of hidden dangers of forest fire to the units concerned, ordering them to complete rectification within a time limit and eliminate the hidden dangers.\nThe units inspected shall actively cooperate and may not obstruct or hinder inspection activities."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "During a forest fire prevention period, it is prohibited to use fire in the open air within forest fire prevention zones. Where the use of fire in the open air is genuinely necessary in special circumstances such as the control of insect pests, rodents and frost damage, it shall be subject to the approval of the people's government at the county level and fire prevention measures shall be taken as required to strictly guard against fire; where it is necessary to enter a forest fire prevention zone for live ammunition exercises, blasting or other activities, the approval of the competent forestry department of the people's government of the province, autonomous region or municipality directly under the Central Government shall be obtained and the necessary fire prevention measures shall be taken; where the Chinese People's Liberation Army or the Chinese People's Armed Police Force needs to enter a forest fire prevention zone to handle emergencies or carry out other urgent tasks, the approval of its superior competent department shall be obtained and the necessary fire prevention measures shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "During a forest fire prevention period, units operating forests, forest trees and forest land shall set up warning and publicity signs for forest fire prevention and shall conduct publicity on forest fire safety among persons entering the scope of their operations.\nDuring a forest fire prevention period, all motor vehicles entering a forest fire prevention zone shall be installed with fire prevention devices and equipped with fire extinguishing equipment in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "During a forest fire prevention period, the competent forestry departments and the management bodies of key State-owned forest areas determined by the State Council may, with the approval of the people's government of the province, autonomous region or municipality directly under the Central Government, set up temporary forest fire prevention inspection stations to carry out forest fire prevention inspection of vehicles and persons entering forest fire prevention zones."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "During a forest fire prevention period, where weather with a high fire danger such as high temperatures, drought or strong winds is forecast, the local people's governments at or above the county level shall designate zones of high forest fire danger and prescribe periods of high forest fire danger. When necessary, the local people's governments at or above the county level may, in light of needs, issue orders strictly prohibiting all use of fire in the open air; and the use of fire by residents for daily living that may cause forest fires shall be strictly controlled."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "During a period of high forest fire danger, anyone entering a zone of high forest fire danger shall obtain the approval of the local people's government at or above the county level, conduct activities strictly in accordance with the approved time, place and scope, and accept the supervision and management of the competent forestry department of the local people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The competent forestry departments of the people's governments at or above the county level and the competent meteorological agencies shall, in light of the needs of forest fire prevention, build stations for monitoring and forecasting forest fire danger, establish a joint consultation mechanism, and promptly produce and release early warning and forecast information on forest fire danger.\nThe competent meteorological agencies shall provide forest fire danger weather forecast services free of charge. The media such as radio, television, newspapers and the Internet shall promptly broadcast or publish forest fire danger weather forecasts."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Forest Fires"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The local people's governments at or above the county level shall publish forest fire alarm telephone numbers and establish a duty system for forest fire prevention.\nAll units and individuals that discover a forest fire shall report it immediately. The local people's government or forest fire prevention command body receiving the report shall immediately send personnel to the scene, investigate and verify the matter, take the corresponding fire fighting measures, and report level by level to the people's government at a higher level and the forest fire prevention command body in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where any of the following forest fires occurs, the forest fire prevention command body of the people's government of the province, autonomous region or municipality directly under the Central Government shall immediately report it to the national forest fire prevention command body, which shall report it to the State Council in accordance with the provisions and promptly notify the relevant departments of the State Council:\n(a) a forest fire near the national boundary;\n(b) a major or especially major forest fire;\n(c) a forest fire causing the death of three or more persons or serious injury to 10 or more persons;\n(d) a forest fire threatening a residential area or important facilities;\n(e) a forest fire whose open flames have not been extinguished within 24 hours;\n(f) a forest fire in an undeveloped primeval forest area;\n(g) a highly dangerous forest fire in an area at the boundary between provinces, autonomous regions or municipalities directly under the Central Government;\n(h) a forest fire requiring State support for fire fighting.\nThe word \"or more\" in paragraph 1 of this Article includes the figure itself."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a forest fire occurs, the forest fire prevention command body of the local people's government at or above the county level shall, in accordance with the provisions, immediately launch the contingency plan for forest fires; where a major or especially major forest fire occurs, the national forest fire prevention command body shall immediately launch the contingency plan for major and especially major forest fires.\nAfter a contingency plan for forest fires is launched, the forest fire prevention command body concerned shall, on the basis of verifying the exact location and extent of the fire and the wind force, wind direction and intensity of the fire, and in light of the weather and geographical conditions at the fire scene, reasonably determine the fire fighting plan, divide the fire fighting sectors, designate the persons responsible for fire fighting, and appoint responsible persons to arrive at the forest fire scene promptly to specifically command the fighting of the forest fire."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The forest fire prevention command body shall, in accordance with the contingency plan for forest fires, organise and command the fighting of forest fires in a unified manner.\nIn fighting forest fires, the principle of putting people first and fighting fires in a scientific manner shall be adhered to, the masses threatened by the fire shall be evacuated and withdrawn promptly, and the safety protection of fire fighting personnel shall be ensured, so as to avoid casualties as far as possible."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Professional fire fighting teams shall be the main force in fighting forest fires; where mass fire fighting teams are organised to fight forest fires, persons with disabilities, pregnant women, minors and other persons unsuitable for participation in forest fire fighting may not be mobilised to participate."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The Armed Police Forest Force shall be responsible for carrying out the forest fire prevention tasks assigned by the State. When carrying out forest fire fighting tasks, the Armed Police Forest Force shall accept the unified command of the forest fire prevention command body of the local people's government at or above the county level in the place where the fire occurs; when carrying out forest fire fighting tasks across provinces, autonomous regions or municipalities directly under the Central Government, it shall accept the unified command of the national forest fire prevention command body.\nWhere the Chinese People's Liberation Army carries out forest fire fighting tasks, the relevant provisions of the Regulations on the Participation of the Military in Emergency Rescue and Disaster Relief shall apply."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a forest fire occurs, the relevant departments shall, in accordance with the contingency plan for forest fires and the unified command of the forest fire prevention command body, properly carry out the work relating to fighting the forest fire.\nThe competent meteorological agencies shall promptly provide weather forecasts and related information for the fire area and, in light of weather conditions, carry out artificial precipitation enhancement operations in a timely manner.\nThe competent communications departments shall give priority to organising the transport of forest fire fighting personnel and materials.\nThe competent communications authorities shall organise the provision of emergency communications support.\nThe civil affairs departments shall promptly set up shelters and relief supply points, carry out the emergency transfer and proper resettlement of disaster victims, and provide assistance to the affected people.\nThe public security organs shall maintain public order and strengthen public security management.\nThe competent departments for commerce, health and the like shall properly carry out the supply of materials, medical rescue, and health and epidemic prevention work."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where necessary for fighting a forest fire, the forest fire prevention command body of the people's government at or above the county level may decide to take emergency measures such as establishing fire isolation belts, clearing obstacles, emergency water abstraction and partial traffic control.\nWhere it is necessary to requisition materials, equipment and means of transport for fighting a forest fire, the decision shall be made by the people's government at or above the county level. After the fire fighting work is completed, the requisitioned materials, equipment and means of transport shall be promptly returned and compensation shall be given in accordance with the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "After a forest fire has been extinguished, the fire fighting team shall conduct a comprehensive inspection of the fire scene, clear the remaining embers and leave sufficient personnel to guard the fire scene; the guarding personnel may be withdrawn only after the forest fire prevention command body of the local people's government has inspected and accepted the scene as qualified."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Fighting of Forest Fires"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "According to the area of forest affected and the number of casualties, forest fires are classified into ordinary forest fires, relatively major forest fires, major forest fires and especially major forest fires:\n(a) ordinary forest fires: those with an affected forest area of less than one hectare, or fires in other forest land, or those causing the death of one to three persons, or serious injury to one to 10 persons;\n(b) relatively major forest fires: those with an affected forest area of one to 100 hectares, or causing the death of three to 10 persons, or serious injury to 10 to 50 persons;\n(c) major forest fires: those with an affected forest area of 100 to 1,000 hectares, or causing the death of 10 to 30 persons, or serious injury to 50 to 100 persons;\n(d) especially major forest fires: those with an affected forest area of 1,000 hectares or more, or causing the death of 30 or more persons, or serious injury to 100 or more persons.\nThe word \"or more\" in paragraph 1 of this Article includes the figure itself, and the word \"less than\" does not include it."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Handling"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent forestry departments of the people's governments at or above the county level shall, together with the relevant departments, promptly investigate and assess the cause of the forest fire, the person who caused it, the affected forest area and growing stock, the casualties and other economic losses, and submit an investigation report to the local people's government; the local people's government shall, on the basis of the investigation report, determine the unit and persons responsible for the forest fire and deal with them in accordance with law.\nThe standards for assessing forest fire losses shall be formulated by the competent forestry department of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Handling"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The competent forestry departments of the local people's governments at or above the county level shall, in accordance with the relevant requirements, compile statistics on forest fires, report them to the competent forestry departments of the people's governments at a higher level and to the statistical bodies of the people's governments at the same level, and promptly notify the relevant departments of the people's governments at the same level.\nThe statistical report forms for forest fires shall be formulated by the competent forestry department of the State Council and reported to the National Bureau of Statistics for the record."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Handling"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Information on forest fires shall be released to the public by the forest fire prevention command bodies or the competent forestry departments of the people's governments at or above the county level. Information on major and especially major forest fires shall be released by the competent forestry department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Handling"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Persons injured, disabled or killed in fighting forest fires shall be given medical treatment and compensation in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Handling"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Compensation for lost work and living allowances for persons participating in forest fire fighting, and other expenses incurred in fighting forest fires, shall be paid, in accordance with the standards prescribed by the people's government of the province, autonomous region or municipality directly under the Central Government, by the unit or individual that caused the fire; where the cause of the fire is unclear, they shall be paid by the unit where the fire started; and where the unit or individual that caused the fire or the unit where the fire started is genuinely unable to pay, the local people's government shall pay the unpaid portion. The local people's government may pay in advance the compensation for lost work, living allowances and other expenses incurred in fighting forest fires."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Handling"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "After a forest fire occurs, the units and individuals operating forests, forest trees and forest land shall promptly take measures for reforestation so as to restore the forest vegetation on the burnt area."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Post-disaster Handling"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a local people's government at or above the county level, its forest fire prevention command body, the competent forestry department of a people's government at or above the county level or another relevant department, or a staff member thereof, in violation of the provisions of these Regulations, commits any of the following acts, the administrative organ at a higher level or the supervisory organ shall order correction; where the circumstances are serious, sanctions shall be imposed in accordance with law on the person directly in charge who is responsible and other persons directly responsible; and if a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) failing to draw up a contingency plan for forest fires in accordance with the relevant provisions;\n(b) failing to promptly issue a notice of rectification of hidden dangers of forest fire upon discovering such hidden dangers;\n(c) approving the use of fire in the open air, live ammunition exercises, blasting or other activities that do not meet the requirements of forest fire prevention;\n(d) concealing, falsely reporting or deliberately delaying the reporting of a forest fire;\n(e) failing to promptly take measures to fight a forest fire;\n(f) other acts of failing to perform duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a unit or individual operating forests, forest trees and forest land fails to perform its or his forest fire prevention responsibilities in violation of the provisions of these Regulations, the competent forestry department of the local people's government at or above the county level shall order correction and impose a fine of not less than RMB 500 but not more than RMB 5,000 on the individual and a fine of not less than RMB 10,000 but not more than RMB 50,000 on the unit."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a unit or individual in a forest fire prevention zone refuses to accept forest fire prevention inspection, or fails to eliminate a hidden danger of forest fire within the time limit after receiving a notice of rectification of hidden dangers of forest fire, in violation of the provisions of these Regulations, the competent forestry department of the local people's government at or above the county level shall order correction, give a warning, and concurrently impose a fine of not less than RMB 200 but not more than RMB 2,000 on the individual and a fine of not less than RMB 5,000 but not more than RMB 10,000 on the unit."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, during a forest fire prevention period, anyone uses fire in the open air within a forest fire prevention zone without approval in violation of the provisions of these Regulations, the competent forestry department of the local people's government at or above the county level shall order the cessation of the unlawful act, give a warning, and concurrently impose a fine of not less than RMB 200 but not more than RMB 3,000 on the individual and a fine of not less than RMB 10,000 but not more than RMB 50,000 on the unit."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, during a forest fire prevention period, anyone carries out live ammunition exercises, blasting or other activities within a forest fire prevention zone without approval in violation of the provisions of these Regulations, the competent forestry department of the local people's government at or above the county level shall order the cessation of the unlawful act, give a warning and concurrently impose a fine of not less than RMB 50,000 but not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where any of the following acts is committed in violation of the provisions of these Regulations, the competent forestry department of the local people's government at or above the county level shall order correction, give a warning, and concurrently impose a fine of not less than RMB 200 but not more than RMB 2,000 on the individual and a fine of not less than RMB 2,000 but not more than RMB 5,000 on the unit:\n(a) during a forest fire prevention period, a unit operating forests, forest trees and forest land failing to set up warning and publicity signs for forest fire prevention;\n(b) during a forest fire prevention period, a motor vehicle entering a forest fire prevention zone not being installed with a forest fire prevention device;\n(c) during a period of high forest fire danger, entering a zone of high forest fire danger without approval."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Anyone who, in violation of the provisions of these Regulations, causes a forest fire, if a crime is constituted, shall be investigated for criminal liability in accordance with law; if a crime is not constituted, in addition to legal liability being investigated in accordance with the provisions of Articles 48, 49, 50, 51 and 52 of these Regulations, the competent forestry department of the local people's government at or above the county level may order the person responsible to replant trees."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Vehicles specially used for forest fire fighting shall be painted with the prescribed emblem design and be installed with sirens and marker lights in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a forest fire occurs in a border area of the People's Republic of China, fire fighting shall be carried out in accordance with the relevant agreements concluded between the Government of the People's Republic of China and the governments of the countries concerned; where there is no such agreement, the matter shall be handled through consultation between the Government of the People's Republic of China and the governments of the countries concerned."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2009."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0304'] = {
     "lawId": "CN-REG-0304",
     "sourceLang": "zh",
@@ -17030,6 +18365,696 @@
     ]
   };
 
+  TR['CN-REG-0317'] = {
+    "lawId": "CN-REG-0317",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 58 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to standardise clinical research on and clinical translation and application of new biomedical technologies, promote progress and innovation in medical science and technology, safeguard the quality and safety of medical care, and uphold human dignity and health."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Those engaging in clinical research on and clinical translation and application of new biomedical technologies and in the supervision and management thereof within the territory of the People's Republic of China shall comply with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of these Regulations, \"new biomedical technologies\" means specialised medical methods and measures which, for the purpose of making a judgment on the state of health or of preventing and treating disease and promoting health, apply the principles of biology and act on human cells at the molecular level, and which have not yet been applied clinically within the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Clinical research on and clinical translation and application of new biomedical technologies shall adhere to taking people's health as the centre, adhere to innovation leading development, and adhere to laying equal stress on development and safety.\nThe State shall take measures to promote the innovative development of new biomedical technologies and shall encourage and support clinical research on and clinical translation and application of new biomedical technologies.\nClinical research on and clinical translation and application of new biomedical technologies shall have a scientific basis, comply with laws, administrative regulations and the relevant provisions of the State, and strengthen whole-process safety management, and shall not endanger human health, violate ethical principles, or harm the public interest or national security."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Clinical research on new biomedical technologies shall respect the will of research participants, uphold their dignity and protect their lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The health department of the State Council shall be responsible for the supervision and management of clinical research on and clinical translation and application of new biomedical technologies nationwide.\nThe health departments of local people's governments at or above the county level shall be responsible for the supervision and management of clinical research on and clinical translation and application of new biomedical technologies within their respective administrative areas.\nOther relevant departments of people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the supervision and management relating to clinical research on and clinical translation and application of new biomedical technologies."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Units and individuals that have made outstanding contributions in clinical research on or clinical translation and application of new biomedical technologies shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For the purposes of these Regulations, \"clinical research on new biomedical technologies\" means activities in which a new biomedical technology is tested in the following ways in order to determine its safety and effectiveness and to clarify its scope of application, operating procedures, technical points and the like:\n(a) direct operations on the human body;\n(b) operations on cells, tissues or organs in vitro, which are subsequently implanted in or infused into the human body;\n(c) operations on human germ cells, zygotes or embryos, which are subsequently implanted in the human body for development; and\n(d) other ways prescribed by the health department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Before conducting clinical research on a new biomedical technology, non-clinical research such as laboratory research and animal experiments shall be conducted in accordance with the law; and clinical research may be conducted only where the non-clinical research proves that the technology is safe and effective.\nNo organisation or individual may conduct clinical research on a new biomedical technology that is explicitly prohibited by laws, administrative regulations and the relevant provisions of the State, or that involves major ethical problems."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The institution initiating clinical research on a new biomedical technology (hereinafter referred to as the clinical research initiating institution) shall be a legal person lawfully established within the territory of China.\nThe clinical research initiating institution shall ensure that the new biomedical technology intended for clinical research has been proven safe and effective by non-clinical research."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "An institution conducting clinical research on a new biomedical technology (hereinafter referred to as a clinical research institution) shall meet the following conditions:\n(a) being a Class III Grade A medical institution;\n(b) having a clinical research academic committee and an ethics committee that meet the requirements;\n(c) having the qualifications, premises, facilities, equipment, management bodies, professional technical personnel and research capacity appropriate to the clinical research on the new biomedical technology intended to be conducted;\n(d) having management systems that guarantee the quality and safety of clinical research, comply with ethical principles and protect the lawful rights and interests of research participants; and\n(e) having a stable and adequate source of research funding."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The clinical research initiating institution and the clinical research institution shall conclude a written agreement stipulating the rights and obligations of both parties, and shall jointly formulate a clinical research protocol.\nA clinical research institution may also initiate clinical research on new biomedical technologies on its own."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A clinical research institution shall designate a project leader for the clinical research project on a new biomedical technology. The project leader shall have the qualification of a practising physician and a senior professional title, possess good professional ethics, a sound reputation in scientific research and a high level of clinical skill, possess the professional knowledge, experience and capacity required to undertake clinical research on new biomedical technologies, and have the clinical research institution as his or her principal practising institution.\nOther personnel participating in clinical research on new biomedical technologies shall possess the corresponding qualifications, professional knowledge, experience and capacity."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The clinical research academic committee and the ethics committee of a clinical research institution shall conduct academic review and ethical review of the clinical research on the new biomedical technology intended to be conducted in accordance with the provisions; and clinical research may be conducted only after passing the academic review and ethical review."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A clinical research institution shall, within 5 working days from the date on which the clinical research on the new biomedical technology passes the academic review and ethical review, file a record with the health department of the State Council.\nWhere a clinical research initiating institution initiates the same clinical research on a new biomedical technology at two or more clinical research institutions, the principal clinical research institution selected by the clinical research initiating institution shall file the record in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "To file a record for clinical research on a new biomedical technology, the following materials shall be submitted:\n(a) the basic information of the clinical research initiating institution and the clinical research institution;\n(b) the basic information of the researchers;\n(c) the basis of the clinical research work (including a summary of the scientific literature and the non-clinical research report and the like);\n(d) the clinical research protocol;\n(e) the risks that may arise from the clinical research and the measures for their prevention and control and the emergency response plan;\n(f) the opinions of the academic review and the opinions of the ethical review;\n(g) the informed consent form (template);\n(h) proof of the source of research funding and the plan for its use; and\n(i) other materials prescribed by the health department of the State Council.\nThe clinical research institution shall ensure that the materials submitted are truthful, accurate and complete."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The health department of the State Council shall publish information on the clinical research on new biomedical technologies that has been filed for the record, together with the clinical research initiating institutions and clinical research institutions concerned.\nThe health department of the State Council shall, in accordance with the provisions, organise professional institutions to assess the clinical research on new biomedical technologies that has been filed for the record. Where, upon assessment, the clinical research involves technical risks or ethical risks, the health department of the State Council may require the clinical research institution to suspend the clinical research or to modify the clinical research protocol; and where the clinical research involves major technical risks or major ethical risks, the health department of the State Council shall require the clinical research institution to terminate the clinical research."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Record Filing for Clinical Research"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A clinical research institution shall conduct clinical research on a new biomedical technology in accordance with the clinical research protocol filed for the record. Where the clinical research protocol genuinely needs to be modified, it shall pass the review of the clinical research academic committee and the ethics committee and the modification shall be filed for the record with the health department of the State Council within 5 working days from the date of passing the academic review and ethical review, except for non-substantive modifications that do not involve the research purpose, research methods, primary research endpoints, statistical methods, research participants and the like."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "To conduct clinical research on a new biomedical technology, a clinical research institution shall obtain the written informed consent of the research participants. Where a research participant is a person with no or limited capacity for civil conduct, the written informed consent of his or her guardian shall be obtained in accordance with the law.\nA clinical research institution shall, in a manner easily understood by the research participant or his or her guardian, inform them of the purpose and protocol of the clinical research, disclose the risks that may arise, and inform the research participant of the rights and interests enjoyed by him or her. A clinical research institution shall not obtain the consent of a research participant or his or her guardian by deception, coercion or inducement.\nWhere a modification of the clinical research protocol may affect the rights and interests of research participants, the clinical research institution shall obtain anew the written informed consent of the research participants or their guardians."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A clinical research initiating institution or a clinical research institution shall not charge research participants any fees relating to the clinical research on a new biomedical technology."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A clinical research institution shall take measures to prevent and control and to handle the risks in the conduct of clinical research on new biomedical technologies.\nIn the course of clinical research on a new biomedical technology, operations on the human body shall be performed by health professional technical personnel with the corresponding qualifications; and the drugs and medical devices used shall comply with the provisions of laws and administrative regulations such as the Drug Administration Law of the People's Republic of China and the Regulations on the Supervision and Administration of Medical Devices."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A clinical research institution shall record the conduct of clinical research on a new biomedical technology in a timely, accurate and complete manner and shall retain the relevant source materials. The records and source materials shall be preserved for 30 years from the end of the clinical research; and where the clinical research involves offspring, the records and source materials shall be preserved permanently.\nA clinical research initiating institution or a clinical research institution shall not forge, tamper with or conceal the records and source materials of clinical research on new biomedical technologies."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a clinical research institution needs other institutions to provide technical support for its conduct of clinical research on a new biomedical technology, to provide biological samples such as human cells, tissues and organs, or to assist in the recruitment of research participants, it shall inform them of the purpose and protocol of the clinical research, the filing of the record and the use of the biological samples."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A clinical research institution shall periodically report to the health department of the State Council on the conduct of clinical research on new biomedical technologies."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Under any of the following circumstances, a clinical research institution shall terminate the clinical research on the new biomedical technology, report to the health department of the State Council within 5 working days and inform the clinical research initiating institution:\n(a) major problems are found in the safety or effectiveness of the new biomedical technology;\n(b) the clinical research causes or may cause major adverse social impact;\n(c) uncontrollable risks arise in the course of the clinical research; and\n(d) other circumstances prescribed by the health department of the State Council.\nWhere serious adverse reactions occur in the course of clinical research on a new biomedical technology, the clinical research institution shall suspend the clinical research, and the clinical research ethics committee shall assess whether the clinical research may be continued. The clinical research institution shall, in accordance with the assessment opinion, terminate the clinical research or continue it, report to the health department of the State Council within 5 working days and inform the clinical research initiating institution."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After the completion of clinical research on a new biomedical technology, the clinical research institution shall report to the health department of the State Council on the conduct of the clinical research, the research results and recommendations for clinical translation and application. The clinical research institution shall conduct follow-up monitoring of the research participants and evaluate the long-term safety and effectiveness of the new biomedical technology."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where clinical research on a new biomedical technology causes harm to the health of a research participant, the clinical research institution shall promptly provide treatment, and the costs of treatment shall be borne by the clinical research initiating institution; however, where the harm to the health of the research participant is caused by the fault of the clinical research institution, the costs of treatment shall be borne by the clinical research institution.\nClinical research initiating institutions and clinical research institutions are encouraged to provide corresponding protection for research participants by purchasing commercial insurance."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Clinical research initiating institutions, clinical research institutions and other institutions relating to clinical research on new biomedical technologies shall protect the personal privacy and personal information of research participants in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Conduct of Clinical Research"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where, after the completion of clinical research on a new biomedical technology, it is intended to be translated and applied clinically, it shall be subject to examination and approval by the health department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a new biomedical technology is intended to be translated and applied clinically, the clinical research initiating institution shall submit an application to the health department of the State Council together with the following materials:\n(a) the clinical research report and records on the new biomedical technology;\n(b) the scope of application of the new biomedical technology, the adverse reactions that may arise and the contraindications;\n(c) the conditions to be met by the medical institutions and health professional technical personnel applying the new biomedical technology;\n(d) the operating norms for clinical application;\n(e) the risks that may arise in clinical application and the measures for their prevention and control; and\n(f) other materials prescribed by the health department of the State Council.\nThe clinical research initiating institution shall ensure that the materials submitted are truthful, accurate and complete."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The health department of the State Council shall, within 5 working days from the date of acceptance of an application for clinical translation and application of a new biomedical technology, transmit the application materials to a professional institution for technical assessment and ethical assessment, and shall make a decision within 15 working days from the date of receipt of the assessment opinions. Where the clinical research proves the technology to be safe and effective and it complies with ethical principles, approval shall be granted; where it does not meet the aforesaid requirements, approval shall not be granted and the reasons shall be stated in writing.\nThe norms for the examination of applications for clinical translation and application of new biomedical technologies and the rules for technical assessment and ethical assessment shall be formulated by the health department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For applications for clinical translation and application of new biomedical technologies for the treatment of diseases that seriously endanger life and for which no effective treatment is yet available, and of new biomedical technologies urgently needed in the field of public health, the health department of the State Council shall give priority to examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the health department of the State Council approves the clinical translation and application of a new biomedical technology, it shall publish the name of the technology, the conditions to be met by the medical institutions and health professional technical personnel applying the technology, and the operating norms for clinical application."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a medical institution applies clinically a new biomedical technology that has been approved for clinical translation and application, it shall meet the conditions prescribed by the health department of the State Council. The medical institution and its medical personnel shall comply with the operating norms for clinical application of the technology, safeguard the quality and safety of medical care and prevent and control risks. A medical institution may charge fees in accordance with the provisions for carrying out clinical application."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Medical institutions shall, in accordance with the provisions of the health department of the State Council, report to the health department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where they are located on the clinical application of new biomedical technologies approved for clinical translation and application. Where serious adverse reactions or medical malpractice occur in the course of clinical application, the medical institution shall handle the matter in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "In response to an especially major public health emergency or other emergency that seriously threatens public health, the health department of the State Council may, after organising demonstration and where it is genuinely necessary, agree to the emergency application of a new biomedical technology still under clinical research within a certain scope and time limit."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a new biomedical technology approved for clinical translation and application falls under any of the following circumstances, the health department of the State Council shall re-assess its safety and effectiveness, and clinical application of the technology shall be suspended during the re-assessment:\n(a) there is a change in the understanding of the safety or effectiveness of the technology in light of the development of scientific research;\n(b) serious adverse reactions or uncontrollable risks arise in the course of clinical application; and\n(c) other circumstances prescribed by the health department of the State Council.\nWhere the assessment shows that safety and effectiveness cannot be guaranteed, the health department of the State Council shall decide to prohibit clinical application of the technology."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Clinical Translation and Application"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The health departments of people's governments at or above the county level shall conduct supervision and inspection of clinical research on and clinical translation and application of new biomedical technologies; and where acts in violation of these Regulations are discovered, they shall be dealt with in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In conducting supervision and inspection, the health departments of people's governments at or above the county level may take the following measures:\n(a) to enter the premises of clinical research on or clinical application of new biomedical technologies to carry out on-site inspection;\n(b) to consult and copy the relevant records, medical records, agreements, receipts, account books and other materials;\n(c) to seal up or seize equipment, drugs, medical devices and other articles suspected of being used for the unlawful conduct of clinical research on or clinical application of new biomedical technologies; and\n(d) to seal up the premises and facilities suspected of being used for the unlawful conduct of clinical research on or clinical application of new biomedical technologies.\nThe units under inspection shall cooperate in supervision and inspection and shall not refuse or conceal anything."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The competent departments of clinical research initiating institutions such as scientific research institutions and educational institutions shall strengthen the management of clinical research initiating institutions, cooperate with the health departments in carrying out supervision and inspection involving new biomedical technologies, and promptly notify the health department at the corresponding level where acts in violation of these Regulations are discovered."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The health department of the State Council shall establish an online service system for clinical research on and clinical translation and application of new biomedical technologies, so as to facilitate the filing of records, application for administrative licences and reporting of information by clinical research initiating institutions and clinical research institutions. The health departments of people's governments at or above the county level shall, through the online service system, promptly publish supervision and management information such as records filed, administrative licences, supervision and inspection, and the investigation and handling of illegal acts.\nThe health department of the State Council shall guide professional institutions in strengthening capacity building and improving the professionalism of assessments."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The health departments of people's governments at or above the county level shall publish their e-mail addresses and telephone numbers, accept complaints and reports, and handle them promptly. For reports verified to be true, the informants shall be rewarded in accordance with the relevant provisions of the State.\nThe health departments of people's governments at or above the county level shall keep the information of informants confidential and protect their lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in violation of the provisions of the second paragraph of Article 9 of these Regulations, clinical research is conducted on a prohibited new biomedical technology, or such a new biomedical technology whose clinical research is prohibited is applied clinically, the health department of the people's government at or above the county level shall order the illegal act to be stopped, confiscate the illegal gains and the relevant materials and articles, and where there are no illegal gains or the illegal gains are less than RMB 1 million, impose a fine of not less than RMB 1 million and not more than RMB 10 million, and where the illegal gains are RMB 1 million or more, impose a fine of not less than 10 times and not more than 20 times the illegal gains, prohibit it from conducting clinical research on new biomedical technologies for 5 years, and may have the original practice registration department revoke the medical institution practice licence or have the original filing department order the cessation of practice activities; and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel, impose a fine of not less than RMB 100,000 and not more than RMB 200,000, prohibit them from engaging in clinical research on new biomedical technologies for 10 years or even for life, and have the original practice registration department revoke the practice certificates of the medical personnel concerned."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Under any of the following circumstances, the health department of the people's government at or above the county level shall order the illegal act to be stopped, confiscate the illegal gains and the relevant materials and articles, and where there are no illegal gains or the illegal gains are less than RMB 1 million, impose a fine of not less than RMB 500,000 and not more than RMB 5 million, and where the illegal gains are RMB 1 million or more, impose a fine of not less than 5 times and not more than 10 times the illegal gains, prohibit it from conducting clinical research on new biomedical technologies for 3 years, and may have the original practice registration department revoke the medical institution practice licence or have the original filing department order the cessation of practice activities; and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel, impose a fine of not less than RMB 20,000 and not more than RMB 100,000, prohibit them from engaging in clinical research on new biomedical technologies for 5 years, and have the original practice registration department revoke the practice certificates of the medical personnel concerned:\n(a) conducting clinical research on a new biomedical technology that has not been proven safe and effective by non-clinical research;\n(b) conducting clinical research on a new biomedical technology without passing the academic review and ethical review; and\n(c) applying clinically a new biomedical technology that has not been approved for clinical translation and application."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where clinical research on a new biomedical technology is conducted without conforming to the provisions of the first paragraph of Article 10 or Article 11 of these Regulations, the health department of the people's government at or above the county level shall order the clinical research to be stopped, confiscate the illegal gains and the relevant materials and articles, impose a fine of not less than RMB 200,000 and not more than RMB 1 million, and prohibit it from conducting clinical research on new biomedical technologies for 2 years; and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel, impose a fine of not less than RMB 10,000 and not more than RMB 50,000, and prohibit them from engaging in clinical research on new biomedical technologies for 3 years.\nWhere clinical research on a new biomedical technology is conducted without filing a record in accordance with the provisions of these Regulations, the health department of the people's government at or above the county level shall order the record to be filed within a time limit; and where the record is not filed within the time limit, a penalty shall be imposed in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Under any of the following circumstances, the health department of the people's government at or above the county level shall order the clinical research on the new biomedical technology to be stopped and impose a fine of not less than RMB 100,000 and not more than RMB 500,000; and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel, impose a fine of not less than RMB 10,000 and not more than RMB 30,000, prohibit them from engaging in clinical research on new biomedical technologies for 2 years, and order the medical personnel concerned to suspend practice activities for not less than 6 months and not more than 1 year or, in serious cases, have the original practice registration department revoke their practice certificates:\n(a) the clinical research institution fails to suspend the clinical research on the new biomedical technology or to modify the clinical research protocol as required by the health department of the State Council, or fails to terminate the clinical research as required by the health department of the State Council;\n(b) the clinical research institution conducts clinical research on a new biomedical technology without obtaining the written informed consent of the research participants or their guardians in accordance with the provisions of Article 19 of these Regulations;\n(c) the clinical research initiating institution or the clinical research institution forges, tampers with or conceals the records or source materials of clinical research on a new biomedical technology; and\n(d) the clinical research institution fails to terminate the clinical research on the new biomedical technology in accordance with the provisions of Article 25 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Under any of the following circumstances, the health department of the people's government at or above the county level shall order correction within a time limit and impose a fine of not less than RMB 50,000 and not more than RMB 200,000, and may order the suspension of the clinical research on the new biomedical technology; where the circumstances are serious, it shall order the clinical research to be stopped and impose a fine of not less than RMB 200,000 and not more than RMB 500,000, and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel, impose a fine of not less than RMB 10,000 and not more than RMB 30,000, and prohibit them from engaging in clinical research on new biomedical technologies for 2 years:\n(a) the clinical research institution conducts clinical research on a new biomedical technology not in accordance with the clinical research protocol filed for the record, except for non-substantive modifications of the clinical research protocol;\n(b) the clinical research institution fails to take risk prevention and control and handling measures in accordance with the provisions of the first paragraph of Article 21 of these Regulations;\n(c) the clinical research institution, in violation of the provisions of the second paragraph of Article 21 of these Regulations, arranges for personnel without the corresponding qualifications to perform operations on the human body; and\n(d) the clinical research institution fails to provide treatment to research participants in accordance with the provisions of the first paragraph of Article 27 of these Regulations, or commits other acts harming the lawful rights and interests of research participants."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Under any of the following circumstances, the health department of the people's government at or above the county level shall order correction within a time limit and may order the suspension of the clinical research on the new biomedical technology; where the circumstances are serious, it shall order the clinical research to be stopped and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel:\n(a) the clinical research institution fails to record the conduct of the clinical research or retain the source materials in accordance with the provisions of the first paragraph of Article 22 of these Regulations;\n(b) the clinical research institution fails to inform the relevant matters in accordance with the provisions of Article 23 of these Regulations; and\n(c) the clinical research institution fails to report the conduct of the clinical research in accordance with the provisions of Article 24 of these Regulations.\nWhere a clinical research institution fails to report in accordance with the provisions of Articles 25 and 26 of these Regulations, or a medical institution fails to report in accordance with the provisions of Article 35 of these Regulations, the health department of the people's government at or above the county level shall order correction within a time limit; and where correction is not made within the time limit, a fine of not less than RMB 20,000 and not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a clinical research initiating institution or a clinical research institution charges research participants fees relating to clinical research on a new biomedical technology, the market supervision and management department of the people's government at or above the county level shall order the fees to be refunded and impose a fine of not more than 5 times the fees unlawfully collected; and where the circumstances are serious, it shall order the suspension of business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a medical institution that does not meet the conditions prescribed by the health department of the State Council carries out clinical application of a new biomedical technology approved for clinical translation and application, the health department of the people's government at or above the county level shall order the clinical application to be stopped, confiscate the illegal gains and impose a fine of not less than RMB 100,000 and not more than RMB 500,000 concurrently; and where the circumstances are serious, a fine of not less than RMB 500,000 and not more than RMB 1 million shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a clinical research initiating institution provides false materials or adopts other deceptive means when applying for a licence for clinical translation and application of a new biomedical technology, the application shall not be accepted or the administrative licence shall not be granted; where an administrative licence has already been obtained, the health department of the State Council shall revoke the administrative licence, confiscate the illegal gains and impose a fine of not less than 5 times and not more than 10 times the illegal gains, and prohibit it from conducting clinical research on new biomedical technologies for 3 years; and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel, impose a fine of not less than RMB 20,000 and not more than RMB 100,000, and prohibit them from engaging in clinical research on new biomedical technologies for 5 years.\nWhere a clinical research institution provides false materials or adopts other deceptive means in filing the record for clinical research on a new biomedical technology, the health department of the State Council shall order the clinical research to be stopped, confiscate the illegal gains and the relevant materials and articles, impose a fine of not less than 2 times and not more than 5 times the illegal gains, and prohibit it from conducting clinical research on new biomedical technologies for 2 years; and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel, impose a fine of not less than RMB 10,000 and not more than RMB 50,000, and prohibit them from engaging in clinical research on new biomedical technologies for 3 years."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a professional institution issues a false assessment opinion in an assessment, the health department of the people's government at or above the county level shall impose a fine of not less than RMB 100,000 and not more than RMB 500,000 and prohibit it from participating in assessments relating to new biomedical technologies for 3 years; and shall, in accordance with the law, impose sanctions on the responsible leading personnel and directly responsible personnel, impose a fine of not less than RMB 10,000 and not more than RMB 50,000, and prohibit them from participating in assessments relating to new biomedical technologies for 5 years."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where staff of the health department or other departments abuse their powers, neglect their duties or engage in malpractice for personal gain in violation of these Regulations, sanctions shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where personal injury or property loss is caused in violation of these Regulations, civil liability shall be borne in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Clinical trials conducted for the development of drugs or medical devices shall be governed by the provisions of laws and administrative regulations such as the Drug Administration Law of the People's Republic of China and the Regulations on the Supervision and Administration of Medical Devices.\nThe health department of the State Council shall, together with the drug supervision and administration department of the State Council and in light of the development of science and technology, formulate and adjust the guiding principles for distinguishing new biomedical technologies from drugs and medical devices."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The supervision and management of clinical research on and clinical translation and application of new biomedical technologies by military medical institutions shall be carried out by the relevant departments of the organs of the Central Military Commission by reference to the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "For clinical research on new biomedical technologies already under way before the entry into force of these Regulations, the clinical research institution may continue to conduct it in accordance with the clinical research protocol, and shall file a record in accordance with the provisions of these Regulations within 1 month from the date of entry into force of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2026."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0318'] = {
     "lawId": "CN-REG-0318",
     "sourceLang": "zh",
@@ -20882,6 +22907,717 @@
     ]
   };
 
+  TR['CN-REG-0330'] = {
+    "lawId": "CN-REG-0330",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 60 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Highway Law of the People's Republic of China (hereinafter referred to as the Highway Law) for the purpose of strengthening the administration of toll highways, regulating highway tolling, protecting the lawful rights and interests of the operators and users of toll highways and promoting the development of the highway undertaking."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, toll highway means a highway (including bridges and tunnels) that conforms to the provisions of the Highway Law and these Regulations and that, upon approval, lawfully collects vehicle tolls."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's governments at all levels shall take active measures to support and promote the development of the highway undertaking. The development of highways shall adhere to giving priority to non-toll highways while developing toll highways to an appropriate extent."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "No vehicle tolls may be collected on highways built wholly with government investment or with donations from social organisations or individuals."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "No unit or individual may, in violation of the provisions of the Highway Law and these Regulations, set up stations (checkpoints) on highways to collect vehicle tolls."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where toll stations (checkpoints) have been unlawfully set up on a highway to collect vehicle tolls, every unit and individual has the right to refuse payment.\nEvery unit or individual has the right to report to the departments for transport, pricing and finance any act of unlawfully setting up toll stations (checkpoints) on a highway, unlawfully collecting or using vehicle tolls, unlawfully transferring toll highway rights and interests, or unlawfully extending the toll period. The department receiving the report shall, in accordance with the division of duties, promptly investigate and deal with the matter in accordance with law; where it has no power to investigate and deal with the matter, it shall promptly refer it to the department that has such power. The department accepting the matter must investigate and deal with it within 10 days from the date of receipt of the report or the referral materials."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The operator of a toll highway has the right, upon lawful approval, to collect vehicle tolls from vehicles travelling on the toll highway.\nMilitary vehicles, vehicles of the armed police force, uniform police vehicles with a unified mark of public security organs that are handling traffic accidents, carrying out normal patrol duties or dealing with emergencies on toll highways within their jurisdiction, and vehicles approved by the competent department for transport of the State Council or by the people's government of a province, autonomous region or municipality directly under the Central Government to carry out emergency rescue and disaster relief tasks shall be exempt from vehicle tolls.\nCombine harvesters operating across areas and vehicles transporting combine harvesters (including rice transplanters) shall be exempt from vehicle tolls. Combine harvesters may not travel on expressways."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "No unit or individual may unlawfully interfere in any form with the operation and management of a toll highway, or misappropriate or divert the vehicle tolls lawfully collected by the operator of the toll highway."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The construction of toll highways shall conform to the highway development plans of the State and of the provinces, autonomous regions and municipalities directly under the Central Government, and to the technical grades and scale of toll highways prescribed by these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Only after lawful approval may vehicle tolls be collected on highways built by the competent departments for transport of local people's governments at or above the county level with loans or with repayable funds raised from enterprises and individuals (hereinafter referred to as government loan-repayment highways), and on highways built with investment from domestic or foreign economic organisations or on which the toll rights of government loan-repayment highways have been transferred in accordance with the provisions of the Highway Law (hereinafter referred to as commercial highways)."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In the construction and management of government loan-repayment highways, a special non-profit-making legal person organisation shall be established in accordance with law on the principle of separating government administration from enterprise operations.\nThe competent departments for transport of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may exercise unified management, unified borrowing and unified repayment in respect of the government loan-repayment highways within their respective administrative regions.\nCommercial highway construction projects shall be made public and investors shall be selected by means of tendering and bidding.\nCommercial highways shall be constructed, operated and managed by highway enterprise legal persons established in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The setting up of toll stations on toll highways shall be examined and approved by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in accordance with the following provisions:\n(a) on expressways and other closed toll highways, no toll station may be set up on the main line apart from the entrances and exits at both ends; except where a toll station is genuinely needed between provinces, autonomous regions and municipalities directly under the Central Government;\n(b) on the same main line of a non-closed toll highway, the distance between adjacent toll stations shall be not less than 50 kilometres."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Expressways and other closed toll highways shall implement computerised networked tolling so as to reduce the number of toll stations and improve traffic efficiency. The specific measures for networked tolling shall be formulated by the competent department for transport of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The toll period of a toll highway shall be examined and approved by the people's government of the province, autonomous region or municipality directly under the Central Government in accordance with the following standards:\n(a) the toll period of a government loan-repayment highway shall be determined on the principle of repaying the loans and the repayable funds raised with the tolls, and shall not exceed 15 years at the longest. For government loan-repayment highways in the central and western provinces, autonomous regions and municipalities directly under the Central Government designated by the State, the toll period shall not exceed 20 years at the longest;\n(b) the toll period of a commercial highway shall be determined on the principle of recovering the investment and obtaining a reasonable return, and shall not exceed 25 years at the longest. For commercial highways in the central and western provinces, autonomous regions and municipalities directly under the Central Government designated by the State, the toll period shall not exceed 30 years at the longest."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The vehicle toll rates shall be subject to a hearing in accordance with the provisions of the laws and administrative regulations on pricing, and shall be examined and approved in accordance with the following procedures:\n(a) the toll rates of government loan-repayment highways shall be examined by the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government together with the department for pricing and the department for finance at the same level, and then submitted to the people's government at the same level for examination and approval;\n(b) the toll rates of commercial highways shall be examined by the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government together with the department for pricing at the same level, and then submitted to the people's government at the same level for examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The vehicle toll rates shall be calculated and determined on the basis of such factors as the technical grade of the highway, the total amount of investment, the local price index, the time limit for repaying loans or repayable funds raised and for recovering investment, and the traffic volume. For vehicles transporting fresh agricultural products on the green channels prescribed by the State, the vehicle toll rates may be appropriately reduced or the vehicle tolls may be exempted.\nThe costs of constructing facilities unrelated to the operation and management of the toll highway and of constructing operation and management facilities and service facilities of the toll highway to standards exceeding the prescribed standards shall not be taken as factors in determining the toll rates.\nWhere the vehicle toll rates need to be adjusted, the procedures prescribed in Article 15 of these Regulations shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "For toll stations, toll periods, vehicle toll rates or toll rate adjustment plans of toll highways examined and approved in accordance with the procedures prescribed in these Regulations, the approving authority shall, within 10 days from the date of examination and approval, file the relevant documents with the competent department for transport of the State Council and the competent department for pricing of the State Council for the record; where the highway is a government loan-repayment highway, the documents shall also be filed with the department for finance of the State Council for the record within 10 days from the date of examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The construction of toll highways shall conform to the following technical grades and scale:\n(a) expressways with a continuous mileage of 30 kilometres or more; except expressways from an urban area to the local airport;\n(b) first-class highways with a continuous mileage of 50 kilometres or more;\n(c) two-lane independent bridges and tunnels with a length of 800 metres or more; four-lane independent bridges and tunnels with a length of 500 metres or more.\nTolls may not be collected on highways of a technical grade of second class or below (including second class). However, for second-class highways built in the central and western provinces, autonomous regions and municipalities directly under the Central Government designated by the State with a continuous mileage of 60 kilometres or more, vehicle tolls may be collected upon approval in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Construction of Toll Highways and Setting Up of Toll Stations"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where toll highway rights and interests are transferred in accordance with the provisions of these Regulations, the transfer shall be made public and the operator shall be selected fairly, impartially and openly by means of tendering and bidding, and a transfer agreement shall be concluded in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of Toll Highway Rights and Interests"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The rights and interests of a toll highway include the toll right, the right to operate advertising and the right to operate service facilities.\nWhere toll highway rights and interests are transferred, the lawful interests of investors shall be protected in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of Toll Highway Rights and Interests"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the toll right among the rights and interests of a government loan-repayment highway is transferred, an application may be made to extend the toll period, but the extension shall not exceed five years.\nWhere the toll right among the rights and interests of a commercial highway is transferred, the toll period shall not be extended."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of Toll Highway Rights and Interests"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "In any of the following circumstances, the toll right among the rights and interests of a toll highway shall not be transferred:\n(a) two-lane independent bridges and tunnels less than 1,000 metres in length;\n(b) second-class highways;\n(c) where tolls have already been collected for more than two-thirds of the approved toll period."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of Toll Highway Rights and Interests"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The income from the transfer of the rights and interests of a government loan-repayment highway must be paid into the State Treasury and, apart from being used to repay loans and repayable funds raised, must be used for highway construction."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of Toll Highway Rights and Interests"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The specific measures for the transfer of toll highway rights and interests shall be formulated by the competent department for transport of the State Council together with the department for development and reform and the department for finance of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of Toll Highway Rights and Interests"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "After a toll highway is completed, it shall be accepted in accordance with the relevant provisions of the State; vehicle tolls may be collected only after it passes acceptance.\nTolls may not be collected on a toll highway while it is still under construction."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The operator of a toll highway shall, in accordance with the standards and specifications prescribed by the State, carry out routine inspection and maintenance of the toll highway and the facilities along it, ensure that the toll highway is in good technical condition and provide quality services to passing vehicles and persons.\nThe maintenance of a toll highway shall be carried out and completed in strict accordance with the construction period, and the construction period shall not be delayed nor shall the safe passage of vehicles be affected."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The operator of a toll highway shall, in a conspicuous position at the toll station, set up a notice board stating the name of the toll station, the approving authority, the toll-collecting unit, the toll rates, the starting and ending years of tolling and the supervision telephone number, so as to accept public supervision."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The operator of a toll highway shall, in accordance with the standards prescribed by the State and in the light of the traffic conditions of the highway and the facilities along it, install traffic signs and markings.\nTraffic signs and markings must be clear, accurate and easy to identify. Important traffic information shall be repeatedly displayed."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The setting up of toll lanes shall meet the requirements of safe vehicle travel; the number of toll lanes shall meet the need for vehicles to pass quickly and shall not cause traffic congestion."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The staffing of toll station personnel shall be commensurate with the number of toll lanes and the traffic volume, and personnel shall not be increased arbitrarily.\nThe operator of a toll highway shall strengthen professional training and professional ethics education for toll station personnel, and toll collectors shall be courteous and provide standardised services."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where circumstances such as highway damage, construction or a traffic accident affect the normal and safe travel of vehicles, the operator of the toll highway shall install safety protection facilities at the scene and give speed limit and warning notices at the entrances and exits of the toll highway, or make announcements through variable message boards and other facilities along the toll highway; where traffic congestion is caused, it shall promptly report to the relevant departments and assist in directing traffic.\nWhere circumstances such as serious damage to the highway, severe weather conditions or a major traffic accident seriously affect the safe passage of vehicles, the public security organ shall, according to the circumstances, take traffic control measures such as speed-limited passage and closure of the highway in accordance with law. The operator of the toll highway shall actively cooperate with the public security organ and promptly give notice of the relevant traffic control information to passing vehicles."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "When collecting vehicle tolls, the operator of a toll highway must issue toll receipts to users of the toll highway. The toll receipts for government loan-repayment highways shall be uniformly printed (supervised in printing) by the department for finance of the people's government of the province, autonomous region or municipality directly under the Central Government. The toll receipts for commercial highways shall be uniformly printed (supervised in printing) by the tax department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The operator of a toll highway has the right to refuse passage to vehicles that refuse to pay, evade payment of or underpay vehicle tolls that should be paid in accordance with law, and to require them to pay the vehicle tolls due.\nNo person may, in order to refuse to pay, evade payment of or underpay vehicle tolls, deliberately block toll lanes, force passage through checkpoints, assault toll highway management personnel, damage toll facilities or engage in other activities disrupting the order of operation and management of the toll highway.\nWhere the acts disrupting the order of operation and management of the toll highway prescribed in the preceding paragraph occur, the operator of the toll highway shall promptly report to the public security organ, which shall deal with them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Vehicles travelling on a toll highway shall not be overloaded.\nWhere an overloaded vehicle is found, the operator of the toll highway shall promptly report to the public security organ, which shall deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The operator of a toll highway shall not commit any of the following acts:\n(a) raising the vehicle toll rates without authorisation;\n(b) charging or collecting on behalf of others any other fees in addition to the vehicle toll rates;\n(c) forcibly collecting, or collecting by other improper means, vehicle tolls for a certain period on a per-vehicle basis;\n(d) failing to issue toll receipts, issuing toll receipts not uniformly printed (supervised in printing) by the department for finance or the tax department of the people's government of the province, autonomous region or municipality directly under the Central Government, or issuing expired or invalid toll receipts.\nWhere any of the acts listed in the preceding paragraph is committed, passing vehicles have the right to refuse to pay vehicle tolls."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The vehicle toll income collected by the manager of a government loan-repayment highway shall be deposited in full in a special fiscal account and strictly managed under the two-line system of revenue and expenditure.\nThe vehicle tolls of a government loan-repayment highway must, apart from the necessary management and maintenance expenses disbursed from the vehicle toll budget approved by the department for finance, be used in full to repay loans and repayable funds raised, and shall not be diverted to other uses."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Tolling shall cease upon expiry of the toll period of a toll highway.\nWhere a government loan-repayment highway has fully repaid its loans and repayable funds raised before the expiry of the approved toll period, tolling shall cease.\nWhere tolling ceases in accordance with the provisions of the preceding two paragraphs, the people's government of the province, autonomous region or municipality directly under the Central Government concerned shall make a public announcement and clearly specify the date on which tolling ceases, so as to accept public supervision."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Six months before tolling ceases on a toll highway, the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall appraise and accept the toll highway. Where, upon appraisal and acceptance, the highway conforms to the technical grade and standards verified and determined at the time the toll highway rights and interests were acquired, the operator of the toll highway may complete the formalities for handing over the highway to the competent department for transport in accordance with the relevant provisions of the State; where it does not conform, the operator of the toll highway shall carry out maintenance within the time limit determined by the competent department for transport and may complete the formalities for handing over the highway in accordance with the provisions only after the requirements are met."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "After tolling ceases on a toll highway, the operator of the toll highway shall dismantle the toll facilities within 15 days from the date on which tolling ceases."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "No unit or individual may force vehicles to use a toll highway by such means as blocking a non-toll highway or setting up checkpoints on a non-toll highway to collect tolls."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The operator of a toll highway shall, in accordance with the requirements of the competent department for transport of the State Council and the competent departments for transport of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, promptly provide statistical data and the relevant information."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The maintenance and greening of toll highways, soil and water conservation within the scope of highway land and highway administration shall be carried out in accordance with the relevant provisions of the Highway Law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The competent department for transport of the State Council and the competent departments for transport of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall carry out supervision and inspection of toll highways and urge the operators of toll highways to perform their obligations in accordance with law with respect to highway maintenance, greening and soil and water conservation within the scope of highway land."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Audit institutions shall, in accordance with law, strengthen audit supervision of toll highways and investigate and deal with illegal acts in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Administrative law enforcement agencies may not charge any fees to the operators of toll highways when carrying out supervision and inspection of toll highways in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall make public to society such information as the names of the toll highways and toll stations, the toll-collecting units, the toll rates and the toll periods within their respective administrative regions, so as to accept public supervision."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Operation and Management of Toll Highways"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, approves without authorisation the construction of a toll highway, a toll station, a toll period, vehicle toll rates or the transfer of toll highway rights and interests shall be ordered by the people's government of the province, autonomous region or municipality directly under the Central Government to make rectification; the responsible persons in charge and other directly responsible persons shall be given administrative sanctions of recording a major demerit or more severe sanctions up to dismissal in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a local people's government or a relevant department or its staff members unlawfully interfere with the operation and management of a toll highway, or misappropriate or divert the vehicle tolls collected by the operator of a toll highway, the people's government at the higher level or the relevant department shall order the unlawful interference to cease and the misappropriated or diverted vehicle tolls to be returned; the responsible persons in charge and other directly responsible persons shall be given administrative sanctions of recording a major demerit or more severe sanctions up to dismissal in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, sets up a toll station (checkpoint) on a highway without authorisation to collect vehicle tolls, or fails to cease tolling when tolling should cease, shall be ordered by the competent department for transport of the State Council or the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government, in the exercise of its functions and powers, to make rectification and shall have the toll facilities demolished by compulsion; where there are illegal gains, the illegal gains shall be confiscated and a fine of not less than two times and not more than five times the illegal gains shall be imposed; where there are no illegal gains, a fine of not less than RMB 10,000 and not more than RMB 50,000 shall be imposed; where the responsible persons in charge and other directly responsible persons are State functionaries, administrative sanctions of recording a major demerit or more severe sanctions up to dismissal shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following circumstances exists, the competent department for transport of the State Council or the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall, in the exercise of its functions and powers, order rectification and, according to the seriousness of the circumstances, impose a fine of not less than RMB 50,000 and not more than RMB 200,000:\n(a) the setting up of a toll station does not conform to the standards, or the location of a toll station is changed without authorisation;\n(b) routine inspection and maintenance of the toll highway and the facilities along it are not carried out in accordance with the standards and specifications prescribed by the State;\n(c) traffic signs and markings are not reasonably installed in accordance with the relevant provisions of the State;\n(d) the setting up of toll lanes does not meet the requirements of safe vehicle travel, or the number of toll lanes does not meet the need for vehicles to pass quickly;\n(e) where circumstances such as highway damage, construction or a traffic accident affect the normal and safe travel of vehicles, safety protection facilities are not installed or notices and announcements are not given in accordance with the provisions, or where traffic congestion occurs, traffic is not promptly directed;\n(f) information on speed-limited passage or closure of the toll highway that should be published is not published in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the operator of a toll highway fails to issue receipts when collecting tolls, issues receipts not uniformly printed (supervised in printing) by the department for finance or the tax department of the people's government of the province, autonomous region or municipality directly under the Central Government, or issues expired or invalid receipts, the department for finance or the tax department shall order rectification and, according to the seriousness of the circumstances, impose a fine of not less than RMB 100,000 and not more than RMB 500,000; where the responsible persons in charge and other directly responsible persons are State functionaries, administrative sanctions of recording a major demerit or more severe sanctions up to dismissal shall be given in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the manager of a government loan-repayment highway fails to deposit the vehicle tolls in full in the special fiscal account or fails to pay the full income from the transfer of the rights and interests of the government loan-repayment highway into the State Treasury, the department for finance shall recover and make up the shortfall; the responsible persons in charge and other directly responsible persons shall be given administrative sanctions of recording a demerit or more severe sanctions up to dismissal in accordance with law.\nWhere, in violation of the provisions of these Regulations, the department for finance fails to use the vehicle tolls of a government loan-repayment highway or the income from the transfer of the rights and interests of a government loan-repayment highway to repay loans and repayable funds raised, or diverts the vehicle tolls or such income to other uses, the people's government at the same level shall order the repayment of the loans and repayable funds raised, or order the return of the diverted vehicle tolls and income from the transfer of the rights and interests of the government loan-repayment highway; the responsible persons in charge and other directly responsible persons shall be given administrative sanctions of recording a demerit or more severe sanctions up to dismissal in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the operator of a toll highway fails to dismantle the toll facilities promptly after tolling ceases, the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall order dismantling within a time limit; where they are not dismantled within the time limit, they shall be demolished by compulsion, and the cost of demolition shall be borne by the former operator of the toll highway."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the operator of a toll highway fails to maintain the toll highway in accordance with the technical specifications and operating procedures prescribed by the competent department for transport of the State Council, the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall order rectification; where it refuses to make rectification, it shall be ordered to cease tolling. Where the obligation of highway maintenance is still not performed within 30 days after the order to cease tolling, the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall designate another unit to carry out the maintenance, and the maintenance cost shall be borne by the former operator of the toll highway. Where it refuses to bear the cost, the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall apply to a people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the operator of a toll highway fails to perform the obligation of highway greening and soil and water conservation, the competent department for transport of the people's government of the province, autonomous region or municipality directly under the Central Government shall order rectification and may impose on the former operator of the toll highway a fine of not less than one time and not more than two times the cost required to perform the obligation of greening and soil and water conservation."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The competent department for pricing of the State Council or the competent departments for pricing of local people's governments at or above the county level shall penalise price violations in violation of these Regulations in accordance with the provisions of the laws, regulations and rules on price administration."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person deliberately blocks toll lanes, forces passage through checkpoints, assaults toll highway management personnel, damages toll facilities or engages in other activities disrupting the order of operation and management of the toll highway in order to refuse to pay, evade payment of or underpay vehicle tolls, and the act constitutes a violation of the administration of public security, the public security organ shall penalise it in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law; where loss or personal injury is caused to the operator of the toll highway, civil liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person passes off military vehicles, vehicles of the armed police force, uniform police vehicles with a unified mark of public security organs or emergency rescue and disaster relief vehicles in order to evade vehicle tolls, the relevant authorities shall deal with the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Toll highways under construction and already in operation before these Regulations come into force shall be regulated by the competent department for transport of the State Council together with the department for development and reform and the department for finance of the State Council in accordance with the principles prescribed in these Regulations. The specific measures shall be formulated by the competent department for transport of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Regulations shall come into force on 1 November 2004."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0332'] = {
     "lawId": "CN-REG-0332",
     "sourceLang": "zh",
@@ -22137,6 +24873,678 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0336'] = {
+    "lawId": "CN-REG-0336",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 56 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in accordance with the relevant provisions of the Civil Procedure Law of the People's Republic of China (hereinafter referred to as the Civil Procedure Law) and the Administrative Procedure Law of the People's Republic of China (hereinafter referred to as the Administrative Procedure Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where parties engage in civil or administrative proceedings, they shall pay litigation costs in accordance with these Measures.\nThis does not apply where these Measures provide that no litigation costs need be paid or that payment may be exempted."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In the course of proceedings, no fees may be collected from parties beyond the scope and standards prescribed by these Measures."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State provides judicial assistance to parties that genuinely have difficulty in paying litigation costs, so as to safeguard their exercise of the right of action in accordance with law and protect their lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "These Measures apply to foreign nationals, stateless persons, foreign enterprises and organisations conducting proceedings before people's courts.\nWhere a foreign court applies differential treatment to citizens, legal persons or other organisations of the People's Republic of China in respect of the payment of litigation costs as compared with its own citizens, legal persons or other organisations, the matter shall be handled in accordance with the principle of reciprocity."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The litigation costs that parties shall pay to the people's court include:\n(a) the case acceptance fee;\n(b) the application fee;\n(c) the travel, accommodation and living expenses and compensation for lost work of witnesses, expert evaluators, interpreters and average adjusters arising from their appearance in court on the date designated by the people's court."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The case acceptance fee includes:\n(a) the case acceptance fee for first-instance cases;\n(b) the case acceptance fee for second-instance cases;\n(c) the case acceptance fee for retrial cases that is required to be paid in accordance with the provisions of these Measures."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "No case acceptance fee shall be paid in the following cases:\n(a) cases tried under the special procedure prescribed by the Civil Procedure Law;\n(b) cases in which a ruling is made not to accept the case, to dismiss the action or to dismiss the appeal;\n(c) cases in which an appeal is lodged against a ruling not to accept the case, to dismiss the action or on an objection to jurisdiction;\n(d) administrative compensation cases."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Parties to cases tried under the trial supervision procedure prescribed by the Civil Procedure Law and the Administrative Procedure Law shall not pay a case acceptance fee. The following circumstances are excepted:\n(a) the party has new evidence sufficient to overturn the original judgment or ruling, applies to the people's court for a retrial, and the people's court decides upon examination to retry the case;\n(b) the party did not appeal against the first-instance judgment, ruling or mediation statement of the people's court, and applies for a retrial after the first-instance judgment, ruling or mediation statement has become legally effective, and the people's court decides upon examination to retry the case."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a party applies to a people's court in accordance with law for any of the following matters, an application fee shall be paid:\n(a) applying for the execution of a legally effective judgment, ruling or mediation statement of a people's court, an award or mediation statement lawfully made by an arbitration institution, or a debt instrument to which a notarial institution has lawfully given effect of compulsory enforcement;\n(b) applying for preservation measures;\n(c) applying for an order for payment;\n(d) applying for public summons for the assertion of rights;\n(e) applying to set aside an arbitral award or to determine the validity of an arbitration agreement;\n(f) applying for bankruptcy;\n(g) applying for a maritime injunction, general average adjustment, the establishment of a fund for limitation of liability for maritime claims, registration of a maritime claim or public summons regarding a maritime lien;\n(h) applying for the recognition and enforcement of judgments and rulings of foreign courts and awards of foreign arbitration institutions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The travel, accommodation and living expenses and compensation for lost work of witnesses, expert evaluators, interpreters and average adjusters arising from their appearance in court on the date designated by the people's court shall be collected by the people's court on behalf of the parties in accordance with the standards prescribed by the State.\nWhere a party copies case file materials or legal documents, it shall pay the people's court a copying fee according to the actual cost."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "With respect to the expenses incurred in the course of proceedings for expert evaluation, public announcement, inquest, translation, assessment, auction, sale, storage, custody, transport, vessel supervision and the like that should be borne by the parties in accordance with law, the people's court shall, in accordance with the principle that the party making the claim bears the expense, decide that the party shall pay them directly to the institution or unit concerned; the people's court may not collect or pay them on behalf of the parties.\nWhere a people's court provides translation into the language or script commonly used by the local ethnic group in accordance with the provisions of paragraph 3 of Article 11 of the Civil Procedure Law, no fee shall be charged."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Scope of Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Case acceptance fees shall be paid respectively according to the following standards:\n(1) Property cases shall be paid in cumulative instalments according to the following proportions on the basis of the amount or value of the claim:\n(a) for the portion not exceeding RMB 10,000, RMB 50 for each case;\n(b) for the portion exceeding RMB 10,000 but not exceeding RMB 100,000, 2.5 per cent;\n(c) for the portion exceeding RMB 100,000 but not exceeding RMB 200,000, 2 per cent;\n(d) for the portion exceeding RMB 200,000 but not exceeding RMB 500,000, 1.5 per cent;\n(e) for the portion exceeding RMB 500,000 but not exceeding RMB 1 million, 1 per cent;\n(f) for the portion exceeding RMB 1 million but not exceeding RMB 2 million, 0.9 per cent;\n(g) for the portion exceeding RMB 2 million but not exceeding RMB 5 million, 0.8 per cent;\n(h) for the portion exceeding RMB 5 million but not exceeding RMB 10 million, 0.7 per cent;\n(i) for the portion exceeding RMB 10 million but not exceeding RMB 20 million, 0.6 per cent;\n(j) for the portion exceeding RMB 20 million, 0.5 per cent.\n(2) Non-property cases shall be paid according to the following standards:\n(a) RMB 50 to RMB 300 for each divorce case. Where division of property is involved and the total value of the property does not exceed RMB 200,000, no additional payment is required; for the portion exceeding RMB 200,000, 0.5 per cent shall be paid.\n(b) RMB 100 to RMB 500 for each case infringing the right of name, the right of title, the right of portrait, the right of reputation, the right of honour or other personal rights. Where compensation for damage is involved and the amount of compensation does not exceed RMB 50,000, no additional payment is required; for the portion exceeding RMB 50,000 but not exceeding RMB 100,000, 1 per cent shall be paid; for the portion exceeding RMB 100,000, 0.5 per cent shall be paid.\n(c) RMB 50 to RMB 100 for each other non-property case.\n(3) For civil cases involving intellectual property, where there is no disputed amount or value, RMB 500 to RMB 1,000 for each case; where there is a disputed amount or value, payment shall be made according to the standards for property cases.\n(4) RMB 10 for each labour dispute case.\n(5) Administrative cases shall be paid according to the following standards:\n(a) RMB 100 for each administrative case involving a trademark, a patent or maritime affairs;\n(b) RMB 50 for each other administrative case.\n(6) Where a party raises an objection to the jurisdiction of a case and the objection is not sustained, RMB 50 to RMB 100 for each case.\nThe people's governments of the provinces, autonomous regions and municipalities directly under the Central Government may, in light of local actual circumstances, prescribe specific payment standards within the ranges prescribed in items (2), (3) and (6) of this Article."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Application fees shall be paid respectively according to the following standards:\n(1) Where application is made to a people's court in accordance with law for the execution of a legally effective judgment, ruling or mediation statement of a people's court, an award or mediation statement lawfully made by an arbitration institution, or a debt instrument to which a notarial institution has lawfully given effect of compulsory enforcement, or for the recognition and enforcement of judgments and rulings of foreign courts and awards of foreign arbitration institutions, payment shall be made according to the following standards:\n(a) where there is no amount or value to be executed, RMB 50 to RMB 500 for each case;\n(b) where the amount or value to be executed does not exceed RMB 10,000, RMB 50 for each case; for the portion exceeding RMB 10,000 but not exceeding RMB 500,000, 1.5 per cent; for the portion exceeding RMB 500,000 but not exceeding RMB 5 million, 1 per cent; for the portion exceeding RMB 5 million but not exceeding RMB 10 million, 0.5 per cent; for the portion exceeding RMB 10 million, 0.1 per cent;\n(c) where a right holder that has not registered brings a suit before a people's court in conformity with paragraph 4 of Article 55 of the Civil Procedure Law, the application fee shall be paid according to the standards prescribed in this item, and no case acceptance fee shall be paid.\n(2) Where an application is made for preservation measures, payment shall be made according to the following standards on the basis of the amount of property actually preserved:\nWhere the amount of property does not exceed RMB 1,000 or no amount of property is involved, RMB 30 for each case; for the portion exceeding RMB 1,000 but not exceeding RMB 100,000, 1 per cent; for the portion exceeding RMB 100,000, 0.5 per cent. However, the fee paid by a party applying for preservation measures shall not exceed RMB 5,000 at most.\n(3) Where an order for payment is applied for in accordance with law, payment shall be made with reference to one third of the standard for the case acceptance fee for property cases.\n(4) Where public summons for the assertion of rights is applied for in accordance with law, RMB 100 for each case.\n(5) Where the setting aside of an arbitral award or the determination of the validity of an arbitration agreement is applied for, RMB 400 for each case.\n(6) Bankruptcy cases shall be calculated on the basis of the total amount of the bankruptcy property and paid at half the standard for the case acceptance fee for property cases, provided that the maximum shall not exceed RMB 300,000.\n(7) The application fee for maritime cases shall be paid according to the following standards:\n(a) RMB 1,000 to RMB 10,000 for each application to establish a fund for limitation of liability for maritime claims;\n(b) RMB 1,000 to RMB 5,000 for each application for a maritime injunction;\n(c) RMB 1,000 to RMB 5,000 for each application for public summons regarding a maritime lien;\n(d) RMB 1,000 for each application for registration of a maritime claim;\n(e) RMB 1,000 for each application for general average adjustment."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a case is concluded by way of mediation or the party applies to withdraw the action, the case acceptance fee shall be paid at half rate."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Cases tried under the summary procedure shall pay the case acceptance fee at half rate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where an appeal is lodged against a property case, the case acceptance fee shall be paid on the basis of the amount claimed in the appeal in respect of the part of the first-instance judgment appealed against."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the defendant files a counterclaim or a third party with an independent claim puts forward a claim relating to the case and the people's court decides to try them together, the case acceptance fees shall respectively be paid at half rate."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For retrial cases in which a case acceptance fee is required to be paid in accordance with Article 9 of these Measures, the case acceptance fee shall be paid on the basis of the amount claimed in the retrial application in respect of the part of the original judgment objected to."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Payment of Litigation Costs"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The case acceptance fee shall be prepaid by the plaintiff, the third party with an independent claim or the appellant. Where the defendant files a counterclaim and a case acceptance fee is required to be paid in accordance with the provisions of these Measures, it shall be prepaid by the defendant. In cases for the recovery of labour remuneration, the case acceptance fee may not be prepaid.\nThe application fee shall be prepaid by the applicant. However, the application fees prescribed in items (a) and (f) of Article 10 of these Measures shall not be prepaid by the applicant: the execution application fee shall be paid after execution, and the bankruptcy application fee shall be paid after liquidation.\nThe fees prescribed in Article 11 of these Measures shall be paid after they are actually incurred."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a party changes the amount of its claim in the course of proceedings, the case acceptance fee shall be dealt with in accordance with the following provisions:\n(a) where the party increases the amount of its claim, it shall pay the additional amount calculated on the basis of the increased amount of the claim;\n(b) where the party proposes to reduce the amount of its claim before the conclusion of the court investigation, the amount shall be calculated and refunded on the basis of the reduced amount of the claim."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The plaintiff shall pay the case acceptance fee within seven days from the day following the date of receipt of the people's court's notice to pay litigation costs; in a counterclaim, the party filing the counterclaim shall pay the case acceptance fee within seven days from the day following the date on which the counterclaim is filed.\nThe case acceptance fee for an appeal case shall be prepaid by the appellant when submitting the petition of appeal to the people's court. Where both parties appeal, they shall each prepay it. Where the appellant fails to prepay the litigation costs within the appeal period, the people's court shall notify it to prepay within seven days.\nThe application fee shall be prepaid by the applicant at the time of making the application or within the time limit designated by the people's court.\nWhere a party fails to pay the litigation costs within the time limit and has not applied for judicial assistance, or has applied for judicial assistance but the application has not been approved, and still fails to pay the litigation costs within the time limit designated by the people's court, the people's court shall deal with the matter in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "For retrial cases in which a case acceptance fee is required to be paid in accordance with Article 9 of these Measures, the fee shall be prepaid by the party applying for the retrial. Where both parties apply for a retrial, they shall each prepay it."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "For cases transferred or referred in accordance with Articles 36, 37, 38 and 39 of the Civil Procedure Law, the people's court that originally accepted the case shall transfer, together with the case, the litigation costs prepaid by the parties to the people's court receiving the case."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where, in the course of trying a civil case, a people's court discovers a suspected criminal offence and transfers the case to the relevant department for handling, the case acceptance fee paid by the party shall be refunded; where the civil case needs to be further tried after the transfer, the case acceptance fee already paid by the party shall not be refunded."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In cases where proceedings or execution are suspended, the case acceptance fee and application fee already paid shall not be refunded. Where the cause of the suspension is removed and the proceedings or execution are resumed, no further case acceptance fee or application fee shall be paid."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the second-instance people's court decides to remand the case for retrial, it shall refund the second-instance case acceptance fee already paid by the appellant.\nWhere the first-instance people's court rules not to accept the case or to dismiss the action, it shall refund the case acceptance fee already paid by the party; where the party appeals against the ruling of the first-instance people's court not to accept the case or to dismiss the action and the second-instance people's court upholds the ruling made by the first-instance people's court, the first-instance people's court shall refund the case acceptance fee already paid by the party."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "For cases terminated in accordance with Article 137 of the Civil Procedure Law, the case acceptance fee already paid in accordance with the provisions of these Measures shall not be refunded."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Payment and Refund of Litigation Costs"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Litigation costs shall be borne by the losing party, unless the winning party voluntarily bears them.\nWhere a party wins in part and loses in part, the people's court shall, in light of the specific circumstances of the case, decide the amount of the litigation costs to be borne by each party.\nWhere the parties to a joint action lose the case, the people's court shall, in light of their interest in the subject matter of the action, decide the amount of the litigation costs to be borne by each party."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the second-instance people's court alters the judgment or ruling made by the first-instance people's court, it shall accordingly alter the decision of the first-instance people's court on the bearing of litigation costs."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For cases in which an agreement is reached through mediation by a people's court, the bearing of litigation costs shall be settled through consultation between the parties; where consultation fails, the people's court shall decide."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For retrial cases in which a case acceptance fee is required to be paid in accordance with items (a) and (b) of Article 9 of these Measures, the litigation costs shall be borne by the party applying for the retrial; where both parties apply for a retrial, the litigation costs shall be borne in accordance with Article 29 of these Measures. The bearing of the litigation costs of the original trial shall be determined anew by the people's court in accordance with the principles for bearing litigation costs."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The bearing of litigation costs in divorce cases shall be settled through consultation between the parties; where consultation fails, the people's court shall decide."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where the plaintiff or appellant in a civil case applies to withdraw the action and the people's court rules to permit it, the case acceptance fee shall be borne by the plaintiff or appellant.\nWhere the defendant in an administrative case alters or revokes a specific administrative act, the plaintiff applies to withdraw the action and the people's court rules to permit it, the case acceptance fee shall be borne by the defendant."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a party proposes to reduce the amount of its claim after the conclusion of the court investigation, the case acceptance fee in respect of the reduced portion shall be borne by the party that changed its claim."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where the debtor raises no objection to the procedure for supervision and urging, the application fee shall be borne by the debtor. Where the debtor raises an objection to the procedure for supervision and urging, causing the procedure to be terminated, the application fee shall be borne by the applicant; where the applicant brings a separate action, it may include the application fee in its claim."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The application fee for public summons for the assertion of rights shall be borne by the applicant."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The application fees prescribed in items (a) and (h) of Article 10 of these Measures shall be borne by the person subject to execution.\nWhere the parties reach a settlement agreement during execution, the bearing of the application fee shall be settled through consultation between the parties; where consultation fails, the people's court shall decide.\nThe application fee prescribed in item (b) of Article 10 of these Measures shall be borne by the applicant; where the applicant brings an action, it may include that fee in its claim.\nThe bearing of the application fee prescribed in item (e) of Article 10 of these Measures shall be decided by the people's court in accordance with Article 29 of these Measures."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The relevant litigation costs in maritime cases shall be borne in accordance with the following provisions:\n(a) where an application is made before an action for the preservation of a maritime claim or for a maritime injunction, the application fee shall be borne by the applicant; where the applicant brings an action in respect of the maritime claim, it may include the said fee in its claim;\n(b) where an application is made before an action for the preservation of maritime evidence, the application fee shall be borne by the applicant;\n(c) the reasonable expenses incurred in the course of proceedings for the auction or sale of a seized vessel, cargo carried on board, bunker fuel or ship's stores shall be advanced by the applicant, deducted in priority from the proceeds of the auction or sale and refunded to the applicant;\n(d) the application fees for applying to establish a fund for limitation of liability for maritime claims, for registration of and satisfaction from claims, and for public summons regarding a maritime lien shall be borne by the applicant;\n(e) the public announcement expenses in the procedure for establishing a fund for limitation of liability for maritime claims or for public summons regarding a maritime lien shall be borne by the applicant."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a party, for reasons attributable to itself, fails to adduce evidence within the time limit for adducing evidence and adduces new evidence during the second instance or retrial, thereby increasing the litigation costs, the increased litigation costs shall be borne by that party."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The public announcement expenses for cases tried under the special procedure shall be borne by the plaintiff or applicant."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an application for bankruptcy is made to a people's court in accordance with law, the litigation costs shall be appropriated from the bankruptcy property in accordance with the relevant provisions of law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "A party may not separately appeal against a decision of a people's court on litigation costs.\nWhere a party separately objects to a decision of a people's court on litigation costs, it may apply to the president of the people's court that made the decision for review. The review decision shall be made within 15 days from the date of receipt of the party's application.\nWhere a party objects to the calculation of the litigation costs determined by a people's court, it may request the people's court that made the decision to review it. Where there is indeed an error in the calculation, the people's court that made the decision shall correct it."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Bearing of Litigation Costs"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a party genuinely has difficulty in paying litigation costs, it may, in accordance with these Measures, apply to a people's court for judicial assistance in the form of deferred payment, reduced payment or exemption from payment of litigation costs.\nExemption from payment of litigation costs applies only to natural persons."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Judicial Assistance"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a party applies for judicial assistance and falls under any of the following circumstances, the people's court shall permit exemption from payment of litigation costs:\n(a) a person with a disability who has no fixed source of income;\n(b) a person claiming alimony, maintenance, child-rearing expenses or compensation for injury or death;\n(c) a person receiving the minimum living guarantee, a person receiving regular relief as a person in extreme difficulty in rural areas, a person receiving the five-guarantees support in rural areas, or a person receiving unemployment insurance benefits, who has no other income;\n(d) a person whose own lawful rights and interests have been harmed because he acted courageously for a just cause or to protect the public interest of society, and who, or whose close relatives, claims compensation or indemnity;\n(e) other circumstances in which exemption from payment is genuinely necessary."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Judicial Assistance"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a party applies for judicial assistance and falls under any of the following circumstances, the people's court shall permit reduced payment of litigation costs:\n(a) a person who has difficulties in livelihood due to force majeure such as natural disasters, is currently receiving social relief, or whose family production and operation can hardly be maintained;\n(b) a person belonging to the categories of persons entitled to preferential treatment and compensation or to resettlement prescribed by the State;\n(c) social welfare institutions and relief administration stations;\n(d) other circumstances in which reduced payment is genuinely necessary.\nWhere a people's court permits reduced payment of litigation costs, the rate of reduction shall not be less than 30 per cent."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Judicial Assistance"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a party applies for judicial assistance and falls under any of the following circumstances, the people's court shall permit deferred payment of litigation costs:\n(a) a person claiming social insurance benefits or economic compensation;\n(b) a victim of a maritime accident, traffic accident, medical accident, work-related injury accident, product quality accident or other personal injury accident claiming compensation;\n(c) a person currently receiving legal aid from the relevant department;\n(d) other circumstances in which deferred payment is genuinely necessary."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Judicial Assistance"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a party applies for judicial assistance, it shall, at the time of bringing the action or lodging the appeal, submit a written application, evidential materials sufficient to prove that it genuinely has economic difficulties and other relevant evidential materials.\nWhere exemption or reduction of litigation costs is applied for because of difficulties in livelihood or in claiming basic living expenses, a certificate that the applicant and his family meet the standards of economic difficulty for citizens prescribed by the local departments of civil affairs, labour security and the like shall also be provided.\nWhere a people's court does not approve a party's application for judicial assistance, it shall explain the reasons to the party in writing."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Judicial Assistance"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a party applies for deferred payment of litigation costs and upon examination the application conforms to the provisions of Article 47 of these Measures, the people's court shall make a decision permitting deferred payment before deciding to docket the case."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Judicial Assistance"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a people's court provides judicial assistance to one party and the other party loses the case, the litigation costs shall be borne by the other party; where the other party wins the case, the people's court may, in light of the economic situation of the party applying for judicial assistance, decide on reduced payment or exemption from payment of litigation costs for that party."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Judicial Assistance"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a people's court permits a party to pay reduced litigation costs or exempts it from payment, the matter shall be stated in the legal document."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Judicial Assistance"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The system for the payment and collection of litigation costs shall be made public. People's courts shall, in collecting litigation costs, use the fiscal receipts printed by the finance department of the State Council or of the people's government at the provincial level in accordance with their financial subordination. Case acceptance fees and application fees shall be turned over to the treasury in full, included in the budget and managed under the system of separating revenue and expenditure.\nWhen collecting litigation costs, a people's court shall issue a payment voucher to the party, and the party shall pay the fee at the designated agent bank on the strength of the payment voucher. Where a refund is due to a party in accordance with law, the people's court shall handle it in accordance with the relevant provisions of the State. The specific measures for the turning over of litigation costs to the treasury and for refunds shall be formulated separately by the finance department of the State Council in consultation with the Supreme People's Court.\nIn remote areas, on waters and in areas with inconvenient transport, where a basic-level circuit tribunal tries a case on the spot and the party claims that it genuinely has difficulty in paying the litigation costs at the designated agent bank, the basic-level circuit tribunal may collect the litigation costs on the spot and issue to the party a fiscal receipt printed by the finance department of the people's government at the provincial level; where no such fiscal receipt is issued, the party shall have the right to refuse to pay."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Management and Supervision of Litigation Costs"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "After the conclusion of a case, the people's court shall notify the parties in writing of the detailed list of litigation costs and of the amount to be borne by each party, and shall at the same time state in the judgment, ruling or mediation statement the amount to be borne by each party.\nWhere litigation costs need to be refunded to a party, the people's court shall refund them to the party concerned within 15 days from the date on which the legal document takes effect."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Management and Supervision of Litigation Costs"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The competent pricing departments and finance departments shall, in accordance with the division of duties in the administration of charges, administer and supervise litigation costs; and unlawful charges in violation of the provisions of these Measures shall be investigated and dealt with in accordance with laws, regulations and the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Management and Supervision of Litigation Costs"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Litigation costs shall be calculated in renminbi. Where the calculation is in a foreign currency, it shall be converted into renminbi at the exchange rate published by the State on the date on which the people's court decides to accept the case, and paid accordingly; the litigation costs for appeal cases and retrial application cases shall be converted at the exchange rate published by the State on the date on which the first-instance people's court decides to accept the case."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "These Measures shall come into force on 1 April 2007."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]

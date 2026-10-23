@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p17
-   法规 57 部 / 译文 1745 条
+   法规 67 部 / 译文 2316 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -543,6 +543,642 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0345'] = {
+    "lawId": "CN-REG-0345",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 54 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of effectively preventing, promptly controlling and eliminating the harm caused by public health emergencies, safeguarding the physical health and safety of the public, and maintaining normal social order."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"public health emergency\" (hereinafter referred to as an \"emergency\") means an event that occurs suddenly and causes or is likely to cause serious harm to public health, such as a major epidemic of an infectious disease, a disease of unknown cause occurring in groups, major food poisoning or occupational poisoning, and any other event that seriously affects public health."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "After the occurrence of an emergency, the State Council shall establish a national emergency response headquarters, which shall be composed of the relevant departments of the State Council and the relevant departments of the military, and the leading official in charge of the State Council shall serve as the commander-in-chief, responsible for unified leadership and unified command over the handling of the emergency throughout the country.\nThe competent health administrative department of the State Council and other relevant departments shall, within the scope of their respective duties, properly perform the work relating to the handling of the emergency."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "After the occurrence of an emergency, the people's government of a province, an autonomous region or a municipality directly under the Central Government shall establish a local emergency response headquarters, and the principal leader of that people's government shall serve as the commander-in-chief, responsible for leading and commanding the handling of the emergency within its own administrative area.\nThe competent health administrative department of a local people's government at or above the county level shall be specifically responsible for organising the investigation, control and medical treatment of the emergency.\nThe relevant departments of a local people's government at or above the county level shall, within the scope of their respective duties, properly perform the work relating to the handling of the emergency."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Emergency response work shall follow the policy of giving priority to prevention and maintaining constant preparedness, and shall implement the principles of unified leadership, responsibility at different levels, prompt response, decisive measures, reliance on science and strengthened cooperation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The people's governments at or above the county level shall organise and carry out scientific research relating to the prevention and control of emergencies, and establish reserves of the materials, equipment, facilities, technology and human resources needed for the epidemiological investigation of emergencies, the isolation of sources of infection, medical rescue, on-site handling, supervision and inspection, monitoring and testing, and health protection, and the funds required shall be included in the fiscal budget of the people's government at the same level.\nThe State shall provide financial support for emergency response work in remote and poverty-stricken areas."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State encourages and supports international exchange and cooperation in technologies relating to the monitoring, early warning, response and handling of emergencies."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level and their relevant departments shall establish a strict responsibility system for the prevention and emergency handling of emergencies, earnestly perform their respective duties, and ensure the normal conduct of emergency handling work."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The people's governments at or above the county level and their competent health administrative departments shall grant appropriate subsidies and health allowances to the medical and health personnel participating in the handling of an emergency; commend and reward the persons who have made contributions to the handling of an emergency; and, in accordance with the relevant provisions of the State, grant corresponding subsidies and compensation to the persons who fall ill, become disabled or die as a result of their participation in emergency handling work."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent health administrative department of the State Council shall, in accordance with the requirements of categorised guidance and rapid response, formulate a national emergency response plan and submit it to the State Council for approval.\nThe people's government of a province, an autonomous region or a municipality directly under the Central Government shall, on the basis of the national emergency response plan and in light of local actual circumstances, formulate an emergency response plan for its own administrative area."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The national emergency response plan shall include the following main contents:\n(a) the composition of the emergency response headquarters and the duties of the relevant departments;\n(b) the monitoring and early warning of emergencies;\n(c) the system for the collection, analysis, reporting and notification of emergency information;\n(d) the technical and monitoring institutions for emergency handling and their tasks;\n(e) the classification of emergencies and the work plan for emergency handling;\n(f) emergency prevention and on-site control, and the reserve and deployment of emergency facilities, equipment, medicines for treatment, medical devices and other materials and technologies;\n(g) the establishment and training of professional teams for emergency handling."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Emergency response plans shall be promptly revised and supplemented in light of changes in emergencies and problems found in their implementation."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The local people's governments at various levels shall, in accordance with the provisions of laws and administrative regulations, properly carry out the prevention of infectious diseases and other public health work so as to prevent the occurrence of emergencies.\nThe competent health administrative departments and other relevant departments of the people's governments at or above the county level shall provide the public with special education on emergency response knowledge, so as to enhance society's awareness of, and capacity to respond to, emergencies."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State shall establish a unified system for the prevention and control of emergencies.\nThe local people's governments at or above the county level shall establish and improve systems for the monitoring and early warning of emergencies.\nThe competent health administrative departments of the people's governments at or above the county level shall designate institutions to be responsible for carrying out routine monitoring of emergencies and shall ensure the normal operation of the monitoring and early warning systems."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Monitoring and early warning work shall be carried out by formulating monitoring plans according to the category of the emergency and by scientifically analysing and comprehensively evaluating monitoring data. Potential hidden dangers discovered at an early stage and emergencies that may occur shall be promptly reported in accordance with the reporting procedures and time limits prescribed by these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level and their relevant departments shall, in accordance with the requirements of emergency response plans, ensure the reserve of emergency facilities, equipment, medicines for treatment, medical devices and other materials."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The people's governments at or above the county level shall strengthen the building of the emergency medical service network, equip it with the corresponding medicines, technology, equipment and personnel for medical treatment, and improve the treatment capacity of medical and health institutions in responding to emergencies of various types.\nThe local people's governments at or above the level of a city divided into districts shall establish specialised hospitals for infectious diseases suited to the needs of the prevention and control of infectious diseases, or designate medical institutions that have the conditions and capacity for the prevention and control of infectious diseases to undertake the task of preventing and controlling infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent health administrative departments of the local people's governments at or above the county level shall regularly provide medical and health institutions and their personnel with training in knowledge and skills relating to emergency handling, regularly organise medical and health institutions to conduct emergency drills, and disseminate the latest knowledge and advanced technologies."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention and Emergency Preparedness"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall establish an emergency reporting system.\nThe competent health administrative department of the State Council shall formulate rules for emergency reporting and establish an information reporting system for major and urgent epidemics.\nUnder any of the following circumstances, the people's government of a province, an autonomous region or a municipality directly under the Central Government shall, within one hour of receiving a report, report to the competent health administrative department of the State Council:\n(a) an outbreak or epidemic of an infectious disease has occurred or is likely to occur;\n(b) a disease of unknown cause occurring in groups has occurred or been discovered;\n(c) the loss of strains or viruses of infectious diseases has occurred;\n(d) a major food poisoning or occupational poisoning incident has occurred or is likely to occur.\nWhere an emergency is likely to cause major social impact, the competent health administrative department of the State Council shall immediately report to the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting and Release of Information"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an emergency monitoring institution, a medical and health institution or a relevant unit discovers any of the circumstances specified in Article 19 of these Regulations, it shall, within two hours, report to the competent health administrative department of the local people's government at the county level in the place where it is located; the health administrative department receiving the report shall, within two hours, report to the people's government at the same level and shall, at the same time, report to the competent health administrative department of the people's government at the next higher level and to the competent health administrative department of the State Council.\nThe people's government at the county level shall, within two hours of receiving the report, report to the people's government of the city divided into districts or to the people's government at the next higher level; the people's government of the city divided into districts shall, within two hours of receiving the report, report to the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting and Release of Information"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "No unit or individual may conceal, delay or falsely report an emergency, or instigate another person to conceal, delay or falsely report an emergency."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting and Release of Information"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "While reporting in accordance with the provisions of these Regulations, the local people's government and the competent health administrative department that receive the report shall immediately organise forces to investigate, verify and confirm the matters reported, take the necessary control measures, and promptly report the results of the investigation."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting and Release of Information"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The competent health administrative department of the State Council shall, in light of the situation of the emergency, promptly notify the relevant departments of the State Council, the competent health administrative departments of the people's governments of all provinces, autonomous regions and municipalities directly under the Central Government, and the relevant departments of the military.\nThe competent health administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where the emergency occurs shall promptly notify the competent health administrative departments of the people's governments of the neighbouring provinces, autonomous regions or municipalities directly under the Central Government.\nWhere necessary, the competent health administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government that receives the notification shall promptly notify the medical and health institutions within its own administrative area.\nWhere a relevant department of a local people's government at or above the county level finds that a situation that has occurred or has been discovered may give rise to an emergency, it shall promptly notify the competent health administrative department of the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting and Release of Information"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall establish a system for reporting and complaining about emergencies, and shall make public a unified telephone number for reporting and complaining about emergencies.\nAll units and individuals shall have the right to report potential hidden dangers of emergencies to the people's governments and their relevant departments, and to complain to the people's governments at higher levels and their relevant departments about the failure of local people's governments and their relevant departments to perform, or to perform in accordance with the provisions, their duties in handling emergencies. The people's governments and their relevant departments that receive such reports or complaints shall immediately organise investigation and handling of the potential hidden dangers and of the failure to perform, or to perform in accordance with the provisions, the duties in handling emergencies.\nThe people's governments at or above the county level and their relevant departments shall reward the units and individuals that have performed meritorious service in reporting emergencies."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting and Release of Information"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall establish a system for the release of information on emergencies.\nThe competent health administrative department of the State Council shall be responsible for releasing information on emergencies to society. Where necessary, it may authorise the competent health administrative department of the people's government of a province, an autonomous region or a municipality directly under the Central Government to release information on emergencies within its own administrative area to society.\nInformation shall be released in a timely, accurate and comprehensive manner."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Reporting and Release of Information"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After the occurrence of an emergency, the competent health administrative department shall organise experts to conduct a comprehensive assessment of the emergency, make a preliminary determination of its type, and put forward a proposal on whether to launch the emergency response plan."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The launching of the national emergency response plan nationwide or across the areas of provinces, autonomous regions and municipalities directly under the Central Government shall be implemented by the competent health administrative department of the State Council after it has been submitted to and approved by the State Council. The launching of an emergency response plan by a province, an autonomous region or a municipality directly under the Central Government shall be decided by the people's government thereof and reported to the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The national emergency response headquarters shall supervise and guide the handling of emergencies, and the local people's governments at various levels and their relevant departments shall cooperate.\nThe emergency response headquarters of a province, an autonomous region or a municipality directly under the Central Government shall supervise and guide the handling of emergencies within its own administrative area."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The specialised technical institutions for emergency handling designated by the competent health administrative department of a people's government at or above the provincial level or by another relevant department shall be responsible for the technical investigation, confirmation, handling, control and evaluation of emergencies."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "With respect to newly discovered infectious diseases, the competent health administrative department of the State Council shall, in light of the degree of harm and the intensity of prevalence and in accordance with the provisions of the Law of the People's Republic of China on the Prevention and Control of Infectious Diseases, promptly declare them to be statutory infectious diseases; where a disease is to be declared a Class A infectious disease, the matter shall be decided by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Before an emergency response plan is launched, the relevant departments of the people's governments at or above the county level shall, in light of the actual circumstances of the emergency, make proper preparations for emergency handling and take the necessary emergency measures.\nAfter an emergency response plan is launched, the relevant departments of the people's government in the place where the emergency occurs shall, in accordance with the requirements of their duties as prescribed by the plan, submit to the unified command of the emergency response headquarters, immediately take up their prescribed posts and take the relevant control measures.\nMedical and health institutions, monitoring institutions and scientific research institutions shall submit to the unified command of the emergency response headquarters, cooperate and coordinate with one another, and concentrate their forces on carrying out the relevant scientific research work."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "After the occurrence of an emergency, the relevant departments of the State Council and the local people's governments at or above the county level and their relevant departments shall ensure the production and supply of medical rescue equipment, medicines for treatment, medical devices and other materials needed for the handling of the emergency; the competent administrative departments of railways, communications and civil aviation shall ensure their prompt transport."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "In light of the needs of emergency handling, the emergency response headquarters shall have the power to urgently requisition personnel, reserved materials, means of transport and the relevant facilities and equipment; where necessary, it may evacuate or isolate persons and may, in accordance with law, cordon off the epidemic area of an infectious disease."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In light of the needs of emergency handling, the emergency response headquarters may take control measures with respect to food and water sources.\nThe competent health administrative department of a local people's government at or above the county level shall take control measures at the site of the emergency, disseminate knowledge on the prevention and treatment of emergencies, and promptly take such measures as emergency vaccination, preventive medication and group protection with respect to groups susceptible to infection and other groups vulnerable to harm."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The staff participating in the handling of an emergency shall, in accordance with the provisions of the plan, take health protection measures and work under the guidance of professional personnel."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The specialised technical institutions designated by the competent health administrative department of the State Council or by another relevant department shall have the right to enter the site of an emergency to conduct investigation, sampling, technical analysis and testing, and to provide technical guidance for the handling of local emergencies, and the units and individuals concerned shall cooperate; no unit or individual may refuse on any grounds."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "With respect to newly discovered infectious diseases, diseases of unknown cause occurring in groups, and major food poisoning and occupational poisoning incidents, the competent health administrative department of the State Council shall, as soon as possible, organise forces to formulate the relevant technical standards, norms and control measures."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a patient with an infectious disease or a suspected patient with an infectious disease, for whom emergency control measures are required to be taken in accordance with the provisions of the competent health administrative department of the State Council, is found on a means of transport, the person in charge thereof shall, by the fastest means, notify the next stopping point and report to the operating unit of the means of transport. The next stopping point and the operating unit shall immediately report to the competent administrative department of the operating unit of the means of transport and to the competent health administrative department of the local people's government at or above the county level. Upon receiving the report, the health administrative department shall immediately organise the personnel concerned to take the corresponding medical handling measures.\nWith respect to persons in close contact with a patient with an infectious disease on a means of transport, the competent health administrative department of the people's government at or above the county level at the stopping point of the means of transport, or the competent administrative departments of railways, communications and civil aviation, shall, in accordance with their respective duties and the provisions of the laws and administrative regulations on the prevention and control of infectious diseases, take control measures.\nWhere persons, means of transport, goods, containers, luggage, postal parcels and the like involving frontier ports and entry into or exit from the territory need to be subjected to emergency control measures against infectious diseases, the matter shall be handled in accordance with the provisions of the laws and administrative regulations on frontier health quarantine."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Medical and health institutions shall provide medical rescue and on-site relief to persons who fall ill as a result of an emergency, shall accept and treat all patients who come for medical attention, and shall write detailed and complete medical records; with respect to patients who need to be transferred, the patients and copies of their medical records shall, in accordance with the provisions, be transferred to the medical institution receiving them or to the designated medical institution.\nHealth protection measures shall be taken within medical and health institutions to prevent cross-infection and contamination.\nMedical and health institutions shall take medical observation measures with respect to persons in close contact with patients with an infectious disease, and such persons shall cooperate.\nWhere a medical institution admits and treats a patient with an infectious disease or a suspected patient with an infectious disease, it shall, in accordance with law, report to the disease prevention and control institution in the place where it is located. Upon receiving the report, the disease prevention and control institution shall immediately conduct an investigation with respect to the persons who may be endangered and take the necessary control measures as required."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "During an outbreak or epidemic of an infectious disease, neighbourhood committees, township and town governments, residents' committees and villagers' committees shall organise forces, unite and cooperate, and rely on the masses for prevention and treatment, assist the competent health administrative departments and other relevant departments and medical and health institutions in the collection and reporting of information on the epidemic, the dispersal and isolation of persons, and the implementation of public health measures, and disseminate to residents and villagers the knowledge relating to the prevention and control of infectious diseases."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "With respect to the floating population in an area where an outbreak or epidemic of an infectious disease occurs, the local people's government at or above the county level in the place where the emergency occurs shall properly carry out prevention work and implement the relevant health control measures; with respect to patients with an infectious disease and suspected patients with an infectious disease, it shall take measures of isolation, observation and treatment in the place where they are. Where treatment and transfer for diagnosis are required, the provisions of paragraph 1 of Article 39 of these Regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The relevant departments and medical and health institutions shall, with respect to infectious diseases, achieve early discovery, early reporting, early isolation and early treatment, cut off the routes of transmission and prevent their spread."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The people's governments at or above the county level shall provide the necessary funds to ensure that persons who fall ill or become disabled as a result of an emergency receive prompt and effective treatment. The specific measures shall be formulated by the fiscal department, the competent health administrative department and the competent administrative department of labour security of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Patients, suspected patients and persons in close contact with patients with an infectious disease who need to receive isolated treatment or medical observation measures in an emergency shall cooperate when the competent health administrative department or the institution concerned takes medical measures; where they refuse to cooperate, the public security organ shall assist in compulsory enforcement in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Handling"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a local people's government at or above the county level or its competent health administrative department fails to perform its reporting duties in accordance with the provisions of these Regulations and conceals, delays or falsely reports an emergency, or instigates another person to conceal, delay or falsely report an emergency, administrative sanctions of demotion or removal from office shall be imposed in accordance with law on the principal leader of the government and the principal person in charge of its competent health administrative department; where the spread or epidemic of an infectious disease or other serious harm to public health results, an administrative sanction of discharge shall be imposed in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the relevant departments of the State Council, a local people's government at or above the county level or its relevant departments fails, in accordance with the provisions of these Regulations, to accomplish the production, supply, transport and reserve of facilities, equipment, medicines, medical devices and other materials needed for the handling of an emergency, administrative sanctions of demotion or removal from office shall be imposed in accordance with law on the principal leader of the government and the principal person in charge of the government department; where the spread or epidemic of an infectious disease or other serious harm to public health results, an administrative sanction of discharge shall be imposed in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, after the occurrence of an emergency, a local people's government at or above the county level or its relevant departments fails to cooperate with an investigation conducted by the relevant department of a people's government at a higher level, or obstructs or interferes with the investigation in any other manner, administrative sanctions of demotion or removal from office shall be imposed in accordance with law on the principal leader of the government and the principal person in charge of the government department; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the competent health administrative department or another relevant department of a people's government at or above the county level neglects its duty or fails or misconducts in office in the investigation, control or medical treatment of an emergency, the people's government at the same level or the relevant department of the people's government at a higher level shall order it to make rectification, circulate a notice of criticism and give it a warning; administrative sanctions of demotion or removal from office shall be imposed in accordance with law on the principal person in charge, the person directly in charge who is responsible and other persons responsible; where the spread or epidemic of an infectious disease or other serious harm to public health results, an administrative sanction of discharge shall be imposed in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a relevant department of a people's government at or above the county level refuses to perform its duties in emergency handling, the people's government at the same level or the relevant department of the people's government at a higher level shall order it to make rectification, circulate a notice of criticism and give it a warning; administrative sanctions of demotion or removal from office shall be imposed in accordance with law on the principal person in charge, the person directly in charge who is responsible and other persons responsible; where the spread or epidemic of an infectious disease or other serious harm to public health results, an administrative sanction of discharge shall be imposed in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a medical and health institution commits any of the following acts, the competent health administrative department shall order it to make rectification, circulate a notice of criticism and give it a warning; where the circumstances are serious, its Practising Licence of a Medical Institution shall be revoked; disciplinary sanctions of demotion or removal from office shall be imposed in accordance with law on the principal person in charge, the person directly in charge who is responsible and other persons directly responsible; and where the spread or epidemic of an infectious disease or other serious harm to public health results and a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) failing to perform its reporting duties in accordance with the provisions of these Regulations, and concealing, delaying or falsely reporting;\n(b) failing to promptly take control measures in accordance with the provisions of these Regulations;\n(c) failing to perform its duties of monitoring emergencies in accordance with the provisions of these Regulations;\n(d) refusing to accept and treat patients;\n(e) refusing to obey the deployment of the emergency response headquarters."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in the course of handling an emergency, a unit or individual concerned fails to perform its or his reporting duties in accordance with the provisions of these Regulations and conceals, delays or falsely reports, obstructs the staff of emergency handling in the performance of their duties, refuses to allow the specialised technical institution designated by the competent health administrative department of the State Council or by another relevant department to enter the site of the emergency, or fails to cooperate in investigation, sampling, technical analysis and testing, administrative or disciplinary sanctions shall be imposed in accordance with law on the persons responsible; where the Law of the People's Republic of China on Penalties for Administration of Public Security is violated and an act violating the administration of public security is constituted, the public security organ shall impose a penalty in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "During the period in which an emergency occurs, anyone who spreads rumours, drives up prices, deceives consumers, or disrupts social order or market order shall be given an administrative penalty in accordance with law by the public security organ or the administrative department for industry and commerce; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the medical and health institutions of the Chinese People's Liberation Army or of the Armed Police Force participate in the handling of an emergency, the provisions of these Regulations and the relevant provisions of the military shall apply."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -5606,6 +6242,561 @@
     ]
   };
 
+  TR['CN-REG-0367'] = {
+    "lawId": "CN-REG-0367",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 60 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with such laws as the Law of the People's Republic of China on the Protection of Minors, the Cybersecurity Law of the People's Republic of China and the Personal Information Protection Law of the People's Republic of China for the purpose of creating an online environment conducive to the physical and mental health of minors and protecting the lawful rights and interests of minors."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Work on the online protection of minors shall uphold the leadership of the Communist Party of China, be guided by the core socialist values, adhere to the principle of the best interests of minors, adapt to the patterns and characteristics of the physical and mental development of minors and of cyberspace, and be carried out through social co-governance."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The cyberspace administration of the State shall be responsible for coordinating work on the online protection of minors and shall, in accordance with its duties, do a good job in the online protection of minors.\nThe State departments for press and publication and for film and the relevant departments of the State Council for education, telecommunications, public security, civil affairs, culture and tourism, health, market regulation and radio and television shall, in accordance with their respective duties, do a good job in the online protection of minors.\nLocal people's governments at or above the county level and their relevant departments shall, in accordance with their respective duties, do a good job in the online protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The Communist Youth League, women's federations, trade unions, disabled persons' federations, committees for the care of the next generation, youth federations, student unions, young pioneers and other people's organisations, relevant social organisations and grassroots self-governing organisations of the masses shall assist the relevant departments in doing a good job in the online protection of minors and safeguard the lawful rights and interests of minors."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Schools and families shall educate and guide minors to take part in activities beneficial to their physical and mental health and to use the internet in a scientific, civilised, safe and reasonable manner, and shall prevent and intervene in minors' addiction to the internet."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Providers of network products and services, personal information handlers and manufacturers and sellers of smart terminal products shall comply with laws, administrative regulations and the relevant provisions of the State, respect social morality, observe business ethics, act in good faith, perform their obligations for the online protection of minors and bear social responsibility."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Providers of network products and services, personal information handlers and manufacturers and sellers of smart terminal products shall accept supervision by the government and society, cooperate with the relevant departments in carrying out supervision and inspection relating to the online protection of minors in accordance with law, establish convenient, reasonable and effective complaint and report channels, publish the channels and methods for complaints and reports in a conspicuous manner, and promptly accept and handle public complaints and reports."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Any organisation or individual that discovers a violation of these Regulations may lodge a complaint or report with the cyberspace administration, press and publication, film, education, telecommunications, public security, civil affairs, culture and tourism, health, market regulation, radio and television and other relevant departments. The department receiving the complaint or report shall promptly handle it in accordance with law; where the matter is not within the duties of that department, it shall promptly refer it to the department with the power to handle it."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Internet-related industry organisations shall strengthen industry self-discipline, formulate industry norms relating to the online protection of minors, guide their members in performing their obligations for the online protection of minors and strengthen the online protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The news media shall, through news reports, special columns (programmes), public service advertisements and other means, carry out publicity on the laws, regulations, policies and measures, typical cases and relevant knowledge relating to the online protection of minors, exercise public opinion supervision over acts infringing the lawful rights and interests of minors, and guide the whole of society to participate in the online protection of minors."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State encourages and supports the strengthening of scientific research and personnel training in the field of online protection of minors and the carrying out of international exchanges and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Organisations and individuals that make outstanding contributions to the online protection of minors shall be commended and rewarded in accordance with the relevant provisions of the State.\n​\nPromotion of Cyber Literacy"
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The education department of the State Council shall incorporate cyber literacy education into the content of quality education in schools and shall, together with the cyberspace administration of the State, formulate assessment indicators for the cyber literacy of minors.\nThe education departments shall guide and support schools in carrying out cyber literacy education for minors, focusing on the formation of cyber ethical awareness, the cultivation of the concept of the rule of law in cyberspace, the building of the ability to use the internet, and the protection of personal and property safety, so as to cultivate in minors cyber safety awareness, civility, behavioural habits and protective skills."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "People's governments at or above the county level shall make scientific plans and a rational layout, promote the balanced and coordinated development of public-interest internet access services, strengthen the construction of public cultural facilities providing public-interest internet access services, and improve the conditions for minors to access the internet.\nLocal people's governments at or above the county level shall provide students with quality cyber literacy education courses by such means as equipping primary and secondary schools with instructors with the corresponding professional competence, government procurement of services, or encouraging primary and secondary schools to purchase the relevant services themselves."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where schools, communities, libraries, cultural centres, youth palaces and other premises provide internet access facilities for minors, they shall, by such means as arranging professional personnel and recruiting volunteers and by installing online protection software for minors or adopting other safety protection technical measures, provide minors with guidance on internet use and a safe and healthy online environment."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Schools shall incorporate the improvement of students' cyber literacy into educational and teaching activities, use the internet reasonably in conducting educational and teaching activities, establish and improve management systems for students' internet use during school hours, lawfully and normatively manage the smart terminal products that minor students bring into schools, help students develop good internet habits, cultivate students' awareness of cyber safety and the rule of law in cyberspace, and enhance students' ability to obtain, analyse and judge online information."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Guardians of minors shall strengthen the building of family education, family teaching and family tradition, improve their own cyber literacy, regulate their own online behaviour, and strengthen the education, demonstration, guidance and supervision of minors' online behaviour."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State encourages and supports the research, development, production and use of online protection software, smart terminal products, minor modes, minor zones and other network technologies, products and services that are specifically targeted at minors and that adapt to the patterns and characteristics of the healthy physical and mental development of minors, strengthens the building and renovation of a barrier-free online environment, and helps minors broaden their horizons, cultivate their character and improve their quality."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Online protection software for minors and smart terminal products designed specifically for use by minors shall have functions such as effectively identifying illegal information and information that may affect the physical and mental health of minors, protecting the personal information rights and interests of minors, preventing minors from becoming addicted to the internet, and facilitating guardians in performing their guardianship duties.\nThe cyberspace administration of the State, together with the relevant departments of the State Council, shall, in light of the needs of the online protection of minors, clarify the relevant technical standards or requirements for online protection software for minors and smart terminal products designed specifically for use by minors, and guide and supervise internet-related industry organisations in assessing, in accordance with the relevant technical standards and requirements, the effectiveness of the use of online protection software for minors and smart terminal products designed specifically for use by minors.\nManufacturers of smart terminal products shall install online protection software for minors before the products leave the factory, or inform users of the installation channels and methods in a conspicuous manner. Sellers of smart terminal products shall, before sale, inform users in a conspicuous manner of the installation of online protection software for minors and the installation channels and methods.\nGuardians of minors shall reasonably use and guide minors in using online protection software, smart terminal products and the like, and create a favourable family environment for internet use."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Providers of online platform services whose number of minor users is huge or that have a significant impact on the group of minors shall perform the following obligations:\n(a) fully considering the characteristics of the healthy physical and mental development of minors in such stages as the design, research and development and operation of online platform services, and periodically carrying out impact assessments on the online protection of minors;\n(b) providing minor modes or minor zones and the like to facilitate minors' access to products or services on the platform that are beneficial to their physical and mental health;\n(c) establishing and improving a compliance system for the online protection of minors in accordance with the provisions of the State, and setting up an independent body composed mainly of external members to supervise the online protection of minors;\n(d) following the principles of openness, fairness and impartiality, formulating special platform rules, clarifying the obligations of providers of products or services on the platform for the online protection of minors, and prominently reminding minor users of the online protection rights they enjoy in accordance with law and the remedies available for infringement in cyberspace;\n(e) ceasing to provide services to providers of products or services on the platform that violate laws or administrative regulations and seriously infringe the physical and mental health of minors or otherwise infringe the lawful rights and interests of minors;\n(f) publishing a special social responsibility report on the online protection of minors each year and accepting public supervision.\nThe specific measures for identifying providers of online platform services whose number of minor users is huge or that have a significant impact on the group of minors as mentioned in the preceding paragraph shall be formulated separately by the cyberspace administration of the State together with the relevant departments.\n​\nRegulation of Online Information Content"
+        },
+        "noLabel": {
+          "en": "Article 20."
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State encourages and supports the production, reproduction, publication and dissemination of online information that carries forward the core socialist values and the advanced socialist culture, the revolutionary culture and the fine traditional Chinese culture, forges a strong sense of community for the Chinese nation, cultivates in minors patriotism and good moral character, and guides minors to develop good living habits and behavioural habits, so as to create a clean cyberspace and a sound online ecosystem conducive to the healthy growth of minors."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "No organisation or individual may produce, reproduce, publish or disseminate online information containing content that advocates obscenity, pornography, violence, cults, superstition, gambling, inducing self-mutilation or suicide, terrorism, secessionism, extremism or other content harmful to the physical and mental health of minors.\nNo organisation or individual may produce, reproduce, publish, disseminate or possess obscene and pornographic online information concerning minors."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where network products and services contain information that may induce minors to imitate unsafe behaviour, commit acts contrary to social morality, develop extreme emotions or acquire bad habits and that may otherwise affect the physical and mental health of minors, the organisations and individuals that produce, reproduce, publish or disseminate such information shall give a conspicuous reminder before the information is displayed.\nThe cyberspace administration of the State, together with the State departments for press and publication and for film and the departments of the State Council for education, telecommunications, public security, culture and tourism and radio and television, shall, on the basis of the provisions of the preceding paragraph, determine the specific types, scope, criteria for judgment and methods of reminder for information that may affect the physical and mental health of minors."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "No organisation or individual may produce, reproduce, publish or disseminate, in network products and services designed specifically for minors, the information that may affect the physical and mental health of minors as prescribed in paragraph 1 of Article 23 of these Regulations.\nProviders of network products and services may not present the information that may affect the physical and mental health of minors as prescribed in paragraph 1 of Article 23 of these Regulations in such key links as the home page and first screen, pop-up windows and trending searches that are in conspicuous positions of the products or services and are likely to attract users' attention.\nProviders of network products and services may not conduct commercial marketing to minors through automated decision-making."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "No organisation or individual may send or push to minors, or induce or compel minors to come into contact with, online information containing content that is harmful to or may affect the physical and mental health of minors."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "No organisation or individual may commit cyberbullying against minors in the form of text, images, audio or video through the internet, such as insulting, defaming, threatening or maliciously damaging the image of minors.\nProviders of network products and services shall establish and improve mechanisms for early warning and prevention, identification and monitoring, and handling of cyberbullying, set up functions and channels that facilitate minors and their guardians in preserving records of cyberbullying suffered and exercising the right to notify, and provide cyberbullying information protection options that facilitate minors in setting up blocking of unfamiliar users, the scope of visibility of information they publish, prohibition of reproduction of or comment on information they publish, and prohibition of sending information to them.\nProviders of network products and services shall establish and improve a feature database of cyberbullying information, optimise the relevant algorithm models, and strengthen the identification and monitoring of cyberbullying information by combining such technical means as artificial intelligence and big data with manual review."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "No organisation or individual may, through the internet and in the form of text, images, audio or video, organise, instigate, coerce, induce, deceive or assist minors in committing illegal or criminal acts."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Providers of online education network products and services targeted at minors shall, in accordance with laws, administrative regulations and the relevant provisions of the State, provide corresponding products and services according to the characteristics of the physical and mental development and the cognitive ability of minors of different age groups."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Providers of network products and services shall strengthen the management of information published by users, take effective measures to prevent the production, reproduction, publication and dissemination of information violating the provisions of Articles 22, 24, 25 and 27 and paragraph 1 of Article 26 of these Regulations and, upon discovering information violating the above provisions, shall immediately stop transmitting the relevant information, take such handling measures as deletion, blocking and disconnection of links to prevent the information from spreading, preserve the relevant records, report to the cyberspace administration, public security and other departments, and take such handling measures as warning, restriction of functions, suspension of services and closure of accounts against users that produce, reproduce, publish or disseminate such information.\nWhere a provider of network products and services discovers that information prescribed in paragraph 1 of Article 23 of these Regulations published or disseminated by a user has not been given a conspicuous reminder, it shall give a reminder or notify the user to give one; where no reminder is given, the information shall not be transmitted."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the cyberspace administration, press and publication and film departments of the State and the departments of the State Council for education, telecommunications, public security, culture and tourism and radio and television discover information violating the provisions of Articles 22, 24, 25 and 27 and paragraph 1 of Article 26 of these Regulations, or discover that information prescribed in paragraph 1 of Article 23 of these Regulations has not been given a conspicuous reminder, they shall require the providers of network products and services to handle it in accordance with the provisions of Article 29 of these Regulations; for such information originating from outside the territory, they shall, in accordance with law, notify the relevant institutions to take technical measures and other necessary measures to block its dissemination.\n​\nOnline Protection of Personal Information"
+        },
+        "noLabel": {
+          "en": "Article 30."
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a network service provider provides minors with services such as information publication and instant messaging, it shall, in accordance with law, require the minors or their guardians to provide the true identity information of the minors. Where the minors or their guardians do not provide the true identity information of the minors, the network service provider shall not provide the relevant services to the minors.\nProviders of live streaming services shall establish a dynamic verification mechanism for the true identity information of live streaming publishers and shall not provide live streaming publishing services to minor users that do not meet the circumstances prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Personal information handlers shall strictly comply with the provisions of the cyberspace administration of the State and the relevant departments on the scope of necessary personal information for network products and services, shall not compel minors or their guardians to consent to unnecessary personal information handling activities, and shall not refuse minors access to the basic function services on the ground that the minors or their guardians do not consent to the handling of unnecessary personal information of minors or have withdrawn their consent."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Guardians of minors shall educate and guide minors to enhance their awareness and ability to protect personal information, master the scope of personal information and understand the security risks of personal information, guide minors in exercising their rights to access, copy, correct, supplement and delete in personal information handling activities, and protect the personal information rights and interests of minors."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where minors or their guardians lawfully request access to, a copy of, correction of, supplementation of or deletion of the personal information of minors, the personal information handler shall comply with the following provisions:\n(a) providing convenient methods and channels to support minors or their guardians in accessing the types, quantity and other particulars of the personal information of minors, and not restricting reasonable requests of minors or their guardians;\n(b) providing convenient functions to support minors or their guardians in copying, correcting, supplementing and deleting the personal information of minors, and not setting unreasonable conditions;\n(c) promptly accepting and handling applications by minors or their guardians for access to, a copy of, correction of, supplementation of or deletion of the personal information of minors, and, where a request of minors or their guardians to exercise their rights is refused, informing the applicant in writing and explaining the reasons.\nFor a lawful request by minors or their guardians to transfer the personal information of minors, where the conditions prescribed by the cyberspace administration of the State are met, the personal information handler shall provide the channel for transfer."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the personal information of minors is disclosed, tampered with or lost, or may be disclosed, tampered with or lost, the personal information handler shall immediately activate the emergency response plan for personal information security incidents, take remedial measures, promptly report to the cyberspace administration and other departments, and, in accordance with the relevant provisions of the State, inform the affected minors and their guardians of the incident by such means as email, letter, telephone and information push.\nWhere it is difficult for the personal information handler to inform each person individually, it shall promptly release the relevant warning information by reasonable and effective means, unless otherwise provided by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Personal information handlers shall, on the principle of minimum authorisation, strictly set information access permissions in respect of their staff members and control the scope of knowledge of the personal information of minors. Where a staff member accesses the personal information of minors, it shall be subject to the approval of the relevant person in charge or the managerial personnel authorised by him, the access shall be recorded, and technical measures shall be taken to avoid unlawful handling of the personal information of minors."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Personal information handlers shall, on their own or by entrusting a professional institution, conduct a compliance audit each year of their handling of the personal information of minors in compliance with laws and administrative regulations, and promptly report the audit situation to the cyberspace administration and other departments."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a network service provider discovers private information of minors or private information contained in the personal information published online by minors, it shall promptly give a reminder and take such necessary protective measures as stopping transmission to prevent the information from spreading.\nWhere a network service provider discovers through private information of minors that a minor may be suffering infringement, it shall immediately take the necessary measures to preserve the relevant records and report to the public security organ.\n​\nPrevention and Control of Internet Addiction"
+        },
+        "noLabel": {
+          "en": "Article 38."
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The prevention of and intervention in minors' addiction to the internet shall comply with laws, administrative regulations and the relevant provisions of the State.\nThe departments for education, health and market regulation shall, in accordance with their respective duties, exercise supervision and administration over institutions engaged in activities for the prevention of and intervention in minors' addiction to the internet."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Schools shall strengthen the guidance and training of teachers and improve teachers' ability to identify at an early stage and intervene in minor students' addiction to the internet. For minor students showing a tendency to become addicted to the internet, schools shall promptly inform their guardians and, together with them, educate and guide the minor students and help them return to a normal study life."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Guardians of minors shall guide minors in using the internet safely and reasonably, pay attention to minors' internet use and the related physical conditions, psychological conditions and behavioural habits, prevent minors from coming into contact with online information that is harmful to or may affect their physical and mental health, reasonably arrange the time minors spend online, and prevent and intervene in minors' addiction to the internet."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Providers of network products and services shall establish and improve anti-addiction systems, shall not provide minors with products and services that induce addiction, shall promptly revise content, functions and rules that may cause minors to become addicted, and shall publish the situation of anti-addiction work to society each year and accept public supervision."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Providers of online games, live streaming, online audio and video, online social networking and other network services shall, in view of the characteristics of minors of different age groups in using their services, adhere to the principles of integration, friendliness, practicality and effectiveness, set up minor modes, provide corresponding services in respect of periods of use, duration, functions and content in accordance with the relevant provisions and standards of the State, and provide guardians, in a conspicuous and convenient manner, with functions such as time management, permission management and consumption management for the performance of their guardianship duties."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Providers of online games, live streaming, online audio and video, online social networking and other network services shall take measures to reasonably limit the amount of a single consumption and the cumulative daily consumption of minors of different age groups in using their services, and shall not provide minors with paid services inconsistent with their capacity for civil conduct."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Providers of online games, live streaming, online audio and video, online social networking and other network services shall take measures to guard against and resist such unhealthy value orientations as the supremacy of traffic, shall not set up online communities, groups or topics themed on fundraising for fan support, voting in rankings, or manipulating metrics and controlling comments, shall not induce minors to participate in online activities such as fundraising for fan support, voting in rankings, or manipulating metrics and controlling comments, and shall prevent and stop their users from inducing minors to commit the above acts."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Providers of online game services shall verify the true identity information of minor users through the unified electronic identity authentication system for minors' online games and other necessary means.\nProviders of network products and services shall not provide services for the renting or sale of game accounts to minors."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Providers of online game services shall establish and improve game rules for preventing minors from becoming addicted to the internet and prevent minors from coming into contact with game content or game functions that may affect their physical and mental health.\nProviders of online game services shall implement the age-appropriate reminder requirements, classify game products by assessing such elements as the type, content and functions of the game products according to the characteristics of the physical and mental development and the cognitive ability of minors of different age groups, clarify the age groups of minor users for which the game products are suitable, and give conspicuous reminders at such places as the interfaces for user download, registration and login."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The departments for press and publication, education, health, culture and tourism, radio and television and cyberspace administration shall periodically carry out publicity and education on the prevention of minors' addiction to the internet, supervise and inspect the performance by providers of network products and services of their obligations to prevent minors' addiction to the internet, and guide families, schools and social organisations to cooperate with each other and adopt scientific and reasonable methods to prevent and intervene in minors' addiction to the internet.\nThe department for press and publication of the State shall take the lead in organising work on the prevention and control of minors' addiction to online games and shall, together with the relevant departments, formulate administrative provisions on the periods, duration and consumption ceilings for the provision of online game services to minors.\nThe departments for health and education shall, in accordance with their respective duties, guide the relevant medical and health institutions, institutions of higher education and the like in carrying out basic research on mental disorders and psychological and behavioural problems caused by minors' addiction to the internet and applied research on screening, assessment, diagnosis, prevention and intervention."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "No organisation or individual may, by means of abuse, coercion or other means infringing the physical and mental health of minors, intervene in minors' addiction to the internet or infringe the lawful rights and interests of minors.\n​\nLegal Liability"
+        },
+        "noLabel": {
+          "en": "Article 49."
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a local people's government at any level or a relevant department at or above the county level violates the provisions of these Regulations and fails to perform its duties for the online protection of minors, the authority at the higher level shall order it to make rectification; where it refuses to make rectification or the circumstances are serious, disciplinary sanctions shall be given in accordance with law to the responsible leading personnel and directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a school, community, library, cultural centre, youth palace or the like violates the provisions of these Regulations and fails to perform its duties for the online protection of minors, the departments for education, culture and tourism and the like shall, in accordance with their respective duties, order it to make rectification; where it refuses to make rectification or the circumstances are serious, disciplinary sanctions shall be given in accordance with law to the responsible leading personnel and directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a guardian of a minor fails to perform the guardianship duties prescribed in these Regulations or infringes the lawful rights and interests of the minor, the residents' committee or villagers' committee of the place where the minor resides, the women's federation, the unit to which the guardian belongs, the primary or secondary school, the kindergarten or other units that come into close contact with minors shall, in accordance with law, give criticism and education, advise and dissuade, and urge the guardian to receive guidance on family education."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Whoever violates the provisions of Article 7, paragraph 3 of Article 19 or paragraph 2 of Article 38 of these Regulations shall be ordered to make rectification by the departments for cyberspace administration, press and publication, film, education, telecommunications, public security, civil affairs, culture and tourism, market regulation and radio and television in accordance with their respective duties; where the offender refuses to make rectification or the circumstances are serious, a fine of not less than RMB 50,000 and not more than RMB 500,000 shall be imposed, and a fine of not less than RMB 10,000 and not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Whoever violates the provisions of paragraph 1 of Article 20 of these Regulations shall be ordered to make rectification by the departments for cyberspace administration, press and publication, telecommunications, public security, culture and tourism and radio and television in accordance with their respective duties, be given a warning and have the illegal gains confiscated; where the offender refuses to make rectification, a fine of not more than RMB 1,000,000 shall also be imposed, and a fine of not less than RMB 10,000 and not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons.\nWhoever violates the provisions of items (a) and (e) of paragraph 1 of Article 20 of these Regulations and the circumstances are serious shall be ordered to make rectification by the departments for cyberspace administration, press and publication, telecommunications, public security, culture and tourism and radio and television at or above the provincial level in accordance with their respective duties, have the illegal gains confiscated, and be fined not more than RMB 50,000,000 or not more than 5 per cent of the turnover of the preceding year, and may be ordered to suspend the relevant business or suspend business for rectification, and the relevant departments shall be notified to revoke the relevant business licence or revoke the business licence in accordance with law; a fine of not less than RMB 100,000 and not more than RMB 1,000,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons, and it may be decided to prohibit them from serving as a director, supervisor, senior manager or person in charge of the protection of minors of the relevant enterprise within a certain period."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Whoever violates the provisions of Articles 24 and 25 of these Regulations shall be ordered to make rectification within a time limit by the departments for cyberspace administration, press and publication, film, telecommunications, public security, culture and tourism, market regulation and radio and television in accordance with their respective duties, be given a warning, have the illegal gains confiscated and may also be fined not more than RMB 100,000; where the offender refuses to make rectification or the circumstances are serious, it shall be ordered to suspend the relevant business, suspend production or business, or have the relevant business licence revoked or the business licence revoked, and where the illegal gains are not less than RMB 1,000,000, a fine of not less than one time and not more than ten times the illegal gains shall also be imposed, and where there are no illegal gains or the illegal gains are less than RMB 1,000,000, a fine of not less than RMB 100,000 and not more than RMB 1,000,000 shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Whoever violates the provisions of paragraphs 2 and 3 of Article 26, Article 28, paragraph 1 of Article 29, paragraph 2 of Article 31, Article 36, paragraph 1 of Article 38, Articles 42 to 45, paragraph 2 of Article 46 and Article 47 of these Regulations shall be ordered to make rectification by the departments for cyberspace administration, press and publication, film, education, telecommunications, public security, culture and tourism and radio and television in accordance with their respective duties, be given a warning and have the illegal gains confiscated, and where the illegal gains are not less than RMB 1,000,000, a fine of not less than one time and not more than ten times the illegal gains shall also be imposed, and where there are no illegal gains or the illegal gains are less than RMB 1,000,000, a fine of not less than RMB 100,000 and not more than RMB 1,000,000 shall also be imposed, and a fine of not less than RMB 10,000 and not more than RMB 100,000 shall be imposed on the directly responsible persons in charge and other directly responsible persons; where the offender refuses to make rectification or the circumstances are serious, it may also be ordered to suspend the relevant business, suspend business for rectification, close its website, or have the relevant business licence revoked or the business licence revoked."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a provider of network products and services violates the provisions of these Regulations and is penalised by closure of its website, revocation of the relevant business licence or revocation of the business licence, it may not reapply for the relevant licence within five years, and its directly responsible persons in charge and other directly responsible persons may not engage in the same type of network products and services business within five years."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Whoever violates the provisions of these Regulations and infringes the lawful rights and interests of minors, causing harm to minors, shall bear civil liability in accordance with law; where the act constitutes a violation of the administration of public security, a penalty for administration of public security shall be given in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law.\n​\nSupplementary Provisions"
+        },
+        "noLabel": {
+          "en": "Article 58."
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "For the purposes of these Regulations, smart terminal products mean network terminal products such as mobile phones and computers that can access the internet, have an operating system and are capable of having application software installed by users themselves."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2024."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0370'] = {
     "lawId": "CN-REG-0370",
     "sourceLang": "zh",
@@ -6963,6 +8154,729 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0374'] = {
+    "lawId": "CN-REG-0374",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 61 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the National Defence Law of the People's Republic of China and the Product Quality Law of the People's Republic of China for the purpose of strengthening supervision and administration of the quality of weapons and equipment and raising the quality level of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, weapons and equipment mean weapons, weapon systems and military technical equipment used for conducting and supporting military operations.\nThese Regulations apply to the quality management of weapons and equipment as well as computer software, special-purpose components, supporting products and raw materials used for weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The basic task of weapons and equipment quality management is to exercise control and supervision over the processes of formation, maintenance and restoration of the quality characteristics of weapons and equipment in accordance with the relevant laws and regulations so as to ensure that the performance of weapons and equipment meets the prescribed or expected requirements."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Units undertaking the demonstration, research and development, production, testing and maintenance of weapons and equipment shall establish and improve quality management systems, exercise effective quality management over the tasks of demonstration, research and development, production, testing and maintenance of weapons and equipment they undertake, and ensure that the quality of weapons and equipment meets the requirements."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The demonstration, research and development, production, testing and maintenance of weapons and equipment shall comply with military standards and other national standards, industry standards and enterprise standards that meet the quality requirements of weapons and equipment; the adoption of applicable international standards and advanced foreign standards is encouraged.\nUnits undertaking the research and development, production, testing and maintenance of weapons and equipment shall, in accordance with the metrology laws, regulations and other relevant provisions, implement metrological support and supervision to ensure the accuracy of the values of weapons and equipment and testing equipment and the uniformity of units of measurement."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Units undertaking the demonstration, research and development, production, testing and maintenance of weapons and equipment shall establish a quality information system and an information exchange system for weapons and equipment, promptly record, collect, analyse, report, feed back and exchange quality information on weapons and equipment, achieve the sharing of quality information resources, ensure the security of quality information and maintain confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent department for science, technology and industry for national defence of the State Council, the relevant departments of the State Council and the General Armaments Department of the Chinese People's Liberation Army (hereinafter referred to as the General Armaments Department) shall, within the scope of their respective duties, be responsible for the supervision and administration of the quality of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State encourages the adoption of advanced science and technology and management methods to improve the quality of weapons and equipment and shall commend and reward units and individuals that make outstanding contributions to ensuring and improving the quality of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The task of quality management in the demonstration of weapons and equipment is to ensure that the demonstration is scientific, reasonable and feasible and that the demonstration results meet the requirements of operational tasks.\nThe relevant equipment departments of the military shall organise the demonstration of weapons and equipment and be responsible for the quality of the demonstration."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Management in Demonstration"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Units demonstrating weapons and equipment shall formulate and implement demonstration working procedures and norms and exercise quality management over the demonstration process."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Management in Demonstration"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Units demonstrating weapons and equipment shall, according to the requirements of the demonstration task, take overall account of the performance of weapons and equipment (including such functional characteristics as reliability, maintainability, supportability, testability and safety, the same below), development schedule and costs, and put forward mutually coordinated qualitative and quantitative requirements for the performance of weapons and equipment, quality assurance requirements and support requirements."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Management in Demonstration"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Units demonstrating weapons and equipment shall solicit the opinions of the departments for operations, training and transport and the units undertaking research and development, production, testing, use and maintenance of weapons and equipment, confirm the various requirements and constraints, and incorporate them into the demonstration results."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Management in Demonstration"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Units demonstrating weapons and equipment shall carry out risk analysis of the demonstration results and put forward measures to reduce or control risks. The overall plan for the research and development of weapons and equipment shall give priority to mature technologies, and new technologies and key technologies adopted shall be subjected to testing or verification."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Management in Demonstration"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Units demonstrating weapons and equipment shall draw up several alternative overall plans for the research and development of weapons and equipment and put forward the preferred plan."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Management in Demonstration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The relevant equipment departments of the military shall, in accordance with the prescribed procedures, organise the departments for operations, training and transport and the units undertaking research and development, production, testing, use and maintenance of weapons and equipment to review the demonstration results of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Quality Management in Demonstration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The task of quality management in the research and development, production and testing of weapons and equipment is to ensure that the quality of weapons and equipment meets the general research and development requirements and the contract requirements.\nUnits undertaking the research and development and production of weapons and equipment shall be responsible for the quality of the weapons and equipment they research, develop and produce; units testing weapons and equipment shall be responsible for the correctness and accuracy of the testing conclusions they reach.\nEnterprises under central management shall exercise supervision and administration of the quality of the research, development and production of weapons and equipment undertaken by their subordinate units."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Contracts for the research and development and production of weapons and equipment shall expressly specify the performance indicators, quality assurance requirements, the standards on which they are based, acceptance criteria and methods, and the quality responsibilities of both parties to the contract."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the research and development and production of weapons and equipment involve several units, the quality assurance work shall be organised under the responsibility of the overall task unit or the general contracting unit."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall, in accordance with the contract requirements and the research, development and production procedures, formulate quality plans for the weapons and equipment research, development and production projects and incorporate them into the research, development and production plans and the condition support plans."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall apply such engineering technical methods as reliability, maintainability, supportability, testability and safety to optimise the design and support plans of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Units undertaking the research and development of weapons and equipment shall, on the premise of meeting the general research and development requirements and the contract requirements, give priority to mature technologies and to products that are generalised, serialised and modularised.\nUnits undertaking the research and development of weapons and equipment shall carry out full demonstration, testing and appraisal of new technologies, new materials and new processes adopted in the design plan, and complete the approval formalities in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Units undertaking the research and development of weapons and equipment shall implement engineering-based management of computer software development and carry out independent testing and evaluation of computer software that affects the performance and safety of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall strictly implement configuration management over the process of research, development and production of weapons and equipment. Changes in configuration shall be subject to the approval formalities in accordance with the provisions; changes in configuration that may affect the performance of weapons and equipment and the contract requirements shall be fully demonstrated and verified and approved by the original approving department."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall strictly implement the systems of design review, process review and product quality review. For products that are technologically complex and subject to high quality requirements, special reviews shall be carried out on reliability, maintainability, supportability, testability and safety as well as on computer software, components and raw materials."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The relevant equipment departments of the military shall, in accordance with the research and development procedures for weapons and equipment, organise stage-transition reviews, and may approve the transition to the next research and development stage only after confirming that the prescribed quality requirements have been met."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall implement the system of proofreading, examination and approval of drawings and technical materials, the system of countersignature by process and quality departments, and the system of standardisation review."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall prepare quality control documents for key parts or key characteristics, important parts or important characteristics, key processes and special processes, and shall carry out first-article appraisal of key parts and important parts."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Units undertaking the research and development, production and testing of weapons and equipment shall establish a system for the reporting, analysis and corrective action of faults. Corrective and preventive measures shall be promptly taken for faults occurring in the process of research, development, production and testing of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "When organising and implementing research and development tests, units undertaking the research and development of weapons and equipment shall prepare test outlines or test schemes, clarify the quality assurance requirements for testing, and exercise quality control over the testing process."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Units undertaking the type-approval testing of weapons and equipment shall, in accordance with the relevant provisions on the type approval of weapons and equipment, draw up test outlines, clarify the quality requirements for test items and the support conditions, exercise quality control over the testing process, and ensure that test data are true and accurate and that test conclusions are complete and correct.\nThe test equipment and the supporting testing instruments used by testing units shall meet the requirements for use and shall be periodically verified and calibrated in accordance with law so as to maintain a sound technical condition; single-use test equipment shall be verified and calibrated before testing."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The drawings and technical materials submitted for the design type-approval review of weapons and equipment shall be correct and complete, and the data in the test reports shall be comprehensive and accurate with clear conclusions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The drawings and technical materials submitted for the production type-approval review of weapons and equipment shall meet the prescribed requirements; the data in the test reports and the trial use reports of the armed forces shall be comprehensive and accurate with clear conclusions."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall be responsible for the quality of the products they purchase externally or have produced externally under contract, exercise strict control over the procurement process, assess and track the quality assurance capability of suppliers, and prepare a list of qualified suppliers. Products purchased externally or produced externally under contract that have not passed inspection may not be put into use."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The production of weapons and equipment shall meet the following requirements:\n(a) the process documents and quality control documents have been examined and approved;\n(b) the manufacturing, measuring and testing equipment and process devices have been verified or tested and found up to standard in accordance with law;\n(c) components, raw materials, externally contracted parts and finished parts have passed inspection;\n(d) the working environment meets the prescribed requirements;\n(e) operating personnel have been trained and have passed assessment;\n(f) other requirements prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall establish a product batch management system and a product identification system, strictly implement process control, and ensure the truthfulness and completeness of the original records of product quality."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall carry out incoming inspection, in-process inspection and final product inspection in accordance with the standards and procedural requirements; the prescribed inspection shall be carried out on first-article products; for items subject to military inspection, they shall be submitted for inspection to the military representatives dispatched by the military (hereinafter referred to as military representatives) in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall establish a system for handling nonconforming products."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Units undertaking the research and development and production of weapons and equipment shall apply statistical techniques to analyse process capability, improve process quality control and ensure the consistency and stability of product quality."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The weapons and equipment and the supporting equipment, spare parts and technical materials delivered by units undertaking the research and development and production of weapons and equipment shall have passed inspection; the technical materials delivered shall meet the requirements of user units for the use and maintenance of weapons and equipment. Before new types of weapons and equipment are delivered, the units undertaking their research and development and production shall also complete technical training for the user and maintenance units.\nMilitary representatives shall inspect and accept the delivered weapons and equipment and the supporting equipment, spare parts and technical materials in accordance with the contract and the technical requirements for acceptance, and shall supervise the implementation of technical training on the use and maintenance of new types of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "For weapons and equipment whose production is suspended, units undertaking the research and development and production shall file the drawings and technical materials in accordance with the provisions and keep them properly, and may not destroy them without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Quality Management in Research, Development, Production and Testing"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The task of quality management in the maintenance of weapons and equipment is to maintain and restore the performance of weapons and equipment.\nUnits maintaining weapons and equipment shall be responsible for the maintenance quality of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Management in Maintenance"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Units maintaining weapons and equipment shall implement the quality responsibility system, strictly implement the various rules and regulations, truthfully record the maintenance quality status of weapons and equipment, and promptly report quality problems found."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Management in Maintenance"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The relevant equipment departments of the military shall periodically organise quality assessments of weapons and equipment, promptly feed back quality problems of weapons and equipment to the units undertaking research and development, production and maintenance, and urge them to take corrective measures."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Management in Maintenance"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where units undertaking the research and development, production and maintenance of weapons and equipment find quality defects in weapons and equipment, they shall promptly and voluntarily notify the relevant equipment departments of the military and the units concerned, take corrective measures, resolve the quality problems of weapons and equipment and prevent the recurrence of similar quality defects."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Management in Maintenance"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Units undertaking the research and development, production and maintenance of weapons and equipment shall establish and improve the after-sale (after-repair) service support mechanism, organise after-sale (after-repair) technical services for weapons and equipment in accordance with the contract, promptly resolve quality problems arising after the delivery of weapons and equipment, assist user units of weapons and equipment in training technical backbones, and provide technical support for the decommissioning and scrapping of weapons and equipment.\nWhen troops carry out operations and major tasks, units undertaking the research and development, production and maintenance of weapons and equipment shall, in accordance with the requirements of laws and regulations, organise accompanying support and emergency maintenance support and assist the troops in maintaining and restoring the quality level of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Quality Management in Maintenance"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The competent department for science, technology and industry for national defence of the State Council and the General Armaments Department shall jointly organise certification of the quality management systems of units undertaking the tasks of research and development, production and maintenance of weapons and equipment, and certification of general-purpose parts (components), important components and raw materials used for weapons and equipment.\nThe competent department for science, technology and industry for national defence of the State Council and the General Armaments Department shall, within the scope of their respective duties, organise accreditation of weapons and equipment testing and calibration laboratories and qualification management of quality professionals.\nUnits that have not passed quality management system certification may not undertake the tasks of research and development, production and maintenance of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Supervision"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The military product type-approval body shall, in accordance with the relevant provisions of the State Council and the Central Military Commission, comprehensively assess the quality of new types of weapons and equipment and confirm that they meet the general research and development requirements and the quality requirements of the prescribed standards."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Supervision"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Military representatives shall, in accordance with the relevant provisions of the State Council and the Central Military Commission and the requirements of weapons and equipment contracts, supervise the quality and quality management work of the research and development, production and maintenance of weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Supervision"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The competent department for science, technology and industry for national defence of the State Council and the General Armaments Department shall, together with the relevant departments of the State Council, investigate and deal with illegal acts of manufacturing, selling and using counterfeit and shoddy products in the course of the research and development, production and maintenance of weapons and equipment. Provincial people's governments and their relevant departments shall actively cooperate in the investigation and handling work."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Supervision"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a quality accident occurs in the course of the demonstration, research and development, production, testing, use and maintenance of weapons and equipment, the unit concerned shall promptly report it to the competent department at the higher level and may not conceal it, make a false report or delay the report. The departments responsible for the supervision and administration of the quality of weapons and equipment shall promptly investigate and deal with major quality accidents."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Supervision"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Any unit or individual has the right to report acts violating these Regulations to the departments responsible for the supervision and administration of the quality of weapons and equipment and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Quality Supervision"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, practises fraud in the demonstration of weapons and equipment, or violates the working procedures for the demonstration of weapons and equipment, thereby causing serious consequences, shall be given sanctions in accordance with the relevant provisions against the directly responsible persons in charge and other directly responsible persons; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and any of the following circumstances exists, the competent department for science, technology and industry for national defence of the State Council and the relevant departments of the State Council shall impose penalties in accordance with the provisions of the relevant laws and regulations; for units of the military undertaking the research and development, production, testing and maintenance of weapons and equipment, the relevant departments of the military shall handle the matter in accordance with the relevant provisions:\n(a) major quality accidents of weapons and equipment are caused by poor management or dereliction of duty;\n(b) a major quality accident of weapons and equipment is concealed, falsely reported or reported late, thereby causing serious consequences;\n(c) false test data are issued in the testing of weapons and equipment, thereby causing serious consequences;\n(d) nonconforming weapons and equipment are delivered to the armed forces for use.\nWhere the illegal acts prescribed in the preceding paragraph are serious, the competent department for science, technology and industry for national defence of the State Council and the relevant departments of the military shall cancel in accordance with law the qualification of the unit for the research and development, production, testing and maintenance of weapons and equipment; where losses are caused, liability for compensation shall be borne in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, discloses secrets of weapons and equipment quality information shall be penalised by the competent department for science, technology and industry for national defence of the State Council and the relevant departments of the State Council in accordance with the provisions of such laws and regulations as the Law of the People's Republic of China on Guarding State Secrets; for units of the military undertaking the research and development, production, testing and maintenance of weapons and equipment, the relevant departments of the military shall handle the matter in accordance with the relevant provisions; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, obstructs or interferes with the supervision and administration of the quality of weapons and equipment, and the circumstances are serious, shall be penalised by the competent department for science, technology and industry for national defence of the State Council and the relevant departments of the State Council in accordance with the provisions of the relevant laws and regulations; for units of the military undertaking the research and development, production, testing and maintenance of weapons and equipment, the relevant departments of the military shall handle the matter in accordance with the relevant provisions; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, supplies components, raw materials and other products to units undertaking the research and development, production, testing and maintenance of weapons and equipment and passes off inferior goods as superior or fake goods as genuine shall be penalised by the competent department for science, technology and industry for national defence of the State Council and the relevant departments of the State Council in accordance with the provisions of such laws and regulations as the Product Quality Law of the People's Republic of China; where losses are caused, liability for compensation shall be borne in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a weapons and equipment quality inspection institution or certification institution maliciously colludes with a unit undertaking the research and development or production of weapons and equipment to practise fraud, or forges inspection or certification results or issues false certificates, its inspection or certification qualification shall be cancelled and the competent department for science, technology and industry for national defence of the State Council and the relevant departments of the State Council shall impose penalties in accordance with the relevant provisions of the Regulations of the People's Republic of China on Certification and Accreditation; for weapons and equipment quality inspection institutions or certification institutions of the military, the relevant departments of the military shall handle the matter in accordance with the relevant provisions; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where personnel supervising and administering the quality of weapons and equipment neglect their duties, abuse their powers or engage in malpractice for personal gain, sanctions shall be given in accordance with law by the unit to which they belong or by the competent department at the higher level; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Regulations shall be applied by reference to the quality management work of advanced research and special projects on weapons and equipment."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Regulations shall be applied by reference to the quality management work of weapons and equipment of the Chinese People's Armed Police Force and the militia."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "These Regulations shall come into force on 1 November 2010. The Regulations on the Administration of the Quality of Military Industrial Products, approved by the State Council and the Central Military Commission on 25 May 1987 and promulgated by the Commission for Science, Technology and Industry for National Defence on 5 June 1987, shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -10910,6 +12824,732 @@
     ]
   };
 
+  TR['CN-REG-0388'] = {
+    "lawId": "CN-REG-0388",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 61 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Decision of the Standing Committee of the National People's Congress on Strengthening Supervision over the Management of State-owned Assets for the purpose of strengthening the management and supervision of State-owned assets of administrative and public institutions, improving the State-owned assets management system and advancing the modernisation of the national governance system and governance capacity."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "State-owned assets of administrative and public institutions mean assets acquired or formed by administrative units and public institutions in the following ways:\n(a) assets formed by the use of fiscal funds;\n(b) assets formed through allocation or transfer or exchange;\n(c) assets accepted as donations and confirmed as State-owned;\n(d) other State-owned assets."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "State-owned assets of administrative and public institutions are owned by the State and are subject to a management system of graded supervision by governments and direct control by departments and their subordinate units."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at all levels shall establish and improve the management mechanism for State-owned assets of administrative and public institutions, strengthen the management of the State-owned assets of administrative and public institutions at the same level, and examine and approve major matters in the management of such assets."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The department for finance of the State Council shall be responsible for formulating the rules and regulations on the management of State-owned assets of administrative and public institutions, for organising their implementation, supervision and inspection, and shall take the lead in compiling reports on the management of State-owned assets of administrative and public institutions.\nThe department for government offices administration of the State Council and the relevant departments for offices administration shall, together with the relevant departments, perform in accordance with laws and regulations the duties relating to the management of State-owned assets of central administrative and public institutions, formulate specific systems and measures for the management of State-owned assets of central administrative and public institutions and organise their implementation, and accept the guidance, supervision and inspection of the department for finance of the State Council.\nThe relevant departments shall, in accordance with the provisions on duties and on the principles of centralised uniformity and graded classification, strengthen the management of State-owned assets of central administrative and public institutions, optimise management methods and improve management efficiency."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Each department shall, in accordance with its duties, be responsible for the management of the State-owned assets of the department and its subordinate units, shall clarify management responsibilities, and shall guide and supervise the management of State-owned assets by its subordinate units.\nThe units subordinate to each department shall be responsible for the specific management of the State-owned assets of administrative and public institutions of their own units and shall establish and improve internal control management systems."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In managing State-owned assets of administrative and public institutions, each department and its subordinate units shall follow the principles of safety and standardisation, economy and efficiency, openness and transparency, and consistency of powers and responsibilities, achieve the unity of physical management and value management, and combine asset management with budget management and financial management."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Each department and its subordinate units shall, in accordance with the needs of performing functions in accordance with law and of the development of undertakings, and in the light of the existing stock of assets, asset allocation standards, performance objectives and fiscal capacity, allocate assets."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Each department and its subordinate units shall reasonably choose the methods of asset allocation; major matters of asset allocation shall be subject to feasibility studies and collective decision-making, and assets of relatively high value shall be subject to asset appraisal in accordance with the relevant provisions of the State, and the approval procedures shall be completed.\nAsset allocation includes such methods as allocation, purchase, construction, leasing and acceptance of donations."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "People's governments at or above the county level shall organise the establishment and improvement of a system of asset allocation standards and clarify standards such as quantity, value, grade and minimum useful life.\nAsset allocation standards shall be adjusted in a timely manner in accordance with the requirements of diligence and economy, attention to performance and green environmental protection, and in the light of such factors as the relevant policies of the State, the level of economic and social development, changes in market prices and scientific and technological progress."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Each department and its subordinate units shall give priority to allocating assets by way of allocation. Where allocation is not possible, such methods as purchase, construction and leasing may be adopted."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State-owned assets of administrative units shall be used for the needs of the unit in performing its functions.\nUnless otherwise provided by law, administrative units may not use State-owned assets in any form for external investment or for establishing for-profit organisations."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State-owned assets of public institutions shall be used to safeguard the development of undertakings and the provision of public services."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Each department and its subordinate units shall strengthen the management of all types of State-owned assets of their units, such as fixed assets, construction in progress, current assets and intangible assets, clarify management responsibilities, standardise the procedures for use, strengthen the protection of property rights and promote the safe and effective use of the relevant assets."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Each department and its subordinate units shall clarify the post responsibilities of the users and managers of assets.\nUsers and managers of assets shall perform their post responsibilities, reasonably use and manage assets in accordance with the procedures and give full play to the effectiveness of the assets. Where assets need to be repaired, maintained, reallocated, renewed or scrapped, the users and managers of the assets shall put forward proposals promptly.\nWhere the users or managers of assets change, the formalities for the handover of assets shall be completed promptly."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Assets accepted as donations by each department and its subordinate units shall be used for the purposes agreed upon in the donation. Where the donor's intention is unclear or no purpose has been agreed upon, the assets shall be used under overall arrangements."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a public institution uses State-owned assets for external investment, it shall be conducive to the development of the undertaking and to maintaining and increasing the value of State-owned assets, shall conform to the relevant provisions of the State, and shall be carried out through feasibility studies and collective decision-making in accordance with the prescribed powers and procedures.\nPublic institutions shall clarify the management responsibilities for the equity formed by external investment and the related rights and interests, and shall, in accordance with the provisions, incorporate the equity formed by external investment into the system of centralised and unified supervision of operational State-owned assets."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall establish and improve the mechanism for the sharing and common use of State-owned assets, take measures to guide and encourage the sharing and common use of State-owned assets, and make overall plans to effectively advance the work of sharing and common use of State-owned assets.\nEach department and its subordinate units shall, on the premise of ensuring safe use, advance the sharing and common use of State-owned assets such as large-scale equipment of their units, and may give reasonable compensation to the provider."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Each department and its subordinate units shall, in accordance with the needs of performing functions and of the development of undertakings and the condition of use of assets, and after collective decision-making and completion of the approval procedures, promptly dispose of State-owned assets of administrative and public institutions on the basis of the replies and other relevant documents on the matters of disposal."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Each department and its subordinate units shall publicly auction assets confiscated in accordance with law in accordance with the provisions of the State or deal with them in accordance with the relevant provisions of the State, and the proceeds shall all be turned over to the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Each department and its subordinate units shall promptly scrap or report as loss the following assets:\n(a) assets that genuinely need to be eliminated for technical reasons or that cannot be repaired or are of no repair value;\n(b) assets involving inventory shortage, bad debts or abnormal losses;\n(c) assets that have exceeded their useful life and can no longer meet current work needs;\n(d) assets damaged or lost due to natural disasters or other force majeure."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a department or its subordinate unit is divided, merged, restructured or dissolved, or its subordinate relationship changes, or its functions or business are partially adjusted, it shall complete the formalities for the transfer and handover of the relevant State-owned assets in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The use and disposal by research and development institutions and institutions of higher education established by the State of the scientific and technological achievements they hold shall be governed by the Law of the People's Republic of China on Promoting the Transformation of Scientific and Technological Achievements, the Patent Law of the People's Republic of China and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Asset Allocation, Use and Disposal"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where each department and its subordinate units purchase, construct or lease assets, they shall put forward the demand for asset allocation, prepare the budget for expenditure relating to asset allocation, and allocate assets in strict accordance with the budget management provisions and the budget approved by the department for finance."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Management"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Income from the leasing and disposal of State-owned assets of administrative units shall be managed in accordance with the relevant provisions on government non-tax revenue and the system of centralised collection of the State Treasury.\nUnless otherwise provided by the State, income from the disposal of State-owned assets of public institutions shall be managed in accordance with the relevant provisions on government non-tax revenue and the system of centralised collection of the State Treasury.\nThe specific administrative measures for income formed from the use of State-owned assets of public institutions shall be prescribed by the department for finance of the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Management"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Each department and its subordinate units shall promptly collect all types of asset income and may not, in violation of the provisions of the State, over-collect, under-collect or fail to collect income, or misappropriate, privately divide, withhold, occupy, divert, conceal or spend revenue directly."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Management"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Each department and its subordinate units shall comprehensively, truthfully and accurately reflect in their final accounts the revenue and expenditure of their State-owned assets and the existing stock of their State-owned assets."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Management"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Each department and its subordinate units shall, in accordance with the provisions of the State, establish a performance management system for State-owned assets, establish and improve performance indicators and standards, and carry out performance management of State-owned assets in an orderly manner."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Management"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where people's governments at or above the county level invest in the construction of public infrastructure, they shall secure the sources of funds in accordance with law, strengthen budget constraints, guard against government debt risks and clarify the units responsible for the management and maintenance of the public infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Budget Management"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Each department and its subordinate units shall, in accordance with the provisions of the State, keep ledgers of State-owned assets of administrative and public institutions, conduct accounting in accordance with the uniform accounting system of the State, and may not create off-book assets."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where each department and its subordinate units allocate assets by way of construction, they shall promptly complete the formalities for the delivery of the assets after the construction project passes completion acceptance, and complete the financial final accounts of completion within the prescribed time limit, which shall not exceed one year at the longest.\nFor construction projects that have been delivered but for which the financial final accounts of completion have not been completed, each department and its subordinate units shall recognise the value of the assets in accordance with the uniform accounting system of the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For assets that cannot be recognised and entered in the accounts through accounting, each department and its subordinate units may, as needed, organise experts to conduct valuation by reference to asset appraisal methods and use it as the basis for reflecting the condition of the assets."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Each department and its subordinate units shall clarify the post responsibilities for the upkeep, maintenance and repair of assets. Where asset losses are caused by improper use or by failure to carry out upkeep, maintenance and repair in a timely manner, liability shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Each department and its subordinate units shall periodically or from time to time carry out stocktaking and account reconciliation of assets. Where inventory surplus or shortage of assets occurs, it shall be handled in accordance with the relevant provisions on financial, accounting and asset management systems so as to ensure that the accounts agree with the actual stock and that the accounts agree with each other."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "When each department and its subordinate units dispose of assets, they shall promptly write off the relevant ledger information of the assets and at the same time make the accounting treatment."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Unless otherwise provided by the State, where each department and its subordinate units transfer, auction, exchange or make external investment with State-owned assets of administrative and public institutions, they shall conduct asset appraisal in accordance with the relevant provisions of the State.\nWhere State-owned assets of administrative and public institutions are sold or leased by market-based means, the matter may, in accordance with the relevant provisions, be carried out through the corresponding public resource trading platforms."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "In any of the following circumstances, each department and its subordinate units shall carry out a verification of State-owned assets of administrative and public institutions:\n(a) as required by the deployment of the people's government at the same level;\n(b) where major asset allocation or transfer occurs, or the unit is divided, merged, restructured or dissolved, or its subordinate relationship changes;\n(c) where assets are damaged or lost due to natural disasters or other force majeure;\n(d) where accounting information is seriously distorted;\n(e) where major changes occur in the uniform accounting system of the State involving important changes in asset accounting methods;\n(f) other circumstances in which verification of assets should be carried out."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The results of asset verification of each department and its subordinate units and the matters involving asset verification shall be subject to the approval procedures in accordance with the provisions of the department for finance of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where, in the course of asset verification, each department and its subordinate units find that the accounts do not agree with the actual stock or that the accounts do not agree with each other, they shall ascertain the reasons and give an explanation, and shall complete the approval procedures together with the verification results. Each department and its subordinate units shall, on the basis of the approval results, promptly adjust the ledger information of the assets and at the same time make the accounting treatment.\nWhere assets are damaged or lost due to reasons attributable to the users or managers of the assets, the relevant liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Each department and its subordinate units shall complete in a timely manner and in accordance with law the registration of title for assets requiring such registration. For State-owned assets of administrative and public institutions that are recorded in the books but for which the title certificate formalities are incomplete, an application for confirmation of the title of the assets may be submitted to the relevant competent department of the people's government at the same level, and the title registration shall be completed promptly."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where asset disputes arise between departments and their subordinate units, or between departments and their subordinate units and other units and individuals, they shall be handled by such means as consultation in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The department for finance of the State Council shall establish a nationwide information system for the management of State-owned assets of administrative and public institutions, promote the online handling of asset management and achieve information sharing."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Basic Management"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The State establishes a system for reporting on the management of State-owned assets of administrative and public institutions.\nThe State Council shall report to the Standing Committee of the National People's Congress on the management of State-owned assets of administrative and public institutions nationwide.\nLocal people's governments at or above the county level shall, in accordance with the provisions, report to the standing committees of the people's congresses at the same level on the management of State-owned assets of administrative and public institutions."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Asset Reports"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The reports on the management of State-owned assets of administrative and public institutions shall mainly cover the total volume of assets and liabilities, the establishment and implementation of the relevant management systems, the allocation, use and disposal of assets and their effectiveness, and the advancement of reform of the management systems and mechanisms.\nThe management of State-owned assets of administrative and public institutions shall be made public in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Asset Reports"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The units subordinate to each department shall compile each year a report on the management of State-owned assets of administrative and public institutions of their own units and submit it to the relevant departments level by level.\nEach department shall compile a consolidated report on the management of State-owned assets of administrative and public institutions of the department and submit it to the department for finance of the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Asset Reports"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The departments for finance of local people's governments at or above the county level shall compile each year the management of State-owned assets of administrative and public institutions at the same level and at lower levels and submit it to the people's government at the same level and the department for finance of the people's government at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Asset Reports"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "People's governments at or above the county level shall accept the supervision by the people's congresses at the same level and their standing committees over the management of State-owned assets of administrative and public institutions, organise the implementation of the rectification requirements raised in the deliberations of the people's congresses at the same level and their standing committees, and report the rectification situation to the people's congresses at the same level and their standing committees.\nThe people's governments of townships, ethnic townships and towns shall accept the supervision by the people's congresses at the same level over the management of State-owned assets of administrative and public institutions."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "People's governments at or above the county level shall supervise the management of State-owned assets of administrative and public institutions by the governments at lower levels. The lower-level governments shall organise the implementation of the regulatory requirements raised by the governments at the next higher level and report the implementation situation to the governments at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The departments for finance of people's governments at or above the county level shall carry out supervision and inspection of the management of State-owned assets of administrative and public institutions by the departments at the same level and their subordinate units, and make the inspection results public in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The audit departments of people's governments at or above the county level shall carry out audit supervision of the management of State-owned assets of administrative and public institutions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Each department shall establish and improve the supervision and management system for State-owned assets of administrative and public institutions and, in accordance with its duties, supervise in accordance with law the management of State-owned assets of administrative and public institutions in its own industry.\nThe units subordinate to each department shall formulate internal control systems for State-owned assets of administrative and public institutions to prevent and control the risks in the management of such assets."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation discovers an act violating these Regulations, it has the right to report or complain to the relevant departments. The relevant department accepting the report or complaint shall deal with it in accordance with law and keep the reporter or complainant confidential.\nNo unit or individual may suppress or retaliate against a reporter or complainant."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where each department or its subordinate units commit any of the following acts, they shall be ordered to make rectification and, where the circumstances are relatively serious, the directly responsible persons in charge and other directly responsible persons shall be given sanctions in accordance with law:\n(a) allocating, using or disposing of State-owned assets without collective decision-making or completion of the approval procedures in accordance with the provisions;\n(b) allocating State-owned assets in excess of the standards;\n(c) failing to complete the formalities for the allocation, transfer, handover and the like of State-owned assets in accordance with the provisions;\n(d) failing to carry out the procedures for auction, reporting and disclosure of State-owned assets in accordance with the provisions;\n(e) failing to complete the financial final accounts of completion of construction projects within the prescribed time limit;\n(f) failing to carry out verification of State-owned assets in accordance with the provisions;\n(g) failing to keep ledgers of State-owned assets in accordance with the provisions;\n(h) failing to compile and submit reports on the management of State-owned assets in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where each department or its subordinate units commit any of the following acts, they shall be ordered to make rectification and, where there are illegal gains, the illegal gains shall be confiscated and, where the circumstances are relatively serious, the directly responsible persons in charge and other directly responsible persons shall be given sanctions in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law:\n(a) unlawfully possessing or using State-owned assets, or disposing of State-owned assets at a low price by such means as practising fraud;\n(b) using State-owned assets for external investment or for establishing for-profit organisations in violation of the provisions;\n(c) failing to appraise State-owned assets in accordance with the provisions, thereby causing losses to the interests of the State;\n(d) other acts violating the provisions of these Regulations and causing losses to State-owned assets."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where each department or its subordinate units violate the provisions on budget management in the management of State-owned assets, liability shall be pursued in accordance with such laws and administrative regulations as the Budget Law of the People's Republic of China and its implementing regulations and the Regulations on Penalties and Sanctions for Fiscal Illegal Acts."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where staff members of each department or its subordinate units abuse their powers, neglect their duties or engage in malpractice for personal gain in the management of State-owned assets, or commit such illegal or irregular acts as wasting State-owned assets, the relevant departments shall give sanctions in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Unless otherwise provided by the State, these Regulations shall apply to the management of State-owned assets of administrative and public institutions directly controlled by social organisations."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The management of State-owned assets of administrative and public institutions in monetary form shall be carried out in accordance with the relevant provisions on budget management.\nThese Regulations do not apply to the asset management of public institutions that apply enterprise financial and accounting systems, or of wholly-owned or controlling enterprises in which public institutions invest externally."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The specific measures for the management of such State-owned assets of administrative and public institutions as public infrastructure, government reserve materials and State-owned cultural relics and culture shall be formulated by the department for finance of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The management of State-owned assets of administrative and public institutions directly controlled by the Chinese People's Liberation Army and the Chinese People's Armed Police Force shall be carried out in accordance with the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "These Regulations shall come into force on 1 April 2021."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0389'] = {
     "lawId": "CN-REG-0389",
     "sourceLang": "zh",
@@ -12807,6 +15447,648 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0394'] = {
+    "lawId": "CN-REG-0394",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 54 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Law on the Prevention and Control of Infectious Diseases and the Law on Animal Epidemic Prevention for the purpose of preventing, controlling and eliminating schistosomiasis, safeguarding human health, animal health and public health, and promoting economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State applies to the prevention and control of schistosomiasis the policy of giving priority to prevention, and adheres to combining prevention with control, management by category, comprehensive treatment and joint prevention and control, the simultaneous prevention and control of human beings and livestock, and the strengthened management of sources of infection."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent health department of the State Council shall, together with the relevant departments of the State Council, formulate a national plan for the prevention and control of schistosomiasis and organise its implementation. The competent departments of the State Council for health, agriculture, water resources and forestry shall, in accordance with the duties prescribed by these Regulations and the national plan for the prevention and control of schistosomiasis, formulate special work plans for the prevention and control of schistosomiasis and organise their implementation.\nThe competent departments for health, agriculture or veterinary affairs, water resources and forestry of the local people's governments at or above the county level in areas with tasks of schistosomiasis prevention and control (hereinafter referred to as areas of schistosomiasis prevention and control) shall, in accordance with the duties prescribed by these Regulations, be responsible for the prevention and control of schistosomiasis and the supervision and management thereof within their own administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The local people's governments at or above the county level in areas of schistosomiasis prevention and control shall exercise unified leadership over the prevention and control of schistosomiasis within their own administrative areas; formulate plans for the prevention and control of schistosomiasis in their own administrative areas on the basis of the national plan and organise their implementation; establish and improve a coordination mechanism and a work responsibility system for schistosomiasis prevention and control; and conduct comprehensive coordination, assessment and supervision with respect to the prevention and control of schistosomiasis undertaken by the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The villagers' committees and residents' committees in areas of schistosomiasis prevention and control shall assist the local people's governments at various levels and their relevant departments in carrying out publicity and education on schistosomiasis prevention and control, and organise villagers and residents to participate in the work of schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages villagers and residents in areas of schistosomiasis prevention and control to take an active part in activities relating to schistosomiasis prevention and control, and encourages social organisations such as the Communist Youth League to mobilise young League members and others to take an active part in such activities.\nThe local people's governments at various levels and their relevant departments in areas of schistosomiasis prevention and control shall improve the relevant systems so as to facilitate the participation of units and individuals in publicity and education, donation and other activities relating to schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level and their relevant departments in areas of schistosomiasis prevention and control shall commend or reward the units and individuals that have achieved outstanding results in the work of schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Areas of schistosomiasis prevention and control shall, in accordance with the standards for the prevention and control of schistosomiasis, be divided into key areas of prevention and control and general areas of prevention and control. The specific measures shall be formulated by the competent health department of the State Council together with the competent agricultural department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The local people's governments at or above the county level and their relevant departments in areas of schistosomiasis prevention and control shall organise all types of news media to carry out public-interest publicity and education on schistosomiasis prevention and control. All types of news media shall carry out public-interest publicity and education on schistosomiasis prevention and control.\nThe competent education departments of the local people's governments at or above the county level in areas of schistosomiasis prevention and control shall organise schools of all levels and types to provide students with education on knowledge of schistosomiasis prevention and control. Schools of all levels and types shall provide students with education on knowledge of schistosomiasis prevention and control.\nState organs, public organisations, enterprises, institutions and individual economic organisations in areas of schistosomiasis prevention and control shall organise the personnel of their own units to study knowledge of schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The local people's governments of the various areas of schistosomiasis prevention and control situated in the same water system or the same relatively independent geographical environment shall carry out joint prevention and control of schistosomiasis and organise the relevant departments and institutions to implement simultaneously the following measures for the prevention and control of schistosomiasis:\n(a) adopting engineering measures relating to schistosomiasis prevention and control in agricultural, veterinary, water resources, forestry and other engineering projects;\n(b) conducting screening, treatment and management of schistosomiasis in human beings and livestock;\n(c) carrying out epidemiological investigation and epidemic monitoring;\n(d) investigating the distribution of Oncomelania snails and carrying out mollusciciding by chemical means;\n(e) preventing untreated excrement from directly entering water bodies;\n(f) other prevention and control measures."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The people's government at the county level in an area of schistosomiasis prevention and control shall formulate a plan for joint prevention and control of schistosomiasis for its own administrative area and organise the township (town) people's governments to implement it simultaneously.\nWhere two or more counties, cities not divided into districts, municipal districts, or two or more cities divided into districts in areas of schistosomiasis prevention and control need to implement measures for the prevention and control of schistosomiasis simultaneously, the common people's government at the next higher level shall formulate a plan for joint prevention and control of schistosomiasis and organise its implementation.\nWhere two or more provinces, autonomous regions or municipalities directly under the Central Government in areas of schistosomiasis prevention and control need to implement measures for the prevention and control of schistosomiasis simultaneously, the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government concerned shall jointly formulate a plan for joint prevention and control of schistosomiasis, submit it to the competent health and agricultural departments of the State Council for the record, and organise its implementation."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The implementation in areas of schistosomiasis prevention and control of agricultural, veterinary, water resources, forestry and other engineering projects and the conduct of schistosomiasis prevention and control work in human beings and livestock shall conform to the requirements of the relevant technical norms for schistosomiasis prevention and control. The relevant technical norms for schistosomiasis prevention and control shall be formulated separately by the competent departments of the State Council for health, agriculture, water resources and forestry."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The local people's governments at or above the county level in key areas of schistosomiasis prevention and control shall set up points at places where fishing vessels are concentrated and berthed to distribute basic preventive medicines against schistosomiasis; build public latrines in accordance with the requirements for harmless treatment and the technical norms for schistosomiasis prevention and control; and promote the installation and use of excrement collection containers on fishing vessels and on water transport means, and take measures to carry out centralised harmless treatment of the excrement collected."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The local people's governments at or above the county level and their relevant departments in key areas of schistosomiasis prevention and control shall make arrangements for, and organise the implementation of, projects for the promotion of agricultural mechanisation, the renovation of rural latrines, the construction of biogas digesters, and the construction of drinking water facilities for human beings and livestock.\nThe relevant competent departments of the State Council shall, when arranging projects for the promotion of agricultural mechanisation, the renovation of rural latrines, the construction of biogas digesters and the construction of drinking water facilities for human beings and livestock, give priority to the relevant projects in key areas of schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The competent health and agricultural departments of the local people's governments at or above the county level in areas of schistosomiasis prevention and control shall, when organising the implementation of projects for the renovation of rural latrines and the construction of biogas digesters, ensure, in accordance with the requirements for harmless treatment and the technical norms for schistosomiasis prevention and control, that latrines and biogas digesters have the function of killing schistosome eggs in excrement.\nPublic latrines in areas of schistosomiasis prevention and control shall have the function of killing schistosome eggs in excrement."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The competent agricultural departments of the people's governments at or above the county level in key areas of schistosomiasis prevention and control shall, in order to meet the needs of schistosomiasis prevention and control, guide and support the adjustment of the structure of agricultural planting, and promote measures to replace tillage by livestock with mechanised tillage.\nThe competent agricultural or veterinary departments of the people's governments at or above the county level in key areas of schistosomiasis prevention and control shall guide and support the adjustment of the structure of livestock and poultry breeding, promote the raising of livestock such as cattle, sheep and pigs in pens and enclosures, strengthen the harmless treatment of the excrement of livestock raised in enclosures, and carry out the examination of livestock for schistosomiasis and the treatment and disposal of livestock infected with schistosomes."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "It is prohibited to apply untreated excrement in areas of schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent water resources departments of the people's governments at or above the county level shall, when carrying out water conservancy construction projects in areas of schistosomiasis prevention and control, build facilities for the prevention and control of schistosomiasis simultaneously; and, in conjunction with water conservancy projects such as projects for the harnessing of rivers and lakes, drinking water for human beings and livestock and the improvement of irrigation districts in areas of schistosomiasis prevention and control, improve the water environment and prevent the breeding of Oncomelania snails."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The competent forestry departments of the people's governments at or above the county level in areas of schistosomiasis prevention and control shall carry out comprehensive prevention and control of schistosomiasis in conjunction with forestry projects such as the conversion of farmland to forest, the construction of the Yangtze River shelterbelt, the protection of wildlife and plants, wetland protection and the construction of nature reserves.\nThe competent communications departments of the people's governments at or above the county level in areas of schistosomiasis prevention and control shall carry out comprehensive prevention and control of schistosomiasis in conjunction with the construction of waterway projects."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The competent health department of the State Council shall, on the basis of epidemiological data on schistosomiasis, the distribution of Oncomelania snails and the characteristics of their breeding environment, and the properties of the chemicals, formulate work norms for mollusciciding by chemical means.\nThe people's government at the county level and its competent health department in an area of schistosomiasis prevention and control shall, in accordance with the work norms for mollusciciding by chemical means, organise the implementation of mollusciciding by chemical means within their own administrative area.\nThe township (town) people's government in an area of schistosomiasis prevention and control shall, seven days before the application of chemicals for mollusciciding, announce the time, place, type, method, scope of impact and matters needing attention in respect of the application. The units and individuals concerned shall cooperate.\nIt is strictly prohibited to use chemicals that are expressly prohibited by the State for mollusciciding."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The competent health department of the people's government at the county level in an area of schistosomiasis prevention and control shall, together with the competent departments for agriculture or veterinary affairs, water resources and forestry of the people's government at the same level and on the basis of epidemiological data such as schistosomiasis monitoring, delineate or alter snail-infested zones and submit the matter to the people's government at the same level for approval. The people's government at the county level shall promptly announce the snail-infested zones.\nIt is prohibited to graze livestock such as cattle, sheep and pigs in snail-infested zones, and it is prohibited to introduce reproductive materials such as the seeds and seedlings of plants such as reeds and of crops cultivated in snail-infested zones.\nThe township (town) people's government shall set up warning signs in snail-infested zones and shall remove them after the people's government at the county level makes a decision to lift the designation of the snail-infested zone. The township (town) people's government shall be responsible for protecting the warning signs, and the villagers' committees and residents' committees in the places where they are located shall assist. No unit or individual may damage or move warning signs without authorisation.\nAfter the completion of mollusciciding in a snail-infested zone, the authority that originally approved the designation shall decide to lift the prohibitions specified in paragraph 2 of this Article and make a public announcement thereof."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Medical institutions, disease prevention and control institutions, animal epidemic prevention supervision institutions and plant quarantine institutions shall, in accordance with the technical norms for schistosomiasis prevention and control and within the scope of their respective duties, carry out the monitoring, screening, forecasting, epidemiological investigation, epidemic reporting and handling of schistosomiasis, and carry out mollusciciding, technical guidance on schistosomiasis prevention and control and other prevention and control work.\nMedical institutions, disease prevention and control institutions, animal epidemic prevention supervision institutions and plant quarantine institutions in areas of schistosomiasis prevention and control shall regularly train and assess their staff in the knowledge and skills of schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a construction unit builds large or medium-sized construction projects such as water conservancy, communications, tourism and energy projects in an area of schistosomiasis prevention and control, it shall, in advance, request a disease prevention and control institution at or above the provincial level to conduct a sanitary investigation of the construction environment, and shall, in accordance with the opinions of the disease prevention and control institution, take the necessary measures for the prevention and control of schistosomiasis. During construction, the construction unit shall assign specially designated persons to be responsible for schistosomiasis prevention and control at the construction site; after completion of the project, it shall notify the local disease prevention and control institution at the county level, which shall monitor schistosomiasis in that area."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The local people's governments at or above the county level in areas of schistosomiasis prevention and control shall, in accordance with the relevant laws, administrative regulations and provisions of the State and in light of local actual circumstances, formulate contingency plans for schistosomiasis."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Control"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "During an outbreak or epidemic of acute schistosomiasis, the local people's governments at or above the county level shall, in light of the needs of controlling the outbreak or epidemic of acute schistosomiasis and in accordance with the provisions of the Law on the Prevention and Control of Infectious Diseases and other relevant laws, take emergency measures and carry out the following emergency handling:\n(a) organising medical institutions to treat patients with acute schistosomiasis;\n(b) organising disease prevention and control institutions and animal epidemic prevention supervision institutions to administer preventive medication respectively to human beings and livestock that have come into contact with infected water;\n(c) organising the relevant departments and units to carry out mollusciciding and to treat infected water;\n(d) organising the township (town) people's governments to set up warning signs in snail-infested zones and to prohibit human beings and livestock from coming into contact with infected water."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Control"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a disease prevention and control institution discovers an epidemic situation of acute schistosomiasis or receives a report of an outbreak or epidemic of acute schistosomiasis, it shall promptly take the following measures:\n(a) conduct an on-site epidemiological investigation;\n(b) put forward a plan for controlling the epidemic, specifying the extent of the snail-infested zones, the scope of human beings and livestock to receive preventive medication, and the measures to be taken for mollusciciding and for the treatment of infected water;\n(c) guide medical institutions and disease prevention and control institutions at lower levels in handling the epidemic;\n(d) other measures required by the competent health department."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Control"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "With respect to persons who must come into contact with infected water because of production or work, the units concerned shall, in accordance with the requirements of the disease prevention and control institutions, take protective measures and regularly organise special physical examinations for schistosomiasis.\nWith respect to persons who must come into contact with infected water because of flood prevention and flood-fighting and emergency rescue, the local people's governments at various levels and their relevant departments in areas of schistosomiasis prevention and control shall, in accordance with the requirements of the disease prevention and control institutions, take protective measures. The people's government at the county level in an area of schistosomiasis prevention and control shall, with respect to persons participating in flood prevention and flood-fighting and emergency rescue, promptly organise the relevant departments and institutions to conduct special physical examinations for schistosomiasis."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Control"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The competent departments for health, agriculture or veterinary affairs of the local people's governments at or above the county level in areas of schistosomiasis prevention and control shall, in accordance with the technical norms for schistosomiasis prevention and control, organise the screening, treatment and preventive medication of local villagers, residents and the floating population for schistosomiasis and of livestock for schistosomiasis.\nThe people's governments of the provinces, autonomous regions and municipalities directly under the Central Government in areas of schistosomiasis prevention and control shall take measures and organise the treatment of patients with advanced schistosomiasis."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Control"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The animal epidemic prevention supervision institutions and plant quarantine institutions in areas of schistosomiasis prevention and control shall strengthen quarantine of livestock and plants for schistosomiasis within their own administrative areas. The animal epidemic prevention supervision institutions shall, with respect to livestock found upon quarantine to be suffering from schistosomiasis, carry out medical treatment; the plant quarantine institutions shall, with respect to plants found to carry Oncomelania snails, carry out mollusciciding.\nNo livestock suffering from schistosomiasis, plants carrying Oncomelania snails, or livestock or plants that have not been quarantined in areas of schistosomiasis prevention and control may be sold or transported out."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Control"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The reporting, notification and publication of information on schistosomiasis epidemics shall be governed by the relevant provisions of the Law on the Prevention and Control of Infectious Diseases and the Law on Animal Epidemic Prevention."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Epidemic Control"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The local people's governments at or above the county level in areas of schistosomiasis prevention and control shall, in accordance with the plans and programmes for schistosomiasis prevention and control, allocate funds for schistosomiasis prevention and control and investment in capital construction and include them in the fiscal budget at the same level.\nThe people's governments of the provinces, autonomous regions and municipalities directly under the Central Government and the people's governments of cities divided into districts shall, in light of the needs of schistosomiasis prevention and control, give appropriate subsidies to the people's governments at the county level that have economic difficulties in carrying out schistosomiasis prevention and control.\nThe State shall give appropriate subsidies for funds for schistosomiasis prevention and control and for funds for emergency handling of major schistosomiasis epidemics in areas with economic difficulties, and shall give the necessary support for the capital construction of institutions undertaking the task of schistosomiasis prevention and control and for major inter-regional schistosomiasis prevention and control projects."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Guarantee Measures"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the local people's governments at or above the county level in areas of schistosomiasis prevention and control formulate or approve agricultural, veterinary, water resources, forestry and other engineering projects in such areas, they shall incorporate the engineering measures relating to schistosomiasis prevention and control into the overall arrangements for the projects."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Guarantee Measures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State provides basic preventive medicines against schistosomiasis to farmers free of charge, and reduces or exempts the expenses of treatment for schistosomiasis of farmers with economic difficulties.\nWhere a person is infected with schistosomes because of work, he shall enjoy work-related injury benefits in accordance with the provisions of the Regulations on Work-Related Injury Insurance. A patient with schistosomiasis who participates in the basic medical insurance for urban employees and whose case is not a work-related injury shall enjoy medical insurance benefits in accordance with the provisions of the State. With respect to persons who do not participate in work-related injury insurance or medical insurance and who contract schistosomiasis because of flood prevention and flood-fighting and emergency rescue, the expenses for examination and treatment required shall be settled in accordance with the provisions of the people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Guarantee Measures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The civil affairs departments and medical security departments of the local people's governments at or above the county level in areas of schistosomiasis prevention and control shall provide assistance to patients with schistosomiasis who meet the conditions for assistance."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Guarantee Measures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State provides examination and treatment for schistosomiasis in livestock free of charge, and provides basic preventive medicines against schistosomiasis free of charge."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Guarantee Measures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The local people's governments at or above the county level in areas of schistosomiasis prevention and control shall, in light of the needs of schistosomiasis prevention and control and the trend of schistosomiasis prevalence, keep reserves of medicines for schistosomiasis prevention and control, chemicals for mollusciciding and the relevant protective articles."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Guarantee Measures"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The local people's governments at or above the county level in areas of schistosomiasis prevention and control shall strengthen the building of the network for schistosomiasis prevention and control and include in their capital construction plans the investment in capital construction required by the institutions undertaking the task of schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Guarantee Measures"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "When formulating and implementing plans for schistosomiasis prevention and control for their own administrative areas, the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government in areas of schistosomiasis prevention and control shall make overall coordination of schistosomiasis prevention and control projects and funds so as to ensure that the comprehensive benefits of such projects are achieved.\nFunds for schistosomiasis prevention and control shall be used exclusively for the designated purposes, and it is strictly prohibited to withhold them or to divert them to other uses. It is strictly prohibited to buy and sell at speculative prices or to misappropriate medicines and other articles for the prevention and control of schistosomiasis supplied free of charge by the State. The units concerned shall, in accordance with law, accept audit supervision by audit institutions in respect of their use of funds for schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Guarantee Measures"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The competent health departments of the people's governments at or above the county level shall be responsible for the management of the monitoring, prevention, control and treatment of schistosomiasis and of epidemic situations, and shall supervise and inspect the use of chemicals for mollusciciding."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The competent agricultural or veterinary departments of the people's governments at or above the county level shall supervise and inspect the following matters:\n(a) the implementation of the measures for the prevention and control of schistosomiasis specified in Article 16 of these Regulations;\n(b) the conduct of the monitoring, prevention, control and treatment of schistosomiasis in livestock and of the management of epidemic situations;\n(c) the management and use of medicines for the treatment of schistosomiasis in livestock;\n(d) the implementation of the technical norms for schistosomiasis prevention and control in agricultural engineering projects."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent water resources departments of the people's governments at or above the county level shall supervise and inspect the implementation of the measures for the prevention and control of schistosomiasis specified in Article 18 of these Regulations and the implementation of the technical norms for schistosomiasis prevention and control in water conservancy projects."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The competent forestry departments of the people's governments at or above the county level shall supervise and inspect the implementation of forestry projects in areas of schistosomiasis prevention and control and the implementation of the technical norms for schistosomiasis prevention and control in forestry projects."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in the course of supervision and inspection, the competent departments for health, agriculture or veterinary affairs, water resources and forestry of the people's governments at or above the county level find any violation of, or failure to comply with, the provisions of these Regulations, they shall order the units and individuals concerned to make correction promptly and handle the matter in accordance with law; where the matter falls within the scope of the duties of another department, they shall refer it to the department with supervisory and management duties for handling in accordance with law; and where the matter involves the duties of several departments, they shall handle it jointly."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "When performing their duties of supervising and inspecting schistosomiasis prevention and control, the competent departments for health, agriculture or veterinary affairs, water resources and forestry of the people's governments at or above the county level shall have the right to enter the units under inspection and the sites where schistosomiasis epidemics occur in order to investigate and collect evidence, consult and copy the relevant materials and collect samples. The units under inspection shall cooperate and may not refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The animal epidemic prevention supervision institutions at or above the county level in areas of schistosomiasis prevention and control shall have the right to temporarily seize livestock such as cattle, sheep and pigs grazed in snail-infested zones and to subject them to compulsory quarantine."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a competent department at a higher level finds that a competent department at a lower level has failed to promptly handle a matter within the scope of its duties in accordance with the provisions of these Regulations, it shall order rectification, or shall directly handle the matter that the competent department at the lower level has failed to handle promptly."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a local people's government at or above the county level falls under any of the following circumstances, the people's government at a higher level shall order it to make rectification and circulate a notice of criticism; where the spread or epidemic of schistosomiasis or other serious consequences result, administrative sanctions shall be imposed in accordance with law on the person in charge who is responsible; and where the person in charge who is responsible commits a crime, criminal liability shall be investigated in accordance with law:\n(a) failing to carry out joint prevention and control of schistosomiasis in accordance with the provisions of these Regulations;\n(b) failing, during an outbreak or epidemic of acute schistosomiasis, to take emergency measures and carry out emergency handling in accordance with the provisions of these Regulations;\n(c) failing to perform its duties of organising, leading and providing support for schistosomiasis prevention and control;\n(d) failing to take other measures for the prevention and control of schistosomiasis in accordance with the provisions of these Regulations.\nWhere a township (town) people's government fails to take measures for the prevention and control of schistosomiasis in accordance with the provisions of these Regulations, the people's government at a higher level shall order it to make rectification and circulate a notice of criticism; where the spread or epidemic of schistosomiasis or other serious consequences result, administrative sanctions shall be imposed in accordance with law on the person in charge who is responsible; and where the person in charge who is responsible commits a crime, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a relevant competent department of a people's government at or above the county level violates the provisions of these Regulations and falls under any of the following circumstances, the people's government at the same level or the relevant competent department of the people's government at a higher level shall order it to make rectification and circulate a notice of criticism; where the spread or epidemic of schistosomiasis or other serious consequences result, administrative sanctions shall be imposed in accordance with law on the person in charge who is responsible and other persons directly responsible; and where the person in charge who is responsible or another person directly responsible commits a crime, criminal liability shall be investigated in accordance with law:\n(a) failing, when organising the implementation of projects for the renovation of rural latrines and the construction of biogas digesters, to ensure in accordance with the requirements for harmless treatment and the technical norms for schistosomiasis prevention and control that the latrines or biogas digesters have the function of killing schistosome eggs in excrement;\n(b) failing to carry out the examination of livestock for schistosomiasis in key areas of schistosomiasis prevention and control, or failing to treat or dispose of livestock infected with schistosomes;\n(c) failing, when carrying out water conservancy construction projects in areas of schistosomiasis prevention and control, to build facilities for the prevention and control of schistosomiasis simultaneously, or failing to improve the water environment in conjunction with water conservancy projects such as projects for the harnessing of rivers and lakes, drinking water for human beings and livestock and the improvement of irrigation districts in such areas, thereby causing the breeding of Oncomelania snails;\n(d) failing to carry out comprehensive prevention and control of schistosomiasis in areas of schistosomiasis prevention and control in conjunction with forestry projects such as the conversion of farmland to forest, the construction of the Yangtze River shelterbelt, the protection of wildlife and plants, wetland protection and the construction of nature reserves;\n(e) failing to formulate norms for mollusciciding by chemical means, or failing to organise the implementation of mollusciciding by chemical means within its own administrative area;\n(f) failing to organise the screening and treatment of schistosomiasis and the administration of preventive medication;\n(g) failing to perform its duties of supervision and management in accordance with the provisions of these Regulations, or failing to promptly investigate and punish illegal acts discovered;\n(h) committing other acts of dereliction of duty or misconduct in office in violation of the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a medical institution, a disease prevention and control institution, an animal epidemic prevention supervision institution or a plant quarantine institution violates the provisions of these Regulations and falls under any of the following circumstances, the competent health department or the competent agricultural or veterinary department of the people's government at or above the county level shall, in accordance with their respective duties, order it to make correction within a specified time limit, circulate a notice of criticism and give it a warning; where it fails to make correction within the time limit and the spread or epidemic of schistosomiasis or other serious consequences result, sanctions of demotion, removal from office or discharge shall be imposed in accordance with law on the person in charge who is responsible and other persons directly responsible, and the practising certificates of the persons responsible may be revoked in accordance with law; and where the person in charge who is responsible or another person directly responsible commits a crime, criminal liability shall be investigated in accordance with law:\n(a) failing to carry out the work of schistosomiasis prevention and control in accordance with the provisions of these Regulations;\n(b) failing to regularly train and assess its staff in the knowledge and skills of schistosomiasis prevention and control;\n(c) failing to promptly take measures upon discovering an epidemic situation of acute schistosomiasis or receiving a report of an outbreak or epidemic of acute schistosomiasis;\n(d) failing to quarantine livestock or plants sold or transported out of its own administrative area for schistosomiasis;\n(e) failing to carry out medical treatment of livestock found upon quarantine to be suffering from schistosomiasis, or failing to carry out mollusciciding on plants found to carry Oncomelania snails."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a construction unit builds large or medium-sized construction projects such as water conservancy, communications, tourism and energy projects in an area of schistosomiasis prevention and control without, in advance, requesting a disease prevention and control institution at or above the provincial level to conduct a sanitary investigation, or without, in accordance with the opinions of the disease prevention and control institution, taking the necessary measures for the prevention and control of schistosomiasis, the competent health department of the people's government at or above the county level shall order it to make correction within a specified time limit and give it a warning, and shall impose a fine of not less than RMB 5,000 but not more than RMB 30,000; where it fails to make correction within the time limit, a fine of not less than RMB 30,000 but not more than RMB 100,000 shall be imposed, and it may request the relevant people's government to order the suspension of construction or closure in accordance with its duties and powers; and where the spread of a schistosomiasis epidemic or other serious consequences result, sanctions shall be imposed in accordance with law on the person in charge who is responsible and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a unit or individual damages or moves without authorisation a warning sign in a snail-infested zone, the township (town) people's government shall order it or him to repair it or compensate for the loss and give a warning; where the circumstances are serious, a fine of not less than RMB 1,000 but not more than RMB 3,000 shall be imposed on the unit, and a fine of not less than RMB 50 but not more than RMB 200 shall be imposed on the individual."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where any of the following circumstances in violation of the provisions of these Regulations exists, the competent departments for health, agriculture or veterinary affairs, water resources and forestry of the people's government at or above the county level shall, in accordance with their respective duties, order correction, give a warning, impose a fine of not less than RMB 1,000 but not more than RMB 10,000 on the unit and a fine of not less than RMB 50 but not more than RMB 500 on the individual, and confiscate the tools and articles used in the illegal activity; where the spread of a schistosomiasis epidemic or other serious consequences result, sanctions shall be imposed in accordance with law on the person in charge who is responsible and other persons directly responsible:\n(a) a unit failing to take protective measures in accordance with the provisions of these Regulations with respect to persons who must come into contact with infected water because of production or work, or failing to regularly organise special physical examinations for schistosomiasis;\n(b) failing to cooperate with the preventive and control measures taken by the relevant government departments;\n(c) using chemicals that are expressly prohibited by the State for mollusciciding;\n(d) introducing reproductive materials such as the seeds and seedlings of plants such as reeds and of crops cultivated in snail-infested zones;\n(e) applying untreated excrement in areas of schistosomiasis prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The following terms used in these Regulations have the meanings given below:\nSchistosomiasis means a parasitic disease in which schistosomes parasitise the human body or the body of a mammal and cause the host to fall ill.\nInfected water means a body of water containing schistosome cercariae."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2006."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -14763,6 +18045,1986 @@
         },
         "noLabel": {
           "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0399'] = {
+    "lawId": "CN-REG-0399",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 57 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Law of the People's Republic of China on the Prevention and Control of Infectious Diseases and the Law of the People's Republic of China on the Prevention and Control of Environmental Pollution by Solid Waste, in order to strengthen the safety management of medical waste, prevent the spread of disease, protect the environment and safeguard human health."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"medical waste\" means waste generated by medical and health institutions in medical treatment, prevention, health care and other related activities that is directly or indirectly infectious, toxic or otherwise harmful.\nThe catalogue for the classification of medical waste shall be jointly formulated and published by the competent health administrative department and the competent environmental protection administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "These Regulations apply to activities such as the collection, transport, storage and disposal of medical waste, as well as supervision and management.\nDomestic refuse generated by patients with infectious diseases or suspected patients with infectious diseases admitted to medical and health institutions shall be managed and disposed of as medical waste.\nThe management of waste from narcotic, psychotropic, radioactive and toxic drugs discarded by medical and health institutions and of related waste shall be governed by the relevant laws, administrative regulations and the relevant provisions and standards of the State."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State promotes the centralised and harmless disposal of medical waste, and encourages research into and development of technologies for the safe disposal of medical waste.\nLocal people's governments at or above the county level shall be responsible for organising the construction of centralised medical waste disposal facilities.\nThe State shall give appropriate support to the construction of centralised medical waste disposal facilities in remote and poverty-stricken areas."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent health administrative departments of people's governments at or above the county level shall exercise unified supervision and management over disease prevention and control in the collection, transport, storage and disposal of medical waste; the competent environmental protection administrative departments shall exercise unified supervision and management over the prevention and control of environmental pollution in the collection, transport, storage and disposal of medical waste.\nOther relevant departments of people's governments at or above the county level shall, within the scope of their respective duties, be responsible for supervision and management relating to medical waste disposal."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "All units and individuals have the right to report, complain about, tip off against and accuse medical and health institutions, centralised medical waste disposal units, supervision and management departments and their staff of illegal acts."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Medical and health institutions and centralised medical waste disposal units shall establish and improve responsibility systems for medical waste management, with their legal representatives as the first responsible persons, and shall earnestly perform their duties to prevent accidents of infectious disease transmission and environmental pollution caused by medical waste."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Medical and health institutions and centralised medical waste disposal units shall formulate rules and regulations relating to the safe disposal of medical waste and contingency plans for accidents; and shall set up a monitoring department or full-time (part-time) personnel to be responsible for inspecting, urging and implementing the medical waste management work of the unit, so as to prevent the occurrence of acts in violation of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Medical and health institutions and centralised medical waste disposal units shall provide training in the relevant laws, professional techniques, safety protection and emergency handling to the personnel and managerial staff of the unit engaged in the collection, transport, storage and disposal of medical waste."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Medical and health institutions and centralised medical waste disposal units shall adopt effective occupational health protection measures, provide the personnel and managerial staff engaged in the collection, transport, storage and disposal of medical waste with the necessary protective equipment, and conduct regular health examinations; where necessary, the personnel concerned shall be vaccinated so as to prevent harm to their health."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Medical and health institutions and centralised medical waste disposal units shall implement the manifest management system for the transfer of hazardous waste in accordance with the provisions of the Law of the People's Republic of China on the Prevention and Control of Environmental Pollution by Solid Waste."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Medical and health institutions and centralised medical waste disposal units shall register medical waste, and the registration shall include such items as the source, type, weight or quantity, time of handover, disposal method and final destination of the medical waste, and the signature of the person handling it. Registration records shall be kept for at least 3 years."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Medical and health institutions and centralised medical waste disposal units shall adopt effective measures to prevent the loss, leakage and spreading of medical waste.\nWhere medical waste is lost, leaks or spreads, the medical and health institution and the centralised medical waste disposal unit shall adopt emergency handling measures to reduce harm, provide medical aid and on-site rescue to affected persons, report simultaneously to the competent health administrative department and the competent environmental protection administrative department of the local people's government at the county level, and notify units and residents that may be harmed."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "All units and individuals are prohibited from transferring or trading in medical waste.\nIt is prohibited to discard medical waste in the course of transport; and it is prohibited to dump or pile up medical waste at locations other than storage sites, or to mix medical waste with other waste or domestic refuse."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "It is prohibited to send medical waste by post.\nIt is prohibited to transport medical waste by railway or by air.\nWhere a land route is available, it is prohibited to transport medical waste by water; where no land route is available and medical waste must be transported by water, it may be transported by water only after approval by the competent environmental protection administrative department of the people's government at or above the level of a city divided into districts and after strict environmental protection measures have been taken.\nIt is prohibited to carry medical waste on the same means of transport as passengers.\nIt is prohibited to transport medical waste on water bodies in drinking water source protection areas."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II General Provisions on Medical Waste Management"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Medical and health institutions shall promptly collect the medical waste generated by the unit and shall separate it by category into dedicated packaging or sealed containers that are leak-proof and resistant to penetration by sharps.\nDedicated packaging and containers for medical waste shall bear conspicuous warning marks and warning instructions.\nThe standards for dedicated packaging and containers for medical waste and the provisions on warning marks shall be jointly formulated by the competent health administrative department and the competent environmental protection administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Medical Waste by Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Medical and health institutions shall establish temporary storage facilities and equipment for medical waste and shall not store medical waste in the open air; the period of temporary storage of medical waste shall not exceed 2 days.\nTemporary storage facilities and equipment for medical waste shall be kept away from medical areas, food processing areas, areas of human activity and domestic refuse storage sites, and shall be provided with conspicuous warning marks and safety measures such as leakage prevention, rat prevention, mosquito and fly prevention, cockroach prevention, theft prevention and prevention of access by children.\nTemporary storage facilities and equipment for medical waste shall be regularly disinfected and cleaned."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Medical Waste by Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Medical and health institutions shall use dedicated transport vehicles that are leak-proof and prevent spillage, and shall collect and transport medical waste to the temporary storage sites in accordance with the internal medical waste transport times and routes determined by the unit.\nAfter use, transport vehicles shall be promptly disinfected and cleaned at designated locations within the medical and health institution."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Medical Waste by Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Medical and health institutions shall, in accordance with the principle of centralised disposal at the nearest facility, promptly deliver medical waste to a centralised medical waste disposal unit for disposal.\nHighly hazardous waste among medical waste, such as culture media of pathogens, specimens, and preservation solutions of bacterial and viral strains, shall be disinfected on site before being delivered to a centralised medical waste disposal unit for disposal."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Medical Waste by Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Sewage generated by medical and health institutions, and excreta of patients with infectious diseases or suspected patients with infectious diseases, shall be strictly disinfected in accordance with the provisions of the State, and may be discharged into the sewage treatment system only after reaching the discharge standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Medical Waste by Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In rural areas that do not have the conditions for centralised disposal of medical waste, medical and health institutions shall, in accordance with the requirements of the competent health administrative department and the competent environmental protection administrative department of the people's government at the county level, dispose of the medical waste they generate on site by themselves. Self-disposal of medical waste shall meet the following basic requirements:\n(a) disposable medical instruments after use and medical waste liable to cause personal injury shall be disinfected and rendered unusable by deformation;\n(b) waste that can be incinerated shall be incinerated promptly; and\n(c) waste that cannot be incinerated shall be disinfected and then buried in a centralised manner."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Medical Waste by Medical and Health Institutions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Units engaging in centralised medical waste disposal activities shall apply to the competent environmental protection administrative department of the people's government at or above the county level for a business licence; units that have not obtained a business licence shall not engage in activities relating to the centralised disposal of medical waste."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A centralised medical waste disposal unit shall meet the following conditions:\n(a) having medical waste storage and disposal facilities or equipment that meet environmental protection and health requirements;\n(b) having trained technical personnel and corresponding skilled workers;\n(c) having an institution and personnel responsible for testing and evaluating the effectiveness of medical waste disposal; and\n(d) having rules and regulations ensuring the safe disposal of medical waste."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The storage and disposal facilities of a centralised medical waste disposal unit shall be kept away from residential areas of residents (villages), water source protection areas and main traffic roads, shall maintain an appropriate safety protection distance from workplaces such as factories and enterprises, and shall comply with the provisions of the competent environmental protection administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A centralised medical waste disposal unit shall collect and transport medical waste from medical and health institutions at least once every 2 days, and shall be responsible for the storage and disposal of the medical waste."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In transporting medical waste, a centralised medical waste disposal unit shall comply with the provisions of the State on the management of the transport of dangerous goods and shall use dedicated vehicles bearing conspicuous medical waste marks. Dedicated vehicles for medical waste shall meet requirements for leakage prevention, spillage prevention and other environmental protection and health requirements.\nAfter use, dedicated vehicles for transporting medical waste shall be promptly disinfected and cleaned within the centralised medical waste disposal site.\nDedicated vehicles for transporting medical waste shall not carry other articles."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A centralised medical waste disposal unit shall ensure safety in the course of transporting medical waste and shall not discard or spill medical waste."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A centralised medical waste disposal unit shall install online monitoring devices for pollutant discharge and shall ensure that the monitoring devices are always in normal operating condition."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A centralised medical waste disposal unit shall dispose of medical waste in compliance with the environmental protection and health standards and norms prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A centralised medical waste disposal unit shall, in accordance with the provisions of the competent environmental protection administrative department and the competent health administrative department, regularly test and evaluate the environmental pollution prevention and control and hygienic effects of its medical waste disposal facilities. The testing and evaluation results shall be kept in the archives of the centralised medical waste disposal unit and reported once every six months to the local competent environmental protection administrative department and competent health administrative department."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A centralised medical waste disposal unit shall charge medical and health institutions medical waste disposal fees in accordance with the relevant provisions of the State for the disposal of medical waste.\nThe medical waste disposal fees paid by medical and health institutions in accordance with the provisions may be included in medical costs."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "All regions shall use and upgrade existing solid waste disposal facilities and other facilities to dispose of medical waste in a centralised manner and to meet basic environmental protection and health requirements."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "In cities that do not yet have centralised disposal facilities or whose disposal capacity is insufficient, from the date of entry into force of these Regulations, cities at or above the level of a city divided into districts shall complete the construction of centralised medical waste disposal facilities within 1 year, and county-level cities shall complete such construction within 2 years. The construction of centralised medical waste disposal facilities in counties (banners) shall be prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government.\nDuring the period before centralised medical waste disposal facilities are completed, the local people's government concerned shall organise the formulation of transitional medical waste disposal plans that meet environmental protection and health requirements, and shall determine the methods of collection, transport and disposal of medical waste and the disposal units."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Centralised Disposal of Medical Waste"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent health administrative departments and the competent environmental protection administrative departments of local people's governments at or above the county level shall, in accordance with the provisions of these Regulations and according to the division of duties, conduct supervision and inspection of medical and health institutions and centralised medical waste disposal units."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The competent health administrative departments of local people's governments at or above the county level shall conduct regular supervision and inspection or irregular spot checks on disease prevention and control in the collection, transport, storage and disposal of medical waste by medical and health institutions and centralised medical waste disposal units, as well as on the health protection of their staff."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The competent environmental protection administrative departments of local people's governments at or above the county level shall conduct regular supervision and inspection or irregular spot checks on the prevention and control of environmental pollution in the collection, transport, storage and disposal of medical waste by medical and health institutions and centralised medical waste disposal units."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The competent health administrative departments and the competent environmental protection administrative departments shall regularly exchange the results of supervision and inspection and spot checks. Where hidden dangers are found in medical and health institutions or centralised medical waste disposal units during supervision and inspection or spot checks, they shall order the immediate elimination of the hidden dangers."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Upon receiving reports, complaints, tip-offs or accusations concerning acts of medical and health institutions, centralised medical waste disposal units, supervision and management departments and their staff in violation of these Regulations, the competent health administrative departments and the competent environmental protection administrative departments shall promptly verify them, handle them in accordance with the law and publish the results of handling."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In performing their supervision and inspection duties, the competent health administrative departments and the competent environmental protection administrative departments have the power to take the following measures:\n(a) to conduct on-site inspections of the units concerned, ascertain the situation, conduct on-site monitoring and investigate and collect evidence;\n(b) to consult or copy the relevant materials on medical waste management and to take samples;\n(c) to order units and individuals violating these Regulations to stop the illegal acts;\n(d) to seal up or temporarily seize sites, equipment, means of transport and articles suspected of violating these Regulations; and\n(e) to investigate and deal with acts in violation of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an accident of infectious disease transmission or environmental pollution occurs due to improper management of medical waste, or where there is evidence proving that an accident of infectious disease transmission or environmental pollution is likely to occur, the competent health administrative department and the competent environmental protection administrative department shall adopt temporary control measures, evacuate personnel, control the scene, and order the suspension, as necessary, of operations causing or likely to cause the accident of infectious disease transmission or environmental pollution."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Medical and health institutions and centralised medical waste disposal units shall cooperate with the inspection, monitoring and evidence collection of the departments concerned, and shall not refuse or obstruct such work or provide false materials."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a local people's government at or above the county level fails to organise the construction of centralised medical waste disposal facilities or to organise the formulation of transitional medical waste disposal plans in accordance with the provisions of these Regulations, the people's government at the higher level shall circulate a criticism, order it to complete the construction of centralised medical waste disposal facilities or the formulation of transitional medical waste disposal plans within a time limit; and may impose administrative sanctions in accordance with the law on the principal leaders of the government and the responsible persons in charge."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the competent health administrative department, the competent environmental protection administrative department or any other relevant department of a people's government at or above the county level fails to perform its supervision and inspection duties in accordance with the provisions of these Regulations, fails to promptly deal with illegal acts of medical and health institutions and centralised medical waste disposal units discovered, fails to promptly adopt measures to reduce harm when an accident of infectious disease transmission or environmental pollution occurs or is likely to occur, or commits other acts of dereliction of duty, failure to perform duties or misconduct in office, the people's government at the corresponding level or the relevant department of the people's government at the higher level shall order it to make rectification and circulate a criticism; where infectious disease transmission or an environmental pollution accident is caused, administrative sanctions of demotion, removal from office or dismissal shall be imposed in accordance with the law on the principal persons in charge, the responsible persons in charge and other directly responsible personnel; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the competent environmental protection administrative department of a people's government at or above the county level issues a business licence to a centralised medical waste disposal unit in violation of the provisions of these Regulations, the people's government at the corresponding level or the competent environmental protection administrative department of the people's government at the higher level shall circulate a criticism and order the withdrawal of the illegally issued certificate; and may impose administrative sanctions in accordance with the law on the principal persons in charge, the responsible persons in charge and other directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a medical and health institution or a centralised medical waste disposal unit violates these Regulations and falls under any of the following circumstances, the competent health administrative department or the competent environmental protection administrative department of the local people's government at or above the county level shall, according to its respective duties, order it to make correction within a time limit and give it a warning; where it fails to make correction within the time limit, a fine of not less than RMB 2,000 and not more than RMB 5,000 shall be imposed:\n(a) failing to establish and improve the medical waste management system, or failing to set up a monitoring department or full-time (part-time) personnel;\n(b) failing to provide the personnel concerned with training in the relevant laws, professional techniques, safety protection and emergency handling;\n(c) failing to adopt occupational health protection measures for the personnel and managerial staff engaged in the collection, transport, storage and disposal of medical waste;\n(d) failing to register medical waste or failing to preserve the registration records;\n(e) failing to promptly disinfect and clean, at designated locations, medical waste transport vehicles or transport vehicles after use;\n(f) failing to promptly collect and transport medical waste; and\n(g) failing to regularly test and evaluate the environmental pollution prevention and control and hygienic effects of medical waste disposal facilities, or failing to keep the testing and evaluation results on file and report them."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a medical and health institution or a centralised medical waste disposal unit violates these Regulations and falls under any of the following circumstances, the competent health administrative department or the competent environmental protection administrative department of the local people's government at or above the county level shall, according to its respective duties, order it to make correction within a time limit and give it a warning, and may impose a fine of not more than RMB 5,000 concurrently; where it fails to make correction within the time limit, a fine of not less than RMB 5,000 and not more than RMB 30,000 shall be imposed:\n(a) storage facilities or equipment failing to meet environmental protection and health requirements;\n(b) failing to separate medical waste by category into dedicated packaging or containers;\n(c) failing to use dedicated vehicles meeting the standards to transport medical waste, or using vehicles for transporting medical waste to carry other articles; and\n(d) failing to install online monitoring devices for pollutant discharge, or the monitoring devices not being always in normal operating condition."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a medical and health institution or a centralised medical waste disposal unit falls under any of the following circumstances, the competent health administrative department or the competent environmental protection administrative department of the local people's government at or above the county level shall, according to its respective duties, order it to make correction within a time limit, give it a warning and impose a fine of not less than RMB 5,000 and not more than RMB 10,000 concurrently; where it fails to make correction within the time limit, a fine of not less than RMB 10,000 and not more than RMB 30,000 shall be imposed; where infectious disease transmission or an environmental pollution accident is caused, the original issuing department shall suspend or revoke the practice licence or business licence; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) discarding medical waste in the course of transport, dumping or piling up medical waste at locations other than storage sites, or mixing medical waste with other waste or domestic refuse;\n(b) failing to implement the manifest management system for the transfer of hazardous waste;\n(c) delivering medical waste to units or individuals that have not obtained a business licence for collection, transport, storage or disposal;\n(d) disposing of medical waste not in compliance with the environmental protection and health standards and norms prescribed by the State;\n(e) failing to strictly disinfect sewage and the excreta of patients with infectious diseases or suspected patients with infectious diseases in accordance with the provisions of these Regulations, or discharging them into the sewage treatment system without reaching the discharge standards prescribed by the State; and\n(f) failing to manage and dispose of, as medical waste, the domestic refuse generated by patients with infectious diseases or suspected patients with infectious diseases admitted for treatment."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a medical and health institution violates these Regulations by discharging sewage or the excreta of patients with infectious diseases or suspected patients with infectious diseases that do not meet the standards prescribed by the State into the urban drainage network, the competent construction administrative department of the local people's government at or above the county level shall order it to make correction within a time limit, give it a warning and impose a fine of not less than RMB 5,000 and not more than RMB 10,000 concurrently; where it fails to make correction within the time limit, a fine of not less than RMB 10,000 and not more than RMB 30,000 shall be imposed; where infectious disease transmission or an environmental pollution accident is caused, the original issuing department shall suspend or revoke the practice licence; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a medical and health institution or a centralised medical waste disposal unit fails to adopt emergency handling measures when medical waste is lost, leaks or spreads, or fails to promptly report to the competent health administrative department and the competent environmental protection administrative department, the competent health administrative department or the competent environmental protection administrative department of the local people's government at or above the county level shall, according to its respective duties, order it to make correction, give it a warning and impose a fine of not less than RMB 10,000 and not more than RMB 30,000 concurrently; where infectious disease transmission or an environmental pollution accident is caused, the original issuing department shall suspend or revoke the practice licence or business licence; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a medical and health institution or a centralised medical waste disposal unit, without justified reasons, obstructs law enforcement officers of the competent health administrative department or the competent environmental protection administrative department in the performance of their duties, refuses to allow law enforcement officers to enter the site, or fails to cooperate with the inspection, monitoring and evidence collection of the law enforcement department, the competent health administrative department or the competent environmental protection administrative department of the local people's government at or above the county level shall, according to its respective duties, order it to make correction and give it a warning; where it refuses to make correction, the original issuing department shall suspend or revoke the practice licence or business licence; where it violates the Law of the People's Republic of China on Penalties for Administration of Public Security and constitutes an act violating public security administration, the public security organ shall impose a penalty in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "In rural areas that do not have the conditions for centralised disposal of medical waste, where a medical and health institution fails to dispose of medical waste in accordance with the requirements of these Regulations, the competent health administrative department or the competent environmental protection administrative department of the people's government at the county level shall, according to its respective duties, order it to make correction within a time limit and give it a warning; where it fails to make correction within the time limit, a fine of not less than RMB 1,000 and not more than RMB 5,000 shall be imposed; where infectious disease transmission or an environmental pollution accident is caused, the original issuing department shall suspend or revoke the practice licence; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where any unit engages in the collection, transport, storage or disposal of medical waste without having obtained a business licence, the competent environmental protection administrative department of the local people's government at or above the county level shall order it to immediately stop the illegal act, confiscate the illegal gains and may impose a fine of not more than one time the illegal gains concurrently."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where medical waste is transferred or traded in, sent by post or transported by railway or by air, or transported by water in violation of the provisions of these Regulations, the competent environmental protection administrative department of the local people's government at or above the county level shall order the transferor and transferee, the sender or the consignor to immediately stop the illegal act, give a warning and confiscate the illegal gains; where the illegal gains are RMB 5,000 or more, a fine of not less than two times and not more than five times the illegal gains shall be imposed concurrently; where there are no illegal gains or the illegal gains are less than RMB 5,000, a fine of not less than RMB 5,000 and not more than RMB 20,000 shall be imposed concurrently.\nWhere a carrier, knowing that the consignor is transporting medical waste in violation of the provisions of these Regulations, still transports it, or where a carrier carries medical waste on the same means of transport as passengers, it shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a medical and health institution or a centralised medical waste disposal unit violates these Regulations, thereby causing infectious disease transmission or an environmental pollution accident and damage to others, it shall bear civil liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The management of waste that is directly or indirectly infectious, toxic or otherwise harmful and that is generated in family planning technical services, medical research, teaching, autopsy and other related activities shall be governed by these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The competent health department of the Chinese People's Liberation Army shall formulate management measures for the management of medical waste of military medical and health institutions by reference to these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0400'] = {
+    "lawId": "CN-REG-0400",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 53 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the administration of medical institutions, promote the development of medical and health undertakings and safeguard the health of citizens."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to medical institutions such as hospitals, health centres, sanatoria, outpatient departments, clinics, health stations (rooms) and first-aid stations that engage in activities of diagnosing and treating diseases."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Medical institutions shall be guided by the purpose of saving lives and healing the wounded, preventing and treating diseases, and serving the health of citizens."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State supports the development of medical institutions and encourages the establishment of medical institutions in various forms."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The health administrative department under the State Council shall be responsible for the supervision and administration of medical institutions throughout the country.\nThe health administrative departments of local people's governments at or above the county level shall be responsible for the supervision and administration of medical institutions within their respective administrative areas.\nThe competent health department of the Chinese People's Liberation Army shall, in accordance with these Regulations and the relevant provisions of the State, exercise supervision and administration over the medical institutions of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The health administrative departments of local people's governments at or above the county level shall, on the basis of the population, medical resources, medical demand and the existing distribution of medical institutions within their respective administrative areas, formulate plans for the establishment of medical institutions in their respective administrative areas.\nState organs, enterprises and public institutions may, as needed, establish medical institutions, which shall be incorporated into the local plans for the establishment of medical institutions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Planning Layout and Examination and Approval of Establishment"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate plans for the establishment of medical institutions into the local plans for the development of regional health undertakings and the overall plans for urban and rural construction and development."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Planning Layout and Examination and Approval of Establishment"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The establishment of a medical institution shall conform to the plans for the establishment of medical institutions and the basic standards for medical institutions.\nThe basic standards for medical institutions shall be formulated by the health administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Planning Layout and Examination and Approval of Establishment"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a unit or individual establishes a medical institution and is required, in accordance with the provisions of the State Council, to obtain an approval document for the establishment of a medical institution, the matter shall be examined and approved by the health administrative department of the people's government at or above the county level, and the approval document for the establishment of the medical institution shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Planning Layout and Examination and Approval of Establishment"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "To apply for the establishment of a medical institution, the following documents shall be submitted:\n(1) an application for establishment;\n(2) a feasibility study report on the establishment;\n(3) a site selection report and architectural design floor plans."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Planning Layout and Examination and Approval of Establishment"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a unit or individual establishes a medical institution, an application for establishment shall be submitted in accordance with the following provisions:\n(1) for a medical institution without beds or with fewer than 100 beds, the application shall be submitted to the health administrative department of the people's government at the county level at the place where it is located;\n(2) for a medical institution with 100 or more beds and for specialised hospitals, the application shall be submitted in accordance with the provisions of the health administrative department of the people's government at the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Planning Layout and Examination and Approval of Establishment"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The health administrative department of a local people's government at or above the county level shall, within 30 days from the date of accepting an application for establishment, give a written reply approving or disapproving it; where the establishment is approved, an approval document for the establishment of the medical institution shall be issued."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Planning Layout and Examination and Approval of Establishment"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The establishment of medical institutions under the unified planning of the State shall be decided by the health administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Planning Layout and Examination and Approval of Establishment"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A medical institution must register and obtain a Practising Licence for Medical Institutions before it practises; a clinic may practise after filing with the health administrative department of the people's government at the county level at the place where it is located in accordance with the provisions of the health administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "To apply for practice registration of a medical institution, the following conditions shall be met:\n(1) where an approval document for the establishment of a medical institution is required in accordance with the provisions, such approval document has been obtained;\n(2) the basic standards for medical institutions are met;\n(3) there is an appropriate name, organisational structure and premises;\n(4) there are funds, facilities, equipment and professional health technical personnel suited to the services to be provided;\n(5) there are corresponding rules and regulations;\n(6) it is capable of independently bearing civil liability."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The practice registration of a medical institution shall be handled by the health administrative department of the people's government that approved its establishment; the practice registration of a medical institution that does not need an approval document for establishment shall be handled by the health administrative department of the local people's government at or above the county level at the place where it is located.\nThe practice registration of medical institutions established in accordance with the provisions of Article 13 of these Regulations shall be handled by the health administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government at the place where they are located.\nThe practice registration or filing of outpatient departments, health stations (rooms) and clinics established by state organs, enterprises and public institutions to serve their internal staff shall be handled by the health administrative department of the people's government at the county level at the place where they are located."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The main particulars of practice registration of a medical institution are:\n(1) name, address and principal person in charge;\n(2) form of ownership;\n(3) diagnostic and treatment subjects and beds;\n(4) registered capital."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The health administrative department of a local people's government at or above the county level shall, within 45 days from the date of accepting an application for practice registration, conduct an examination in accordance with these Regulations and the basic standards for medical institutions. Where the examination is satisfactory, it shall register the institution and issue a Practising Licence for Medical Institutions; where the examination is not satisfactory, it shall notify the applicant of the examination results in writing."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a medical institution changes its name, premises, principal person in charge, diagnostic and treatment subjects or beds, it must undergo modification registration with the original registration authority or file the change with the original filing authority."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a medical institution closes down, it must undergo deregistration with the original registration authority or file the closure with the original filing authority. After verification and approval by the registration authority, its Practising Licence for Medical Institutions shall be collected.\nWhere a medical institution suspends operation for more than one year for reasons other than reconstruction, expansion or relocation, it shall be deemed to have closed down."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "For a medical institution with fewer than 100 beds, its Practising Licence for Medical Institutions shall be verified once every year; for a medical institution with 100 or more beds, its Practising Licence for Medical Institutions shall be verified once every three years. Verification shall be handled by the original registration authority."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The Practising Licence for Medical Institutions may not be forged, altered, sold, assigned or lent.\nWhere a Practising Licence for Medical Institutions is lost, the loss shall be declared promptly and an application for re-issuance shall be made to the original registration authority."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Registration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "No unit or individual may carry out diagnostic and treatment activities without having obtained a Practising Licence for Medical Institutions or without having filed as required."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "In practising, a medical institution must comply with the relevant laws, regulations and medical technical norms."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A medical institution must display its Practising Licence for Medical Institutions, diagnostic and treatment subjects, consultation hours and charging standards in a conspicuous place."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A medical institution must carry out diagnostic and treatment activities within the diagnostic and treatment subjects approved for registration or filed."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A medical institution may not use non-health technical personnel to engage in medical and health technical work."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Medical institutions shall strengthen education in medical ethics for medical personnel."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "When staff members of a medical institution take up their posts, they must wear a badge bearing their name and position or professional title."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A medical institution shall immediately rescue critically ill patients. Patients who cannot be diagnosed or treated owing to limitations of equipment or technical conditions shall be transferred promptly."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Without a physician (medical practitioner) personally examining a patient, a medical institution may not issue such certifying documents as a medical diagnosis certificate, health certificate or death certificate; without a physician (medical practitioner) or midwife personally delivering a baby, a medical institution may not issue a birth certificate or stillbirth report."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In diagnostic and treatment activities, medical personnel shall explain the patient's condition and the medical measures to the patient. Where surgery, special examinations or special treatment need to be carried out, medical personnel shall promptly explain to the patient in specific terms the medical risks, alternative medical plans and other circumstances, and obtain the patient's explicit consent; where it is not possible or not appropriate to explain to the patient, the explanation shall be given to the patient's near relatives and their explicit consent shall be obtained. In an emergency such as rescuing a patient in critical condition where the opinions of the patient or the patient's near relatives cannot be obtained, the corresponding medical measures may be implemented immediately with the approval of the person in charge of the medical institution or an authorised person in charge."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a medical accident occurs in a medical institution, it shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The special diagnosis, treatment and handling by medical institutions of patients with infectious diseases, mental illness or occupational diseases shall be carried out in accordance with the provisions of the relevant laws and regulations of the State."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Medical institutions must strengthen the management of medicines in accordance with the laws and regulations on the administration of medicines."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Medical institutions must charge medical expenses in accordance with the relevant provisions of the people's government or the pricing department, itemise the charges and issue receipts."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Medical institutions must undertake the corresponding preventive health care work and the tasks entrusted by the health administrative departments of people's governments at or above the county level, such as supporting rural areas and guiding community-level medical and health work."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "When major disasters, accidents, epidemics or other unexpected circumstances occur, medical institutions and their health technical personnel must obey the deployment of the health administrative departments of people's governments at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Practice"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The health administrative departments of people's governments at or above the county level shall exercise the following functions and powers of supervision and administration:\n(1) being responsible for the examination and approval of the establishment, practice registration, filing and verification of medical institutions;\n(2) inspecting and guiding the practice activities of medical institutions;\n(3) being responsible for organising the assessment of medical institutions;\n(4) imposing penalties for acts in violation of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The State operates a system for the assessment of medical institutions, under which an assessment committee composed of experts conducts a comprehensive evaluation of the practice activities and the quality of medical services of medical institutions in accordance with the measures and standards for the assessment of medical institutions.\nThe measures and standards for the assessment of medical institutions shall be formulated by the health administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The health administrative departments of local people's governments at or above the county level shall be responsible for organising assessment committees for medical institutions within their respective administrative areas.\nAn assessment committee for medical institutions shall be composed of relevant experts in hospital management, medical education, medical treatment, medical technology, nursing and finance. The members of the assessment committee shall be appointed by the health administrative department of the local people's government at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The health administrative department of a local people's government at or above the county level shall, in accordance with the assessment opinions of the assessment committee, issue an assessment qualification certificate to a medical institution that meets the assessment standards, and put forward handling opinions with respect to a medical institution that does not meet the assessment standards."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 23 of these Regulations, a medical institution practises without authorisation without having obtained a Practising Licence for Medical Institutions, a penalty shall be imposed in accordance with the provisions of the Basic Medical and Health Care and Health Promotion Law of the People's Republic of China.\nWhere, in violation of the provisions of Article 23 of these Regulations, a clinic practises without having filed as required, the health administrative department of the people's government at or above the county level shall order it to make corrections, confiscate its illegal gains and impose a fine of not more than RMB 30,000; where it refuses to make corrections, it shall be ordered to cease practice."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 21 of these Regulations, a medical institution continues to engage in diagnostic and treatment activities after failing to have its Practising Licence for Medical Institutions verified within the time limit, the health administrative department of the people's government at or above the county level shall order it to complete the verification procedures within a prescribed time limit; where it still refuses to undergo verification, its Practising Licence for Medical Institutions shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 22 of these Regulations, a medical institution sells, assigns or lends its Practising Licence for Medical Institutions, a penalty shall be imposed in accordance with the provisions of the Basic Medical and Health Care and Health Promotion Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 26 of these Regulations, the diagnostic and treatment activities of a medical institution exceed the scope registered or filed, the health administrative department of the people's government at or above the county level shall give it a warning, order it to make corrections and confiscate its illegal gains, and may, in light of the circumstances, impose a fine of not less than RMB 10,000 but not more than RMB 100,000; where the circumstances are serious, it shall revoke its Practising Licence for Medical Institutions or order it to cease practice."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 27 of these Regulations, a medical institution uses non-health technical personnel to engage in medical and health technical work, the health administrative department of the people's government at or above the county level shall order it to make corrections within a prescribed time limit and may impose a fine of not less than RMB 10,000 but not more than RMB 100,000; where the circumstances are serious, it shall revoke its Practising Licence for Medical Institutions or order it to cease practice."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 31 of these Regulations, a medical institution issues false certifying documents, the health administrative department of the people's government at or above the county level shall give it a warning; where harmful consequences are caused, a fine of not less than RMB 10,000 but not more than RMB 100,000 may be imposed; administrative sanctions shall be imposed on the persons directly responsible by the unit to which they belong or by the authority at a higher level."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Confiscated property and fines shall all be turned over to the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a party is dissatisfied with a decision on administrative penalty, it may apply for administrative reconsideration or institute administrative proceedings in accordance with the provisions of the laws and regulations of the State. Where a party, with respect to a penalty decision imposing a fine or confiscating medicines or instruments, neither applies for reconsideration nor institutes proceedings within the statutory time limit nor performs the decision, the health administrative department of the people's government at or above the county level may apply to a people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Penalty Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Medical institutions that were already practising before the implementation of these Regulations shall, within six months after the implementation of these Regulations, complete the registration procedures retroactively and obtain a Practising Licence for Medical Institutions in accordance with the provisions of Chapter III of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The measures for the administration of medical institutions established within the territory of the People's Republic of China by foreigners and by residents of the Hong Kong Special Administrative Region, the Macao Special Administrative Region and Taiwan in the mainland shall be formulated separately by the health administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 1994. The Interim Regulations on the Administration of Hospitals and Clinics approved and issued by the Government Administration Council in 1951 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0401'] = {
+    "lawId": "CN-REG-0401",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 56 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of preventing and properly handling medical disputes, protecting the lawful rights and interests of both patients and medical institutions, maintaining medical order and ensuring medical safety."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"medical dispute\" means a controversy arising from diagnostic and treatment activities between the two parties, namely the patient and the medical institution."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall establish a system for the management of medical quality and safety, deepen the reform of the pharmaceutical and healthcare system, regulate diagnostic and treatment activities, improve medical services, raise medical quality and prevent and reduce medical disputes.\nIn diagnostic and treatment activities, the patient and the medical institution shall respect each other, and the protection of their own rights and interests shall comply with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The handling of medical disputes shall follow the principles of fairness, impartiality and promptness, seek truth from facts and be conducted in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The people's governments at or above the county level shall strengthen leadership over and coordination of the prevention and handling of medical disputes, incorporate the matter into the system of comprehensive management of public security, establish a mechanism of division of labour and cooperation among departments, and urge departments to perform their duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent health department shall be responsible for guiding and supervising medical institutions in properly carrying out the prevention and handling of medical disputes and for guiding both parties to resolve medical disputes in accordance with law.\nThe judicial administration department shall be responsible for guiding people's mediation of medical disputes.\nThe public security organ shall, in accordance with law, maintain public order in medical institutions, and investigate, punish and combat illegal and criminal acts that infringe upon the lawful rights and interests of patients and medical staff or disrupt medical order.\nThe departments and institutions in charge of finance, civil affairs, insurance supervision and administration and the like shall, in accordance with their respective duties, properly carry out the work relating to the prevention and handling of medical disputes."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall establish and improve a mechanism for sharing medical risks, give play to the role of the insurance mechanism in third-party indemnification in the handling of medical disputes and in the socialised sharing of medical risks, encourage medical institutions to take out medical liability insurance and encourage patients to take out medical accident insurance."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The news media shall strengthen publicity of the laws and regulations on medical and health care and of common knowledge of medical and health care, and guide the public to treat medical risks rationally; in reporting medical disputes, they shall comply with the provisions of the relevant laws and regulations, strictly observe professional ethics and be truthful, objective and impartial."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "In diagnostic and treatment activities, medical institutions and their medical staff shall be patient-centred, strengthen humanistic care, strictly comply with the laws, regulations and rules on medical and health care and the norms and routines relating to diagnosis and treatment, and strictly observe professional ethics.\nMedical institutions shall train their medical staff in the laws, regulations and rules on medical and health care and the norms and routines relating to diagnosis and treatment, and shall strengthen education in professional ethics."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Medical institutions shall formulate and implement a system for the management of medical quality and safety, set up a department for monitoring medical service quality or assign full-time (part-time) personnel, strengthen standardised management of diagnosis, treatment, nursing, pharmaceutical affairs, examination and other work, optimise service processes and improve service levels.\nMedical institutions shall strengthen medical risk management, improve measures for the identification, assessment, prevention and control of medical risks, regularly check the implementation of the measures and promptly eliminate hidden dangers."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Medical institutions shall, in accordance with the provisions on the administration of the clinical application of medical technologies formulated by the competent health department of the State Council, provide medical technical services commensurate with their technical capacity, ensure the safety of clinical application and reduce medical risks; where new medical technologies are adopted, technical assessment and ethical review shall be carried out to ensure that they are safe, effective and ethical."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Medical institutions shall, in accordance with the provisions of the relevant laws and regulations, strictly implement the systems of incoming inspection and safekeeping of pharmaceuticals, medical devices, disinfectants, blood and the like. It is prohibited to use pharmaceuticals, medical devices, disinfectants, blood and the like that are unqualified, such as those without qualification certificates or those that have expired."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In diagnostic and treatment activities, medical staff shall explain the patient's condition and the medical measures to the patient. Where surgery is required, or where special examinations or special treatments involving a certain degree of danger and possible adverse consequences, such as clinical trials, are to be carried out, medical staff shall promptly explain to the patient the medical risks, alternative medical plans and other circumstances and obtain the patient's written consent; where the patient is in a state of coma or the like and unable to make decisions independently, or where the condition is not suitable to be explained to the patient, the explanation shall be given to the patient's close relatives and their written consent shall be obtained.\nWhere it is impossible to obtain the opinions of the patient or his close relatives in an emergency, the corresponding medical measures may be implemented immediately with the approval of the person in charge of the medical institution or an authorised person in charge."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where diagnostic and treatment activities with relatively high medical risks, such as surgery, special examinations and special treatments, are carried out, medical institutions shall prepare response plans in advance and proactively guard against unexpected risks."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Medical institutions and their medical staff shall, in accordance with the provisions of the competent health department of the State Council, fill in and properly keep medical records.\nWhere medical records cannot be filled in promptly because of emergency rescue, the medical staff shall make a supplementary record truthfully within six hours after the rescue is completed and shall make a note of it.\nNo unit or individual may alter, forge, conceal, destroy or snatch medical records."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The patient shall have the right to consult and copy his outpatient medical records, hospital admission records, temperature charts, doctor's order sheets, laboratory reports (test reports), medical imaging examination materials, consents to special examinations, consents to surgery, surgical and anaesthesia records, pathology materials, nursing records, medical expenses and all other materials belonging to the medical records as prescribed by the competent health department of the State Council.\nWhere a patient requests copies of medical records, the medical institution shall provide copying services and shall affix a certifying seal to the copied medical records. The patient or his close relatives shall be present when the medical records are copied. A medical institution may charge a copying fee for copying medical records at the patient's request, and the fee standard shall be made public.\nWhere the patient dies, his close relatives may consult and copy the medical records in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Medical institutions shall establish and improve a mechanism for communication between the patient and the medical institution, patiently explain and clarify the inquiries, opinions and suggestions raised by patients in the course of diagnosis and treatment and handle them in accordance with the provisions; and with respect to doubts raised by patients about diagnostic and treatment conduct, they shall promptly verify and self-examine the matter, designate the relevant personnel to communicate with the patient or his close relatives, and truthfully explain the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Medical institutions shall establish and improve a system for receiving complaints, set up a unified department for handling complaints or assign full-time (part-time) personnel, and publish in conspicuous places of the medical institution the channels, procedures and contact details for resolving medical disputes, so as to facilitate complaints or inquiries by patients."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The competent health department shall urge medical institutions to implement the system for the management of medical quality and safety, organise the assessment of medical quality and safety, analyse information on medical quality and safety, and formulate precautions against the risks identified."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Patients shall observe medical order and the rules of medical institutions on consultation, treatment and examination, truthfully provide information relating to their condition, and cooperate with medical staff in carrying out diagnostic and treatment activities."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The people's governments at various levels shall strengthen health promotion and education, popularise scientific health knowledge and raise the public's level of understanding of medical scientific knowledge such as the treatment of diseases."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Prevention of Medical Disputes"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a medical dispute arises, the patient and the medical institution may resolve it through the following channels:\n(a) voluntary consultation between the two parties;\n(b) applying for people's mediation;\n(c) applying for administrative mediation;\n(d) bringing an action before a people's court;\n(e) other channels prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a medical dispute arises, the medical institution shall inform the patient or his close relatives of the following matters:\n(a) the lawful channels for resolving medical disputes;\n(b) the provisions on the sealing and unsealing of medical records and physical evidence at the scene;\n(c) the provisions on the consultation and copying of medical records.\nWhere the patient dies, his close relatives shall also be informed of the provisions on autopsy."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where medical records need to be sealed or unsealed in the event of a medical dispute, this shall be done in the presence of both the patient and the medical institution. The sealed medical records may be the originals or copies and shall be kept by the medical institution. Where the medical records have not yet been completed and need to be sealed, the completed part shall first be sealed; after the medical records are completed in accordance with the provisions, the subsequently completed part shall then be sealed. The medical institution shall draw up a sealed-records inventory for the sealed medical records, which shall be signed or sealed by both the patient and the medical institution, each keeping one copy.\nWhere the medical dispute has been resolved after the medical records are sealed, or where the patient has not again raised a request to resolve the medical dispute within three years after the medical records were sealed, the medical institution may unseal them on its own."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an adverse consequence is suspected to have been caused by infusion, blood transfusion, injection, medication or the like, the patient and the medical institution shall jointly seal and unseal the physical evidence at the scene, and the sealed physical evidence shall be kept by the medical institution. Where testing is required, both parties shall jointly entrust a testing institution lawfully qualified to conduct testing; where the two parties cannot jointly entrust one, the competent health department of the people's government at the county level in the place where the medical institution is located shall designate one.\nWhere an adverse consequence is suspected to have been caused by blood transfusion and the blood needs to be sealed and retained, the medical institution shall notify the blood bank that supplied the blood to send personnel to be present.\nWhere the medical dispute has been resolved after the physical evidence at the scene is sealed, or where the patient has not again raised a request to resolve the medical dispute within three years after the physical evidence at the scene was sealed, the medical institution may unseal it on its own."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a patient dies and the patient and the medical institution disagree on the cause of death, an autopsy shall be conducted within 48 hours after the death of the patient; where conditions for the frozen storage of the corpse are available, the period may be extended to seven days. The autopsy shall be subject to the consent and signature of the close relatives of the deceased; refusal to sign shall be deemed to mean that the close relatives of the deceased do not consent to the autopsy. Where disagreement with or delay of the autopsy exceeds the prescribed time and affects the determination of the cause of death, the party that disagrees or delays shall bear responsibility.\nThe autopsy shall be conducted by an institution and professional and technical personnel that have obtained the corresponding qualifications in accordance with the relevant provisions of the State.\nBoth the patient and the medical institution may designate representatives to observe the autopsy process."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a patient dies in a medical institution, the corpse shall immediately be moved to the mortuary or a designated place, and the time for keeping the corpse of the deceased shall generally not exceed 14 days. Where a corpse is not dealt with within the time limit, the medical institution shall, after reporting to the competent health department of the people's government at the county level in the place where it is located and to the public security organ, deal with it in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a major medical dispute arises, the medical institution shall report it to the competent health department of the local people's government at or above the county level in accordance with the provisions. Upon receiving the report, the competent health department shall promptly ascertain and grasp the situation and guide both the patient and the medical institution to resolve the dispute through lawful channels."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The patient and the medical institution shall maintain medical order in accordance with law. No unit or individual may commit acts endangering the personal safety of patients and medical staff or disrupting medical order.\nWhere a suspected act violating the administration of public security or a suspected criminal act occurs in a medical dispute, the medical institution shall immediately report it to the local public security organ. The public security organ shall promptly take measures, deal with it in accordance with law and maintain medical order."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the patient and the medical institution choose to resolve a medical dispute through consultation, the consultation shall be conducted in a dedicated place and shall not affect normal medical order. Where there are a relatively large number of persons on either side, representatives shall be elected to conduct the consultation, and the number of representatives for each side shall not exceed five.\nThe resolution of a medical dispute through consultation shall adhere to the principles of voluntariness, lawfulness and equality, respect the rights of the parties and respect objective facts. Both the patient and the medical institution shall express their opinions and demands in a civilised and rational manner and may not commit unlawful acts.\nThe amount of compensation determined through consultation shall be based on facts and shall be prevented from being exorbitantly high or low. For medical disputes with relatively large differences or relatively high amounts claimed, the patient and the medical institution are encouraged to resolve them through people's mediation.\nWhere the patient and the medical institution reach agreement through consultation, they shall sign a written settlement agreement."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "To apply for people's mediation of a medical dispute, the patient and the medical institution shall jointly apply to the people's mediation committee for medical disputes; where one party applies for mediation, the people's mediation committee for medical disputes shall conduct mediation after obtaining the consent of the other party.\nThe applicant may apply for mediation in writing or orally. In the case of a written application, the application shall state the basic particulars of the applicant, the matters in dispute for which mediation is applied and the reasons; in the case of an oral application, the people's mediator for medical disputes shall record on the spot the basic particulars of the applicant, the matters in dispute for which mediation is applied and the reasons, and the applicant shall sign to confirm.\nWhere the people's mediation committee for medical disputes learns that a major medical dispute has occurred in a medical institution, it may take the initiative to carry out work and guide both the patient and the medical institution to apply for mediation.\nWhere a party has already brought an action before a people's court and the action has been accepted, or has already applied to the competent health department for mediation and the application has been accepted, the people's mediation committee for medical disputes shall not accept the case; where it has already accepted the case, the mediation shall be terminated."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The establishment of a people's mediation committee for medical disputes shall comply with the provisions of the People's Mediation Law of the People's Republic of China and meet the actual needs of the locality. A people's mediation committee for medical disputes shall, within 30 working days from the date of its establishment, file the matter for the record with the judicial administration department of the local people's government at or above the county level.\nA people's mediation committee for medical disputes shall, in light of the specific circumstances, engage a certain number of persons with professional knowledge of medicine, law and the like who are enthusiastic about mediation work to serve as full-time (part-time) people's mediators for medical disputes.\nA people's mediation committee for medical disputes may not charge fees for mediating medical disputes. The funds needed for people's mediation of medical disputes shall be provided in accordance with the relevant provisions of the finance department and the judicial administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "When mediating a medical dispute, a people's mediation committee for medical disputes may, as needed, consult experts and may select experts from the expert pool prescribed in Article 35 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a people's mediation committee for medical disputes needs to conduct a medical damage appraisal to clarify responsibility in mediating a medical dispute, the patient and the medical institution shall jointly entrust a medical association or a forensic appraisal institution to conduct the appraisal, or, with the consent of both the patient and the medical institution, the people's mediation committee for medical disputes may entrust the appraisal.\nWhere a medical association or a forensic appraisal institution accepts an entrustment to conduct a medical damage appraisal, the appraisal shall be conducted by professionals in clinical medicine, forensic medicine and other specialties involved in the matters appraised; where the medical association or forensic appraisal institution has no relevant professionals, experts in the relevant specialty shall be selected from the expert pool prescribed in Article 35 of these Regulations to conduct the appraisal.\nA medical association or forensic appraisal institution conducting a medical damage appraisal shall implement the prescribed standards and procedures, respect science, strictly observe professional ethics and be responsible for the medical damage appraisal opinions it issues, and may not issue false appraisal opinions. The specific measures for the administration of medical damage appraisal shall be formulated jointly by the health and judicial administration departments of the State Council.\nThe appraisal fee shall be collected from the patient and the medical institution in advance and shall ultimately be borne in proportion to responsibility."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The expert pool for medical damage appraisal shall be jointly established by the health and judicial administration departments of the people's governments at or above the level of a city divided into districts. The expert pool shall include experts in the fields of medicine, law and forensic medicine. The engagement of experts to join the expert pool shall not be restricted by administrative area."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The medical damage appraisal opinions made by a medical association or a forensic appraisal institution shall state and discuss in detail the following:\n(a) whether medical damage exists and the extent of the damage;\n(b) whether medical fault exists;\n(c) whether there is a causal relationship between the medical fault and the medical damage;\n(d) the degree of responsibility of the medical fault in the medical damage."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an expert consulted or an appraiser falls under any of the following circumstances, he shall withdraw, and a party may also apply for his withdrawal orally or in writing:\n(a) he is a party to the medical dispute or a close relative of a party;\n(b) he has an interest in the medical dispute;\n(c) he has another relationship with a party to the medical dispute that may affect the impartial handling of the medical dispute."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "A people's mediation committee for medical disputes shall complete the mediation within 30 working days from the date of acceptance. Where an appraisal is needed, the time taken for the appraisal shall not be counted in the mediation period. Where the mediation period needs to be extended in special circumstances, the people's mediation committee for medical disputes and both the patient and the medical institution may agree to extend it. Where no mediation agreement is reached beyond the mediation period, the mediation shall be deemed to have failed."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the patient and the medical institution reach agreement through people's mediation, the people's mediation committee for medical disputes shall draw up a mediation agreement. The mediation agreement shall take effect after it is signed or sealed by both the patient and the medical institution, and after the people's mediator signs it and the seal of the people's mediation committee for medical disputes is affixed.\nWhere a mediation agreement is reached, the people's mediation committee for medical disputes shall inform both the patient and the medical institution that they may apply to a people's court for judicial confirmation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the patient and the medical institution apply for administrative mediation of a medical dispute, they shall, with reference to the provisions of paragraphs 1 and 2 of Article 31 of these Regulations, submit an application to the competent health department of the people's government at the county level in the place where the medical dispute arose.\nThe competent health department shall, within five working days from the date of receipt of the application, decide whether to accept it. Where a party has already brought an action before a people's court and the action has been accepted, or has already applied to the people's mediation committee for medical disputes for mediation and the application has been accepted, the competent health department shall not accept the application; where it has already accepted the application, the mediation shall be terminated.\nThe competent health department shall complete the mediation within 30 working days from the date of acceptance. Where an appraisal is needed, the time taken for the appraisal shall not be counted in the mediation period. Where no mediation agreement is reached beyond the mediation period, the mediation shall be deemed to have failed."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the competent health department needs to consult experts in mediating a medical dispute, it may select experts from the expert pool prescribed in Article 35 of these Regulations; where the patient and the medical institution consider it necessary to conduct a medical damage appraisal to clarify responsibility, the appraisal shall be conducted with reference to the provisions of Article 34 of these Regulations.\nWhere the patient and the medical institution reach agreement through mediation by the competent health department, they shall sign a mediation agreement."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The people's mediation committee for medical disputes and its people's mediators, and the competent health department and its staff, shall keep confidential the personal privacy and other matters of both the patient and the medical institution.\nWithout the consent of both the patient and the medical institution, the people's mediation committee for medical disputes and the competent health department may not conduct mediation in public, nor make public the contents of the mediation agreement."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a medical dispute arises and consultation or mediation fails, the party may bring an action before a people's court in accordance with law. The party may also directly bring an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a medical dispute arises and compensation is required, the amount of compensation shall be determined in accordance with the provisions of law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Handling of Medical Disputes"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a medical institution alters, forges, conceals or destroys medical records, the competent health department of the people's government at or above the county level shall impose or order the imposition of a sanction of reduction in post grade or removal from office on the person directly in charge who is responsible and other persons directly responsible, and shall order the medical staff concerned to suspend practice for not less than six months but not more than one year; where serious consequences are caused, it shall impose or order the imposition of a sanction of discharge on the person directly in charge who is responsible and other persons directly responsible, and the original issuing authority shall revoke the practising certificates of the medical staff concerned; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a medical institution applies a new medical technology that has not passed technical assessment and ethical review to clinical use, the competent health department of the people's government at or above the county level shall confiscate the illegal gains and concurrently impose a fine of not less than RMB 50,000 but not more than RMB 100,000, impose or order the imposition of a sanction of reduction in post grade or removal from office on the person directly in charge who is responsible and other persons directly responsible, and order the medical staff concerned to suspend practice for not less than six months but not more than one year; where the circumstances are serious, it shall impose or order the imposition of a sanction of discharge on the person directly in charge who is responsible and other persons directly responsible, and the original issuing authority shall revoke the practising certificates of the medical staff concerned; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a medical institution or its medical staff falls under any of the following circumstances, the competent health department of the people's government at or above the county level shall order correction, give a warning and concurrently impose a fine of not less than RMB 10,000 but not more than RMB 50,000; where the circumstances are serious, it shall impose or order the imposition of a sanction of reduction in post grade or removal from office on the person directly in charge who is responsible and other persons directly responsible, and may order the medical staff concerned to suspend practice for not less than one month but not more than six months; and if a crime is constituted, criminal liability shall be investigated in accordance with law:\n(a) failing to formulate and implement a system for the management of medical quality and safety in accordance with the provisions;\n(b) failing to inform the patient of his condition, the medical measures, the medical risks, the alternative medical plans and the like in accordance with the provisions;\n(c) carrying out diagnostic and treatment activities with relatively high medical risks without preparing response plans in advance to guard against unexpected risks;\n(d) failing to fill in or keep medical records in accordance with the provisions, or failing to make supplementary records of rescue medical records in accordance with the provisions;\n(e) refusing to provide the patient with the service of consulting and copying medical records;\n(f) failing to establish a system for receiving complaints, to set up a unified department for handling complaints or to assign full-time (part-time) personnel;\n(g) failing to seal, keep or unseal medical records and physical evidence at the scene in accordance with the provisions;\n(h) failing to report a major medical dispute to the competent health department in accordance with the provisions;\n(i) other circumstances of failing to perform the obligations prescribed by these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a medical association or forensic appraisal institution issues a false medical damage appraisal opinion, the health and judicial administration departments of the people's government at or above the county level shall, in accordance with their duties, confiscate the illegal gains and concurrently impose a fine of not less than RMB 50,000 but not more than RMB 100,000, order the medical association, forensic appraisal institution and the appraisers concerned to suspend medical damage appraisal business for not less than three months but not more than one year, and impose or order the imposition of a sanction of reduction in post grade or removal from office on the person directly in charge who is responsible and other persons directly responsible; where the circumstances are serious, the medical association, forensic appraisal institution and the appraisers concerned may not engage in medical damage appraisal business for five years or their registration shall be revoked, and a sanction of discharge shall be imposed or ordered on the person directly in charge who is responsible and other persons directly responsible; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an autopsy institution issues a false autopsy report, the health and judicial administration departments of the people's government at or above the county level shall, in accordance with their duties, confiscate the illegal gains and concurrently impose a fine of not less than RMB 50,000 but not more than RMB 100,000, order the autopsy institution and the autopsy professionals concerned to suspend autopsy business for not less than three months but not more than one year, and impose or order the imposition of a sanction of reduction in post grade or removal from office on the person directly in charge who is responsible and other persons directly responsible; where the circumstances are serious, the autopsy qualifications of the autopsy institution and the autopsy professionals concerned shall be revoked, and a sanction of discharge shall be imposed or ordered on the person directly in charge who is responsible and other persons directly responsible; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a people's mediator for medical disputes commits any of the following acts, the people's mediation committee for medical disputes shall give him criticism and education and order him to make correction; where the circumstances are serious, he shall be dismissed in accordance with law:\n(a) favouring one party;\n(b) insulting a party;\n(c) demanding or accepting property or seeking other improper benefits;\n(d) disclosing the personal privacy or other matters of the patient and the medical institution."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the news media fabricates or disseminates false information on medical disputes, the relevant competent department shall impose a penalty in accordance with law; where the lawful rights and interests of a citizen, legal person or other organisation are harmed, civil liability such as eliminating the adverse effect, restoring reputation, compensating for loss and making an apology shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where the competent health department of a people's government at or above the county level or another relevant department or a staff member thereof, in the work of preventing and handling medical disputes, fails to perform its duties or abuses its power, neglects its duty or practises favouritism and irregularities, the competent health and other relevant departments of the people's government at a higher level or the supervisory organ shall order correction; sanctions shall be imposed in accordance with law on the person directly in charge who is responsible and other persons directly responsible; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the patient or the medical institution causes personal, property or other harm in the course of handling a medical dispute, civil liability shall be borne in accordance with law; where an act violating the administration of public security is constituted, the public security organ shall impose a penalty for the administration of public security in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The measures for the prevention and handling of medical disputes in medical institutions of the military shall be formulated by the relevant departments of the organs of the Central Military Commission together with the competent health department of the State Council on the basis of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The administrative investigation and handling of medical malpractice in diagnostic and treatment activities shall be carried out in accordance with the relevant provisions of the Regulations on the Handling of Medical Malpractice."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "These Regulations shall come into force on 1 October 2018."
+        },
+        "noLabel": {
+          "en": "Article 56."
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
@@ -16730,6 +21992,690 @@
     ]
   };
 
+  TR['CN-REG-0409'] = {
+    "lawId": "CN-REG-0409",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 57 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the management of commercial performances, promote the development of the cultural industry, bring prosperity to socialist literature and art, meet the needs of the people in their cultural life and promote the development of socialist spiritual civilisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"commercial performance\" means a live artistic performance held for the public for profit-making purposes."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Commercial performances must adhere to the orientation of serving the people and serving socialism, give first priority to social benefits while achieving unity between social benefits and economic benefits, and enrich the cultural life of the people."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State encourages performing arts troupes and performers to create and perform outstanding programmes that integrate ideological content with artistic quality, embody the fine cultural traditions of the nation and are welcomed by the people, and encourages them to perform in rural areas, industrial and mining enterprises and to provide free or discounted performances for children and young people."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent culture department of the State Council shall take charge of the supervision and management of commercial performances nationwide. The public security department and the administration for industry and commerce of the State Council shall, within the scope of their respective duties, take charge of the supervision and management of commercial performances.\nThe competent culture departments of local people's governments at or above the county level shall be responsible for the supervision and management of commercial performances within their respective administrative areas. The public security departments and the administrations for industry and commerce of local people's governments at or above the county level shall, within the scope of their respective duties, be responsible for the supervision and management of commercial performances within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A performing arts troupe applying to engage in commercial performance activities shall have full-time performers and equipment and facilities appropriate to its business, and shall submit an application to the competent culture department of the people's government at the county level; a performance agency applying to engage in commercial performance agency business shall have not less than 3 full-time performance agents and funds appropriate to its business, and shall submit an application to the competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government. The competent culture department shall make a decision within 20 days from the date of acceptance of the application. Where the application is approved, a commercial performance licence shall be issued; where the application is not approved, the applicant shall be notified in writing and the reasons shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Commercial Performance Business Entities"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "To establish a performance venue operating unit, the unit shall register with the administration for industry and commerce in accordance with the law, obtain a business licence, and complete the approval formalities in accordance with the provisions of the relevant laws and administrative regulations on fire control, health management and the like.\nA performance venue operating unit shall, within 20 days from the date of obtaining the business licence, file a record with the competent culture department of the local people's government at the county level."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Commercial Performance Business Entities"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a performing arts troupe changes its name, domicile, legal representative or principal person in charge, or its items of commercial performance business, it shall apply to the original issuing organ for the replacement of its commercial performance licence, and shall complete the change of registration with the administration for industry and commerce in accordance with the law.\nWhere a performance venue operating unit changes its name, domicile, legal representative or principal person in charge, it shall complete the change of registration with the administration for industry and commerce in accordance with the law and shall re-file a record with the original filing organ."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Commercial Performance Business Entities"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Individual performers who take commercial performance as their profession (hereinafter referred to as individual performers) and individual performance brokers who take brokering and agency activities for commercial performances as their profession (hereinafter referred to as individual performance brokers) shall register with the administration for industry and commerce in accordance with the law and obtain a business licence.\nIndividual performers and individual performance brokers shall, within 20 days from the date of obtaining the business licence, file a record with the competent culture department of the local people's government at the county level."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Commercial Performance Business Entities"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Foreign investors may, in accordance with the law, establish performance agencies and performance venue operating units within the territory of China, but may not establish performing arts troupes.\nWhere a performance agency with foreign investment applies to engage in commercial performance agency business, or a performance venue operating unit with foreign investment applies to engage in performance venue business, it shall submit an application to the competent culture department of the State Council. The competent culture department of the State Council shall make a decision within 20 days from the date of receipt of the application. Where the application is approved, a commercial performance licence shall be issued; where the application is not approved, the applicant shall be notified in writing and the reasons shall be stated."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Commercial Performance Business Entities"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Investors from the Hong Kong Special Administrative Region and the Macao Special Administrative Region may invest in and establish performance agencies, performance venue operating units and performing arts troupes controlled by the mainland in the mainland; performance agencies of the Hong Kong Special Administrative Region and the Macao Special Administrative Region may establish branches in the mainland.\nInvestors from the Taiwan region may invest in and establish performance agencies and performance venue operating units in the mainland, but may not establish performing arts troupes.\nWhere a performance agency or performing arts troupe established in accordance with this Article applies to engage in commercial performance agency business, or a performance venue operating unit established in accordance with this Article applies to engage in performance venue business, it shall submit an application to the competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government. The competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government shall make a decision within 20 days from the date of receipt of the application. Where the application is approved, a commercial performance licence shall be issued; where the application is not approved, the applicant shall be notified in writing and the reasons shall be stated.\nPerformance agencies and performance venue operating units established in accordance with this Article shall also comply with the provisions of other laws and regulations of China."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment of Commercial Performance Business Entities"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Performing arts troupes and individual performers may hold commercial performances on their own, or may participate in commercial joint performances.\nCommercial joint performances shall be held by performance agencies; however, a performance venue operating unit may hold commercial joint performances at the venue it operates.\nPerformance agencies may engage in brokering, agency and commission agency activities for commercial performances; individual performance brokers may only engage in brokering and agency activities for commercial performances."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "To hold a commercial performance, an application shall be submitted to the competent culture department of the people's government at the county level in the place where the performance is held. The competent culture department of the people's government at the county level shall make a decision within 3 days from the date of acceptance of the application. Where the application complies with the provisions of Article 25 of these Regulations, an approval document shall be issued; where it does not comply with the provisions of Article 25 of these Regulations, approval shall not be granted and the applicant shall be notified in writing with the reasons stated."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Except for performance agencies, no other unit or individual may hold commercial performances in which performing arts troupes or individuals from foreign countries, the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region participate. However, where a performing arts troupe holds a commercial performance on its own, it may invite performing arts troupes or individuals from foreign countries, the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region to participate.\nTo hold a commercial performance in which performing arts troupes or individuals from foreign countries, the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region participate, the following conditions shall be met:\n(a) having funds appropriate to the commercial performance to be held;\n(b) having experience of holding commercial performances for not less than 2 years; and\n(c) having no record of violation of these Regulations within the 2 years prior to holding the commercial performance."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "To hold a commercial performance in which performing arts troupes or individuals from foreign countries participate, the unit holding the performance shall submit an application to the competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where the performance is held.\nTo hold a commercial performance in which performing arts troupes or individuals from the Hong Kong Special Administrative Region or the Macao Special Administrative Region participate, the unit holding the performance shall submit an application to the competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where the performance is held; to hold a commercial performance in which performing arts troupes or individuals from the Taiwan region participate, the unit holding the performance shall submit an application to the approval organ prescribed by the competent culture department of the State Council together with the relevant departments of the State Council.\nThe competent culture department of the State Council or the competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government shall make a decision within 20 days from the date of acceptance of the application. Where the application complies with the provisions of Article 25 of these Regulations, an approval document shall be issued; where it does not comply with the provisions of Article 25 of these Regulations, approval shall not be granted and the applicant shall be notified in writing with the reasons stated."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "To apply to hold a commercial performance, the application materials submitted shall include the following content:\n(a) the name of the performance, the unit holding the performance, and the performing arts troupes and performers participating in the performance;\n(b) the time, place and number of sessions of the performance; and\n(c) the programmes and their audio-visual materials.\nTo apply to hold a commercial joint performance, written letters of consent to participate in the performance from the performing arts troupes and performers shall also be submitted.\nWhere the matters listed in the application materials need to be changed for a commercial performance, a new application for approval shall be submitted separately in accordance with Articles 13 and 15 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a performance venue operating unit provides a performance venue, it shall verify the approval document obtained by the unit holding the performance, and shall not provide a performance venue for a commercial performance that has not been approved."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A performance venue operating unit shall ensure that the buildings and facilities of the performance venue comply with State safety standards and fire safety norms, regularly inspect the condition of fire safety facilities and promptly maintain and update them.\nA performance venue operating unit shall formulate safety and security work plans and fire-fighting and emergency evacuation contingency plans.\nWhere a unit holding a performance conducts a commercial performance at a performance venue, it shall verify the inspection records of fire safety facilities, the safety and security work plan and the fire-fighting and emergency evacuation contingency plans of the performance venue operating unit, and shall conclude a safety responsibility agreement with the performance venue operating unit on matters such as the prevention and handling of unexpected safety incidents during the performance activities."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "To hold a commercial performance in a public place, the unit holding the performance shall complete the approval formalities in accordance with the relevant laws and administrative regulations on safety and fire control and the relevant provisions of the State, and shall formulate safety and security work plans and fire-fighting and emergency evacuation contingency plans. The performance venue shall be equipped with emergency broadcasting and lighting facilities, set up conspicuous signs at safety exits and ensure that safety exits are unobstructed; where a stage or stands need to be temporarily erected, the unit holding the performance shall erect the stage or stands in accordance with the relevant State safety standards to ensure safety."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "When examining and approving a commercial performance for which a stage or stands are to be temporarily erected, the competent culture department shall verify the following documents of the unit holding the performance:\n(a) the certificate of conformity of the performance venue obtained after acceptance inspection in accordance with the law;\n(b) the safety and security work plan and the fire-fighting and emergency evacuation contingency plans; and\n(c) the approval documents for safety and fire control obtained in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The number of spectators that a performance venue can accommodate shall be reported to the public security department for verification and approval; the spectator area and the buffer area shall be designated by the public security department, and the buffer area shall bear conspicuous signs.\nThe unit holding the performance shall print and sell tickets in accordance with the number of spectators verified and approved by the public security department and the spectator areas designated by it.\nWhere, during ticket checking, it is found that the number of spectators entering the performance venue has reached the verified and approved number and spectators are still waiting to enter, ticket checking shall be immediately terminated and a report shall be made simultaneously to the public security department of the people's government at the county level in the place where the performance is held; where it is found that a spectator holds a ticket for an area other than the spectator area or a forged ticket, the spectator shall be refused entry and a report shall be made simultaneously to the public security department of the people's government at the county level in the place where the performance is held."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "No person may bring pathogens of infectious diseases, explosive, flammable, radioactive, corrosive or other dangerous substances, or illegally bring firearms, ammunition or controlled instruments into the site of a commercial performance.\nA performance venue operating unit shall, in accordance with the requirements of the public security department, be equipped with security check facilities and conduct necessary security checks on spectators entering the site of a commercial performance; where a spectator refuses a security check or commits an act prohibited by the preceding paragraph, the performance venue operating unit has the right to refuse entry."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The unit holding the performance shall organise personnel to implement the safety and fire control measures for the commercial performance and maintain order at the site of the commercial performance.\nWhere the unit holding the performance or the performance venue operating unit discovers that order at the site of the commercial performance is in chaos, it shall immediately take measures and simultaneously report to the public security department of the people's government at the county level in the place where the performance is held."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The unit holding a performance shall not hold a commercial performance in the name of the government or a government department.\nA commercial performance shall not be titled with words such as \"China\", \"Chinese\", \"National\" or \"International\".\nThe content of advertisements for commercial performances must be truthful and lawful, and shall not mislead or deceive the public."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A commercial performance shall not involve any of the following circumstances:\n(a) opposing the basic principles established by the Constitution;\n(b) endangering national unity, sovereignty or territorial integrity, endangering national security, or harming national honour or interests;\n(c) inciting ethnic hatred or ethnic discrimination, infringing upon ethnic customs and habits, hurting national feelings, undermining ethnic unity, or violating religious policies;\n(d) disrupting social order or undermining social stability;\n(e) harming social morality or the fine cultural traditions of the nation;\n(f) advocating obscenity, pornography, cults or superstition, or glorifying violence;\n(g) insulting or slandering others, or infringing upon the lawful rights and interests of others;\n(h) using terror or cruelty in the manner of performance so as to damage the physical and mental health of performers;\n(i) using human deformities or displaying human mutations to attract spectators; and\n(j) other circumstances prohibited by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a performance venue operating unit or a unit holding a performance discovers that a commercial performance involves any circumstance prohibited by Article 25 of these Regulations, it shall immediately take measures to stop it and simultaneously report to the competent culture department and the public security department of the people's government at the county level in the place where the performance is held."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where there is a change in the performing arts troupes, principal performers or main programme content participating in a commercial performance, the unit holding the performance shall promptly inform the spectators and state the reasons. Spectators have the right to a refund of their tickets.\nDuring a performance, except where the performance cannot be given due to force majeure, the unit holding the performance shall not suspend or stop the performance, and performers shall not withdraw from the performance."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Performers shall not deceive spectators by lip-synching, and the unit holding the performance shall not organise performers to lip-synch. No unit or individual shall provide conditions for lip-synching.\nThe unit holding the performance shall assign dedicated personnel to supervise the performance so as to prevent the occurrence of lip-synching."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Commercial performance business entities shall pay taxes in accordance with the law on the operating income from their commercial performances.\nWhen paying performance remuneration to performers and staff, the unit holding the performance shall perform its obligation to withhold and remit taxes in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The income from charity performances for fundraising shall, apart from the necessary costs and expenses, be delivered in full to the recipient units; the unit holding the performance, the performing arts troupes and performers participating in the performance and the staff shall not obtain economic benefits therefrom."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "No unit or individual may forge, alter, lease, lend or trade in commercial performance licences, approval documents or business licences, and may not forge or alter tickets for commercial performances or scalp forged or altered tickets for commercial performances."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Standards for Commercial Performances"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Except where the competent culture department grants subsidies in accordance with the relevant provisions of the State to performances that embody ethnic characteristics and the national level, people's governments at all levels and government departments shall not fund, sponsor or in a disguised form fund or sponsor commercial performances, and shall not use public funds to purchase tickets for commercial performances for personal consumption."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The competent culture departments shall strengthen the supervision and management of commercial performances.\nThe competent culture department of the people's government at the county level in the place where a performance is held shall conduct on-site inspections of commercial performances in which performing arts troupes or individuals from foreign countries, the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region participate and of commercial performances for which a stage or stands are temporarily erected; and shall conduct on-site random inspections of other commercial performances."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent culture departments of local people's governments at or above the county level shall give full play to the role of cultural law enforcement agencies and may engage public-spirited social supervisors to supervise commercial performances.\nAny unit or individual may report acts in violation of these Regulations by telephone, mobile phone text message or other means. The competent culture departments of local people's governments at or above the county level shall publish report hotline numbers to the public and ensure that they are answered at all times.\nUpon receiving a report from a public-spirited social supervisor or a report from the public, the competent culture department of a local people's government at or above the county level shall make a record, immediately go to the scene to investigate and handle the matter, and publish the result within 7 days from the date of completion of handling.\nThe competent culture departments of local people's governments at or above the county level shall commend public-spirited social supervisors who have made outstanding contributions; where a report from the public is verified through investigation, the informant shall be rewarded."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The competent culture departments shall establish credit supervision systems for the business activities of commercial performance business entities, establish and improve credit constraint mechanisms, and promptly publish information on administrative penalties."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "For commercial performances approved by the public security department in accordance with the relevant laws, administrative regulations and relevant provisions of the State, the public security department shall conduct on-site inspections of the safety conditions of the site of the commercial performance before the performance is held; where hidden safety dangers are discovered, the commercial performance may be allowed to proceed only after the hidden dangers have been eliminated.\nThe public security department may conduct necessary security checks on spectators entering the site of a commercial performance; where a spectator is found to have committed an act prohibited by the first paragraph of Article 22 of these Regulations, the spectator may be allowed to enter only after the hidden safety danger has been eliminated.\nThe public security department may organise police forces to assist the unit holding the performance in maintaining order at the site of the commercial performance."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Upon receiving a report that the number of spectators has reached the verified and approved number while spectators are still waiting to enter, or that order at the performance is in chaos, the public security department shall immediately organise and take measures to eliminate hidden safety dangers."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Personnel of the public security department and the competent culture department undertaking on-site management and inspection tasks shall present their duty certificates when entering the site of a commercial performance."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "When the competent culture department conducts supervision and inspection of commercial performances in accordance with the law, it shall record the circumstances of supervision and inspection and the results of handling, and shall place them on file after signature by the supervision and inspection personnel. The public has the right to consult the supervision and inspection records."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The competent culture departments, public security departments and other relevant departments and their staff shall not demand performance tickets from units holding performances or performance venue operating units."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent culture department of the State Council and the competent culture departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall commend performing arts troupes and performers that have distinguished themselves in performing in rural areas and industrial and mining enterprises and in providing free or discounted performances for children and young people, and shall publicise them in various forms.\nFor programmes suitable for performance in rural areas and industrial and mining enterprises, the competent culture department of the State Council may, after obtaining the permission of the copyright owner in accordance with the law, provide them to performing arts troupes and performers for use in performances in rural areas and industrial and mining enterprises.\nWhen conducting literary and artistic awards, the competent culture departments shall give appropriate consideration to the number of performances given by the participants in rural areas and industrial and mining enterprises.\nLocal people's governments at or above the county level shall give support to performing arts troupes and performers that perform in rural areas and industrial and mining enterprises."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Performance industry associations shall, in accordance with their articles of association, formulate norms of industry self-discipline, guide and supervise the business activities of their members and promote fair competition."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent culture department of the people's government at the county level shall ban it, confiscate the performance equipment and illegal gains, and impose a fine of not less than 8 times and not more than 10 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 50,000 and not more than RMB 100,000 shall be imposed concurrently; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) engaging in commercial performance business activities without authorisation in violation of Articles 6, 10 and 11 of these Regulations;\n(b) engaging in commercial performance business activities beyond the permitted scope in violation of Articles 12 and 14 of these Regulations; and\n(c) failing to apply to the original issuing organ for the replacement of the commercial performance licence when changing the items of commercial performance business, in violation of the first paragraph of Article 8 of these Regulations.\nWhere a performance venue operating unit is established without authorisation or commercial performance business activities are engaged in without authorisation in violation of Articles 7 and 9 of these Regulations, the administration for industry and commerce shall ban and penalise it in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a commercial performance is held without approval in violation of Articles 13 and 15 of these Regulations, the competent culture department of the people's government at the county level shall order the performance to be stopped, confiscate the illegal gains and impose a fine of not less than 8 times and not more than 10 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 50,000 and not more than RMB 100,000 shall be imposed concurrently; where the circumstances are serious, the original issuing organ shall revoke the commercial performance licence.\nWhere, in violation of the third paragraph of Article 16 of these Regulations, a change in the unit holding the performance, the performing arts troupes or performers participating in the performance, or the programmes is not reported anew for approval, it shall be penalised in accordance with the provisions of the preceding paragraph; where a change in the name, time, place or number of sessions of the performance is not reported anew for approval, the competent culture department of the people's government at the county level shall order correction, give a warning and may impose a fine of not more than RMB 30,000 concurrently.\nWhere a performance venue operating unit provides a venue for a commercial performance that has not been approved, the competent culture department of the people's government at the county level shall order correction, confiscate the illegal gains and impose a fine of not less than 3 times and not more than 5 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 30,000 and not more than RMB 50,000 shall be imposed concurrently."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of Article 31 of these Regulations, a commercial performance licence or approval document is forged, altered, leased, lent or traded in, or a commercial performance licence or approval document is obtained by illegal means, the competent culture department of the people's government at the county level shall confiscate the illegal gains and impose a fine of not less than 8 times and not more than 10 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 50,000 and not more than RMB 100,000 shall be imposed concurrently; the commercial performance licence or approval document originally obtained shall be revoked or rescinded; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a commercial performance involves any circumstance prohibited by Article 25 of these Regulations, the competent culture department of the people's government at the county level shall order the performance to be stopped, confiscate the illegal gains and impose a fine of not less than 8 times and not more than 10 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 50,000 and not more than RMB 100,000 shall be imposed concurrently; where the circumstances are serious, the original issuing organ shall revoke the commercial performance licence; where the provisions on public security administration are violated, the public security department shall impose a penalty in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nWhere a performance venue operating unit or a unit holding a performance discovers that a commercial performance involves a circumstance prohibited by Article 25 of these Regulations but fails to take measures to stop it, the competent culture department and the public security department of the people's government at the county level shall, in accordance with their statutory functions and powers, give a warning and impose a fine of not less than RMB 50,000 and not more than RMB 100,000 concurrently; where it fails to report in accordance with Article 26 of these Regulations, the competent culture department and the public security department of the people's government at the county level shall, in accordance with their statutory functions and powers, give a warning and impose a fine of not less than RMB 5,000 and not more than RMB 10,000 concurrently."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent culture department of the State Council or the competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government shall make public the unit holding the performance, the performing arts troupe and the performer; where a unit holding a performance or a performing arts troupe is made public again within 2 years, the original issuing organ shall revoke its commercial performance licence; where an individual performer is made public again within 2 years, the administration for industry and commerce shall revoke his or her business licence:\n(a) suspending, stopping or withdrawing from a performance other than due to force majeure;\n(b) failing to promptly inform spectators of a change in the performing arts troupes, principal performers or main programme content;\n(c) deceiving spectators by lip-synching; and\n(d) providing conditions for performers to lip-synch.\nWhere any of the acts listed in items (a), (b) and (c) of the preceding paragraph is committed, spectators have the right, after leaving the venue, to require the unit holding the performance to compensate for losses in accordance with the legal provisions on the protection of consumer rights and interests; and the unit holding the performance may, in accordance with the law, seek recovery from the performing arts troupe or performer responsible.\nWhere any of the acts listed in items (a), (b) and (c) of the first paragraph of this Article is committed, the competent culture department of the people's government at the county level shall impose a fine of not less than RMB 50,000 and not more than RMB 100,000; where the act listed in item (d) of the first paragraph of this Article is committed, the competent culture department of the people's government at the county level shall impose a fine of not less than RMB 5,000 and not more than RMB 10,000."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a commercial performance is held in the name of the government or a government department, or a commercial performance is titled with words such as \"China\", \"Chinese\", \"National\" or \"International\", the competent culture department of the people's government at the county level shall order correction, confiscate the illegal gains and impose a fine of not less than 3 times and not more than 5 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 30,000 and not more than RMB 50,000 shall be imposed concurrently; where correction is refused or serious consequences are caused, the original issuing organ shall revoke the commercial performance licence.\nWhere the content of an advertisement for a commercial performance misleads or deceives the public or contains other unlawful content, the administration for industry and commerce shall order the publication to cease and impose a penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the unit holding a performance, or its legal representative, principal person in charge or other directly responsible personnel, obtains economic benefits from a charity performance for fundraising, the competent culture department of the people's government at or above the county level shall, in accordance with its respective functions and powers, order the return of such benefits for delivery to the recipient unit; where a crime is constituted, criminal liability shall be investigated in accordance with the law; where a crime is not constituted, the competent culture department of the people's government at or above the county level shall, in accordance with its respective functions and powers, impose a fine of not less than 3 times and not more than 5 times the illegal gains, and the competent culture department of the State Council or the competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government shall make public the name or title of the offender, until the original issuing organ revokes the commercial performance licence of the unit holding the performance.\nWhere a performing arts troupe, performer or staff member obtains economic benefits from a charity performance for fundraising, the competent culture department of the people's government at or above the county level shall, in accordance with its respective functions and powers, order the return of such benefits for delivery to the recipient unit."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the first paragraph of Article 8 of these Regulations, a change in the name, domicile, legal representative or principal person in charge is made without applying to the original issuing organ for the replacement of the commercial performance licence, the competent culture department of the people's government at the county level shall order correction, give a warning and impose a fine of not less than RMB 10,000 and not more than RMB 30,000 concurrently.\nWhere, in violation of the second paragraph of Article 7, the second paragraph of Article 8 or the second paragraph of Article 9 of these Regulations, the filing formalities are not completed, the competent culture department of the people's government at the county level shall order correction, give a warning and impose a fine of not less than RMB 5,000 and not more than RMB 10,000 concurrently."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where any of the following acts is committed, the public security department or the public security fire control institution shall impose a penalty in accordance with its statutory functions and powers and in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) violating the provisions of these Regulations on safety and fire control management; and\n(b) forging or altering tickets for commercial performances, or scalping forged or altered tickets for commercial performances.\nWhere a unit holding a performance prints or sells tickets for a commercial performance in excess of the verified and approved number of spectators or outside the designated spectator areas, the public security department of the people's government at or above the county level shall, in accordance with its respective functions and powers, order correction, confiscate the illegal gains and impose a fine of not less than 3 times and not more than 5 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 30,000 and not more than RMB 50,000 shall be imposed concurrently; where serious consequences are caused, the original issuing organ shall revoke the commercial performance licence; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a performance venue operating unit, an individual performance broker or an individual performer violates these Regulations and the circumstances are serious, the competent culture department of the people's government at or above the county level shall, in accordance with its respective functions and powers, order it or him or her to cease commercial performance business activities and notify the administration for industry and commerce, which shall revoke the business licence in accordance with the law. Where a performance venue operating unit has other business operations, the administration for industry and commerce shall order it to complete the change of registration, and where it fails to do so within the time limit, shall revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a party has its commercial performance licence revoked by the competent culture department, or its business licence revoked or is ordered to change its registration by the administration for industry and commerce, for violation of these Regulations, then from the date of the administrative penalty, where the party is a unit, its legal representative and principal person in charge shall not serve as the legal representative or principal person in charge of a performing arts troupe, performance agency or performance venue operating unit within 5 years; and where the party is an individual, an individual performer shall not engage in commercial performances within 1 year, and an individual performance broker shall not engage in brokering or agency activities for commercial performances within 5 years.\nWhere a commercial performance licence is revoked by the competent culture department, or a business licence is revoked or change of registration is ordered by the administration for industry and commerce, because a commercial performance involves a circumstance prohibited by Article 25 of these Regulations, the party shall not again engage in commercial performances or in brokering, agency or commission agency activities for commercial performances.\nWhere a party has been subject to administrative penalties twice within 2 years for violation of these Regulations and again commits an illegal act punishable under these Regulations, a heavier penalty shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a people's government at any level or a government department illegally funds or sponsors, or illegally funds or sponsors in a disguised form, a commercial performance, or uses public funds to purchase tickets for commercial performances for personal consumption, it shall be ordered to make correction in accordance with the provisions of the administrative regulations on the punishment and sanctions of fiscal violations. The unit shall be given a warning or a circulated criticism. The directly responsible persons in charge and other directly responsible personnel shall be given a sanction of recording a major demerit; where the circumstances are relatively serious, a sanction of demotion or removal from office shall be given; and where the circumstances are serious, a sanction of dismissal shall be given."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where staff of the competent culture department, the public security department or the administration for industry and commerce abuse their powers, neglect their duties, engage in malpractice for personal gain, or fail to perform their duties in accordance with the provisions of these Regulations, administrative sanctions shall be imposed in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government may formulate specific management measures by reference to the provisions of these Regulations for commercial performances by itinerant folk artists."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2005. The Regulations on the Administration of Commercial Performances promulgated by the State Council on 11 August 1997 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0410'] = {
     "lawId": "CN-REG-0410",
     "sourceLang": "zh",
@@ -17298,6 +23244,705 @@
         },
         "noLabel": {
           "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0412'] = {
+    "lawId": "CN-REG-0412",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 58 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the management of places of entertainment and to safeguard their sound development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"places of entertainment\" means venues for singing and dancing, amusement and the like which are operated for profit, are open to the public and where consumers entertain themselves."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent culture departments of people's governments at or above the county level shall be responsible for the supervision and management of the day-to-day business activities of places of entertainment; and the public security departments at or above the county level shall be responsible for the supervision and management of fire control and public order conditions in places of entertainment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "State organs and their staff shall not open places of entertainment, and shall not participate or participate in a disguised form in the business activities of places of entertainment.\nRelatives who have a husband-and-wife relationship, a direct blood relationship, a collateral blood relationship within three generations, or a close affinity relationship with the staff of the competent culture department or the public security department shall not open places of entertainment, and shall not participate or participate in a disguised form in the business activities of places of entertainment."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Persons in any of the following circumstances shall not open places of entertainment or work in places of entertainment:\n(a) persons who have been convicted of the crimes of organising, forcing, luring, sheltering or procuring prostitution, of producing, selling or disseminating obscene articles, of smuggling, trafficking, transporting or manufacturing narcotic drugs, of rape, of compelling indecent assault or insulting women, of gambling, of money laundering, or of organising, leading or participating in an organisation of a triad nature;\n(b) persons who have been deprived of political rights on account of a crime;\n(c) persons who have undergone compulsory drug rehabilitation for smoking or injecting narcotic drugs; and\n(d) persons who have been subjected to administrative detention for prostitution or whoring."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Foreign investors may, in accordance with the law, establish places of entertainment within the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Places of entertainment shall not be set up in the following locations:\n(a) inside residential buildings, museums, libraries and buildings verified and designated as protected cultural relics sites;\n(b) in the vicinity of residential areas, schools, hospitals and organs;\n(c) in crowded places such as railway stations and airports;\n(d) below the first basement level of a building; and\n(e) in areas adjacent to warehouses for hazardous chemicals.\nThe boundary noise of places of entertainment shall conform to the environmental noise standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The usable floor area of a place of entertainment shall not be less than the minimum standard prescribed by the competent culture department of the State Council; and the establishment of an amusement place of entertainment containing electronic game machines shall comply with the requirements of the competent culture department of the State Council on total quantity and layout."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A place of entertainment applying to engage in entertainment business activities shall submit an application to the competent culture department of the people's government at the county level in the place where it is located; and a place of entertainment with foreign investment applying to engage in entertainment business activities shall submit an application to the competent culture department of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where it is located.\nA place of entertainment applying to engage in entertainment business activities shall submit a written declaration that the investors, the proposed legal representative and other persons in charge do not fall under the circumstances specified in Article 5 of these Regulations. The applicant shall be responsible for the truthfulness of the content of the written declaration.\nThe competent culture department accepting the application shall verify the written declaration with the public security department or other relevant units, and the public security department or other relevant units shall cooperate; where the verification proves the declaration to be true, the competent culture department shall conduct an on-site inspection in accordance with Articles 7 and 8 of these Regulations and make a decision. Where approval is granted, an entertainment business licence shall be issued and the number of consumers that the place of entertainment can accommodate shall be verified in accordance with the provisions of the competent culture department of the State Council; where approval is not granted, the applicant shall be notified in writing with the reasons stated.\nWhere the relevant laws and administrative regulations require the completion of approval formalities for fire control, health, environmental protection and the like, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent culture department shall hold a hearing when examining and approving a place of entertainment. The procedures for the hearing shall be governed by the provisions of the Administrative Licensing Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "After a place of entertainment has lawfully obtained its business licence and the relevant approval documents and licences, it shall, within 15 days, file a record with the public security department at the county level in the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a place of entertainment reconstructs or expands its business premises, or changes its site, main facilities and equipment or investors, or changes the matters stated in its entertainment business licence, it shall apply to the original issuing organ for the re-issuance of the entertainment business licence and file a record with the public security department; and where change of registration is required, it shall complete the change of registration with the administration for industry and commerce in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State advocates carrying forward the fine culture of the nation, and entertainment activities in places of entertainment are prohibited from containing the following content:\n(a) content violating the basic principles established by the Constitution;\n(b) content endangering national unity, sovereignty or territorial integrity;\n(c) content endangering national security, or harming national honour or interests;\n(d) content inciting ethnic hatred or ethnic discrimination, hurting national feelings or infringing upon ethnic customs and habits, or undermining ethnic unity;\n(e) content violating the religious policies of the State by advocating cults or superstition;\n(f) content advocating obscenity, gambling, violence or illegal and criminal activities relating to narcotic drugs, or instigating crime;\n(g) content contrary to social morality or the fine cultural traditions of the nation;\n(h) content insulting or slandering others or infringing upon the lawful rights and interests of others; and\n(i) other content prohibited by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Places of entertainment and their employees shall not commit the following acts, and shall not provide conditions for persons entering places of entertainment to commit the following acts:\n(a) selling or supplying narcotic drugs, or organising, forcing, instigating, luring, deceiving or sheltering others in smoking or injecting narcotic drugs;\n(b) organising, forcing, luring, sheltering or procuring others to engage in prostitution or whoring;\n(c) producing, selling or disseminating obscene articles;\n(d) providing or engaging in companionship services for profit-making purposes;\n(e) gambling;\n(f) engaging in cult or superstitious activities; and\n(g) other illegal and criminal acts.\nEmployees of places of entertainment shall not smoke or inject narcotic drugs, and shall not engage in prostitution or whoring; and places of entertainment and their employees shall not provide conditions for persons entering places of entertainment to commit the aforesaid acts."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Places of entertainment for singing and dancing shall, in accordance with the provisions of the public security department of the State Council, install closed-circuit television monitoring equipment at the entrances and exits and main passages of the business premises, and shall ensure that the closed-circuit television monitoring equipment operates normally and without interruption during business hours.\nPlaces of entertainment for singing and dancing shall keep the closed-circuit television monitoring recordings for 30 days for inspection, and shall not delete, alter or use them for other purposes."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "No partitions shall be installed in the private rooms or compartments of places of entertainment for singing and dancing, and transparent doors and windows displaying the overall indoor environment shall be installed. The doors of private rooms and compartments shall not be fitted with internal locking devices."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "During business hours, the illumination in places of entertainment for singing and dancing shall not be lower than the standard prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The audio-visual products or electronic games used in places of entertainment shall be products lawfully published, produced or imported.\nThe songs and screen images played in places of entertainment for singing and dancing, and the game items in electronic game machines in amusement places of entertainment, shall not contain the content prohibited by Article 13 of these Regulations; and the song request systems used in places of entertainment for singing and dancing shall not be connected to overseas song libraries."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Amusement places of entertainment shall not install game facilities and equipment such as electronic game machine models, types and circuit boards with a gambling function, shall not use cash or negotiable securities as prizes, and shall not buy back prizes."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The legal representative or principal person in charge of a place of entertainment shall be responsible for the fire safety and other safety of the place of entertainment.\nPlaces of entertainment shall ensure that their buildings and facilities comply with State safety standards and fire control technical norms, regularly inspect the condition of fire control facilities, and promptly maintain and update them.\nPlaces of entertainment shall formulate safety work plans and emergency evacuation contingency plans."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "During business hours, places of entertainment shall ensure that evacuation passages and safety exits are unobstructed, shall not block or lock evacuation passages and safety exits, and shall not set up fences or other obstacles affecting evacuation in evacuation passages and safety exits.\nPlaces of entertainment shall set up conspicuous direction signs in evacuation passages and at safety exits, and shall not obscure or cover the direction signs."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "No person may illegally carry firearms, ammunition or controlled instruments, or bring explosive, flammable, toxic, radioactive, corrosive or other dangerous articles or pathogens of infectious diseases into places of entertainment.\nDiscotheques shall be equipped with security check equipment and shall conduct security checks on persons entering the business premises."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Places of entertainment for singing and dancing shall not admit minors. Except on statutory public holidays, the electronic game machines installed in amusement places of entertainment shall not be provided to minors."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Places of entertainment shall not employ minors; and where foreigners are employed, applications for their employment permits as foreigners shall be made in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Places of entertainment shall conclude responsibility agreements for civilised service with their employees and shall establish employee registers; the employee registers shall include such content as the true names of the employees, copies of their resident identity cards and copies of employment permits for foreigners.\nPlaces of entertainment shall keep business logs recording the job duties, working hours and workplaces of employees during business hours; the business logs shall not be deleted or altered and shall be kept for 60 days for inspection."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Places of entertainment shall conclude security service contracts with security service enterprises and shall be staffed with professional security personnel; they shall not employ other persons to engage in security work."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "During business hours, employees of places of entertainment shall wear uniforms, wear work badges and carry their resident identity cards or employment permits as foreigners.\nEmployees shall observe professional ethics and hygiene norms, be honest and trustworthy, treat people courteously and shall not infringe upon the personal and property rights of consumers."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Places of entertainment shall not operate between 2 a.m. and 8 a.m. each day."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Places of entertainment providing entertainment service items and selling goods shall mark prices clearly and present price lists to consumers; they shall not force or deceive consumers into accepting services or purchasing goods."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Places of entertainment shall hang warning signs containing content on the prohibition of drugs, gambling and prostitution and whoring and signs prohibiting or restricting the entry of minors in conspicuous positions in the halls, private rooms and compartments of the business premises. The signs shall indicate the report hotline numbers of the public security department and the competent culture department."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Places of entertainment shall establish patrol systems and, upon discovering illegal and criminal activities in the place of entertainment, shall immediately report to the public security department at the county level and the competent culture department of the people's government at the county level in the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Operations"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Staff of the competent culture department, the public security department and other relevant departments have the right to enter places of entertainment when performing supervision and inspection duties in accordance with the law. Places of entertainment shall cooperate and shall not refuse or obstruct.\nWhere staff of the competent culture department, the public security department and other relevant departments need to consult materials such as closed-circuit television monitoring recordings, employee registers and business logs when performing supervision and inspection duties in accordance with the law, places of entertainment shall provide them promptly."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The competent culture department, the public security department and other relevant departments shall record the circumstances of supervision and inspection and the results of handling. The supervision and inspection records shall be placed on file after signature by the supervision and inspection personnel. The public has the right to consult the supervision and inspection records."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent culture department, the public security department and other relevant departments shall establish a warning record system for illegal acts of places of entertainment; and places of entertainment entered in the warning records shall be promptly published to the public and subjected to intensified supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The competent culture departments shall establish credit supervision systems for the business activities of places of entertainment, establish and improve credit constraint mechanisms, and promptly publish information on administrative penalties."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The competent culture department, the public security department and other relevant departments shall establish mutual information notification systems and promptly notify each other of supervision and inspection circumstances and the results of handling."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Any unit or individual that discovers acts in violation of these Regulations in a place of entertainment has the right to report them to the competent culture department, the public security department and other relevant departments.\nUpon receiving a report, the competent culture department, the public security department and other relevant departments shall make a record and promptly investigate and handle it in accordance with the law; and where the matter does not fall within the scope of their duties, they shall promptly transfer it to the relevant department."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where necessary, the competent culture department and the public security department of a people's government at a higher level may, in accordance with the provisions of these Regulations, investigate and handle cases that are investigated and handled by the competent culture department and the public security department of a people's government at a lower level.\nWhere the competent culture department and the public security department of a people's government at a lower level consider a case to be major and complicated, they may request that it be transferred to the competent culture department and the public security department of the people's government at the higher level for investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where the competent culture department, the public security department or any other relevant department or its staff violates the provisions of these Regulations, any unit or individual may report the matter to the organ at the corresponding level or at the next higher level that has the power to handle it in accordance with the law. The organ receiving the report shall promptly investigate and handle it in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Industry associations of places of entertainment shall, in accordance with their articles of association, formulate norms of industry self-discipline and strengthen guidance over and supervision of the business activities of their members."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a party engages in entertainment business activities without authorisation in violation of the provisions of these Regulations, the competent culture department shall ban it in accordance with the law; and where the public security department discovers, in the course of investigating and handling public security or criminal cases, that entertainment business activities are engaged in without authorisation, it shall ban them in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a party obtains an entertainment business licence by deception or other improper means in violation of the provisions of these Regulations, the original issuing organ shall revoke the entertainment business licence."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a place of entertainment commits an act prohibited by Article 14 of these Regulations, the public security department at the county level shall confiscate the illegal gains and illegal property and order the suspension of business for rectification for not less than 3 months and not more than 6 months; and where the circumstances are serious, the original issuing organ shall revoke the entertainment business licence and impose a fine of not less than RMB 10,000 and not more than RMB 20,000 on the directly responsible persons in charge and other directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a place of entertainment violates the provisions of these Regulations and falls under any of the following circumstances, the public security department at the county level shall order correction and give a warning; and where the circumstances are serious, order the suspension of business for rectification for not less than 1 month and not more than 3 months:\n(a) the installation of lighting facilities and of private rooms and compartments, and the use of doors and windows, not conforming to the provisions of these Regulations;\n(b) failing to install closed-circuit television monitoring equipment in accordance with the provisions of these Regulations, or interrupting its use;\n(c) failing to keep monitoring recordings in accordance with the provisions of these Regulations, or deleting or altering monitoring recordings;\n(d) failing to be equipped with security check equipment in accordance with the provisions of these Regulations, or failing to conduct security checks on persons entering the business premises; and\n(e) failing to be staffed with security personnel in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a place of entertainment violates the provisions of these Regulations and falls under any of the following circumstances, the public security department at the county level shall confiscate the illegal gains and illegal property and impose a fine of not less than 2 times and not more than 5 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 20,000 and not more than RMB 50,000 shall be imposed concurrently; and where the circumstances are serious, order the suspension of business for rectification for not less than 1 month and not more than 3 months:\n(a) installing game facilities and equipment such as electronic game machine models, types and circuit boards with a gambling function; and\n(b) using cash or negotiable securities as prizes, or buying back prizes."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a place of entertainment instigates or connives at its employees infringing upon the personal rights of consumers, it shall bear civil liability in accordance with the law, and the public security department at the county level shall order the suspension of business for rectification for not less than 1 month and not more than 3 months; and where serious consequences are caused, the original issuing organ shall revoke the entertainment business licence."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a place of entertainment fails to file a record with the public security department in accordance with the provisions of these Regulations after obtaining its business licence, the public security department at the county level shall order correction and give a warning."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a party violates the provisions of these Regulations and falls under any of the following circumstances, the competent culture department of the people's government at the county level shall confiscate the illegal gains and illegal property and impose a fine of not less than 1 time and not more than 3 times the illegal gains concurrently; where there are no illegal gains or the illegal gains are less than RMB 10,000, a fine of not less than RMB 10,000 and not more than RMB 30,000 shall be imposed concurrently; and where the circumstances are serious, order the suspension of business for rectification for not less than 1 month and not more than 6 months:\n(a) the song request system of a place of entertainment for singing and dancing being connected to an overseas song library;\n(b) the songs or screen images played in a place of entertainment for singing and dancing, or the game items in electronic game machines in an amusement place of entertainment, containing content prohibited by Article 13 of these Regulations;\n(c) a place of entertainment for singing and dancing admitting minors;\n(d) electronic game machines installed in an amusement place of entertainment being provided to minors outside statutory public holidays; and\n(e) the number of consumers accommodated in a place of entertainment exceeding the verified number."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a place of entertainment violates the provisions of these Regulations and falls under any of the following circumstances, the competent culture department of the people's government at the county level shall order correction and give a warning; and where the circumstances are serious, order the suspension of business for rectification for not less than 1 month and not more than 3 months:\n(a) changing the relevant matters without applying for the re-issuance of the entertainment business licence in accordance with the provisions of these Regulations;\n(b) operating during the business hours prohibited by these Regulations; and\n(c) employees failing to wear uniforms and work badges during business hours."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a place of entertainment fails to establish employee registers or business logs in accordance with the provisions of these Regulations, or fails to report illegal and criminal acts discovered in accordance with the provisions of these Regulations, the competent culture department of the people's government at the county level and the public security department at the county level shall, in accordance with their statutory functions and powers, order correction and give a warning; and where the circumstances are serious, order the suspension of business for rectification for not less than 1 month and not more than 3 months."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a place of entertainment fails to hang warning signs or signs prohibiting or restricting the entry of minors in accordance with the provisions of these Regulations, the competent culture department of the people's government at the county level and the public security department at the county level shall, in accordance with their statutory functions and powers, order correction and give a warning."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a place of entertainment employs minors, the labour and social security administrative department shall order correction and impose a penalty at the rate of RMB 5,000 per month for each minor employed."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a party has been banned in accordance with the law for engaging in entertainment business activities without authorisation, its investors and persons in charge shall be prohibited for life from investing in or opening places of entertainment or from serving as the legal representative or person in charge of a place of entertainment.\nWhere the entertainment business licence of a place of entertainment is revoked or rescinded for violation of the provisions of these Regulations, its legal representative and person in charge shall, from the date of revocation or rescission, be prohibited from serving as the legal representative or person in charge of a place of entertainment for 5 years.\nWhere a place of entertainment has been given 3 warnings or fines within 2 years for violation of the provisions of these Regulations and again commits an act in violation of these Regulations that is subject to administrative penalty, the competent culture department of the people's government at the county level and the public security department at the county level shall, in accordance with their statutory functions and powers, order the suspension of business for rectification for not less than 3 months and not more than 6 months; and where it has been ordered to suspend business for rectification twice within 2 years and again commits an act in violation of these Regulations that is subject to administrative penalty, the original issuing organ shall revoke its entertainment business licence."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a place of entertainment violates the provisions of laws and administrative regulations on public security administration or fire control management, the public security department shall impose a penalty in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nWhere a place of entertainment violates the provisions of laws and administrative regulations on health, environmental protection, prices, labour and the like, the relevant departments shall impose a penalty in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nWhere a dispute arises between a place of entertainment or its employees and a consumer, it shall be resolved in accordance with the legal provisions on the protection of consumer rights and interests; and where personal injury or property loss is caused to a consumer, the place of entertainment shall compensate in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a State organ or its staff opens a place of entertainment or participates or participates in a disguised form in the business activities of a place of entertainment, administrative sanctions of removal from office or dismissal shall be imposed in accordance with the law on the directly responsible persons in charge and other directly responsible personnel.\nWhere staff of the competent culture department or the public security department, knowing that their relatives have opened a place of entertainment, or having discovered that their relatives participate or participate in a disguised form in the business activities of a place of entertainment, fail to stop it or fail to stop it effectively, administrative sanctions shall be imposed in accordance with the law; and where the circumstances are serious, administrative sanctions of removal from office or dismissal shall be imposed in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where staff of the competent culture department, the public security department, the administration for industry and commerce or other relevant departments commit any of the following acts, administrative sanctions shall be imposed in accordance with the law on the directly responsible persons in charge and other directly responsible personnel; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) issuing licences, approval documents or business licences to units that do not meet the statutory conditions for establishment;\n(b) failing to perform supervision and management duties, or failing to ban the unauthorised engagement in entertainment business activities discovered, or failing to investigate and deal with illegal acts discovered in accordance with the law;\n(c) failing to investigate and deal with a report or notification of an illegal act in accordance with the law after receiving it;\n(d) taking advantage of their positions to demand or accept property from others or to seek other benefits;\n(e) taking advantage of their positions to participate in or shield illegal acts, or to tip off the units or individuals concerned; and\n(f) other acts of abuse of power, dereliction of duty or malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "For the purposes of these Regulations, \"employees\" includes managerial personnel, service personnel and security personnel of places of entertainment and other persons working in places of entertainment."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "These Regulations shall come into force on 1 March 2006. The Regulations on the Administration of Places of Entertainment promulgated by the State Council on 26 March 1999 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 58."
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"

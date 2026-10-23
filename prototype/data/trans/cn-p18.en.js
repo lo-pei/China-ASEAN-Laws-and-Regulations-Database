@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p18
-   法规 60 部 / 译文 1602 条
+   法规 68 部 / 译文 2051 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -1863,6 +1863,663 @@
         },
         "noLabel": {
           "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0431'] = {
+    "lawId": "CN-REG-0431",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 55 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of regulating direct selling, strengthening supervision over direct selling activities, preventing fraud, and protecting the lawful rights and interests of consumers and the public interest of society."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Anyone engaging in direct selling activities within the territory of the People's Republic of China shall comply with these Regulations.\nThe scope of direct selling products shall be determined and published by the competent commerce department of the State Council together with the administrative department for industry and commerce of the State Council on the basis of the state of development of the direct selling industry and the demand of consumers."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of these Regulations, \"direct selling\" means a method of distribution in which a direct selling enterprise recruits direct sellers, who promote and sell products directly to end consumers (hereinafter referred to as consumers) outside fixed business premises.\nFor the purposes of these Regulations, \"direct selling enterprise\" means an enterprise that, in accordance with the provisions of these Regulations and upon approval, sells products by way of direct selling.\nFor the purposes of these Regulations, \"direct seller\" means a person who promotes and sells products directly to consumers outside fixed business premises."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "An enterprise established within the territory of the People's Republic of China (hereinafter referred to as an enterprise) may, in accordance with the provisions of these Regulations, apply to become a direct selling enterprise selling by way of direct selling the products it produces and the products produced by its parent company or its controlling company.\nA direct selling enterprise may obtain trading rights and distribution rights in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In carrying out direct selling activities, a direct selling enterprise and its direct sellers may not engage in publicity or sales promotion that is fraudulent, misleading or the like."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent commerce department and the administrative department for industry and commerce of the State Council shall, in accordance with the division of their duties and the provisions of these Regulations, be responsible for supervising and managing direct selling enterprises, direct sellers and their direct selling activities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "An applicant to become a direct selling enterprise shall meet the following conditions:\n(a) the investor has a good commercial reputation and, in the five consecutive years before applying, has no record of major unlawful business operations; a foreign investor shall in addition have more than three years' experience in carrying out direct selling activities outside China;\n(b) the paid-in registered capital is not less than RMB 80 million;\n(c) a deposit has been paid in full into a designated bank in accordance with the provisions of these Regulations;\n(d) a system for filing and disclosure of information has been established in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Modification of Direct Selling Enterprises and Their Branches"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "An applicant to become a direct selling enterprise shall fill in an application form and submit the following application documents and materials:\n(a) documents proving that it meets the conditions prescribed in Article 7 of these Regulations;\n(b) the articles of association of the enterprise and, in the case of a Chinese-foreign equity joint venture or a Chinese-foreign contractual joint venture, the contract for the joint venture;\n(c) a report on the marketing plan, including the plan for service outlets in the areas where direct selling activities are to be carried out, drawn up in accordance with Article 10 of these Regulations and approved by the local people's government at or above the county level;\n(d) product descriptions conforming to national standards;\n(e) a specimen of the direct selling contract to be concluded with direct sellers;\n(f) a capital verification report issued by an accounting firm;\n(g) an agreement between the enterprise and the designated bank consenting to the use of the deposit in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Modification of Direct Selling Enterprises and Their Branches"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The applicant shall submit an application to the competent commerce department of the State Council through the competent commerce department of the province, autonomous region or municipality directly under the Central Government in the place where it is located. The competent commerce department of the province, autonomous region or municipality directly under the Central Government shall, within seven days from the date of receipt of the application documents and materials, transmit the application documents and materials to the competent commerce department of the State Council. The competent commerce department of the State Council shall, within 90 days from the date of receipt of all the application documents and materials and after soliciting the opinions of the administrative department for industry and commerce of the State Council, make a decision to approve or not to approve. Where approval is granted, the competent commerce department of the State Council shall issue a direct selling business licence.\nThe applicant shall, on the strength of the direct selling business licence issued by the competent commerce department of the State Council, apply to the administrative department for industry and commerce for registration of change in accordance with law.\nIn examining and issuing a direct selling business licence, the competent commerce department of the State Council shall take into consideration such factors as national security, the public interest of society and the state of development of the direct selling industry."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Modification of Direct Selling Enterprises and Their Branches"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "To carry out direct selling activities, a direct selling enterprise must establish, in the province, autonomous region or municipality directly under the Central Government where it intends to carry out such activities, a branch responsible for the direct selling business within that administrative area (hereinafter referred to as a branch).\nA direct selling enterprise shall, in the areas where it carries out direct selling activities, establish service outlets that make it convenient for and enable consumers and direct sellers to learn about product prices, exchange and return of goods and other services lawfully provided by the enterprise. The establishment of service outlets shall conform to the requirements of the local people's government at or above the county level.\nTo apply for the establishment of a branch, a direct selling enterprise shall provide the documents and materials proving that it meets the conditions prescribed in the preceding paragraph and shall submit an application in accordance with the procedure prescribed in paragraph 1 of Article 9 of these Regulations. After approval, it shall complete registration with the administrative department for industry and commerce in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Modification of Direct Selling Enterprises and Their Branches"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a major change occurs in the matters listed in items 1, 2, 3, 5, 6 and 7 of Article 8 of these Regulations, the direct selling enterprise shall report the matter to the competent commerce department of the State Council for approval in accordance with the procedure prescribed in paragraph 1 of Article 9 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Modification of Direct Selling Enterprises and Their Branches"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent commerce department of the State Council shall publish on its government website the list of direct selling enterprises and their branches and shall update it promptly."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Establishment and Modification of Direct Selling Enterprises and Their Branches"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A direct selling enterprise and its branches may recruit direct sellers. No unit or individual other than a direct selling enterprise and its branches may recruit direct sellers.\nThe lawful sales promotion activities of direct sellers shall not be investigated and punished as unlicensed business operations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A direct selling enterprise and its branches may not publish advertisements publicising the sales remuneration of direct sellers, and may not make the payment of fees or the purchase of goods a condition for becoming a direct seller."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A direct selling enterprise and its branches may not recruit the following persons as direct sellers:\n(a) persons under 18 years of age;\n(b) persons with no capacity for civil conduct or with limited capacity for civil conduct;\n(c) full-time students in school;\n(d) teachers, medical personnel, public servants and persons on active service in the military;\n(e) formal employees of the direct selling enterprise;\n(f) persons from outside the territory;\n(g) persons who may not engage in part-time work as prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In recruiting direct sellers, a direct selling enterprise and its branches shall conclude a direct selling contract with them and shall ensure that a direct seller carries out direct selling activities only in the areas within the administrative area of the province, autonomous region or municipality directly under the Central Government in which one of its branches is located and where service outlets have been established. Persons who have not concluded a direct selling contract with a direct selling enterprise or its branches may not engage in direct selling activities in any manner."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A direct seller may terminate the direct selling contract at any time within 60 days from the date of concluding it; after 60 days, a direct seller shall give the direct selling enterprise 15 days' notice before terminating the direct selling contract."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A direct selling enterprise shall provide professional training and examination for the direct sellers it intends to recruit, and shall issue a Direct Seller Certificate to those who pass the examination. Without a Direct Seller Certificate, no person may engage in direct selling activities.\nA direct selling enterprise may not charge any fees for the professional training and examination of direct sellers.\nUnits and individuals other than direct selling enterprises may not organise professional training for direct sellers under any name."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Persons giving instruction in professional training for direct sellers shall be formal employees of the direct selling enterprise and shall meet the following conditions:\n(a) having worked in the enterprise for more than one year;\n(b) having an educational background of at least a bachelor's degree in higher education and the relevant professional knowledge of law and marketing;\n(c) having no record of criminal punishment for an intentional crime;\n(d) having no record of major unlawful business operations.\nA direct selling enterprise shall issue a Direct Selling Trainer Certificate to persons giving instruction who meet the conditions prescribed in the preceding paragraph, and shall report the list of persons who have obtained the Direct Selling Trainer Certificate to the competent commerce department of the State Council for the record. The competent commerce department of the State Council shall publish the list of persons who have obtained the Direct Selling Trainer Certificate on its government website.\nPersons from outside the territory may not give instruction in professional training for direct sellers."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The Direct Seller Certificate and the Direct Selling Trainer Certificate issued by a direct selling enterprise shall be printed in the format prescribed by the competent commerce department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A direct selling enterprise shall be responsible for the lawfulness of the professional training of direct sellers, for the order of the training and for the safety of the training premises.\nA direct selling enterprise and its direct selling trainers shall be responsible for the lawfulness of the content of instruction in professional training for direct sellers.\nThe specific measures for the administration of professional training for direct sellers shall be formulated separately by the competent commerce department and the administrative department for industry and commerce of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Recruitment and Training of Direct Sellers"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "In promoting and selling products to consumers, a direct seller shall comply with the following provisions:\n(a) to produce the Direct Seller Certificate and the direct selling contract;\n(b) not to enter a consumer's residence to press products on the consumer without the consumer's consent; where the consumer requests that the sales promotion be stopped, to stop immediately and leave the consumer's residence;\n(c) to explain to the consumer in detail the enterprise's return system before the transaction is concluded;\n(d) after the transaction is concluded, to provide the consumer with an invoice and with a sales voucher issued by the direct selling enterprise containing the return system, the address and telephone number of the local service outlet of the direct selling enterprise and other particulars."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Direct Selling Activities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A direct selling enterprise shall mark the price of its products on the direct selling products, and that price shall be consistent with the price of the products displayed at the service outlets. Direct sellers must promote and sell products to consumers at the marked price."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Direct Selling Activities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A direct selling enterprise shall pay remuneration to direct sellers at least on a monthly basis. The remuneration paid by a direct selling enterprise to a direct seller may be calculated only on the basis of the income from the sale of products by that direct seller directly to consumers, and the total remuneration (including commissions, bonuses, rewards in various forms and other economic benefits) may not exceed 30 per cent of the income from the sale of products by that direct seller directly to consumers."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Direct Selling Activities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A direct selling enterprise shall establish and implement a sound system for the exchange and return of goods.\nWhere, within 30 days from the date of purchase of direct selling products and the products are unopened, a consumer may apply for exchange or return of the goods, on the strength of the invoice or sales voucher issued by the direct selling enterprise, to the direct selling enterprise and its branches, the local service outlet or the direct seller who sold the products; the direct selling enterprise and its branches, the local service outlet and the direct seller shall, within seven days from the date on which the consumer requests exchange or return, handle the exchange or return in accordance with the price stated on the invoice or sales voucher.\nWhere, within 30 days from the date of purchase of direct selling products and the products are unopened, a direct seller may apply for exchange or return of the goods, on the strength of the invoice or sales voucher issued by the direct selling enterprise, to the direct selling enterprise and its branches or the local service outlet; the direct selling enterprise and its branches and the local service outlet shall, within seven days from the date on which the direct seller requests exchange or return, handle the exchange or return in accordance with the price stated on the invoice or sales voucher.\nWhere the circumstances specified in the preceding two paragraphs do not apply and a consumer or direct seller requests exchange or return of goods, the direct selling enterprise and its branches, the local service outlet and the direct seller shall handle the exchange or return in accordance with the provisions of the relevant laws and regulations or the agreement in the contract."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Direct Selling Activities"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a dispute arises between a direct selling enterprise and a direct seller, or between a direct selling enterprise or its direct sellers and a consumer, over the exchange or return of goods, the former shall bear the burden of proof."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Direct Selling Activities"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A direct selling enterprise shall bear joint and several liability for the direct selling activities of its direct sellers, unless it can prove that the direct selling activities of the direct seller are unrelated to the enterprise."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Direct Selling Activities"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A direct selling enterprise shall, in accordance with the provisions of the competent commerce department and the administrative department for industry and commerce of the State Council, establish and implement a complete system for filing and disclosure of information.\nThe content and manner of, and the related requirements for, the filing and disclosure of information by direct selling enterprises shall be prescribed separately by the competent commerce department and the administrative department for industry and commerce of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Direct Selling Activities"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A direct selling enterprise shall open a special account with a bank jointly designated by the competent commerce department and the administrative department for industry and commerce of the State Council and deposit the deposit therein.\nThe amount of the deposit shall be RMB 20 million when the direct selling enterprise is established; after the direct selling enterprise begins operation, the deposit shall be adjusted monthly and shall be maintained at a level of 15 per cent of the sales income from direct selling products of the enterprise in the preceding month, subject to a maximum of RMB 100 million and a minimum of RMB 20 million. The interest on the deposit shall belong to the direct selling enterprise."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Deposit"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Upon a joint decision of the competent commerce department and the administrative department for industry and commerce of the State Council, the deposit may be used under any of the following circumstances:\n(a) without justified reasons, the direct selling enterprise fails to pay remuneration to direct sellers or fails to pay refunds for returned goods to direct sellers or consumers;\n(b) the direct selling enterprise suspends business, merges, dissolves, transfers, becomes bankrupt or the like and is unable to pay remuneration to direct sellers or to pay refunds for returned goods to direct sellers and consumers;\n(c) losses are caused to consumers by problems with direct selling products and compensation should be made in accordance with law, but the direct selling enterprise refuses to compensate without justified reasons or is unable to compensate."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Deposit"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "After the deposit has been used in accordance with Article 30 of these Regulations, the direct selling enterprise shall, within one month, make up the amount of the deposit to the level prescribed in paragraph 2 of Article 29 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Deposit"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A direct selling enterprise may not use the deposit to provide an external guarantee or, in violation of the provisions of these Regulations, to pay off debts."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Deposit"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a direct selling enterprise ceases to engage in direct selling activities, it may, on the strength of the certificate issued by the competent commerce department and the administrative department for industry and commerce of the State Council, withdraw the deposit from the bank."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Deposit"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent commerce department and the administrative department for industry and commerce of the State Council shall be jointly responsible for the day-to-day supervision of the deposit.\nThe specific measures for the administration of the deposit and its use shall be formulated separately by the competent commerce department and the administrative department for industry and commerce of the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Deposit"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The administrative department for industry and commerce shall be responsible for the day-to-day supervision and management of direct selling enterprises, direct sellers and their direct selling activities. The administrative department for industry and commerce may take the following measures to conduct on-site inspection:\n(a) to enter the enterprise concerned for inspection;\n(b) to require the enterprise concerned to provide the relevant documents, materials and evidentiary materials;\n(c) to question the parties, interested parties and other relevant persons and require them to provide the relevant materials;\n(d) to consult, copy, seal up or seize the materials and unlawful property of the enterprise concerned relating to direct selling activities;\n(e) to inspect the Direct Selling Trainer Certificate, the Direct Seller Certificate and other certificates of the persons concerned.\nWhere the administrative department for industry and commerce conducts on-site inspection in accordance with the preceding paragraph, there shall be not fewer than two inspectors, who shall produce their lawful certificates; the sealing up or seizure shall be subject to the approval of the principal person in charge of the administrative department for industry and commerce at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where, in the course of day-to-day supervision and management, the administrative department for industry and commerce finds that an enterprise concerned is suspected of an act in violation of these Regulations, it may, with the approval of the principal person in charge of the administrative department for industry and commerce at or above the county level, order the enterprise to suspend the relevant business activities temporarily."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The administrative department for industry and commerce shall set up and publish a telephone hotline for reports, accept reports and complaints of acts in violation of these Regulations, and promptly investigate and handle them.\nThe administrative department for industry and commerce shall keep the identity of informants confidential and shall, in accordance with the relevant provisions of the State, reward informants who have performed meritorious service."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a department responsible for supervising and managing direct selling enterprises, direct sellers and their direct selling activities, or a staff member thereof, grants a licence to an applicant that does not meet the conditions prescribed in these Regulations, or fails to perform its duties of supervision and management in accordance with the provisions of these Regulations, administrative sanctions shall be imposed in accordance with law on the person directly in charge who is responsible and other persons directly responsible; and if a crime is constituted, criminal liability shall be investigated in accordance with law. A licence granted to an application that does not meet the conditions prescribed in these Regulations shall be revoked by the department that made the decision to grant it."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Anyone who, in violation of Articles 9 and 10 of these Regulations, engages in direct selling activities without approval shall be ordered by the administrative department for industry and commerce to make correction, and the direct selling products and the unlawful sales income shall be confiscated, and a fine of not less than RMB 50,000 but not more than RMB 300,000 shall be imposed; where the circumstances are serious, a fine of not less than RMB 300,000 but not more than RMB 500,000 shall be imposed and the business shall be banned in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where an applicant obtains the licence provided for in Articles 9 and 10 of these Regulations by fraud, bribery or other means, the administrative department for industry and commerce shall confiscate the direct selling products and the unlawful sales income and impose a fine of not less than RMB 50,000 but not more than RMB 300,000, and the competent commerce department of the State Council shall revoke the corresponding licence, and the applicant may no longer submit an application; where the circumstances are serious, a fine of not less than RMB 300,000 but not more than RMB 500,000 shall be imposed and the business shall be banned in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a direct selling enterprise violates the provisions of Article 11 of these Regulations, the administrative department for industry and commerce shall order it to make correction and impose a fine of not less than RMB 30,000 but not more than RMB 300,000; where it no longer meets the conditions for a direct selling business licence, the competent commerce department of the State Council shall revoke its direct selling business licence."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a direct selling enterprise, in violation of the provisions, carries out direct selling operations beyond the scope of direct selling products, the administrative department for industry and commerce shall order it to make correction, confiscate the direct selling products and the unlawful sales income and impose a fine of not less than RMB 50,000 but not more than RMB 300,000; where the circumstances are serious, a fine of not less than RMB 300,000 but not more than RMB 500,000 shall be imposed, and the administrative department for industry and commerce shall revoke the business licence of the branch of the direct selling enterprise that committed the unlawful business operations, or the competent commerce department of the State Council shall revoke the direct selling business licence of the direct selling enterprise."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a direct selling enterprise or its direct sellers, in violation of the provisions of these Regulations, engage in publicity or sales promotion that is fraudulent, misleading or the like, the administrative department for industry and commerce shall, with respect to the direct selling enterprise, impose a fine of not less than RMB 30,000 but not more than RMB 100,000; where the circumstances are serious, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed, and the administrative department for industry and commerce shall revoke the business licence of the branch of the direct selling enterprise that committed the unlawful business operations, or the competent commerce department of the State Council shall revoke the direct selling business licence of the direct selling enterprise. With respect to the direct seller, the administrative department for industry and commerce shall impose a fine of not more than RMB 50,000; where the circumstances are serious, it shall order the direct selling enterprise to revoke his qualification as a direct seller."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a direct selling enterprise or its branches recruit direct sellers in violation of the provisions of these Regulations, the administrative department for industry and commerce shall order it to make correction and impose a fine of not less than RMB 30,000 but not more than RMB 100,000; where the circumstances are serious, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed, and the administrative department for industry and commerce shall revoke the business licence of the branch of the direct selling enterprise that committed the unlawful business operations, or the competent commerce department of the State Council shall revoke the direct selling business licence of the direct selling enterprise."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Anyone who, in violation of the provisions of these Regulations, engages in direct selling activities without obtaining a Direct Seller Certificate shall be ordered by the administrative department for industry and commerce to make correction, and the direct selling products and the unlawful sales income shall be confiscated, and a fine of not more than RMB 20,000 may be imposed; where the circumstances are serious, a fine of not less than RMB 20,000 but not more than RMB 200,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a direct selling enterprise conducts professional training for direct sellers in violation of the provisions of these Regulations, the administrative department for industry and commerce shall order it to make correction, confiscate the illegal gains and impose a fine of not less than RMB 30,000 but not more than RMB 100,000; where the circumstances are serious, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed, and the administrative department for industry and commerce shall revoke the business licence of the branch of the direct selling enterprise that committed the unlawful business operations, or the competent commerce department of the State Council shall revoke the direct selling business licence of the direct selling enterprise; with respect to the person giving instruction, the administrative department for industry and commerce shall impose a fine of not more than RMB 50,000 and, where he is a direct selling trainer, order the direct selling enterprise to revoke his qualification as a direct selling trainer.\nWhere a unit or individual other than a direct selling enterprise organises professional training for direct sellers, the administrative department for industry and commerce shall order it to make correction, confiscate the illegal gains and impose a fine of not less than RMB 20,000 but not more than RMB 200,000."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a direct seller violates the provisions of Article 22 of these Regulations, the administrative department for industry and commerce shall confiscate the unlawful sales income and may impose a fine of not more than RMB 50,000; where the circumstances are serious, it shall order the direct selling enterprise to revoke his qualification as a direct seller and shall impose a fine of not less than RMB 10,000 but not more than RMB 100,000 on the direct selling enterprise."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a direct selling enterprise violates the provisions of Article 23 of these Regulations, the matter shall be dealt with in accordance with the relevant provisions of the Price Law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a direct selling enterprise violates the provisions of Articles 24 and 25 of these Regulations, the administrative department for industry and commerce shall order it to make correction and impose a fine of not less than RMB 50,000 but not more than RMB 300,000; where the circumstances are serious, a fine of not less than RMB 300,000 but not more than RMB 500,000 shall be imposed, and the administrative department for industry and commerce shall revoke the business licence of the branch of the direct selling enterprise that committed the unlawful business operations, or the competent commerce department of the State Council shall revoke the direct selling business licence of the direct selling enterprise."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a direct selling enterprise fails to file and disclose information in accordance with the relevant provisions, the administrative department for industry and commerce shall order it to make correction within a specified time limit and impose a fine of not more than RMB 100,000; where the circumstances are serious, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed; and where it refuses to make correction, the competent commerce department of the State Council shall revoke its direct selling business licence."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a direct selling enterprise violates the relevant provisions of Chapter V of these Regulations, the administrative department for industry and commerce shall order it to make correction within a specified time limit and impose a fine of not more than RMB 100,000; where it refuses to make correction, a fine of not less than RMB 100,000 but not more than RMB 300,000 shall be imposed, and the competent commerce department of the State Council shall revoke its direct selling business licence."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an unlawful act in violation of these Regulations also violates the Regulations on Prohibiting Pyramid Selling, a penalty shall be imposed in accordance with the relevant provisions of the Regulations on Prohibiting Pyramid Selling."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a direct selling enterprise intends to establish an association of direct selling enterprises or another mass organisation, it shall obtain the approval of the competent commerce department of the State Council and, on the strength of the approval document, apply for registration in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where investors from the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region invest within the territory to establish direct selling enterprises and carry out direct selling activities, the provisions of these Regulations on foreign investors shall be applied mutatis mutandis."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "These Regulations shall come into force on 1 December 2005."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -4521,6 +5178,717 @@
         },
         "noLabel": {
           "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0442'] = {
+    "lawId": "CN-REG-0442",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 60 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in accordance with the Drug Administration Law of the People's Republic of China and other relevant legal provisions for the purpose of strengthening the administration of drugs in the military."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Measures apply to the research and development, production (including compounding, the same below), reserve, supply, use and supervision and administration of military drugs."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The administration of military drugs shall uphold the leadership of the Communist Party of China, implement Xi Jinping's thinking on strengthening the military, adhere to the principles of risk management, whole-process control and military-civilian coordination, exercise scientific and strict supervision, and ensure that drugs are safe, effective and accessible."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Under the leadership of the Central Military Commission, the Logistic Support Department of the Central Military Commission shall be responsible for organising and guiding the supervision and administration of military drugs, and the specific work shall be undertaken by the operational department responsible for health work of the Logistic Support Department of the Central Military Commission; other departments of the organs of the Central Military Commission shall, according to the division of duties, do a good job in drug-related supervision and administration.\nThe logistic support departments of units at or above the regiment level of the military shall be responsible for the supervision and administration of drugs within their respective systems and units and for responding to drug safety emergencies; other departments of the organs at the same level shall, according to the division of duties, do a good job in drug-related supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The operational department responsible for health work of the Logistic Support Department of the Central Military Commission shall establish with the drug supervision and administration department of the State Council and the drug supervision and administration departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government working coordination mechanisms for registration and review, joint supervision, professional training and information notification, and shall carry out drug supervision and administration work in coordination.\nThe drug supervision and administration department of the State Council and the departments of local people's governments at or above the county level that bear the responsibility for drug supervision and administration shall perform the corresponding drug supervision and administration duties in accordance with the provisions of these Measures."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Military professional technical institutions for drugs shall, in accordance with law, undertake the review, testing, verification, monitoring and evaluation and other work required for the supervision and administration of military drugs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Military units shall strengthen management in accordance with the relevant standards and specifications of the State and the military on drug traceability so as to achieve drug traceability.\nMilitary units shall, in accordance with the relevant provisions of the State and the military on pharmacovigilance, monitor, identify, assess and control adverse drug reactions and other harmful reactions related to medication."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Units and individuals that make outstanding contributions to the research and development, production, reserve, supply, use and supervision and administration of military drugs shall be commended and rewarded in accordance with the relevant provisions of the State and the military."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The military implements a wartime drug reserve system.\nThe Logistic Support Department of the Central Military Commission and the relevant departments of the State Council shall establish a coordination mechanism for the deployment of military wartime drugs and State reserve drugs so as to ensure the need for emergency drug use in the event of war and major disasters, epidemics or other emergencies."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The military shall establish a catalogue of essential drugs for the military, improve the reserve and supply capacity of essential drugs, and meet the basic medication needs of military personnel for the prevention and treatment of injuries and diseases."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Military medical institutions and medicinal material supply support institutions shall purchase drugs from marketing authorisation holders or enterprises qualified for drug production or operation; except for the purchase of traditional Chinese medicinal materials that are not subject to approval administration."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "When purchasing drugs, military medical institutions and medicinal material supply support institutions shall establish and implement a system of inspection and acceptance upon receipt, verify the conformity certificates and other marks of the drugs, and keep true, complete and traceable drug purchase records.\nDrug purchase records shall state the generic name, dosage form, specifications, product batch number, expiry date, marketing authorisation holder, manufacturer, supplier, quantity purchased, purchase price, date of purchase and other relevant particulars prescribed by the drug supervision and administration department of the State Council.\nMilitary medical institutions and medicinal material supply support institutions shall formulate and implement a drug storage system and take the necessary measures for refrigeration, freezing prevention, moisture prevention, insect prevention and rat prevention to ensure drug quality."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Military medicinal material supply support institutions shall, in accordance with the delineated areas and assigned tasks, be responsible for the supply support of drugs required by military units.\nMilitary medicinal material supply support institutions shall not supply drugs to civilian units and persons; where it is genuinely necessary to supply drugs to civilian units and persons owing to major disasters, epidemics or other emergencies, the approval of the Logistic Support Department of the Central Military Commission shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a military medicinal material supply support institution engages in drug supply support activities, it shall obtain a military medicinal material supply licence issued by the operational department responsible for health work of the Logistic Support Department of the Central Military Commission; without a military medicinal material supply licence, it shall not supply drugs."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Vaccines that military personnel need to receive shall be purchased by military disease prevention and control institutions from vaccine marketing authorisation holders through the vaccine procurement channels prescribed by the State; for vaccines not included in State-organised procurement, they may be purchased from vaccine marketing authorisation holders in accordance with the relevant provisions of the military on procurement. Vaccine marketing authorisation holders shall supply vaccines to military disease prevention and control institutions or the military units designated by them as agreed in the procurement contract.\nWhere military disease prevention and control institutions and other relevant military units engage in vaccine storage and transport activities, they shall strictly comply with the relevant provisions of the State and ensure vaccine quality."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Drug Reserve and Supply"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Military medical institutions shall be staffed with pharmacists or other pharmaceutical technicians qualified by the State or the military to be responsible for drug management, prescription review and dispensing, and guidance on rational drug use in their units."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Pharmacy Administration in Military Medical Institutions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Military medical institutions shall adhere to the principle of safe, effective, economical and rational medication."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Pharmacy Administration in Military Medical Institutions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "To compound preparations, a military medical institution shall obtain a preparation licence for military medical institutions issued by the operational department responsible for health work of the Logistic Support Department of the Central Military Commission.\nThe preparations compounded by a military medical institution shall be varieties that are clinically needed by the unit but not available on the market, or urgently needed for tasks but insufficiently supplied on the market, and a preparation approval document issued by the operational department responsible for health work of the Logistic Support Department of the Central Military Commission or the operational department responsible for health work of a service branch shall be obtained; except where the law otherwise provides on the compounding of traditional Chinese medicine preparations."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Pharmacy Administration in Military Medical Institutions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The preparations compounded by a military medical institution shall be used within the unit. With the approval of the operational department responsible for health work of the Logistic Support Department of the Central Military Commission or the operational department responsible for health work of a service branch, they may be transferred for use among designated military medical institutions.\nPreparations compounded by military medical institutions shall not be sold on the market."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Pharmacy Administration in Military Medical Institutions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a major disaster, epidemic or other emergency occurs, or where there is an urgent clinical need and no supply on the market, preparations compounded by medical institutions may, with the approval of the operational department responsible for health work of the Logistic Support Department of the Central Military Commission and the drug supervision and administration department of the State Council or the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government, be transferred for use among designated military medical institutions and civilian medical institutions."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Pharmacy Administration in Military Medical Institutions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Drugs for special military needs mean drugs used by the military for the prevention and treatment of war wounds and diseases caused by special military environments and for meeting the needs of personnel engaged in specific operations in military actions."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Drugs for Special Military Needs"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Drugs for special military needs put into production shall be registered and shall obtain an approval document issued by the operational department responsible for health work of the Logistic Support Department of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Drugs for Special Military Needs"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A unit engaging in the production of drugs for special military needs shall obtain a production and compounding licence for drugs for special military needs issued by the operational department responsible for health work of the Logistic Support Department of the Central Military Commission; where a civilian production unit obtains the production and compounding licence for drugs for special military needs, it shall file a record with the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Drugs for Special Military Needs"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a research and development unit of drugs for special military needs entrusts the production of drugs for special military needs, it shall conclude an entrustment agreement and a quality agreement with a qualified production unit, supervise the production activities and ensure the quality and safety of the drugs for special military needs."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Drugs for Special Military Needs"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Drugs for special military needs shall be used within the military; where a civilian unit needs to purchase drugs for special military needs in special circumstances, it shall be examined by the drug supervision and administration department of the State Council or the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government, and the consent of the operational department responsible for health work of the Logistic Support Department of the Central Military Commission shall be obtained.\nWhere drugs for special military needs need to be converted into drugs for civilian use, they shall be examined by the operational department responsible for health work of the Logistic Support Department of the Central Military Commission, and the drug supervision and administration department of the State Council shall handle the matter in accordance with the relevant provisions on marketing authorisation registration of drugs."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Drugs for Special Military Needs"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The operational department responsible for health work of the Logistic Support Department of the Central Military Commission and the drug supervision and administration department of the State Council shall establish a technical support and coordination mechanism to provide support for the review, testing, verification, monitoring and evaluation of drugs for special military needs."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of Drugs for Special Military Needs"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Military logistic support departments shall carry out supervision and inspection of the research and development, production, reserve, supply and use of military drugs, and shall carry out key supervision and inspection of drugs for special military needs, preparations of medical institutions and drugs subject to special administration provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The operational department responsible for health work of the Logistic Support Department of the Central Military Commission shall formulate plans for sampling and testing the quality of military drugs and organise sampling and testing of drugs produced, reserved, supplied and used by military units and of drugs for special military needs produced under entrustment. The results of sampling and testing of drug quality shall be notified to the relevant military units and the relevant local drug supervision and administration departments in accordance with the provisions.\nWhere a military medical institution, scientific research institution or medicinal material supply support institution finds that a drug has a suspected quality problem, it shall submit it to a military professional technical institution for drugs for quality testing in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Military professional technical institutions for drugs shall, in accordance with sampling and testing tasks and the drug quality testing needs raised by the relevant military units, conduct quality testing of the relevant drugs and issue testing conclusions promptly.\nMilitary professional technical institutions for drugs shall not charge fees for drug quality testing, and samples required for sampling and testing shall be purchased by them themselves."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where there is any objection to a drug quality testing conclusion, an application for re-testing may be made to the original military professional technical institution for drugs or the professional technical institution for drugs at the next higher level within seven days from the date of receipt of the drug quality testing conclusion. The military professional technical institution for drugs accepting the re-testing application shall make a re-testing conclusion within the prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For drugs used in a military medical institution and proved by evidence to be likely to endanger human health, together with the relevant materials, the military medical institution shall immediately stop using them, take such measures as sealing up and controlled custody, and report level by level to the operational department responsible for health work of the Logistic Support Department of the Central Military Commission for handling; where the drugs were purchased from civilian units, the operational department responsible for health work of the Logistic Support Department of the Central Military Commission shall coordinate with the drug supervision and administration department of the State Council or the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government to handle them in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Military medical institutions, medicinal material supply support institutions and research and development units and production units of drugs for special military needs shall frequently examine the quality, efficacy and adverse reactions of the drugs they produce, supply and use. Where a suspected adverse reaction is found, they shall report it and take risk control measures in accordance with the relevant provisions of the State and the military."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The operational department responsible for health work of the Logistic Support Department of the Central Military Commission and the operational departments responsible for health work of the service branches shall organise evaluations of the preparations compounded by military medical institutions and drugs for special military needs and, upon finding that the efficacy is uncertain, the adverse reactions are serious or they otherwise endanger human health, shall cancel the approval documents.\nPreparations compounded by military medical institutions and drugs for special military needs whose approval documents have been cancelled shall not be produced, supplied or used; those already produced shall be recovered and their destruction supervised by the approving department."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "No unit or individual may engage in commercial drug advertising in the name or image of military units or military personnel, or by using military equipment and facilities.\nCommercial advertising of preparations compounded by military medical institutions and of drugs for special military needs is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Military drug supervisors shall participate in the training of State or local drug inspectors, obtain the corresponding qualifications, and engage in military drug supervision work in accordance with the prescribed duties."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a civilian unit or person considers that a military unit or person has violated the provisions of these Measures, it may lodge an accusation or complaint with the department of the local people's government at or above the county level that bears the responsibility for drug supervision and administration, and the drug supervision and administration department of the people's government of the province, autonomous region or municipality directly under the Central Government shall notify the operational department responsible for health work of the Logistic Support Department of the Central Military Commission, which shall organise investigation and handling and notify the results in accordance with law.\nWhere a military unit or person considers that a civilian unit or person has violated the provisions of these Measures, it may lodge an accusation or complaint with the department of the local people's government at or above the county level that bears the responsibility for drug supervision and administration, and that department shall organise investigation and handling and notify the results in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the State and the military have special administration provisions on narcotic drugs, psychotropic drugs, toxic drugs for medical use, radioactive drugs, pharmaceutical precursor chemicals, vaccines and blood products, those provisions shall apply."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Whoever produces or supplies drugs without obtaining a production and compounding licence for drugs for special military needs, a military medicinal material supply licence or a preparation licence for military medical institutions shall be ordered to stop the relevant activities, and the unlawfully produced or supplied drugs and the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a military medical institution uses counterfeit or substandard drugs, the counterfeit or substandard drugs used and the illegal gains shall be confiscated and it shall be ordered to make rectification; where the circumstances are serious, the practising certificate of the responsible person shall also be revoked if he holds a practising certificate as medical and health personnel."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a military unit or person knows or ought to know that drugs are counterfeit or substandard and yet uses military facilities or means of transport to provide convenience such as storage and transport for them, the drugs stored or transported shall be seized and dealt with in accordance with the relevant provisions, and all income from storage and transport shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Whoever forges, alters, leases, lends, buys or sells a production and compounding licence for drugs for special military needs, a military medicinal material supply licence, a preparation licence for military medical institutions, a preparation approval document for military medical institutions or an approval document for drugs for special military needs shall have the illegal gains confiscated; where the circumstances are serious, the relevant licence or approval document shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Whoever provides false certificates, data, materials or samples or obtains by other improper means such licences as the production and compounding licence for drugs for special military needs, the military medicinal material supply licence, the preparation licence for military medical institutions, the registration of drugs for special military needs or the registration of preparations of military medical institutions shall have the relevant licence revoked, and no corresponding application of that person shall be accepted within 10 years."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a military medical institution, medicinal material supply support institution or disease prevention and control institution purchases drugs from civilian units or individuals other than marketing authorisation holders or enterprises qualified for drug production or operation, it shall be ordered to make rectification, and the unlawfully purchased drugs and the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a military medical institution or medicinal material supply support institution fails to establish and implement a system of inspection and acceptance upon receipt of drugs or a drug storage system in accordance with the provisions, it shall be ordered to make rectification and be given a warning."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a research and development unit or production unit of drugs for special military needs or a medicinal material supply support institution provides drugs for special military needs to civilian units or individuals without approval, it shall be ordered to stop the relevant activities, recover the drugs within a time limit and have the illegal gains confiscated."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a military unit or person accepts money or property or other improper benefits given by a marketing authorisation holder, drug manufacturer, drug operator or their agent, the illegal gains shall be confiscated; where the circumstances are serious, the practising certificate of the responsible person shall also be revoked if he holds a practising certificate as medical and health personnel."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a military medical institution compounds counterfeit or substandard preparations, it shall be ordered to stop compounding, the unlawfully compounded preparations and the illegal gains shall be confiscated, and the relevant preparation approval documents shall be revoked; where the circumstances are serious, the preparation licence for military medical institutions shall be revoked and no corresponding application of that institution shall be accepted within 10 years."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a military medical institution sells its compounded preparations on the market or transfers preparations for use without approval, it shall be ordered to make rectification, and the unlawfully sold or used preparations and the illegal gains shall be confiscated; where the circumstances are serious, the preparation licence for military medical institutions shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a military medical institution, medicinal material supply support institution or research and development unit or production unit of drugs for special military needs fails to carry out monitoring of adverse drug reactions or report suspected adverse drug reactions in accordance with the provisions, it shall be ordered to make rectification and be given a warning."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a military unit or person engages in commercial drug advertising in violation of the provisions of these Measures, it shall be ordered to make rectification and the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where these Measures are violated and any of the following circumstances exists, the relevant licence shall be revoked:\n(a) approving clinical trials of drugs for special military needs or preparations of medical institutions where the conditions are not met;\n(b) issuing approval documents for drugs for special military needs or approval documents for preparations of medical institutions where the conditions are not met;\n(c) issuing a production and compounding licence for drugs for special military needs, a military medicinal material supply licence or a preparation licence for military medical institutions where the conditions are not met."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a military professional technical institution for drugs violates the provisions of these Measures and commits any of the following acts, it shall be ordered to make rectification and be given a warning, and the illegal gains shall be confiscated; where the circumstances are serious, its testing qualification shall be revoked:\n(a) charging testing fees in violation of the provisions;\n(b) issuing false testing reports;\n(c) other acts of practising fraud."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Penalties for violations of the provisions of these Measures by military units and personnel shall be decided by the relevant military departments in accordance with their duties and powers; the revocation of a licence, or the revocation of a licence or approval document shall be decided by the department that originally approved or issued it.\nCivilian units and personnel that violate the provisions of these Measures shall be penalised in accordance with the relevant provisions of such laws and administrative regulations as the Drug Administration Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a military unit or person, a State organ or its staff members abuse their powers, neglect their duties or engage in malpractice for personal gain in the administration of military drugs, or commit other acts violating the provisions of these Measures, disciplinary sanctions shall be given in accordance with law and regulations to the responsible leading personnel and directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where the provisions of these Measures are violated and a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "For the purposes of these Measures, military medical institutions include military hospitals, medical institutions of troop units, medical institutions of dispatched outpatient services and outpatient departments of sanatoriums for retired officers and other units."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "For the purposes of these Measures, military professional technical institutions for drugs mean the general stations for supervision and testing of drugs and instruments and the stations for supervision and testing of drugs and instruments established by the military, as well as military medical institutions, scientific research institutions and other units that undertake drug monitoring and evaluation tasks."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The specific administrative measures for military wartime drugs, preparations of medical institutions and drugs for special military needs shall be formulated by the Logistic Support Department of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Measures apply to the administration of drugs of the Chinese People's Armed Police Force."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Measures shall come into force on 1 June 2025."
+        },
+        "noLabel": {
+          "en": "Article 60."
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
@@ -8318,6 +9686,636 @@
     ]
   };
 
+  TR['CN-REG-0457'] = {
+    "lawId": "CN-REG-0457",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 53 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to reform the system of land use in urban State-owned land, rationally develop, utilise and operate land, strengthen land administration and promote urban construction and economic development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State applies, in accordance with the principle of separating ownership from the right of use, a system for the grant and transfer of the right to use urban State-owned land, with the exception of underground resources, buried objects and municipal public facilities.\nUrban State-owned land as referred to in the preceding paragraph means land within the scope of cities, county seats, designated towns and industrial and mining districts that is owned by the whole people (hereinafter referred to as land)."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Companies, enterprises, other organisations and individuals within and outside the territory of the People's Republic of China may, unless otherwise provided by law, acquire the right to use land and carry out land development, utilisation and operation in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A land user that has acquired the right to use land in accordance with the provisions of these Regulations may, within the term of use, transfer, lease or mortgage that right of use or use it for other economic activities, and its lawful rights and interests shall be protected by the laws of the State."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In developing, utilising and operating land, a land user shall comply with the provisions of the laws and regulations of the State and may not harm the public interests of society."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The land administration departments of people's governments at or above the county level shall, in accordance with law, supervise and inspect the grant, transfer, lease, mortgage and termination of the right to use land."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The registration of the grant, transfer, lease, mortgage and termination of the right to use land and of the buildings and other attachments on the land concerned shall be handled by the land administration department and the real estate administration department of the government in accordance with law and the relevant provisions of the State Council.\nRegistration documents shall be open to public inspection."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The grant of the right to use land means the act whereby the State, in its capacity as owner of the land, grants the right to use land to a land user for a certain number of years, and the land user pays to the State a grant fee for the right to use land.\nA grant of the right to use land shall be made by concluding a grant contract."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The grant of the right to use land shall be the responsibility of the people's government of the city or county and shall be carried out in a planned and step-by-step manner."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The parcels, purposes, terms and other conditions of the grant of the right to use land shall be jointly worked out in a plan by the land administration department of the people's government of the city or county together with the urban planning and construction administration department and the real estate administration department, and after approval is reported for and obtained in accordance with the limits of approval authority prescribed by the State Council, the plan shall be implemented by the land administration department."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Contracts for the grant of the right to use land shall, in accordance with the principles of equality, voluntariness and compensation, be concluded between the land administration department of the people's government of the city or county (hereinafter referred to as the grantor) and the land user."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The maximum term of the grant of the right to use land shall be determined according to the following purposes:\n(1) 70 years for land for residential purposes;\n(2) 50 years for land for industrial purposes;\n(3) 50 years for land for purposes of education, science and technology, culture, health and sports;\n(4) 40 years for land for commercial, tourist and recreational purposes;\n(5) 50 years for land for comprehensive or other purposes."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The grant of the right to use land may take the following forms:\n(1) agreement;\n(2) invitation to bid;\n(3) auction.\nThe specific procedures and steps for granting the right to use land in the forms specified in the preceding paragraph shall be prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A land user shall, within 60 days after concluding a contract for the grant of the right to use land, pay the full grant fee for the right to use land. Where it fails to pay in full within the time limit, the grantor has the right to rescind the contract and may claim compensation for breach of contract."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The grantor shall, in accordance with the provisions of the contract, provide the granted right to use land. Where it fails to provide the right to use land in accordance with the provisions of the contract, the land user has the right to rescind the contract and may claim compensation for breach of contract."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After paying the full grant fee for the right to use land, a land user shall undergo registration in accordance with the provisions, obtain a land use certificate and acquire the right to use land."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "A land user shall develop, utilise and operate land in accordance with the provisions of the contract for the grant of the right to use land and the requirements of urban planning.\nWhere land is not developed and utilised within the time limit and under the conditions prescribed in the contract, the land administration department of the people's government of the city or county shall require correction and may, in light of the circumstances, impose a penalty ranging from a warning and a fine to the uncompensated recovery of the right to use land."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a land user needs to change the purpose of the land prescribed in the contract for the grant of the right to use land, it shall obtain the consent of the grantor and the approval of the land administration department and the urban planning department, conclude a new contract for the grant of the right to use land in accordance with the relevant provisions of this Chapter, adjust the grant fee for the right to use land, and undergo registration."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Grant of the Right to Use Land"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The transfer of the right to use land means the act whereby a land user retransfers the right to use land, including sale, exchange and gift.\nWhere land has not been invested in, developed and utilised within the time limit and under the conditions prescribed in the contract for the grant of the right to use land, the right to use land shall not be transferred."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The transfer of the right to use land shall be made by concluding a transfer contract."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the right to use land is transferred, the rights and obligations specified in the contract for the grant of the right to use land and in the registration documents shall be transferred accordingly."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a land user acquires the right to use land by way of transfer, the term of use shall be the remaining term obtained by deducting from the term of use prescribed in the contract for the grant of the right to use land the term already used by the original land user."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the right to use land is transferred, the ownership of the buildings and other attachments on the land shall be transferred accordingly."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The owner or co-owner of buildings and other attachments on the land shall enjoy the right to use land within the scope of use of such buildings and attachments.\nWhere a land user transfers the ownership of buildings and other attachments on the land, the right to use land within the scope of their use shall be transferred accordingly, except where the buildings and other attachments are transferred as movable property."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The transfer of the right to use land and of the ownership of buildings and other attachments on the land shall be subject to transfer registration in accordance with the provisions.\nWhere the right to use land and the ownership of buildings and other attachments on the land are transferred separately, the approval of the land administration department and the real estate administration department of the people's government of the city or county shall be obtained, and transfer registration shall be carried out in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the price of a transfer of the right to use land is obviously lower than the market price, the people's government of the city or county shall have the right of first refusal.\nWhere the market price of a transfer of the right to use land rises unreasonably, the people's government of the city or county may take the necessary measures."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where, after the transfer of the right to use land, the purpose of the land prescribed in the contract for the grant of the right to use land needs to be changed, the matter shall be handled in accordance with the provisions of Article 18 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Transfer of the Right to Use Land"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The lease of the right to use land means the act whereby a land user, as lessor, leases the right to use land, together with the buildings and other attachments on the land, to a lessee for use, and the lessee pays rent to the lessor.\nWhere land has not been invested in, developed and utilised within the time limit and under the conditions prescribed in the contract for the grant of the right to use land, the right to use land shall not be leased."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Lease of the Right to Use Land"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the right to use land is leased, the lessor and the lessee shall conclude a lease contract.\nA lease contract may not contravene the provisions of the laws and regulations of the State and of the contract for the grant of the right to use land."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Lease of the Right to Use Land"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the right to use land is leased, the lessor must continue to perform the contract for the grant of the right to use land."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Lease of the Right to Use Land"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the right to use land and the buildings and other attachments on the land are leased, the lessor shall undergo registration in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Lease of the Right to Use Land"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The right to use land may be mortgaged."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Mortgage of the Right to Use Land"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the right to use land is mortgaged, the buildings and other attachments on the land shall be mortgaged accordingly.\nWhere buildings and other attachments on the land are mortgaged, the right to use land within the scope of their use shall be mortgaged accordingly."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Mortgage of the Right to Use Land"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where the right to use land is mortgaged, the mortgagor and the mortgagee shall conclude a mortgage contract.\nA mortgage contract may not contravene the provisions of the laws and regulations of the State and of the contract for the grant of the right to use land."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Mortgage of the Right to Use Land"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the right to use land and the buildings and other attachments on the land are mortgaged, mortgage registration shall be carried out in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Mortgage of the Right to Use Land"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a mortgagor fails to perform its debt obligations when due, or is declared dissolved or bankrupt during the term of the mortgage contract, the mortgagee has the right to dispose of the mortgaged property in accordance with the laws and regulations of the State and the provisions of the mortgage contract.\nWhere the right to use land and the ownership of buildings and other attachments on the land are acquired through the disposal of mortgaged property, transfer registration shall be carried out in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Mortgage of the Right to Use Land"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The mortgagee shall have priority in receiving payment out of the proceeds from the disposal of the mortgaged property."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Mortgage of the Right to Use Land"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a mortgage is extinguished by reason of the discharge of the debt or for other reasons, cancellation of the mortgage registration shall be carried out in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Mortgage of the Right to Use Land"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The right to use land shall terminate by reason of the expiry of the term of use prescribed in the contract for the grant of the right to use land, early recovery of the land, loss of the land or other reasons."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Termination of the Right to Use Land"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Upon the expiry of the term of the right to use land, the right to use land and the ownership of the buildings and other attachments on the land shall be acquired by the State without compensation. The land user shall return the land use certificate and undergo cancellation of registration in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Termination of the Right to Use Land"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Upon the expiry of the term of the right to use land, the land user may apply for renewal. Where renewal is needed, a new contract shall be concluded in accordance with the provisions of Chapter II of these Regulations, the grant fee for the right to use land shall be paid, and registration shall be carried out."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Termination of the Right to Use Land"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State shall not recover the right to use land lawfully acquired by a land user before the expiry of its term. Under special circumstances, the State may, in accordance with legal procedures and in light of the needs of the public interests of society, recover the right to use land before the expiry of its term, and shall give corresponding compensation in light of the number of years already used by the land user and the actual situation of the development and utilisation of the land."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Termination of the Right to Use Land"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "An allocated right to use land means the right to use land acquired by a land user without compensation in accordance with law through various means.\nA land user as referred to in the preceding paragraph shall pay land use tax in accordance with the provisions of the Interim Regulations of the People's Republic of China on Urban Land Use Tax."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Allocated Right to Use Land"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "An allocated right to use land may not be transferred, leased or mortgaged, except in the circumstances specified in Article 45 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Allocated Right to Use Land"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the following conditions are met, the allocated right to use land and the ownership of the buildings and other attachments on the land may be transferred, leased or mortgaged with the approval of the land administration department and the real estate administration department of the people's government of the city or county:\n(1) the land user is a company, enterprise, other economic organisation or individual;\n(2) a State-owned land use certificate has been obtained;\n(3) there is lawful title certification for the buildings and other attachments on the land;\n(4) a contract for the grant of the right to use land has been concluded in accordance with the provisions of Chapter II of these Regulations, and the grant fee for the right to use land has been paid retroactively to the local people's government of the city or county, or the proceeds obtained from the transfer, lease or mortgage are used to offset the grant fee for the right to use land.\nWhere the allocated right to use land specified in the preceding paragraph is transferred, leased or mortgaged, the matter shall be handled in accordance with the provisions of Chapter III, Chapter IV and Chapter V of these Regulations respectively."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Allocated Right to Use Land"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a unit or individual transfers, leases or mortgages an allocated right to use land without approval, the land administration department of the people's government of the city or county shall confiscate its illegal income and impose a fine in light of the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Allocated Right to Use Land"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a land user that has acquired an allocated right to use land without compensation ceases to use the land by reason of relocation, dissolution, closure, bankruptcy or other reasons, the people's government of the city or county shall recover the allocated right to use land without compensation and may grant it in accordance with the provisions of these Regulations.\nIn respect of an allocated right to use land, the people's government of the city or county may, in light of the needs of urban construction and development and the requirements of urban planning, recover it without compensation and may grant it in accordance with the provisions of these Regulations.\nWhere an allocated right to use land is recovered without compensation, the people's government of the city or county shall give appropriate compensation for the buildings and other attachments on the land in light of the actual situation."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Allocated Right to Use Land"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The right to use land of an individual who has acquired the right to use land in accordance with the provisions of these Regulations may be inherited."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Land users shall pay taxes in accordance with the provisions of the tax laws and regulations of the State."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The grant fees for the right to use land collected in accordance with these Regulations shall be included in the fiscal budget and managed as special funds, mainly for urban construction and land development. The specific measures for the administration of their use shall be formulated separately by the Ministry of Finance."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the provisions of these Regulations and the actual local situation, select some towns with relatively mature conditions for pilot implementation first."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "These Regulations shall be interpreted by the State Land Administration Bureau; the measures for their implementation shall be formulated by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0459'] = {
     "lawId": "CN-REG-0459",
     "sourceLang": "zh",
@@ -9287,6 +11285,693 @@
     ]
   };
 
+  TR['CN-REG-0463'] = {
+    "lawId": "CN-REG-0463",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 59 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening State supervision and administration of ships and protecting the lawful rights and interests of the parties concerned in ship registration."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The following ships shall be registered in accordance with the provisions of these Regulations:\n(1) ships of Chinese citizens who have their domicile or principal place of business within the territory of the People's Republic of China;\n(2) ships of enterprise legal persons established under the laws of the People's Republic of China whose principal place of business is within the territory of the People's Republic of China; provided that where foreign investors contribute capital to the registered capital of such legal person, the capital contribution of the Chinese investor shall not be less than 50 per cent;\n(3) official ships of the Government of the People's Republic of China and ships of institutional legal persons;\n(4) other ships that the harbour superintendency agency of the People's Republic of China considers should be registered.\nThe registration of military ships, fishery ships and sports and recreational craft shall be handled in accordance with the provisions of the relevant regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Only ships that have been registered in accordance with law and have acquired the nationality of the People's Republic of China may fly the national flag of the People's Republic of China in navigation; unregistered ships shall not fly the national flag of the People's Republic of China in navigation."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A ship shall not have dual nationality. A ship registered in a foreign country may not acquire the nationality of the People's Republic of China unless the nationality of the original country of registration has been suspended or cancelled."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The acquisition, transfer and extinction of ship ownership shall be registered with the ship registration agency; without registration, it may not be asserted against a third party.\nWhere a ship is owned by two or more legal persons or individuals in common, it shall be registered with the ship registration agency; without registration, it may not be asserted against a third party."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The creation, transfer and extinction of a ship mortgage and a right under a bareboat charter shall be registered with the ship registration agency; without registration, they may not be asserted against a third party."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Crew members on board ships of Chinese nationality who are required to hold certificates of competency must hold the corresponding certificates of competency for crew members of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The harbour superintendency agency of the People's Republic of China is the competent authority for ship registration.\nThe harbour superintendency agencies of the various ports are the agencies that specifically implement ship registration (hereinafter referred to as the ship registration agencies), and their scope of jurisdiction shall be determined by the harbour superintendency agency of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The port of ship registration shall be the port of registry.\nThe port of ship registration shall be selected by the shipowner from the place nearest to his domicile or principal place of business, but two or more ports of ship registration may not be selected."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A ship may use only one name.\nThe name of a ship shall be verified and approved by the ship registration agency of the port of registry. The name of a ship shall not be the same as, or homophonous with, that of a ship registered earlier."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Ship registration agencies shall establish a ship register.\nShip registration agencies shall permit interested parties to consult the ship register."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a ship owned by the State is granted by the State to an enterprise under ownership by the whole people with legal person status for operation and management, the provisions of these Regulations concerning shipowners shall apply to such legal person."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A shipowner applying for registration of ship ownership shall submit to the ship registration agency of the port of registry for examination documents sufficient to prove his lawful identity, and shall provide the relevant technical particulars of the ship and the original and a copy of the documents evidencing the acquisition of ship ownership.\nTo apply for registration of ship ownership in respect of a ship acquired by purchase, the following documents shall be provided:\n(a) the invoice for the purchase of the ship, or the ship sale contract and the delivery and acceptance documents;\n(b) the certificate of cancellation of registration of ship ownership issued by the ship registration agency of the original port of registry;\n(c) documents evidencing that no mortgage has been created, or documents showing the mortgagee's consent to the transfer of the mortgaged ship to another person.\nTo apply for registration of ship ownership in respect of a newly built ship, the ship building contract and the delivery and acceptance documents shall be provided; provided that to apply for registration of ship ownership in respect of a ship under construction, only the ship building contract need be provided; and to apply for registration of ship ownership in respect of a ship built and used by the owner himself, documents sufficient to prove the acquisition of ownership shall be provided.\nTo apply for registration of ship ownership in respect of a ship acquired by inheritance, gift, auction conducted in accordance with law or court judgment, documents evidencing the acquisition of ship ownership with corresponding legal effect shall be provided."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Registration of Ship Ownership"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The ship registration agency of the port of registry shall examine and verify the application for registration of ship ownership; where the application conforms to the provisions of these Regulations, it shall, within seven days from the date of receipt of the application, issue a ship ownership registration certificate to the shipowner, grant a ship registration number, and state the following particulars in the ship register:\n(a) the name and call sign of the ship;\n(b) the port of registry, the registration number and the registration mark;\n(c) the name and address of the shipowner and the name of his legal representative;\n(d) the manner and date of acquisition of ship ownership;\n(e) the date of registration of ship ownership;\n(f) the name of the shipbuilder, and the date and place of construction;\n(g) the value of the ship, the hull material and the main technical data of the ship;\n(h) the former name of the ship, the original port of registry, and the date of cancellation or suspension of the original ship registration;\n(i) where the ship is owned by several persons in common, the particulars of the co-ownership;\n(j) where the shipowner does not actually use and control the ship, the name and address of the bareboat charterer or the ship operator and the name of his legal representative;\n(k) where a mortgage has been created on the ship, the particulars of the creation of the ship mortgage.\nWhere the application does not conform to the provisions of these Regulations, the ship registration agency shall notify the shipowner in writing within seven days from the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Registration of Ship Ownership"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "To apply for ship nationality, a shipowner shall, in addition to submitting for examination the ship ownership registration certificate obtained in accordance with these Regulations, submit for examination the following documents corresponding to the ship's navigation area:\n(1) for a ship navigating on international routes, the shipowner shall, according to the type of the ship, submit for examination the following valid ship technical certificates issued by a statutory ship survey agency:\n(a) International Tonnage Certificate;\n(b) International Load Line Certificate;\n(c) Cargo Ship Safety Construction Certificate;\n(d) Cargo Ship Safety Equipment Certificate;\n(e) Passenger Quota Certificate;\n(f) Passenger Ship Safety Certificate;\n(g) Cargo Ship Radiotelegraphy Safety Certificate;\n(h) International Oil Pollution Prevention Certificate;\n(i) Ship Navigation Safety Certificate;\n(j) other relevant technical certificates.\n(2) for a ship navigating on domestic routes, the shipowner shall, according to the type of the ship, submit for examination the ship survey certificate book and other valid ship technical certificates issued by a statutory ship survey agency.\nWhere a ship of foreign nationality is purchased from abroad, the shipowner shall, when applying for ship nationality, also provide the certificate of cancellation of the original nationality issued by the ship registration agency of the original port of registry, or a certificate that the original nationality will be cancelled immediately upon re-registration.\nFor a ship that has been examined and found to conform to the provisions of these Regulations, the ship registration agency of the port of registry shall grant approval and issue a ship nationality certificate."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Ship Nationality"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "For a ship applying for registration in accordance with the provisions of Article 13 of these Regulations, the ship registration agency shall, after approval, issue a ship nationality certificate. A ship nationality certificate shall be valid for five years."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Ship Nationality"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a newly built ship is sold abroad, the shipowner shall, on the strength of the documents evidencing the acquisition of ship ownership and the valid ship technical certificates, apply to the ship registration agency at the place of construction for a provisional ship nationality certificate.\nWhere a newly built ship is purchased from abroad, the shipowner shall, on the strength of the documents evidencing the acquisition of ship ownership and the valid ship technical certificates, apply to the embassy or consulate of the People's Republic of China abroad for a provisional ship nationality certificate.\nWhere a ship is built at a place within the territory other than the port of registry and a provisional ship nationality certificate needs to be obtained, the shipowner shall, on the strength of the ship building contract, the delivery and acceptance documents and the valid ship technical certificates, apply to the ship registration agency at the place of construction for a provisional ship nationality certificate.\nWhere a ship is built abroad, the shipowner shall, on the strength of the ship building contract, the delivery and acceptance documents and the valid ship technical certificates, apply to the embassy or consulate of the People's Republic of China abroad for a provisional ship nationality certificate.\nWhere a ship is chartered from abroad on bareboat terms, the bareboat charterer shall, on the strength of the bareboat charter contract and the certificate issued by the ship registration agency of the original port of registry confirming the suspension or cancellation of the original nationality, or a certificate that the original nationality will be suspended or cancelled immediately upon re-registration, apply to the ship registration agency for a provisional ship nationality certificate.\nFor a ship that has been examined and found to conform to the provisions of these Regulations, the ship registration agency or the embassy or consulate of the People's Republic of China abroad shall grant approval and issue a provisional ship nationality certificate."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Ship Nationality"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The period of validity of a provisional ship nationality certificate shall generally not exceed one year.\nFor a ship chartered from abroad on bareboat charter terms, the period of validity of the provisional ship nationality certificate may be determined according to the charter period, but shall not exceed two years at the longest. Where the term of the bareboat charter contract exceeds two years, the charterer shall, within the period of validity of the certificate, apply to the ship registration agency of the port of registry for the renewal of the provisional ship nationality certificate."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Ship Nationality"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A provisional ship nationality certificate and a ship nationality certificate have equal legal effect."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Ship Nationality"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a mortgage is created on a ship of 20 gross tonnage or more, the mortgagee and the mortgagor shall, on the strength of the following documents, apply to the ship registration agency of the port of registry for registration of the ship mortgage:\n(a) a written application signed by both parties;\n(b) the ship ownership registration certificate or the ship building contract;\n(c) the ship mortgage contract.\nWhere other mortgages have been created on the ship, the relevant documents of proof shall also be provided.\nWhere co-owners of a ship create a mortgage on the ship in common ownership, documents of consent from the co-owners holding not less than two-thirds of the shares or the agreed shares shall also be provided."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Registration of Ship Mortgage"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency of the port of registry shall, within seven days from the date of receipt of the application, enter the particulars of the mortgagor, the mortgagee, the ship mortgage and the date of registration of the mortgage in the ship register and in the ship ownership registration certificate, and issue a ship mortgage registration certificate to the mortgagee."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Registration of Ship Mortgage"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The registration of a ship mortgage includes the following main particulars:\n(a) the names or titles and addresses of the mortgagee and the mortgagor;\n(b) the name and nationality of the mortgaged ship, and the issuing authority and number of the ship ownership registration certificate;\n(c) the amount of the claim secured, the rate of interest and the time limit for satisfaction of the claim.\nShip registration agencies shall permit the public to enquire into the registration of ship mortgages."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Registration of Ship Mortgage"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a ship mortgage is transferred, the mortgagee and the transferee shall, on the strength of the ship mortgage transfer contract, apply to the ship registration agency of the port of registry for registration of the transfer of the mortgage.\nWhere, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency of the port of registry shall enter the transferee as the mortgagee in the ship register and in the ship ownership registration certificate, issue a ship mortgage registration certificate to the transferee, and seal up the original ship mortgage registration certificate.\nBefore completing the transfer of the ship mortgage, the mortgagee shall notify the mortgagor."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Registration of Ship Mortgage"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where two or more mortgages are created on the same ship, the ship registration agency shall register them in the order of the dates of the applications for registration of mortgage, and shall state the dates of registration in the ship register.\nThe date of the application for registration shall be the date of registration; where applications are made on the same day, the dates of registration shall be the same."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Registration of Ship Mortgage"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "In any of the following circumstances, the lessor and the charterer shall complete registration of the bareboat charter:\n(a) a ship of Chinese nationality is chartered on bareboat terms to an enterprise of the country;\n(b) a Chinese enterprise charters a ship of foreign nationality on bareboat terms;\n(c) a ship of Chinese nationality is chartered on bareboat terms to a place outside the territory."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Registration of Bareboat Charter"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a ship is chartered within the territory, the lessor and the charterer shall, before the charter commences, on the strength of the ship ownership registration certificate, the ship nationality certificate and the original and a copy of the bareboat charter contract, apply to the ship registration agency of the port of registry for registration of the bareboat charter.\nWhere, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency of the port of registry shall enter the particulars of the ship charter in the ship ownership registration certificate and in the ship register respectively, and issue one copy each of the bareboat charter registration certificate to the lessor and the charterer."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Registration of Bareboat Charter"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a ship is chartered on bareboat terms to a place outside the territory, the lessor shall, on the strength of the documents prescribed in Article 26 of these Regulations, apply to the ship registration agency of the port of registry for registration of the bareboat charter.\nWhere, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency of the port of registry shall suspend or cancel the ship's nationality in accordance with the provisions of Article 42 of these Regulations and issue two copies of the bareboat charter registration certificate."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Registration of Bareboat Charter"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where a ship is chartered from abroad on bareboat terms, the charterer shall determine the port of registry by reference to Article 9 of these Regulations and shall, before the charter commences, on the strength of the following documents, apply to the ship registration agency for registration of the bareboat charter:\n(a) the original and a copy of the bareboat charter contract;\n(b) the valid ship technical certificates issued by a statutory ship survey agency;\n(c) the certificate issued by the ship registration agency of the original port of registry confirming the suspension or cancellation of ship nationality, or a certificate that ship nationality will be suspended or cancelled immediately upon re-registration.\nWhere, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency shall issue a bareboat charter registration certificate, and shall issue a provisional ship nationality certificate in accordance with the provisions of Article 17 of these Regulations, and state the original country of registration in the ship register."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Registration of Bareboat Charter"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the term of a bareboat charter needs to be extended, the lessor and the charterer shall, 15 days before the expiry of the bareboat charter contract, on the strength of the bareboat charter registration certificate and the original and a copy of the renewal contract, apply to the ship registration agency for registration of the renewal."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Registration of Bareboat Charter"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "During the period of a bareboat charter, the charterer may not apply for registration of a bareboat sub-charter without the written consent of the lessor."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Registration of Bareboat Charter"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A ship shall bear the following markings:\n(a) the name of the ship marked on both sides of the bow and on the stern;\n(b) the port of registry marked below the name of the ship on the stern;\n(c) the Chinese phonetic alphabet marked below the name of the ship and the port of registry;\n(d) draught scales marked on both sides of the bow and the stern;\n(e) load lines marked on both sides amidships.\nWhere a ship cannot bear the markings at the positions prescribed in the preceding paragraph owing to limitations of ship type or dimensions, the name of the ship and the port of registry shall be marked in a conspicuous position on board the ship."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Ship Markings and Company Flags"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a shipowner adopts a ship funnel mark or company flag, he may apply to the ship registration agency of the port of registry for registration and provide the standard design drawings in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Ship Markings and Company Flags"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Ships of the same company may use only one ship funnel mark and company flag.\nA ship funnel mark and company flag shall be examined and verified by the ship registration agency of the port of registry.\nA ship funnel mark and company flag shall not be identical or similar to a ship funnel mark or company flag registered earlier."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Ship Markings and Company Flags"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The ship registration agency of the port of registry shall publish a notice of the ship funnel marks and company flags approved for registration.\nA registered ship funnel mark or company flag is for the exclusive use of the registration applicant, and other ships or companies may not use it."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Ship Markings and Company Flags"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where any item of ship registration changes, the shipowner shall, on the strength of the relevant certificates of ship registration and the documents evidencing the change, apply to the ship registration agency of the port of registry for registration of the change."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a ship changes its port of registry, the shipowner shall, on the strength of the ship nationality certificate and the documents evidencing the change, apply to the ship registration agency of the original port of registry for registration of the change of port of registry. Where, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency of the original port of registry shall note this in the endorsement column of the ship nationality certificate and transfer the relevant registration files of the ship to the ship registration agency of the new port of registry, and the shipowner shall then complete the registration with the ship registration agency of the new port of registry."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the particulars of co-ownership of a ship change, the shipowner shall, on the strength of the ship ownership registration certificate and the documents evidencing the change in the particulars of co-ownership of the ship, apply to the ship registration agency of the port of registry for registration of the relevant change."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a ship mortgage contract is modified, the mortgagee and the mortgagor shall, on the strength of the ship ownership registration certificate, the ship mortgage registration certificate and the documents evidencing the modification of the ship mortgage contract, apply to the ship registration agency of the port of registry for registration of the change.\nWhere, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency of the port of registry shall note the particulars of the modification of the ship mortgage contract in the ship ownership registration certificate, the ship mortgage registration certificate and the ship register."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where ship ownership is transferred, the original shipowner shall, on the strength of the ship ownership registration certificate, the ship nationality certificate and other relevant documents of proof, apply to the ship registration agency of the port of registry for deregistration.\nWhere, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency of the port of registry shall cancel the registration of ownership of the ship in the ship register and the related registrations, take back the relevant registration certificates, and issue to the shipowner the corresponding certificate of cancellation of ship registration. For a ship sold abroad, the ship registration agency may, according to the specific circumstances, issue a certificate of cancellation of nationality or a certificate that nationality will be cancelled immediately upon re-registration."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a ship is lost (including shipbreaking and sinking) or is missing, the shipowner shall, within three months from the date of the loss (including shipbreaking and sinking) or disappearance of the ship, on the strength of the ship ownership registration certificate, the ship nationality certificate and the documents evidencing the loss (including shipbreaking and sinking) or disappearance of the ship, apply to the ship registration agency of the port of registry for deregistration. After examination and verification, the ship registration agency of the port of registry shall cancel the registration of the ship in the ship register, take back the relevant registration certificates and issue a certificate of cancellation of ship registration to the shipowner."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a ship mortgage contract is rescinded, the mortgagee and the mortgagor shall, on the strength of the ship ownership registration certificate, the ship mortgage registration certificate and the document rescinding the mortgage contract signed by the mortgagee, apply to the ship registration agency of the port of registry for deregistration. Where, after examination, the application is found to conform to the provisions of these Regulations, the ship registration agency of the port of registry shall cancel the record of the mortgage registration in the ship ownership registration certificate and in the ship register."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "For a ship chartered on bareboat terms to a place outside the territory, the lessor shall, in addition to completing registration of the bareboat charter in accordance with the provisions of Article 27 of these Regulations, also complete registration of the suspension or cancellation of ship nationality. The ship registration agency of the port of registry shall seal up the original ship nationality certificate and issue a certificate of suspension or cancellation of ship nationality. In special circumstances, the ship registration agency of the port of registry may issue a certificate that ship nationality will be suspended or cancelled immediately upon re-registration."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a bareboat charter contract expires or a bareboat charter relationship terminates, the lessor shall, within 15 days from the date of expiry of the bareboat charter contract or termination of the bareboat charter relationship, on the strength of the ship ownership registration certificate, the bareboat charter contract or the documents evidencing the termination of the bareboat charter relationship, apply to the ship registration agency of the port of registry for deregistration of the bareboat charter.\nFor a ship chartered on bareboat terms to a place outside the territory, the lessor shall also provide the certificate of cancellation of ship nationality issued by the ship registration agency at the place where the charterer is located, or a certificate that ship nationality will be cancelled immediately upon re-registration.\nAfter approval, the ship registration agency of the port of registry shall cancel the record of the bareboat charter registration in the ship ownership registration certificate and in the ship register and return the original ship nationality certificate."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "For a ship chartered on bareboat terms from abroad, the charterer shall, within 15 days from the date of expiry of the bareboat charter contract or termination of the bareboat charter relationship, on the strength of the bareboat charter contract and the documents evidencing the termination of the bareboat charter relationship, apply to the ship registration agency of the port of registry for deregistration.\nFor a ship chartered on bareboat terms from abroad, the provisional ship nationality certificate shall also be provided.\nAfter approval, the ship registration agency of the port of registry shall cancel the bareboat charter registration in the ship register, take back the provisional ship nationality certificate, and issue a certificate of cancellation of bareboat charter registration and a certificate of cancellation of provisional ship nationality."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Registration of Changes and Deregistration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Within one year before the expiry of the period of validity of a ship nationality certificate, the shipowner shall, on the strength of the ship nationality certificate and the valid ship technical certificates, complete the formalities for renewal of the certificate with the ship registration agency of the port of registry."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VIII Renewal and Replacement of Ship Ownership Registration Certificates and Ship Nationality Certificates"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a ship ownership registration certificate or a ship nationality certificate is defaced or damaged and cannot be used, the holder shall apply to the ship registration agency of the port of registry for renewal."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VIII Renewal and Replacement of Ship Ownership Registration Certificates and Ship Nationality Certificates"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a ship ownership registration certificate or a ship nationality certificate is lost, the holder shall state the reasons in writing, attach the relevant documents of proof and apply to the ship registration agency of the port of registry for replacement.\nThe ship registration agency of the port of registry shall publish a notice in a local newspaper declaring the original certificate void."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VIII Renewal and Replacement of Ship Ownership Registration Certificates and Ship Nationality Certificates"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a shipowner discovers abroad that a ship nationality certificate is lost or defaced, he shall apply to the embassy or consulate of the People's Republic of China abroad for a provisional ship nationality certificate, but must, promptly after arrival at the first port of the country, apply to the ship registration agency of the port of registry for renewal of the ship nationality certificate."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII Renewal and Replacement of Ship Ownership Registration Certificates and Ship Nationality Certificates"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Whoever fraudulently assumes the nationality of the People's Republic of China and flies the national flag of the People's Republic of China in navigation shall have the ship confiscated by the ship registration agency in accordance with law.\nWhere a ship of Chinese nationality fraudulently assumes a foreign nationality and flies a foreign national flag in navigation, the provisions of the preceding paragraph shall apply."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Whoever conceals the facts of registration within or outside the territory so as to create dual nationality shall have his ship nationality certificate revoked by the ship registration agency of the port of registry and shall be subject to the following fines according to the circumstances:\n(a) for a ship of not more than 500 gross tonnage, a fine of not less than RMB 2,000 and not more than RMB 10,000;\n(b) for a ship of not less than 501 gross tonnage and not more than 10,000 gross tonnage, a fine of not less than RMB 10,000 and not more than RMB 50,000;\n(c) for a ship of not less than 10,001 gross tonnage, a fine of not less than RMB 50,000 and not more than RMB 200,000."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where these Regulations are violated and any of the following circumstances exists, the ship registration agency of the port of registry may, according to the circumstances, give a warning, impose a fine of 50 per cent of the amount prescribed in Article 50 of these Regulations according to the tonnage of the ship, or even confiscate the ship registration certificate:\n(a) concealing the true situation or practising fraud when completing registration formalities;\n(b) concealing the facts of registration so as to create duplicate registration;\n(c) forging or altering a ship registration certificate."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Whoever fails to complete registration of a change or deregistration in accordance with the provisions, or uses an expired ship nationality certificate or provisional ship nationality certificate, shall be ordered by the ship registration agency of the port of registry to complete the relevant registration formalities; where the circumstances are serious, a fine of 10 per cent of the amount prescribed in Article 50 of these Regulations may be imposed according to the tonnage of the ship."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Whoever, in violation of these Regulations, uses the registered ship funnel mark or company flag of another shall be ordered by the ship registration agency of the port of registry to make rectification; where he refuses to make rectification, a fine of 10 per cent of the amount prescribed in Article 50 of these Regulations may be imposed according to the tonnage of the ship; where the circumstances are serious, his ship nationality certificate or provisional ship nationality certificate may also be revoked."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where staff members of a ship registration agency abuse their powers, engage in malpractice for personal gain, neglect their duties or seriously derelict in their duties, administrative sanctions shall be given by the unit to which they belong or by the authority at the higher level; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a party is dissatisfied with a specific administrative act of a ship registration agency, he may apply for reconsideration or bring an administrative action in accordance with the provisions of the relevant laws and administrative regulations of the State."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IX Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "For the purposes of these Regulations, the following expressions have the following meanings:\n(a) \"ship\" means all kinds of power-driven and non-power-driven vessels and other mobile devices on water, except lifeboats and rafts carried on board ships and boats and rafts less than five metres in length;\n(b) \"fishery ship\" means a ship engaged in fishery production and a ship belonging to the aquatic products system that serves fishery production;\n(c) \"official ship\" means a ship used for the purposes of government administration."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Except for official ships, ship registration agencies shall collect ship registration fees in accordance with the provisions. The rates and administrative measures for ship registration fees shall be formulated by the finance department and the administrative department for pricing of the State Council together with the administrative department for transport of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The forms of the ship register, ship nationality certificate, provisional ship nationality certificate, ship ownership registration certificate, ship mortgage registration certificate, bareboat charter registration certificate, application forms and other certificates shall be uniformly formulated by the harbour superintendency agency of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 1995."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0464'] = {
     "lawId": "CN-REG-0464",
     "sourceLang": "zh",
@@ -9810,6 +12495,1260 @@
         },
         "noLabel": {
           "en": "Article 13."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0467'] = {
+    "lawId": "CN-REG-0467",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of the Archives Law of the People's Republic of China (hereinafter referred to as the Archives Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The specific scope of archives as referred to in the Archives Law shall be determined by the competent department of archives administration under the State Council, or by that department together with the relevant departments under the State Council.\nThe specific scope of archives that reflect local cultural customs, ethnic characteristics, historical figures and distinctive brands may be determined by the competent department of archives administration of a province, autonomous region or municipality directly under the Central Government together with the relevant departments at the same level."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Archives work shall uphold and strengthen the leadership of the Party, comprehensively implement the Party's line, principles, policies and decisions and arrangements, improve the systems and mechanisms for Party leadership of archives work, and integrate Party leadership into all aspects and all stages of archives work."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen archives work, establish and improve archives institutions, provide premises and facilities for the long-term and secure safekeeping of archives, and include the funds for the development of archives undertakings in their budgets at the corresponding level.\nState organs, organisations, enterprises, public institutions and other organisations shall strengthen archives work in their own units, perform their principal responsibility for archives work and ensure that archives work is carried out in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Archives under permanent preservation kept by national archives shall be administered at Grades I, II and III; the specific standards for grading and the measures for administration shall be formulated by the competent department of archives administration under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Central state organs may, with the consent of the competent department of archives administration under the State Council, and the relevant state organs of provinces, autonomous regions and municipalities directly under the Central Government may, with the consent of the archives administration department at the corresponding level, formulate specific management systems and measures for specialised archives of their own systems."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall strengthen publicity and education on archives, popularise archives knowledge, disseminate archives culture and enhance public awareness of archives throughout society."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State strengthens the training of professionals in archives-related disciplines and supports institutions of higher education and vocational schools in establishing archives science and other related disciplines."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State encourages and supports social forces such as enterprises, public institutions, social organisations and individuals in participating in and supporting the development of archives undertakings by lawfully establishing entities, funding projects, engaging in voluntary services, and carrying out scientific research, technological innovation and the dissemination of scientific and technological achievements.\nArchives industry organisations shall, in accordance with laws, regulations, rules and their constitutions, strengthen industry self-discipline, promote integrity building, provide industry services, carry out academic exchanges and archives-related popular science education, and participate in policy consultation and standard setting.\nThe competent department of archives administration shall provide guidance within the scope of its duties."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In any of the following circumstances, commendation and reward shall be given by people's governments at or above the county level, the competent department of archives administration or the unit concerned in accordance with the relevant provisions of the State:\n(1) notable achievements in the collection, arrangement, preservation and utilisation of archives;\n(2) notable achievements in scientific research on archives, technological innovation, publicity and education, and exchange and cooperation;\n(3) outstanding performance in archives work relating to major events and emergency response activities;\n(4) donating important or precious archives to the State;\n(5) outstanding performance in combating acts that violate laws and regulations on archives;\n(6) outstanding performance in long-term engagement in archives work."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The competent department of archives administration under the State Council shall, in accordance with the provisions of paragraph 1 of Article 8 of the Archives Law, perform the following duties:\n(1) studying and formulating departmental rules and specific policies and standards for archives work on the basis of the relevant laws, administrative regulations and relevant State policies;\n(2) organising and coordinating the development of archives undertakings throughout the country, formulating comprehensive plans and special plans for the development of national archives undertakings and organising their implementation;\n(3) supervising and inspecting the implementation of the relevant laws, administrative regulations, departmental rules and relevant State policies, and investigating and dealing with illegal acts relating to archives in accordance with law;\n(4) supervising and guiding archives work of the departments of central state organs, the mass organisations administered by the Central Government, the enterprises under central administration and the public institutions directly under the Central Committee and the State Council, the work of national archives at the central level, and the work of the competent departments of archives administration of provinces, autonomous regions and municipalities directly under the Central Government;\n(5) organising and guiding theoretical and scientific and technological research on archives, the development of archives informatisation, publicity and education on archives, and the training of archives personnel;\n(6) organising and carrying out international exchange and cooperation in the field of archives."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Archives Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Local competent departments of archives administration at or above the county level shall, in accordance with the provisions of paragraph 2 of Article 8 of the Archives Law, perform the following duties:\n(1) implementing the relevant laws, regulations, rules and relevant State policies;\n(2) formulating development plans for archives undertakings and rules and norms for archives work in their respective administrative areas and organising their implementation;\n(3) supervising and guiding archives work in their respective administrative areas, supervising and inspecting the implementation of the relevant laws, regulations, rules and relevant State policies, and investigating and dealing with illegal acts relating to archives in accordance with law;\n(4) organising and guiding theoretical and scientific and technological research on archives, the development of archives informatisation, publicity and education on archives, and the training of archives personnel in their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Archives Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Township people's governments shall, in accordance with the provisions of paragraph 3 of Article 8 of the Archives Law, perform the following duties:\n(1) implementing the relevant laws, regulations, rules and relevant State policies and establishing and improving rules and norms for archives work;\n(2) designating personnel to manage the archives of their own organs and transferring archives to the relevant archives repositories in accordance with regulations;\n(3) supervising and guiding archives work of the units subordinate to them and of grassroots self-governing organisations of the public."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Archives Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "State organs, organisations, enterprises, public institutions and other organisations shall designate an archives institution or archives personnel to perform the following duties in accordance with the provisions of paragraph 1 of Article 9 of the Archives Law:\n(1) implementing the relevant laws, regulations, rules and relevant State policies and establishing and improving rules and norms for archives work in their own units;\n(2) guiding the creation, accumulation, arrangement and filing of the relevant materials of their own units, managing the archives of their own units in a unified manner, and transferring archives to the relevant archives repositories in accordance with regulations;\n(3) supervising and guiding archives work of the units subordinate to them."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Archives Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The establishment and management of archives repositories of all types and at all levels shall conform to the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Archives Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "National archives shall be staffed with professionals commensurate with their duties and scale and shall, in accordance with the provisions of Article 10 of the Archives Law, perform the following duties:\n(1) collecting archives within the scope of responsibility of the repository;\n(2) arranging and safekeeping archives in accordance with regulations;\n(3) opening archives to the public in accordance with law, and studying and developing archives resources in various forms so as to provide services for the utilisation of archives resources by all quarters;\n(4) carrying out publicity and education and giving play to the functions of patriotic education and historical and cultural education.\nOther archives repositories of various types established in accordance with the relevant provisions of the State shall, with reference to the provisions of the preceding paragraph, perform the corresponding duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Archives Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The competent departments of archives administration, archives repositories and state organs, organisations, enterprises, public institutions and other organisations shall create conditions for the education and training, professional title assessment and post appointment of archives personnel, and continuously improve their professional knowledge and operational capability."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Archives Institutions and Their Duties"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "State organs, organisations, enterprises, public institutions and other organisations that are required to create archives in accordance with State provisions shall establish an archives work responsibility system, determine the organisational structure and division of duties for archives work, implement leadership, management and execution responsibilities for archives work, improve the system under which the principal person in charge of the unit bears the responsibility of being the first person responsible for the integrity and security of archives, and clarify the requirements for archives management, archives infrastructure development and archives informatisation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Materials that shall be filed in accordance with Article 13 of the Archives Law and the relevant provisions of the State shall be collected in full by each internal body of a state organ, organisation, enterprise, public institution or other organisation, arranged in a standardised manner and periodically handed over to the archives institution or archives personnel of the unit for centralised management; no internal body or individual may refuse to file them or appropriate them.\nState organs, mass organisations and state-owned enterprises and public institutions shall clarify the filing scope and archives retention periods of their own units, and implement them after examination and consent by the competent department of archives administration at the corresponding level. Where major changes occur in the internal bodies or work functions of a unit, the filing scope and archives retention periods shall be adjusted in a timely manner and implemented after re-examination and consent.\nState organs, mass organisations and state-owned enterprises and public institutions shall be responsible for examining the filing scope and archives retention periods of the units subordinate to them."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "State organs, organisations, enterprises, public institutions and other organisations shall, in accordance with the provisions of the competent department of archives administration under the State Council on the transfer of archives, periodically transfer archives to the relevant national archives.\nArchives falling within the receipt scope of national archives at the central level and at the provincial level and the level of cities divided into districts shall be transferred by the transferring unit to the relevant national archives once 20 years have elapsed since the date of creation of the archives. Archives falling within the receipt scope of county-level national archives shall be transferred by the transferring unit to the relevant county-level national archives once 10 years have elapsed since the date of creation of the archives.\nWhere archives are highly specialised or need to be kept confidential, the time limit for their transfer to the relevant national archives may be extended upon examination and consent by the competent department of archives administration at the corresponding level. Archives of dissolved units may be transferred to the relevant national archives ahead of schedule.\nWhere archives may become insecure or be seriously damaged because the safekeeping conditions of a unit do not meet the requirements or for other reasons, they may, upon consultation, be handed over to the relevant archives repository for safekeeping ahead of schedule."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Archives repositories may, in accordance with the relevant provisions of the State, collect archives by accepting donations, purchasing, depositing on behalf of owners and exchanging.\nWhen collecting archives by the means specified in the preceding paragraph, archives repositories shall take into account the rarity and the importance of the content of the archives, stipulate the rights and obligations of the parties concerned in a written agreement, and clarify the conditions for the utilisation of the archives concerned.\nThe State encourages units and individuals to donate to national archives archives in their ownership that are of important preservation value to the State and society. National archives shall protect the lawful rights and interests of donors."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Archives repositories shall take the following management measures for the archives in their safekeeping:\n(1) establishing and improving sound management systems and norms for consultation and utilisation, and formulating targeted safety risk control measures and emergency plans;\n(2) providing dedicated storage rooms suitable for the secure preservation of archives and conforming to the relevant provisions of the State, and equipping them with the necessary facilities and equipment for fire prevention, theft prevention, water prevention, light prevention, dust prevention, protection against harmful gases and pests, and temperature and humidity control;\n(3) taking effective measures to protect and manage archives according to their different grades;\n(4) providing, as needed and possible, facilities and equipment adapted to the needs of modern archives management;\n(5) compiling retrieval tools such as archives catalogues to facilitate the search and utilisation of archives.\nThe safekeeping of archives by state organs, organisations, enterprises, public institutions and other organisations shall be handled with reference to the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "People's governments at or above the county level shall take measures to ensure the storage rooms, facilities and equipment needed by national archives to receive archives in accordance with law.\nNo unit or individual may encroach upon or misappropriate the premises of national archives, or alter without authorisation the functions and uses of the premises of national archives.\nThe construction of premises for national archives shall conform to the requirements of practicality, safety, scientific soundness, aesthetics, environmental protection and economy as well as the relevant engineering construction standards of the State, and shall be equipped with barrier-free facilities and equipment."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "State organs, organisations, enterprises, public institutions and other organisations shall periodically appraise the archives in their safekeeping whose retention periods have expired and produce an appraisal work report.\nArchives that still need to be retained after appraisal shall have their retention periods re-determined and marked accordingly. The destruction of archives that need to be destroyed after appraisal shall comply with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Competent departments of archives administration at or above the county level may, relying on national archives, compile catalogue data by category for the following State-owned archives that are of permanent preservation value:\n(1) archives created by state organs, mass organisations and state-owned enterprises and public institutions;\n(2) archives created by units other than those listed in item (1) in the course of managing public affairs as authorised by laws and regulations or entrusted in accordance with law by state organs;\n(3) archives created by units other than those listed in item (1), or by individuals, in the course of undertaking or participating in construction projects, scientific research, technological innovation and other activities with State funding support and that are agreed under agreement to be owned by the State;\n(4) other archives in the safekeeping of national archives besides those specified in the preceding three items.\nThe scope for compiling the catalogue data of archives involving national defence, foreign affairs, national security and public security shall be determined through study by the competent department of archives administration concerned together with the unit that created the archives."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where archives repositories and state organs, organisations, enterprises, public institutions and other organisations need to collect or exchange archives dispersed abroad, conduct international cultural exchanges, or meet the needs of economic development, scientific research and the dissemination of scientific and technological achievements, they may, upon examination and approval within the scope of their functions and powers by the competent department of archives administration under the State Council or by the competent department of archives administration of a province, autonomous region or municipality directly under the Central Government, present, exchange or sell copies of State-owned archives to units or individuals at home and abroad."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Grade I archives are strictly prohibited from being taken out of the country. Where Grade II archives need to be taken out of the country, examination and approval by the competent department of archives administration under the State Council shall be obtained.\nApart from the circumstances specified in the preceding paragraph, where archives or copies thereof as specified in Article 25 of the Archives Law genuinely need to be taken out of the country, the archives repository, state organ, organisation, enterprise, public institution or other organisation or individual concerned shall, in accordance with the limits of administrative authority, submit the matter to the competent department of archives administration under the State Council or the competent department of archives administration of a province, autonomous region or municipality directly under the Central Government for examination and approval, and the customs shall inspect and release them against the approval document.\nWhere taking archives or copies thereof out of the country involves cross-border data transfer, the provisions of the State on cross-border data transfer shall also be complied with.\nThe units and individuals concerned shall, when archives or copies thereof are taken out of the country, proactively declare them to the customs for verification, and shall properly keep and dispose of the archives or copies taken out of the country in accordance with the opinions on the examination and approval of the application for taking them out of the country."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where archives repositories and state organs, organisations, enterprises, public institutions and other organisations entrust archives services in accordance with the provisions of Article 24 of the Archives Law, they shall ascertain that the entrusted archives service enterprise meets the following conditions:\n(1) possessing the status of an enterprise legal person and the corresponding scope of business;\n(2) possessing premises, facilities and equipment, professionals and professional capabilities suited to the provision of services relating to the arrangement, deposit, development and utilisation, and digitisation of archives;\n(3) possessing a management system and safeguard measures that ensure the security of archives.\nThe entrusting party shall guide and supervise the services of the entrusted party throughout the process to ensure the security of archives and the quality of services."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Management of Archives"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "National archives shall, in accordance with the relevant provisions of the Archives Law, open archives to the public by stages and in batches and shall at the same time publish catalogues of the archives opened."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "National archives shall establish a coordination mechanism for the examination of the opening of archives in their holdings and shall, together with the unit that created or transferred the archives, examine the opening of the archives. Where the unit that created or transferred the archives has been dissolved, merged or had its functions and powers changed, the national archives concerned shall be responsible jointly with the unit that continues to exercise its functions and powers; where there is no unit continuing to exercise its functions and powers, the national archives concerned shall be responsible.\nThe examination of the opening of archives not yet transferred to a repository shall be the responsibility of the unit that created or keeps the archives, and opinions on opening upon expiry, information on government information disclosure and information on changes in the level of confidentiality shall be attached when the archives are transferred to the repository.\nCompetent departments of archives administration at or above the county level shall strengthen overall coordination of the examination of the opening of archives."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For archives that are not suitable for opening to the public upon expiry as specified in Article 27 of the Archives Law, the opening to the public may be postponed upon consent by the competent department of archives administration at the corresponding level following submission by the national archives."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Archives repositories shall gradually replace original archives with copies in providing archives for social utilisation. Copies of archives in digital, microform and other reproduction forms that bear the signature and seal mark of the archives safekeeping unit shall have the same effect as the original archives."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Archives repositories may provide archives for utilisation in accordance with law through consultation, reproduction and excerpting.\nNational archives shall clarify the conditions, scope and procedures for the utilisation of archives, publish the relevant information at archives utilisation reception venues and on their official websites, innovate the forms of archives utilisation services, and promote the integration of online and offline archives enquiry and utilisation services."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where state organs, organisations, enterprises, public institutions and other organisations or citizens utilise unopened archives in the safekeeping of national archives, the consent of the national archives keeping the archives shall be obtained, and where necessary, the national archives shall obtain the consent of the unit that created or transferred the archives.\nWhere state organs, organisations, enterprises, public institutions and other organisations or citizens need to utilise archives kept by the archives institutions of state organs, organisations, enterprises, public institutions and other organisations that have not yet been transferred to national archives, the consent of the unit that created or keeps the archives shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Publication of archives as referred to in Article 32 of the Archives Law means the first public disclosure to society of all or part of the original text of archives through the following forms:\n(1) public publication through newspapers, periodicals, books, audio-visual products, electronic publications and the like;\n(2) public dissemination through radio stations, television stations, computer information networks and the like;\n(3) reading out or playing in public;\n(4) public sale, distribution or posting of copies of archives;\n(5) public display in exhibitions and displays."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The publication of State-owned archives shall be handled in accordance with the following provisions:\n(1) archives kept in archives repositories shall be published by the archives repositories; where necessary, they shall be published upon obtaining the consent of the unit that created or transferred the archives, or upon obtaining the consent of the competent department at a higher level of the unit that created or transferred the archives;\n(2) archives kept by the archives institutions of various units shall be published by the respective units; where necessary, they shall be published upon obtaining the consent of their competent departments at a higher level;\n(3) units and individuals utilising State-owned archives have no right to publish the archives without the consent of the archives repository or the unit concerned.\nThe publication by archives repositories of archives deposited with them shall be handled in accordance with the agreement; in the absence of an agreement, the consent of the owner of the archives shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "National archives shall, in light of the needs of their work and social demand, carry out the development, utilisation and publication of the archives in their holdings, and promote the provision and dissemination of archival documentary publications and archives cultural and creative products.\nThe State encourages and supports other archives repositories of various types in opening and publishing the archives in their holdings to society, and promotes the social sharing of archives resources."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Use and Publication of Archives"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "State organs, organisations, enterprises, public institutions and other organisations shall strengthen the development of archives informatisation and actively advance the development of electronic archives management information systems.\nState organs, mass organisations and state-owned enterprises and public institutions shall incorporate archives informatisation development into their informatisation development plans, strengthen the development of filing functions of office automation systems and business systems, and connect them with electronic archives management information systems so as to achieve whole-process management of electronic archives.\nElectronic archives management information systems shall be developed in accordance with the relevant provisions of the State and shall conform to the provisions of the State on cybersecurity, data security and confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Development of Archives Informatisation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "State organs, organisations, enterprises, public institutions and other organisations shall take management measures and technical means to ensure that electronic archives have reliable sources, standardised procedures and compliant elements, and meet the following conditions:\n(1) the creator, the creating activity and the time of creation can be confirmed, and the systems for creation, handling, arrangement, filing, safekeeping and transfer are secure and reliable;\n(2) whole-process management conforms to the relevant provisions and is accurately recorded and traceable;\n(3) the constituent elements such as content, structure, background information and management process information conform to the normative requirements."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Development of Archives Informatisation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "State organs, organisations, enterprises, public institutions and other organisations shall, in accordance with the relevant provisions of the competent department of archives administration under the State Council, periodically transfer electronic archives to the relevant archives repositories. The network and system environment for the transfer and receipt of electronic archives shall conform to the provisions of the State on cybersecurity, data security and confidentiality. Where the conditions for online transfer are not available, electronic archives shall be transferred to the archives repository through storage media that meet the security management requirements.\nArchives repositories shall, when receiving electronic archives, test their authenticity, integrity, usability and security, and take management measures and technical means to ensure the authenticity, integrity, usability and security of electronic archives during long-term preservation.\nNational archives may provide safekeeping services for electronic archives that have not reached the time limit for transfer to a repository specified in paragraph 2 of Article 20 of these Regulations; where government information disclosure matters are involved, the provisions of paragraph 2 of Article 15 of the Archives Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Development of Archives Informatisation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where archives repositories keep off-site backup copies of important electronic archives, they shall use storage media that meet the security management requirements, such as magnetic media, optical media and microfilm, and periodically test the integrity of the carriers and the readability of the data. The siting of off-site backup facilities shall meet the requirements of security and confidentiality.\nArchives repositories may, as needed, build disaster backup systems to achieve backup and disaster recovery of important electronic archives and their management systems."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Development of Archives Informatisation"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where archives repositories and state organs, organisations, enterprises, public institutions and other organisations carry out the digitisation of archives on traditional carriers, they shall conform to the relevant provisions of the competent department of archives administration under the State Council and ensure the quality and security of the digitisation results.\nThe State encourages units with the necessary conditions to carry out text, speech and image recognition work and to strengthen the in-depth mining, development and utilisation of archives resources."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Development of Archives Informatisation"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Archives repositories shall actively create conditions to build, operate and maintain digital archives in accordance with the relevant provisions of the State, so as to provide guarantees for the collection, long-term secure preservation and effective utilisation of archives digital resources in different network environments.\nThe State encourages state organs, organisations, enterprises, public institutions and other organisations with the necessary conditions to develop digital archives rooms and improve the level of archives informatisation in their own units."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Development of Archives Informatisation"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The competent department of archives administration under the State Council shall formulate data sharing standards, improve the level of archives information sharing services, and promote the sharing and utilisation of archives digital resources across regions, levels and departments throughout the country.\nLocal competent departments of archives administration at or above the county level shall advance the sharing and utilisation of archives digital resources in their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Development of Archives Informatisation"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "National archives and state organs, mass organisations and state-owned enterprises and public institutions shall periodically report to the competent department of archives administration at the corresponding level on archives work in their own units."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Competent departments of archives administration shall promptly organise investigations in accordance with law into leads and cases suspected of violating archives laws that are discovered in handling complaints and reports and in supervision and inspection, or referred by the relevant departments.\nWhere investigation reveals acts in violation of archives laws, the competent department of archives administration shall handle them in accordance with law. Where the responsibility of the persons responsible needs to be pursued, the competent department of archives administration may, in accordance with law, put forward handling suggestions to the unit to which they belong or to the organ or unit with the power of appointment and removal. The organ or unit concerned shall promptly notify the competent department of archives administration that put forward the handling suggestions of the handling results in writing."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Competent departments of archives administration at or above the county level shall strengthen the development of the archives administrative law enforcement team and the education and training of archives administrative law enforcement personnel. Persons engaged in archives administrative law enforcement work shall pass an examination and obtain an administrative law enforcement certificate."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where national archives, in violation of State provisions, expand or narrow the scope of archives receipt without authorisation, or fail to open or provide archives for utilisation in accordance with State provisions, the competent department of archives administration at or above the county level shall order it to make corrections within a prescribed time limit; if the circumstances are serious, the organ concerned shall impose sanctions in accordance with law on the responsible leading personnel and directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a unit or individual appropriates materials that should be filed, refuses to hand them over to the archives institution or archives personnel for filing, or fails to transfer archives to national archives in accordance with State provisions, the competent department of archives administration at or above the county level shall order it to make corrections within a prescribed time limit; if it refuses to make corrections, the organ concerned shall impose sanctions in accordance with law on the responsible leading personnel and directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a unit or individual encroaches upon or misappropriates the premises of national archives, the competent department of archives administration at or above the county level shall order it to make corrections within a prescribed time limit; if the circumstances are serious, the organ concerned shall impose sanctions in accordance with law on the responsible leading personnel and directly responsible personnel; if a crime is constituted, criminal liability shall be investigated in accordance with law; if property losses or other damage are caused, civil liability shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where an archives service enterprise knows of hidden dangers to archives security in the course of providing services but fails to take measures, the competent department of archives administration may take measures such as conducting a regulatory interview and ordering correction within a prescribed time limit.\nWhere an archives service enterprise is subject to an administrative penalty for violating the Archives Law and these Regulations, the information on the administrative penalty shall be made public in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "These Regulations shall come into force on 1 March 2024. The Measures for the Implementation of the Archives Law of the People's Republic of China shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0471'] = {
+    "lawId": "CN-REG-0471",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 53 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated to safeguard the sovereignty of the People's Republic of China, maintain order in ports and coastal waters, ensure navigational safety and prevent pollution of waters."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Foreign nationality ships (hereinafter referred to as ships) navigating in the ports and coastal waters of the People's Republic of China shall comply with these Rules and with all relevant laws, decrees, rules and provisions of the People's Republic of China. Where the harbour superintendency administration established in a port by the Government of the People's Republic of China considers it necessary to inspect a ship, the ship shall accept the inspection.\nCoastal waters as referred to in these Rules mean the inland waters and territorial sea belonging to the People's Republic of China and the waters under its jurisdiction as prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The master or the owner of a ship shall, one week before the ship is expected to arrive at a port, complete the prescribed forms through the foreign ship agency company and go through the procedures for approval of entry with the harbour superintendency administration, and shall, 24 hours before arrival at the port (or, where the voyage is less than 24 hours, at the time of departure from the previous port), report to the harbour superintendency administration through the foreign ship agency company the estimated time of arrival, the forward and aft draught and other particulars. Where the estimated time of arrival changes, a report shall be made at any time. Where a ship needs to enter a port or put back temporarily during a voyage by reason of special circumstances such as danger encountered, breakdown, or sudden serious illness of crew members or passengers, a report shall be made to the harbour superintendency administration in advance."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A ship entering or leaving a port or navigating or shifting berth within a port must be piloted by a pilot assigned by the harbour superintendency administration. The specific matters relating to pilotage shall be handled in accordance with the Provisions on Pilotage Work in Sea Ports issued by the Ministry of Communications of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "After a ship arrives at a port, it shall immediately submit the entry report and other relevant forms and at the same time present the ship's certificates and the relevant documents for examination and accept inspection. Before a ship leaves port, it shall submit the departure report and other relevant forms, and may leave port only after inspection and issuance of an exit permit."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The arms and ammunition on board a ship shall be sealed and stored by the harbour superintendency administration after the ship arrives at a port. Radiotelegraph transmitters, radiotelephone transmitters, rocket signals, flame signals and signal pistols may be used only in cases of emergency, and after use a report must be made to the harbour superintendency administration."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Shooting, swimming, fishing, setting off firecrackers or fireworks and other acts endangering the safety and order of the port are prohibited within a port."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a ship falls within any of the following circumstances, the harbour superintendency administration has the right to prohibit it from leaving port for a certain period or to order it to stop navigation, change course or put back:\n(1) it is in an unseaworthy condition;\n(2) it violates the laws or rules of the People's Republic of China;\n(3) an average accident has occurred to it;\n(4) it has not paid the amounts due and has not provided appropriate security;\n(5) other circumstances requiring prohibition of navigation."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "A ship navigating in the ports and coastal waters of the People's Republic of China may not engage in activities endangering the security and rights and interests of the People's Republic of China, and shall comply with the provisions on straits, waterways, navigation routes and prohibited navigation areas."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A ship may not navigate within a port at a speed endangering the safety of other ships and port facilities."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Boats (rafts) attached to a ship may not navigate within a port except for life-saving purposes."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "When a ship navigates or shifts berth within a port, its boats (rafts), derrick booms, gangways and the like may not protrude beyond the ship's sides."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A ship that needs to enter a port of the People's Republic of China open to foreign ships to take shelter from wind or to berth temporarily shall apply to the harbour superintendency administration for approval; the application shall include the ship's name, call sign, nationality, name of the shipping company, port of departure, port of destination, ship's position, speed, draught, colour of the hull, colour and mark of the funnel, and the ship shall take shelter at the designated place.\nWhere a ship needs to take shelter from wind or berth temporarily at a place other than a port of the People's Republic of China open to foreign ships, it shall, in addition to completing the above procedures for approval, comply with the following provisions:\n(1) promptly report to the nearest harbour superintendency administration the time of anchoring, the position and the time of departure;\n(2) comply with the provisions of the local authorities concerned, accept inspection and questioning, and follow directions;\n(3) without the approval of the local authorities concerned, persons on board may not go ashore and no cargo may be loaded or unloaded."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter I Entry and Exit of Ports and Navigation"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A ship berthing within a port must keep on duty a sufficient number of crew members to ensure the safe manoeuvring of the ship; in an emergency such as a typhoon warning, all crew members must immediately return to the ship and take preventive and emergency measures."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Gangways provided by a ship at the place where crew members, passengers and other persons embark and disembark must be secure and fitted with railings or lifelines; rope ladders must be firm and safe, and there shall be sufficient lighting at night."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a ship needs to test its engines, it must pay attention to the surroundings at the stern and may do so only when the safety of other ships and port facilities is not endangered."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "For a ship berthing within a port, the discharge openings on either side that may affect other ships, wharves or the embarkation and disembarkation of persons must be covered with blanking plates."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The lights of a ship may not affect the navigational safety of other ships; strong lights on board directed towards the navigation channel shall be screened."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A ship shall provide safe and good conditions for loading and unloading operations, and its loading and unloading equipment shall have valid certificates and be maintained in good technical condition."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A ship shall apply in advance to the harbour superintendency administration for approval before carrying out any of the following:\n(1) dismantling or repairing boilers, main engines, windlasses, steering gear or radio stations;\n(2) trial voyages or engine tests;\n(3) lowering boats (rafts) for life-saving drills;\n(4) welding (except repairs carried out in a shipyard), or open flame operations on deck;\n(5) displaying decorative lights."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a ship is fumigated, strict safety measures shall be taken and the signals prescribed by the port shall be displayed."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where it is necessary for the safety of the port and of ships that ships within the port shift berth or advance or postpone their departure, ships shall comply with the decisions of the harbour superintendency administration."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Berthing"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A ship navigating or berthing in the ports and coastal waters of the People's Republic of China shall, by day, fly the national flag of the State of registry, and shall, when entering or leaving port and when shifting berth, additionally fly the flag bearing the ship's name and call sign and display the relevant signals prescribed by the port."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Signals and Communications"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A ship shall, when entering or leaving port and when at anchor, pay attention to the call signs and signals of the port signal station and, when using visual signals, comply with the provisions of the People's Republic of China on signals in coastal ports. Signals not prescribed for coastal ports shall be handled in accordance with the International Code of Signals."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Signals and Communications"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "A ship may not sound signals at will within a port except where necessary for navigational safety. Where a ship needs to test its whistle, it shall report to the harbour superintendency administration in advance."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Signals and Communications"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a ship uses a very high frequency radiotelephone within a port, it shall comply with the Interim Measures on the Use of Very High Frequency Radiotelephones by Foreign Ships issued by the Ministry of Communications of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Signals and Communications"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A ship loading, unloading or carrying dangerous goods shall display the prescribed signals, comply with the provisions on the administration of the transport of dangerous goods, and take the necessary safety measures; in particular, goods with mutually incompatible properties shall not be stowed together, and explosives are strictly prohibited from being loaded in the same hold as igniting substances or flammable articles."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Dangerous Goods"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A ship carrying Class I highly dangerous goods such as explosives, highly toxic substances, radioactive substances, compressed and liquefied gases, oxidising agents, spontaneously combustible substances, substances combustible on contact with water, flammable liquids, flammable solids and acidic corrosive substances shall list in detail the names, properties, package quantities and stowage positions and attach a statement of the properties of the dangerous goods, and shall, three days before the expected arrival at the port, apply through the foreign ship agency company to the harbour superintendency administration for a visa; only after permission may it enter the port, discharge or transit. An exporting ship carrying the above dangerous goods shall apply for a visa three days before the commencement of loading and may load them only after permission."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Dangerous Goods"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a ship applies for the issue of a certificate of safe stowage for the export of dangerous goods, it shall, three days before the commencement of loading, submit a written application to the harbour superintendency administration stating the names, properties, packaging, quantities and stowage positions of the dangerous goods (with a cargo stowage plan attached), the intermediate ports and the port of destination, and shall carry out loading at the berth designated by the harbour superintendency administration."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Dangerous Goods"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A ship shall comply with navigation provisions and maintain navigational order; where an accident occurs to a ship and there is a risk of sinking, it shall immediately report to the harbour superintendency administration and shall do its utmost to take effective measures to move out of the navigation channel so as to avoid obstructing traffic and endangering other ships. Where a ship has already sunk, the ship's side shall promptly place temporary signal markers at the place of sinking."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The salvage of ships or other objects sunk in ports or coastal waters shall be handled in accordance with the Measures of the People's Republic of China for the Administration of the Salvage of Sunken Ships and Objects. The harbour superintendency administration may, in light of the specific circumstances, notify the owner of the sunken ship or object to salvage and clear it within a prescribed time limit, or immediately organise salvage or breaking-up and clearance, and all responsibility and expenses shall be borne by the owner of the sunken ship or object."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a ship discovers or recovers sunken or floating objects, it shall report them or deliver them to the harbour superintendency administration for handling, and the harbour superintendency administration shall give a reward as appropriate."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a ship needs to dump garbage and other waste within a port, it shall display the signals prescribed by the port to summon a garbage boat (vehicle)."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A ship shall take care of navigation channel equipment and navigational aids; where it damages navigational aids, port structures or other facilities, it shall immediately report to the harbour superintendency administration and shall be responsible for restoring them to their original state or paying the costs of such restoration."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Waterways"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "In the ports and coastal waters of the People's Republic of China, ships are prohibited from discharging oil, oily mixtures and other harmful polluting substances and waste at will."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention of Pollution"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A ship must apply to the harbour superintendency administration for approval before discharging ballast water, tank washing water or bilge water. Where a ship comes from a port with an epidemic situation, it shall undergo sanitary treatment by the health quarantine authority. The sewage and tank washing water of tanks that have carried dangerous goods or other harmful pollutants may be discharged at designated places only after being appraised as satisfactory by the health department concerned."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention of Pollution"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "All oil tankers and ships using fuel oil shall carry an oil record book and shall promptly and truthfully record entries in accordance with the provisions of the record book."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention of Pollution"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a pollution accident occurs to a ship in a port or in coastal waters, the circumstances shall be recorded respectively in the oil record book and in the deck log, and a report shall be made immediately to the harbour superintendency administration; at the same time effective measures must be taken to prevent the spread of pollution. Where chemical agents are to be used for treatment, a statement of their chemical composition shall be provided and approval shall be applied for from the harbour superintendency administration."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention of Pollution"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Matters not covered in this Chapter shall be handled in accordance with the provisions of the People's Republic of China on the prevention of pollution of waters."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Prevention of Pollution"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Smoking and the use of open flame are strictly prohibited in cargo holds and in places liable to cause a fire on board a ship."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Firefighting and Rescue"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Strict fire prevention and safety measures shall be taken for the bunkering of ships and for loading and unloading operations of oil tankers."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Firefighting and Rescue"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where welding and similar operations are carried out on a ship within a port, the surrounding environment shall be cleared in advance, strict precautionary measures shall be taken, firefighting equipment shall be provided, and inspections shall be carried out before and after the operations. For oil tanks and adjacent parts, welding may be carried out only after all oil has been discharged, residual oil has been removed, thorough ventilation has been carried out, flammable gases inside have been expelled and a certificate of fitness has been obtained."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Firefighting and Rescue"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a ship catches fire or a maritime casualty occurs, the place of the accident and particulars of the ship's tonnage, draught, cargo carried, damage sustained and the kind of assistance needed shall immediately be reported to the harbour superintendency administration."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Firefighting and Rescue"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The harbour superintendency administration may, when necessary, mobilise and direct ships in a port or in coastal waters to participate in the rescue of a ship in distress; provided that the safety of the ship itself is not affected, a mobilised ship shall be obliged to do its utmost to render rescue."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Firefighting and Rescue"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "When the responsible persons of the harbour superintendency administration or of the rescue department arrive at the scene, the master of the ship in distress shall immediately report the circumstances of the accident and the measures already taken, provide the information and facilities necessary for rescue, and may put forward suggestions concerning the rescue. Decisions made by the harbour superintendency administration to maintain safety and order must be complied with by the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Firefighting and Rescue"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where an average accident occurs to a ship, a brief report shall be sent to the harbour superintendency administration as quickly as possible by telegram or radiotelephone. For an average accident occurring outside the port area, the master shall, within 48 hours after the ship enters the first port, submit a report on the average accident to the harbour superintendency administration; for an average accident occurring within the port area, the master shall, within 24 hours, submit a report on the average accident to the harbour superintendency administration."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VIII Average Accidents"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a ship causes an accident resulting in loss of life or property damage in the ports and coastal waters of the People's Republic of China, it shall actively rescue the ship and persons in distress, promptly report to the harbour superintendency administration and accept investigation and handling. Where the party causing the accident fails to render rescue in the face of danger and hides or flees, it shall be dealt with severely."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VIII Average Accidents"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an accident resulting in the death of a crew member occurs on a ship, it shall immediately be reported to the harbour superintendency administration. Where damage or casualty is caused to the other party within a port through the fault of the ship's side or of the port's personnel, the scene shall be preserved and both parties shall promptly report to the harbour superintendency administration. Where a dispute arises, either party may apply to the harbour superintendency administration for investigation and handling; where criminal matters are involved, they shall be handled by the judicial organs of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII Average Accidents"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Matters not covered in this Chapter shall be handled in accordance with the Rules for the Investigation and Handling of Average Accidents issued by the Ministry of Communications of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII Average Accidents"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Whoever violates these Rules and all relevant laws, decrees, rules and provisions of the People's Republic of China shall be given such penalties as a warning or a fine by the harbour superintendency administration according to the nature and circumstances of the violation; where the nature is vile and the circumstances are serious, the matter shall be transferred to the judicial organs for handling."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IX Penalties for Violations"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a person penalised is dissatisfied with the penalty imposed, the person may, within 15 days from the day following receipt of the notice, lodge an appeal with the Harbour Superintendency Bureau of the People's Republic of China. Pending alteration of the decision, the original penalty shall remain in force."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IX Penalties for Violations"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "With respect to the prevention of collisions between ships, matters not covered by these Rules and other relevant provisions of the People's Republic of China shall be handled in accordance with the International Regulations for Preventing Collisions at Sea as applied by the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "These Rules are approved by the State Council of the People's Republic of China and shall be implemented accordingly; the Measures of the People's Republic of China for the Administration of the Entry and Exit of Foreign Nationality Ships at Ports issued by the Ministry of Communications of the People's Republic of China on 12 March 1957 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter X Supplementary Provisions"
         }
       }
     ]
@@ -10997,6 +14936,711 @@
     ]
   };
 
+  TR['CN-REG-0475'] = {
+    "lawId": "CN-REG-0475",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 58 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the relevant provisions of the Foreign Trade Law of the People's Republic of China in order to safeguard the order of foreign trade and fair competition."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where subsidised imported products cause material injury or threaten to cause material injury to an established domestic industry, or cause material retardation to the establishment of a domestic industry, an investigation shall be conducted and countervailing measures taken in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Subsidy means a financial contribution, or any form of income or price support, provided by the government of the exporting country (region) or by any public body thereof which confers a benefit on the recipient.\nThe government of the exporting country (region) and any public body thereof are hereinafter collectively referred to as the government of the exporting country (region).\nA financial contribution referred to in the first paragraph of this Article includes:\n(a) direct transfer of funds by the government of the exporting country (region) in the form of grants, loans and equity infusion, or potential direct transfer of funds or liabilities in the form of loan guarantees and the like;\n(b) forgone or uncollected government revenue that is otherwise due to the government of the exporting country (region);\n(c) provision of goods or services other than general infrastructure, or purchase of goods, by the government of the exporting country (region); and\n(d) payment by the government of the exporting country (region) to a funding mechanism, or entrustment or direction of a private body to carry out the functions described above."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A subsidy investigated and subject to countervailing measures under these Regulations must be specific.\nA subsidy is specific under any of the following circumstances:\n(a) the subsidy is explicitly limited to certain enterprises or industries by the government of the exporting country (region);\n(b) the subsidy is explicitly limited to certain enterprises or industries by the laws and regulations of the exporting country (region);\n(c) the subsidy is limited to enterprises or industries in a designated region;\n(d) the subsidy is contingent upon export performance, including the various subsidies listed in the Schedule of Export Subsidies annexed to these Regulations; and\n(e) the subsidy is contingent upon the use of domestic (regional) products in preference to imported products.\nIn determining the specificity of a subsidy, factors such as the number of enterprises receiving the subsidy and the amount, proportion and duration of the subsidy received and the manner in which the subsidy is granted shall also be taken into consideration."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The Ministry of Commerce shall be responsible for the investigation and determination of subsidies."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The amount of subsidy on imported products shall be calculated in the following ways according to the different circumstances:\n(a) where the subsidy is provided in the form of a grant free of charge, the amount of subsidy shall be calculated on the basis of the amount actually received by the enterprise;\n(b) where the subsidy is provided in the form of a loan, the amount of subsidy shall be calculated as the difference between the interest that the enterprise receiving the loan would have paid under normal commercial lending conditions and the interest actually paid on that loan;\n(c) where the subsidy is provided in the form of a loan guarantee, the amount of subsidy shall be calculated as the difference between the interest the enterprise would have paid without the guarantee and the interest it actually paid with the guarantee;\n(d) where the subsidy is provided in the form of equity infusion, the amount of subsidy shall be calculated on the basis of the amount of equity actually received by the enterprise;\n(e) where the subsidy is provided in the form of the provision of goods or services, the amount of subsidy shall be calculated as the difference between the normal market price of those goods or services and the price actually paid by the enterprise;\n(f) where the subsidy is provided in the form of the purchase of goods, the amount of subsidy shall be calculated as the difference between the price actually paid by the government and the normal market price of those goods; and\n(g) where the subsidy is provided in the form of forgone or uncollected revenue that is otherwise due, the amount of subsidy shall be calculated as the difference between the amount payable in accordance with the law and the amount actually paid by the enterprise.\nFor subsidies other than those in the forms listed in the preceding paragraph, the amount of subsidy shall be determined in a fair and reasonable manner."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Injury means material injury or a threat of material injury caused by a subsidy to an established domestic industry, or material retardation of the establishment of a domestic industry.\nThe Ministry of Commerce shall be responsible for the investigation and determination of injury; of these, investigations of injury to the domestic industry caused by countervailable subsidies involving agricultural products shall be conducted by the Ministry of Commerce together with the Ministry of Agriculture."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In determining whether a subsidy causes injury to a domestic industry, the following matters shall be examined:\n(a) the possible effect of the subsidy on trade;\n(b) the volume of the subsidised imports, including whether there has been a significant increase in the volume of the subsidised imports in absolute terms or relative to the production or consumption of like domestic products, or the possibility of a significant increase in the subsidised imports;\n(c) the price of the subsidised imports, including price undercutting by the subsidised imports or the extent to which the price of the subsidised imports has caused significant price suppression or depression of like domestic products;\n(d) the impact of the subsidised imports on the relevant economic factors and indicators of the domestic industry;\n(e) the production capacity and export capacity of the exporting country (region) and the country (region) of origin of the subsidised imports, and the inventories of the products under investigation; and\n(f) other factors causing injury to the domestic industry.\nThe determination of a threat of material injury shall be based on facts and shall not be based merely on allegations, conjecture or remote possibility.\nIn determining whether a subsidy causes injury to a domestic industry, the determination shall be based on positive evidence, and non-subsidy factors causing injury shall not be attributed to the subsidy."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where subsidised imports come from more than one country (region) and the following conditions are simultaneously met, a cumulative assessment may be made of the effect of the subsidised imports on the domestic industry:\n(a) the amount of subsidy on the subsidised imports from each country (region) is not de minimis, and the volume of such imports is not negligible; and\n(b) a cumulative assessment is appropriate in the light of the conditions of competition between the subsidised imports and the conditions of competition between the subsidised imports and like domestic products.\nDe minimis subsidy means a subsidy the amount of which is less than 1 per cent of the value of the product; however, for subsidised imports from developing countries (regions), de minimis subsidy means a subsidy the amount of which is less than 2 per cent of the value of the product."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In assessing the effect of subsidised imports, the production of like domestic products shall be determined separately. Where the production of like domestic products cannot be determined separately, the production of the narrowest group or range of products that includes the like domestic products shall be examined."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Domestic industry means all producers of like domestic products within the People's Republic of China, or those producers whose total output accounts for a major proportion of the total output of the like domestic products; however, producers that are related to the exporters or importers, or that are themselves importers of the subsidised products or of like products, shall be excluded.\nUnder special circumstances, producers in a regional market within the domestic territory who sell all or almost all of their like products in that market, and where the demand in that market for the like products is not mainly supplied by producers elsewhere in the domestic territory, may be regarded as a separate industry."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Like products means products identical to the subsidised imports; where there are no identical products, like products means products having characteristics most closely resembling those of the subsidised imports."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Subsidies and Injury"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A domestic industry, or a natural person, legal person or relevant organisation on behalf of a domestic industry (hereinafter collectively referred to as the applicant), may submit a written application for a countervailing investigation to the Ministry of Commerce in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The application shall include the following content:\n(a) the name, address and relevant information of the applicant;\n(b) a complete description of the imported products for which an investigation is requested, including the names of the products, the exporting country (region) or country (region) of origin involved, and the known exporters or producers;\n(c) a statement of the volume and value of production of like domestic products;\n(d) the effect of the volume and price of the imported products for which an investigation is requested on the domestic industry; and\n(e) other content that the applicant considers necessary to explain."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The application shall be accompanied by the following evidence:\n(a) evidence that the imported products for which an investigation is requested are subsidised;\n(b) evidence of injury to the domestic industry; and\n(c) evidence of a causal link between the subsidy and the injury."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The Ministry of Commerce shall, within 60 days from the date of receipt of the application and the relevant evidence submitted by the applicant, examine whether the application is made by or on behalf of the domestic industry and the content of the application and the evidence attached thereto, and decide whether or not to initiate an investigation. Under special circumstances, the examination period may be appropriately extended.\nBefore deciding to initiate an investigation, an invitation to consultations on the subsidy matters concerned shall be sent to the government of the country (region) whose products may be investigated."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where, among the domestic industry expressing support for or opposition to the application, the output of those supporting the application accounts for more than 50 per cent of the total output of those supporting and those opposing the application, the application shall be found to have been made by or on behalf of the domestic industry and a countervailing investigation may be initiated; however, where the output of the domestic producers expressing support for the application is less than 25 per cent of the total output of the like domestic products, a countervailing investigation shall not be initiated."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Under special circumstances, where the Ministry of Commerce has not received a written application for a countervailing investigation but has sufficient evidence to believe that a subsidy and injury exist and that there is a causal link between them, it may decide to initiate an investigation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The decision to initiate an investigation shall be announced by the Ministry of Commerce and notified to the applicant, the known exporters and importers and other interested organisations and individuals (hereinafter collectively referred to as interested parties) and the government of the exporting country (region).\nOnce the decision to initiate an investigation is announced, the Ministry of Commerce shall provide the text of the application to the known exporters and the government of the exporting country (region)."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The Ministry of Commerce may ascertain the circumstances from interested parties and conduct investigations by means of questionnaires, sampling, hearings, on-site verification and the like.\nThe Ministry of Commerce shall provide interested parties and the governments of interested countries (regions) with the opportunity to present their views and arguments.\nWhere the Ministry of Commerce considers it necessary, it may send staff to the countries (regions) concerned to conduct investigations, unless the countries (regions) concerned raise objections."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "When the Ministry of Commerce conducts an investigation, interested parties and the governments of interested countries (regions) shall truthfully reflect the circumstances and provide the relevant materials. Where interested parties or the governments of interested countries (regions) fail to truthfully reflect the circumstances or provide the relevant materials, or fail to provide the necessary information within a reasonable time, or otherwise seriously impede the investigation, the Ministry of Commerce may make a determination on the basis of the facts available."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an interested party or the government of an interested country (region) considers that the disclosure of the materials it provides would produce serious adverse effects, it may apply to the Ministry of Commerce for the materials to be treated as confidential.\nWhere the Ministry of Commerce considers that the application for confidentiality has justified grounds, it shall treat the materials provided by the interested party or the government of the interested country (region) as confidential and shall at the same time require the interested party or the government of the interested country (region) to provide a non-confidential summary of the materials.\nMaterials treated as confidential shall not be disclosed without the consent of the interested party or the government of the interested country (region) that provided them."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The Ministry of Commerce shall permit the applicant, interested parties and the governments of interested countries (regions) to consult the materials relating to the case, except those treated as confidential."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "During a countervailing investigation, a reasonable opportunity shall be given to the government of the country (region) whose products are investigated to continue consultations. Consultations shall not prevent the Ministry of Commerce from conducting an investigation and taking countervailing measures in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "On the basis of the results of the investigation, the Ministry of Commerce shall make a preliminary determination as to whether a subsidy, injury and a causal link between them exist, and shall announce it."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where the preliminary determination establishes the existence of a subsidy, injury and a causal link between them, the Ministry of Commerce shall continue the investigation into the subsidy and the amount of subsidy, and into the injury and the degree of injury, and shall make a final determination on the basis of the results of the investigation and announce it.\nBefore making the final determination, the Ministry of Commerce shall notify all known interested parties and the governments of interested countries (regions) of the essential facts on which the final determination is based."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "A countervailing investigation shall be concluded within 12 months from the date of announcement of the decision to initiate the investigation; under special circumstances it may be extended, but the extension shall not exceed 6 months."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Under any of the following circumstances, a countervailing investigation shall be terminated and the Ministry of Commerce shall announce it:\n(a) the applicant withdraws the application;\n(b) there is insufficient evidence to prove the existence of a subsidy, injury or a causal link between them;\n(c) the amount of subsidy is de minimis;\n(d) the actual or potential volume of the subsidised imports or the injury is negligible;\n(e) an agreement is reached through consultations with the government of the country (region) concerned and there is no need to continue the countervailing investigation; or\n(f) the Ministry of Commerce considers it inappropriate to continue the countervailing investigation.\nWhere the products under investigation from one or some countries (regions) fall under any of the circumstances listed in items (b), (c), (d) and (e) of the preceding paragraph, the countervailing investigation concerning the products involved shall be terminated."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Countervailing Investigations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the preliminary determination establishes the existence of a subsidy and injury to the domestic industry caused thereby, provisional countervailing measures may be taken.\nProvisional countervailing measures shall take the form of the levying of a provisional countervailing duty, with a cash deposit or a letter of guarantee as security."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 1 Provisional Measures"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "To take provisional countervailing measures, the Ministry of Commerce shall put forward a proposal, the Customs Tariff Commission of the State Council shall make a decision on the basis of the proposal of the Ministry of Commerce, and the Ministry of Commerce shall announce it. The Customs shall implement it from the date of implementation specified in the announcement."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 1 Provisional Measures"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The period for the implementation of provisional countervailing measures shall not exceed 4 months from the date of implementation specified in the announcement of the decision on provisional countervailing measures.\nNo provisional countervailing measures shall be taken within 60 days from the date of announcement of the decision to initiate the countervailing investigation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 1 Provisional Measures"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "During a countervailing investigation, where the government of the exporting country (region) offers an undertaking to eliminate or limit the subsidy or to take other relevant measures, or where an exporter offers an undertaking to modify its prices, the Ministry of Commerce shall give it full consideration.\nThe Ministry of Commerce may propose price undertakings to exporters or to the government of the exporting country (region).\nThe Ministry of Commerce shall not compel exporters to give undertakings."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 2 Undertakings"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The failure of an exporter or the government of the exporting country (region) to give an undertaking or to accept a proposal for a price undertaking shall not prejudice the investigation and determination of the countervailing case. Where an exporter continues to subsidise the imported products, the Ministry of Commerce has the power to determine that a threat of injury is more likely to occur."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 2 Undertakings"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where the Ministry of Commerce considers an undertaking acceptable and in conformity with the public interest, it may decide to suspend or terminate the countervailing investigation without taking provisional countervailing measures or levying a countervailing duty. The decision to suspend or terminate the countervailing investigation shall be announced by the Ministry of Commerce.\nWhere the Ministry of Commerce does not accept an undertaking, it shall state the reasons to the exporter concerned.\nThe Ministry of Commerce shall not seek or accept an undertaking before it has made an affirmative preliminary determination of a subsidy and of injury caused by the subsidy. Where an exporter gives an undertaking, the Ministry of Commerce shall not seek or accept the undertaking without the consent of the government of the country (region) of the exporter."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 2 Undertakings"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "After the investigation is suspended or terminated in accordance with the provisions of the first paragraph of Article 34 of these Regulations, the Ministry of Commerce shall, at the request of the government of the exporting country (region), continue the investigation into the subsidy and injury; or it may continue the investigation into the subsidy and injury where it considers it necessary.\nOn the basis of the results of the investigation, where a negative determination of subsidy or injury is made, the undertaking shall automatically become invalid; and where an affirmative determination of subsidy and injury is made, the undertaking shall remain valid."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 2 Undertakings"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The Ministry of Commerce may require an exporter whose undertaking has been accepted, or the government of the exporting country (region) concerned, to provide periodically the relevant information and materials on the implementation of its undertaking, and may verify them."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 Undertakings"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "In the event of a violation of an undertaking, the Ministry of Commerce may, in accordance with the provisions of these Regulations, immediately decide to resume the countervailing investigation; and on the basis of the best information available, may decide to take provisional countervailing measures and may levy a countervailing duty retroactively on products imported within the 90 days preceding the application of the provisional countervailing measures, except for products imported before the violation of the undertaking."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 Undertakings"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where efforts to conclude consultations have not produced results, and the final determination establishes the existence of a subsidy and injury to the domestic industry caused thereby, a countervailing duty may be levied. The levying of a countervailing duty shall be in conformity with the public interest."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "To levy a countervailing duty, the Ministry of Commerce shall put forward a proposal, the Customs Tariff Commission of the State Council shall make a decision on the basis of the proposal of the Ministry of Commerce, and the Ministry of Commerce shall announce it. The Customs shall implement it from the date of implementation specified in the announcement."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "A countervailing duty shall apply to products imported after the date of announcement of the final determination, except in the circumstances specified in Articles 37, 44 and 45 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The taxpayer of a countervailing duty shall be the importer of the subsidised imported products."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A countervailing duty shall be determined separately according to the amount of subsidy of the different exporters. Where a countervailing duty needs to be levied on the subsidised imported products of exporters that were not actually investigated, a prompt examination shall be conducted and the countervailing duty applicable to them shall be determined in a reasonable manner."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The amount of a countervailing duty shall not exceed the amount of subsidy determined in the final determination."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the final determination establishes the existence of material injury and provisional countervailing measures have previously been taken, the countervailing duty may be levied retroactively for the period during which the provisional countervailing measures were applied.\nWhere the final determination establishes the existence of a threat of material injury and provisional countervailing measures have been taken in circumstances where the failure to take such measures would have led to a determination of material injury, the countervailing duty may be levied retroactively for the period during which the provisional countervailing measures were applied.\nWhere the countervailing duty determined in the final determination is higher than the amount secured by the cash deposit or letter of guarantee, the excess shall not be collected; and where it is lower than the amount secured by the cash deposit or letter of guarantee, the excess shall be refunded."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the following three circumstances exist concurrently, a countervailing duty may, when necessary, be levied retroactively on products imported within the 90 days preceding the application of the provisional countervailing measures:\n(a) the subsidised imports have increased substantially within a relatively short period of time;\n(b) such an increase has caused injury to the domestic industry that is difficult to remedy; and\n(c) such products have benefited from the subsidy."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the final determination decides not to levy a countervailing duty, or where the final determination does not decide on retroactive levy, the cash deposits collected during the period of application of the provisional countervailing measures shall be refunded and the letters of guarantee shall be released."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 3 Countervailing Duties"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The period for levying a countervailing duty and the period for the implementation of an undertaking shall not exceed 5 years; however, where a review determines that termination of the levy of the countervailing duty may lead to the continuation or recurrence of the subsidy and injury, the period for levying the countervailing duty may be appropriately extended."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Duration and Review of Countervailing Duties and Undertakings"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "After a countervailing duty takes effect, the Ministry of Commerce may, where there are justified grounds, decide to conduct a review of the need to continue levying the countervailing duty; or it may, after a reasonable period of time has elapsed and at the request of an interested party and after examining the corresponding evidence provided by the interested party, decide to conduct a review of the need to continue levying the countervailing duty.\nAfter an undertaking takes effect, the Ministry of Commerce may, where there are justified grounds, decide to conduct a review of the need to continue implementing the undertaking; or it may, after a reasonable period of time has elapsed and at the request of an interested party and after examining the corresponding evidence provided by the interested party, decide to conduct a review of the need to continue implementing the undertaking."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Duration and Review of Countervailing Duties and Undertakings"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "On the basis of the results of the review, the Ministry of Commerce shall, in accordance with the provisions of these Regulations, put forward a proposal to retain, modify or cancel the countervailing duty, and the Customs Tariff Commission of the State Council shall make a decision on the basis of the proposal of the Ministry of Commerce, and the Ministry of Commerce shall announce it; or the Ministry of Commerce shall, in accordance with the provisions of these Regulations, make and announce a decision to retain, modify or cancel the undertaking."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Duration and Review of Countervailing Duties and Undertakings"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The review procedure shall be conducted by reference to the relevant provisions of these Regulations on countervailing investigations.\nThe review period shall not exceed 12 months from the date of the decision to commence the review."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Duration and Review of Countervailing Duties and Undertakings"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "During a review, the review procedure shall not prejudice the implementation of the countervailing measures."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Duration and Review of Countervailing Duties and Undertakings"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "A party dissatisfied with a final determination made in accordance with Article 26 of these Regulations, with a decision made in accordance with Chapter IV of these Regulations on whether to levy a countervailing duty or on a retroactive levy, or with a review decision made in accordance with Chapter V of these Regulations, may apply for administrative reconsideration in accordance with the law and may also institute legal proceedings in a people's court in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Announcements made in accordance with these Regulations shall state such content as the important circumstances, facts, reasons, basis, results and conclusions."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The Ministry of Commerce may take appropriate measures to prevent the circumvention of countervailing measures."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where any country (region) adopts discriminatory countervailing measures against products exported from the People's Republic of China, the People's Republic of China may, in light of the actual circumstances, take corresponding measures against that country (region)."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The Ministry of Commerce shall be responsible for foreign consultations, notifications and dispute settlement matters relating to countervailing measures."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The Ministry of Commerce may formulate specific implementing measures in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2002. The provisions on countervailing measures in the Regulations of the People's Republic of China on Anti-dumping and Countervailing promulgated by the State Council on 25 March 1997 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0476'] = {
     "lawId": "CN-REG-0476",
     "sourceLang": "zh",
@@ -11295,6 +15939,723 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0477'] = {
+    "lawId": "CN-REG-0477",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 59 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the relevant provisions of the Foreign Trade Law of the People's Republic of China for the purpose of maintaining the order of foreign trade and fair competition."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where an imported product enters the market of the People's Republic of China by way of dumping and causes material injury or threat of material injury to an established domestic industry, or causes material retardation to the establishment of a domestic industry, an investigation shall be conducted and anti-dumping measures taken in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Dumping means the entry of an imported product into the market of the People's Republic of China at an export price lower than its normal value in the ordinary course of trade.\nThe investigation and determination of dumping shall be the responsibility of the Ministry of Commerce."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The normal value of an imported product shall be determined, according to the different circumstances, by the following methods:\n(a) where a like product of the imported product has a comparable price in the ordinary course of trade in the domestic market of the exporting country (region), that comparable price shall be the normal value;\n(b) where the like product of the imported product is not sold in the ordinary course of trade in the domestic market of the exporting country (region), or the price or quantity of the like product does not permit a proper comparison, the normal value shall be the comparable price of the like product exported to an appropriate third country (region), or the cost of production of the like product in the country (region) of origin plus a reasonable amount for expenses and for profits.\nWhere the imported product does not come directly from the country (region) of origin, the normal value shall be determined in accordance with the provisions of item (a) of the preceding paragraph; provided that where the product is merely transhipped through the exporting country (region), or the product is not produced in the exporting country (region), or there is no comparable price in the exporting country (region), the price of the like product in the country (region) of origin may be the normal value."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The export price of an imported product shall be determined, according to the different circumstances, by the following methods:\n(a) where the imported product has an actually paid or payable price, that price shall be the export price;\n(b) where the imported product has no export price or its price is unreliable, the export price shall be the price constructed on the basis of the price at which the imported product is first resold to an independent buyer; provided that where the imported product is not resold to an independent buyer or is not resold in the condition as imported, the export price may be the price constructed by the Ministry of Commerce on a reasonable basis."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The margin of dumping is the amount by which the export price of an imported product is lower than its normal value.\nThe export price and the normal value of an imported product shall be compared in a fair and reasonable manner, taking into account the various factors of comparability that affect price.\nThe margin of dumping shall be determined by comparing the weighted average normal value with the weighted average prices of all comparable export transactions, or by comparing the normal value and the export price on a transaction-to-transaction basis.\nWhere the export prices differ significantly among different purchasers, regions or periods, and comparison by the method prescribed in the preceding paragraph is difficult, the weighted average normal value may be compared with the prices of individual export transactions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Injury means material injury or threat of material injury to an established domestic industry, or material retardation to the establishment of a domestic industry, caused by dumping.\nThe investigation and determination of injury shall be the responsibility of the Ministry of Commerce; where an anti-dumping investigation of injury to a domestic industry involves agricultural products, it shall be conducted by the Ministry of Commerce together with the Ministry of Agriculture."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "In determining whether dumping has caused injury to a domestic industry, the following matters shall be examined:\n(a) the volume of the dumped imports, including whether there has been a significant increase in dumped imports, either in absolute terms or relative to production or consumption of the like product in the country, or the possibility of a significant increase in dumped imports;\n(b) the price of the dumped imports, including whether there has been significant price undercutting by the dumped imports, or whether the effect of such imports is otherwise to depress prices to a significant degree or to prevent price increases which would otherwise have occurred;\n(c) the impact of the dumped imports on the relevant economic factors and indices of the domestic industry;\n(d) the production capacity and export capacity of the exporting country (region) and the country (region) of origin of the dumped imports, and the inventories of the product under investigation;\n(e) other factors causing injury to the domestic industry.\nThe determination of a threat of material injury shall be based on facts and shall not be based merely on allegation, conjecture or remote possibility.\nIn determining whether dumping has caused injury to a domestic industry, positive evidence shall be relied upon, and non-dumping factors causing injury shall not be attributed to dumping."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where dumped imports come from more than one country (region) and the following conditions are satisfied at the same time, the cumulative assessment of the impact of the dumped imports on the domestic industry may be made:\n(a) the margin of dumping established in relation to the dumped imports from each country (region) is not less than 2 per cent, and the volume of such imports is not negligible;\n(b) cumulative assessment is appropriate in the light of the conditions of competition between the dumped imports and between the dumped imports and the like domestic product.\nNegligible means that the volume of dumped imports from a single country (region) accounts for less than 3 per cent of the total imports of the like product; unless the total imports from the several countries (regions) each accounting for less than 3 per cent exceed 7 per cent of the total imports of the like product."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The assessment of the impact of dumped imports shall be made by separate determination in relation to the production of the like domestic product; where separate determination in relation to the production of the like domestic product cannot be made, the assessment shall examine the production of the narrowest group or range of products that includes the like domestic product."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Domestic industry means all producers of the like domestic product in the People's Republic of China, or those producers whose total output constitutes a major proportion of the total domestic output of the like product; provided that domestic producers related to exporters or importers, or who are themselves importers of the dumped product, may be excluded from the domestic industry.\nIn exceptional circumstances, producers within a regional market in the country who sell all or almost all of the like product in that market, and where the demand in that market is not supplied to a major extent by producers located elsewhere in the country, may be regarded as a separate industry."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Like product means a product that is identical to the dumped imported product; where there is no identical product, a product that has characteristics most closely resembling those of the dumped imported product shall be the like product."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Dumping and Injury"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A domestic industry, or a natural person, legal person or relevant organisation on behalf of a domestic industry (hereinafter collectively referred to as the applicant), may file a written application with the Ministry of Commerce for an anti-dumping investigation in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The application shall include the following:\n(a) the name, address and relevant particulars of the applicant;\n(b) a full description of the imported product for which investigation is applied, including the name of the product, the exporting country (region) or country (region) of origin involved, the known exporters or producers, information on the price at which the product is consumed in the domestic market of the exporting country (region) or country (region) of origin, and information on the export price;\n(c) a description of the volume and value of production of the like domestic product;\n(d) the impact of the volume and price of the imported product for which investigation is applied on the domestic industry;\n(e) other matters that the applicant considers necessary to explain."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The following evidence shall be attached to the application:\n(a) the existence of dumping in the imported product for which investigation is applied;\n(b) injury to the domestic industry;\n(c) a causal relationship between dumping and injury."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Within 60 days from the date of receipt of the application and the relevant evidence submitted by the applicant, the Ministry of Commerce shall examine whether the application has been filed by the domestic industry or on behalf of the domestic industry, the contents of the application and the evidence attached, and shall decide whether or not to initiate an investigation.\nBefore deciding to initiate an investigation, the government of the exporting country (region) concerned shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where, among the domestic industry expressing support for or opposition to the application, the output of those expressing support accounts for more than 50 per cent of the total output of those expressing support and those expressing opposition, the application shall be determined to have been filed by the domestic industry or on behalf of the domestic industry, and an anti-dumping investigation may be initiated; provided that where the output of the domestic producers expressing support for the application is less than 25 per cent of the total output of the like domestic product, an anti-dumping investigation shall not be initiated."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "In exceptional circumstances, where the Ministry of Commerce has not received a written application for an anti-dumping investigation but has sufficient evidence to believe that dumping and injury exist and that there is a causal relationship between the two, it may decide to initiate an investigation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The decision to initiate an investigation shall be published by the Ministry of Commerce by notice, and notice thereof shall be given to the applicant, the known exporters and importers, the government of the exporting country (region) and other interested organisations and individuals (hereinafter collectively referred to as interested parties).\nOnce the decision to initiate an investigation is published by notice, the Ministry of Commerce shall provide the text of the application to the known exporters and the government of the exporting country (region)."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The Ministry of Commerce may ascertain the facts from interested parties and conduct investigations by such means as questionnaires, sampling, hearings and on-site verification.\nThe Ministry of Commerce shall provide the interested parties concerned with the opportunity to present their views and arguments.\nWhere the Ministry of Commerce considers it necessary, it may send staff members to the country (region) concerned to conduct investigations; except where the country (region) concerned raises an objection."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In the course of an investigation by the Ministry of Commerce, interested parties shall truthfully reflect the situation and provide the relevant information. Where an interested party fails to truthfully reflect the situation or provide the relevant information, or fails to provide the necessary information within a reasonable time, or otherwise seriously impedes the investigation, the Ministry of Commerce may make a determination on the basis of the facts available and the best information available."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an interested party considers that disclosure of the information it provides would have a seriously adverse effect, it may apply to the Ministry of Commerce for the information to be treated as confidential.\nWhere the Ministry of Commerce considers that the application for confidentiality is justified, it shall treat the information provided by the interested party as confidential and shall at the same time require the interested party to provide a non-confidential summary of the information.\nInformation treated as confidential shall not be disclosed without the consent of the interested party that provided it."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The Ministry of Commerce shall permit the applicant and interested parties to consult the information relating to the case; except for information that is treated as confidential."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "On the basis of the results of the investigation, the Ministry of Commerce shall make a preliminary determination as to whether dumping, injury and the causal relationship between the two are established, and shall publish the determination by notice."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the preliminary determination establishes dumping, injury and the causal relationship between the two, the Ministry of Commerce shall continue the investigation of dumping and the margin of dumping, of injury and the degree of injury, and shall make a final determination on the basis of the results of the investigation and publish it by notice.\nBefore a final determination is made, the Ministry of Commerce shall notify all known interested parties of the essential facts on which the final determination is based."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "An anti-dumping investigation shall be concluded within 12 months from the date of publication of the notice of the decision to initiate the investigation; in special circumstances it may be extended, but the extension shall not exceed six months."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where any of the following circumstances exists, the anti-dumping investigation shall be terminated and the Ministry of Commerce shall publish the termination by notice:\n(a) the applicant withdraws the application;\n(b) there is insufficient evidence to prove the existence of dumping, injury or a causal relationship between the two;\n(c) the margin of dumping is less than 2 per cent;\n(d) the actual or potential volume of the dumped imports, or the injury, is negligible;\n(e) the Ministry of Commerce considers it inappropriate to continue the anti-dumping investigation.\nWhere the product under investigation from one or some of the countries (regions) falls under any of the circumstances listed in items (b), (c) and (d) of the preceding paragraph, the anti-dumping investigation in respect of the product involved shall be terminated."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Anti-dumping Investigation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the preliminary determination establishes dumping and injury to the domestic industry caused thereby, the following provisional anti-dumping measures may be taken:\n(a) imposing a provisional anti-dumping duty;\n(b) requiring the provision of a cash deposit, a letter of guarantee or other forms of security.\nThe amount of the provisional anti-dumping duty, or of the cash deposit, letter of guarantee or other form of security required, shall not exceed the margin of dumping established by the preliminary determination."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 1 Provisional Anti-dumping Measures"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The imposition of a provisional anti-dumping duty shall be proposed by the Ministry of Commerce, decided by the Customs Tariff Commission of the State Council on the basis of the proposal of the Ministry of Commerce, and published by the Ministry of Commerce by notice. The requirement to provide a cash deposit, a letter of guarantee or other form of security shall be decided and published by the Ministry of Commerce by notice. The customs shall implement it from the date of implementation specified in the notice."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 1 Provisional Anti-dumping Measures"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The period for which provisional anti-dumping measures are applied shall not exceed four months from the date of implementation specified in the notice of the decision on provisional anti-dumping measures; in special circumstances it may be extended to nine months.\nProvisional anti-dumping measures shall not be taken within 60 days from the date of publication of the notice of the decision to initiate the anti-dumping investigation."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 1 Provisional Anti-dumping Measures"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "During an anti-dumping investigation, an exporter of the dumped imported product may make a price undertaking to the Ministry of Commerce to revise its prices or to cease exporting at dumped prices.\nThe Ministry of Commerce may suggest price undertakings to exporters.\nThe Ministry of Commerce shall not compel exporters to make price undertakings."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 2 Price Undertakings"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where an exporter does not make a price undertaking or does not accept a suggestion of a price undertaking, this shall not prejudice the investigation and determination of the anti-dumping case. Where an exporter continues to export dumped products, the Ministry of Commerce has the power to determine that a threat of injury is more likely to arise."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 2 Price Undertakings"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the Ministry of Commerce considers that a price undertaking made by an exporter is acceptable and conforms to the public interest, it may decide to suspend or terminate the anti-dumping investigation without applying provisional anti-dumping measures or imposing an anti-dumping duty. The decision to suspend or terminate the anti-dumping investigation shall be published by the Ministry of Commerce by notice.\nWhere the Ministry of Commerce does not accept a price undertaking, it shall explain the reasons to the exporter concerned.\nThe Ministry of Commerce shall not seek or accept price undertakings before it has made a preliminary determination affirming dumping and injury caused by dumping."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 2 Price Undertakings"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "After the suspension or termination of an anti-dumping investigation in accordance with the provisions of paragraph 1 of Article 33 of these Regulations, the Ministry of Commerce shall, at the request of an exporter, continue the investigation of dumping and injury; or, where the Ministry of Commerce considers it necessary, it may continue the investigation of dumping and injury.\nWhere, on the basis of the results of the investigation under the preceding paragraph, a negative determination of dumping or injury is made, the price undertaking shall automatically lapse; where an affirmative determination of dumping and injury is made, the price undertaking shall continue to be effective."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 2 Price Undertakings"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The Ministry of Commerce may require exporters to provide, periodically, information and materials on the implementation of their price undertakings and shall verify them."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 2 Price Undertakings"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where an exporter violates its price undertaking, the Ministry of Commerce may, in accordance with the provisions of these Regulations, immediately decide to resume the anti-dumping investigation; on the basis of the best information available, it may decide to apply provisional anti-dumping measures and may impose an anti-dumping duty retroactively on products imported within the 90 days preceding the application of the provisional anti-dumping measures, except for products imported before the violation of the price undertaking."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 Price Undertakings"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the final determination establishes dumping and injury to the domestic industry caused thereby, an anti-dumping duty may be imposed. The imposition of an anti-dumping duty shall conform to the public interest."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The imposition of an anti-dumping duty shall be proposed by the Ministry of Commerce, decided by the Customs Tariff Commission of the State Council on the basis of the proposal of the Ministry of Commerce, and published by the Ministry of Commerce by notice. The customs shall implement it from the date of implementation specified in the notice."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "An anti-dumping duty shall apply to products imported after the date of publication of the final determination by notice, except in the circumstances prescribed in Articles 36, 43 and 44 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The person liable to pay an anti-dumping duty shall be the importer of the dumped imported product."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "An anti-dumping duty shall be determined separately according to the margin of dumping of the different exporters. Where an anti-dumping duty needs to be imposed on dumped imported products of exporters not included within the scope of the examination, the anti-dumping duty applicable to them shall be determined in a reasonable manner."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The amount of an anti-dumping duty shall not exceed the margin of dumping established by the final determination."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the final determination establishes the existence of material injury and provisional anti-dumping measures have previously been applied, the anti-dumping duty may be imposed retroactively for the period during which the provisional anti-dumping measures were applied.\nWhere the final determination establishes the existence of a threat of material injury and provisional anti-dumping measures have been applied in circumstances where the non-application of such measures would have led to a subsequent determination of material injury, the anti-dumping duty may be imposed retroactively for the period during which the provisional anti-dumping measures were applied.\nWhere the anti-dumping duty established by the final determination is higher than the provisional anti-dumping duty paid or payable or the amount estimated for the purpose of security, the difference shall not be collected; where it is lower, the difference shall be refunded or the duty recalculated according to the specific circumstances."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the following two circumstances exist at the same time, an anti-dumping duty may be imposed retroactively on products imported within the 90 days preceding the application of provisional anti-dumping measures, except for products imported before the initiation of the investigation:\n(a) there is a history of dumping causing injury to the domestic industry in respect of the dumped imported product, or the importer of the product knew or ought to have known that the exporter was practising dumping and that dumping would cause injury to the domestic industry;\n(b) the dumped imported product has been imported in large quantities in a relatively short period, and such imports are likely to seriously undermine the remedial effect of the anti-dumping duty to be applied.\nWhere, after initiating an investigation, the Ministry of Commerce has sufficient evidence to prove that the two circumstances listed in the preceding paragraph exist at the same time, it may take such necessary measures as import registration in respect of the imported products concerned so as to permit the retroactive imposition of an anti-dumping duty."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the final determination is not to impose an anti-dumping duty, or the final determination does not provide for retroactive imposition, the provisional anti-dumping duty already collected and the cash deposits already collected shall be refunded, and the letters of guarantee or other forms of security shall be released."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the importer of a dumped imported product has evidence proving that the anti-dumping duty paid exceeds the margin of dumping, it may apply to the Ministry of Commerce for a refund of the duty; following examination and verification by the Ministry of Commerce and its proposal, the Customs Tariff Commission of the State Council may, on the basis of the proposal of the Ministry of Commerce, decide to refund the duty, and the customs shall implement the refund."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, after an anti-dumping duty has been imposed on an imported product, a new exporter that did not export the product to the People's Republic of China during the period of investigation can prove that it is not related to the exporters subject to the anti-dumping duty, it may apply to the Ministry of Commerce for separate determination of its margin of dumping. The Ministry of Commerce shall promptly conduct an examination and make a final determination. During the examination, the measures prescribed in item (b) of paragraph 1 of Article 28 of these Regulations may be taken, but no anti-dumping duty shall be imposed on the product."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 3 Anti-dumping Duties"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The period for which an anti-dumping duty is imposed and the period for the implementation of a price undertaking shall not exceed five years; provided that where a review determines that termination of the anti-dumping duty is likely to lead to the continuation or recurrence of dumping and injury, the period for which the anti-dumping duty is imposed may be extended appropriately."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Duration of Anti-dumping Duties and Price Undertakings and Reviews"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "After an anti-dumping duty takes effect, the Ministry of Commerce may, where there are justified reasons, decide to conduct a review of the necessity of maintaining the anti-dumping duty; or, after a reasonable period of time and at the request of an interested party and after examining the corresponding evidence provided by the interested party, it may decide to conduct a review of the necessity of maintaining the anti-dumping duty.\nAfter a price undertaking takes effect, the Ministry of Commerce may, where there are justified reasons, decide to conduct a review of the necessity of continuing to implement the price undertaking; or, after a reasonable period of time and at the request of an interested party and after examining the corresponding evidence provided by the interested party, it may decide to conduct a review of the necessity of continuing to implement the price undertaking."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Duration of Anti-dumping Duties and Price Undertakings and Reviews"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "On the basis of the results of the review, the Ministry of Commerce shall, in accordance with the provisions of these Regulations, propose the retention, modification or annulment of the anti-dumping duty, and the Customs Tariff Commission of the State Council shall decide on the basis of the proposal of the Ministry of Commerce, and the Ministry of Commerce shall publish it by notice; or the Ministry of Commerce shall, in accordance with the provisions of these Regulations, decide on the retention, modification or annulment of the price undertaking and publish it by notice."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Duration of Anti-dumping Duties and Price Undertakings and Reviews"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Review procedures shall be conducted with reference to the relevant provisions of these Regulations on anti-dumping investigations.\nThe period of review shall not exceed 12 months from the date of the decision to commence the review."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Duration of Anti-dumping Duties and Price Undertakings and Reviews"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "During a review, the review procedures shall not hinder the application of anti-dumping measures."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Duration of Anti-dumping Duties and Price Undertakings and Reviews"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Whoever is dissatisfied with a final determination made in accordance with Article 25 of these Regulations, with a decision made in accordance with Chapter IV of these Regulations as to whether or not to impose an anti-dumping duty and as to retroactive imposition, refund of duty or imposition of duty on new exporters, or with a review decision made in accordance with Chapter V of these Regulations, may apply for administrative reconsideration in accordance with law or bring an action before a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "A notice published in accordance with these Regulations shall state the important circumstances, facts, reasons, basis, results and conclusions."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The Ministry of Commerce may take appropriate measures to prevent the circumvention of anti-dumping measures."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where any country (region) applies discriminatory anti-dumping measures to products exported from the People's Republic of China, the People's Republic of China may, according to the actual circumstances, take corresponding measures against that country (region)."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The Ministry of Commerce shall be responsible for foreign consultations, notifications and dispute settlement relating to anti-dumping."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The Ministry of Commerce may formulate the relevant specific implementing measures in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2002. The provisions on anti-dumping in the Regulations of the People's Republic of China on Anti-dumping and Anti-subsidy promulgated by the State Council on 25 March 1997 shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]

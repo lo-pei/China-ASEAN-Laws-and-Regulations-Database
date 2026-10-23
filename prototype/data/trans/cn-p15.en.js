@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p15
-   法规 61 部 / 译文 1908 条
+   法规 70 部 / 译文 2407 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -3521,6 +3521,639 @@
     ]
   };
 
+  TR['CN-REG-0192'] = {
+    "lawId": "CN-REG-0192",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 54 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to protect the exclusive right in layout-designs of integrated circuits, encourage innovation in integrated circuit technology and promote scientific and technological development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Work for the protection of layout-designs of integrated circuits shall implement the strategic arrangements of the Party and the State on intellectual property and improve the capacity of China in the creation, application, protection, management and service of layout-designs of integrated circuits."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of these Regulations, the following terms have the meanings given below:\n(1) integrated circuit means an intermediate product or a final product in which two or more elements, at least one of which is an active element, and some or all of the interconnections are integrally formed in or on a piece of semiconductor material and which is intended to perform an electronic function;\n(2) layout-design of an integrated circuit (hereinafter referred to as a layout-design) means the three-dimensional disposition, however expressed, of two or more elements, at least one of which is an active element, and of some or all of the interconnections of an integrated circuit, or such a three-dimensional disposition prepared for the manufacture of an integrated circuit;\n(3) the holder of the right in a layout-design means a natural person, legal person or unincorporated organisation that enjoys the exclusive right in a layout-design in accordance with the provisions of these Regulations;\n(4) reproduction means the act of making repeated copies of a layout-design or of an integrated circuit incorporating that layout-design;\n(5) commercial exploitation means the act of importing, selling or otherwise distributing for commercial purposes a protected layout-design, an integrated circuit incorporating that layout-design, or an article incorporating such an integrated circuit.\nLayout-designs of integrated circuits that perform optoelectronic, quantum and other functions may be protected in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Layout-designs created by Chinese natural persons, legal persons or unincorporated organisations shall enjoy the exclusive right in a layout-design in accordance with these Regulations.\nWhere a layout-design created by a foreign natural person, foreign enterprise or other foreign organisation is first put to commercial exploitation within the territory of China, it shall enjoy the exclusive right in a layout-design in accordance with these Regulations.\nWhere the country to which the creator of a layout-design created by a foreign natural person, foreign enterprise or other foreign organisation belongs has concluded an agreement with China on the protection of layout-designs or is a party, together with China, to an international treaty on the protection of layout-designs, the layout-design shall enjoy the exclusive right in a layout-design in accordance with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "An application for registration of a layout-design or the conduct of other layout-design matters may be handled by the applicant itself or through a patent agency lawfully established.\nWhere a foreign natural person, foreign enterprise or other foreign organisation that has no habitual residence or place of business in China applies for registration of a layout-design in China or handles other layout-design matters, it shall entrust a patent agency lawfully established to handle the matter.\nA patent agency shall comply with laws and administrative regulations and handle applications for registration of layout-designs or other layout-design matters in accordance with the entrustment of the principal, and shall be responsible for keeping confidential the undisclosed content of the principal's layout-designs."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A protected layout-design shall be original, that is, the layout-design shall be the result of the creator's own intellectual effort and shall not be a form of design that is commonplace among creators of layout-designs and manufacturers of integrated circuits at the time of its creation.\nWhere a protected layout-design consists of elements that are commonplace, the combination of those elements shall, as a whole, satisfy the conditions prescribed in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The protection of layout-designs under these Regulations does not extend to ideas, processes, operating methods or mathematical concepts and the like."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The intellectual property administrative department under the State Council shall be responsible for the work relating to the administration of the exclusive right in layout-designs throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "An application for registration of a layout-design and the exercise of the exclusive right in a layout-design shall follow the principle of honesty and credibility. The exclusive right in a layout-design may not be abused to harm the interests of the State, the public interests of society or the lawful rights and interests of others.\nWhere the abuse of the exclusive right in a layout-design eliminates or restricts competition and constitutes monopolistic conduct, it shall be dealt with in accordance with the Anti-Monopoly Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The intellectual property administrative department under the State Council shall, together with the relevant departments, take measures to strengthen public services for layout-designs and promote the application of layout-designs."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The holder of the right in a layout-design enjoys the following exclusive rights:\n(1) to reproduce the protected layout-design in whole or in any part thereof that is original;\n(2) to put to commercial exploitation the protected layout-design, an integrated circuit incorporating that layout-design, or an article incorporating such an integrated circuit."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The exclusive right in a layout-design arises upon registration with the intellectual property administrative department under the State Council.\nA layout-design that has not been registered shall not be protected under these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The exclusive right in a layout-design shall belong to the creator of the layout-design, unless otherwise provided in these Regulations.\nWhere a layout-design is created under the direction of, in accordance with the will of, and with responsibility borne by a legal person or an unincorporated organisation, that legal person or unincorporated organisation shall be the creator.\nWhere a layout-design is created by a natural person, that natural person shall be the creator."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a layout-design is created jointly by two or more natural persons, legal persons or unincorporated organisations, the ownership of the exclusive right shall be determined by agreement among the joint creators; where there is no agreement or the agreement is unclear, the exclusive right shall be enjoyed jointly by the joint creators."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a layout-design is created under commission, the ownership of the exclusive right shall be determined by agreement between the commissioning party and the commissioned party; where there is no agreement or the agreement is unclear, the exclusive right shall be enjoyed by the commissioned party."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In the circumstances specified in paragraph 2 of Article 13 of these Regulations, the legal person or unincorporated organisation shall, in accordance with the Law of the People's Republic of China on Promoting the Commercialisation of Scientific and Technological Achievements and the relevant provisions of the State, give reasonable awards and remuneration to the personnel who meet the relevant conditions."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The term of protection of the exclusive right in a layout-design shall be 10 years, counted from the date of the application for registration of the layout-design or from the date on which the layout-design is first put to commercial exploitation anywhere in the world, whichever is earlier. However, whether or not it is registered or put to commercial exploitation, a layout-design shall no longer be protected under these Regulations 15 years after the date on which its creation is completed."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the exclusive right in a layout-design belongs to a natural person, after the death of that natural person the exclusive right shall be transferred in accordance with law within the term of protection prescribed by these Regulations.\nWhere the exclusive right in a layout-design belongs to a legal person or an unincorporated organisation, after the legal person or unincorporated organisation is changed or terminated, the exclusive right shall, within the term of protection prescribed by these Regulations, be enjoyed by the legal person or unincorporated organisation that succeeds to its rights and obligations; where there is no legal person or unincorporated organisation succeeding to its rights and obligations, the layout-design shall no longer be protected under these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The intellectual property administrative department under the State Council shall be responsible for the registration of layout-designs and for accepting applications for registration of layout-designs."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "An application for registration of a layout-design shall be based on genuine creative activity, and no fraud may be practised."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a layout-design applied for registration involves national security or major interests and needs to be kept confidential, the matter shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "To apply for registration of a layout-design, the following shall be submitted:\n(1) a request for registration of the layout-design;\n(2) a copy or drawing of the layout-design;\n(3) a statement of originality of the layout-design;\n(4) other materials prescribed by the intellectual property administrative department under the State Council.\nWhere a layout-design has already been put to commercial exploitation, a sample of the integrated circuit incorporating that layout-design shall be submitted with the application for registration of the layout-design."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The copy or drawing submitted by the applicant shall contain the necessary information on the layout-design and shall clearly show the parts of the layout-design that are original."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The statement of originality shall indicate the design areas, design essentials and corresponding functions of the layout-design that are original.\nWhere a layout-design is original as a whole, this shall be specifically stated in the statement of originality."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The date on which the intellectual property administrative department under the State Council receives the documents for registration of a layout-design specified in Article 22 of these Regulations shall be the date of filing. Where the documents are sent by post, the date of the postmark of despatch shall be the date of filing."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where an application for registration has not been filed with the intellectual property administrative department under the State Council within two years from the date on which a layout-design is first put to commercial exploitation anywhere in the world, the department shall no longer register it."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the intellectual property administrative department under the State Council, in the course of preliminary examination of an application for registration of a layout-design, considers that the layout-design applied for registration manifestly does not comply with the provisions of item (1) or item (2) of paragraph 1 of Article 3, or Article 7, Article 20, Article 23 or Article 24 of these Regulations, it shall notify the applicant and require the applicant to state its opinions or make corrections within a specified time limit; where the applicant fails to reply upon expiry of the time limit, the application shall be deemed to have been withdrawn. Where, after the applicant has stated its opinions or made corrections, the intellectual property administrative department under the State Council still considers that the provisions of these Regulations are not complied with, it shall reject the application."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where, after preliminary examination of an application for registration of a layout-design, no ground for rejection is found, the intellectual property administrative department under the State Council shall register it, issue a registration certificate and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where an applicant for registration of a layout-design is dissatisfied with the decision of the intellectual property administrative department under the State Council to reject its application for registration, it may, within three months from the date of receipt of the notification, request re-examination by the intellectual property administrative department under the State Council. The department shall make a decision after re-examination and notify the applicant. Where the applicant is still dissatisfied with the re-examination decision of the department, it may institute proceedings in a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where, after a layout-design has been registered, the intellectual property administrative department under the State Council finds that the registration does not comply with the provisions of these Regulations, it shall revoke the registration, notify the holder of the right in the layout-design, and record and announce the revocation.\nAny person who finds that a registration does not comply with the provisions of these Regulations may request the intellectual property administrative department under the State Council to revoke the registration of the layout-design. The department shall promptly examine the request for revocation and make a decision, and shall notify the requester and the holder of the right in the layout-design. A decision to revoke the registration of a layout-design shall be recorded and announced by the intellectual property administrative department under the State Council.\nNon-compliance with the provisions of these Regulations as referred to in the preceding two paragraphs means non-compliance with the provisions of item (1) or item (2) of paragraph 1 of Article 3, or Article 4, Article 6, Article 7, Article 17, Article 20, Article 23, Article 24 or Article 26 of these Regulations.\nWhere the holder of the right in a layout-design or the requester is dissatisfied with the examination decision of the intellectual property administrative department under the State Council, it may institute proceedings in a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the registration of a layout-design is revoked, the exclusive right in that layout-design shall be deemed never to have existed."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Staff members of the intellectual property administrative department under the State Council and the persons concerned shall be responsible for keeping confidential the undisclosed content of registrations of layout-designs."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a party delays, for reasons of force majeure, compliance with a time limit prescribed in these Regulations or specified by the intellectual property administrative department under the State Council, resulting in the loss of its rights, it may, within two months from the date on which the obstacle is removed and within two years from the date of expiry of the time limit, state the reasons to the department and attach the relevant certifying documents to request restoration of its rights.\nApart from the circumstances specified in the preceding paragraph, where a party delays, for other justified reasons, compliance with a time limit prescribed in these Regulations or specified by the intellectual property administrative department under the State Council, resulting in the loss of its rights, it may, within two months from the date of receipt of the notification of the department, state the reasons to the department and request restoration of its rights; however, where the time limit for requesting re-examination has been delayed, it may, within two months from the date of expiry of the time limit for requesting re-examination, request the department to restore its rights.\nWhere a party requests an extension of a time limit specified by the intellectual property administrative department under the State Council, it shall, before the time limit expires, state the reasons to the department and complete the relevant formalities.\nThe provisions of paragraphs 1 and 2 of this Article shall not apply to the time limits prescribed in Article 17 and Article 26 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Registration of Layout Designs"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A protected layout-design shall be determined by the copy or drawing of the registered layout-design, and the statement of originality may be used to interpret the originality of the layout-design."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The holder of the right in a layout-design may assign the exclusive right or license others to use the layout-design.\nWhere a Chinese natural person, legal person or unincorporated organisation assigns the exclusive right in a layout-design to a foreign natural person, foreign enterprise or other foreign organisation, the formalities shall be completed in accordance with the relevant laws, administrative regulations and relevant provisions of the State.\nWhere the exclusive right in a layout-design is assigned, the parties shall conclude a written contract and register it with the intellectual property administrative department under the State Council, and the department shall make an announcement. The assignment of the exclusive right in a layout-design shall take effect from the date of registration.\nWhere a person licenses another to use its layout-design, the parties shall conclude a written contract and, within three months from the date on which the contract takes effect, report it to the intellectual property administrative department under the State Council for the record.\nWhere the exclusive right in a layout-design is pledged, the pledgor and the pledgee shall jointly register the pledge with the intellectual property administrative department under the State Council, and the department shall make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where co-holders of the exclusive right in a layout-design have agreed on the exercise of the right, such agreement shall prevail. In the absence of an agreement, a co-holder may use the layout-design alone or license others to use it by way of a general licence; where others are licensed to use the layout-design, the royalties collected shall be distributed among the co-holders.\nApart from the circumstances specified in the preceding paragraph, the exercise of the jointly held exclusive right in a layout-design shall require the consent of all co-holders."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The following acts may be performed without the authorisation of the holder of the right in a layout-design and without payment of royalties to the holder:\n(1) reproducing a protected layout-design for personal purposes or solely for the purposes of evaluation, analysis, research or teaching;\n(2) creating an original layout-design on the basis of the evaluation or analysis of a protected layout-design under the preceding item;\n(3) reproducing a layout-design independently created by oneself that is identical to another person's layout-design, or putting it to commercial exploitation."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a protected layout-design, an integrated circuit incorporating that layout-design, or an article incorporating such an integrated circuit has been placed on the market by the holder of the right in the layout-design or with the holder's consent, others may further exploit it commercially without the authorisation of the holder and without payment of royalties to the holder."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In a state of emergency or in extraordinary circumstances in the country, or for the purpose of the public interest, or where it is necessary to grant relief after a people's court or an anti-monopoly enforcement authority has determined in accordance with law that the holder of the right in a layout-design has engaged in monopolistic conduct, the intellectual property administrative department under the State Council may grant a non-voluntary licence to use the layout-design."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the intellectual property administrative department under the State Council makes a decision to grant a non-voluntary licence to use a layout-design, it shall promptly notify the holder of the right in the layout-design.\nA decision to grant a non-voluntary licence to use a layout-design shall, in accordance with the grounds for the non-voluntary licence, prescribe the scope and duration of use, and the scope shall be limited to non-commercial use for public purposes, or to the relief necessary after a people's court or an anti-monopoly enforcement authority has determined in accordance with law that the holder of the right in the layout-design has engaged in monopolistic conduct.\nWhere the grounds for the non-voluntary licence are eliminated and no longer exist, the intellectual property administrative department under the State Council shall, at the request of the holder of the right in the layout-design and after examination, make a decision to terminate the non-voluntary licence to use the layout-design."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "A natural person, legal person or unincorporated organisation that obtains a non-voluntary licence to use a layout-design shall not enjoy an exclusive right of use and shall not have the right to authorise others to use it."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A natural person, legal person or unincorporated organisation that obtains a non-voluntary licence to use a layout-design shall pay reasonable royalties to the holder of the right in the layout-design, the amount of which shall be determined through consultation between the parties; where the parties fail to reach an agreement, the intellectual property administrative department under the State Council shall make an administrative ruling."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the holder of the right in a layout-design is dissatisfied with the decision of the intellectual property administrative department under the State Council on the non-voluntary licence to use the layout-design, or where the holder of the right in the layout-design and the natural person, legal person or unincorporated organisation that obtained the non-voluntary licence are dissatisfied with the administrative ruling of the department on the royalties for the non-voluntary licence, they may institute proceedings in a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Exercise of Exclusive Rights in Layout Designs"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Unless otherwise provided in these Regulations, where any of the following acts is performed without the authorisation of the holder of the right in a layout-design, the person committing the act shall immediately cease the infringing act and bear liability for compensation:\n(1) reproducing the protected layout-design in whole or any part thereof that is original;\n(2) importing, selling or otherwise distributing for commercial purposes the protected layout-design, an integrated circuit incorporating that layout-design, or an article incorporating such an integrated circuit."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a person uses another's layout-design without the authorisation of the holder of the right in the layout-design, thereby infringing the exclusive right in the layout-design, and a dispute arises, the parties shall resolve it through consultation; where they are unwilling to consult or consultation fails, the holder of the right in the layout-design or an interested party may institute proceedings in a people's court or request the intellectual property administrative department under the State Council to handle the matter. Where the department, in handling the matter, determines that infringement is established, it may order the infringer to immediately cease the infringing act and confiscate or destroy the infringing products or articles. Where a party is dissatisfied, it may institute proceedings in a people's court in accordance with law; where the infringer neither institutes proceedings upon expiry of the time limit nor ceases the infringing act, the department may request a people's court for compulsory enforcement. At the request of a party, the department may mediate on the amount of compensation for infringement of the exclusive right in a layout-design; where mediation fails, the party may institute proceedings in a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The amount of compensation for infringement of the exclusive right in a layout-design shall be determined on the basis of the actual loss suffered by the holder of the right as a result of the infringement or the benefit gained by the infringer from the infringement; where the loss of the holder of the right or the benefit gained by the infringer is difficult to determine, the amount shall be reasonably determined by reference to a multiple of the royalties for licensing the layout-design. For intentional infringement of the exclusive right in a layout-design where the circumstances are serious, the amount of compensation may be determined at not less than one time but not more than five times the amount determined in accordance with the above methods.\nThe amount of compensation shall also include the reasonable expenses paid by the holder of the right to stop the infringing act."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a person, on acquiring an integrated circuit incorporating a protected layout-design or an article incorporating such an integrated circuit, does not know and has no reasonable ground to know that it incorporates an unlawfully reproduced layout-design, and puts it to commercial exploitation, the act shall not be regarded as infringement.\nAfter the person specified in the preceding paragraph receives explicit notice that the integrated circuit or article incorporates an unlawfully reproduced layout-design, the person may continue to put the existing stock or previously ordered goods to commercial exploitation, but shall pay reasonable royalties to the holder of the right in the layout-design."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a patent agency divulges the undisclosed content of a principal's layout-design, a penalty shall be imposed in accordance with the provisions of Article 25 of the Regulations on Patent Agency.\nWhere staff members of the intellectual property administrative department under the State Council and the persons concerned divulge the undisclosed content of registrations of layout-designs, sanctions shall be imposed in accordance with law; where the divulging of State secrets or infringement of commercial secrets is involved, legal liability shall be borne in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where staff members of state organs engaged in the administration of the exclusive right in layout-designs neglect their duties, abuse their powers or engage in malpractices for personal gain, sanctions shall be imposed in accordance with law; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "After the announcement of the registration of a layout-design, the public may request to consult the register of the registration of the layout-design or request the intellectual property administrative department under the State Council to provide a copy of the register. The public may also request to consult the paper copies of the copy or drawing of the layout-design.\nExcept where needed by state organs in the lawful performance of their duties such as in litigation or administrative handling procedures, no person may consult or reproduce the electronic version of the copy or drawing of a layout-design."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Fees shall be paid in accordance with the provisions for applying for registration of a layout-design and completing other formalities."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The day on which a time limit prescribed in these Regulations begins shall not be counted within the time limit, and the time limit shall be counted from the following day. Where a time limit is counted in years or months, the corresponding day in the last month shall be the date of expiry; where there is no corresponding day in that month, the last day of that month shall be the date of expiry; where the date of expiry is a statutory holiday, the first working day after the holiday shall be the date of expiry."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where any country or region adopts discriminatory prohibitions, restrictions or other similar measures against the People's Republic of China in respect of the protection of layout-designs of integrated circuits, the People's Republic of China may, in light of the actual situation, take corresponding measures against the country or region concerned."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "These Regulations shall come into force on 15 October 2026."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0193'] = {
     "lawId": "CN-REG-0193",
     "sourceLang": "zh",
@@ -6858,6 +7491,618 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0205'] = {
+    "lawId": "CN-REG-0205",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Water Law of the People's Republic of China and other relevant laws in order to promote water conservation throughout society, safeguard national water security, advance the development of an ecological civilisation and drive high-quality development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, water conservation (hereinafter referred to as water saving) means activities that, by strengthening water use management and transforming water use patterns and by adopting technically feasible and economically rational measures, reduce the consumption of water resources, decrease losses of water resources and prevent the waste of water resources, so as to use water resources rationally and efficiently."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Water saving work shall uphold the leadership of the Communist Party of China, implement the holistic approach to national security, coordinate development and security, and follow the principles of overall planning, comprehensive measures, adaptation to local conditions and classified guidance; it shall adhere to total volume control, scientific allocation and efficient utilisation, combine constraints with incentives, and establish a water-saving mechanism featuring government leadership, coordination among all parties, market regulation and public participation."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State rigorously practises water saving, upholds and implements the policy of giving priority to water saving, thoroughly carries out the national water-saving action and comprehensively builds a water-saving society.\nAll units and individuals shall perform the obligation of water saving in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State establishes a rigid constraint system for water resources, adheres to the principle of determining the scale of cities, land use, population and production on the basis of water availability, optimises the pattern of territorial space development and protection, promotes the scientific and rational distribution of population and cities, and builds a modern industrial system compatible with the carrying capacity of water resources."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate water saving work into the relevant plans for national economic and social development and into their annual plans, strengthen leadership and organisation of water saving work, improve and promote the implementation of water-saving policies and support measures, and conduct coordinated research on and resolution of major issues in water saving work."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The department of water administration under the State Council shall be responsible for water saving work throughout the country. The department of housing and urban-rural development under the State Council shall guide urban water saving work in accordance with the division of duties. The competent departments under the State Council for development and reform, industry and information technology, agriculture and rural affairs, natural resources, market regulation, science and technology, education and government offices administration shall, in accordance with the division of duties, perform the work relating to water saving.\nThe relevant departments of local people's governments at or above the county level shall, in accordance with the division of duties, perform water saving work."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State improves policy measures that encourage and support the development of the water-saving industry and scientific and technological innovation, strengthens capacity building for scientific and technological innovation in water saving and its industrial application, and reinforces the supporting role of scientific and technological innovation in promoting water saving."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State strengthens publicity, education and scientific popularisation on water saving, enhances public awareness of water saving and water-saving skills, and promotes the formation of a social consensus and sound practice of consciously saving water.\nThe relevant departments under the State Council, local people's governments at or above the county level and their relevant departments, township people's governments and sub-district offices shall organise and carry out publicity, education and knowledge popularisation activities on water saving in various forms.\nThe news media shall carry out public-interest publicity on water saving and exercise public opinion supervision over acts that waste water resources."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The relevant departments under the State Council shall, in accordance with the division of duties and on the basis of the plan for national economic and social development and the national strategic plan for water resources, compile the national water-saving plan. Local people's governments at or above the county level shall, in light of the needs of economic and social development, the state of water resources and the water-saving plans of higher-level authorities, organise the compilation of water-saving plans for their respective administrative areas.\nA water-saving plan shall include such contents as an assessment of the state of water resources, an analysis of water-saving potential, water-saving targets, and major tasks and measures."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The competent departments of water administration and standardisation under the State Council shall organise the formulation of water use quotas for major crops, key industrial products and the service sector throughout the country (hereinafter referred to as national water use quotas). In formulating national water use quotas, the opinions of the relevant departments under the State Council and of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall be solicited.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in light of actual needs, formulate local water use quotas stricter than the national water use quotas, and may formulate supplementary local water use quotas for matters not covered by the national water use quotas. Local water use quotas shall be proposed by the competent industry departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, and after examination and consent by the competent departments of water administration and standardisation at the same level, shall be promulgated by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and reported to the competent departments of water administration and standardisation under the State Council for filing.\nWater use quotas shall be revised in a timely manner in light of the level of economic and social development, the state of water resources, changes in the industrial structure and technological progress."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent departments of water administration of local people's governments at or above the county level shall, together with the relevant departments and on the basis of water use quotas, economic and technical conditions and the volume of water available for use in their respective administrative areas as determined by water allocation schemes and groundwater control targets, formulate annual water use plans for their respective administrative areas and exercise total volume control over annual water use."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State applies planned water use management to units whose water use reaches a certain scale.\nThe water use plan of a water-using unit shall be formulated on the basis of water use quotas and the annual water use plan of its administrative area. For water-using units that directly abstract groundwater or surface water, the water use plan shall be formulated by the competent department of water administration of the people's government at or above the county level or by the corresponding river basin authority; for water-using units that use urban public water supply, the water use plan shall be formulated by the competent department of urban water saving together with the competent department of urban water supply.\nThe specific measures for planned water use management of water-using units shall be formulated by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Water use shall be measured. Water from different sources and for different purposes shall be measured separately.\nLocal people's governments at or above the county level shall strengthen the construction of metering facilities for agricultural irrigation water. In areas with severe water shortages and areas of groundwater over-extraction, metering facilities for agricultural irrigation water shall be constructed within a prescribed time limit. Where metering conditions for agricultural irrigation water are not yet available, indirect metering methods such as converting electricity consumption into water volume may be adopted.\nNo unit or individual may encroach upon, damage or remove without authorisation water metering facilities, or interfere with water metering."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Water use shall be charged on a metered basis. The State establishes a water pricing system that promotes water saving and improves the water price formation mechanism so that it is compatible with the level of economic and social development, the state of water resources, water use quotas, water supply costs, the affordability of water users and water-saving requirements.\nTiered water pricing shall apply to domestic water use of urban residents and, where conditions permit, domestic water use of rural residents, and progressive surcharges shall apply to non-domestic water use that exceeds quotas or plans.\nAgricultural water prices shall be set reasonably in accordance with law by taking into overall account such factors as water supply costs, the degree of water scarcity and the affordability of agricultural water users, and in principle shall be no lower than the cost of project operation and maintenance. Where conditions permit, progressive surcharges for agricultural irrigation water that exceeds quotas shall be promoted.\nThe prices of reclaimed water and desalinated seawater shall be determined through negotiation between suppliers and users under the overall coordination of local people's governments."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In areas with severe water shortages and areas of groundwater over-extraction, the construction of water-intensive industrial projects shall be strictly controlled, and the new construction of water-intensive industrial projects that do not conform to national industrial policy shall be prohibited and such existing projects shall be eliminated within a prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State applies water efficiency labelling management to water-using products with large water-saving potential and wide application, and gradually eliminates water-using products of lower water efficiency grades. The measures for the administration of water efficiency labelling shall be formulated by the competent department of development and reform under the State Council together with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State encourages the implementation of quality certification for water-saving products, and water-saving products that have passed certification may use the certification mark in accordance with regulations. The basic norms and rules of certification shall be formulated by the competent department of certification and accreditation supervision and administration under the State Council together with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For new construction, reconstruction or expansion of construction projects, the project owner shall formulate a water-saving measures plan based on the content of the project construction and build supporting water-saving facilities. Water-saving facilities shall be designed, constructed and put into use simultaneously with the principal works. Investment in the construction of water-saving facilities shall be included in the total investment of the construction project."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State gradually eliminates backward technologies, processes, equipment and products that consume large amounts of water; the specific catalogue shall be formulated and promulgated by the competent department of development and reform under the State Council together with the relevant departments under the State Council for industry and information technology, water administration and housing and urban-rural development.\nThe production and sale of technologies, processes, equipment and products listed in the catalogue specified in the preceding paragraph are prohibited. Users engaged in production and business activities shall, within a prescribed time limit, cease to use technologies, processes, equipment and products listed in the catalogue specified in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State establishes and improves the water-saving standards system.\nThe relevant departments under the State Council shall, in accordance with law, organise the formulation and timely revision of national standards and industry standards relating to water saving.\nThe State encourages relevant social organisations and enterprises to formulate, in accordance with law, association standards and enterprise standards for water saving that are stricter than national standards and industry standards."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The relevant departments under the State Council shall, in accordance with law, establish a statistical survey system for water saving and periodically publish water-saving statistical information."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Water Use Management"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall, in light of the level of economic and social development and the state of water resources, guide agricultural production and operation entities to rationally adjust the structure of crop cultivation and livestock breeding and the structure of agricultural water use, actively develop water-saving agriculture and develop dryland farming adapted to local conditions.\nThe State gives priority support to areas with water shortages in developing water-saving agriculture."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State supports research on and the dissemination of water-saving technologies for crop cultivation and livestock breeding, such as new varieties of drought-tolerant crops, soil moisture conservation, integrated water and fertiliser management, and resource utilisation of aquaculture wastewater.\nPeople's governments at or above the county level and their relevant departments shall organise and carry out experimental demonstrations and technical training on water-saving agriculture, and guide agricultural production and operation entities in the use of water-saving technologies."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State accelerates the development of water-saving irrigation, disseminates water-saving irrigation technologies such as sprinkler irrigation, micro-irrigation, pipeline water conveyance irrigation, canal anti-seepage water conveyance irrigation and supplementary irrigation with harvested rainwater, and improves the efficiency of irrigation water use. Areas with water shortages and areas of groundwater over-extraction shall give priority to developing water-saving irrigation.\nPeople's governments at or above the county level and their relevant departments shall support and promote the construction of water-saving irrigation works and facilities. Newly built irrigation works and facilities shall conform to the technical standards for water-saving irrigation projects. Existing irrigation works and facilities that do not conform to the technical standards for water-saving irrigation projects shall undergo water-saving renovation within a prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State accelerates rural domestic water saving.\nLocal people's governments at or above the county level and their relevant departments shall strengthen the construction and renovation of rural domestic water supply facilities and supporting pipe networks, and disseminate the use of domestic water-saving appliances."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Industrial enterprises shall strengthen internal water use management, establish water-saving management systems, adopt advanced and applicable water-saving technologies, processes and equipment such as classified water supply, high-efficiency cooling and washing, circulating water use and wastewater treatment and reuse, reduce water consumption per unit of product or output value, and improve the rate of repeated utilisation of water resources. Where the water use level of a water-intensive industrial enterprise exceeds the water use quota, it shall undergo water-saving renovation within a prescribed time limit.\nCooling water for production equipment, cooling water for air conditioning and boiler condensate of industrial enterprises shall be recovered and utilised. Water-intensive industrial enterprises shall gradually disseminate technical measures for advanced wastewater treatment and reuse."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Various development zones, industrial parks and similar areas in which new, reconstructed or expanded industrial enterprises are concentrated (hereinafter collectively referred to as industrial cluster areas) shall build water supply, drainage, wastewater treatment and recycling facilities in a coordinated manner, and promote cascading water use and classified water use among enterprises so as to achieve multiple uses of a single source of water and recycling.\nThe State encourages existing industrial cluster areas to carry out green, high-quality transformation and upgrading and recycling-oriented renovation with water saving as a key element, and to accelerate the construction of water-saving and water recycling facilities."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Local people's governments at or above the county level shall strengthen the overall coordination of water used for production, domestic purposes and ecology within urban built-up areas, incorporate water-saving requirements into all stages of urban planning, construction and governance, and comprehensively promote the building of water-saving cities."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Public water supply enterprises and units that build their own water use pipe networks and facilities shall strengthen the operation and maintenance management of water supply and water use pipe networks and facilities, establish a leakage control system for such networks and facilities, and take measures to control water leakage. Water leakage losses exceeding the national standard for leakage control of water supply pipe networks and facilities shall not be included in the pricing cost of public water supply enterprises.\nThe relevant departments of local people's governments at or above the county level shall strengthen supervision and administration of the operation of public water supply pipe networks and facilities, and support and promote the renovation of old water supply pipe networks and facilities."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State regards water saving as an important element in disseminating green buildings and promotes the reduction of water consumption in building operation.\nNewly built, reconstructed or expanded public buildings shall use water-saving appliances."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Public institutions shall play an exemplary role in water saving, establish and improve water-saving management systems, take the lead in adopting advanced water-saving technologies, processes, equipment and products, carry out water-saving renovation, and actively build water-saving units."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Urban landscaping shall improve the efficiency of water use.\nIn areas with water shortages, urban landscaping shall give priority to water-saving and drought-tolerant vegetation suited to the region and adopt water-saving irrigation methods such as sprinkler irrigation and micro-irrigation.\nAreas with water shortages shall strictly control water use for landscape features such as artificial rivers and lakes."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in light of the state of water resources, incorporate unconventional water such as reclaimed water, harvested rainwater, seawater and desalinated seawater, mine water and brackish water into the unified allocation of water resources.\nLocal people's governments at or above the county level in areas with water shortages shall formulate plans for the utilisation of unconventional water and increase the proportion of unconventional water utilised; for construction projects that have the conditions to use unconventional water but fail to use it rationally, no new water abstraction permit shall be approved."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Local people's governments at or above the county level shall plan and build infrastructure for the resource utilisation of sewage in a coordinated manner and promote the resource utilisation of sewage.\nWater used for urban greening, road cleaning, vehicle washing, construction and ecological landscapes shall give priority to reclaimed water that meets the relevant standards."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Local people's governments at or above the county level shall promote the construction of sponge cities and improve the level of resource utilisation of rainwater.\nIn carrying out the construction of new urban areas, the renovation of old urban areas and the construction of municipal infrastructure, facilities for the retention, infiltration, purification, utilisation and storage of rainwater shall be planned and built in accordance with the requirements for sponge city construction and in light of local conditions."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Coastal areas shall actively develop and utilise seawater resources.\nIn coastal areas or island areas with shortages of freshwater resources, newly built, reconstructed or expanded industrial enterprise projects shall give priority to the use of desalinated seawater. Where conditions permit, desalinated seawater may be used as an additional municipal water supply and as an emergency standby water source."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Water-Saving Measures"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Local people's governments at or above the county level shall improve precise subsidy mechanisms for agricultural water use and reward mechanisms for water saving that match water-saving results, the level of agricultural water prices and financial capacity.\nWater-saving projects that meet the relevant conditions shall be subsidised in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Supervision"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State encourages financial institutions to provide various forms of water-saving financial services and guides financial institutions to increase financing support for water-saving projects.\nThe State encourages and guides social capital to participate in the construction and operation of water-saving projects in accordance with law and on market principles, and protects its lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Supervision"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The State encourages the development of a socialised, professional and standardised water-saving service industry, supports water-saving service institutions in innovating water-saving service models and in providing services such as water-saving consultancy, design, testing, metering, technological renovation, operation management and product certification, and guides and promotes water-saving service institutions in concluding water-saving management contracts with water-using units or individuals, providing water-saving services and obtaining reasonable returns by sharing water-saving benefits and other means.\nThe State encourages rural collective economic organisations, specialised farmers' cooperatives, farmers' water user cooperative organisations and other specialised service organisations to participate in agricultural water-saving services."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Supervision"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State cultivates and regulates the water rights market, supports various forms of water rights trading, improves the water rights trading system, guides the conduct of centralised trading, improves the rules for water rights trading, and gradually incorporates water rights trading into the public resource trading platform system."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Supervision"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Units and individuals that achieve notable results in water saving shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Supervision"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The competent departments of water administration, housing and urban-rural development and market regulation of people's governments at or above the county level shall, in accordance with the division of duties, strengthen supervision and inspection of water use activities and investigate and deal with illegal acts in accordance with law.\nWhen performing their supervision and inspection duties, the relevant departments have the power to take the following measures:\n(1) entering sites to carry out inspections and to investigate and ascertain the relevant circumstances;\n(2) requiring the units or individuals under inspection to give explanations on matters relating to water saving;\n(3) requiring the units or individuals under inspection to provide the relevant documents and materials for inspection or copying;\n(4) other measures prescribed by laws and administrative regulations.\nSupervision and inspection personnel shall, when performing their supervision and inspection duties, proactively produce their law enforcement certificates. The units and individuals under inspection shall cooperate and may not refuse or obstruct such inspection."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Supervision"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "With respect to acts that waste water resources, any unit or individual has the right to report them to the relevant departments, and the department receiving the report shall handle it promptly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Supervision"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State operates a water-saving responsibility system and a water-saving assessment and evaluation system, and incorporates the achievement of water-saving targets into the scope of assessment of local people's governments and their persons in charge."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Support and Supervision"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a unit or individual encroaches upon, damages or removes without authorisation water metering facilities, or interferes with water metering, the competent department of water administration or of housing and urban-rural development of the people's government at or above the county level, or the river basin authority, shall order it to cease the illegal act, take remedial measures within a prescribed time limit and impose a fine of not less than RMB 10,000 but not more than RMB 100,000; if losses are caused, it shall bear the liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the water-saving facilities of a construction project have not been completed or do not meet the requirements prescribed by the State and the project is put into use without authorisation, or where technologies, processes, equipment or products that are backward or consume large amounts of water and that have been explicitly eliminated by the State are produced, sold or used in production and business activities, penalties shall be imposed in accordance with the relevant provisions of the Water Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the water use level of a water-intensive industrial enterprise exceeds the water use quota and the enterprise fails to carry out water-saving renovation within the prescribed time limit, the competent department of water administration of the people's government at or above the county level or the river basin authority shall order it to make corrections and may impose a fine of not more than RMB 100,000; if it refuses to make corrections, a fine of not less than RMB 100,000 but not more than RMB 500,000 shall be imposed, and if the circumstances are serious, measures to restrict water use shall be taken or its water abstraction permit shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an industrial enterprise fails to recover and utilise the cooling water for production equipment, cooling water for air conditioning or boiler condensate, the competent department of water administration of the people's government at or above the county level shall order it to make corrections and may impose a fine of not more than RMB 50,000; if it refuses to make corrections, a fine of not less than RMB 50,000 but not more than RMB 100,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where staff members of people's governments at or above the county level and their relevant departments abuse their powers, neglect their duties or engage in malpractices for personal gain in water saving work, sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a violation of these Regulations constitutes an act in violation of public security administration, the public security organ shall impose a public security administrative penalty in accordance with law; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2024."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -12749,6 +13994,699 @@
     ]
   };
 
+  TR['CN-REG-0226'] = {
+    "lawId": "CN-REG-0226",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 59 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted in accordance with the Postal Law of the People's Republic of China and other relevant laws for the purposes of promoting the sound development of the express delivery industry, safeguarding express delivery safety, protecting the lawful rights and interests of express delivery users, and strengthening supervision and administration of the express delivery industry."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the operation of express delivery business, the acceptance of express delivery services and the supervision and administration of the express delivery industry within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The development of the express delivery industry shall follow the principles of market leadership, safety assurance, innovation-driven development and coordinated development, and a express delivery service system shall be built that is inclusive of urban and rural areas, technologically advanced, high in service quality, safe and efficient, green and energy-saving."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Local people's governments at all levels shall create a favourable business environment for the express delivery industry, support enterprises operating express delivery business in innovating business models and service methods, guide such enterprises in strengthening service quality management, improving rules and regulations and perfecting safety assurance measures, and provide users with fast, accurate, safe and convenient express delivery services.\nLocal people's governments at all levels shall ensure that the relevant government conduct conforms to the requirements of fair competition and the relevant laws and regulations, maintain the competitive order of the express delivery industry, and shall not introduce policies or measures that violate fair competition or are likely to cause regional blockade or industry monopoly."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "No entity or individual may use letters, parcels, printed matters or other postal items (hereinafter collectively referred to as express items) to engage in activities that endanger national security, public interests or the lawful rights and interests of others.\nExcept where the relevant departments inspect express items in accordance with law, no entity or individual may unlawfully inspect the express items of others. No entity or individual may open, conceal, destroy or discard, or resell the express items of others without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The postal administration department of the State Council shall be responsible for supervision and administration of the express delivery industry nationwide. The public security, state security, customs, market regulation and other relevant departments of the State Council shall be responsible for the relevant express delivery supervision and administration work within the scope of their respective duties.\nThe postal administration institutions of provinces, autonomous regions and municipalities directly under the Central Government and the postal administration institutions below the provincial level established in accordance with the provisions of the State Council shall be responsible for supervision and administration of the express delivery industry within their respective jurisdictions. The relevant departments of local people's governments at or above the county level shall be responsible for the relevant express delivery supervision and administration work within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The postal administration department of the State Council, the postal administration institutions of provinces, autonomous regions and municipalities directly under the Central Government and the postal administration institutions below the provincial level (hereinafter collectively referred to as the postal administration departments) shall cooperate with the public security, state security, customs, market regulation and other relevant departments, establish and improve the express delivery safety supervision mechanism, strengthen monitoring and early warning of the safe operation of the express delivery industry, collect and share information relating to the safe operation of the express delivery industry, and handle incidents affecting the safe operation of the express delivery industry in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Express delivery industry organisations established in accordance with law shall protect the lawful rights and interests of enterprises, strengthen industry self-discipline, promote lawful, honest and safe operation of enterprises, urge enterprises to implement their principal responsibility for work safety, and guide enterprises in continuously improving the quality and level of express delivery services."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State strengthens the development of the integrity system of the express delivery industry, establishes and improves the credit record, information disclosure and credit evaluation systems of the express delivery industry, implements joint disciplinary measures in accordance with law, and raises the credit level of the express delivery industry."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State improves comprehensive support policies and advances the greening, reduction and recyclability of express delivery packaging.\nThe State encourages enterprises operating express delivery business and senders to use degradable and reusable environmentally friendly packaging materials."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The postal administration department of the State Council shall formulate development plans for the express delivery industry to promote the sound development of the express delivery industry.\nLocal people's governments at or above the county level shall incorporate the development of the express delivery industry into the national economic and social development plans at the same level, and take into overall consideration in territorial spatial planning the land needs for infrastructure such as large-scale express item consolidation and distribution and sorting.\nLocal people's governments at or above the county level shall establish and improve policy measures for promoting the sound development of the express delivery industry, perfect the relevant supporting provisions, and protect in accordance with law the lawful rights and interests of enterprises operating express delivery business and their employees."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State supports and encourages enterprises operating express delivery business to develop express delivery service networks in rural and remote areas and to improve the layout of terminal outlets for express delivery."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State encourages and guides enterprises operating express delivery business to adopt advanced technologies and promotes the application of automated sorting equipment, mechanised loading and unloading equipment, intelligent terminal service facilities, electronic express waybills and express item information management systems."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The public security, transport and other departments of local people's governments at or above the county level and the postal administration departments shall strengthen coordination and cooperation, establish and improve the express delivery transport support mechanism, protect in accordance with law the right of express delivery service vehicles to pass and to stop temporarily, and shall not prohibit express delivery service vehicles from passing in accordance with law.\nThe postal administration departments, together with the public security and other departments of local people's governments at or above the county level, shall regulate in accordance with law the management and use of express delivery service vehicles, prescribe the driving speed, loading mass and other matters of electric tricycles dedicated to express delivery, and strengthen unified numbering and marking management of express delivery service vehicles. Enterprises operating express delivery business shall strengthen road traffic safety training for their employees.\nExpress delivery employees shall comply with the provisions of laws and regulations on road traffic safety and drive vehicles safely and courteously in accordance with operating standards. Where an express delivery employee causes damage to others in the course of performing work tasks, the enterprise operating express delivery business to which the express delivery employee belongs shall bear tort liability in accordance with the provisions of the laws relating to civil tort liability."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Enterprises and public institutions and the management units of residential communities shall, in light of actual circumstances, provide the necessary convenience for the provision of express delivery services by such means as concluding contracts with enterprises operating express delivery business and setting up dedicated premises for the acceptance and delivery of express items. Multiple enterprises operating express delivery business are encouraged to share terminal service facilities so as to provide users with convenient terminal express delivery services."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State encourages the express delivery industry to establish coordinated development mechanisms with such industries as manufacturing, agriculture and commerce and trade, promotes the integrated development of the express delivery industry and e-commerce, strengthens information communication and shares facilities and network resources.\nThe State guides and promotes the alignment of standards between the express delivery industry and such industries as railway, highway, waterway and civil aviation, and supports the construction of supporting express item transport corridors and connection premises at large stations, wharves, airports and other transport hubs."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State encourages enterprises operating express delivery business to carry out inbound and outbound express delivery business in accordance with law, and supports the construction of inbound and outbound express item processing centres at key ports and the lawful establishment of express delivery service institutions and express item processing premises abroad.\nThe customs, postal administration and other departments shall establish a cooperation mechanism, improve the management of inbound and outbound express items, and promote the convenient customs clearance of express items."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Development Support"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "To operate express delivery business, an express delivery business operating licence shall be obtained in accordance with law. The postal administration departments shall, in accordance with the conditions and procedures prescribed in Articles 52 and 53 of the Postal Law of the People's Republic of China, verify the business scope and geographical scope of the operating licence, publish to the public the list of enterprises that have obtained an express delivery business operating licence, and update it in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Business Entities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Enterprises operating express delivery business and their branches may, according to business needs, open terminal outlets for express delivery, and shall file a record with the postal administration department at the place where they are located within 20 days from the date of opening. Terminal outlets for express delivery need not obtain a business licence."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Business Entities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Two or more enterprises operating express delivery business may use a unified trademark, trade name or express waybill to operate express delivery business.\nThe enterprises operating express delivery business as prescribed in the preceding paragraph shall conclude a written agreement to clarify their respective rights and obligations, abide by common service undertakings, exercise unified management in such aspects as service quality, safety assurance and business processes, and provide users with unified express item tracking and enquiry and complaint handling services.\nWhere the lawful rights and interests of a user are harmed as a result of delay, loss, damage or shortage of contents of an express item, the user may demand compensation from the enterprise to which the trademark, trade name or express waybill belongs, or may demand compensation from the enterprise that actually provides the express delivery service."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Business Entities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Enterprises operating express delivery business shall protect in accordance with law the lawful rights and interests of their employees.\nEnterprises operating express delivery business shall strengthen education and training of their employees in professional ethics, service standards, operating standards, work safety and safe driving of vehicles."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Business Entities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Before a sender fills in an express waybill, an enterprise operating express delivery business shall remind the sender to read the terms of the express delivery service contract, comply with the relevant provisions on prohibited and restricted items for posting, and inform the sender of the relevant declaration of value rules and insurance service items.\nWhere a sender posts valuable items, the sender shall declare them in advance; the enterprise operating express delivery business may require the sender to declare a value for the valuable items."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A sender posting an express item shall truthfully provide the following particulars:\n(a) the name, address and contact telephone number of the sender;\n(b) the name (title), address and contact telephone number of the recipient;\n(c) the name, nature and quantity of the posted item.\nExcept for letters and express items posted by users that have concluded a security agreement, an enterprise operating express delivery business shall, when accepting an express item, verify the identity of the sender and register the identity information, but shall not record on the express waybill any user identity information other than the name (title), address and contact telephone number. Where a sender refuses to provide identity information or provides false identity information, the enterprise operating express delivery business shall not accept the posting."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State encourages enterprises operating express delivery business to provide users with normal express delivery services during public holidays according to the actual changes in business volume."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Enterprises operating express delivery business shall operate in a standardised manner and prevent damage to express items.\nWhere laws and regulations contain special provisions on the transport of specific items such as food and pharmaceuticals, senders and enterprises operating express delivery business shall comply with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Enterprises operating express delivery business shall deliver express items to the agreed recipient address and recipient or the collecting agent designated by the recipient, and shall notify the recipient or the collecting agent to inspect the items in person. The recipient or the collecting agent has the right to inspect the items in person."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where an express item cannot be delivered, the enterprise operating express delivery business shall return it to the sender or deal with it according to the sender's request; where it is an inbound or outbound express item, the enterprise operating express delivery business shall complete the customs and inspection and quarantine formalities in accordance with law.\nWhere an express item can neither be delivered nor returned, it shall be dealt with in accordance with the following provisions:\n(a) where it is a letter and no one claims it within six months from the date on which it is confirmed that it cannot be returned, the enterprise operating express delivery business shall destroy it under the supervision of the postal administration department at the place where it is located;\n(b) where it is an express item other than a letter, the enterprise operating express delivery business shall register it and deal with it in accordance with the provisions of the postal administration department of the State Council;\n(c) where it is an inbound express item, it shall be handed over to the customs for handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an express item is delayed, lost, damaged or short of contents, for an express item with a declared value, the liability for compensation shall be determined in accordance with the declaration of value rules agreed between the enterprise operating express delivery business and the sender; for an express item without a declared value, the liability for compensation shall be determined in accordance with the relevant provisions of the civil law.\nThe State encourages insurance companies to develop insurance products covering liability for express item losses and encourages enterprises operating express delivery business to take out insurance."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Enterprises operating express delivery business shall implement information-based management of the entire posting process of express items, publish their contact details, ensure unimpeded contact with users, and provide users with such services as business enquiries and express item tracking. Where a user is dissatisfied with the quality of express delivery services, the user may lodge a complaint with the enterprise operating express delivery business, and the enterprise shall handle the complaint and inform the user within seven days from the date of receipt of the complaint."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where an enterprise operating express delivery business ceases operation, it shall announce the fact to the public 10 days in advance, notify the postal administration department in writing, surrender its express delivery business operating licence, and properly deal with the express items not yet delivered in accordance with law.\nWhere an enterprise operating express delivery business or its branch suspends express delivery services due to force majeure or other special reasons, it shall promptly report to the postal administration department, announce to the public the reasons for and the duration of the suspension, and properly deal with the express items not yet delivered in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Express Delivery Services"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Senders posting express items and enterprises operating express delivery business accepting express items shall comply with the provisions of Article 24 of the Postal Law of the People's Republic of China on prohibited or restricted items for posting.\nThe catalogue of prohibited items for posting and the measures for its administration shall be formulated and published by the postal administration department of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Express Delivery Safety"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "When accepting an express item, an enterprise operating express delivery business shall inspect the contents in accordance with the provisions of the Postal Law of the People's Republic of China and make an inspection mark. Where a sender refuses inspection, the enterprise operating express delivery business shall not accept the posting.\nWhere an enterprise operating express delivery business provides express delivery services on a long-term and batch basis as entrusted by a sender, it shall conclude a security agreement with the sender to clarify the safety assurance obligations of both parties."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Express Delivery Safety"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Enterprises operating express delivery business may conduct security inspections of express items themselves or entrust a third-party enterprise to do so, and shall make a security inspection mark on express items that have undergone security inspection. Where an enterprise operating express delivery business entrusts a third-party enterprise to conduct security inspections of express items, the liability borne by the commissioning party for the safety of the express items is not exempted.\nEnterprises operating express delivery business or the entrusted third-party enterprises shall use security inspection equipment that conforms to the mandatory national standards and shall strengthen background checks and technical training of security inspection personnel; where enterprises operating express delivery business or the entrusted third-party enterprises conduct background checks of security inspection personnel, public security organs and other relevant departments shall provide cooperation."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Express Delivery Safety"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where an enterprise operating express delivery business finds that a sender is posting prohibited items, it shall refuse the posting; where it finds that an express item already accepted contains suspected prohibited items, it shall immediately stop sorting, transport and delivery. As for items in express items that shall be confiscated or destroyed in accordance with law or that may involve a criminal offence, the enterprise operating express delivery business shall immediately report to the relevant departments and cooperate with the investigation and handling; as for other prohibited items and restricted items, the enterprise operating express delivery business shall deal with them in accordance with laws, administrative regulations or the provisions of the State Council and the relevant competent departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Express Delivery Safety"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Enterprises operating express delivery business shall establish a management system for express waybills and electronic data, properly keep electronic data such as user information, destroy express waybills periodically, and adopt effective technical means to ensure the security of user information. The specific measures shall be formulated by the postal administration department of the State Council together with the relevant departments of the State Council.\nEnterprises operating express delivery business and their employees shall not sell, disclose or unlawfully provide user information learned in the course of express delivery services. Where user information is disclosed or may be disclosed, the enterprise operating express delivery business shall immediately take remedial measures and report to the postal administration department at the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Express Delivery Safety"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Enterprises operating express delivery business shall establish and improve the work safety responsibility system in accordance with law and ensure the safety of express delivery services.\nEnterprises operating express delivery business shall formulate emergency response plans for emergencies in accordance with law and conduct emergency drills periodically; where an emergency occurs, they shall handle it promptly and properly in accordance with the emergency response plan and immediately report to the postal administration department at the place where they are located."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Express Delivery Safety"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Express delivery packaging shall conform to the requirements of posting production operations, economise on the use of resources, avoid excessive packaging and prevent environmental pollution.\nThe administrative department for standardisation of the State Council and the postal administration and other departments of the State Council shall, according to the division of duties, organise the formulation of national standards and industry standards for express delivery packaging. Express delivery packaging shall conform to the mandatory national standards."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State encourages scientific and technological innovation and supports the research, development and production of express delivery packaging that meets green and environmental protection requirements by adopting new technologies, new materials and new processes."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Enterprises operating express delivery business shall, on the premise of ensuring express delivery safety, optimise packaging methods and packaging structure design and economise on the use of packaging materials.\nEnterprises operating express delivery business are encouraged to use packaging materials that have obtained green product certification."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The State promotes coordinated development between enterprises operating express delivery business and commodity production enterprises and e-commerce enterprises, popularises direct delivery of goods in original packaging, and reduces secondary packaging in the posting process."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Enterprises operating express delivery business shall formulate and implement operating standards for express delivery packaging and strengthen training of their employees in express delivery packaging operation skills."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Enterprises operating express delivery business shall formulate and implement a management system for the recovery and utilisation of packaging materials, optimise business processes and improve the recovery and utilisation rate of packaging materials.\nThe installation of packaging material recovery facilities and equipment is encouraged at express delivery business premises and in other appropriate places such as enterprises, public institutions and residential communities."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Enterprises operating express delivery business shall report to the postal administration departments the use and recovery of single-use plastic products in packaging materials in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The relevant departments of the State Council, local people's governments at or above the county level and their relevant departments shall organise and carry out publicity and education activities in various forms, and the news media shall carry out public interest publicity so as to raise public awareness of environmentally friendly packaging.\nEnterprises operating express delivery business are encouraged to guide users to reuse packaging materials by such means as point rewards and posting discounts."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Express delivery industry organisations established in accordance with law shall incorporate the use and recovery of packaging materials by enterprises operating express delivery business into the scope of industry self-discipline and publish the relevant information to the public in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Express Delivery Packaging"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The postal administration departments shall strengthen supervision and inspection of the express delivery industry. Supervision and inspection shall focus on the following matters:\n(a) whether enterprises engaged in express delivery activities have obtained an express delivery business operating licence in accordance with law;\n(b) whether the safety management systems of enterprises operating express delivery business are sound and effectively implemented;\n(c) whether enterprises operating express delivery business properly handle user complaints and protect the lawful rights and interests of users;\n(d) whether enterprises operating express delivery business implement the relevant management systems and mandatory national standards for express delivery packaging."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The postal administration departments shall establish and improve the routine supervision and inspection system focusing on random inspections, publish the catalogue of inspection items, clarify the basis, frequency, methods, contents and procedures of inspections, randomly select the enterprises to be inspected and randomly assign inspection personnel. The inspection situation and the results of investigation and handling shall be published to the public in a timely manner.\nThe postal administration departments shall make full use of advanced technical means such as computer networks to strengthen routine supervision and inspection of express delivery business activities and improve the level of management of the express delivery industry."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "In performing their duties in accordance with law, the postal administration departments have the power to take the supervision and inspection measures prescribed in Article 61 of the Postal Law of the People's Republic of China. When conducting on-site inspections, the postal administration departments have the power to consult the electronic data of enterprises operating express delivery business on the management of express delivery business.\nWhere state security organs and public security organs carry out law enforcement activities in accordance with law for the purpose of safeguarding national security and investigating criminal activities, enterprises operating express delivery business shall provide technical support and assistance.\nThe handling premises prescribed in Article 11 of the Postal Law of the People's Republic of China include express item handling sites, facilities and equipment."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The postal administration departments shall publish to the public their contact details so as to facilitate public reporting of illegal acts.\nWhere a postal administration department receives a report, it shall promptly investigate and handle it in accordance with law and keep the reporter confidential. For reports made under a real name, the postal administration department shall inform the reporter of the result of handling."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where anyone engages in express delivery activities without obtaining an express delivery business operating licence, the postal administration department shall impose a penalty in accordance with the provisions of the Postal Law of the People's Republic of China.\nWhere an enterprise operating express delivery business or its branch commits any of the following acts, the postal administration department shall order it to make rectification and may impose a fine of not more than RMB 10,000; where the circumstances are serious, a fine of not less than RMB 10,000 and not more than RMB 50,000 shall be imposed, and it may be ordered to suspend business for rectification:\n(a) opening a terminal outlet for express delivery without filing a record with the postal administration department at the place where it is located;\n(b) ceasing express delivery business without announcing the fact to the public 10 days in advance, without notifying the postal administration department in writing and surrendering the express delivery business operating licence, or without properly dealing with the express items not yet delivered in accordance with law;\n(c) suspending express delivery services due to force majeure or other special reasons without promptly reporting to the postal administration department and announcing to the public the reasons for and the duration of the suspension, or without properly dealing with the express items not yet delivered in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where two or more enterprises operating express delivery business use a unified trademark, trade name or express waybill to operate express delivery business but fail to abide by common service undertakings, fail to exercise unified management in such aspects as service quality, safety assurance and business processes, or fail to provide users with unified express item tracking and enquiry and complaint handling services, the postal administration department shall order them to make rectification and impose a fine of not less than RMB 10,000 and not more than RMB 50,000; where the circumstances are serious, a fine of not less than RMB 50,000 and not more than RMB 100,000 shall be imposed, and they may be ordered to suspend business for rectification."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Whoever fraudulently claims, opens without authorisation, conceals, destroys or discards, or resells the express items of others, or unlawfully inspects the express items of others, where the act does not yet constitute a criminal offence, shall be given a penalty for administration of public security in accordance with law.\nWhere an enterprise operating express delivery business commits an act prescribed in the preceding paragraph or unlawfully detains express items, the postal administration department shall order it to make rectification, confiscate the illegal gains and impose a fine of not less than RMB 50,000 and not more than RMB 100,000; where the circumstances are serious, a fine of not less than RMB 100,000 and not more than RMB 200,000 shall be imposed, and it may be ordered to suspend business for rectification or even have its express delivery business operating licence revoked."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an enterprise operating express delivery business falls under any of the following circumstances, the postal administration department shall impose a penalty in accordance with the provisions of the Postal Law of the People's Republic of China and the Counter-Terrorism Law of the People's Republic of China:\n(a) failing to establish or failing to implement the acceptance inspection system;\n(b) violating laws, administrative regulations and the provisions of the State Council and the relevant departments of the State Council on prohibited or restricted items for posting;\n(c) accepting an express item without verifying the identity of the sender and registering the identity information, or still accepting the posting after finding that the identity information provided by the sender is false;\n(d) failing to conduct security inspections of express items in accordance with the provisions.\nWhere a sender conceals prohibited items in an express item, and the act does not yet constitute a criminal offence, a penalty for administration of public security shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where an enterprise operating express delivery business commits any of the following acts, the postal administration department shall order it to make rectification, confiscate the illegal gains and impose a fine of not less than RMB 10,000 and not more than RMB 50,000; where the circumstances are serious, a fine of not less than RMB 50,000 and not more than RMB 100,000 shall be imposed, and it may be ordered to suspend business for rectification or even have its express delivery business operating licence revoked:\n(a) failing to establish a management system for express waybills and electronic data in accordance with the provisions;\n(b) failing to destroy express waybills periodically;\n(c) selling, disclosing or unlawfully providing user information learned in the course of express delivery services;\n(d) failing to immediately take remedial measures or failing to report to the postal administration department at the place where it is located where user information is disclosed or may be disclosed."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where an enterprise operating express delivery business or its employees commit an act endangering national security in the course of business activities, legal liability shall be pursued in accordance with law; as for the enterprise operating express delivery business, the postal administration department shall revoke its express delivery business operating licence."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where the express delivery packaging used by an enterprise operating express delivery business does not conform to the mandatory national standards, or the enterprise fails to report to the postal administration department the use of single-use plastic products in packaging materials in accordance with the relevant provisions of the State, the postal administration department shall impose a penalty in accordance with the provisions of such laws and administrative regulations as the Standardisation Law of the People's Republic of China and the Law of the People's Republic of China on the Prevention and Control of Environmental Pollution by Solid Waste.\nWhere an enterprise operating express delivery business fails to formulate or implement the operating standards for express delivery packaging or the management system for the recovery and utilisation of packaging materials in accordance with the provisions, the postal administration department shall order it to make rectification; where it refuses to make rectification, a fine of not less than RMB 5,000 and not more than RMB 20,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where staff members of the postal administration departments and other relevant departments abuse their powers, neglect their duties or engage in malpractice for personal gain in supervision and administration work, disciplinary sanctions shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where these Regulations are violated and a criminal offence is constituted, criminal liability shall be pursued in accordance with law; where personal injury, property damage or other damage is caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2018."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0227'] = {
     "lawId": "CN-REG-0227",
     "sourceLang": "zh",
@@ -15281,6 +17219,672 @@
     ]
   };
 
+  TR['CN-REG-0234'] = {
+    "lawId": "CN-REG-0234",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 56 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the relevant laws for the purpose of protecting the enthusiasm of grain producers, promoting grain production, safeguarding the lawful rights and interests of operators and consumers, ensuring national food security and maintaining order in grain circulation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Anyone engaging in business activities such as the purchase, sale, storage, transport, processing and import and export of grain within the territory of the People's Republic of China (hereinafter collectively referred to as grain business activities) shall comply with these Regulations.\nFor the purposes of the preceding paragraph, \"grain\" means wheat, paddy rice, maize, coarse grains and their finished products."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State encourages market entities under various forms of ownership to engage in grain business activities and promotes fair competition. Grain business activities lawfully conducted are protected by the laws of the State. It is strictly prohibited to obstruct the free circulation of grain by unlawful means.\nState-owned grain enterprises shall transform their operating mechanisms, improve their market competitiveness, play the role of the main channel in grain circulation and take the lead in implementing the grain policies of the State."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Grain prices are mainly determined by market supply and demand.\nThe State shall strengthen the management of grain circulation and enhance its capacity to regulate the grain market."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Grain business activities shall follow the principles of voluntariness, fairness and good faith, may not harm the lawful rights and interests of grain producers and consumers, may not harm the interests of the State or the public interest of society, and shall adopt effective measures to prevent and reduce the loss and waste of grain."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The development and reform department of the State Council and the national administrative department of grain and reserves shall be responsible for the aggregate balance of grain nationwide, macroeconomic regulation, the structural adjustment of important grain varieties and the medium- and long-term plans for grain circulation. The national administrative department of grain and reserves shall be responsible for the administration and industry guidance of grain circulation and shall supervise the implementation of the laws, regulations, policies and rules relating to grain circulation.\nThe departments of the State Council in charge of market supervision, health and the like shall, within the scope of their respective duties, be responsible for the work relating to grain circulation."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Provinces, autonomous regions and municipalities directly under the Central Government shall implement the system under which the Party committee and the government share responsibility for food security, improve the system under which the governor is responsible for food security, bear the primary responsibility for ensuring food security within their own administrative areas, and, under the macroeconomic regulation of the State, be responsible for the aggregate balance of grain within their own administrative areas and the management of local grain reserves and the like.\nThe administrative departments of grain and reserves of the local people's governments at or above the county level shall be responsible for the administration and industry guidance of grain circulation within their own administrative areas; the departments of the local people's governments at or above the county level in charge of market supervision, health and the like shall, within the scope of their respective duties, be responsible for the work relating to grain circulation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A grain operator means a natural person, legal person or unincorporated organisation engaged in business activities such as the purchase, sale, storage, transport, processing and import and export of grain."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "An operator engaged in grain purchase (hereinafter referred to as a grain purchaser) shall have the capacity commensurate with the variety and quantity of the grain it purchases.\nAn enterprise engaged in grain purchase (hereinafter referred to as a grain purchasing enterprise) shall file with the administrative department of grain and reserves of the people's government at the county level in the place of purchase information such as its name, address, person in charge and storage facilities, and shall promptly amend the filing where the filed contents change.\nThe administrative departments of grain and reserves of the local people's governments at or above the county level shall strengthen the administration of and services for grain purchase and regulate grain purchase activities. The specific administrative measures shall be formulated by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "In purchasing grain, a grain purchaser shall inform the grain seller, or publish at the place of purchase, the variety, quality standards and purchase price of the grain."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "In purchasing grain, a grain purchaser shall implement the national grain quality standards and price the grain according to its quality, and may not harm the interests of farmers and other grain producers; it shall promptly pay the grain seller the payment for the grain and may not delay payment; and it may not accept the entrustment of any organisation or individual to withhold or pay on behalf of others any taxes, fees or other sums.\nIn purchasing grain, a grain purchaser shall carry out quality and safety inspection in accordance with the relevant provisions of the State and ensure the quality and safety of the grain. Grain that does not meet food safety standards shall be stored separately for non-food uses."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A grain purchasing enterprise shall regularly report to the administrative department of grain and reserves of the people's government at the county level in the place of purchase the quantity of grain purchased and other relevant particulars.\nWhere grain is purchased across provinces, the quantity of grain purchased and other relevant particulars shall be regularly reported to the administrative departments of grain and reserves of the people's governments at the county level in the place of purchase and in the place where the grain purchasing enterprise is located."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The storage facilities used by a grain purchaser or by an enterprise engaged in grain storage (hereinafter referred to as a grain storage enterprise) shall conform to the relevant standards and technical norms for grain storage and to the requirements of the laws and regulations on work safety, and shall have storage conditions commensurate with the variety, scale and cycle of storage so as to reduce grain storage losses.\nGrain may not be stored together with toxic or harmful substances that may contaminate it, and no chemicals prohibited by the State may be used in storing grain, nor may chemicals be used in excessive amounts."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The transport of grain shall strictly comply with the national technical norms for grain transport so as to reduce grain transport losses. Grain may not be transported in contaminated means of transport or packaging materials, nor may it be transported mixed with toxic or harmful substances."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The food production from grain shall conform to the conditions and requirements prescribed by the laws, regulations and standards on food safety, and the producer shall be responsible for the safety of the food it produces.\nThe State encourages grain operators to raise the yield rate of finished grain and the comprehensive utilisation rate of by-products."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The sale of grain shall strictly comply with the national standards on grain quality and the like; it is prohibited to give short weight or short measure, to adulterate or pass off inferior goods as superior, to hoard and corner, to monopolise or manipulate grain prices, or to bully the market."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "During storage, the quality of grain shall be inspected at regular intervals, and grain whose quality has deteriorated to the point of being marginally unfit for storage shall be removed from the warehouse promptly.\nA system of quality and safety inspection upon removal of grain from the warehouse for sale shall be established. For grain within the normal storage period, the grain storage enterprise shall itself, or by entrusting a grain quality and safety inspection institution, carry out the quality and safety inspection before removal from the warehouse; for grain that exceeds the normal storage period, grain for which the safety interval after the use of grain storage chemicals during storage has not yet expired, and grain with abnormal colour or odour, the quality and safety inspection shall be carried out by a grain quality and safety inspection institution before removal from the warehouse. Grain that has not undergone quality and safety inspection may not be sold or removed from the warehouse."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "A grain purchaser or grain storage enterprise may not sell or remove from the warehouse for food use any of the following grain:\n(a) grain in which the content of contaminants such as mycotoxins, pesticide residues and heavy metals, or of other substances harmful to human health, exceeds the limits of the food safety standards;\n(b) grain that is mouldy or has abnormal colour or odour;\n(c) grain for which the safety interval after the use of grain storage chemicals during storage has not yet expired;\n(d) grain contaminated by packaging materials, containers, means of transport or the like;\n(e) other grain that is expressly prohibited from being sold for food use by laws, regulations or the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "An operator of a scale above the designated size engaged in the purchase, processing or sale of grain shall, in accordance with the provisions of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where it is located, maintain grain inventories under specific circumstances."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a grain operator engages in policy grain business activities, it shall strictly comply with the relevant provisions of the State and may not commit any of the following acts:\n(a) falsely reporting the quantity of grain purchased or stored;\n(b) obtaining grain price differences and fiscal subsidies, or fraudulently obtaining credit funds, by substituting old grain for new, passing off inferior goods as superior, purchasing at a low price and transferring at a high price, making false purchases and sales, carrying out false rotation, unlawfully reselling or other means;\n(c) misappropriating, diverting or withholding fiscal subsidies or credit funds;\n(d) using policy grain as security for debts or to pay off debts;\n(e) using policy grain for commercial operations other than the policy tasks entrusted by the government;\n(f) adulterating, passing off inferior goods as superior, substituting the subject matter, or refusing to execute removal instructions or obstructing removal when policy grain is removed from the warehouse;\n(g) purchasing policy grain the use of which is restricted by the State and unlawfully reselling it or disposing of it otherwise than for the prescribed use;\n(h) using policy grain without authorisation;\n(i) other acts in violation of the provisions of the State on the operation and management of policy grain."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "State-owned grain enterprises shall actively purchase grain, properly carry out the purchase and sale of policy grain, and obey and serve the macroeconomic regulation of the State."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "With respect to grain purchasers that meet the conditions for a loan, banks shall promptly provide purchase loans in accordance with the relevant provisions of the State.\nThe Agricultural Development Bank of China shall ensure the credit funds needed for central and local grain reserves and other policy grain, and shall provide credit support to State-owned grain enterprises, large leading enterprises in grain industrialisation and other grain enterprises according to their capacity to bear risks.\nFunds for the purchase of policy grain shall be used exclusively for the designated purposes and shall be operated in a closed circuit."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "All operators engaged in the purchase, sale, storage or processing of grain, and enterprises using grain for feed or industrial purposes, shall establish grain business ledgers and submit to the administrative department of grain and reserves of the people's government at the county level in the place where they are located the basic data and relevant particulars on the purchase, sale and storage of grain. Grain business ledgers shall be kept for not less than three years. Where the basic data and relevant particulars submitted by a grain operator involve commercial secrets, the administrative department of grain and reserves shall be under an obligation to keep them confidential.\nThe statistics of national grain circulation shall be compiled in accordance with the relevant provisions of the Statistics Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The administrative departments of grain and reserves of the people's governments at or above the county level shall establish credit files for grain operators, recording the results of routine supervision and inspection and the investigation and punishment of unlawful acts, and shall disclose them to the public in accordance with law.\nGrain industry associations and intermediary organisations shall strengthen industry self-discipline and play a supervisory and coordinating role in maintaining order in the grain market."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State encourages and supports the development, popularisation and application of advanced technologies for grain storage, transport, processing and informatisation, and carries out publicity and education on cherishing and conserving grain.\nThe administrative departments of grain and reserves of the people's governments at or above the county level shall strengthen guidance and services for grain operators and guide them to conserve grain and reduce grain losses."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Grain Business"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State adopts various economic means, such as the purchase and sale of policy grain and the import and export of grain, and the necessary administrative means, to strengthen the regulation of the grain market and maintain a basic aggregate balance between the supply of and demand for grain nationwide and basic stability of the market."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State applies a system of grain reserves at the central and local levels. Grain reserves are used to regulate the supply of and demand for grain, stabilise the grain market and respond to major natural disasters or other emergencies.\nIn principle, the purchase and sale of policy grain shall be conducted openly through standardised grain trading centres, or by other means prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State Council and the local people's governments shall establish and improve a grain risk fund system. The grain risk fund shall mainly be used to support grain reserves and stabilise the grain market.\nThe finance departments of the State Council and the local people's governments shall be responsible for the supervision and management of the grain risk fund and ensure that it is used exclusively for the designated purposes."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "In order to ensure market supply and protect the interests of grain-growing farmers, the State Council may, when necessary, in light of the food security situation and the fiscal position, decide to implement policy purchase and storage of important grain varieties in the main grain-producing areas.\nWhen grain prices rise significantly or are likely to rise significantly, the State Council and the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government may, in accordance with the provisions of the Price Law of the People's Republic of China, take price intervention measures."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The development and reform department of the State Council and the national administrative department of grain and reserves shall, together with the departments of the State Council in charge of agriculture and rural affairs, statistics and market supervision, be responsible for monitoring and early warning analysis of the supply of and demand for grain on the market, improve the monitoring and early warning system, improve the sampling inspection system for the supply of and demand for grain, and publish information on grain production, consumption, prices and quality."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State encourages the main grain-producing areas and the main grain-consuming areas to establish stable production and marketing relationships in various forms, encourages the cultivation of grain enterprises integrating production, purchase, storage, processing and sale, supports the construction of grain production and processing bases or parks and logistics facilities, strengthens the protection of the warehousing and logistics facilities for government grain reserves, and encourages the development of contract farming. In implementing policy purchase and storage, the State grants the necessary economic preferences and gives priority arrangements for grain transport."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "When a major natural disaster, major epidemic or other emergency causes abnormal fluctuations in the supply of and demand for grain on the market, the State shall implement a grain emergency mechanism."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall establish a grain emergency response system for emergencies. The development and reform department of the State Council and the national administrative department of grain and reserves shall, together with the relevant departments of the State Council, formulate a national grain emergency plan and submit it to the State Council for approval. The people's governments of the provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the actual circumstances of their own regions, formulate grain emergency plans for their own administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The launching of the national grain emergency plan shall be proposed by the development and reform department of the State Council and the national administrative department of grain and reserves and implemented after approval by the State Council.\nThe launching of the grain emergency plan of a province, an autonomous region or a municipality directly under the Central Government shall be proposed by the development and reform department and the administrative department of grain and reserves of that province, autonomous region or municipality directly under the Central Government and implemented after a decision by the people's government at the same level, and shall be reported to the State Council.\nThe formulation and launching of the grain emergency plans of the people's governments at the levels of cities divided into districts and at the county level shall be decided by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "After a grain emergency plan is launched, grain operators must undertake the emergency tasks in accordance with the requirements of the State, submit to the unified arrangements and deployment of the State, and ensure that emergency needs are met."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State encourages the development of the grain industry economy, raises the level of supply of quality grain, and encourages leading enterprises in grain industrialisation to provide safe and high-quality grain products."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Macroeconomic Regulation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall establish and improve a system for monitoring quality and safety risks in grain circulation. The departments of the State Council in charge of health, market supervision and the national administrative department of grain and reserves shall, in accordance with their respective duties, organise the implementation of monitoring of quality and safety risks in grain circulation nationwide; the departments of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government in charge of health, market supervision and grain and reserves shall, in accordance with their respective duties, organise the implementation of monitoring of quality and safety risks in grain circulation within their own administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The administrative departments of grain and reserves shall, in accordance with these Regulations, supervise and inspect grain operators engaged in the purchase, storage and transport of grain and in the purchase and sale of policy grain, as well as their implementation of the national system of statistics on grain circulation.\nIn the course of supervision and inspection, the administrative departments of grain and reserves may enter the business premises of grain operators and consult the relevant materials and vouchers; inspect the quantity, quality and storage safety of grain; inspect whether the grain storage facilities and equipment conform to the relevant standards and technical norms; investigate and learn the relevant particulars from the units and persons concerned; seal up or seize grain unlawfully purchased or not conforming to the national grain quality and safety standards, the tools and equipment used for unlawful business operations or contaminated, and the relevant account books and materials; and seal up the premises where grain business activities are unlawfully carried out."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The administrative departments for market supervision shall, in accordance with the provisions of the relevant laws and regulations, supervise and inspect acts disrupting market order, unlawful trading acts and price violations in grain business activities."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The local people's governments at or above the county level shall strengthen the monitoring and control of grain contamination within their own administrative areas, establish and improve a long-term mechanism for the purchase and disposal of contaminated grain and, upon discovering regional grain contamination, promptly take disposal measures.\nThe measures for the disposal of contaminated grain shall be formulated by the national administrative department of grain and reserves together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "All units and individuals shall have the right to report acts in violation of the provisions of these Regulations to the relevant departments. The relevant departments shall keep the identity of the informants confidential and handle the matter promptly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where the administrative departments of grain and reserves or other relevant departments fail to perform their duties of grain circulation management and supervision in accordance with law in violation of the provisions of these Regulations, sanctions shall be imposed in accordance with law on the leading personnel who are responsible and the persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a grain purchasing enterprise fails to file for the record in accordance with the provisions or provides false filing information, the administrative department of grain and reserves shall order it to make correction and give it a warning; where it refuses to make correction, a fine of not less than RMB 20,000 but not more than RMB 50,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a grain purchaser fails, in violation of the provisions, to inform or publish the grain purchase price, or commits price violations such as depressing the grade and price in purchasing grain, monopolising or manipulating prices, the administrative department for market supervision shall impose a penalty in accordance with the relevant provisions of the Price Law of the People's Republic of China and the Anti-Monopoly Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where any of the following circumstances exists, the administrative department of grain and reserves shall order correction, give a warning and may concurrently impose a fine of not more than RMB 200,000; where the circumstances are serious, a fine of not less than RMB 200,000 but not more than RMB 500,000 shall concurrently be imposed:\n(a) a grain purchaser failing to implement the national grain quality standards;\n(b) a grain purchaser failing to promptly pay the grain seller the payment for the grain;\n(c) a grain purchaser withholding or paying on behalf of others taxes, fees or other sums in violation of the provisions of these Regulations;\n(d) a grain purchaser failing to carry out quality and safety inspection in accordance with the relevant provisions of the State when purchasing grain, or failing to store grain that does not meet food safety standards separately for non-food uses;\n(e) a grain operator engaged in the purchase, sale, storage or processing of grain, or an enterprise using grain for feed or industrial purposes, failing to establish a grain business ledger, or failing to submit the basic data and relevant particulars on grain in accordance with the provisions;\n(f) a grain storage enterprise failing to carry out quality and safety inspection upon removal of grain from the warehouse for sale in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a grain purchaser or grain storage enterprise uses storage facilities or means of transport in violation of the provisions of these Regulations, the administrative department of grain and reserves and other departments shall, in accordance with their duties, order correction and give a warning; contaminated grain may not be unlawfully sold or processed."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a grain purchaser or grain storage enterprise sells or removes from the warehouse for food use any of the following grain, the administrative department of grain and reserves shall confiscate the illegal gains; where the value of the grain unlawfully sold or removed from the warehouse is less than RMB 10,000, a fine of not less than RMB 10,000 but not more than RMB 50,000 shall concurrently be imposed, and where the value is RMB 10,000 or more, a fine of not less than one time but not more than five times the value shall concurrently be imposed:\n(a) grain in which the content of contaminants such as mycotoxins, pesticide residues and heavy metals, or of other substances harmful to human health, exceeds the limits of the food safety standards;\n(b) grain that is mouldy or has abnormal colour or odour;\n(c) grain for which the safety interval after the use of grain storage chemicals during storage has not yet expired;\n(d) grain contaminated by packaging materials, containers, means of transport or the like;\n(e) other grain that is expressly prohibited from being sold for food use by laws, regulations or the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the food production from grain does not conform to the conditions and requirements prescribed by the laws, regulations and standards on food safety, the administrative department for market supervision shall impose a penalty in accordance with the relevant provisions of the Food Safety Law of the People's Republic of China and the Regulations for the Implementation of the Food Safety Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where any of the following circumstances exists in engaging in policy grain business activities, the administrative department of grain and reserves shall order correction, give a warning, confiscate the illegal gains and concurrently impose a fine of not less than RMB 500,000 but not more than RMB 2 million; where the circumstances are serious, a fine of not less than RMB 2 million but not more than RMB 5 million shall concurrently be imposed:\n(a) falsely reporting the quantity of grain purchased or stored;\n(b) obtaining grain price differences and fiscal subsidies, or fraudulently obtaining credit funds, by substituting old grain for new, passing off inferior goods as superior, purchasing at a low price and transferring at a high price, making false purchases and sales, carrying out false rotation, unlawfully reselling or other means;\n(c) misappropriating, diverting or withholding fiscal subsidies or credit funds;\n(d) using policy grain as security for debts or to pay off debts;\n(e) using policy grain for commercial operations other than the policy tasks entrusted by the government;\n(f) adulterating, passing off inferior goods as superior, substituting the subject matter, or refusing to execute removal instructions or obstructing removal when policy grain is removed from the warehouse;\n(g) purchasing policy grain the use of which is restricted by the State and unlawfully reselling it or disposing of it otherwise than for the prescribed use;\n(h) using policy grain without authorisation;\n(i) other acts in violation of the provisions of the State on the operation and management of policy grain.\nWhere, after a grain emergency plan is launched, a party fails to undertake the emergency tasks in accordance with the requirements of the State or fails to submit to the unified arrangements and deployment of the State, it shall be penalised in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Acts disrupting market order and unlawful trading in grain business activities shall be penalised by the administrative department for market supervision in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where an enterprise engaged in grain business activities falls under any of the unlawful circumstances in violation of the provisions of these Regulations and the circumstances are serious, its legal representative, principal person in charge, the person directly in charge who is responsible and other persons directly responsible shall be fined not less than one time but not more than 10 times the income they obtained from the enterprise in the preceding year."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Anyone who obstructs the free circulation of grain in violation of the provisions of these Regulations shall be penalised in accordance with the Provisions of the State Council on Prohibiting Regional Blockade in Market Economic Activities."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Anyone who, in violation of the provisions of these Regulations, commits an act violating the administration of public security shall be given a penalty for the administration of public security by the public security organ in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The following terms used in these Regulations have the meanings given below:\nGrain purchase means the activity of purchasing grain in bulk from grain-growing farmers, other grain producers, grain brokers, specialised farmers' cooperatives and the like.\nGrain processing means the activity of converting unprocessed grain through processing into semi-finished grain, finished grain and other food or non-food products.\nPolicy grain means grain that the government designates or entrusts grain operators to purchase, store, process and sell and for which policy support in fiscal, financial and other respects is given, including but not limited to government grain reserves.\nGrain broker means an operator that, with an individual or a household as the business entity, purchases grain in bulk directly from grain-growing farmers, other grain producers and specialised farmers' cooperatives.\nTechnical norms means the supplementary technical requirements formulated by the national administrative department of grain and reserves in light of the needs of supervision and management where national standards or industry standards have not yet been formulated."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The provisions of these Regulations, except paragraph 2 of Article 9, apply to business activities such as the purchase, sale, storage, transport, processing and import and export of soya beans, oil-bearing crops and edible vegetable oil.\nThe administration of the import and export of grain shall be carried out in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "These Regulations shall come into force on 15 April 2021."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0236'] = {
     "lawId": "CN-REG-0236",
     "sourceLang": "zh",
@@ -17693,6 +20297,654 @@
     ]
   };
 
+  TR['CN-REG-0245'] = {
+    "lawId": "CN-REG-0245",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 55 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the safety management of civil explosives, preventing the occurrence of explosions, and safeguarding the safety of citizens' lives and property and public safety."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the production, sale, purchase, import and export, transport, blasting operations and storage of civil explosives, and to the sale and purchase of ammonium nitrate.\nFor the purposes of these Regulations, \"civil explosives\" means the various types of gunpowder, explosives and their products, and the igniting and initiating devices such as detonators and safety fuses, that are used for non-military purposes and are included in the Catalogue of Civil Explosives.\nThe Catalogue of Civil Explosives shall be drawn up and published by the competent department in charge of the civil explosives industry of the State Council together with the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State applies a licence system to the production, sale, purchase, transport and blasting operations of civil explosives.\nWithout a licence, no unit or individual may produce, sell, purchase or transport civil explosives, or engage in blasting operations.\nIt is strictly prohibited to transfer, lend, sub-lend, mortgage, give away, privately keep or unlawfully possess civil explosives."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent department in charge of the civil explosives industry shall be responsible for the safety supervision and management of the production and sale of civil explosives.\nThe public security organ shall be responsible for the public safety management of civil explosives and for the safety supervision and management of the purchase, transport and blasting operations of civil explosives, and shall monitor the flow of civil explosives.\nThe competent departments in charge of work safety supervision, railways, communications and civil aviation shall, in accordance with the provisions of laws and administrative regulations, be responsible for the relevant safety supervision and management of civil explosives.\nThe competent department in charge of the civil explosives industry, the public security organ and the administrative department for industry and commerce shall, in accordance with the division of duties, be responsible for organising the investigation and punishment of acts of unlawfully producing, selling, purchasing, storing, transporting, mailing or using civil explosives."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The principal person in charge of a unit engaged in the production, sale, purchase or transport of civil explosives or in blasting operations (hereinafter referred to as a civil explosives unit) shall be the person responsible for the safety management of civil explosives in that unit and shall take overall responsibility for the safety management of civil explosives in that unit.\nA civil explosives unit is a key unit for public security protection work, and shall, in accordance with law, establish a public security protection body or assign public security protection personnel, install technical protection facilities, and prevent civil explosives from being lost, stolen or robbed.\nA civil explosives unit shall establish a safety management system and a post safety responsibility system, formulate safety precautions and contingency plans for accidents, and establish a safety management body or assign full-time safety management personnel."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Persons with no capacity for civil conduct, persons with limited capacity for civil conduct and persons who have previously been subjected to criminal punishment for a crime may not engage in the production, sale, purchase or transport of civil explosives or in blasting operations.\nA civil explosives unit shall strengthen safety education, legal education and on-the-job technical training for its employees; employees may take up their posts only after passing an assessment; and posts that require qualifications shall be filled by persons with the corresponding qualifications."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall establish an information management system for civil explosives, apply marking management to civil explosives and monitor their flow.\nEnterprises producing civil explosives, enterprises selling civil explosives and units carrying out blasting operations shall establish a registration system for civil explosives and truthfully enter into the computer system the information on the types, quantities and flow of the civil explosives they produce, sell, purchase, transport, store and use."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "All units and individuals shall have the right to report acts that violate the provisions on the safety management of civil explosives; the competent department and the public security organ receiving the report shall promptly investigate and punish the matter, keep the identity of the informant confidential, and reward informants who have performed meritorious service."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State encourages civil explosives units to adopt new technologies that improve the safety performance of civil explosives, and encourages the development of a business model integrating the production, distribution and blasting operations of civil explosives."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The establishment of an enterprise producing civil explosives shall follow the principles of overall planning and rational layout."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Production"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "An enterprise applying to engage in the production of civil explosives shall meet the following conditions:\n(a) it conforms to the national industrial structure plan and industrial technical standards;\n(b) the design, structure, building materials and safety distances of its workshops and special-purpose warehouses, and its safety equipment and facilities for fire prevention, explosion prevention, lightning protection and static electricity prevention, conform to the relevant national standards and norms;\n(c) its production equipment and processes conform to the relevant technical standards and procedures for work safety;\n(d) it has professional and technical personnel, work safety management personnel and production post personnel with the corresponding qualifications;\n(e) it has a sound safety management system and post safety responsibility system;\n(f) it meets other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Production"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An enterprise applying to engage in the production of civil explosives shall submit to the competent department in charge of the civil explosives industry of the State Council an application, a feasibility study report and the relevant materials capable of proving that it meets the conditions prescribed in Article 11 of these Regulations. The competent department in charge of the civil explosives industry of the State Council shall conduct an examination within 45 days from the date of acceptance of the application and, where the conditions are met, issue the Licence for the Production of Civil Explosives; where the conditions are not met, it shall not issue the Licence for the Production of Civil Explosives and shall explain the reasons to the applicant in writing.\nWhere an enterprise producing civil explosives carries out reconstruction or extension in order to adjust its production capacity and the variety of its products, it shall apply for the Licence for the Production of Civil Explosives in accordance with the provisions of the preceding paragraph.\nAn enterprise producing civil explosives shall, on the strength of the Licence for the Production of Civil Explosives, complete the industrial and commercial registration with the administrative department for industry and commerce, and shall, within three days after completing the industrial and commercial registration, file the matter for the record with the public security organ of the people's government at the county level in the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Production"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An enterprise that has obtained the Licence for the Production of Civil Explosives shall, after the completion of capital construction, apply to the competent department in charge of the civil explosives industry of the people's government of the province, autonomous region or municipality directly under the Central Government for a work safety licence. The competent department in charge of the civil explosives industry of the people's government of the province, autonomous region or municipality directly under the Central Government shall inspect it in accordance with the provisions of the Regulations on Work Safety Licences and, where the conditions are met, issue the Work Safety Licence for the Production of Civil Explosives. An enterprise producing civil explosives may produce civil explosives only after it has obtained the Work Safety Licence for the Production of Civil Explosives."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Production"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "An enterprise producing civil explosives shall strictly produce according to the variety and output approved in the Licence for the Production of Civil Explosives, and its production operations shall strictly comply with the provisions of the safety technical procedures."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Production"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "An enterprise producing civil explosives shall place warning marks and registration marks on civil explosives and shall stamp code numbers on detonators. The rules for the warning marks and registration marks on civil explosives and for the coding of detonators shall be prescribed by the public security department of the State Council together with the competent department in charge of the civil explosives industry of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Production"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "An enterprise producing civil explosives shall establish and improve a product inspection system and ensure that the quality of civil explosives conforms to the relevant standards. The packaging of civil explosives shall conform to the provisions of laws and administrative regulations and to the relevant standards."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Production"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Testing or trial production of civil explosives must be carried out in a dedicated site or a dedicated laboratory. It is strictly prohibited to test or trial-produce civil explosives in a production workshop or a warehouse."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Production"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "An enterprise applying to engage in the sale of civil explosives shall meet the following conditions:\n(a) it conforms to the planning requirements for enterprises selling civil explosives;\n(b) its sales premises and special-purpose warehouses conform to the relevant national standards and norms;\n(c) it has safety management personnel and warehouse management personnel with the corresponding qualifications;\n(d) it has a sound safety management system and post safety responsibility system;\n(e) it meets other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Sale and Purchase"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "An enterprise applying to engage in the sale of civil explosives shall submit to the competent department in charge of the civil explosives industry of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where it is located an application, a feasibility study report and the relevant materials capable of proving that it meets the conditions prescribed in Article 18 of these Regulations. The competent department in charge of the civil explosives industry of the people's government of the province, autonomous region or municipality directly under the Central Government shall conduct an examination within 30 days from the date of acceptance of the application and inspect the business facilities such as the sales premises and special-purpose warehouses of the applicant, and, where the conditions are met, issue the Licence for the Sale of Civil Explosives; where the conditions are not met, it shall not issue the Licence for the Sale of Civil Explosives and shall explain the reasons to the applicant in writing.\nAn enterprise selling civil explosives may sell civil explosives only after it has completed the industrial and commercial registration with the administrative department for industry and commerce on the strength of the Licence for the Sale of Civil Explosives.\nAn enterprise selling civil explosives shall, within three days after completing the industrial and commercial registration, file the matter for the record with the public security organ of the people's government at the county level in the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Sale and Purchase"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "An enterprise producing civil explosives may, on the strength of the Licence for the Production of Civil Explosives, sell the civil explosives it produces.\nAn enterprise producing civil explosives that sells the civil explosives it produces may not exceed the approved variety and output."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Sale and Purchase"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a unit using civil explosives applies to purchase civil explosives, it shall submit a purchase application to the public security organ of the people's government at the county level in the place where it is located, together with the following materials:\n(a) its business licence for industry and commerce or the legal person certificate of its institution;\n(b) the Licence for a Blasting Unit or other proof of lawful use;\n(c) the name, address and bank account of the purchasing unit;\n(d) a statement of the variety, quantity and purpose of the purchase.\nThe public security organ accepting the application shall, within five days from the date of acceptance, examine the relevant materials submitted and, where the conditions are met, issue the Licence for the Purchase of Civil Explosives; where the conditions are not met, it shall not issue the Licence for the Purchase of Civil Explosives and shall explain the reasons to the applicant in writing.\nThe Licence for the Purchase of Civil Explosives shall state the approved variety and quantity to be purchased, the purchasing unit and the period of validity of the licence."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Sale and Purchase"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "An enterprise producing civil explosives may, on the strength of the Licence for the Production of Civil Explosives, purchase raw materials that are civil explosives; an enterprise selling civil explosives may, on the strength of the Licence for the Sale of Civil Explosives, purchase civil explosives from an enterprise producing civil explosives; and a unit using civil explosives may, on the strength of the Licence for the Purchase of Civil Explosives, purchase civil explosives, and shall in addition provide the identity certificate of the person handling the matter.\nAn enterprise selling civil explosives shall verify the licences and the identity certificate of the person handling the matter as specified in the preceding paragraph; where the purchase is made on the strength of a Licence for the Purchase of Civil Explosives, it shall sell according to the approved variety and quantity."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Sale and Purchase"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The sale and purchase of civil explosives shall be transacted through bank accounts, and may not be transacted in cash or in kind.\nAn enterprise selling civil explosives shall keep for two years, for inspection, copies of the licence of the purchasing unit, the bank account transfer voucher and the identity certificate of the person handling the matter."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Sale and Purchase"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "An enterprise selling civil explosives shall, within three days from the date on which the sale of the civil explosives is concluded, file for the record with the competent department in charge of the civil explosives industry of the people's government of the province, autonomous region or municipality directly under the Central Government in the place where it is located and with the public security organ of the local people's government at the county level, stating the variety and quantity sold and the purchasing unit.\nA unit purchasing civil explosives shall, within three days from the date on which the sale of the civil explosives is concluded, file for the record with the public security organ of the local people's government at the county level, stating the variety and quantity purchased."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Sale and Purchase"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The import and export of civil explosives shall be subject to examination and approval by the competent department in charge of the civil explosives industry of the State Council. The measures for the examination and approval of the import and export of civil explosives shall be prescribed by the competent department in charge of the civil explosives industry of the State Council together with the public security department of the State Council and the General Administration of Customs.\nThe importing and exporting unit shall file for the record with the public security organ of the people's government at the county level in the place of destination or in the place where the port of exit is located, stating the variety and quantity of the civil explosives imported or exported."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Sale and Purchase"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "To transport civil explosives, the receiving unit shall submit an application to the public security organ of the people's government at the county level in the place of destination, together with materials containing the following:\n(a) the Licence for the Production of Civil Explosives, the Licence for the Sale of Civil Explosives, the Licence for the Purchase of Civil Explosives or the approval certificate for import or export, provided respectively by the enterprise producing civil explosives, the enterprise selling civil explosives, the unit using civil explosives and the importing or exporting unit;\n(b) the variety and quantity of the civil explosives to be transported, and the packaging materials and method of packaging;\n(c) the characteristics of the civil explosives to be transported and the emergency handling measures in the event of danger;\n(d) the time of transport, the place of departure, the transport route and the places of stop en route.\nThe public security organ accepting the application shall, within three days from the date of acceptance, examine the relevant materials submitted and, where the conditions are met, issue the Licence for the Transport of Civil Explosives; where the conditions are not met, it shall not issue the Licence for the Transport of Civil Explosives and shall explain the reasons to the applicant in writing.\nThe Licence for the Transport of Civil Explosives shall state the receiving unit, the selling enterprise, the carrier, the period of validity for a single transport, the place of departure, the transport route, the places of stop en route, and the variety and quantity of the civil explosives."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Anyone transporting civil explosives shall, on the strength of the Licence for the Transport of Civil Explosives, transport according to the approved variety and quantity."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Anyone transporting civil explosives by road shall comply with the following provisions:\n(a) to carry the Licence for the Transport of Civil Explosives;\n(b) to load the civil explosives in conformity with the relevant national standards and norms, and not to carry any person in the cargo compartment;\n(c) the safety and technical condition of the transport vehicle shall meet the requirements of the relevant national safety and technical standards, and warning signs for inflammable and explosive dangerous goods conforming to the national standards shall be hung or installed in accordance with the provisions;\n(d) the vehicle transporting civil explosives shall maintain a safe speed;\n(e) to drive along the prescribed route, and to have specially designated persons guard the vehicle at places of stop en route, keeping away from buildings and facilities and densely populated places, and not to stop at places other than those approved;\n(f) to load and unload civil explosives in accordance with the safety operating procedures, and to set up cordons at the loading and unloading site to prevent unauthorised persons from entering;\n(g) to immediately take the necessary emergency handling measures in the event of a dangerous situation and to report to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "When civil explosives reach their destination, the receiving unit shall, after acceptance, endorse the Licence for the Transport of Civil Explosives and, within three days, return the Licence for the Transport of Civil Explosives to the issuing authority for cancellation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "It is prohibited to carry civil explosives on public transport or to take civil explosives into public places.\nIt is prohibited to mail civil explosives, and it is prohibited to include civil explosives in consigned goods, luggage, parcels or mail."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Transport"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A unit applying to engage in blasting operations shall meet the following conditions:\n(a) the blasting operations are part of lawful production activities;\n(b) it has a special-purpose warehouse for civil explosives conforming to the relevant national standards and norms;\n(c) it has safety management personnel and warehouse management personnel with the corresponding qualifications, and blasting personnel with the practising qualifications prescribed by the State;\n(d) it has a sound safety management system and post safety responsibility system;\n(e) it has special-purpose equipment for blasting operations conforming to national and industry standards;\n(f) it meets other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A unit applying to engage in blasting operations shall, in accordance with the provisions of the public security department of the State Council, submit an application to the public security organ of the relevant people's government and provide the relevant materials capable of proving that it meets the conditions prescribed in Article 31 of these Regulations. The public security organ accepting the application shall conduct an examination within 20 days from the date of acceptance and, where the conditions are met, issue the Licence for a Blasting Unit; where the conditions are not met, it shall not issue the Licence for a Blasting Unit and shall explain the reasons to the applicant in writing.\nA commercial blasting unit may engage in commercial blasting operations only after it has completed the industrial and commercial registration with the administrative department for industry and commerce on the strength of the Licence for a Blasting Unit.\nA blasting unit shall, within three days after completing the industrial and commercial registration, file the matter for the record with the public security organ of the people's government at the county level in the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A blasting unit shall provide professional and technical training for its blasting personnel, safety management personnel and warehouse management personnel. Blasting personnel may engage in blasting operations only after they have passed the assessment of the public security organ of the people's government of the city divided into districts and obtained the Licence for Blasting Personnel."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A blasting unit shall undertake blasting projects in accordance with its grade of qualification, and blasting personnel shall engage in blasting operations in accordance with their grade of qualification. The measures for the graded administration of blasting operations shall be prescribed by the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Anyone carrying out blasting operations in a city, a scenic or historic site or near important engineering facilities shall submit an application to the public security organ of the people's government of the city divided into districts in the place where the blasting operations are carried out, together with the Licence for a Blasting Unit and an assessment report on the blasting design and construction plan issued by a safety assessment enterprise with the corresponding qualification. The public security organ accepting the application shall, within 20 days from the date of acceptance, examine the relevant materials submitted and, where the conditions are met, make a decision to approve; where the conditions are not met, it shall make a decision not to approve and shall explain the reasons to the applicant in writing.\nBlasting operations specified in the preceding paragraph shall be supervised by a safety supervision enterprise with the corresponding qualification, and the public security organ of the people's government at the county level in the place where the blasting operations are carried out shall be responsible for organising the implementation of safety cordons."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a blasting unit carries out blasting operations across the administrative areas of provinces, autonomous regions or municipalities directly under the Central Government, it shall, in advance, report the relevant particulars of the blasting project to the public security organ of the people's government at the county level in the place where the blasting operations are carried out."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A blasting unit shall truthfully record the variety, quantity and serial numbers of the civil explosives collected and issued and the names of the persons collecting and issuing them. The quantity of civil explosives collected may not exceed the quantity needed for the shift, and the civil explosives remaining after the operations must be returned to the warehouse in the same shift.\nA blasting unit shall keep the original records of the collection and issuance of civil explosives for two years for inspection."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "In carrying out blasting operations, the relevant national standards and norms shall be complied with, warning signs shall be set up beyond the safety distance and cordon personnel shall be assigned to prevent unauthorised persons from entering; and after the completion of the blasting operations, the unexploded civil explosives shall be promptly checked for and removed."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "When a blasting unit ceases to use civil explosives, it shall register the remaining civil explosives in a catalogue and report to the public security organ of the people's government at the county level in the place where it is located, which shall organise supervision over their destruction.\nAnyone who discovers or picks up ownerless civil explosives shall immediately report to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Blasting Operations"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Civil explosives shall be stored in special-purpose warehouses, and technical protection facilities shall be installed in accordance with the provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Storage"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The storage of civil explosives shall comply with the following provisions:\n(a) to establish a system of inspection and registration on entry into and exit from the warehouse; the receipt and issuance of civil explosives must be registered, so that the accounts are clear and the accounts agree with the goods;\n(b) the quantity of civil explosives stored may not exceed the designed storage capacity; civil explosives of mutually incompatible properties must be stored in separate warehouses; and it is strictly prohibited to keep other articles in the warehouse;\n(c) special-purpose warehouses shall be managed and guarded by specially designated persons; it is strictly prohibited for unauthorised persons to enter the warehouse area, to smoke or use fire in the warehouse area, to bring other articles liable to cause combustion or explosion into the warehouse area, or to lodge or carry out other activities in the warehouse;\n(d) in the event of the loss, theft or robbery of civil explosives, an immediate report shall be made to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Storage"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where civil explosives are temporarily kept at the site of blasting operations, the conditions for the temporary keeping of civil explosives shall be met and specially designated persons shall be assigned to manage and guard them; civil explosives may not be kept at places that do not have the conditions for safe keeping."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Storage"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where civil explosives have deteriorated or have expired and become ineffective, they shall be promptly removed from the warehouse and destroyed. Before destruction, they shall be registered in a catalogue, an implementation plan for destruction shall be put forward, and the matter shall be reported to the competent department in charge of the civil explosives industry of the people's government of the province, autonomous region or municipality directly under the Central Government and to the public security organ of the local people's government at the county level, which shall organise supervision over the destruction."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Storage"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Anyone who unlawfully manufactures, buys, sells, transports or stores civil explosives, if a crime is constituted, shall be investigated for criminal liability in accordance with law; if a crime is not constituted but an act violating the administration of public security is committed, a penalty for the administration of public security shall be imposed in accordance with law.\nAnyone who, in violation of the provisions of these Regulations, causes a major accident in the production, storage, transport or use of civil explosives, resulting in serious consequences or especially serious consequences and constituting a crime, shall be investigated for criminal liability in accordance with law.\nAnyone who, in violation of the provisions of these Regulations, produces or sells civil explosives without a licence shall be ordered by the competent department in charge of the civil explosives industry to cease the unlawful production or sale, be fined not less than RMB 100,000 but not more than RMB 500,000, and the civil explosives unlawfully produced or sold and the illegal gains therefrom shall be confiscated.\nAnyone who, in violation of the provisions of these Regulations, purchases or transports civil explosives or engages in blasting operations without a licence shall be ordered by the public security organ to cease the unlawful purchase, transport or blasting operations, be fined not less than RMB 50,000 but not more than RMB 200,000, and the civil explosives unlawfully purchased or transported or used in the blasting operations and the illegal gains therefrom shall be confiscated.\nThe competent department in charge of the civil explosives industry and the public security organ shall organise the destruction of the unlawful civil explosives confiscated."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an enterprise producing or selling civil explosives, in violation of the provisions of these Regulations, commits any of the following acts, the competent department in charge of the civil explosives industry shall order it to make correction within a specified time limit and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where it fails to make correction within the time limit, it shall be ordered to suspend production or business for rectification; and where the circumstances are serious, the Licence for the Production of Civil Explosives or the Licence for the Sale of Civil Explosives shall be revoked:\n(a) producing or selling beyond the variety and output approved by the production licence;\n(b) conducting production operations in violation of the safety technical procedures;\n(c) the quality of the civil explosives failing to conform to the relevant standards;\n(d) the packaging of the civil explosives failing to conform to the provisions of laws and administrative regulations and to the relevant standards;\n(e) selling civil explosives beyond the variety and quantity approved by the purchase licence;\n(f) selling civil explosives to a unit that does not have the Licence for the Production of Civil Explosives, the Licence for the Sale of Civil Explosives or the Licence for the Purchase of Civil Explosives;\n(g) an enterprise producing civil explosives failing, in selling the civil explosives it produces, to file for the record with the competent department in charge of the civil explosives industry in accordance with the provisions;\n(h) importing or exporting civil explosives without examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where any of the following circumstances in violation of the provisions of these Regulations exists, the public security organ shall order correction within a specified time limit and impose a fine of not less than RMB 50,000 but not more than RMB 200,000; where correction is not made within the time limit, it shall order suspension of production or business for rectification:\n(a) failing to place warning marks or registration marks on civil explosives, or failing to stamp code numbers on detonators, in accordance with the provisions;\n(b) purchasing civil explosives beyond the variety and quantity approved by the purchase licence;\n(c) transacting civil explosives in cash or in kind;\n(d) failing to keep, in accordance with the provisions, copies of the licence of the purchasing unit, the bank account transfer voucher and the identity certificate of the person handling the matter;\n(e) failing to file for the record with the public security organ in accordance with the provisions when selling, purchasing, importing or exporting civil explosives;\n(f) failing to establish a registration system for civil explosives in accordance with the provisions and to truthfully enter into the computer system the information on the types, quantities and flow of the civil explosives produced, sold, purchased, transported, stored and used by the unit;\n(g) failing to return the Licence for the Transport of Civil Explosives to the issuing authority for cancellation in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where any of the following circumstances in the transport of civil explosives by road in violation of the provisions of these Regulations exists, the public security organ shall order correction and impose a fine of not less than RMB 50,000 but not more than RMB 200,000:\n(a) violating the particulars of the transport licence;\n(b) failing to carry the Licence for the Transport of Civil Explosives;\n(c) loading civil explosives together with other goods in violation of the relevant standards and norms;\n(d) failing to hang or install warning signs for inflammable and explosive dangerous goods conforming to the national standards on the transport vehicle in accordance with the provisions;\n(e) failing to drive along the prescribed route, or failing to have specially designated persons guard the vehicle at places of stop en route, or stopping at places other than those approved;\n(f) carrying persons in the cargo compartment loaded with civil explosives;\n(g) failing to immediately take the necessary emergency handling measures and report to the local public security organ in the event of a dangerous situation."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a unit engaging in blasting operations, in violation of the provisions of these Regulations, commits any of the following acts, the public security organ shall order it to cease the unlawful act or to make correction within a specified time limit and impose a fine of not less than RMB 100,000 but not more than RMB 500,000; where it fails to make correction within the time limit, it shall be ordered to suspend production or business for rectification; and where the circumstances are serious, the Licence for a Blasting Unit shall be revoked:\n(a) a blasting unit engaging in blasting operations not in accordance with its grade of qualification;\n(b) a commercial blasting unit carrying out blasting operations across the administrative areas of provinces, autonomous regions or municipalities directly under the Central Government without, in accordance with the provisions, reporting in advance to the public security organ of the people's government at the county level in the place where the blasting operations are carried out;\n(c) a blasting unit failing to establish a registration system for the collection of civil explosives or to keep records of collection and issuance in accordance with the provisions;\n(d) carrying out blasting operations in violation of the relevant national standards and norms.\nWhere blasting personnel carry out blasting operations in violation of the provisions of the relevant national standards and norms, the public security organ shall order correction within a specified time limit and, where the circumstances are serious, revoke the Licence for Blasting Personnel."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where any of the following circumstances in violation of the provisions of these Regulations exists, the competent department in charge of the civil explosives industry and the public security organ shall, in accordance with their duties, order correction within a specified time limit and may concurrently impose a fine of not less than RMB 50,000 but not more than RMB 200,000; where correction is not made within the time limit, they shall order suspension of production or business for rectification; and where the circumstances are serious, they shall revoke the licence:\n(a) failing to install technical protection facilities in a special-purpose warehouse in accordance with the provisions;\n(b) failing to establish a system of inspection and registration on entry into and exit from the warehouse in accordance with the provisions, or, in receiving and issuing civil explosives, causing the accounts to disagree with the goods;\n(c) storing civil explosives in excess of the quantity, storing them in a warehouse that is not a special-purpose warehouse, or storing them in violation of the storage standards and norms;\n(d) committing other acts in violation of the provisions on the administration of the storage of civil explosives as prescribed by these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a civil explosives unit, in violation of the provisions of these Regulations, falls under any of the following circumstances, the public security organ shall impose a fine of not less than RMB 20,000 but not more than RMB 100,000; where the circumstances are serious, it shall revoke its licence; and where an act violating the administration of public security is committed, a penalty for the administration of public security shall be imposed in accordance with law:\n(a) violating the safety management system, resulting in the loss, theft or robbery of civil explosives;\n(b) failing to report to the local public security organ in accordance with the provisions, or deliberately concealing, the loss, theft or robbery of civil explosives;\n(c) transferring, lending, sub-lending, mortgaging or giving away civil explosives."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Anyone who, in violation of the provisions of these Regulations, carries civil explosives on public transport or takes them into a public place, or mails civil explosives or includes them in consigned goods, luggage, parcels or mail, if a crime is constituted, shall be investigated for criminal liability in accordance with law; if a crime is not constituted, the public security organ shall impose a penalty for the administration of public security in accordance with law, confiscate the unlawful civil explosives and impose a fine of not less than RMB 1,000 but not more than RMB 10,000."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where the principal person in charge of a civil explosives unit fails to perform the safety management responsibilities prescribed by these Regulations and thereby causes a major accident involving casualties or other serious consequences, if a crime is constituted, criminal liability shall be investigated in accordance with law; if a crime is not constituted, the principal person in charge shall be given a sanction of removal from office, and a fine of not less than RMB 20,000 but not more than RMB 200,000 shall be imposed on the investor in an individually operated business."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a staff member of the competent department in charge of the civil explosives industry, of the public security organ or of the administrative department for industry and commerce abuses his power, neglects his duty or practises favouritism and irregularities in the safety supervision and management of civil explosives, if a crime is constituted, criminal liability shall be investigated in accordance with law; if a crime is not constituted, an administrative sanction shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The format of the Licence for the Production of Civil Explosives and the Licence for the Sale of Civil Explosives shall be prescribed by the competent department in charge of the civil explosives industry of the State Council; the format of the Licence for the Purchase of Civil Explosives, the Licence for the Transport of Civil Explosives, the Licence for a Blasting Unit and the Licence for Blasting Personnel shall be prescribed by the public security department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "These Regulations shall come into force on 1 September 2006. The Regulations of the People's Republic of China on the Administration of Civil Explosives promulgated by the State Council on 6 January 1984 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0246'] = {
     "lawId": "CN-REG-0246",
     "sourceLang": "zh",
@@ -18377,6 +21629,630 @@
     ]
   };
 
+  TR['CN-REG-0250'] = {
+    "lawId": "CN-REG-0250",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 53 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the National Defence Law of the People's Republic of China and other relevant laws in order to safeguard national sovereignty, unity, territorial integrity and security and to ensure the effective organisation and implementation of national defence mobilisation of civil transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "National defence mobilisation of civil transport capacity includes mobilisation preparation and mobilisation implementation.\nIn wartime and under special peacetime circumstances, the State has the right, in accordance with law and in light of the needs of national defence mobilisation, to organise and deploy in a unified manner the civil means of transport and the related equipment, facilities and personnel owned or managed by state organs, social organisations, enterprises, public institutions and individual citizens (hereinafter referred to as units and individuals).\nThe State conducts peacetime preparation for national defence mobilisation of civil transport capacity, enhances mobilisation potential and guarantees the needs of implementing national defence mobilisation of civil transport capacity in wartime and under special peacetime circumstances."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "All units and individuals that own or manage civil transport capacity shall perform the obligation of national defence mobilisation of civil transport capacity in accordance with law.\nThose who suffer direct property losses or casualties in performing the obligation of national defence mobilisation of civil transport capacity shall, in accordance with law, be entitled to compensation and pensions."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State national defence mobilisation organ shall, under the leadership of the State Council and the Central Military Commission, be responsible for organising and leading the national defence mobilisation of civil transport capacity throughout the country.\nThe national defence mobilisation organs of military area commands shall be responsible for organising and leading the national defence mobilisation of civil transport capacity in their respective regions.\nThe national defence mobilisation organs of local authorities at or above the county level shall be responsible for organising and leading the national defence mobilisation of civil transport capacity in their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent national defence transportation authority of the State shall be responsible for the specific implementation of the national defence mobilisation of civil transport capacity throughout the country.\nThe competent national defence transportation authorities of military area commands shall be responsible for the specific implementation of the national defence mobilisation of civil transport capacity in their respective regions.\nThe competent national defence transportation authorities of local people's governments at or above the county level shall be responsible for the specific implementation of the national defence mobilisation of civil transport capacity in their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The national economic mobilisation organs, the people's armed forces mobilisation organs at various levels, the transport administration departments of people's governments at or above the county level and other relevant departments shall, within the scope of their respective duties, be responsible for the work relating to the national defence mobilisation of civil transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at or above the county level shall take effective measures to strengthen preparation for the national defence mobilisation of civil transport capacity, incorporate such preparation into the plans for national economic and social development, enhance mobilisation potential, and support and urge their relevant departments to perform their duties in accordance with law and to implement all aspects of the national defence mobilisation of civil transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State supports and encourages units and individuals to build, purchase and operate civil means of transport and related equipment suited to both peacetime and wartime needs, and provides support in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where units and individuals make outstanding contributions in the work of national defence mobilisation of civil transport capacity and fall within any of the following circumstances, commendation and reward shall be given in accordance with the relevant provisions of the State and of local authorities:\n(1) providing important or urgently needed civil transport capacity that plays a clear role in supporting military operations;\n(2) organising and carrying out activities for the national defence mobilisation of civil transport capacity with outstanding results;\n(3) resolutely executing orders for the national defence mobilisation of civil transport capacity and completing tasks outstandingly despite difficulties;\n(4) having the courage to combat acts that interfere with or disrupt the national defence mobilisation of civil transport capacity and thereby averting major losses;\n(5) making major inventions or innovations in incorporating national defence requirements into civil means of transport and related equipment or in retrofitting and modifying them, with notable military or economic benefits."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent national defence transportation authority of the State shall, together with the national economic mobilisation organ of the State, the transport administration departments under the State Council and other relevant departments and the relevant departments of the armed forces, and in light of the design and construction of civil means of transport and related equipment, draw up an overall plan for incorporating national defence requirements into newly built civil means of transport and related equipment in accordance with the principle of highlighting priorities and stressing practical results, and submit it to the State national defence mobilisation organ for approval.\nThe national economic mobilisation organ of the State shall, on the basis of the approved overall plan, draw up specific implementation plans for incorporating national defence requirements into newly built civil means of transport and related equipment and organise their implementation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The transport administration departments under the State Council and other relevant departments and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall strengthen management and guidance of the work of incorporating national defence requirements into the design and construction of civil means of transport and related equipment in their respective sectors and administrative areas, provide policy and technical support to the units and individuals undertaking design and construction tasks, and ensure the implementation of the relevant national defence requirements."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Units and individuals that design and build civil means of transport and related equipment listed in the specific implementation plans for incorporating national defence requirements must design and build strictly in accordance with the design standards and technical specifications for incorporating national defence requirements.\nUnits and individuals that fund the construction of civil means of transport and related equipment may not obstruct the design and construction activities carried out by the designing and building units and individuals for the purpose of incorporating national defence requirements.\nExpenses incurred in the design and construction of civil means of transport and related equipment for incorporating national defence requirements shall be appropriately subsidised by the central finance and by the finances of local authorities at or above the county level. The specific measures shall be formulated by the competent national defence transportation authority of the State together with the finance department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "When civil means of transport and related equipment that incorporate national defence requirements are subject to completion acceptance, the organ that assigned the task and the competent national defence transportation authority concerned shall participate in the acceptance and sign their opinions; they may be delivered for use only after passing acceptance and being registered with the competent national defence transportation authority at the place where they are located."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The transport administration departments, public security traffic administration departments and other relevant departments of people's governments at or above the county level shall, in conjunction with the annual statistics, registration and verification (examination) of means of transport of their respective departments and in accordance with the requirements for registration in preparation for the national defence mobilisation of civil transport capacity, submit the relevant data and information on the registration of civil transport capacity for the preceding year to the competent national defence transportation authority at the corresponding level before 31 January each year.\nWhere the submitted data and information on civil transport capacity do not meet the prescribed requirements, the competent national defence transportation authority may require the departments listed in the preceding paragraph to submit them again in accordance with the prescribed requirements, and the departments concerned may not refuse."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Competent national defence transportation authorities at various levels shall classify and sort out data and information on civil transport capacity, register them in books, keep them properly and update them in a timely manner. Lower-level competent national defence transportation authorities shall, in accordance with the requirements for the national defence mobilisation of civil transport capacity, report the civil transport capacity in their areas to the competent national defence transportation authority at the next higher level, and shall, as needed, promptly notify the relevant units of the armed forces of the civil transport capacity in their areas.\nCompetent national defence transportation authorities and the relevant units of the armed forces that receive such notifications shall be obliged to keep confidential the data and information on civil transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The armed forces, the People's Armed Police Force and militia organisations shall, in light of the tasks they undertake, assess and calculate the demand for national defence mobilisation of civil transport capacity and, in accordance with the prescribed procedures, report to the competent national defence transportation authority concerned such information as the types, quantities and technical requirements of the civil means of transport and related equipment needed."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Competent national defence transportation authorities shall, in light of the situation of civil transport capacity and the demand raised by user units, organise the drawing up of plans for the national defence mobilisation of civil transport capacity.\nThe national plan for the national defence mobilisation of civil transport capacity shall be drawn up by the competent national defence transportation authority of the State together with the relevant departments under the State Council and the relevant departments of the armed forces, and submitted to the State national defence mobilisation organ for approval.\nThe plan of a military area command for the national defence mobilisation of civil transport capacity shall be drawn up by the competent national defence transportation authority of the military area command on the basis of the national plan, together with the relevant departments of the military area command and the relevant departments of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government in the region, and shall be submitted to the national defence mobilisation organ of the military area command for approval and to the competent national defence transportation authority of the State for the record.\nThe plan of a province, autonomous region or municipality directly under the Central Government for the national defence mobilisation of civil transport capacity shall be drawn up by the competent national defence transportation authority of the people's government of that province, autonomous region or municipality directly under the Central Government on the basis of the plan of the military area command, together with the relevant departments of the people's government at the corresponding level and the military organ at the corresponding level, and shall be submitted to the national defence mobilisation organ at the corresponding level for approval and to the competent national defence transportation authority of the military area command for the record."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the navy, the air force and the Second Artillery Force (hereinafter referred to as the services and arms) need to formulate separate plans for the national defence mobilisation of civil transport capacity in light of the special tasks they undertake, such plans shall, after the consent of the competent national defence transportation authority of the State, be drawn up by the national defence transportation authorities of the services and arms together with the competent national defence transportation authorities of the relevant military area commands and of the people's governments of the relevant provinces, autonomous regions and municipalities directly under the Central Government and other relevant departments, and shall, after examination and consent by the services and arms to which they belong, be submitted to the State national defence mobilisation organ for approval."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Plans for the national defence mobilisation of civil transport capacity shall clearly define the tasks, procedures, requirements and support measures of mobilisation, be easy to operate and implement, and be capable of meeting the needs of military operations."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Adjustments to plans for the national defence mobilisation of civil transport capacity shall be handled in accordance with the original procedures for drawing them up and the limits of approval authority."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Competent national defence transportation authorities shall, together with the people's armed forces mobilisation organs and on the basis of the plans for the national defence mobilisation of civil transport capacity, organise and guide the relevant departments in determining civil transport capacity to be pre-requisitioned, and shall notify the units and individuals concerned of the types and quantities of the civil means of transport and related equipment to be pre-requisitioned, the technical standards and the requirements for operating and support personnel.\nUnits and individuals that receive such notification shall, in accordance with the requirements, make preparations for the organisation and technical support of the pre-requisitioned civil transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the pre-requisitioned civil means of transport and related equipment require demonstration and testing for retrofitting and modification, the competent national defence transportation authority shall, together with the national economic mobilisation organ at the corresponding level and on the basis of the plans for the national defence mobilisation of civil transport capacity, formulate implementation plans and organise their implementation. The implementation plans for major demonstration topics and test projects shall be submitted to the State national defence mobilisation organ for approval; where the installation of weapons and equipment is involved, the relevant provisions on the retrofitting and modification of weapons and equipment shall apply."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Units undertaking demonstration topics and test projects for the retrofitting and modification of civil means of transport and related equipment shall complete the demonstration and testing tasks within the prescribed time and in accordance with the requirements, and shall submit the conclusions of the demonstration and the data on the test results to the competent national defence transportation authority and the national economic mobilisation organ.\nUnits and individuals that own or manage pre-requisitioned civil means of transport and related equipment requiring retrofitting and modification shall provide the units undertaking the demonstration topics and test projects with the original data and information on the civil means of transport and related equipment, and shall facilitate the smooth implementation of such topics and projects."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The national economic mobilisation organs and the competent national defence transportation authorities shall, in light of the requirements of retrofitting and modification tasks, guide and assist the units concerned in establishing and improving reserve systems for the technologies, materials and related equipment used in retrofitting and modification."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The people's armed forces mobilisation organs shall, together with the competent national defence transportation authorities and the departments of the armed forces responsible for military transportation, and in light of the requirements for preparation for the national defence mobilisation of civil transport capacity, organise the necessary military training and professional technical training for pre-requisitioned civil transport capacity in conjunction with the transport and production tasks undertaken by such capacity.\nFor personnel participating in training for pre-requisitioned civil transport capacity, the allowance for lost working time during training, or their wages, bonuses and welfare benefits in their original units, as well as food subsidies and round-trip travel expenses, shall be handled in accordance with the provisions of the State on militia participation in military training where the trainees are incorporated into militia organisations, and with reference to those provisions where the trainees are not incorporated into militia organisations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Competent national defence transportation authorities shall, together with the transport administration departments of the people's governments at the corresponding level and other relevant departments, strengthen the dynamic management of pre-requisitioned civil transport capacity, establish corresponding management systems and adopt advanced scientific and technological means to collect and keep abreast of dynamic information on pre-requisitioned civil transport capacity.\nUnits and individuals that own or manage pre-requisitioned civil transport capacity shall, in accordance with the provisions, promptly report to the competent national defence transportation authority changes in the pre-requisitioned civil transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Civil transport capacity may be requisitioned for military training and exercises approved by units at or above the level of a military area command.\nWhere civil transport capacity needs to be requisitioned for military training or exercises, the matter shall be reported for approval by a unit at or above the level of a military area command in accordance with the procedures prescribed by the Central Military Commission, and shall then be organised and implemented by the competent national defence transportation authority on the basis of the plans for the national defence mobilisation of civil transport capacity.\nCompensation for civil transport capacity requisitioned for military training and exercises shall be priced and settled on a rental basis. The specific measures shall be formulated by the finance department under the State Council together with the relevant departments under the State Council and the relevant departments of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Preparation for the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The national defence mobilisation of civil transport capacity in wartime shall be implemented on the basis of a mobilisation order issued by the President of the State.\nThe national defence mobilisation of civil transport capacity under special peacetime circumstances shall be implemented on the basis of a decision on the national defence mobilisation of civil transport capacity issued by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Competent national defence transportation authorities shall, in light of the tasks for the national defence mobilisation of civil transport capacity assigned by higher authorities and the applications submitted by user units, and in accordance with the requirements of rapid mobilisation, promptly activate and implement the plans for the national defence mobilisation of civil transport capacity.\nWhere the plans need to be adjusted in the course of implementing them, the matter shall be handled in accordance with the prescribed procedures and limits of authority."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Competent national defence transportation authorities shall, together with the people's armed forces mobilisation organs and in accordance with the requirements for the national defence mobilisation of civil transport capacity assigned by higher authorities, notify the units and individuals whose civil transport capacity is requisitioned, specifying the types and quantities of the requisitioned civil means of transport and related equipment, the operating and support personnel, and the time, place and manner of assembly of the civil transport capacity.\nUnits and individuals whose civil transport capacity is requisitioned must, in accordance with the notification requirements, organise the requisitioned civil transport capacity to arrive at the assembly point within the prescribed time limit and ensure that the technical condition of the requisitioned civil means of transport and related equipment and the skills of the operating and support personnel meet the requirements of military operations."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The people's armed forces mobilisation organ at the place of assembly of the requisitioned civil transport capacity shall, together with the competent national defence transportation authority and the relevant departments, form a lean command structure to register and organise the assembled civil transport capacity into units, verify its readiness, organise the necessary emergency training and ensure its delivery to the user unit on time; where the requisitioned civil transport capacity cannot be assembled in time, the people's armed forces mobilisation organ may agree with the user unit on the time and place of reporting and shall immediately notify the units and individuals whose civil transport capacity is requisitioned. Handover procedures shall be completed when the requisitioned civil transport capacity is delivered to the user unit.\nAfter the requisitioned civil transport capacity is handed over, the user unit shall be responsible for the security protection, logistical support and equipment maintenance of the civil means of transport and related equipment concerned, and the people's government at the place where the tasks are carried out shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the requisitioned civil means of transport and related equipment require retrofitting and modification, the national economic mobilisation organ shall, together with the competent national defence transportation authority and the user unit, organise their implementation in accordance with the retrofitting and modification plans determined by the plans for the national defence mobilisation of civil transport capacity.\nUnits and individuals undertaking the retrofitting and modification of civil means of transport and related equipment shall carry out the retrofitting and modification strictly in accordance with the national safety technical standards and national defence requirements and ensure delivery for use on schedule."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "In the course of implementing the national defence mobilisation of civil transport capacity, where the circumstances are urgent and there is no time to report, the user unit may, in accordance with the plans for the national defence mobilisation of civil transport capacity, directly requisition the needed civil transport capacity locally, but must at the same time make a supplementary report in accordance with the prescribed procedures."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In the course of implementing the national defence mobilisation of civil transport capacity, where ports, wharves, airports, stations and other facilities need to be used, the competent national defence transportation authority shall put forward the requirements for their use to the relevant departments or units in advance, and the departments and units concerned shall cooperate and give support."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Units using civil transport capacity shall do their utmost to ensure the safety of personnel and shall avoid, as far as possible, damage to civil means of transport, related equipment and facilities."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where the State Council and the Central Military Commission decide, in light of the urgent needs of the national defence mobilisation of civil transport capacity, to impose control over the civil transport capacity of a particular sector or region, the units and individuals subject to such control must obey the unified command of the control command organ and ensure that the civil means of transport, related equipment and facilities and support systems they own or manage are in good condition."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Implementation of the National Defence Mobilisation of Civil Transport Capacity"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After the tasks of the national defence mobilisation of civil transport capacity are completed, the units using civil transport capacity shall gather the civil transport capacity, verify the quantity of mobilised civil transport capacity, compile statistics on the losses and damage to civil means of transport, related equipment and facilities and on the casualties among operating and support personnel, complete the handover procedures in accordance with the relevant provisions, and issue certificates on the use and damage of civil transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Compensation and Pensions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where retrofitted and modified civil means of transport and related equipment need to and can have their original functions restored, the national economic mobilisation organ shall, before handover, together with the competent national defence transportation authority and the user unit, organise the implementation of restoration. Upon completion of restoration and passage of the corresponding inspection, the equipment shall be handed over promptly.\nWhere retrofitted and modified civil means of transport and related equipment are not affected in their original functions, restoration may be dispensed with. The competent national defence transportation authority shall register them in books and list them as reserves for the national defence mobilisation of civil transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Compensation and Pensions"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where units and individuals that own or manage civil transport capacity suffer the following direct property losses in performing the obligation of national defence mobilisation of civil transport capacity, appropriate compensation shall be given by the central finance and by the finances of local authorities at or above the county level:\n(1) loss, damage or depreciation of civil means of transport and related equipment and of facilities such as ports, wharves, airports and stations;\n(2) wages or allowances of the operating and support personnel of civil means of transport and related equipment and of facilities such as ports, wharves, airports and stations;\n(3) other direct property losses for which reasonable compensation should be given.\nThe specific measures for compensation shall be formulated by the finance department under the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Compensation and Pensions"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Units and individuals that own or manage civil transport capacity shall, on the strength of the certificates of use and damage issued by the user unit, file a claim with the local competent national defence transportation authority; after the competent national defence transportation authority has verified that the circumstances are true and the matter has been reported to the people's government concerned for approval, the local competent national defence transportation authority shall be responsible for implementing compensation within the prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Compensation and Pensions"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where units and individuals that own or manage civil transport capacity suffer casualties in performing the obligation of national defence mobilisation of civil transport capacity, the measures and standards for their pensions and preferential treatment shall be implemented by the departments of veterans affairs of local people's governments at or above the county level in accordance with the provisions of the Regulations on Pensions and Preferential Treatment for Servicemembers."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Compensation and Pensions"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The expenses needed for the national defence mobilisation of civil transport capacity shall be borne jointly by the central finance and by the finances of local authorities at or above the county level.\nThe expenses borne by the central finance shall be included in the central budget; the expenses borne by the finances of local authorities at or above the county level shall be included in the budgets of the corresponding governments."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Funding Guarantee"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The expenses needed for preparation for the national defence mobilisation of civil transport capacity shall be budgeted by the competent national defence transportation authorities of the State and of local people's governments at or above the county level on the basis of the tasks for the national defence mobilisation of civil transport capacity in the current year, and shall be submitted to the people's governments at the corresponding level for approval."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Funding Guarantee"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The expenses needed for implementing the national defence mobilisation of civil transport capacity shall be handled in accordance with the measures of the State for guaranteeing funds for national defence mobilisation in wartime and under special peacetime circumstances."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Funding Guarantee"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Funds for the national defence mobilisation of civil transport capacity shall be used for designated purposes only and shall be subject to the supervision of the finance and audit authorities."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Funding Guarantee"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit or individual whose civil transport capacity is pre-requisitioned evades or refuses to perform the obligation of national defence mobilisation of civil transport capacity, the competent national defence transportation authority of the people's government of a city divided into districts shall order it to make corrections; where it refuses to make corrections, its obligation shall be enforced, and a fine of not less than RMB 20,000 but not more than RMB 100,000 may be imposed on the unit, or a fine of not less than RMB 2,000 but not more than RMB 10,000 on the individual; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit or individual whose civil transport capacity is requisitioned fails to assemble the requisitioned civil transport capacity at the prescribed time, place and in accordance with the requirements, the competent national defence transportation authority of the people's government of a city divided into districts shall order it to make corrections; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit or individual undertaking design, construction or retrofitting and modification tasks fails to design, build, retrofit or modify civil means of transport and related equipment in accordance with national defence requirements, or where a unit or individual funding the construction of civil means of transport and related equipment obstructs the design, construction or retrofitting and modification concerned, the competent national defence transportation authority of the people's government of a city divided into districts shall order it to make corrections; where it refuses to make corrections, its obligation shall be enforced, and a fine of not less than RMB 50,000 but not more than RMB 200,000 may be imposed on the unit, or a fine of not less than RMB 5,000 but not more than RMB 50,000 on the individual; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Whoever damages pre-requisitioned civil means of transport and related equipment, or obstructs or interferes with activities for the national defence mobilisation of civil transport capacity by other means, causing losses or adverse effects, shall be punished by the public security organ in accordance with the Public Security Administration Punishments Law of the People's Republic of China; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the transport administration department, the public security traffic administration department or another relevant department of a people's government at or above the county level refuses to submit, or delays in submitting, to the competent national defence transportation authority the relevant data and information on the registration of civil transport capacity for the preceding year, the people's government at the corresponding level shall order it to submit them within a prescribed time limit; where it fails to submit them within the time limit, the competent authority concerned shall impose administrative sanctions of recording a demerit, recording a serious demerit or demotion in accordance with law on the persons in charge bearing direct responsibility and other persons directly responsible."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a competent national defence transportation authority, a national economic mobilisation organ, a people's armed forces mobilisation organ or a unit using civil transport capacity falls within any of the following circumstances, the competent authority concerned shall impose administrative sanctions of recording a serious demerit, demotion or removal from office in accordance with law on the persons in charge bearing direct responsibility and other persons directly responsible, or impose disciplinary sanctions in accordance with the relevant provisions of the Disciplinary Regulations of the Chinese People's Liberation Army; if a crime is constituted, criminal liability shall be investigated in accordance with law:\n(1) divulging the data and information on civil transport capacity collected or kept;\n(2) acting beyond the limits of authority and mobilising civil transport capacity without authorisation;\n(3) poor management of the requisitioned civil transport capacity resulting in serious losses;\n(4) failing to issue certificates on the use and damage of civil transport capacity and refusing to make corrections after being instructed to do so by the competent authority concerned;\n(5) violating the provisions on the use of funds for designated purposes by using funds for the national defence mobilisation of civil transport capacity without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Special peacetime circumstances mean armed conflicts and other unexpected incidents that endanger national sovereignty, unity, territorial integrity and security."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2004."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0251'] = {
     "lawId": "CN-REG-0251",
     "sourceLang": "zh",
@@ -18603,6 +22479,675 @@
         },
         "noLabel": {
           "en": "Article 24."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0252'] = {
+    "lawId": "CN-REG-0252",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 56 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the management of water supply and use in the South-to-North Water Diversion Project and giving full play to its economic, social and ecological benefits."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the management of water supply and use in the East Route Project and the Middle Route Project of the South-to-North Water Diversion Project."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The management of water supply and use in the South-to-North Water Diversion Project shall follow the principles of conserving water before diverting it, controlling pollution before conveying water, and protecting the environment before using water, and shall adhere to whole-process management, overall coordination, clearly defined powers and responsibilities and strict protection, so as to ensure rational regulation, acceptable water quality, economical water use and the safety of facilities."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent water administrative department of the State Council shall be responsible for the water quantity regulation and operation management of the South-to-North Water Diversion Project; the competent environmental protection department of the State Council shall be responsible for the prevention and control of water pollution in the Project; and other relevant departments of the State Council shall, within the scope of their respective duties, be responsible for the work relating to the water supply and use of the Project."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The local people's governments at or above the county level in the water source areas, the areas along the diversion routes and the water-receiving areas of the South-to-North Water Diversion Project shall be responsible for the work relating to the water supply and use of the Project within their own administrative areas, and shall incorporate the water quality safeguarding and water use management of the Project into their plans for national economic and social development.\nThe State shall support the adjustment of industrial structure and the protection of the ecological environment in the water source areas and the areas along the diversion routes of the South-to-North Water Diversion Project, so as to ensure the safety of water supply and use of the Project."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The management unit of the South-to-North Water Diversion Project determined by the State Council shall be specifically responsible for the operation and protection of the Project.\nThe unit determined by the people's government of a province or municipality directly under the Central Government in a water-receiving area of the Project shall be specifically responsible for the operation and protection of the supporting works of the Project within its own administrative area."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Water quantity regulation of the South-to-North Water Diversion Project shall follow the principles of giving priority to water conservation and exercising appropriate tight control, shall coordinate the water use of the water source areas, the water-receiving areas and the downstream areas of the diversion, and shall strengthen the protection of the ecological environment.\nWater quantity regulation of the South-to-North Water Diversion Project shall be based primarily on the multi-year average volume of diverted water approved by the State Council and the water quantity allocation indicators of the provinces and municipalities directly under the Central Government in the water-receiving areas."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The water quantity regulation year of the East Route Project of the South-to-North Water Diversion Project shall run from 1 October each year to 30 September of the following year; the water quantity regulation year of the Middle Route Project shall run from 1 November each year to 31 October of the following year."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The Huai River Water Resources Commission shall, in consultation with the Yangtze River Water Resources Commission, propose the annual volume of divertible water for the East Route Project of the South-to-North Water Diversion Project, and submit it to the competent water administrative department of the State Council before 15 September each year, with copies to the people's governments of the provinces concerned and to the management unit of the Project.\nThe Yangtze River Water Resources Commission shall propose the annual volume of divertible water for the Middle Route Project of the South-to-North Water Diversion Project, and submit it to the competent water administrative department of the State Council before 15 October each year, with copies to the people's governments of the provinces and municipalities directly under the Central Government concerned and to the management unit of the Project."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent water administrative departments of the people's governments of the provinces and municipalities directly under the Central Government in the water-receiving areas of the South-to-North Water Diversion Project shall, on the basis of the annual volume of divertible water, put forward proposals for the annual water use plan. Those in the water-receiving areas of the East Route Project shall submit them before 20 September each year and those in the water-receiving areas of the Middle Route Project before 20 October each year to the competent water administrative department of the State Council, with copies to the relevant river basin management agencies and to the management unit of the Project.\nThe proposals for the annual water use plan shall include proposals for the total annual volume of water diverted and for the monthly volume of water diverted."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The competent water administrative department of the State Council shall, on the basis of a comprehensive balance of the annual volume of divertible water and the proposals for the annual water use plans of the provinces and municipalities directly under the Central Government in the water-receiving areas of the South-to-North Water Diversion Project, formulate the annual water quantity regulation plan for the Project in proportion to the water quantity allocation indicators of those provinces and municipalities approved by the State Council and, after soliciting the opinions of the relevant departments of the State Council, issue it to the people's governments of the provinces and municipalities directly under the Central Government concerned and to the management unit of the Project before the start of the water quantity regulation year."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The management unit of the South-to-North Water Diversion Project shall, on the basis of the annual water quantity regulation plan, formulate a monthly water quantity regulation scheme and, where navigation is involved, shall consult the competent communications department; where no agreement is reached through consultation, the people's government at or above the county level shall decide. Where the monthly water quantity regulation scheme cannot be implemented because of major changes in rainfall or water conditions, it shall be adjusted promptly and reported to the competent water administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The water supplied by the South-to-North Water Diversion Project shall be subject to a two-part water price composed of a basic water price and a metered water price, and the specific water supply price shall be formulated by the competent pricing department of the State Council together with the relevant departments of the State Council.\nWater charges shall be paid promptly and in full, and shall be used exclusively for the operation and maintenance of the South-to-North Water Diversion Project and the repayment of loans."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The department or unit authorised by the people's government of a province or municipality directly under the Central Government in a water-receiving area of the South-to-North Water Diversion Project shall conclude a water supply contract with the management unit of the Project. The water supply contract shall include the annual volume of water supplied, the quality of the water supplied, the water delivery cross-section, the method of water delivery, the water price, the time and method of payment of water charges, and liability for breach of contract."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where, within a water quantity regulation year, a major change occurs in the water demand of a province or municipality directly under the Central Government in a water-receiving area of the South-to-North Water Diversion Project and it is necessary to transfer the water quantity allocated under the annual water quantity regulation plan, the departments or units authorised by the people's governments of the provinces or municipalities concerned shall negotiate and conclude a transfer agreement and determine the transfer price, and shall submit the transfer agreement to the competent water administrative department of the State Council with a copy to the management unit of the Project; the competent water administrative department of the State Council and the management unit of the Project shall accordingly adjust the annual water quantity regulation plan and the monthly water quantity regulation scheme."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The competent water administrative department of the State Council shall, together with the relevant departments of the State Council, the people's governments of the provinces and municipalities directly under the Central Government concerned and the management unit of the South-to-North Water Diversion Project, formulate a contingency plan for water quantity regulation of the Project and submit it to the State Council for approval.\nThe relevant departments of the people's governments of the provinces and municipalities directly under the Central Government in the water source areas and water-receiving areas of the South-to-North Water Diversion Project, the relevant river basin management agencies and the management unit of the Project shall, on the basis of the contingency plan for water quantity regulation of the Project, formulate corresponding contingency plans."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The contingency plan for water quantity regulation of the South-to-North Water Diversion Project shall, in response to emergencies such as major flood and waterlogging disasters, droughts, ecological damage accidents, water pollution accidents and engineering safety accidents, provide for the organisation, command system and duties of emergency management, the prevention and early warning mechanisms, the handling procedures, emergency support measures and post-event recovery and reconstruction measures.\nAfter the State Council or a department authorised by the State Council announces the launching of the contingency plan for water quantity regulation of the South-to-North Water Diversion Project, the following emergency handling measures may be taken in accordance with law:\n(a) temporarily restricting water abstraction, water use and water discharge;\n(b) unified regulation of the water projects on the rivers concerned;\n(c) requisitioning the facilities needed for pollution control and water supply;\n(d) closing navigable rivers."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The competent water administrative department and the competent environmental protection department of the State Council shall, in accordance with their duties, organise the monitoring of the water quantity and water quality at the water delivery cross-sections at provincial boundaries, at the water abstraction points of the East Route Project and at the Danjiangkou Reservoir of the South-to-North Water Diversion Project.\nThe competent water administrative department and the competent environmental protection department of the State Council shall, in accordance with their duties, publish to the public at regular intervals information on the water quantity and quality of the water supplied and used by the South-to-North Water Diversion Project, and shall establish a mechanism for sharing information on water quantity and quality."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Water Quantity Regulation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "A target responsibility system and an assessment and evaluation system shall apply to the local people's governments at or above the county level in respect of the safeguarding of water quality in the South-to-North Water Diversion Project.\nThe local people's governments at or above the county level in the water source areas and the areas along the diversion routes of the South-to-North Water Diversion Project shall strengthen the prevention and control of water pollution from industry, urban areas, agriculture and rural areas and vessels, and build shelterbelts and other ecological isolation and protection belts so as to ensure the safety of water supply.\nIn accordance with the provisions of the relevant laws and administrative regulations, ecological compensation for the water environment shall be implemented in the water source areas of the South-to-North Water Diversion Project."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A system of total quantity control of the discharge of key water pollutants shall apply in the areas along the diversion routes of the East Route Project and in the water source areas of the Middle Route Project of the South-to-North Water Diversion Project.\nThe people's governments of the provinces in the areas along the diversion routes of the East Route Project and in the water source areas of the Middle Route Project of the South-to-North Water Diversion Project shall, level by level, break down and assign the total quantity control indicators for the discharge of key water pollutants determined by the State Council to the people's governments of the cities and counties concerned, which shall break them down and assign them to the units discharging water pollutants."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In the areas along the diversion routes of the East Route Project of the South-to-North Water Diversion Project, it is prohibited to build construction projects that do not conform to the national industrial policy or that cannot achieve stable discharge of water pollutants up to standard. The existing outdated production technologies, processes and equipment shall be eliminated by the local people's governments of the provinces in an organised manner.\nIn the water source areas of the Middle Route Project of the South-to-North Water Diversion Project, it is prohibited to build construction projects that increase the total quantity of pollutant discharge."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The units discharging water pollutants in the areas along the diversion routes of the East Route Project and in the water source areas of the Middle Route Project of the South-to-North Water Diversion Project shall build, as ancillary facilities, treatment facilities commensurate with their discharge volume; the units discharging key water pollutants shall install automatic monitoring equipment in accordance with the relevant provisions.\nIt is prohibited to set up outfalls for the discharge of pollutants on the main line of the East Route Project and on the main canal of the Middle Route Project of the South-to-North Water Diversion Project."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Sewage discharged by the seats of the local people's governments at or above the county level in the areas along the diversion routes of the East Route Project and in the water source areas of the Middle Route Project of the South-to-North Water Diversion Project shall be centrally treated so as to achieve discharge up to standard.\nThe local people's governments at or above the county level in the areas along the diversion routes of the East Route Project and in the water source areas of the Middle Route Project of the South-to-North Water Diversion Project shall rationally plan and construct centralised sewage treatment facilities and the supporting pipeline networks, and shall organise the collection and harmless treatment of domestic waste in urban and rural areas so as to avoid polluting the water environment.\nLivestock and poultry farms and breeding communities in the areas along the diversion routes of the East Route Project and in the water source areas of the Middle Route Project of the South-to-North Water Diversion Project shall carry out harmless treatment and resource utilisation of livestock and poultry manure and waste water in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The people's governments at the county level in the areas along the diversion routes of the East Route Project and in the water source areas of the Middle Route Project of the South-to-North Water Diversion Project shall, in light of the needs of water source protection, designate areas in which felling and reclamation are prohibited or restricted.\nEcological shelterbelts shall be planned and planted in the areas along the diversion routes of the East Route Project and along the main canal of the Middle Route Project and in the water source areas of the Middle Route Project of the South-to-North Water Diversion Project; for waters of important ecological status, measures such as the construction of artificial wetlands shall be taken to improve the self-purification capacity of the water bodies."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where drinking water source protection zones need to be designated for the water abstraction points of the East Route Project, the Danjiangkou Reservoir and the main canal of the Middle Route Project of the South-to-North Water Diversion Project, they shall be designated in accordance with the provisions of the Law of the People's Republic of China on the Prevention and Control of Water Pollution and shall be strictly protected."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In the reservoir area of the Danjiangkou Reservoir and in the lake areas of Hongze Lake, Luoma Lake, Nansi Lake and Dongping Lake, the local people's governments of the provinces shall, in accordance with the requirements of water function zones and of the safeguarding of water quality of the South-to-North Water Diversion Project, organise the progressive removal of the existing cage-culture and pen-culture facilities, and strictly control the scale, species and density of artificial aquaculture. With respect to farmers who change their production or occupation as a result of the clearance of aquaculture facilities, the local people's governments at or above the county level shall give subsidies and support and shall ensure their basic livelihood through vocational skills training, inclusion in the social security system and other means.\nCatering and other business activities are prohibited in the reservoir area of the Danjiangkou Reservoir and in the lake areas of Hongze Lake, Luoma Lake, Nansi Lake and Dongping Lake."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Ports, wharves and other shipping facilities shall be planned and built in a scientific manner on the navigable rivers planned along the main line of the East Route Project of the South-to-North Water Diversion Project and on the Danjiangkou Reservoir and the navigable rivers in its upper reaches, and ports and wharves shall be equipped with facilities for receiving and treating pollutants from vessels commensurate with their handling capacity. Where existing ports and wharves cannot meet the requirements of water environment protection, the local people's governments of the provinces shall organise their treatment or closure.\nVessels navigating on the rivers specified in the preceding paragraph shall undergo technical transformation as required so as to keep pollutants sealed on board and collected for discharge ashore and not discharge them into the water bodies; vessels that do not meet the requirements and vessels transporting hazardous waste or hazardous chemicals may not enter the said rivers, and the management units of the relevant locks may not let them pass."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where engineering facilities such as bridges, highways, oil and gas pipelines and rainwater and sewage pipelines are built to cross, span or abut the water conveyance channels of the South-to-North Water Diversion Project, their construction and management units shall set up warning signs and take effective measures to guard against the safety risks arising from construction, traffic accidents, pipeline leaks and the like."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Water Quality Safeguarding"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The local people's governments at or above the county level in the water-receiving areas of the South-to-North Water Diversion Project shall coordinate the allocation of the water supplied by the Project and local water resources, progressively replace over-exploited groundwater, strictly control the development and utilisation of groundwater, and improve the water ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Use Management"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The local people's governments at or above the county level in the water-receiving areas of the South-to-North Water Diversion Project shall replace local water sources unsuitable for use as drinking water sources with water supplied by the Project, and shall progressively return the agricultural water and ecological and environmental water that has been diverted because of water shortages."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Use Management"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The local people's governments at or above the county level in the water-receiving areas of the South-to-North Water Diversion Project shall exercise total quantity control over the annual water use within their own administrative areas, strengthen the management of water use quotas, popularise water-saving technologies, equipment and facilities, and improve the efficiency and benefits of water use.\nThe local people's governments at or above the county level in the water-receiving areas of the South-to-North Water Diversion Project shall encourage and guide farmers and agricultural production and operation organisations to adjust the structure of agricultural planting, reduce in light of local conditions the proportion of water-intensive crops, adopt water-saving irrigation methods and promote the development of water-saving agriculture."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Use Management"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The people's governments of the provinces and municipalities directly under the Central Government in the water-receiving areas of the South-to-North Water Diversion Project shall draw up and publish catalogues of construction projects that are prohibited or restricted within their own administrative areas, and shall eliminate or restrict construction projects that consume large amounts of water or cause serious pollution."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Use Management"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The people's governments of the provinces and municipalities directly under the Central Government in the water-receiving areas of the South-to-North Water Diversion Project shall, level by level, break down and assign the total quantity control indicators for groundwater abstraction and the targets for reducing groundwater abstraction determined by the overall plan for reducing groundwater abstraction approved by the State Council to the people's governments of the cities and counties concerned, and shall organise the formulation of plans and annual programmes for restricting groundwater abstraction within their own administrative areas and submit them to the competent water administrative department and the competent land and resources department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Use Management"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "It is prohibited to increase the volume of groundwater abstracted and used in areas of the water-receiving areas of the South-to-North Water Diversion Project where groundwater is over-exploited. Areas where groundwater is over-exploited and where conditions for alternative water sources exist shall be designated as areas where groundwater abstraction is prohibited, and the abstraction of groundwater shall be prohibited therein.\nIt is prohibited to newly extract deep confined water in the water-receiving areas of the South-to-North Water Diversion Project."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Use Management"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The people's governments of the provinces and municipalities directly under the Central Government in the water-receiving areas of the South-to-North Water Diversion Project shall, in an overall manner, take into account the water supply price of the Project and the water resources fees and water supply prices of various water sources such as local surface water and groundwater, encourage the full use of the water supplied by the Project, and promote the rational allocation of water resources."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Water Use Management"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The local people's governments at or above the county level in the water source areas, the areas along the diversion routes and the water-receiving areas of the South-to-North Water Diversion Project shall properly carry out the work relating to the safety protection of engineering facilities and shall prevent and stop acts endangering the safety of the facilities of the Project."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The management unit of the South-to-North Water Diversion Project shall establish and improve the responsibility system for work safety, strengthen the monitoring, inspection, patrolling, repair and maintenance of the facilities of the Project, equip the necessary personnel and equipment, carry out emergency drills at regular intervals, ensure the safe operation of the Project, and promptly organise the clearance of refuse from the waters and beaches within the scope of its management."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The scope of management and the scope of protection of the South-to-North Water Diversion Project shall be delineated in accordance with law.\nThe scope of management and the scope of protection of the East Route Project of the South-to-North Water Diversion Project shall be delineated in an organised manner by the people's governments of the provinces where the works are located; among them, the scope of management and the scope of protection of the inter-provincial works shall be delineated in an organised manner by the competent water administrative department of the State Council or the river basin management agency authorised by it in consultation with the people's governments of the provinces concerned.\nThe scope of management and the scope of protection of the Danjiangkou Reservoir and the main canal of the Middle Route Project of the South-to-North Water Diversion Project shall be delineated in an organised manner by the competent water administrative department of the State Council or the river basin management agency authorised by it in consultation with the people's governments of the provinces and municipalities directly under the Central Government concerned."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The scope of management of the South-to-North Water Diversion Project shall be delineated in accordance with the design documents approved by the State Council.\nThe management unit of the South-to-North Water Diversion Project shall set up boundary pillars, boundary tablets and other protection markers at the boundaries of the scope of management of the works and on the ground above the location of underground works, and shall set up the necessary safety isolation facilities to protect the works. Without the consent of the management unit of the Project, no person may enter the areas provided with safety isolation facilities.\nLand within the scope of management of the South-to-North Water Diversion Project may not be converted to other uses and may not be occupied by any unit or individual; activities unrelated to the management of the works are prohibited within the scope of management."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The scope of protection of the South-to-North Water Diversion Project shall be delineated in accordance with the following principles and announced to the public:\n(a) for the open channel water conveyance works of the East Route Project, the area extending outward from the edge of the levee protection land on the landward side of the levee to within 50 metres, and for the open channel water conveyance works of the Middle Route Project, the area extending outward from the boundary of the scope of management to within 200 metres;\n(b) for underground water conveyance works such as covered culverts, tunnels and pipelines, the ground above the engineering facilities and the area extending outward from their boundaries to within 50 metres;\n(c) for crossing works such as inverted siphons, aqueducts and covered channels, the area extending from the boundary of the scope of management upstream along the crossed river to not less than 500 metres and not more than 1,000 metres and downstream to not less than 1,000 metres and not more than 3,000 metres;\n(d) for other engineering facilities such as pumping stations, sluices, management stations and water abstraction points, the area extending outward from the boundary of the scope of management to not less than 50 metres and not more than 200 metres."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The management unit of the South-to-North Water Diversion Project shall set up safety warning signs at road junctions, villages and other sections along the works; the competent departments of the local people's governments concerned shall, in accordance with the relevant provisions, set up signs restricting weight, axle load, speed, height and width at the entrances to crossing bridges and shall take the corresponding engineering precautions."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The following acts endangering the facilities of the South-to-North Water Diversion Project are prohibited:\n(a) occupying or damaging water conveyance channels (canals, ditches, pipelines), reservoirs, levees and bank protection works;\n(b) planting deep-rooted plants on the ground above underground water conveyance pipelines and embankments, or building fish ponds and other water storage facilities or stacking overweight articles thereon;\n(c) moving, covering, altering or damaging markers;\n(d) occupying or damaging, or using or operating without authorisation, dedicated power transmission line facilities, dedicated communication lines, sluice gates and other facilities;\n(e) occupying or damaging other facilities such as those for transport, communications and hydrological and water quality monitoring.\nIt is prohibited to abstract or use water resources from the South-to-North Water Diversion Project without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "It is prohibited to carry out blasting, well drilling, mining, earth extraction, quarrying, sand extraction, drilling, house building, grave building, pond digging, trench digging and other acts that affect the operation of the works or endanger the safety of the works and the safety of water supply within the scope of protection of the South-to-North Water Diversion Project."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where engineering facilities such as bridges, wharves, highways, railways, subways, ship locks, pipelines, cables, water abstraction and drainage works are to be built within the scope of management or the scope of protection of the South-to-North Water Diversion Project, the authority examining and approving or verifying the project in accordance with the capital construction procedures prescribed by the State shall solicit the opinions of the management unit of the Project on the construction plan of the proposed engineering facilities.\nBefore the construction, maintenance and overhaul of a construction project specified in the preceding paragraph, the management unit of the South-to-North Water Diversion Project shall be notified, and the construction, maintenance and overhaul shall not affect the safety and normal operation of the facilities of the Project."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "During the flood season, the management unit of the South-to-North Water Diversion Project shall strengthen patrolling and, upon discovering a dangerous situation, shall immediately take emergency repair and other measures and promptly report to the relevant flood control and drought relief command authorities."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The management unit of the South-to-North Water Diversion Project shall strengthen the safety protection of the facilities of the Project, formulate a safety protection plan, establish and improve the responsibility system for safety protection, strengthen the construction and maintenance of safety protection facilities, implement public security precautions and promptly eliminate hidden dangers.\nWhere important waters and important facilities of the South-to-North Water Diversion Project need to be guarded or rescued by the Chinese People's Armed Police Force, the matter shall be handled in accordance with the Law of the People's Republic of China on the People's Armed Police Force and the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "In an emergency, where the management unit of the South-to-North Water Diversion Project needs to extract earth, occupy land or use the relevant facilities for emergency repair of the works, the units and individuals concerned shall cooperate. The management unit of the Project shall restore the original state afterwards and shall make compensation in accordance with law for any loss caused."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Management and Protection of Engineering Facilities"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an administrative organ or its staff member, in violation of the provisions of these Regulations, commits any of the following acts, the competent authority or the supervisory organ shall order correction; where the circumstances are serious, sanctions shall be imposed in accordance with law on the person directly in charge who is responsible and other persons directly responsible; and where the person directly in charge who is responsible or another person directly responsible commits a crime, criminal liability shall be investigated in accordance with law:\n(a) failing to formulate and issue the annual water quantity regulation plan promptly, or failing to implement it;\n(b) failing to formulate or implement the contingency plan for water quantity regulation;\n(c) failing to formulate or implement the plan for restricting groundwater abstraction in the water-receiving areas of the South-to-North Water Diversion Project;\n(d) failing to perform the duties of monitoring water quantity and water quality;\n(e) failing to perform other duties prescribed by these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the management unit of the South-to-North Water Diversion Project or its staff member, in violation of the provisions of these Regulations, commits any of the following acts, the competent authority or the supervisory organ shall order correction; where the circumstances are serious, sanctions shall be imposed in accordance with law on the person directly in charge who is responsible and other persons directly responsible; and where the person directly in charge who is responsible or another person directly responsible commits a crime, criminal liability shall be investigated in accordance with law:\n(a) falsely filling in or tampering with materials on the operation of the works;\n(b) failing to implement the annual water quantity regulation plan or the contingency plan for water quantity regulation;\n(c) failing to formulate or implement the monthly water quantity regulation scheme promptly;\n(d) neglecting the monitoring, inspection, patrolling, repair and maintenance of the engineering facilities and failing to implement the responsibility system for work safety, thereby affecting the safety of the works and the safety of water supply;\n(e) failing to perform other duties prescribed by these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Anyone who, in violation of the provisions of these Regulations, discharges water pollutants or commits other acts endangering the safety of water quality of the South-to-North Water Diversion Project shall be dealt with in accordance with the provisions of the Law of the People's Republic of China on the Prevention and Control of Water Pollution; and if a crime is constituted, criminal liability shall be investigated in accordance with law.\nAnyone who, in violation of the provisions of these Regulations, abstracts groundwater in an area where groundwater abstraction is prohibited in the water-receiving areas of the South-to-North Water Diversion Project, increases the volume of groundwater abstracted and used in an area where groundwater is over-exploited in the water-receiving areas, newly extracts deep confined water in the water-receiving areas, or abstracts or uses water resources from the Project without authorisation shall be dealt with in accordance with the provisions of the Water Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a vessel transporting hazardous waste or hazardous chemicals enters the navigable rivers planned along the main line of the East Route Project of the South-to-North Water Diversion Project or the Danjiangkou Reservoir or the navigable rivers in its upper reaches in violation of the provisions of these Regulations, the competent administrative department of the local people's government at or above the county level responsible for maritime or fishery affairs shall, in accordance with its duties and powers, detain it and take measures such as unloading the hazardous waste or hazardous chemicals, and the costs incurred shall be borne by the party committing the violation; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, engineering facilities such as bridges, highways, oil and gas pipelines and rainwater and sewage pipelines are built to cross, span or abut the water conveyance channels of the South-to-North Water Diversion Project without taking effective measures, thereby endangering the safety of the works and the safety of water supply of the Project, the authority examining and approving or verifying the construction project shall order remedial measures to be taken; before the remedial measures are implemented, the construction of the engineering facilities shall be suspended."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Anyone who, in violation of the provisions of these Regulations, occupies or damages the facilities of the South-to-North Water Diversion Project or endangers them, or carries out within the scope of protection of the Project acts that affect the operation of the works or endanger the safety of the works and the safety of water supply, shall be dealt with in accordance with the provisions of the Water Law of the People's Republic of China; where the Water Law of the People's Republic of China does not provide otherwise, the competent water administrative department of the people's government at or above the county level or the river basin management agency shall, in accordance with its duties and powers, order the cessation of the unlawful act and the adoption of remedial measures within a time limit; where loss is caused, civil liability shall be borne in accordance with law; where an act violating the administration of public security is constituted, a penalty for the administration of public security shall be imposed in accordance with law; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where any of the following circumstances exists in the water source areas or the areas along the diversion routes of the South-to-North Water Diversion Project, the examination and approval of the environmental impact assessment documents of all construction projects in the administrative areas concerned, except projects for pollution reduction and ecological restoration, shall be suspended:\n(a) setting up outfalls for the discharge of pollutants on the main line of the East Route Project or on the main canal of the Middle Route Project;\n(b) discharging pollutants in excess of the total quantity control indicators for key water pollutants;\n(c) unlawfully approving the construction of a construction project that pollutes the water environment, thereby causing serious consequences such as a major water pollution accident, without implementing remedial measures."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The East Route Project of the South-to-North Water Diversion Project means the main works that divert water from the main stream of the Yangtze River near Yangzhou City in Jiangsu Province and convey it to the northern part of Jiangsu Province, Shandong Province and other places.\nThe Middle Route Project of the South-to-North Water Diversion Project means the main works that divert water from the Danjiangkou Reservoir and convey it to Henan Province, Hebei Province, Beijing Municipality and Tianjin Municipality.\nThe supporting works of the South-to-North Water Diversion Project means the works downstream of the water diversion outlet gates of the East Route Project and the Middle Route Project that allocate and regulate the water supplied by the Project for use within the administrative area concerned."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -20877,6 +25422,1353 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0260'] = {
+    "lawId": "CN-REG-0260",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 60 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the safety supervision and administration of agricultural machinery, preventing and reducing agricultural machinery accidents, and protecting the safety of people's lives and property."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The production, sale, repair, operation and use of agricultural machinery and the safety supervision and administration thereof within the territory of the People's Republic of China shall comply with these Regulations.\nFor the purposes of these Regulations, agricultural machinery means machinery and equipment used in agricultural production and in the initial processing of agricultural products and other related farming activities."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The safety supervision and administration of agricultural machinery shall follow the principles of putting people first, preventing accidents, ensuring safety and promoting development."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen their leadership over the safety supervision and administration of agricultural machinery, improve the safety supervision and administration system for agricultural machinery, increase subsidies to farmers for the purchase of agricultural machinery, ensure fiscal input for agricultural machinery safety, and establish and improve the work safety responsibility system for agricultural machinery."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The relevant departments of the State Council, and local people's governments at all levels and their relevant departments, shall strengthen publicity and education on the laws, regulations, standards and knowledge relating to agricultural machinery safety.\nAgricultural production and operation organisations and owners of agricultural machinery shall provide education on the safe use of agricultural machinery to operators of agricultural machinery and the related personnel so as to raise their safety awareness."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages and supports the development, production, popularisation and application of advanced and applicable, safe and reliable, energy-saving and environmentally friendly agricultural machinery, and establishes and improves safety technical standards and safe operating procedures for agricultural machinery."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State encourages operators and maintenance technicians of agricultural machinery to participate in vocational skills training and to establish safety mutual-aid organisations in accordance with law so as to improve the level of safe operation of agricultural machinery."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State establishes a system for phasing out obsolete agricultural machinery and a system for scrapping agricultural machinery that endangers personal and property safety, and carries out the recovery of phased-out and scrapped agricultural machinery in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department for agricultural mechanisation, the competent department for industry, the department for market regulation and other relevant departments of the State Council shall be responsible for the safety supervision and administration of agricultural machinery in accordance with these Regulations and the duties prescribed by the State Council.\nThe competent department for agricultural mechanisation, the competent department for industry, the department for market regulation and other relevant departments of local people's governments at or above the county level shall, in accordance with their respective duties, be responsible for the safety supervision and administration of agricultural machinery within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent department for industry of the State Council shall be responsible for formulating and organising the implementation of the industrial policy and the relevant plans for the agricultural machinery industry.\nThe competent department for standardisation of the State Council shall be responsible for formulating and publishing the national safety technical standards for agricultural machinery and for revising them promptly in the light of actual circumstances. The safety technical standards for agricultural machinery are mandatory standards."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Producers of agricultural machinery shall organise production in accordance with the industrial policy and the relevant plans for the agricultural machinery industry and the safety technical standards for agricultural machinery, and shall establish and improve a quality assurance and control system.\nFor agricultural machinery subject to the administration of industrial product production licences in accordance with law, the producers shall obtain the corresponding qualifications and organise production within the licensed scope and conditions."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Producers of agricultural machinery shall inspect the agricultural machinery they produce in accordance with the safety technical standards for agricultural machinery; the agricultural machinery may leave the factory for sale only after it has passed inspection, is accompanied by detailed instructions for safe operation and bears safety warning marks; for agricultural machinery that must be certified in accordance with law, the certification mark shall be applied before leaving the factory.\nFor tractors driven on roads that must be certified in accordance with law, the certification mark shall be applied before leaving the factory and they shall conform to the national safety technical standards for motor vehicles.\nProducers of agricultural machinery shall establish a product factory record system and truthfully record such particulars as the name, specifications, quantity, date of production, production batch number, inspection certificate number, name and contact details of the purchaser and date of sale. Factory records shall be kept for not less than three years."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Imported agricultural machinery shall conform to the safety technical standards for agricultural machinery of the country and shall be inspected and found up to standard by the entry-exit inspection and quarantine institutions in accordance with law. For agricultural machinery that must be certified in accordance with law, entry verification shall also be carried out by the entry-exit inspection and quarantine institutions."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Sellers of agricultural machinery shall check the product conformity certificates of the agricultural machinery they purchase. For agricultural machinery subject to the administration of industrial product production licences in accordance with law and agricultural machinery that must be certified in accordance with law, the corresponding certifying documents or marks shall also be verified.\nSellers of agricultural machinery shall establish a sales record system and truthfully record such particulars as the name and specifications of the agricultural machinery, the production batch number, the name and contact details of the supplier and the sales destination. Sales records shall be kept for not less than three years.\nSellers of agricultural machinery shall explain to purchasers the operating methods and safety precautions of the agricultural machinery and issue sales invoices in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Producers and sellers of agricultural machinery shall establish and improve the sales service system for agricultural machinery and bear product quality liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a producer or seller of agricultural machinery finds that the agricultural machinery it produces or sells has defects in design, manufacture or otherwise that may cause harm to personal and property safety, it shall immediately stop production and sale, promptly report to the local department for market regulation and notify users of the agricultural machinery to stop using it. Producers of agricultural machinery shall promptly recall agricultural machinery with defects in design, manufacture or otherwise.\nWhere a producer or seller of agricultural machinery fails to perform the obligation under paragraph 1 of this Article, the department for market regulation may order the producer to recall the agricultural machinery and order the seller to stop selling the agricultural machinery."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The production and sale of the following agricultural machinery are prohibited:\n(a) agricultural machinery that does not conform to the safety technical standards for agricultural machinery;\n(b) agricultural machinery subject to the administration of industrial product production licences in accordance with law for which no licence has been obtained;\n(c) agricultural machinery that must be certified in accordance with law but has not been certified;\n(d) agricultural machinery assembled from defective spare parts or from components such as engines, steering gears, transmissions and frames of scrapped agricultural machinery;\n(e) agricultural machinery expressly phased out by the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "To engage in the repair of agricultural machinery, one shall have the necessary repair premises, the necessary repair facilities, equipment and testing instruments, the corresponding repair technicians, and safety protection and environmental protection measures."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Operators of agricultural machinery repair shall comply with the State's technical specifications for repair quality and safety and the provisions on the repair quality guarantee period, and shall ensure repair quality.\nThe following acts are prohibited in the repair of agricultural machinery:\n(a) using spare parts that do not conform to the safety technical standards for agricultural machinery;\n(b) assembling or modifying complete agricultural machinery;\n(c) undertaking the repair of agricultural machinery that has already met the conditions for scrapping;\n(d) other prohibited acts prescribed by laws and regulations and by the competent department for agricultural mechanisation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Production, Sale and Repair"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Operators of agricultural machinery may participate in skills training for agricultural machinery operators and may apply to the competent department for agricultural mechanisation and the department for human resources and social security for vocational skill appraisal and obtain the national vocational qualification certificate of the corresponding grade."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Operation and Use"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Before a tractor or combine harvester is put into use, its owner shall, in accordance with the provisions of the competent department for agricultural mechanisation of the State Council, apply to the competent department for agricultural mechanisation of the people's government at the county level at the place where it is located for registration on the strength of his own identity certificate and the certificate of the source of the machine implement. Where a tractor or combine harvester passes safety inspection, the competent department for agricultural mechanisation shall, within two working days, complete the registration and issue the corresponding certificate and licence plate.\nWhere any registered particular of a tractor or combine harvester changes during use, its owner shall apply for registration of the change in accordance with the provisions of the competent department for agricultural mechanisation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Operation and Use"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "After training, operators of tractors and combine harvesters shall, in accordance with the provisions of the competent department for agricultural mechanisation of the State Council, take the examination organised by the competent department for agricultural mechanisation of the people's government at the county level. Where the examination is passed, the competent department for agricultural mechanisation shall, within two working days, issue the corresponding operating certificate.\nThe operating certificate for tractors and combine harvesters shall be valid for six years; upon expiry of validity, the operator of the tractor or combine harvester may apply to the original issuing authority for renewal. Persons under 18 years of age may not operate tractors or combine harvesters. Where an operator reaches 70 years of age, the competent department for agricultural mechanisation of the people's government at the county level shall cancel his operating certificate."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Operation and Use"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Tractors and combine harvesters shall display licence plates. Where a tractor is driven on a road, or a combine harvester needs to be moved for cross-area operations, repair or safety inspection, its operator shall carry the operating certificate.\nOperators of tractors and combine harvesters shall not commit any of the following acts:\n(a) operating a tractor or combine harvester that does not correspond to the provisions of his own operating certificate;\n(b) operating a tractor or combine harvester that has not been registered or inspected in accordance with the provisions, or that has failed inspection, has incomplete safety facilities or has ineffective components;\n(c) operating a tractor or combine harvester after using psychotropic drugs or narcotics controlled by the State;\n(d) operating a tractor or combine harvester while suffering from an illness that impedes safe operation;\n(e) other prohibited acts prescribed by the competent department for agricultural mechanisation of the State Council.\nCarrying persons on tractors and combine harvesters in violation of the provisions is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Operation and Use"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Before starting work, an operator of agricultural machinery shall carry out a safety check of the agricultural machinery; during work, he shall comply with the safe operating procedures formulated by the competent department for agricultural mechanisation of the State Council and the competent departments for agricultural mechanisation of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Operation and Use"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The competent departments for agricultural mechanisation of local people's governments at or above the county level shall be responsible for determining liability for agricultural machinery accidents and for mediation and handling.\nFor the purposes of these Regulations, an agricultural machinery accident means an incident in which personal injury or death or property loss is caused by agricultural machinery in the course of operation or transfer.\nA traffic accident involving agricultural machinery on a road shall be handled by the traffic management department of the public security organ in accordance with the laws and regulations on road traffic safety; where an accident occurs when a tractor is travelling off a road and the traffic management department of the public security organ receives a report of it, it shall be handled by reference to the laws and regulations on road traffic safety. Where an agricultural machinery accident damages a highway or its ancillary facilities, it shall be handled by the competent department for transport in accordance with the laws and regulations on highways."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Handling of Accidents"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where an agricultural machinery accident occurs off a road, the operator and other persons at the scene shall immediately stop work or stop the transfer of the agricultural machinery and protect the scene; where personal injury is caused, they shall report to the competent department for agricultural mechanisation at the place where the accident occurs; where death is caused, they shall also report to the public security organ at the place where the accident occurs. Where personal injury is caused, immediate measures shall be taken to rescue the injured persons. Where the scene is altered for the purpose of rescuing injured persons, the positions shall be marked.\nThe competent department for agricultural mechanisation and the public security organ receiving the report shall immediately send personnel to the scene to conduct inspection and examination, collect evidence, organise the rescue of injured persons and restore the normal order of production as soon as possible."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Handling of Accidents"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "For an agricultural machinery accident that has undergone on-site inspection and examination, the competent department for agricultural mechanisation shall complete a written determination of the agricultural machinery accident within 10 working days; where appraisal of the agricultural machinery is required, it shall complete the written determination within five working days from the date of receipt of the appraisal conclusion issued by the agricultural machinery appraisal institution.\nThe written determination of an agricultural machinery accident shall state the basic facts of the accident, its causes and the liability of the parties, and shall be served on the parties within three working days from the date of completion."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Handling of Accidents"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the parties are in dispute over compensation for damage arising from an agricultural machinery accident and request mediation, they shall submit a written application for mediation to the competent department for agricultural mechanisation within 10 working days from the date of receipt of the written determination of the accident.\nWhere a mediation agreement is reached, the competent department for agricultural mechanisation shall prepare a written mediation agreement and deliver it to the parties. The written mediation agreement shall take effect after being signed by all parties. Where mediation fails to reach an agreement or a party brings an action before a people's court, the competent department for agricultural mechanisation shall terminate the mediation and notify the parties in writing. Where a party repents after a mediation agreement has been reached, it may bring an action before a people's court."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Handling of Accidents"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The competent departments for agricultural mechanisation shall provide assistance and convenience to the parties in dealing with compensation for damage arising from agricultural machinery accidents and other follow-up matters. Where an accident is caused by reasons relating to the quality of agricultural machinery products, the competent department for agricultural mechanisation shall issue the relevant certifying materials in accordance with law.\nThe competent departments for agricultural mechanisation shall periodically submit statistics on agricultural machinery accidents and explanatory materials to the competent departments for agricultural mechanisation at the higher level and copy them to the work safety supervision and administration departments at the same level.\nWhere an agricultural machinery accident constitutes a work safety accident, it shall be investigated and handled and liability pursued in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Handling of Accidents"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The competent departments for agricultural mechanisation of local people's governments at or above the county level shall periodically conduct free on-site safety inspections of agricultural machinery that endangers personal and property safety. However, where the laws on road traffic safety contain other provisions on the safety inspection of tractors, those provisions shall prevail.\nTractors and combine harvesters shall undergo safety inspection once a year.\nInstitutions conducting safety technical inspections shall bear legal liability for the inspection results."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the competent department for agricultural mechanisation finds in a safety inspection that agricultural machinery has hidden accident risks, it shall inform its owner to stop using it and promptly eliminate the hidden risks.\nThe competent department for agricultural mechanisation conducting safety inspections shall compile the results of safety inspections and establish safety supervision and administration files for agricultural machinery."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Before combine harvesters are used for cross-administrative-area operations, the competent department for agricultural mechanisation of the local people's government at the county level shall, together with the relevant departments, conduct the necessary safety inspections of the combine harvesters used for cross-administrative-area operations and provide safety education to the operators."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The competent department for agricultural mechanisation of the State Council shall periodically analyse and assess the situation of the safe use of agricultural machinery and release the relevant information."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The competent department for industry of the State Council shall periodically monitor and analyse the operational trend of the agricultural machinery manufacturing industry and, in accordance with the requirements of being advanced and applicable, safe and reliable, energy-saving and environmentally friendly, formulate and publish, together with the competent department for agricultural mechanisation, the department for market regulation and other relevant departments of the State Council, the catalogue of agricultural machinery products expressly phased out by the State."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Agricultural machinery that endangers personal and property safety shall be stopped from use and scrapped when it meets the conditions for scrapping. The conditions for scrapping agricultural machinery shall be prescribed by the competent department for agricultural mechanisation of the State Council together with the department for market regulation and the competent department for industry of the State Council.\nThe competent departments for agricultural mechanisation of people's governments at the county level shall inform the owners in writing of agricultural machinery that endangers personal and property safety and meets the conditions for scrapping."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State carries out the recovery of agricultural machinery that meets the conditions for scrapping or that is in use and has been expressly phased out by the State. The measures for the recovery of agricultural machinery shall be formulated by the competent department for agricultural mechanisation of the State Council together with the department for finance and the competent department for commerce of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Recovered agricultural machinery shall be dismantled or destroyed under the supervision of the competent department for agricultural mechanisation of the people's government at the county level by the recovery units."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where problems of product quality or repair quality of agricultural machinery are found in the course of use and operation, the party concerned may lodge a complaint with the competent department for agricultural mechanisation or the department for market regulation of the local people's government at or above the county level. The department receiving the complaint shall, in respect of matters within the scope of its duties, handle them promptly in accordance with law; in respect of matters outside the scope of its duties, it shall promptly refer them to the department with the power to handle them, and the department with the power to handle them shall handle them immediately and shall not shift responsibility.\nThe competent departments for agricultural mechanisation and the departments for market regulation of local people's governments at or above the county level shall periodically compile the complaints about the product quality and repair quality of agricultural machinery and report them level by level."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The competent department for agricultural mechanisation of the State Council and the competent departments for agricultural mechanisation of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the situation of complaints and the needs of agricultural safety production, organise safety appraisal and key inspections of specific types of agricultural machinery in use and publish the results."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "When law enforcement personnel for the safety supervision and administration of agricultural machinery conduct safety supervision and inspection of agricultural machinery in farmland, farmyards and other premises, they may take the following measures:\n(a) ascertaining the facts from the relevant units and individuals and consulting and copying the relevant materials;\n(b) checking the certificates, licence plates and relevant operating certificates of tractors and combine harvesters;\n(c) inspecting the safety condition of agricultural machinery that endangers personal and property safety and, in respect of agricultural machinery with major hidden accident risks, ordering the party concerned to immediately stop work or stop the transfer of the agricultural machinery and to carry out repair;\n(d) ordering operators of agricultural machinery to correct illegal operating acts."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where, after an agricultural machinery accident occurs, a person attempts to escape, or refuses to stop the operation or transfer of agricultural machinery with major hidden accident risks, the competent department for agricultural mechanisation of the local people's government at or above the county level may seize the agricultural machinery and the certificates, licence plates and operating certificates. Where the case has been dealt with or the party responsible for the agricultural machinery accident has provided security, the competent department for agricultural mechanisation of the local people's government at or above the county level shall promptly return the seized agricultural machinery and the certificates, licence plates and operating certificates. Agricultural machinery with major hidden accident risks may not continue to be used before its owner or user has eliminated the hidden risks."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Law enforcement personnel for the safety supervision and administration of agricultural machinery shall, when conducting safety supervision and inspection, wear a uniform mark and produce their administrative law enforcement certificate. Vehicles for agricultural machinery safety supervision and inspection and accident investigation shall be painted with a uniform mark on the body."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The competent departments for agricultural mechanisation shall not designate repair operators for agricultural machinery."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The competent departments for agricultural mechanisation shall periodically notify the traffic management departments of the public security organs at the same level of the registration and inspection of tractors and the issue of the relevant certificates, licence plates and operating certificates. The traffic management departments of the public security organs shall periodically notify the competent departments for agricultural mechanisation at the same level of traffic accidents involving agricultural machinery on roads and their handling."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Services and Supervision"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the competent department for agricultural mechanisation, the competent department for industry or the department for market regulation of a local people's government at or above the county level or their staff members commit any of the following acts, disciplinary sanctions shall be given in accordance with law to the directly responsible persons in charge and other directly responsible persons, and where a criminal offence is constituted, criminal liability shall be pursued in accordance with law:\n(a) failing to conduct safety inspection and registration of tractors and combine harvesters in accordance with law, or failing to issue certificates and licence plates for tractors and combine harvesters in accordance with law;\n(b) issuing operating certificates for tractors and combine harvesters to persons who have not passed the examination, or refusing to issue operating certificates for tractors and combine harvesters to persons who have passed the examination;\n(c) failing to handle agricultural machinery accidents in accordance with law, or failing to issue written determinations of agricultural machinery accidents and other certifying materials in accordance with law;\n(d) failing to perform the duties of supervision and administration in accordance with law in the production and sale of agricultural machinery;\n(e) other acts of failing to perform duties in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Whoever produces or sells agricultural machinery assembled from defective spare parts or from components such as engines, steering gears, transmissions and frames of scrapped agricultural machinery shall be ordered by the department for market regulation of the people's government at or above the county level to stop production and sale, shall have the illegal gains and the unlawfully produced or sold agricultural machinery confiscated, and shall be fined not less than one time and not more than three times the value of the unlawful products; where the circumstances are serious, the business licence shall be revoked.\nWhere a producer or seller of agricultural machinery violates the administration of industrial product production licences, the administration of certification and accreditation, the administration of safety technical standards or the administration of product quality, it shall be penalised in accordance with the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a seller of agricultural machinery fails to establish and keep sales records in accordance with the provisions of these Regulations, the department for market regulation of the people's government at or above the county level shall order it to make rectification and give it a warning; where it refuses to make rectification, a fine of not less than RMB 1,000 and not more than RMB 10,000 shall be imposed and it shall be ordered to suspend business for rectification; where the circumstances are serious, the business licence shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Whoever engages in the repair of agricultural machinery without meeting the provisions of Article 18 of these Regulations shall be ordered by the competent department for agricultural mechanisation of the local people's government at or above the county level to make rectification; where it refuses to make rectification, a fine of not less than RMB 5,000 and not more than RMB 10,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an operator of agricultural machinery repair uses spare parts that do not conform to the safety technical standards for agricultural machinery to repair agricultural machinery, or assembles or modifies complete agricultural machinery, or undertakes the repair of agricultural machinery that has already met the conditions for scrapping, the competent department for agricultural mechanisation of the local people's government at or above the county level shall order it to make rectification, confiscate the illegal gains and impose a fine of not less than one time and not more than two times the amount of the unlawful turnover; where it refuses to make rectification, a fine of not less than two times and not more than five times the amount of the unlawful turnover shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Whoever, without completing the registration formalities and obtaining the corresponding certificates and licence plates in accordance with the provisions, puts tractors or combine harvesters into use without authorisation, or fails to complete the formalities for registration of a change in accordance with the provisions, shall be ordered by the competent department for agricultural mechanisation of the local people's government at or above the county level to complete the relevant formalities within a time limit; where the formalities are not completed within the time limit, it shall be ordered to stop using them; where it refuses to stop using them, the tractors or combine harvesters shall be seized and a fine of not less than RMB 200 and not more than RMB 2,000 shall be imposed.\nWhere the party concerned completes the relevant formalities, the seized tractors or combine harvesters shall be returned promptly."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Whoever forges or alters, or uses forged or altered, certificates and licence plates for tractors or combine harvesters, or uses the certificates and licence plates of other tractors or combine harvesters, shall have the forged, altered or used certificates and licence plates confiscated by the competent department for agricultural mechanisation of the local people's government at or above the county level, shall be given criticism and education, and shall be fined not less than RMB 200 and not more than RMB 2,000."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Whoever operates a tractor or combine harvester without obtaining an operating certificate for tractors and combine harvesters shall be ordered by the competent department for agricultural mechanisation of the local people's government at or above the county level to make rectification and be fined not less than RMB 100 and not more than RMB 500."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an operator of a tractor or combine harvester operates a tractor or combine harvester that does not correspond to the provisions of his own operating certificate, or operates a tractor or combine harvester that has not been registered or inspected in accordance with the provisions or that has failed inspection, has incomplete safety facilities or has ineffective components, or operates a tractor or combine harvester after using psychotropic drugs or narcotics controlled by the State, or operates a tractor or combine harvester while suffering from an illness that impedes safe operation, the competent department for agricultural mechanisation of the local people's government at or above the county level shall give criticism and education to the offender and order him to make rectification; where he refuses to make rectification, a fine of not less than RMB 100 and not more than RMB 500 shall be imposed; where the circumstances are serious, the operating certificate of the person concerned shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Whoever carries persons on a tractor or combine harvester in violation of the provisions shall be given criticism and education by the competent department for agricultural mechanisation of the local people's government at or above the county level and ordered to make rectification; where the offender refuses to make rectification, the certificates and licence plates of the tractor or combine harvester shall be seized; where the circumstances are serious, the operating certificate of the person concerned shall be revoked. Whoever unlawfully engages in for-profit road passenger transport shall be penalised by the competent department for transport in accordance with the laws and administrative regulations on road transport administration.\nWhere the party concerned corrects the illegal act, the seized certificates and licence plates of the tractor or combine harvester shall be returned promptly."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, upon inspection or examination, agricultural machinery is found to have hidden accident risks and, after being informed by the competent department for agricultural mechanisation, the party concerned refuses to eliminate them and continues to use the machinery, the competent department for agricultural mechanisation of the local people's government at or above the county level shall give criticism and education to the offender and order it to make rectification; where it refuses to make rectification, it shall be ordered to stop using the machinery; where it refuses to stop using it, the agricultural machinery with hidden accident risks shall be seized.\nAfter the hidden accident risks have been eliminated, the seized agricultural machinery shall be returned promptly."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Whoever, in violation of these Regulations, causes personal injury or death or property loss to others shall bear civil liability in accordance with law; where the act constitutes a violation of the administration of public security, a penalty for administration of public security shall be given in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "For the purposes of these Regulations, agricultural machinery that endangers personal and property safety means agricultural machinery that may cause harm to personal and property safety, including tractors, combine harvesters, power-driven plant protection machinery, power-driven threshers, feed crushers, rice transplanters and chaff cutters."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The forms of the certificates, licence plates and operating certificates for agricultural machinery prescribed in these Regulations shall be uniformly prescribed by the competent department for agricultural mechanisation of the State Council together with the relevant departments of the State Council, and shall be supervised in their production by the competent department for agricultural mechanisation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The fees for the examination for tractor operating certificates, the fees for safety technical inspection and the cost of licence plates and certificates shall be strictly charged in accordance with the fee rates verified and determined by the competent department for pricing of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Regulations shall come into force on 1 November 2009."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0261'] = {
+    "lawId": "CN-REG-0261",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 54 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the safety administration of agricultural genetically modified organisms, safeguard human health and the safety of animals, plants and microorganisms, protect the ecological environment and promote research on agricultural genetically modified organism technology."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Anyone engaged in the research, testing, production, processing, operation, import or export of agricultural genetically modified organisms within the territory of the People's Republic of China must comply with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Agricultural genetically modified organisms as referred to in these Regulations mean animals, plants and microorganisms and their products that are used in agricultural production or in the processing of agricultural products and whose genome composition has been altered by genetic engineering technology, mainly including:\n(1) genetically modified animals and plants (including seeds, breeding livestock and poultry, and aquatic fry and fingerlings) and microorganisms;\n(2) products of genetically modified animals, plants and microorganisms;\n(3) directly processed products of genetically modified agricultural products;\n(4) products such as seeds, breeding livestock and poultry, aquatic fry and fingerlings, pesticides, veterinary medicines, fertilisers and additives that contain genetically modified animals, plants or microorganisms or ingredients thereof.\nSafety of agricultural genetically modified organisms as referred to in these Regulations means the prevention of dangers or potential risks posed by agricultural genetically modified organisms to humans, animals, plants, microorganisms and the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The competent agricultural administrative department under the State Council shall be responsible for the supervision and administration of the safety of agricultural genetically modified organisms throughout the country.\nThe competent agricultural administrative departments of local people's governments at or above the county level shall be responsible for the supervision and administration of the safety of agricultural genetically modified organisms within their respective administrative areas.\nThe relevant departments of people's governments at or above the county level shall, in accordance with the relevant provisions of the Food Safety Law of the People's Republic of China, be responsible for the supervision and administration of the safety of genetically modified food."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State Council shall establish an inter-ministerial joint conference system for the safety administration of agricultural genetically modified organisms.\nThe inter-ministerial joint conference for the safety administration of agricultural genetically modified organisms shall be composed of the persons in charge of the relevant departments of agriculture, science and technology, environmental protection, health, foreign economic relations and trade, and inspection and quarantine, and shall be responsible for studying and coordinating major issues in the safety administration of agricultural genetically modified organisms."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State applies a system of graded administration and assessment to the safety of agricultural genetically modified organisms.\nAgricultural genetically modified organisms shall be classified into four grades, Grades I, II, III and IV, according to the degree of danger they pose to humans, animals, plants, microorganisms and the ecological environment. The specific classification standards shall be formulated by the competent agricultural administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State establishes a safety assessment system for agricultural genetically modified organisms.\nThe standards and technical specifications for the safety assessment of agricultural genetically modified organisms shall be formulated by the competent agricultural administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State applies a labelling system to agricultural genetically modified organisms.\nThe catalogue of agricultural genetically modified organisms subject to labelling administration shall be formulated, adjusted and published by the competent agricultural administrative department under the State Council after consultation with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent agricultural administrative department under the State Council shall strengthen the administration of safety assessment of research on and testing of agricultural genetically modified organisms and shall establish a committee on the safety of agricultural genetically modified organisms to be responsible for the safety assessment of agricultural genetically modified organisms.\nThe committee on the safety of agricultural genetically modified organisms shall be composed of experts engaged in the research, production, processing, inspection and quarantine of agricultural genetically modified organisms, as well as in health and environmental protection."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent agricultural administrative department under the State Council may, in light of the needs of the safety assessment of agricultural genetically modified organisms, entrust technical testing institutions that have the conditions and capability for testing to test agricultural genetically modified organisms."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Units engaged in the research and testing of agricultural genetically modified organisms shall have safety facilities and measures commensurate with the safety grade, ensure the safety of such research and testing, and establish a working group on the safety of agricultural genetically modified organisms to be responsible for the safety of research and testing of agricultural genetically modified organisms in their own units."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Anyone engaged in research on Grade III or Grade IV agricultural genetically modified organisms shall report to the competent agricultural administrative department under the State Council before the research begins."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Testing of agricultural genetically modified organisms shall generally go through three stages: intermediate test, environmental release and productive test.\nIntermediate test means a small-scale test conducted within a controlled system or under controlled conditions.\nEnvironmental release means a medium-scale test conducted under natural conditions with the corresponding safety measures taken.\nProductive test means a relatively large-scale test conducted before production and application."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where, after laboratory research on agricultural genetically modified organisms is completed, a shift to intermediate test is needed, the testing unit shall report to the competent agricultural administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where testing of agricultural genetically modified organisms needs to move from one testing stage to the next, the testing unit shall submit an application to the competent agricultural administrative department under the State Council; where the safety assessment conducted by the committee on the safety of agricultural genetically modified organisms is satisfactory, the department shall approve the move to the next testing stage.\nA testing unit submitting an application under the preceding paragraph shall provide the following materials:\n(1) the safety grade of the agricultural genetically modified organisms and the basis for determining that grade;\n(2) a test report issued by a technical testing institution for agricultural genetically modified organisms;\n(3) the corresponding safety management and precautionary measures;\n(4) the test report of the preceding testing stage."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After the completion of a productive test, a unit engaged in the testing of agricultural genetically modified organisms may apply to the competent agricultural administrative department under the State Council for a safety certificate for agricultural genetically modified organisms.\nA testing unit submitting an application under the preceding paragraph shall provide the following materials:\n(1) the safety grade of the agricultural genetically modified organisms and the basis for determining that grade;\n(2) a summary report of the productive test;\n(3) other materials such as test materials and testing methods prescribed by the competent agricultural administrative department under the State Council.\nUpon receipt of the application, the competent agricultural administrative department under the State Council shall entrust technical testing institutions that have the conditions and capability for testing to carry out testing and shall organise the committee on the safety of agricultural genetically modified organisms to conduct a safety assessment; a safety certificate for agricultural genetically modified organisms may be issued only where the safety assessment is satisfactory."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Genetically modified plant seeds, breeding livestock and poultry and aquatic fry and fingerlings, and seeds, breeding livestock and poultry, aquatic fry and fingerlings, pesticides, veterinary medicines, fertilisers and additives produced by using agricultural genetically modified organisms or containing ingredients of agricultural genetically modified organisms, shall, before being subjected to approval, registration or assessment and examination and approval in accordance with the provisions of the relevant laws and administrative regulations, obtain a safety certificate for agricultural genetically modified organisms in accordance with the provisions of Article 16 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where Chinese-foreign cooperative or joint venture entities, or wholly foreign-owned entities, engage in research on or testing of agricultural genetically modified organisms within the territory of the People's Republic of China, the approval of the competent agricultural administrative department under the State Council shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Research and Experimentation"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "To produce genetically modified plant seeds, breeding livestock and poultry or aquatic fry and fingerlings, a production licence for seeds, breeding livestock and poultry or aquatic fry and fingerlings issued by the competent agricultural administrative department under the State Council shall be obtained.\nIn applying for a production licence for genetically modified plant seeds, breeding livestock and poultry or aquatic fry and fingerlings, a production unit or individual shall, in addition to meeting the conditions prescribed by the relevant laws and administrative regulations, meet the following conditions:\n(1) having obtained a safety certificate for agricultural genetically modified organisms and passed variety approval;\n(2) planting or breeding in designated areas;\n(3) having the corresponding safety management and precautionary measures;\n(4) other conditions prescribed by the competent agricultural administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Processing"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Units and individuals producing genetically modified plant seeds, breeding livestock and poultry or aquatic fry and fingerlings shall establish production records stating the place of production, the genes and their sources, the methods of genetic modification and the destination of the seeds, breeding livestock and poultry or aquatic fry and fingerlings."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Processing"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a unit or individual engages in the production or processing of agricultural genetically modified organisms, approval shall be obtained from the competent agricultural administrative department under the State Council or from the competent agricultural administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government. The specific measures shall be formulated by the competent agricultural administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Processing"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Units and individuals engaged in the production or processing of agricultural genetically modified organisms shall organise production and processing in accordance with the approved varieties, scope, safety management requirements and corresponding technical standards, and shall periodically provide the competent agricultural administrative department of the people's government at the county level at the place where they are located with reports on production, processing, safety management and product destination."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Processing"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a genetic safety accident occurs in the course of production or processing of agricultural genetically modified organisms, the production or processing unit or individual shall immediately take remedial safety measures and report to the competent agricultural administrative department of the people's government at the county level at the place where it is located."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Processing"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Units and individuals engaged in the transport or storage of agricultural genetically modified organisms shall take safety control measures commensurate with the safety grade of the agricultural genetically modified organisms and ensure the safety of their transport and storage."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Production and Processing"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Units and individuals dealing in genetically modified plant seeds, breeding livestock and poultry or aquatic fry and fingerlings shall obtain a dealing licence for seeds, breeding livestock and poultry or aquatic fry and fingerlings issued by the competent agricultural administrative department under the State Council.\nIn applying for a dealing licence for genetically modified plant seeds, breeding livestock and poultry or aquatic fry and fingerlings, a dealing unit or individual shall, in addition to meeting the conditions prescribed by the relevant laws and administrative regulations, meet the following conditions:\n(1) having dedicated management personnel and dealing records;\n(2) having the corresponding safety management and precautionary measures;\n(3) other conditions prescribed by the competent agricultural administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Business Operations"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Units and individuals dealing in genetically modified plant seeds, breeding livestock and poultry or aquatic fry and fingerlings shall establish dealing records stating the sources, storage, transport and sales destination of the seeds, breeding livestock and poultry or aquatic fry and fingerlings."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Business Operations"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Agricultural genetically modified organisms listed in the catalogue of agricultural genetically modified organisms that are sold within the territory of the People's Republic of China shall bear conspicuous labels.\nAgricultural genetically modified organisms listed in the catalogue shall be labelled by the production or repackaging units and individuals; unlabelled products may not be sold. Dealing units and individuals shall verify the goods and labels when restocking. Where a dealing unit or individual opens the original packaging for sale, it shall re-label the products."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Business Operations"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Labels of agricultural genetically modified organisms shall state the names of the main raw materials in the product that contain genetically modified ingredients; where there are requirements on the specific sales scope, the sales scope shall also be stated and the products shall be sold within the designated scope."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Business Operations"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Advertisements for agricultural genetically modified organisms may be published, broadcast, displayed or posted only after examination and approval by the competent agricultural administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Business Operations"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where agricultural genetically modified organisms are introduced from outside the territory of the People's Republic of China for research or testing, the introducing unit shall submit an application to the competent agricultural administrative department under the State Council; the department may approve it only where the following conditions are met:\n(1) the applicant has the qualifications for application prescribed by the competent agricultural administrative department under the State Council;\n(2) the agricultural genetically modified organisms introduced have already undergone the corresponding research and testing outside the country (territory);\n(3) there are the corresponding safety management and precautionary measures."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where an overseas company exports to the People's Republic of China genetically modified plant seeds, breeding livestock and poultry or aquatic fry and fingerlings, and plant seeds, breeding livestock and poultry, aquatic fry and fingerlings, pesticides, veterinary medicines, fertilisers and additives produced by using agricultural genetically modified organisms or containing ingredients of agricultural genetically modified organisms, it shall submit an application to the competent agricultural administrative department under the State Council; the department may approve the entry of the test materials and the conduct of intermediate tests, environmental release and productive tests in accordance with the provisions of these Regulations only where the following conditions are met:\n(1) the exporting country or region has already permitted the corresponding use and placed the products on the market;\n(2) scientific testing in the exporting country or region has proved that they are harmless to humans, animals, plants, microorganisms and the ecological environment;\n(3) there are the corresponding safety management and precautionary measures.\nAfter the completion of the productive test, the procedures for approval, registration or assessment and examination and approval may be completed in accordance with the provisions of the relevant laws and administrative regulations only after the safety assessment is satisfactory and a safety certificate for agricultural genetically modified organisms has been obtained."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where an overseas company exports to the People's Republic of China agricultural genetically modified organisms for use as processing raw materials, it shall submit an application to the competent agricultural administrative department under the State Council and submit the test materials, testing methods and other materials required by the department; where the following conditions are met and a technical testing institution entrusted by the department that has the conditions and capability for testing has tested and confirmed that they pose no danger to humans, animals, plants, microorganisms and the ecological environment, and the safety assessment is satisfactory, the department shall issue a safety certificate for agricultural genetically modified organisms:\n(1) the exporting country or region has already permitted the corresponding use and placed the products on the market;\n(2) scientific testing in the exporting country or region has proved that they are harmless to humans, animals, plants, microorganisms and the ecological environment;\n(3) there are the corresponding safety management and precautionary measures."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where agricultural genetically modified organisms are introduced from outside the territory of the People's Republic of China, or are exported to the People's Republic of China, the introducing unit or the overseas company shall, on the strength of the safety certificate for agricultural genetically modified organisms and the relevant approval documents issued by the competent agricultural administrative department under the State Council, apply to the entry-exit inspection and quarantine institution at the port for inspection; only after passing quarantine may it apply to the customs for the relevant formalities."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The transit transfer of agricultural genetically modified organisms through the territory of the People's Republic of China shall comply with the provisions of the relevant laws and administrative regulations of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The competent agricultural administrative department under the State Council shall, within 270 days from the date of receipt of an application, make a decision to approve or disapprove it and notify the applicant."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where agricultural products are exported to outside the territory of the People's Republic of China and the foreign party requires a certificate that the agricultural products are non-genetically modified, the entry-exit inspection and quarantine institution at the port shall, on the basis of the information on genetically modified agricultural products published by the competent agricultural administrative department under the State Council, carry out testing and issue a certificate that the agricultural products are non-genetically modified."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where imported agricultural genetically modified organisms lack the safety certificate for agricultural genetically modified organisms and the relevant approval documents issued by the competent agricultural administrative department under the State Council, or are inconsistent with the certificate and approval documents, they shall be returned or destroyed. Where imported agricultural genetically modified organisms are not labelled in accordance with the provisions, they may enter the country only after being re-labelled."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Import and Export"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "In performing their duties of supervision and inspection, the competent agricultural administrative departments have the power to take the following measures:\n(1) questioning the units and individuals under inspection that engage in research, testing, production, processing, operation, import or export, as well as interested parties and witnesses, and requiring them to provide evidentiary materials or other materials relating to the safety of agricultural genetically modified organisms;\n(2) consulting or reproducing the relevant records, account books and materials concerning the research, testing, production, processing, operation, import or export of agricultural genetically modified organisms;\n(3) requiring the units and individuals concerned to give explanations on issues relating to the safety of agricultural genetically modified organisms;\n(4) ordering units and individuals that violate the provisions on the safety administration of agricultural genetically modified organisms to cease the illegal acts;\n(5) in an emergency, sealing up or seizing agricultural genetically modified organisms that are illegally researched, tested, produced, processed, dealt in, imported or exported."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Staff members of the competent agricultural administrative departments shall produce their law enforcement certificates when carrying out supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The units and individuals concerned shall support and cooperate with the supervision and inspection of the competent agricultural administrative departments and may not refuse or obstruct supervision and inspection personnel in the lawful performance of their duties."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where it is discovered that agricultural genetically modified organisms pose a danger to humans, animals, plants or the ecological environment, the competent agricultural administrative department under the State Council has the power to declare a prohibition of their production, processing, operation and import, to withdraw the safety certificates for agricultural genetically modified organisms and to destroy the dangerous agricultural genetically modified organisms concerned."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person engages in research on Grade III or Grade IV agricultural genetically modified organisms or conducts intermediate tests without reporting to the competent agricultural administrative department under the State Council, the department shall order suspension of the research or intermediate tests and correction within a prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person engages in environmental release or productive tests without approval, fails to take safety management and precautionary measures as prescribed after obtaining approval, or conducts tests beyond the approved scope, the competent agricultural administrative department under the State Council or the competent agricultural administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, in accordance with its functions and powers, order cessation of the tests and impose a fine of not less than RMB 10,000 but not more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person puts agricultural genetically modified organisms into production and application without authorisation after the completion of a productive test without having obtained a safety certificate for agricultural genetically modified organisms, the competent agricultural administrative department under the State Council shall order cessation of production and application and impose a fine of not less than RMB 20,000 but not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 18 of these Regulations, a person engages in research on or testing of agricultural genetically modified organisms without the approval of the competent agricultural administrative department under the State Council, the department shall order immediate cessation of the research and testing and completion of the approval procedures retroactively within a prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person produces or processes agricultural genetically modified organisms without approval, or produces or processes them not in accordance with the approved varieties, scope, safety management requirements and technical standards, the competent agricultural administrative department under the State Council or the competent agricultural administrative department of the people's government of the province, autonomous region or municipality directly under the Central Government shall, in accordance with its functions and powers, order cessation of production or processing and confiscate the products illegally produced or processed and the illegal gains; where the illegal gains are RMB 100,000 or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000, a fine of not less than RMB 100,000 but not more than RMB 200,000 shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a unit or individual producing or dealing in genetically modified plant seeds, breeding livestock and poultry or aquatic fry and fingerlings fails to prepare and keep production or dealing records in accordance with the provisions, the competent agricultural administrative department of the people's government at or above the county level shall, in accordance with its functions and powers, order correction and impose a fine of not less than RMB 1,000 but not more than RMB 10,000."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a person imports agricultural genetically modified organisms without authorisation and without the approval of the competent agricultural administrative department under the State Council, the department shall order cessation of the import and confiscate the products already imported and the illegal gains; where the illegal gains are RMB 100,000 or more, a fine of not less than one time but not more than five times the illegal gains shall also be imposed; where there are no illegal gains or the illegal gains are less than RMB 100,000, a fine of not less than RMB 100,000 but not more than RMB 200,000 shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, agricultural genetically modified organisms are imported, carried or sent by post without applying to the entry-exit inspection and quarantine institution at the port for inspection, the institution shall impose a penalty by reference to the relevant provisions of the law on the quarantine of entry and exit animals and plants."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where the provisions of these Regulations on the labelling administration of agricultural genetically modified organisms are violated, the competent agricultural administrative department of the people's government at or above the county level shall, in accordance with its functions and powers, order correction within a prescribed time limit, may confiscate the products illegally sold and the illegal gains, and may impose a fine of not less than RMB 10,000 but not more than RMB 50,000."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Whoever counterfeits, forges, assigns or trades in the relevant certifying documents for agricultural genetically modified organisms shall have the corresponding certifying documents confiscated by the competent agricultural administrative department of the people's government at or above the county level in accordance with its functions and powers, and a fine of not less than RMB 20,000 but not more than RMB 100,000 shall be imposed; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a genetic safety accident occurs in the course of research, testing, production, processing, storage, transport or sale, or import or export, of agricultural genetically modified organisms and damage is caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the competent agricultural administrative department under the State Council or the competent agricultural administrative department of the people's government of a province, autonomous region or municipality directly under the Central Government issues licences, safety certificates for agricultural genetically modified organisms or other approval documents in violation of the provisions of these Regulations, or fails to perform its duties of supervision and administration after issuing such licences, certificates or other approval documents, administrative sanctions shall be imposed in accordance with law on the persons in charge bearing direct responsibility and other persons directly responsible; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Penalty Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]

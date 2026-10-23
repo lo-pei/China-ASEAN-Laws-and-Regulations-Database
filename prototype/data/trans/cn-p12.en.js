@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p12
-   法规 74 部 / 译文 771 条
+   法规 80 部 / 译文 1155 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -3815,6 +3815,762 @@
     ]
   };
 
+  TR['CN-REG-0001'] = {
+    "lawId": "CN-REG-0001",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Law on the Prevention and Control of Infectious Diseases for the purpose of preventing and controlling the occurrence and spread of HIV/AIDS and safeguarding human health and public health."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "HIV/AIDS prevention and control shall adhere to the principle of giving priority to prevention and combining prevention with control, establish a mechanism under which the government provides organisation and leadership, the departments assume their respective responsibilities and the whole society participates, strengthen publicity and education, adopt such measures as behavioural intervention, care and assistance, and implement comprehensive prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "No unit or individual shall discriminate against people living with HIV, AIDS patients or their family members. The lawful rights and interests of people living with HIV, AIDS patients and their family members in such matters as marriage, employment, medical treatment and school enrolment shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall exercise unified leadership over HIV/AIDS prevention and control, establish and improve the coordination mechanism and the work responsibility system for HIV/AIDS prevention and control, and assess and supervise the HIV/AIDS prevention and control work undertaken by the relevant departments.\nThe relevant departments of people's governments at or above the county level shall, according to the division of responsibilities, be responsible for HIV/AIDS prevention and control and the supervision and administration thereof."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent health department under the State Council shall, together with the other relevant departments under the State Council, formulate the national plan for HIV/AIDS prevention and control; local people's governments at or above the county level shall, in accordance with these Regulations and the national plan for HIV/AIDS prevention and control, formulate and organise the implementation of action plans for HIV/AIDS prevention and control within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State encourages and supports trade unions, Communist Youth Leagues, women's federations, Red Cross societies and other organisations in assisting people's governments at all levels in carrying out HIV/AIDS prevention and control.\nResidents' committees and villagers' committees shall assist local people's governments at all levels and the relevant government departments in carrying out publicity and education on the laws, regulations, policies and knowledge relating to HIV/AIDS prevention and control, develop public welfare undertakings relating to HIV/AIDS prevention and control, and perform well the work of HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at all levels and the relevant government departments shall take measures to encourage and support the relevant organisations and individuals in participating, in accordance with these Regulations and the requirements of the national plan and action plans for HIV/AIDS prevention and control, in HIV/AIDS prevention and control, in making donations for HIV/AIDS prevention and control, in conducting behavioural intervention among groups with high-risk behaviour for HIV infection, and in providing care and assistance to people living with HIV, AIDS patients and their family members."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State encourages and supports scientific research relating to the prevention, diagnosis and treatment of HIV/AIDS so as to raise the scientific and technological level of HIV/AIDS prevention and control; and encourages and supports clinical treatment and research on the prevention and control of HIV/AIDS by traditional medicine and by combining traditional medicine with modern medicine.\nThe State encourages and supports international cooperation and exchange in HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "People's governments at or above the county level and the relevant government departments shall commend and reward the units and individuals that have made notable achievements and contributions in HIV/AIDS prevention and control.\nSubsidies and pensions shall be granted in accordance with the relevant provisions to persons who are infected with HIV, or who contract the disease, lose their capacity to work or die, as a result of participation in HIV/AIDS prevention and control or of the performance of official duties."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Local people's governments at all levels and the relevant government departments shall organise publicity and education on HIV/AIDS prevention and control and on care for and non-discrimination against people living with HIV, AIDS patients and their family members, advocate a healthy and civilised lifestyle, and create a favourable social environment for HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Local people's governments at all levels and the relevant government departments shall, at conspicuous positions in public places such as railway stations, wharves, airports and parks and on public means of transport such as passenger trains and vessels engaged in passenger transport, put up fixed billboards for HIV/AIDS prevention and control or post public service advertisements on HIV/AIDS prevention and control, and organise the distribution of publicity materials on HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The competent health departments of people's governments at or above the county level shall strengthen publicity and education on HIV/AIDS prevention and control and provide technical support to the relevant departments, organisations and individuals in carrying out such publicity and education.\nMedical and health institutions shall organise their staff to study the laws, regulations, policies and knowledge relating to HIV/AIDS prevention and control; and medical personnel shall, in the course of providing consultation, diagnosis and treatment for HIV/AIDS, sexually transmitted diseases and other related diseases, carry out publicity and education on HIV/AIDS prevention and control for the persons seeking medical treatment."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The competent education departments of people's governments at or above the county level shall guide and urge institutions of higher education, secondary vocational schools and ordinary middle schools to incorporate knowledge of HIV/AIDS prevention and control into the relevant curricula and to carry out the relevant extracurricular educational activities.\nInstitutions of higher education, secondary vocational schools and ordinary middle schools shall organise students to study knowledge of HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The competent health departments of people's governments at or above the county level shall make use of the family planning publicity and technical service network to organise and carry out publicity and education on HIV/AIDS prevention and control.\nFamily planning technical service institutions shall, when providing family planning technical services and reproductive health services to persons of childbearing age, carry out publicity and education on HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The relevant departments of people's governments at or above the county level and the institutions engaged in labour intermediary services shall strengthen publicity and education on HIV/AIDS prevention and control for rural migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Entry-exit inspection and quarantine authorities shall strengthen publicity and education on HIV/AIDS prevention and control at entry-exit ports and provide targeted consultation and guidance on HIV/AIDS prevention and control to persons entering or leaving the country."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State encourages and supports women's federations and Red Cross societies in carrying out publicity and education on HIV/AIDS prevention and control, incorporates such publicity and education into the work concerning women and children, enhances women's awareness and capacity for the prevention of HIV/AIDS, and organises members and volunteers of Red Cross societies to carry out publicity and education on HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Local people's governments at all levels and the relevant government departments shall take measures to encourage and support the relevant organisations and individuals in carrying out consultation, guidance, publicity and education on HIV/AIDS prevention and control among groups with high-risk behaviour for HIV infection."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "News media such as radio, television, newspapers and periodicals and the internet shall carry out public service publicity on HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "State organs, organisations, enterprises, public institutions and individual economic organisations shall organise their employees to study the laws, regulations, policies and knowledge relating to HIV/AIDS prevention and control and support their employees in participating in publicity and education activities on HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Local people's governments at or above the county level shall open HIV/AIDS prevention and control consultation hotlines at medical and health institutions so as to provide the public with consultation services and guidance on HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Publicity and Education"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall establish and improve an HIV/AIDS surveillance network.\nThe competent health department under the State Council shall formulate the national HIV/AIDS surveillance plan and programme. The competent health departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the national HIV/AIDS surveillance plan and programme, formulate the HIV/AIDS surveillance plans and work programmes for their respective administrative areas, organise HIV/AIDS surveillance and special investigations, and keep abreast of changes in the HIV/AIDS epidemic situation and its epidemic trend.\nDisease prevention and control institutions shall be responsible for carrying out surveillance of the occurrence and spread of HIV/AIDS and of the factors affecting such occurrence and spread.\nEntry-exit inspection and quarantine authorities shall be responsible for carrying out HIV/AIDS surveillance among persons entering or leaving the country and shall report the surveillance results to the competent health department in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State operates a system of voluntary counselling and voluntary testing for HIV/AIDS.\nMedical and health institutions designated by the competent health departments of local people's governments at or above the county level shall, in accordance with the measures for voluntary counselling and testing for HIV/AIDS formulated by the competent health department under the State Council together with the other relevant departments under the State Council, provide counselling and initial screening tests free of charge to persons who voluntarily accept HIV/AIDS counselling and testing."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The competent health department under the State Council may, together with the other relevant departments under the State Council and in light of the need for the prevention and control of HIV/AIDS, specify the circumstances under which HIV testing shall be conducted."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The competent health departments of people's governments at or above the provincial level shall, on the basis of the distribution of medical and health institutions and the HIV/AIDS epidemic situation and in accordance with the relevant provisions of the State, designate the laboratories that undertake HIV testing.\nThe national entry-exit inspection and quarantine authorities shall, in accordance with the standards and specifications prescribed by the competent health department under the State Council, designate the laboratories that undertake HIV testing among persons entering or leaving the country."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "People's governments at or above the county level and the relevant government departments shall, in accordance with these Regulations and in light of the HIV/AIDS epidemic situation in their respective administrative areas, formulate measures to encourage and support residents' committees, villagers' committees and other relevant organisations and individuals in promoting behavioural intervention measures for the prevention of HIV/AIDS and in helping groups with high-risk behaviour for HIV infection to change their behaviour.\nThe implementation of behavioural intervention measures among groups with high-risk behaviour for HIV infection by the relevant organisations and individuals shall conform to the provisions of these Regulations and the requirements of the national plan and action plans for HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "People's governments at or above the county level shall establish a coordination mechanism between HIV/AIDS prevention and control and drug control, and organise the relevant departments to implement HIV/AIDS prevention and control measures targeting drug users.\nThe health, public security and pharmaceutical regulation departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall cooperate with each other and, in light of the HIV/AIDS epidemic situation and the situation of drug users in their respective administrative areas, actively and steadily carry out maintenance drug treatment for drug addicts and implement other intervention measures in a planned manner."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The health, market regulation, pharmaceutical regulation, radio and television and other departments of people's governments at or above the county level shall organise the promotion of the use of condoms and establish and improve the condom supply network."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The operators of public places designated by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall place condoms in such public places or install condom vending facilities therein."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Service personnel in public places shall, in accordance with the provisions of the Regulations on the Administration of Public Place Hygiene, undergo the relevant health examinations at regular intervals and obtain health certificates; and the operators shall check their health certificates and shall not permit persons who have not obtained health certificates to engage in service work."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Public security and judicial administrative organs shall, in respect of people living with HIV and AIDS patients who have been lawfully arrested, detained or subjected to criminal penalties in prisons, or lawfully subjected to custody for education, compulsory drug rehabilitation or re-education through labour, adopt corresponding prevention and control measures to prevent the spread of HIV/AIDS.\nLocal people's governments at or above the county level shall provide funding guarantees for the prevention and control measures adopted by public security and judicial administrative organs in accordance with the provisions of the preceding paragraph, and disease prevention and control institutions shall provide technical guidance and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For health technicians and persons who may be infected with HIV in the performance of official duties, the competent health departments and other relevant departments of people's governments at or above the county level shall organise training in HIV/AIDS prevention and control knowledge and professional skills, and the units concerned shall adopt effective hygiene protection measures and health care measures."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Medical and health institutions and entry-exit inspection and quarantine authorities shall, in accordance with the provisions of the competent health department under the State Council, observe the principle of standard precautions and strictly comply with operating procedures and disinfection management systems so as to prevent nosocomial and iatrogenic HIV infections."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Disease prevention and control institutions shall, in accordance with the principle of territorial management, conduct medical follow-up of people living with HIV and AIDS patients."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Blood centres and plasma collection stations shall conduct HIV testing on the human blood and plasma collected; and shall not supply human blood or plasma that has not been tested for HIV or that tests positive for HIV to medical institutions or blood product manufacturing units.\nBlood product manufacturing units shall conduct HIV testing on each portion of plasma before feeding the raw plasma into production; and plasma that has not been tested for HIV or that tests positive for HIV shall not be fed into production as raw plasma.\nMedical institutions shall conduct HIV testing on blood temporarily collected for emergency use and verify the HIV testing results of blood for clinical use; and blood that has not been tested or verified for HIV or that tests positive for HIV shall not be collected or used."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "HIV testing shall be conducted where human tissues, organs, cells, bone marrow and the like are collected or used; and where no HIV testing has been conducted or the test result is positive for HIV, such tissues, organs, cells, bone marrow and the like shall not be collected or used, except for scientific research and teaching on HIV/AIDS prevention and control."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The import of human blood products shall, in accordance with the provisions of the Pharmaceutical Administration Law, be subject to approval by the pharmaceutical regulation department under the State Council and the obtaining of an import drug registration certificate.\nThe import and export of human blood, plasma, tissues, organs, cells, bone marrow and the like for clinical medical use are prohibited. However, for humanitarian purposes and the purpose of saving lives and healing the wounded, special blood group blood, bone marrow haematopoietic stem cells, peripheral blood haematopoietic stem cells and umbilical cord blood haematopoietic stem cells that are urgently needed clinically and are donated with matching may be imported or exported, with the entry-exit formalities handled by the Red Cross Society of China; and the specific measures shall be formulated by the competent health department under the State Council together with the national entry-exit inspection and quarantine authorities.\nSpecial blood group blood, bone marrow haematopoietic stem cells, peripheral blood haematopoietic stem cells and umbilical cord blood haematopoietic stem cells imported or exported in accordance with the provisions of the preceding paragraph shall be subject to quarantine by entry-exit inspection and quarantine authorities in accordance with the relevant provisions of the laws and administrative regulations on frontier health quarantine. Those that have not been quarantined or that fail quarantine shall not be imported or exported."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "People living with HIV and AIDS patients shall perform the following obligations:\n(a) to accept epidemiological investigation and guidance by disease prevention and control institutions or entry-exit inspection and quarantine authorities;\n(b) to promptly inform the persons with whom they have sexual relations of the fact of infection or onset of the disease;\n(c) to truthfully inform the attending doctor of the fact of infection or onset of the disease when seeking medical treatment;\n(d) to adopt the necessary protective measures to prevent infecting others.\nPeople living with HIV and AIDS patients shall not intentionally spread HIV/AIDS by any means."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where disease prevention and control institutions and entry-exit inspection and quarantine authorities conduct epidemiological investigation of HIV/AIDS, the units and individuals under investigation shall truthfully provide the relevant information.\nWithout the consent of the person concerned or his or her guardian, no unit or individual shall disclose the name, address, place of work, portrait, medical history data or other information from which the specific identity of people living with HIV, AIDS patients or their family members may be inferred."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The competent health departments and entry-exit inspection and quarantine authorities of people's governments at or above the county level may seal up articles for which there is evidence proving that they may be contaminated with HIV and shall test or disinfect them. Articles proved by testing to be contaminated with HIV shall be subjected to hygiene treatment or destroyed; and articles not contaminated with HIV or articles that may be used after disinfection shall have the seal-up lifted without delay."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Prevention and Control"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Medical institutions shall provide consultation, diagnosis and treatment services for HIV/AIDS prevention and control to people living with HIV and AIDS patients.\nMedical institutions shall not prevaricate or refuse to treat other diseases of a patient on the ground that the patient is a person living with HIV or an AIDS patient."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Treatment and Relief"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "In respect of confirmed people living with HIV and AIDS patients, the staff of medical and health institutions shall inform the persons concerned of the fact of infection or onset of the disease; and where the persons concerned are persons with no or limited capacity for civil conduct, their guardians shall be informed."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Treatment and Relief"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Medical and health institutions shall, in accordance with the provisions of the technical guidance programme for the prevention of mother-to-child transmission of HIV formulated by the competent health department under the State Council, provide HIV/AIDS prevention and control consultation and testing to pregnant and lying-in women and, in respect of pregnant and lying-in women infected with HIV and their infants, provide such services as consultation on the prevention of mother-to-child transmission of HIV, antenatal guidance, interruption of transmission, treatment, postnatal visits, infant follow-up and testing."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Treatment and Relief"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "People's governments at or above the county level shall adopt the following care and assistance measures for HIV/AIDS prevention and control:\n(a) providing anti-HIV drugs free of charge to AIDS patients in rural areas and to AIDS patients in urban areas with financial difficulties;\n(b) appropriately reducing or waiving, for people living with HIV and AIDS patients in rural areas and in urban areas with financial difficulties, the charges for drugs for the treatment of opportunistic infections;\n(c) providing consultation and initial screening tests free of charge to persons receiving HIV/AIDS consultation and testing;\n(d) providing treatment and consultation for the prevention of mother-to-child transmission of HIV free of charge to pregnant and lying-in women infected with HIV."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Treatment and Relief"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where orphans left by AIDS patients living in difficulty and minors infected with HIV receive compulsory education, miscellaneous fees and textbook charges shall be waived; and where they receive preschool education and education at the senior secondary stage, tuition and other related charges shall be reduced or waived."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Treatment and Relief"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Local people's governments at or above the county level shall provide subsistence assistance to people living with HIV, AIDS patients and their family members who live in difficulty and meet the conditions for social assistance."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Treatment and Relief"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The relevant departments of local people's governments at or above the county level shall create conditions to support people living with HIV and AIDS patients who have the capacity to work in engaging in production and work within their capacity."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Treatment and Relief"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate HIV/AIDS prevention and control into the national economic and social development plans, strengthen and improve the development of the service network for the prevention, testing, control, treatment of and assistance in HIV/AIDS, and establish and improve a professional workforce for HIV/AIDS prevention and control.\nPeople's governments at all levels shall, in light of the needs of HIV/AIDS prevention and control, include the funds for HIV/AIDS prevention and control in the fiscal budget at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in accordance with the responsibilities of the government at the corresponding level, be responsible for the funds required for HIV/AIDS prevention, control and supervision.\nThe competent health department under the State Council shall, together with the other relevant departments under the State Council and in light of the HIV/AIDS epidemic trend, determine the national projects relating to HIV/AIDS prevention and control, including publicity, training, surveillance, testing, epidemiological investigation, medical treatment, emergency response, and supervision and inspection. The central government finances shall grant subsidies for major HIV/AIDS prevention and control projects implemented in areas with a severe HIV/AIDS epidemic and in poverty-stricken areas.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the needs of HIV/AIDS prevention and control and the HIV/AIDS epidemic trend in their respective administrative areas, determine the projects relating to HIV/AIDS prevention and control and ensure funding for the implementation of such projects."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "People's governments at or above the county level shall, in light of the needs of HIV/AIDS prevention and control and the HIV/AIDS epidemic trend, reserve anti-HIV drugs, testing reagents and other materials."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Local people's governments at all levels shall formulate support measures to provide the necessary financial support and facilities for the relevant organisations and individuals to carry out HIV/AIDS prevention and control activities. The relevant organisations and individuals participating in public welfare undertakings for HIV/AIDS prevention and control shall enjoy tax preferences in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Guarantee Measures"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where local people's governments at all levels fail to perform their duties of organising, leading and guaranteeing HIV/AIDS prevention and control in accordance with these Regulations, or fail to adopt HIV/AIDS prevention and control and assistance measures, the people's government at the next higher level shall order them to rectify and circulate a notice of criticism; and where the spread or epidemic of HIV/AIDS or other serious consequences are caused, administrative sanctions shall be imposed in accordance with law on the responsible persons in charge; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the competent health departments of people's governments at or above the county level violate the provisions of these Regulations and fall under any of the following circumstances, the people's government at the corresponding level or the competent health department of the people's government at the next higher level shall order them to rectify and circulate a notice of criticism; and where the spread or epidemic of HIV/AIDS or other serious consequences are caused, administrative sanctions shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) failing to perform the duty of publicity and education on HIV/AIDS prevention and control;\n(b) failing to adopt control measures in respect of articles for which there is evidence proving that they may be contaminated with HIV;\n(c) other related acts of dereliction of duty or malfeasance.\nWhere an entry-exit inspection and quarantine authority falls under any of the circumstances specified in the preceding paragraph, the competent department at the next higher level shall impose a penalty on it in accordance with the provisions of this Article."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the relevant departments of people's governments at or above the county level fail to perform their duties of publicity and education and of prevention and control in accordance with these Regulations, the people's government at the corresponding level or the relevant department of the people's government at the next higher level shall order them to rectify and circulate a notice of criticism; and where the spread or epidemic of HIV/AIDS or other serious consequences are caused, administrative sanctions shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where medical and health institutions fail to perform their duties in accordance with these Regulations and fall under any of the following circumstances, the competent health departments of people's governments at or above the county level shall order them to rectify within a specified time limit, circulate a notice of criticism and give them a warning; and where the spread or epidemic of HIV/AIDS or other serious consequences are caused, sanctions of demotion, removal from office or dismissal shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons, and the practice licence of the institution concerned or of the responsible persons may be revoked in accordance with law; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) failing to perform the duty of HIV/AIDS surveillance;\n(b) failing to provide consultation and initial screening tests free of charge as required;\n(c) failing to conduct HIV testing on blood temporarily collected for emergency use, failing to verify the HIV testing results of blood for clinical use, or using blood that tests positive for HIV for clinical purposes;\n(d) failing to observe the principle of standard precautions, or failing to comply with operating procedures and the disinfection management system, thereby causing nosocomial or iatrogenic HIV infection;\n(e) failing to adopt effective hygiene protection measures and health care measures;\n(f) prevaricating or refusing to treat other diseases of people living with HIV or AIDS patients, or failing to provide consultation, diagnosis and treatment services to people living with HIV or AIDS patients;\n(g) failing to conduct medical follow-up of people living with HIV or AIDS patients;\n(h) failing to provide technical guidance on the prevention of mother-to-child transmission of HIV to pregnant and lying-in women infected with HIV and their infants as required.\nWhere an entry-exit inspection and quarantine authority falls under the circumstances specified in subparagraphs (a), (d) and (e) of the preceding paragraph, the competent department at the next higher level shall impose a penalty on it in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a medical and health institution, in violation of the provisions of paragraph 2 of Article 39 of these Regulations, discloses information on people living with HIV, AIDS patients or their family members, a penalty shall be imposed in accordance with the provisions of the Law on the Prevention and Control of Infectious Diseases.\nWhere an entry-exit inspection and quarantine authority, a family planning technical service institution or any other unit or individual, in violation of the provisions of paragraph 2 of Article 39 of these Regulations, discloses information on people living with HIV, AIDS patients or their family members, the competent department at the next higher level shall order it to rectify, circulate a notice of criticism and give it a warning, and sanctions shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons; and where the circumstances are serious, the department that originally issued the licence shall revoke the practice licence of the institution concerned or of the responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a blood centre or plasma collection station violates the provisions of these Regulations and falls under any of the following circumstances, and a crime is constituted, criminal responsibility shall be investigated in accordance with law; and where a crime is not constituted, the competent health department of the people's government at or above the county level shall impose a penalty in accordance with the provisions of the Blood Donation Law and the Regulations on the Administration of Blood Products; and where the spread or epidemic of HIV/AIDS or other serious consequences are caused, sanctions of demotion, removal from office or dismissal shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons, and the practice licence of the blood centre or plasma collection station may be revoked in accordance with law:\n(a) failing to conduct HIV testing on the human blood or plasma collected, or continuing to collect human blood or plasma found to test positive for HIV;\n(b) supplying human blood or plasma that has not been tested for HIV, or that tests positive for HIV, to medical institutions or blood product manufacturing units."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where human tissues, organs, cells, bone marrow and the like are collected or used in violation of the provisions of Article 36 of these Regulations, the competent health department of the people's government at the county level shall order rectification, circulate a notice of criticism and give a warning; and where the circumstances are serious, it shall order suspension of business for rectification and, where a practice licence has been obtained, the department that originally issued the licence shall suspend or revoke the practice licence."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "In respect of human blood, plasma, tissues, organs, cells, bone marrow and the like imported or exported not in conformity with the provisions of paragraph 2 of Article 37 of these Regulations, the entry-exit inspection and quarantine authority at the port of entry or exit shall prohibit their entry or exit or supervise their destruction. Where human blood, plasma, tissues, organs, cells, bone marrow and the like imported without quarantine by an entry-exit inspection and quarantine authority are provided or used, the competent health department of the people's government at or above the county level shall confiscate the illegal articles and illegal gains and impose a fine of not less than three times but not more than five times the value of the illegal articles; and sanctions shall be imposed in accordance with law on the responsible persons in charge and other directly responsible persons by the unit to which they belong or by the competent department at the next higher level.\nWhere blood products are imported without the approval of the pharmaceutical regulation department under the State Council, a penalty shall be imposed in accordance with the provisions of the Pharmaceutical Administration Law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where blood centres, plasma collection stations, medical and health institutions or blood product manufacturing units, in violation of the provisions of laws and administrative regulations, cause another person to be infected with HIV, they shall bear civil liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the operator of a public place fails to check the health certificates of service personnel or permits persons who have not obtained health certificates to engage in service work, or where the operator of a public place designated by the people's government of a province, an autonomous region or a municipality directly under the Central Government fails to place condoms in the public place or install condom vending facilities therein, the competent health department of the people's government at or above the county level shall order rectification within a specified time limit and give a warning and may concurrently impose a fine of not less than 500 yuan but not more than 5,000 yuan; and where rectification is not made within the time limit, it shall order suspension of business for rectification; and where the circumstances are serious, the department that originally issued the licence shall revoke the practice licence in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where a person living with HIV or an AIDS patient intentionally spreads HIV/AIDS, he or she shall bear civil liability for compensation in accordance with law; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "For the purpose of these Regulations, the following terms have the meanings given below:\nHIV/AIDS means acquired immunodeficiency syndrome caused by the human immunodeficiency virus (HIV).\nMaintenance drug treatment for drug addicts means the selection of appropriate drugs for maintenance treatment of drug addicts in medical and health institutions approved to provide drug rehabilitation treatment, so as to alleviate dependence on drugs, reduce HIV infection and spread caused by injecting drug use, and reduce diseases, deaths and crimes caused by drug addiction.\nThe principle of standard precautions means that medical personnel treat the blood and other body fluids of all patients and articles contaminated by blood or other body fluids as infectious pathogenic substances and must adopt protective measures when in contact with such substances.\nGroups with high-risk behaviour for HIV infection means groups engaging in such high-risk behaviour as prostitution, soliciting prostitutes, having multiple sexual partners, male homosexual acts and injecting drug use.\nHIV/AIDS surveillance means the continuous and systematic collection of data on the distribution of HIV/AIDS (or HIV infection) and the related factors in various population groups, the comprehensive analysis of such data so as to provide the relevant departments with timely and reliable information and basis for formulating prevention and control strategies and measures, and the evaluation of the effects of prevention and control measures.\nHIV testing means the testing of human blood, other body fluids, tissues and organs, blood derivatives and the like for HIV, HIV antibodies and related immunological indicators by laboratory methods, including HIV testing in surveillance, inspection and quarantine, voluntary counselling and testing, clinical diagnosis, and screening of blood and blood products.\nBehavioural intervention measures means the various measures that can effectively reduce the spread of HIV/AIDS, including: methadone maintenance treatment and other measures against the spread of HIV/AIDS through injecting drug use; measures to promote the use of condoms against the sexual transmission of HIV/AIDS, and standardised and convenient diagnosis and treatment measures for sexually transmitted diseases; measures such as antiviral drug prophylaxis and artificial breast-milk substitute feeding against mother-to-child transmission of HIV/AIDS; voluntary counselling and testing measures for the early detection of infected persons and for facilitating behavioural change; health education measures; and targeted peer education measures to raise individual awareness of norms and reduce high-risk behaviour."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 March 2006. The Several Provisions on the Administration of HIV/AIDS Surveillance, approved by the State Council on 26 December 1987 and issued on 14 January 1988 by the Ministry of Health, the Ministry of Foreign Affairs, the Ministry of Public Security, the former State Education Commission, the National Tourism Administration, the former Civil Aviation Administration of China and the former State Administration of Foreign Experts Affairs, are repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0002'] = {
     "lawId": "CN-REG-0002",
     "sourceLang": "zh",
@@ -4223,6 +4979,624 @@
     ]
   };
 
+  TR['CN-REG-0004'] = {
+    "lawId": "CN-REG-0004",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of regulating security service activities, strengthening the administration of units engaged in security services and of security guards, protecting personal and property safety and maintaining public order."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purpose of these Regulations, security services mean:\n(a) the services of gatekeeping, patrol, guarding, escorting, personal protection, security checks, security technology prevention and security risk assessment provided by a security service company, which, under a security service contract, dispatches security guards to provide such services to a client unit;\n(b) the security and prevention work of gatekeeping, patrol and guarding of the unit itself, carried out by persons recruited by State organs, organisations, enterprises and public institutions;\n(c) the services of gatekeeping, patrol and order maintenance carried out by persons recruited by property service enterprises within the areas under property management.\nThe State organs, organisations, enterprises and public institutions and the property service enterprises specified in subparagraphs (b) and (c) of the preceding paragraph are collectively referred to as units that recruit security guards on their own."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The public security department under the State Council shall be responsible for the supervision and administration of security service activities throughout the country. The public security organs of local people's governments at or above the county level shall be responsible for the supervision and administration of security service activities within their respective administrative areas.\nSecurity service industry associations shall, under the guidance of public security organs, carry out self-regulatory activities of the security service industry in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Security service companies and units that recruit security guards on their own (hereinafter collectively referred to as entities engaging in security services) shall establish and improve the security service management system, the post responsibility system and the security guard management system, strengthen the management, education and training of security guards, and enhance the professional ethics, professional competence and sense of responsibility of security guards."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Entities engaging in security services shall, in accordance with law, safeguard the lawful rights and interests of security guards in respect of social insurance, labour employment, labour protection, wages and welfare benefits, education and training and the like."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Security service activities shall be conducted in a civilised and lawful manner and shall not harm the public interest or infringe upon the lawful rights and interests of others.\nSecurity guards engaging in security service activities in accordance with law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The public security organs and other relevant departments shall commend and reward the entities engaging in security services and the security guards that have made outstanding contributions to the protection of public property and of the lives and property of the people and to the prevention and restraint of illegal and criminal activities."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A security service company shall meet the following conditions:\n(a) having a registered capital of not less than RMB 1 million;\n(b) the proposed legal representative and the principal managerial personnel of the security service company shall possess the professional knowledge and relevant business work experience required for holding the post, and have no adverse record such as having been subjected to criminal punishment, re-education through labour, custody for education or compulsory isolated drug rehabilitation, or having been dismissed from public office or discharged from military service;\n(c) having professional and technical personnel suited to the security services to be provided, and where laws or administrative regulations require qualifications for professional and technical personnel, such personnel shall have obtained the corresponding qualifications;\n(d) having premises and the facilities and equipment needed for providing security services;\n(e) having a sound organisational structure and sound security service management, post responsibility and security guard management systems."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Security Service Companies"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To apply for the establishment of a security service company, an application form and the materials capable of proving that it meets the conditions specified in Article 8 of these Regulations shall be submitted to the public security organ of the people's government of the city with districts where it is located.\nThe public security organ accepting the application shall conduct examination within 15 days from the date of receipt of the application materials and report its examination opinions to the public security organ of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located. The public security organ of the people's government of the province, autonomous region or municipality directly under the Central Government shall make a decision within 15 days from the date of receipt of the examination opinions, issue a security service licence to those meeting the conditions, and notify the applicant in writing of the reasons for refusal in the case of those not meeting the conditions."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Security Service Companies"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A security service company engaged in armed guarding and escorting services shall conform to the planning and layout requirements of the public security department under the State Council for armed guarding and escorting services, meet the conditions specified in Article 8 of these Regulations and also meet the following conditions:\n(a) having a registered capital of not less than RMB 10 million;\n(b) being solely funded by the State, or having State capital accounting for 51 per cent or more of the total registered capital;\n(c) having guarding and escorting personnel meeting the conditions specified in the Regulations on the Administration of the Use of Firearms by Full-time Guarding and Escorting Personnel;\n(d) having special transport vehicles and communication and alarm equipment meeting national standards or industry standards."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Security Service Companies"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "To apply for the establishment of a security service company engaged in armed guarding and escorting services, an application form and the materials capable of proving that it meets the conditions specified in Articles 8 and 10 of these Regulations shall be submitted to the public security organ of the people's government of the city with districts where it is located. Where a security service company applies for adding armed guarding and escorting business, it is not required to submit again the materials proving that it meets the conditions specified in Article 8 of these Regulations.\nThe public security organ accepting the application shall conduct examination within 15 days from the date of receipt of the application materials and report its examination opinions to the public security organ of the people's government of the province, autonomous region or municipality directly under the Central Government where it is located. The public security organ of the people's government of the province, autonomous region or municipality directly under the Central Government shall make a decision within 15 days from the date of receipt of the examination opinions, issue a security service licence for engaging in armed guarding and escorting business, or add a note of armed guarding and escorting services on the existing security service licence, to those meeting the conditions, and notify the applicant in writing of the reasons for refusal in the case of those not meeting the conditions."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Security Service Companies"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An applicant that has obtained a security service licence shall, on the strength of the security service licence, undergo industrial and commercial registration with the industrial and commercial administrative organ. Where industrial and commercial registration has not been undergone within six months after obtaining the security service licence, the security service licence obtained shall cease to be effective.\nWhere a security service company establishes a branch, it shall file a record with the public security organ of the people's government of the city with districts where the branch is located. For the record filing, the security service licence and the industrial and commercial business licence of the head office and the basic information on the legal representative of the head office, the person in charge of the branch and the security guards shall be provided.\nWhere the legal representative of a security service company changes, the change shall be examined by the public security organ that originally approved the company, and the company shall, on the strength of the examination document, undergo the registration of change with the industrial and commercial administrative organ."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Security Service Companies"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A unit that recruits security guards on its own shall have the status of a legal person, have security guards meeting the conditions specified in these Regulations, and have sound security service management, post responsibility and security guard management systems.\nPlaces of entertainment shall, in accordance with the provisions of the Regulations on the Administration of Places of Entertainment, employ security guards from security service companies and shall not recruit security guards on their own."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Entities Recruiting Security Guards on Their Own"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "A unit that recruits security guards on its own shall, within 30 days from the date of commencement of security services, file a record with the public security organ of the people's government of the city with districts where it is located, and shall provide the following materials for the record filing:\n(a) proof of the status of a legal person;\n(b) basic information on the legal representative (principal person in charge), the person in charge in charge of the relevant work and the security guards;\n(c) basic information on the security service area;\n(d) information on the establishment of the security service management, post responsibility and security guard management systems.\nWhere a unit that recruits security guards on its own ceases to recruit security guards for security services, it shall, within 30 days from the date of cessation of security services, cancel the record filing with the public security organ with which the record was filed."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Entities Recruiting Security Guards on Their Own"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "A unit that recruits security guards on its own shall not provide security services outside the unit itself or outside the area under property management."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Entities Recruiting Security Guards on Their Own"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A Chinese citizen who has reached the age of 18, is in good health, of good conduct and has an educational attainment of junior secondary school or above may apply for a security guard certificate and engage in security service work. A security guard certificate shall be issued to an applicant who has passed the examination and review conducted by the public security organ of the people's government of the city with districts and whose fingerprints and other human biometric information have been retained.\nThe specific measures for collecting and retaining fingerprints and other human biometric information of security guards shall be prescribed by the public security department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Security Guards"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "No person falling under any of the following circumstances shall serve as a security guard:\n(a) having been subjected to custody for education, compulsory isolated drug rehabilitation or re-education through labour, or having been subjected to administrative detention three or more times;\n(b) having been subjected to criminal punishment for an intentional crime;\n(c) having had his or her security guard certificate revoked for less than three years;\n(d) having had his or her security guard certificate revoked twice."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Security Guards"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Entities engaging in security services shall recruit persons meeting the conditions for security guards to serve as security guards and shall conclude labour contracts with the security guards recruited in accordance with law. Entities engaging in security services and their security guards shall participate in social insurance in accordance with law.\nEntities engaging in security services shall, in light of the needs of security service posts, provide security guards with training in laws, professional knowledge and skills of security at regular intervals."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Security Guards"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Entities engaging in security services shall assess security guards at regular intervals and, where a security guard is found to be unqualified or to have seriously violated the management system and the labour contract needs to be terminated, shall handle the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Security Guards"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Entities engaging in security services shall take out accident insurance for security guards according to the degree of risk of the security service posts.\nWhere a security guard is injured or dies as a result of work, he or she shall enjoy work-related injury insurance benefits in accordance with the provisions of the State on work-related injury insurance; and where a security guard who sacrificed his or her life is approved as a martyr, his or her family shall enjoy pensions and preferential treatment in accordance with the provisions of the State on the commendation of martyrs."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Security Guards"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "A security service company providing security services shall conclude a security service contract with the client unit, explicitly specifying the items and content of the services and the rights and obligations of both parties. After the security service contract is terminated, the security service company shall retain the security service contract for at least two years for inspection.\nA security service company shall verify the lawfulness of the security services requested by the client unit, shall refuse unlawful requests for security services and shall report them to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Key units for public security protection, such as those relating to national security and involving State secrets, designated by local people's governments at or above the level of a city with districts, shall not engage security service companies with foreign investment to provide security services."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a security service company dispatches security guards across provinces, autonomous regions or municipalities directly under the Central Government to provide security services to a client unit, it shall file a record with the public security organ of the people's government of the city with districts where the services are provided. For the record filing, the security service licence and the industrial and commercial business licence of the security service company, the security service contract and the basic information on the person in charge of the service project and the security guards shall be provided."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A security service company shall provide standardised security services in accordance with the service standards of the security service industry, and the security guards dispatched by the security service company shall comply with the relevant rules and regulations of the client unit. The client unit shall provide the necessary conditions and guarantees for security guards to engage in security services."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The security technology prevention products used in security services shall meet the relevant product quality requirements. The installation of monitoring equipment in security services shall comply with the relevant technical norms of the State, and the use of monitoring equipment shall not infringe upon the lawful rights and interests or personal privacy of others.\nThe monitoring video and audio recordings and alarm records generated in security services shall be retained for at least 30 days for inspection, and entities engaging in security services and client units shall not delete, alter or disseminate them."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Entities engaging in security services shall keep confidential the State secrets and commercial secrets learned in security services and the information that the client unit explicitly requires to be kept confidential.\nEntities engaging in security services shall not instruct or connive at security guards in obstructing the performance of official duties in accordance with law, participating in the recovery of debts, or handling disputes by means of violence or threats of violence."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Security guards shall wear security guard uniforms and the nationally unified security service mark while on duty. Security guard uniforms and the security service mark shall be clearly distinguishable from the uniforms and insignia of the People's Liberation Army, the People's Armed Police, the people's police, the administrative law enforcement organs such as the industrial and commercial and taxation organs, and the staff of the people's courts and the people's procuratorates.\nThe style of security guard uniforms shall be recommended by the national security service industry association and selected by entities engaging in security services within the range of the recommended styles. The style of the security service mark shall be determined by the national security service industry association."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Entities engaging in security services shall equip security guards with the equipment needed according to the requirements of the security service posts. The standards for equipping security service posts with equipment shall be prescribed by the public security department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "In security services, security guards may, in order to perform their security service duties, take the following measures:\n(a) to check the credentials of persons entering and leaving the service area and register the vehicles and articles entering and leaving;\n(b) to conduct patrol, guarding, security checks and alarm monitoring within the service area;\n(c) to conduct security checks on persons and the articles they carry in public places such as airports, railway stations and wharves so as to maintain public order;\n(d) to establish temporary isolation areas as required by the task when carrying out armed guarding and escorting tasks, provided that interference with the normal activities of citizens shall be minimised.\nSecurity guards shall promptly stop illegal and criminal acts occurring within the service area, shall immediately report to the police illegal and criminal acts that cannot be stopped, and shall at the same time take measures to protect the scene.\nWhere security guards engaged in armed guarding and escorting services use firearms in carrying out armed guarding and escorting tasks, the provisions of the Regulations on the Administration of the Use of Firearms by Full-time Guarding and Escorting Personnel shall apply."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Security guards shall not commit any of the following acts:\n(a) restricting the personal freedom of others, searching the person of others, or insulting or beating others;\n(b) seizing or confiscating the credentials or property of others;\n(c) obstructing the performance of official duties in accordance with law;\n(d) participating in the recovery of debts or handling disputes by means of violence or threats of violence;\n(e) deleting, altering or disseminating the monitoring video and audio recordings or alarm records generated in security services;\n(f) infringing upon personal privacy or divulging the State secrets and commercial secrets learned in security services and the information that the client unit explicitly requires to be kept confidential;\n(g) other acts in violation of laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A security guard shall have the right to refuse to execute an unlawful instruction of the entity engaging in security services or of the client unit. An entity engaging in security services shall not, on the ground that a security guard does not execute an unlawful instruction, terminate the labour contract with the security guard, reduce his or her labour remuneration and other benefits, or cease or underpay the social insurance premiums that shall be paid for him or her in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Security Services"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "A security training unit shall meet the following conditions:\n(a) being a school or vocational training institution established in accordance with law with the status of a legal person;\n(b) having the full-time and part-time teaching staff needed for security training;\n(c) having the premises, facilities and other teaching conditions needed for security training."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Security Training Providers"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A unit engaged in security training shall, within 30 days from the date of commencing security training, file a record with the public security organ of the people's government of the city with districts where it is located, and submit the materials capable of proving that it meets the conditions specified in Article 32 of these Regulations.\nWhere the investor, legal representative (principal person in charge), premises or name of a security training unit changes, the unit shall undergo the change with the public security organ with which the record was originally filed.\nWhere a security training unit terminates training, it shall, within 30 days from the date of termination of training, cancel the record filing with the public security organ with which the record was originally filed."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Security Training Providers"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Training in the use of firearms for security guards engaged in armed guarding and escorting services shall be the responsibility of people's police academies and people's police training institutions. The people's police academies and people's police training institutions undertaking the training shall file a record with the public security organ of the people's government of the province, autonomous region or municipality directly under the Central Government where they are located."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Security Training Providers"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Security training units shall, in accordance with the teaching syllabus for security guard training, formulate teaching plans and provide persons receiving training with training in laws, professional knowledge and skills of security and education in professional ethics.\nThe teaching syllabus for security guard training shall be examined and approved by the public security department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Security Training Providers"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Public security organs shall guide entities engaging in security services in establishing and improving the security service management system, the post responsibility system, the security guard management system and emergency contingency plans, and urge them to implement the relevant management systems.\nEntities engaging in security services, security training units and security guards shall accept the supervision and inspection of public security organs."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Public security organs shall establish an information system for the supervision and administration of security services to record the relevant information on entities engaging in security services, security training units and security guards.\nPublic security organs shall keep confidential the fingerprints and other human biometric information of security guards collected and retained."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The people's police of public security organs shall produce their credentials when conducting supervision and inspection of entities engaging in security services and security training units, and shall urge them to rectify the problems found in supervision and inspection. The circumstances of supervision and inspection and the results of handling shall be truthfully recorded and signed by the supervision and inspection personnel of the public security organ and the relevant persons in charge of the entities engaging in security services or the security training units."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The public security organs of people's governments at or above the county level shall publicise the channels for complaints and accept complaints from the public against entities engaging in security services, security training units and security guards. The public security organ receiving a complaint shall promptly investigate and handle it and give feedback on the result of the investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "State organs and their staff shall not establish security service companies and shall not participate, or participate in a disguised form, in the business activities of security service companies."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where any organisation or individual engages in security services without a licence, a public security administration penalty shall be imposed in accordance with law and the illegal gains shall be confiscated; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where an entity engaging in security services falls under any of the following circumstances, it shall be ordered to rectify within a specified time limit and given a warning; and where the circumstances are serious, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall also be imposed; and where there are illegal gains, the illegal gains shall be confiscated:\n(a) the legal representative of a security service company is changed without examination by the public security organ;\n(b) failing to file a record or cancel a record filing in accordance with the provisions of these Regulations;\n(c) a unit that recruits security guards on its own provides security services outside the unit itself or outside the area under property management;\n(d) recruiting persons not meeting the conditions specified in these Regulations to serve as security guards;\n(e) a security service company fails to verify the lawfulness of the security services requested by the client unit, or fails to report unlawful requests for security services to the public security organ;\n(f) a security service company fails to conclude or retain the security service contract in accordance with the provisions of these Regulations;\n(g) failing to retain the monitoring video and audio recordings or alarm records generated in security services in accordance with the provisions of these Regulations.\nWhere a client unit fails to retain the monitoring video and audio recordings or alarm records generated in security services in accordance with the provisions of these Regulations, it shall be punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where an entity engaging in security services falls under any of the following circumstances, it shall be ordered to rectify within a specified time limit and fined not less than 20,000 yuan but not more than 100,000 yuan; where public security administration is violated, a public security administration penalty shall be imposed in accordance with law; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law against the directly responsible persons in charge and other directly responsible persons:\n(a) divulging the State secrets or commercial secrets learned in security services or the information that the client unit explicitly requires to be kept confidential;\n(b) using monitoring equipment to infringe upon the lawful rights and interests or personal privacy of others;\n(c) deleting, altering or disseminating the monitoring video and audio recordings or alarm records generated in security services;\n(d) instructing or conniving at security guards in obstructing the performance of official duties in accordance with law, participating in the recovery of debts, or handling disputes by means of violence or threats of violence;\n(e) being lax in the management, education and training of security guards, so that cases of security guards committing illegal or criminal acts occur and serious consequences are caused.\nWhere a client unit deletes, alters or disseminates the monitoring video and audio recordings or alarm records generated in security services, it shall be punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where an entity engaging in security services terminates the labour contract with a security guard, reduces his or her labour remuneration and other benefits, or ceases or underpays the social insurance premiums that shall be paid for him or her in accordance with law, on the ground that the security guard does not execute an unlawful instruction, the punishment of the entity engaging in security services and the compensation to the security guard shall be governed by the provisions of the laws and administrative regulations on labour contracts and social insurance."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a security guard commits any of the following acts, the public security organ shall admonish him or her; where the circumstances are serious, his or her security guard certificate shall be revoked; where public security administration is violated, a public security administration penalty shall be imposed in accordance with law; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) restricting the personal freedom of others, searching the person of others, or insulting or beating others;\n(b) seizing or confiscating the credentials or property of others;\n(c) obstructing the performance of official duties in accordance with law;\n(d) participating in the recovery of debts or handling disputes by means of violence or threats of violence;\n(e) deleting, altering or disseminating the monitoring video and audio recordings or alarm records generated in security services;\n(f) infringing upon personal privacy or divulging the State secrets or commercial secrets learned in security services or the information that the client unit explicitly requires to be kept confidential;\n(g) committing other acts in violation of laws or administrative regulations.\nWhere a security guard engaged in armed guarding and escorting uses firearms in violation of the provisions, a penalty shall be imposed in accordance with the provisions of the Regulations on the Administration of the Use of Firearms by Full-time Guarding and Escorting Personnel."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a security guard causes personal injury or death or property loss to another person in security services, the entity engaging in security services shall pay compensation; and where the security guard acted intentionally or with gross negligence, the entity engaging in security services may, in accordance with law, recover the amount from the security guard."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a unit engaged in security training falls under any of the following circumstances, it shall be ordered to rectify within a specified time limit and given a warning; and where the circumstances are serious, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall also be imposed:\n(a) failing to file a record or undergo a change in accordance with the provisions of these Regulations;\n(b) failing to meet the conditions specified in these Regulations;\n(c) concealing the relevant circumstances, providing false materials or refusing to provide truthful materials reflecting its activities;\n(d) failing to carry out security training in accordance with the provisions of these Regulations.\nWhere fraud is committed in the name of security training, a public security administration penalty shall be imposed in accordance with law; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a State organ or its staff establishes a security service company or participates, or participates in a disguised form, in the business activities of a security service company, sanctions shall be imposed in accordance with law on the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the people's police of a public security organ abuse their power, neglect their duties or engage in malpractice for personal gain in the supervision and administration of security service activities, sanctions shall be imposed in accordance with law; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The forms of the security service licence and the security guard certificate shall be prescribed by the public security department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Security service companies established before the entry into force of these Regulations shall apply anew for a security service licence within six months from the date of entry into force of these Regulations. Units that recruited security guards on their own before the entry into force of these Regulations shall file a record with the public security organ within three months from the date of entry into force of these Regulations.\nSecurity guards who were already engaged in security services before the entry into force of these Regulations shall, within one year from the date of entry into force of these Regulations, be organised by the unit for which they work to receive training, and a security guard certificate shall be issued to those who have passed the examination and review conducted by the public security organ of the people's government of the city with districts and whose fingerprints and other human biometric information have been retained."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 January 2010."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0005'] = {
     "lawId": "CN-REG-0005",
     "sourceLang": "zh",
@@ -4626,6 +6000,759 @@
         },
         "noLabel": {
           "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0007'] = {
+    "lawId": "CN-REG-0007",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 64 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Labour Law of the People's Republic of China and the provisions of other relevant laws for the purpose of regulating the payment of wages to rural migrant workers and ensuring that rural migrant workers receive their wages in full and on time."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to ensuring the payment of wages to rural migrant workers.\nFor the purpose of these Regulations, rural migrant workers mean rural residents who provide labour to employing units.\nFor the purpose of these Regulations, wages mean the labour remuneration that rural migrant workers shall receive after providing labour to employing units."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Rural migrant workers have the right to receive their wages in full and on time. No unit or individual shall default on the wages of rural migrant workers.\nRural migrant workers shall observe labour discipline and professional ethics, comply with the rules of labour safety and hygiene, and complete their labour tasks."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Local people's governments at or above the county level shall be responsible for ensuring the payment of wages to rural migrant workers within their respective administrative areas, establish a coordination mechanism for ensuring the payment of wages to rural migrant workers, strengthen capacity building for supervision, improve the system of target responsibility for ensuring the payment of wages to rural migrant workers, and incorporate it into the content of the assessment and supervision of the relevant departments of the people's government at the corresponding level and of the people's governments at lower levels.\nTownship people's governments and sub-district offices shall strengthen the investigation, mediation and handling of conflicts over default in the payment of wages to rural migrant workers, prevent and resolve such conflicts, and mediate disputes in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In ensuring the payment of wages to rural migrant workers, it is necessary to adhere to the assumption of responsibility by market entities, supervision by the government in accordance with law and coordinated supervision by society, and to root out the problem of default in the payment of wages to rural migrant workers in accordance with law in accordance with the requirements of addressing the problem at its source, giving priority to prevention, combining prevention with control and tackling both the symptoms and the root causes."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Employing units shall implement real-name management of the labour employment of rural migrant workers and, by written agreement with the rural migrant workers recruited or through rules and regulations formulated in accordance with law, specify such matters as the wage payment standards, payment time and payment methods."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The human resources and social security administrative departments shall be responsible for the organisation and coordination, management and guidance of the work of ensuring the payment of wages to rural migrant workers and for the supervision and inspection of the payment of wages to rural migrant workers, and shall investigate and handle cases of default in the payment of wages to rural migrant workers.\nThe competent departments for construction in the relevant industries, such as housing and urban-rural development, transport and water resources, shall, according to their duties, perform the responsibility of industry supervision and supervise the handling of cases of default in the payment of wages to rural migrant workers caused by unlawful contracting out, transfer of contracted projects, unlawful subcontracting, affiliation, default in the payment of project payments and the like.\nThe development and reform and other departments shall, according to their duties, be responsible for the examination and approval management of government-invested projects, examine in accordance with law the sources of funds and the methods of raising funds for government-invested projects, arrange government investment in a timely manner as required, strengthen the development of the social credit system, and organise the restriction and punishment, in accordance with law and regulations, of the entities subject to joint disciplinary action for dishonesty in defaulting on the wages of rural migrant workers.\nThe finance departments shall be responsible for the budget management of government investment funds and shall, on the basis of the approved budget, allocate government investment funds in a timely manner and in full as required.\nThe public security organs shall be responsible for promptly accepting and investigating criminal cases suspected of refusing to pay labour remuneration and for handling, in accordance with law, cases of public order offences arising from default in the payment of wages to rural migrant workers.\nThe judicial administration, natural resources, People's Bank of China, audit, state-owned asset management, tax, market regulation, financial regulation and other departments shall, according to their duties, perform the work relating to ensuring the payment of wages to rural migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Trade unions, Communist Youth Leagues, women's federations, federations of persons with disabilities and other organisations shall, according to their duties, safeguard in accordance with law the right of rural migrant workers to receive their wages."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "News media shall carry out public service publicity on the laws, regulations and policies on ensuring the payment of wages to rural migrant workers and report on advanced models, strengthen in accordance with law public opinion supervision over illegal acts of defaulting on the wages of rural migrant workers, guide employing units in enhancing their legal awareness of lawful employment and of paying wages in full and on time, and guide rural migrant workers in safeguarding their rights in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Rural migrant workers whose wages have been defaulted on have the right to complain in accordance with law, or to apply for mediation and arbitration of labour disputes and to institute legal proceedings.\nAny unit or individual has the right to report to the human resources and social security administrative department or other relevant departments acts of defaulting on the wages of rural migrant workers.\nThe human resources and social security administrative departments and other relevant departments shall make public the telephone hotlines, websites and other channels for reporting and complaints and shall accept, in accordance with law, reports and complaints concerning acts of defaulting on the wages of rural migrant workers. The first-inquiry responsibility system shall apply to the handling of reports and complaints; matters within the competence of the department shall be handled promptly in accordance with law, and matters not within the competence of the department shall be promptly referred to the relevant department, which shall handle them promptly in accordance with law and inform the person making the report or complaint of the result of handling."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The wages of rural migrant workers shall be paid in monetary form, by bank transfer or in cash, to the rural migrant workers themselves, and shall not be replaced by other forms such as payments in kind or marketable securities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Forms and Cycles of Wage Payment"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Employing units shall pay wages in full in accordance with the wage payment cycle and the specific payment dates agreed in writing with the rural migrant workers or specified in the rules and regulations formulated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Forms and Cycles of Wage Payment"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a monthly, weekly, daily or hourly wage system is applied, wages shall be paid on a monthly, weekly, daily or hourly cycle; and where a piece-rate wage system is applied, the wage payment cycle shall be agreed upon by both parties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Forms and Cycles of Wage Payment"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The specific payment date agreed in writing between the employing unit and the rural migrant workers or specified in the rules and regulations formulated in accordance with law may fall in the current period or the next period in which the rural migrant workers provide labour. Where the specific payment date falls on a statutory holiday or a rest day, wages shall be paid before the statutory holiday or rest day.\nWhere an employing unit is unable to pay wages on the payment date due to force majeure, it shall pay them promptly after the force majeure is eliminated."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Forms and Cycles of Wage Payment"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Employing units shall prepare written wage payment ledgers in accordance with the wage payment cycle and keep them for at least three years.\nThe written wage payment ledger shall include the name of the employing unit, the payment cycle, the payment date, the names, identity card numbers and contact details of the payees, the working hours, the items and amounts of wages payable, the items and amounts deducted, withheld or withheld and paid on behalf of others, the amount of wages actually paid, and the voucher for wages paid by the bank on behalf of the employing unit or the signature of the rural migrant worker, and the like.\nWhen paying wages to rural migrant workers, employing units shall provide each rural migrant worker with his or her own wage statement."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Forms and Cycles of Wage Payment"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where an employing unit defaults on the wages of rural migrant workers, it shall pay them off in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Settlement of Wage Arrears"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a unit without the qualification for lawful business operations recruits rural migrant workers and the rural migrant workers have provided labour but have not received their wages, the relevant provisions of law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Settlement of Wage Arrears"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a labour-using unit uses rural migrant workers dispatched by an individual, by a unit without the qualification for lawful business operations or by a unit that has not obtained a labour dispatch licence in accordance with law, and defaults on their wages, the labour-using unit shall pay off the wages and may, in accordance with law, recover the amount paid."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Settlement of Wage Arrears"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where an employing unit contracts out work tasks to an individual or to a unit without the qualification for lawful business operations, thereby causing default in the payment of wages to the rural migrant workers it has recruited, the relevant provisions of law shall apply.\nWhere an employing unit permits an individual or a unit without the qualification for lawful business operations or without the corresponding qualifications to conduct business in the name of the employing unit, thereby causing default in the payment of wages to the rural migrant workers it has recruited, the employing unit shall pay off the wages and may, in accordance with law, recover the amount paid."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Settlement of Wage Arrears"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an employing unit such as a partnership enterprise, a solely invested enterprise or an individual economic organisation defaults on the wages of rural migrant workers, it shall pay them off in accordance with law; and where it fails to do so, the investors shall pay them off in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Settlement of Wage Arrears"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where an employing unit is merged or divided, it shall, before the merger or division is carried out, pay off the defaulted wages of rural migrant workers in accordance with law; and where a written agreement is reached with the rural migrant workers, the employing unit that succeeds to its rights and obligations after the merger or division may pay them off."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Settlement of Wage Arrears"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where an employing unit has its business licence or registration certificate revoked in accordance with law, is ordered to close down, is dissolved or is lawfully disbanded, it shall, before applying for cancellation of registration, pay off the defaulted wages of rural migrant workers in accordance with law.\nThe principal investors of an employing unit that has not paid off the wages of rural migrant workers in accordance with the provisions of the preceding paragraph shall pay off the defaulted wages of rural migrant workers before registering a new employing unit."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Settlement of Wage Arrears"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The project owner shall have funds arrangements that meet the needs of construction. Where there are no funds arrangements meeting the needs of construction, the construction project shall not commence construction; and where a construction permit is required in accordance with law, the competent department for construction in the relevant industry shall not issue the construction permit.\nFunds required for government-invested projects shall be put in place in accordance with the relevant provisions of the State, and the construction unit shall not be required to advance funds for construction."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The project owner shall provide a guarantee for the payment of project payments to the construction unit.\nWhere the project owner and the general contractor for construction conclude a written construction contract in accordance with law, they shall stipulate the measurement cycle for project payments, the method for settling project payments by progress and the cycle for allocating labour costs, and shall stipulate the labour costs in accordance with the requirement of ensuring the payment of wages to rural migrant workers in full and on time. The cycle for allocating labour costs shall not exceed one month.\nThe project owner and the general contractor for construction shall keep the construction contract for inspection."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where the general contractor for construction and a subcontractor conclude a written subcontract in accordance with law, they shall stipulate the measurement cycle for project payments and the method for settling project payments by progress."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The general contractor for construction shall, in accordance with the relevant provisions, open a special account for the wages of rural migrant workers, to be used exclusively for paying the wages of rural migrant workers on the construction project.\nThe materials relating to the opening and use of the special account for the wages of rural migrant workers shall be properly kept by the general contractor for construction for inspection."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Financial institutions shall optimise the procedure for opening the special account for the wages of rural migrant workers and shall properly manage the special account for the wages of rural migrant workers in their daily operations; and where they find that funds have not been allocated as agreed, they shall promptly notify the general contractor for construction, which shall report the matter to the human resources and social security administrative department and the competent department for construction in the relevant industry and shall include it in the early warning system for wage arrears.\nWhere the project is completed and there is no default in the payment of wages to rural migrant workers, the general contractor for construction may, after making a public announcement for 30 days, apply to cancel the special account for the wages of rural migrant workers, and the balance in the account shall belong to the general contractor for construction."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The general contractor for construction or a subcontractor shall conclude labour contracts with the rural migrant workers it has recruited in accordance with law and conduct real-name registration of employment, and industries meeting the conditions shall conduct real-name registration and management of employment through the corresponding management and service information platforms. Persons who have not concluded labour contracts with the general contractor for construction or the subcontractor and have not undergone real-name registration of employment shall not enter the project site to work.\nThe general contractor for construction shall assign labour and wage administrators to the project department to supervise and administer the labour employment of subcontractors, keep informed of the employment, attendance and wage payment on the construction site, and examine the wage payment statements for rural migrant workers prepared by subcontractors, and subcontractors shall cooperate.\nThe general contractor for construction and subcontractors shall establish employment management ledgers and keep them for at least three years after the completion of the project and the full settlement of wages."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The project owner shall, in accordance with the contract, allocate project payments in a timely manner and shall allocate labour costs in a timely manner and in full to the special account for the wages of rural migrant workers, and shall strengthen supervision over the payment of wages to rural migrant workers in full and on time by the general contractor for construction.\nWhere the project owner fails to allocate project payments in a timely manner in accordance with the contract, thereby causing default in the payment of wages to rural migrant workers, the project owner shall, to the extent of the unsettled project payments, advance the defaulted wages of rural migrant workers.\nThe project owner shall, with the project as the unit, establish a coordination mechanism for ensuring the payment of wages to rural migrant workers and a mechanism for preventing wage arrears, urge the general contractor for construction to strengthen labour employment management, and properly handle conflicts and disputes relating to the payment of wages to rural migrant workers. Where an incident occurs in which rural migrant workers collectively demand their wages, the project owner shall, together with the general contractor for construction, handle it promptly and report the relevant circumstances to the human resources and social security administrative department and the competent department for construction in the relevant industry at the place where the project is located."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "A subcontractor shall bear direct responsibility for the real-name management of the rural migrant workers it has recruited and for the payment of their wages.\nThe general contractor for construction shall supervise the labour employment and wage payment of subcontractors.\nWhere a subcontractor defaults on the wages of rural migrant workers, the general contractor for construction shall pay them off first and may then recover the amount in accordance with law.\nWhere a construction project is transferred and the wages of rural migrant workers are defaulted on, the general contractor for construction shall pay them off first and may then recover the amount in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "In the field of engineering construction, the system under which subcontractors entrust the general contractor for construction with the payment of the wages of rural migrant workers on their behalf shall be promoted.\nSubcontractors shall assess the workload of rural migrant workers on a monthly basis and prepare wage payment statements, which shall, after being signed and confirmed by the rural migrant workers themselves, be submitted to the general contractor for construction together with information on the progress of the project for the current month and the like.\nThe general contractor for construction shall, on the basis of the wage payment statements prepared by subcontractors, pay wages directly into the bank accounts of the rural migrant workers themselves through the special account for the wages of rural migrant workers, and shall provide the subcontractors with vouchers for the wages paid on their behalf.\nThe social security cards or bank cards of rural migrant workers themselves linked to the bank accounts used for paying the wages of rural migrant workers shall not be withheld, or withheld in a disguised form, by employing units or other persons on any ground."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The general contractor for construction shall, in accordance with the relevant provisions, deposit a wage deposit, to be used exclusively for paying the defaulted wages of rural migrant workers who provide labour for the contracted project.\nDifferentiated deposit methods shall apply to wage deposits, with reduction or waiver measures applying to units that have not defaulted on wages within a certain period and an appropriate increase in the deposit proportion applying to units that have defaulted on wages. The wage deposit may be replaced by a letter of guarantee issued by a financial institution.\nThe specific measures on the deposit proportion, deposit forms, reduction and waiver measures and the like of wage deposits shall be formulated by the human resources and social security administrative department under the State Council together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Unless otherwise provided by law, the funds in the special account for the wages of rural migrant workers and the wage deposit shall not be sealed up, frozen or transferred for reasons other than the payment of wages to rural migrant workers who provide labour for the project."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The general contractor for construction shall set up a notice board for rights protection information at a conspicuous position on the construction site, clearly indicating the following matters:\n(a) basic information on the project owner, the general contractor for construction and its project department, the subcontractors, the competent department for construction in the relevant industry, the labour and wage administrators and the like;\n(b) basic information such as the local minimum wage standard and the wage payment dates;\n(c) information such as the telephone hotlines for complaints and reports of the competent department for construction in the relevant industry and of labour security inspection, the channels for applying for mediation and arbitration of labour disputes, the channels for applying for legal aid and the hotline for public legal services."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a dispute arises between the project owner and the general contractor for construction, or between the contractor and a subcontractor, over the quantity, quality or cost of the works, the project owner shall not, on the ground of the dispute, fail to allocate the labour costs in the project payments in accordance with the provisions of Article 24 of these Regulations, and the general contractor for construction shall likewise not, on the ground of the dispute, fail to pay wages on behalf of others as required."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where the project owner or the general contractor for construction contracts out or subcontracts a construction project to an individual or to a unit without the qualification for lawful business operations, thereby causing default in the payment of wages to rural migrant workers, the project owner or the general contractor for construction shall pay off the wages.\nWhere a construction unit permits another unit or individual to undertake a construction project in its name, thereby causing default in the payment of wages to rural migrant workers, the construction unit shall pay off the wages."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a construction project violates the laws and regulations on territorial spatial planning and engineering construction, thereby causing default in the payment of wages to rural migrant workers, the project owner shall pay off the wages."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Special Provisions for the Field of Engineering Construction"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Local people's governments at or above the county level shall establish a platform for monitoring and early warning of the payment of wages to rural migrant workers so as to achieve the timely sharing of information on project examination and approval, availability of funds, construction permits, labour employment and wage payment among the human resources and social security, development and reform, judicial administration, finance, housing and urban-rural development, transport, water resources and other departments.\nThe human resources and social security administrative departments shall, on the basis of changes in indicators reflecting the production and operation of enterprises, such as the supply of water, electricity and gas, property management, credit and taxation, promptly monitor and give early warning of hidden risks in wage payment and take preventive measures, and the market regulation, financial regulation, tax and other departments shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The human resources and social security administrative departments, the competent departments for construction in the relevant industries and other relevant departments shall, according to their duties, strengthen supervision and inspection of the conclusion of labour contracts between employing units and rural migrant workers, wage payment, and the implementation of real-name management of rural migrant workers, management of the special account for the wages of rural migrant workers, payment of wages on behalf of others by the general contractor for construction, deposit of wage deposits and publication of rights protection information in construction projects, so as to prevent and reduce the occurrence of default in the payment of wages to rural migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the human resources and social security administrative department, in investigating and handling a case of default in the payment of wages to rural migrant workers, needs to inquire in accordance with law into the financial accounts of the unit concerned and the houses, vehicles and other property owned by the parties concerned, it shall obtain the approval of the person in charge of the human resources and social security administrative department of the local people's government at or above the level of a city with districts, and the financial institutions and registration departments concerned shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where, in investigating and handling a case of default in the payment of wages to rural migrant workers, circumstances occur such as the employing unit refusing to cooperate with the investigation or the entity liable for payment and the parties concerned being unreachable, the human resources and social security administrative department may request the public security organ and other relevant departments to assist in handling the matter.\nWhere the human resources and social security administrative department finds that an illegal act of defaulting on the wages of rural migrant workers is suspected of constituting the crime of refusing to pay labour remuneration, it shall, in accordance with the relevant provisions, promptly refer the case to the public security organ for examination and decision."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a relevant unit fails to pay after the human resources and social security administrative department has made a decision ordering the payment of the defaulted wages of rural migrant workers, the department may apply to the people's court for compulsory enforcement in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The competent departments for construction in the relevant industries shall, in accordance with law, regulate the order of the construction market in their respective fields, investigate and handle acts of unlawful contracting out, transfer of contracted projects, unlawful subcontracting and affiliation, and promptly stop and correct illegal acts causing default in the payment of wages to rural migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The finance departments, audit institutions and competent departments for construction in the relevant industries shall, according to their duties, supervise in accordance with law the allocation of funds by the project owners of government-invested projects to the special account for the wages of rural migrant workers in accordance with the construction contract."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The judicial administration departments and legal aid institutions shall make rural migrant workers a priority target of legal aid and shall, in accordance with law, provide convenient legal aid to rural migrant workers who request the payment of wages.\nThe institutions relating to public legal services shall actively participate in the relevant litigation, consultation, mediation and other activities and help resolve the problem of default in the payment of wages to rural migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The human resources and social security administrative departments, the competent departments for construction in the relevant industries and other relevant departments shall, in accordance with the requirements of the responsibility system for popularising the law under which whoever enforces the law popularises it, intensify the popularisation and publicity of the laws and regulations relating to ensuring the payment of wages to rural migrant workers through various forms such as explaining the law by cases."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The human resources and social security administrative departments shall establish records of law-abiding and trustworthy employing units and the persons responsible concerned in respect of labour security and shall carry out rating evaluation of the law-abiding and trustworthy level of employing units.\nWhere an employing unit commits a serious illegal act of defaulting on the wages of rural migrant workers, the human resources and social security administrative department shall make it public and, where necessary, expose it to the media publicly by such means as holding a press conference."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where an employing unit defaults on the wages of rural migrant workers and the circumstances are serious or serious adverse social effects are caused, the relevant departments shall include the employing unit and its legal representative or principal person in charge, the directly responsible persons in charge and other directly responsible persons in the list of entities subject to joint disciplinary action for dishonesty in defaulting on the wages of rural migrant workers, and shall restrict them in accordance with law and regulations in respect of government financial support, government procurement, tendering and bidding, financing and loans, market access, tax preferences, evaluation of excellence and selection of the advanced, and transport and travel.\nThe specific circumstances under which default in the payment of wages to rural migrant workers requires inclusion in the list of entities subject to joint disciplinary action for dishonesty shall be prescribed by the human resources and social security administrative department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the project owner fails to provide a guarantee for the payment of project payments in accordance with law, or a government-invested project defaults on project payments, thereby causing default in the payment of wages to rural migrant workers, the local people's government at or above the county level shall restrict its new projects and record it in the credit record and include it in the national credit information system for publication."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a dispute arises between a rural migrant worker and an employing unit over default in the payment of wages, the employing unit shall provide the labour contract, the employee roster, the wage payment ledger and statements and other materials that it keeps in accordance with law; and where it fails to provide them, it shall bear the adverse consequences in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Trade unions shall safeguard in accordance with law the wage rights and interests of rural migrant workers and supervise the wage payment of employing units; and where they find default in the payment of wages to rural migrant workers, they may request the employing unit to rectify, and where it refuses to rectify, they may request the human resources and social security administrative department and other relevant departments to handle the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a unit or individual fabricates false facts or adopts illegal means to demand the wages of rural migrant workers, or demands project payments in the name of defaulted wages of rural migrant workers, the matter shall be handled in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where wages of rural migrant workers are defaulted on in violation of the provisions of these Regulations, the relevant provisions of law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where any of the following circumstances occurs, the human resources and social security administrative department shall order rectification within a specified time limit; and where rectification is not made within the time limit, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed on the unit, and a fine of not less than 10,000 yuan but not more than 30,000 yuan shall be imposed on the legal representative or principal person in charge, the directly responsible persons in charge and other directly responsible persons:\n(a) paying the wages of rural migrant workers in forms such as payments in kind or marketable securities instead of in currency;\n(b) failing to prepare and keep wage payment ledgers in accordance with law, or failing to provide wage statements to rural migrant workers;\n(c) withholding, or withholding in a disguised form, the social security cards or bank cards of rural migrant workers themselves linked to the bank accounts used for paying the wages of rural migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where any of the following circumstances occurs, the human resources and social security administrative department and the competent department for construction in the relevant industry shall, according to their duties, order rectification within a specified time limit; and where rectification is not made within the time limit, they shall order the project to be suspended and concurrently impose a fine of not less than 50,000 yuan but not more than 100,000 yuan; and where the circumstances are serious, penalties such as restricting the construction unit from undertaking new projects, lowering its qualification grade and revoking its qualification certificate shall be imposed:\n(a) the general contractor for construction fails to open or use the special account for the wages of rural migrant workers as required;\n(b) the general contractor for construction fails to deposit the wage deposit as required or fails to provide a letter of guarantee issued by a financial institution;\n(c) the general contractor for construction or a subcontractor fails to implement real-name management of labour employment."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where any of the following circumstances occurs, the human resources and social security administrative department and the competent department for construction in the relevant industry shall, according to their duties, order rectification within a specified time limit; and where rectification is not made within the time limit, a fine of not less than 50,000 yuan but not more than 100,000 yuan shall be imposed:\n(a) a subcontractor fails to assess the workload of rural migrant workers on a monthly basis, prepare wage payment statements and have them signed and confirmed by the rural migrant workers themselves;\n(b) the general contractor for construction fails to supervise and administer the labour employment of subcontractors;\n(c) a subcontractor fails to cooperate with the general contractor for construction in supervising and administering its labour employment;\n(d) the general contractor for construction fails to implement the system of publishing rights protection information on the construction site."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where any of the following circumstances occurs, the human resources and social security administrative department and the competent department for construction in the relevant industry shall, according to their duties, order rectification within a specified time limit; and where rectification is not made within the time limit, they shall order the project to be suspended and concurrently impose a fine of not less than 50,000 yuan but not more than 100,000 yuan:\n(a) the project owner fails to provide a guarantee for the payment of project payments in accordance with law;\n(b) the project owner fails to allocate the labour costs in the project payments to the special account for the wages of rural migrant workers in a timely manner and in full as agreed;\n(c) the project owner or the general contractor for construction refuses to provide, or is unable to provide, the construction contract and the materials relating to the special account for the wages of rural migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where a unit fails to cooperate in accordance with law with the human resources and social security administrative department in inquiring into its financial accounts, the financial regulation department shall order it to rectify; and where it refuses to rectify, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where government investment funds for a government-invested project are not in place and the wages of rural migrant workers are defaulted on as a result, the human resources and social security administrative department shall, after reporting to the people's government at the corresponding level for approval, order the full allocation of the defaulted funds within a specified time limit; and where the funds are not allocated within the time limit, the human resources and social security administrative department of the people's government at the next higher level shall hold a supervisory interview with the persons in charge of the departments directly responsible and the relevant supervisory departments and, where necessary, circulate a notice and hold a supervisory interview with the persons in charge of the local people's government. Where the circumstances are serious, sanctions shall be imposed in accordance with law and regulations on the persons in charge of the local people's government and its relevant departments, the directly responsible persons in charge and other directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where the project owner of a government-invested project commences construction without approval of the project, expands the scale of construction without authorisation, increases the investment estimate without authorisation or fails to allocate project payments in a timely manner, thereby causing default in the payment of wages to rural migrant workers, in addition to bearing liability in accordance with law, the human resources and social security administrative department and other relevant departments shall, according to their duties, hold a supervisory interview with the person in charge of the project owner, and the matter shall serve as an important basis for the performance assessment, remuneration distribution, evaluation of excellence and selection of the advanced, and promotion of the person concerned."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a socially invested construction project with funds not in place commences construction in violation of laws and regulations and defaults on the wages of rural migrant workers, the human resources and social security administrative department and other relevant departments shall, according to their duties, impose a penalty on the project owner in accordance with law and impose sanctions in accordance with law and regulations on the person in charge of the project owner. Where the staff of the relevant departments fail to perform their duties in accordance with law, the relevant organs shall impose sanctions on them in accordance with law and regulations."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where the staff of the human resources and social security, development and reform, finance, public security and other departments of local people's governments at or above the county level and of the competent departments for construction in the relevant industries abuse their power, neglect their duties or engage in malpractice for personal gain in the performance of their duties of supervision and administration of the payment of wages to rural migrant workers, sanctions shall be imposed in accordance with law and regulations; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where an employing unit is temporarily unable to pay the defaulted wages of rural migrant workers, or absconds after defaulting on the wages of rural migrant workers, the local people's government at or above the county level may use the emergency revolving fund to advance part of the wages or basic living expenses of the rural migrant workers defaulted on by the employing unit. The emergency revolving fund advanced shall be recovered in accordance with law from the employing unit that defaulted on the wages of rural migrant workers."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 May 2020."
+        },
+        "noLabel": {
+          "en": "Article 64."
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
@@ -5796,6 +7923,1719 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0012'] = {
+    "lawId": "CN-REG-0012",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 73 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the public welfare nature of the funeral and interment industry, strengthening funeral and interment administration, steadily advancing reform of funeral and interment practices and promoting the development of socialist spiritual civilisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the administration of funeral and interment within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Funeral and interment administration shall adhere to public welfare and benefit for the people, civility and frugality, and green and ecological practice, improve funeral and interment services and deepen the transformation of funeral and interment customs."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The civil affairs department under the State Council shall be responsible for the administration of funeral and interment throughout the country. The civil affairs departments of local people's governments at or above the county level shall be responsible for the administration of funeral and interment within their respective administrative areas.\nThe development and reform departments of people's governments at or above the county level shall be responsible for performing the procedures for examining and approving funeral and interment facility projects according to their duties; the finance departments shall be responsible for including the necessary funds for funeral and interment work in the budget at the corresponding level as required and strengthening the supervision and administration of funds; the natural resources departments shall be responsible for the examination and approval of land for funeral and interment facilities and for planning permission, and shall, on the basis of territorial spatial planning, incorporate the demand for land for funeral and interment facilities into the annual land use plan in an overall manner; the health, traditional Chinese medicine and disease control departments shall be responsible for the supervision and administration of the issuance of death certificates by medical and health institutions and of mortuaries and other places where remains are temporarily kept; the market regulation departments shall be responsible for investigating and handling in accordance with law such acts of funeral and interment service institutions and other business entities as price violations, unlawful charging, monopoly and unfair competition; and the education, public security, ecology and environment, housing and urban-rural development, human resources and social security, agriculture and rural affairs, emergency management, ethnic affairs, religious affairs, cyberspace administration, telecommunications, forestry and grassland and other relevant departments shall, in accordance with the provisions of these Regulations and other relevant laws and regulations and within the scope of their respective duties, perform the work relating to funeral and interment.\nLocal people's governments at or above the county level shall coordinate, consult on, urge and guide the relevant departments in performing well the administration of funeral and interment within the scope of their respective duties.\nTownship people's governments, sub-district offices, villagers' committees and residents' committees shall, in accordance with law, perform the work relating to funeral and interment."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Funeral and interment undertakings are important public welfare undertakings.\nFuneral and interment services are divided into basic items and non-basic items, and the charging policies shall be formulated by the development and reform department and the finance department under the State Council together with the civil affairs and other departments under the State Council.\nThe State shall formulate a list of basic items of funeral and interment services, including in the list the transport of remains, the keeping of remains, the farewell to remains, the cremation of remains, the depositing of ashes, ecological burial and the burial in cinerary niches provided by funeral and interment service institutions established by the government, and the civil affairs departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government may, together with the relevant departments and in light of actual circumstances, appropriately add basic items of funeral and interment services for their respective administrative areas. Charging standards shall be formulated in accordance with law.\nThe civil affairs departments of local people's governments at or above the level of a city with districts shall, together with the relevant departments, reasonably determine the list of non-basic items of funeral and interment services and exercise strict administration of charges in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall gradually include the funeral and interment service items that meet the conditions within the scope of basic public services of the State and adjust them dynamically."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at all levels shall, giving overall consideration to actual needs and fiscal capacity, establish a mechanism for investment in funeral and interment undertakings that is suited to the basic funeral and interment service needs of the people."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall promote reform of funeral and interment practices, steadily and in an orderly manner implement cremation, reform earth burial and economise on land used for funeral and interment.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, on the basis of the population, transport, land resources and other conditions of their respective administrative areas and on the basis of the areas already designated for cremation and the areas where earth burial is permitted, steadily expand the scope of areas where cremation is practised, and shall promptly report the adjustments to the civil affairs department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The funeral and burial customs of ethnic minorities shall be respected; where persons voluntarily reform funeral and burial customs, others shall not interfere; funeral and interment methods that meet the requirements of ecological and environmental protection and land conservation shall be encouraged, and remains or ashes shall be disposed of in accordance with the provisions of the place of death."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The civil affairs department under the State Council shall make overall plans for and improve the national basic information database on funeral and interment, promptly achieve sharing with the national basic population information database, and shall, together with the public security, health, human resources and social security and other relevant departments under the State Council, establish and improve an information sharing mechanism.\nThe civil affairs departments of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall be responsible for making overall plans for the development, management and maintenance of the funeral and interment service information system of their respective administrative areas, include the funeral and interment service providers and the relevant practitioners in the management of the system and provide convenient funeral and interment services."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Scientific and technological innovation in the field of funeral and interment and the popularisation and application of its results shall be advanced. The development of the professional workforce relating to funeral and interment service management shall be strengthened."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "State organs, mass organisations, grassroots self-governing organisations of a mass character, and the media such as radio, television, newspapers and periodicals as well as internet platforms shall strengthen publicity and education and guide the people in actively carrying out activities to transform funeral and interment customs."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Any organisation or individual may complain about or report to the civil affairs departments and the relevant departments of people's governments at or above the county level acts in violation of the provisions of these Regulations. The department receiving the complaint or report shall handle it promptly in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Funeral and interment facilities are the facilities necessary for meeting the funeral and interment service needs of the people, including funeral parlours, columbaria and public cemeteries.\nFuneral and interment service institutions are the operating entities of funeral and interment facilities. Newly established funeral and interment service institutions shall be established by the government and shall be non-profit institutions. No new for-profit funeral and interment service institutions shall be established.\nThe civil affairs departments of local people's governments at or above the county level shall strengthen the administration of funeral and interment service institutions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Local people's governments at or above the county level shall incorporate the construction of funeral and interment facilities into the relevant plans and shall link it with territorial spatial planning. Newly built funeral and interment facilities within their respective administrative areas shall conform to the relevant local plans."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in light of the size and distribution of the population of their respective administrative areas, build funeral parlours as needed and reasonably establish service outlets of funeral parlours.\nLocal people's governments at or above the county level shall, in light of actual circumstances, provide vehicles for the transport of remains so as to meet the need for the transport of remains."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where local people's governments at or above the county level build columbaria and public cemeteries, they shall, in light of the circumstances of their respective administrative areas regarding the practice of cremation, the reform of earth burial and the existing land resources and in accordance with the principles of matching supply to demand and of land conservation and ecological practice, reasonably determine the type, number and scale of construction."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Land for newly built funeral and interment facilities shall be acquired as State-owned land use rights by way of allocation in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Funeral and interment equipment such as vehicles for the transport of remains, refrigerated cabinets for remains, cremators and purification equipment for cremation pollutants required by funeral and interment facilities shall conform to the relevant mandatory standards. The manufacture, sale and use of funeral and interment equipment not conforming to mandatory standards are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a rural collective economic organisation or a villagers' committee uses village collective land to establish a public welfare cemetery for villagers, it shall report the matter to the civil affairs department of the people's government at the county level for the record. The relevant land procedures shall be handled in accordance with the relevant provisions of the State.\nRural public welfare cemeteries shall in principle not charge villagers fees relating to the use of grave plots, and shall not provide grave land or grave plots to persons other than villagers.\nLocal people's governments at or above the county level shall, in light of actual circumstances, make proper investment in the construction of rural public welfare cemeteries and exercise unified management over them."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The establishment or restoration of clan cemeteries is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The building of graves in the following areas is prohibited:\n(a) cultivated land and forest land;\n(b) urban parks, scenic and historic interest areas and areas under cultural relics protection;\n(c) reservoirs and the vicinity of river dykes and water source protection areas;\n(d) both sides of trunk lines of railways and highways.\nExisting graves within the areas specified in the preceding paragraph shall, except for cemeteries of historical, artistic and scientific value under State protection, which shall be retained, be relocated or buried deep in an appropriate manner without leaving grave mounds; public cemeteries and rural public welfare cemeteries that meet the basic burial needs of local residents and cannot avoid the areas specified in the preceding paragraph may, in accordance with law, be incorporated into territorial spatial planning and shall not fall within the circumstances specified in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Funeral and Interment Facilities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a natural person dies a normal death, the medical and health institution shall promptly issue a death certificate and share the death certificate information through the government service platforms of various localities.\nMedical and health institutions shall, as required, make public the contact details of funeral parlours and their service outlets so as to facilitate contact by the bereaved families.\nFor the deceased in cases (or incidents) of abnormal death that involve disposal by public security organs in accordance with law and that have not been treated by medical and health institutions, the public security organ shall issue the death certificate."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Funeral Services"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The health, traditional Chinese medicine and disease control departments and the civil affairs departments of local people's governments at or above the county level shall strengthen the connection and cooperation between medical and health institutions and funeral parlours.\nMortuaries of medical and health institutions shall not be outsourced and shall not provide funeral services, but may provide convenience services for the temporary keeping of remains."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Funeral Services"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The services of transporting, keeping, embalming and restoring the appearance of remains and of cremating remains shall be provided exclusively by funeral parlours."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Funeral Services"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A funeral parlour shall, on the strength of the death certificate, promptly transport the remains and carry out the necessary technical hygiene treatment of the remains. Where, on transporting the remains, it is found that the condition of the remains is obviously inconsistent with the cause of death stated in the death certificate, it shall immediately report the matter to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Funeral Services"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The keeping of remains by a funeral parlour shall generally not exceed three days; and where an extension is required, the bereaved family members or the party handing over the remains shall undergo the formalities for extended keeping at the funeral parlour and pay the fees for extended keeping as required."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Funeral Services"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A funeral parlour shall cremate remains on the strength of the death certificate and the cremation confirmation and shall issue a cremation certificate.\nA funeral parlour shall install image capture equipment in key areas such as those for the keeping and cremation of remains and shall keep the video and image information collected for not less than 90 days for inspection."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Funeral Services"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "In areas where cremation is practised, remains shall be cremated at a funeral parlour on the spot or in the vicinity. Where it is truly necessary to transport remains across areas, the bereaved family members shall, on the strength of the certificate of acceptance of remains issued by the civil affairs department at the place of destination, contact a funeral parlour to transport the remains.\nWhere remains or skeletal remains need to be transported across national borders (territories), the matter shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Funeral Services"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The measures for issuing death certificates and disposing of remains in special circumstances such as where the identity of the deceased is unknown, the remains are unclaimed, death occurred on the spot in a traffic accident, or death resulted from other emergencies, shall be formulated by the civil affairs department under the State Council together with the public security department and the health department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Funeral Services"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Burial methods that occupy no land or little land shall be promoted, the use of green and environmentally friendly funeral and interment supplies shall be advocated, and the petrification and hardening of cemeteries shall be reduced.\nIn areas where cremation is practised, burial methods such as sea burial of ashes, tree burial, flower burial and lawn burial shall be encouraged and guided; and in areas where earth burial is permitted, burial methods such as deep burial of remains without leaving grave mounds, without hardening and without erecting steles shall be encouraged and guided.\nWhere ecological burial is carried out in the manner specified in the preceding paragraph, localities with the conditions may grant appropriate subsidies."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Burial Services"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "All localities may, in accordance with the relevant provisions of the State and in light of actual circumstances, designate a certain area at an appropriate place for the implementation of ecological burial."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Burial Services"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State advocates burial in cinerary niches. Columbaria shall not charge, or shall appropriately charge, fees for the use of niches and fees for maintenance and management.\nThe establishment of private ancestral halls within columbaria is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Burial Services"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Public cemeteries shall be oriented towards land-conserving and ecological burial, promote the miniaturisation of grave plots and gravestones, and designate a certain area for the implementation of ecological burial and burial in cinerary niches.\nThe civil affairs departments of local people's governments at or above the county level shall strictly limit the area occupied by grave plots and the height of gravestones in public cemeteries, and the specific standards shall be formulated by the civil affairs department under the State Council.\nIt is prohibited to expand the area occupied by grave plots in a disguised form or to use high-grade materials. It is prohibited to erect markers contrary to public order and good morals."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Burial Services"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Columbaria and public cemeteries shall, on the strength of the death certificate, the cremation certificate and other relevant supporting materials, provide cinerary niches and grave plots in public cemeteries, except where cinerary niches or grave plots in public cemeteries are provided for elderly persons of advanced age, patients in critical condition and the like."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Burial Services"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The period of use of a cinerary niche or a grave plot in a public cemetery shall not exceed 20 years. Where the period of use expires, the formalities for continued use may be undergone and the fees for maintenance and management shall be paid."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Burial Services"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The operating entities of columbaria and public cemeteries shall, as required, set aside funds to establish a maintenance fund, which shall be managed in a separate account under the supervision of the local civil affairs department and used for subsequent maintenance and management."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Burial Services"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "It is prohibited to use residential housing exclusively for the placement of ashes. It is prohibited to bury remains or build graves in places other than public cemeteries, rural public welfare cemeteries and areas where ecological burial is implemented in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Burial Services"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The conduct of funeral activities shall comply with laws and regulations and social morality, shall not obstruct public order or endanger public safety, shall not infringe upon the lawful rights and interests of others, and shall not violate public order and good morals.\nRural red and white affairs councils and other organisations shall be encouraged to give play to their role in assisting the people in conducting funeral activities in a civilised and frugal manner and in guiding the transformation of customs."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Funeral Activities"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The civil affairs departments of local people's governments at or above the county level shall strengthen publicity and guide the people in conducting farewell and other funeral activities at funeral parlours and their service outlets."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Funeral Activities"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Organisations and individuals engaged in funeral-related service activities such as funeral service agency, procurement of supplies on behalf of others, planning and hosting, and information consultation, other than funeral and interment service institutions, shall report to the civil affairs department of the people's government at the county level for the record.\nThe civil affairs departments of people's governments at the county level shall include the organisations and individuals engaged in funeral-related service activities in the funeral and interment service information system and in the management of funeral and interment industry organisations, shall deal in accordance with law with acts harming the rights and interests of bereaved families, such as unlawful charging by deceptive means, inducing extravagant arrangements, forcing acceptance of services and trafficking in information on the deceased, and shall mark them in the funeral and interment service information system and make the marks public."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Funeral Activities"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Funeral and interment service institutions shall not, in violation of the relevant provisions, set up charging items without authorisation, or raise charging standards in a disguised form by such means as splitting items or expanding the scope of charges."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Funeral Activities"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Funeral and interment service institutions, business entities selling funeral and interment supplies, and organisations and individuals engaged in funeral-related service activities shall not commit any of the following price violations:\n(a) failing to mark prices explicitly as required, or charging above the marked price or collecting unmarked fees;\n(b) using false or misleading price means to induce bereaved families to transact with them;\n(c) forcing, or in a disguised form forcing, the sale of funeral and interment supplies or the provision of funeral-related services and the collection of fees by such means as bundling, attaching unreasonable conditions or imposing unreasonable restrictions;\n(d) forcing, or in a disguised form forcing, bereaved families to accept paid services of third parties, or repeatedly collecting fees by making use of the relevant service outlets;\n(e) other price violations prohibited by laws and regulations and the relevant provisions of the State.\nThe units and organisations specified in the preceding paragraph shall not reach or implement monopoly agreements that eliminate or restrict competition; and those with a dominant market position shall not abuse their dominant market position."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Funeral Activities"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The manufacture and sale of funeral and interment supplies that violate laws and regulations or are contrary to public order and good morals are prohibited.\nThe sale of earth burial supplies such as coffins in areas where cremation is practised is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Funeral Activities"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State advocates civilised, low-carbon and safe memorial ceremonies.\nOnline memorial service platforms shall comply with laws and regulations, observe public order and good morals, strengthen the protection of information on the deceased, shall not induce consumption, and shall not handle information on the deceased, or publish or disseminate information prohibited by laws and regulations, in violation of laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Funeral Activities"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Township people's governments, sub-district offices, villagers' committees and residents' committees may make use of suitable sites to provide convenience to the people in conducting funerals."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Funeral Activities"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Local people's governments at or above the county level shall formulate a list of supervisory matters covering the whole chain of funeral and interment activities and strengthen the notification of circumstances and coordination of law enforcement among departments. The civil affairs departments and the relevant departments of local people's governments at or above the county level shall perform their duties in accordance with law and carry out supervision and inspection of funeral and interment activities.\nLocal people's governments at or above the county level shall strengthen regular supervision and guidance of funeral and interment work and support and urge the relevant departments in performing their duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The civil affairs, natural resources, water resources, forestry and grassland, cultural relics and other departments of local people's governments at or above the county level shall make comprehensive use of modern technical means to promptly discover and deal with illegal acts relating to funeral and interment."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The civil affairs departments of local people's governments at or above the county level shall establish and improve a random inspection mechanism for matters such as the construction and operation of funeral and interment facilities, the burial standards of public cemeteries and the management of funeral activities. The circumstances of random inspection and the results of investigation and handling shall be notified in writing to the entities inspected and made public in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Funeral and interment services shall be subject to list-based management and dynamic adjustment, and it is prohibited to set up items or collect fees outside the list.\nThe civil affairs departments of people's governments at or above the county level shall, together with the relevant departments, strengthen price monitoring and supervision and administration of funeral and interment services in accordance with law and curb excessive charges."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The civil affairs departments of local people's governments at or above the county level shall establish an information sharing and supervision mechanism with the convenient hotlines for government services and other supervision channels and, in respect of problems in funeral and interment services reported by bereaved families, shall, together with the relevant departments, promptly handle them and inform the bereaved families of the results of handling."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Funeral and interment service institutions shall submit an annual work report and a financial audit report to the civil affairs department to which they belong every year. The annual work report shall include information on daily operations, service management, work safety, and the acceptance of rewards and punishments. The civil affairs department at the next higher level may carry out supervision and inspection of funeral and interment service institutions by randomly inspecting their annual work reports and financial audit reports."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The civil affairs departments of local people's governments at or above the county level shall, in accordance with the relevant provisions of the State, establish a credit record system for funeral and interment service providers and the relevant practitioners, include the relevant information in the national credit information sharing platform and carry out disciplinary action for dishonesty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Funeral and interment industry organisations shall strengthen industry self-regulation and guide funeral and interment service institutions to operate in a law-abiding, trustworthy and safe manner. Practitioners in the funeral and interment industry shall observe professional ethics and provide services in a standardised and civilised manner."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State encourages citizens, legal persons and other organisations to exercise social supervision over funeral and interment work."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a funeral and interment service institution falls under any of the following circumstances, the civil affairs department of the local people's government at or above the county level shall order it to rectify within a specified time limit, give it a warning and confiscate its illegal gains; where there are no illegal gains or the illegal gains are less than 100,000 yuan, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed in light of the circumstances such as the gravity of the circumstances and the degree of harm; and where the illegal gains are 100,000 yuan or more, a fine of not less than two times but not more than five times the illegal gains shall be imposed. Sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons:\n(a) transporting, keeping or cremating remains in violation of the provisions of these Regulations, or failing to keep the relevant video and image information as required;\n(b) issuing a cremation certificate in violation of the provisions of these Regulations, or falsely issuing, forging or trafficking in cremation certificates;\n(c) providing cinerary niches or grave plots in violation of the provisions of these Regulations, or erecting markers contrary to public order and good morals;\n(d) failing to submit annual work reports or financial audit reports, or failing to accept supervision and inspection, in accordance with the provisions of these Regulations;\n(e) other circumstances specified by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where private ancestral halls are established within a columbarium, or grave plots exceeding the prescribed standards are provided in a public cemetery, the area occupied by grave plots is expanded in a disguised form, or high-grade materials are used, the civil affairs department of the local people's government at or above the county level shall order rectification within a specified time limit, give a warning and confiscate the illegal gains; where there are no illegal gains or the illegal gains are less than 500,000 yuan, a fine of not less than 100,000 yuan but not more than 1 million yuan shall be imposed in light of the circumstances such as the gravity of the circumstances and the degree of harm; and where the illegal gains are 500,000 yuan or more, a fine of not less than two times but not more than five times the illegal gains shall be imposed. Sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where funeral and interment facilities are built without authorisation in violation of the provisions, or the area of land occupied by funeral and interment facilities or their use is changed without authorisation, penalties shall be imposed in accordance with the relevant laws and administrative regulations on urban and rural planning and land administration."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a rural public welfare cemetery provides grave land or grave plots for profit-making purposes, the civil affairs department of the people's government at the county level shall order rectification; and where there are illegal gains, the illegal gains shall be confiscated and a fine of not less than one time but not more than five times the illegal gains shall also be imposed. Sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where remains that should be cremated are buried in the ground, or remains are buried or graves are built in places other than public cemeteries, rural public welfare cemeteries and areas where ecological burial is implemented in accordance with law, the civil affairs department of the local people's government at or above the county level shall order rectification within a specified time limit."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a clan cemetery is established or restored, the civil affairs department of the local people's government at or above the county level shall order rectification within a specified time limit and, in light of the circumstances such as the gravity of the circumstances and the degree of harm, impose a fine of not less than 10,000 yuan but not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where graves are built in prohibited areas in violation of the provisions of these Regulations, penalties shall be imposed in accordance with the relevant laws and administrative regulations on land administration and forests."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where any of the following circumstances occurs, the civil affairs department of the local people's government at or above the county level shall, together with the market regulation department, order rectification and confiscate the illegal gains; where there are no illegal gains or the illegal gains are less than 100,000 yuan, a fine of not less than 30,000 yuan but not more than 200,000 yuan shall be imposed; and where the illegal gains are 100,000 yuan or more, a fine of not less than two times but not more than five times the illegal gains shall be imposed:\n(a) manufacturing, selling or using funeral and interment equipment not conforming to mandatory standards;\n(b) manufacturing or selling funeral and interment supplies that violate laws and regulations or are contrary to public order and good morals;\n(c) selling earth burial supplies such as coffins in areas where cremation is practised.\nWhere funeral and interment supplies imitate or use the patterns of Renminbi, penalties shall be imposed in accordance with the relevant laws and administrative regulations on the administration of Renminbi."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a mortuary is outsourced or funeral services are provided in a mortuary, the health, traditional Chinese medicine and disease control departments of the local people's government at or above the county level shall, according to their duties, order rectification, give a warning and confiscate the illegal gains; where there are no illegal gains or the illegal gains are less than 100,000 yuan, a fine of not less than 30,000 yuan but not more than 200,000 yuan shall be imposed; and where the illegal gains are 100,000 yuan or more, a fine of not less than two times but not more than five times the illegal gains shall be imposed. Sanctions shall be imposed in accordance with law on the responsible leading personnel and directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where any other organisation or individual transports, keeps, embalms or restores the appearance of remains, or cremates remains, without authorisation, the civil affairs department of the local people's government at or above the county level shall order rectification, give a warning and confiscate the illegal gains; where there are no illegal gains or the illegal gains are less than 100,000 yuan, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed; and where the illegal gains are 100,000 yuan or more, a fine of not less than two times but not more than five times the illegal gains shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where residential housing is used exclusively for the placement of ashes, causing adverse effects, or funeral activities are conducted in violation of the provisions of these Regulations, the civil affairs department of the local people's government at or above the county level shall, together with the relevant departments and according to their duties, order rectification and provide education."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where organisations and individuals engaged in funeral-related service activities commit acts harming the rights and interests of bereaved families, they shall bear civil liability in accordance with law. Where other laws or regulations are violated, the matter shall be handled in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where price violations specified in Article 42 and paragraph 1 of Article 43 of these Regulations exist, penalties shall be imposed in accordance with the relevant laws, administrative regulations and rules on price administration; and where the relevant laws, administrative regulations and rules do not provide otherwise, the market regulation department of the local people's government at or above the county level shall order rectification, confiscate the illegal gains and concurrently impose a fine of not more than five times the illegal gains; where there are no illegal gains, a fine of not less than 50,000 yuan but not more than 500,000 yuan shall be imposed, and where the circumstances are relatively serious, a fine of not less than 500,000 yuan but not more than 1 million yuan shall be imposed; and where the circumstances are serious, the party shall also be ordered to suspend business for rectification or have its business licence revoked.\nWhere the illegal acts specified in paragraph 2 of Article 43 of these Regulations exist, the matter shall be handled in accordance with the relevant laws on anti-monopoly."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where an online memorial service platform violates the provisions of these Regulations, the civil affairs, public security, cyberspace administration, telecommunications and other departments of the local people's government at or above the county level shall, according to their duties, order rectification and give a warning; and where it refuses to rectify or the circumstances are serious, a fine of not less than 100,000 yuan but not more than 300,000 yuan shall be imposed, and it may be ordered to suspend business for rectification or be closed down."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where the staff of local people's governments at or above the county level and of the relevant departments, or the staff of funeral and interment service institutions, commit any of the following acts in funeral and interment work, sanctions shall be imposed in accordance with law:\n(a) seeking benefits for others in matters such as the construction of funeral and interment facilities, the procurement of funeral and interment equipment and the procurement and sale of funeral and interment supplies;\n(b) taking advantage of work to demand or unlawfully accept property;\n(c) approving or constructing funeral and interment facilities not conforming to the provisions of these Regulations;\n(d) concealing and failing to report, or improperly handling, problems of illegality, thereby causing ecological damage, loss of public property or adverse social effects;\n(e) other acts of abuse of power, neglect of duty or malpractice for personal gain.\nProperty demanded or unlawfully accepted by taking advantage of work shall be confiscated, recovered or ordered to be returned and compensated for."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where, in funeral and interment administration and services, acts suspected of being criminal, such as trafficking in remains, human tissues and organs, are discovered, the matter shall be referred in accordance with law to the public security organ for investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where the provisions of these Regulations are violated and an act in violation of public security administration is constituted, the public security organ shall impose a public security administration penalty in accordance with law; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "These Regulations shall enter into force on 30 March 2026."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0013'] = {
+    "lawId": "CN-REG-0013",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 72 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the biosafety management of pathogenic microorganism laboratories (hereinafter referred to as laboratories) and protecting the health of laboratory staff and the public."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations apply to the biosafety management of laboratories and of the experimental activities carried out by them within the territory of the People's Republic of China.\nFor the purpose of these Regulations, pathogenic microorganisms mean microorganisms capable of causing disease in humans or animals.\nFor the purpose of these Regulations, experimental activities mean the research, teaching, testing, diagnosis and other activities carried out by laboratories in relation to strains (viruses) and samples of pathogenic microorganisms."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The competent health department under the State Council shall be in charge of the supervision of biosafety of laboratories and of their experimental activities relating to human health.\nThe competent veterinary department under the State Council shall be in charge of the supervision of biosafety of laboratories and of their experimental activities relating to animals.\nThe other relevant departments under the State Council shall, within the scope of their respective duties, be responsible for the biosafety management of laboratories and of their experimental activities.\nLocal people's governments at or above the county level and their relevant departments shall, within the scope of their respective duties, be responsible for the biosafety management of laboratories and of their experimental activities."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State applies classified management to pathogenic microorganisms and hierarchical management to laboratories."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State applies unified laboratory biosafety standards. Laboratories shall conform to the national standards and requirements."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The establishing unit of a laboratory and its competent department shall be responsible for the management of the daily activities of the laboratory and shall bear the responsibility of establishing and improving the safety management system, inspecting and maintaining experimental facilities and equipment, and controlling laboratory infections."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State divides pathogenic microorganisms into four classes according to their infectivity and the degree of harm to individuals or groups after infection:\nClass I pathogenic microorganisms mean microorganisms capable of causing extremely serious disease in humans or animals, and microorganisms that have not yet been found in China or have been declared eradicated.\nClass II pathogenic microorganisms mean microorganisms capable of causing serious disease in humans or animals and relatively easily transmitted, directly or indirectly, between humans, between animals and humans, or between animals.\nClass III pathogenic microorganisms mean microorganisms capable of causing disease in humans or animals but that generally do not cause serious harm to humans, animals or the environment, have a limited risk of transmission, rarely cause serious disease after laboratory infection, and for which effective treatment and preventive measures are available.\nClass IV pathogenic microorganisms mean microorganisms that under normal circumstances do not cause disease in humans or animals.\nClass I and Class II pathogenic microorganisms are collectively referred to as highly pathogenic microorganisms."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The catalogue of pathogenic microorganisms transmissible among humans shall be formulated, adjusted and published by the competent health department under the State Council after consultation with the relevant departments under the State Council; and the catalogue of pathogenic microorganisms transmissible among animals shall be formulated, adjusted and published by the competent veterinary department under the State Council after consultation with the relevant departments under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The collection of samples of pathogenic microorganisms shall be subject to the following conditions:\n(a) having equipment suited to the level of biosafety protection required for the collection of samples of pathogenic microorganisms;\n(b) having staff who have mastered the relevant professional knowledge and operating skills;\n(c) having effective measures to prevent the spread of and infection by pathogenic microorganisms;\n(d) having the technical methods and means to ensure the quality of samples of pathogenic microorganisms.\nStaff collecting samples of highly pathogenic microorganisms shall, in the course of collection, prevent the spread of and infection by pathogenic microorganisms and shall make detailed records of the source, collection process and methods of the samples."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The transport of strains (viruses) or samples of highly pathogenic microorganisms shall be by land; where there is no land route and transport by water is necessary, it may be by water; and in urgent circumstances, or where strains (viruses) or samples of highly pathogenic microorganisms need to be transported abroad, it may be by civil aviation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The transport of strains (viruses) or samples of highly pathogenic microorganisms shall be subject to the following conditions:\n(a) the purpose of transport, the use of the highly pathogenic microorganisms and the receiving unit conform to the provisions of the competent health department or the competent veterinary department under the State Council;\n(b) the containers for the strains (viruses) or samples of highly pathogenic microorganisms shall be sealed, and the containers or packaging materials shall also meet the requirements of water resistance, resistance to breakage, resistance to leakage, resistance to high (low) temperatures and resistance to high pressure;\n(c) the containers or packaging materials shall bear the biohazard signs, warning wording and reminder wording prescribed by the competent health department or the competent veterinary department under the State Council.\nThe transport of strains (viruses) or samples of highly pathogenic microorganisms shall be approved by the competent health department or the competent veterinary department of a people's government at or above the provincial level. For transport within the administrative area of a province, an autonomous region or a municipality directly under the Central Government, approval shall be granted by the competent health department or the competent veterinary department of the people's government of the province, autonomous region or municipality directly under the Central Government; and where transport across provinces, autonomous regions or municipalities directly under the Central Government, or transport abroad, is required, the competent health department or the competent veterinary department of the people's government of the province, autonomous region or municipality directly under the Central Government at the place of departure shall conduct a preliminary examination and then submit the matter respectively to the competent health department or the competent veterinary department under the State Council for approval.\nWhere an entry-exit inspection and quarantine authority needs to transport samples of pathogenic microorganisms in the course of inspection and quarantine, approval shall be granted by the entry-exit inspection and quarantine department under the State Council, and a notification shall at the same time be made to the competent health department or the competent veterinary department under the State Council.\nWhere strains (viruses) or samples of highly pathogenic microorganisms are transported by civil aviation, approval by the competent civil aviation department under the State Council shall be obtained in addition to the approvals obtained in accordance with the provisions of paragraphs 2 and 3 of this Article.\nThe competent departments concerned shall examine the application materials submitted by applicants concerning the transport of strains (viruses) or samples of highly pathogenic microorganisms and shall grant approval immediately to those meeting the conditions specified in paragraph 1 of this Article."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The transport of strains (viruses) or samples of highly pathogenic microorganisms shall be escorted by not fewer than two designated persons, and corresponding protective measures shall be taken.\nThe units or individuals concerned shall not transport strains (viruses) or samples of pathogenic microorganisms by public buses (trolleybuses) or urban railways."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where strains (viruses) or samples of highly pathogenic microorganisms need to be transported by public means of transport such as railway, highway or civil aviation, the carrier shall transport them on the strength of the approval document specified in Article 11 of these Regulations.\nThe carrier shall, together with the escort, take measures to ensure the safety of the strains (viruses) or samples of highly pathogenic microorganisms transported and strictly prevent incidents of theft, robbery, loss and leakage."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Strain (virus) collection centres or specialised laboratories designated by the competent health department or the competent veterinary department under the State Council (hereinafter referred to as collection institutions) shall undertake the task of centralised storage of strains (viruses) and samples of pathogenic microorganisms.\nCollection institutions shall, in accordance with the provisions of the competent health department or the competent veterinary department under the State Council, store the strains (viruses) and samples of pathogenic microorganisms submitted by laboratories and provide strains (viruses) and samples of pathogenic microorganisms to laboratories.\nCollection institutions shall formulate strict safe-keeping systems, keep proper records of the entry, exit and storage of strains (viruses) and samples of pathogenic microorganisms, establish an archive system and designate dedicated persons to be responsible. Strains (viruses) and samples of highly pathogenic microorganisms shall be stored separately in dedicated warehouses or dedicated cabinets.\nCollection institutions shall not charge any fees for storing or providing strains (viruses) and samples of pathogenic microorganisms, and their funds shall be guaranteed by the finance at the corresponding level within the unit budget.\nThe administrative measures for collection institutions shall be formulated by the competent health department under the State Council together with the competent veterinary department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Collection institutions shall, on the strength of the approval document for engaging in experimental activities relating to highly pathogenic microorganisms obtained by the laboratory in accordance with the provisions of these Regulations, or the laboratory record-filing certificate issued by the competent health department or the competent veterinary department of the people's government of a city with districts, provide strains (viruses) and samples of highly pathogenic microorganisms to the laboratory and shall register the same."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After the relevant experimental activities are completed, laboratories shall, in accordance with the provisions of the competent health department or the competent veterinary department under the State Council, promptly destroy the strains (viruses) and samples of pathogenic microorganisms on the spot or submit them to a collection institution for keeping.\nCollection institutions accepting strains (viruses) and samples of pathogenic microorganisms submitted by laboratories shall register them and issue a certificate of receipt."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where strains (viruses) or samples of highly pathogenic microorganisms are stolen, robbed, lost or leaked in the course of transport or storage, the carrier, the escort and the collection institution shall take the necessary control measures and shall, within two hours, report respectively to the competent department of the carrier, the unit of the escort and the competent department of the collection institution, and shall at the same time report to the competent health department or the competent veterinary department of the people's government at the county level at the place where they are located, and in the case of theft, robbery or loss, shall also report to the public security organ; and the competent health department or the competent veterinary department receiving the report shall, within two hours, report to the people's government at the corresponding level and at the same time report to the competent health department or the competent veterinary department of the people's government at the next higher level and to the competent health department or the competent veterinary department under the State Council.\nThe people's government at the county level shall, within two hours after receiving the report, report to the people's government of the city with districts or the people's government at the next higher level; and the people's government of the city with districts shall, within two hours after receiving the report, report to the people's government of the province, autonomous region or municipality directly under the Central Government. The people's government of the province, autonomous region or municipality directly under the Central Government shall, within one hour after receiving the report, report to the competent health department or the competent veterinary department under the State Council.\nAny unit or individual that finds containers or packaging materials of strains (viruses) or samples of highly pathogenic microorganisms shall promptly report to the competent health department or the competent veterinary department nearby; and the competent health department or the competent veterinary department receiving the report shall promptly organise investigation and verification and take the necessary control measures in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Classification and Management of Pathogenic Microorganisms"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State divides laboratories into Level 1, Level 2, Level 3 and Level 4 according to their level of biosafety protection in respect of pathogenic microorganisms and in accordance with the provisions of the national standards for laboratory biosafety."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The new construction, reconstruction or expansion of Level 3 or Level 4 laboratories, or the production or import of mobile Level 3 or Level 4 laboratories, shall comply with the following provisions:\n(a) conforming to the national plan for the biosafety laboratory system and performing the relevant examination and approval procedures in accordance with law;\n(b) having been examined and approved by the competent health department under the State Council;\n(c) conforming to the national technical code for the construction of biosafety laboratories;\n(d) conducting an environmental impact assessment in accordance with the provisions of the Law of the People's Republic of China on Environmental Impact Assessment and obtaining examination and approval from the competent environmental protection department;\n(e) the level of biosafety protection being suited to the experimental activities to be carried out.\nThe national plan for the biosafety laboratory system referred to in the preceding paragraph shall be formulated by the competent investment department under the State Council together with the relevant departments under the State Council. In formulating the national plan for the biosafety laboratory system, the principles of aggregate control, rational layout and resource sharing shall be followed, and hearings or demonstration meetings shall be held to solicit the opinions of experts in public health, environmental protection, investment management and laboratory management and other fields."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Level 3 and Level 4 laboratories shall pass national laboratory accreditation.\nThe accreditation bodies determined by the certification and accreditation supervision and administration department under the State Council shall accredit Level 3 and Level 4 laboratories in accordance with the national standards for laboratory biosafety and the relevant provisions of these Regulations; and a biosafety laboratory certificate of the corresponding level shall be issued to a laboratory that passes accreditation. The certificate shall be valid for five years."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Experimental activities relating to pathogenic microorganisms shall be carried out in laboratories of the corresponding level. Where a laboratory carries out experimental activities relating to pathogenic microorganisms, its level shall not be lower than the laboratory level required for such experimental activities as specified in the catalogue of pathogenic microorganisms.\nLevel 1 and Level 2 laboratories may only carry out the experimental activities relating to highly pathogenic microorganisms that are specified in the catalogue of pathogenic microorganisms as activities that may be carried out in Level 1 and Level 2 laboratories. Where Level 3 and Level 4 laboratories carry out experimental activities relating to highly pathogenic microorganisms, they shall meet the following conditions:\n(a) the purpose of the experiment and the experimental activities to be carried out conform to the provisions of the competent health department or the competent veterinary department under the State Council;\n(b) having passed national laboratory accreditation;\n(c) having staff suited to the experimental activities to be carried out;\n(d) the quality of the works having been tested and accepted as qualified by the competent construction department in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where Level 3 or Level 4 laboratories need to carry out experimental activities relating to highly pathogenic microorganisms, or to suspected highly pathogenic microorganisms, that are specified in the catalogue of pathogenic microorganisms as activities that shall be carried out in Level 3 or Level 4 laboratories, they shall, in accordance with the provisions of the competent health department or the competent veterinary department under the State Council, apply to the competent health department or the competent veterinary department of a people's government at or above the provincial level for approval. The results of the experimental activities and the work situation shall be reported to the department that originally granted approval.\nWhere a laboratory applies for or accepts scientific research projects relating to highly pathogenic microorganisms, the projects shall meet the needs of scientific research and the biosafety requirements and shall be at the corresponding level of biosafety protection. Scientific research projects relating to highly pathogenic microorganisms transmissible among animals shall be subject to the consent of the competent veterinary department under the State Council; and for scientific research projects relating to highly pathogenic microorganisms affecting human health, the laboratory shall inform the competent health department of a people's government at or above the provincial level of the result of project approval."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where entry-exit inspection and quarantine authorities, medical and health institutions or animal disease prevention and control institutions, in carrying out testing and diagnostic work in laboratories, find highly pathogenic microorganisms or suspected highly pathogenic microorganisms and need to further carry out experimental activities relating to such highly pathogenic microorganisms, such activities shall be carried out in laboratories with the corresponding conditions; and where approval is required in accordance with the provisions of these Regulations, approval shall be obtained.\nLaboratories specialising in testing and diagnosis shall, strictly in accordance with the provisions of the competent health department or the competent veterinary department under the State Council, establish and improve rules and regulations and ensure laboratory biosafety."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The competent health department or the competent veterinary department of a people's government at or above the provincial level shall, within 15 days from the date of receipt of an application for carrying out experimental activities relating to highly pathogenic microorganisms, make a decision on whether to grant approval.\nWhere an entry-exit inspection and quarantine authority applies, for the urgent needs of inspection and quarantine work, to carry out further experimental activities on highly pathogenic microorganisms or suspected highly pathogenic microorganisms in a laboratory, the competent health department or the competent veterinary department of a people's government at or above the provincial level shall, within two hours from the time of receipt of the application, make a decision on whether to grant approval; and where no decision is made within two hours, the laboratory may carry out the corresponding experimental activities.\nThe competent health department or the competent veterinary department of a people's government at or above the provincial level shall facilitate the submission of applications by applicants by telegram, telex, facsimile, electronic data interchange, electronic mail and other means."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The new construction, reconstruction or expansion of Level 1 or Level 2 laboratories shall be reported to the competent health department or the competent veterinary department of the people's government of a city with districts for the record. The competent health department or the competent veterinary department of the people's government of a city with districts shall, every year, compile the record-filing information and report it to the competent health department or the competent veterinary department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The competent health department and the competent veterinary department under the State Council shall periodically compile and notify each other of the number of laboratories, the establishment and distribution of laboratories, and the circumstances of experimental activities relating to highly pathogenic microorganisms carried out by Level 3 and Level 4 laboratories."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Level 3 and Level 4 laboratories that have been built and have passed national laboratory accreditation shall report to the competent environmental protection department of the people's government at the county level at the place where they are located for the record. The competent environmental protection department shall, in accordance with the provisions of laws and administrative regulations, supervise and inspect the disposal of waste water, waste gas and other waste discharged by laboratories."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "With respect to pathogenic microorganisms that have not yet been found in China or have been declared eradicated, no unit or individual shall carry out the relevant experimental activities without approval.\nWhere, for the purpose of preventing and controlling infectious diseases, it is necessary to carry out experimental activities relating to the pathogenic microorganisms referred to in the preceding paragraph, approval shall be obtained from the competent health department or the competent veterinary department under the State Council, and the activities shall be carried out in a specialised laboratory designated by the approving department."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a laboratory uses new technologies or new methods to carry out experimental activities relating to highly pathogenic microorganisms, it shall meet the requirements of preventing the spread of highly pathogenic microorganisms and ensuring biosafety and the personal safety of operators, and the use shall have been demonstrated by the National Expert Committee on Laboratory Biosafety of Pathogenic Microorganisms; and the new technologies or new methods may be used only after the demonstration shows that they are feasible."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where experimental activities relating to highly pathogenic microorganisms need to be carried out on animals, they shall, in accordance with the provisions of the catalogue of pathogenic microorganisms, be carried out in laboratories of the corresponding level that conform to the national standards for the biosafety of animal laboratories."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The establishing unit of a laboratory shall be responsible for the biosafety management of the laboratory.\nThe establishing unit of a laboratory shall, in accordance with the provisions of these Regulations, formulate scientific and strict management systems, periodically inspect the implementation of the relevant biosafety provisions, and periodically inspect, maintain and update laboratory facilities, equipment and materials so as to ensure that they conform to national standards.\nThe establishing unit of a laboratory and its competent department shall strengthen the management of the daily activities of the laboratory."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The person in charge of a laboratory shall be the first person responsible for the biosafety of the laboratory.\nLaboratories carrying out experimental activities shall strictly comply with the relevant national standards and laboratory technical norms and operating procedures. The person in charge of a laboratory shall designate dedicated persons to supervise and inspect the implementation of laboratory technical norms and operating procedures."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The establishing unit of a laboratory carrying out experimental activities relating to highly pathogenic microorganisms shall establish and improve a security system, adopt security measures and strictly prevent highly pathogenic microorganisms from being stolen, robbed, lost or leaked, so as to ensure the safety of the laboratory and its pathogenic microorganisms. Where highly pathogenic microorganisms are stolen, robbed, lost or leaked in a laboratory, the establishing unit of the laboratory shall report in accordance with the provisions of Article 17 of these Regulations.\nLaboratories carrying out experimental activities relating to highly pathogenic microorganisms shall report to the local public security organ for the record and shall accept the supervision and guidance of the public security organ in respect of laboratory security work."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "A laboratory or the establishing unit of a laboratory shall, every year, provide regular training to staff so as to ensure that they master laboratory technical norms, operating procedures, biosafety protection knowledge and practical operating skills, and shall conduct assessments. Staff may take up their posts only after passing the assessment.\nLaboratories carrying out experimental activities relating to highly pathogenic microorganisms shall, every six months, report the training and assessment of their staff and the operation of the laboratory to the competent health department or the competent veterinary department of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Experimental activities relating to highly pathogenic microorganisms shall be carried out jointly by not fewer than two staff members.\nStaff members or other persons concerned entering a laboratory carrying out experimental activities relating to highly pathogenic microorganisms shall be subject to the approval of the person in charge of the laboratory. The laboratory shall provide them with protective equipment meeting the protection requirements and adopt other occupational protection measures. Laboratories carrying out experimental activities relating to highly pathogenic microorganisms shall also conduct health monitoring of laboratory staff, organise medical examinations for them every year and establish health records; and where necessary, shall provide preventive inoculation for laboratory staff."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Within the same independent safety area of the same laboratory, experimental activities relating to only one kind of highly pathogenic microorganism may be carried out at the same time."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Laboratories shall establish experiment archives recording the use of the laboratory and the safety supervision situation. The experiment archives of laboratories carrying out experimental activities relating to highly pathogenic microorganisms shall be kept for not less than 20 years."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Laboratories shall, in accordance with the relevant laws and administrative regulations on environmental protection and the provisions of the relevant departments under the State Council, dispose of waste water, waste gas and other waste, formulate corresponding environmental protection measures and prevent environmental pollution."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Level 3 and Level 4 laboratories shall display, at conspicuous positions, the biohazard signs and the level marks of biosafety laboratories prescribed by the competent health department and the competent veterinary department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Laboratories carrying out experimental activities relating to highly pathogenic microorganisms shall formulate contingency plans for emergency handling of laboratory biosafety incidents and report them to the competent health department or the competent veterinary department of the people's government of the province, autonomous region or municipality directly under the Central Government at the place where the laboratory is located for the record."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent health department and the competent veterinary department under the State Council shall, together with the relevant departments under the State Council, organise experts in pathology, immunology, laboratory medicine, epidemiology, preventive veterinary medicine, environmental protection and laboratory management and other fields to form the National Expert Committee on Laboratory Biosafety of Pathogenic Microorganisms. The Committee shall undertake the biosafety assessment, technical consultation and demonstration for the establishment and operation of laboratories carrying out experimental activities relating to highly pathogenic microorganisms.\nThe competent health department and the competent veterinary department of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, together with the relevant departments of the people's government at the corresponding level, organise experts in pathology, immunology, laboratory medicine, epidemiology, preventive veterinary medicine, environmental protection and laboratory management and other fields to form the local expert committee on laboratory biosafety of pathogenic microorganisms. The Committee shall undertake the technical consultation for the establishment and operation of laboratories in the locality."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Establishment and Management of Laboratories"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The establishing unit of a laboratory shall designate a dedicated body or dedicated persons to undertake laboratory infection control work and to periodically inspect the implementation of the rules and regulations on biosafety protection of the laboratory, the preservation and use of strains (viruses) and samples of pathogenic microorganisms, safe operation, and the disposal of waste water, waste gas and other waste discharged by the laboratory.\nThe body or persons responsible for laboratory infection control work shall have knowledge of the prevention and control of infectious diseases relating to the pathogenic microorganisms in the laboratory and shall periodically investigate and keep informed of the health condition of laboratory staff."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Laboratory Infections"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a laboratory staff member shows clinical symptoms or signs of infection relating to the experimental activities relating to highly pathogenic microorganisms carried out in the laboratory, the person in charge of the laboratory shall report to the body or persons responsible for laboratory infection control work and at the same time assign dedicated persons to accompany the staff member to seek medical treatment promptly; and the laboratory staff member shall truthfully inform the medical institution providing diagnosis and treatment of the types and degree of danger of the pathogenic microorganisms with which he or she has recently been in contact. The medical institution receiving the patient shall provide prompt treatment; and where it does not have the corresponding conditions for treatment, it shall, in accordance with the provisions, transfer the infected laboratory staff member to a medical institution with the corresponding conditions for the treatment of infectious diseases; and a medical institution with the corresponding conditions for the treatment of infectious diseases shall receive and treat the patient and shall not refuse treatment."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Laboratory Infections"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a leakage of highly pathogenic microorganisms occurs in a laboratory, the laboratory staff shall immediately take control measures to prevent the spread of the highly pathogenic microorganisms and shall at the same time report to the body or persons responsible for laboratory infection control work."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Laboratory Infections"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Upon receiving a report specified in Article 43 or Article 44 of these Regulations, the body or persons responsible for laboratory infection control work shall immediately activate the contingency plan for emergency handling of laboratory biosafety incidents and organise personnel to investigate the biosafety situation and other circumstances of the laboratory; and where it is confirmed that a laboratory infection or a leakage of highly pathogenic microorganisms has occurred, they shall report in accordance with the provisions of Article 17 of these Regulations and at the same time take control measures, place the persons concerned under medical observation or isolated treatment, and seal off the laboratory so as to prevent spread."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Laboratory Infections"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the competent health department or the competent veterinary department receives a report on an incident of staff infection or an incident of leakage of pathogenic microorganisms in a laboratory, or finds that experimental activities relating to pathogenic microorganisms carried out by a laboratory have caused a laboratory infection incident, it shall immediately organise disease prevention and control institutions, animal disease prevention and control institutions, medical institutions and other relevant institutions to take the following preventive and control measures in accordance with law:\n(a) sealing off the laboratory contaminated by pathogenic microorganisms or the places that may cause the spread of pathogenic microorganisms;\n(b) carrying out epidemiological investigation;\n(c) placing patients under isolated treatment and conducting medical examinations of the persons concerned;\n(d) placing close contacts under medical observation;\n(e) carrying out on-site disinfection;\n(f) taking measures such as isolation and culling in respect of infected or suspected infected animals;\n(g) other preventive and control measures that need to be taken."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Laboratory Infections"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a medical institution or veterinary medical institution and the medical personnel performing their duties find a patient with an infectious disease, or a suspected patient with an infectious disease, relating to highly pathogenic microorganisms and caused by laboratory infection, or an animal suffering from, or suspected of suffering from, an epidemic disease, the medical institution or veterinary medical institution providing diagnosis and treatment shall, within two hours, report to the competent health department or the competent veterinary department of the people's government at the county level at the place where it is located; and the competent health department or the competent veterinary department receiving the report shall, within two hours, notify the competent health department or the competent veterinary department of the people's government at the county level at the place where the laboratory is located. The competent health department or the competent veterinary department receiving the notification shall take preventive and control measures in accordance with the provisions of Article 46 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Laboratory Infections"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the spread of pathogenic microorganisms occurs and may cause an outbreak or epidemic of infectious diseases, the competent health department or the competent veterinary department of a people's government at or above the county level shall handle the matter in accordance with the provisions of the relevant laws and administrative regulations and the contingency plan for emergency handling of laboratory biosafety incidents."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Control of Laboratory Infections"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The competent health departments and the competent veterinary departments of local people's governments at or above the county level shall, according to their respective division of work, perform the following duties:\n(a) supervising and inspecting the collection, transport and storage of strains (viruses) and samples of pathogenic microorganisms;\n(b) supervising and inspecting whether laboratories carrying out experimental activities relating to highly pathogenic microorganisms meet the conditions specified in these Regulations;\n(c) supervising and inspecting the training and assessment of staff and of persons taking up posts by laboratories or by the establishing units of laboratories;\n(d) supervising and inspecting whether laboratories carry out experimental activities relating to pathogenic microorganisms in accordance with the relevant national standards, technical norms and operating procedures.\nThe competent health departments and the competent veterinary departments of local people's governments at or above the county level shall earnestly perform their duties of supervision and administration mainly by inspecting the records, archives and reports reflecting the implementation by laboratories of the relevant laws and administrative regulations of the State and of national standards and requirements."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "In performing their duties of supervision and inspection, the competent health departments, competent veterinary departments and competent environmental protection departments of people's governments at or above the county level shall have the power to enter the units inspected and the sites of leakage or spread of pathogenic microorganisms to investigate and collect evidence, collect samples, and consult and copy the relevant materials. Where it is necessary to enter a laboratory carrying out experimental activities relating to highly pathogenic microorganisms to investigate and collect evidence and to collect samples, a specialised institution shall be designated or entrusted to do so. The units inspected shall cooperate and shall not refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The certification and accreditation supervision and administration department under the State Council shall, in accordance with the provisions of the Regulations of the People's Republic of China on Certification and Accreditation, supervise and inspect laboratory accreditation activities."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The competent health departments, competent veterinary departments and competent environmental protection departments shall perform their duties on the basis of their statutory functions and powers and procedures and shall be fair, equitable, open, civilised and efficient."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where law enforcement personnel of the competent health departments, competent veterinary departments or competent environmental protection departments perform their duties, not fewer than two law enforcement personnel shall be present, they shall produce their law enforcement credentials, and they shall fill in law enforcement documents in accordance with the provisions.\nRecords of on-site inspection, sampling records and other documents shall, after verification, be signed by the law enforcement personnel and the person inspected or the person from whom samples are taken. Where the person inspected or the person from whom samples are taken refuses to sign, the law enforcement personnel shall, after signing themselves, note the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The competent health departments, competent veterinary departments and competent environmental protection departments and their law enforcement personnel shall, in performing their duties, consciously accept the supervision of society and citizens. Citizens, legal persons and other organisations shall have the right to report to the people's government at a higher level and to its competent health department, competent veterinary department or competent environmental protection department the circumstances in which a local people's government and its relevant competent departments fail to perform their duties in accordance with the provisions. The people's government concerned or its competent health department, competent veterinary department or competent environmental protection department receiving the report shall promptly investigate and handle the matter."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where the competent health department, competent veterinary department or competent environmental protection department of a people's government at a higher level finds matters that need to be handled and that fall within the scope of the duties of the competent health department, competent veterinary department or competent environmental protection department of a people's government at a lower level, it shall promptly inform that department to handle them; and where the competent health department, competent veterinary department or competent environmental protection department of the people's government at a lower level fails to handle them promptly or fails to actively perform its duties, the competent health department, competent veterinary department or competent environmental protection department of the people's government at the higher level shall order it to rectify within a specified time limit; and where it fails to rectify within the time limit, the competent health department, competent veterinary department or competent environmental protection department of the people's government at the higher level shall have the power to handle the matters directly."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a Level 3 or Level 4 laboratory, without approval, carries out experimental activities relating to highly pathogenic microorganisms, or to suspected highly pathogenic microorganisms, that are specified in the catalogue of pathogenic microorganisms as activities that shall be carried out in Level 3 or Level 4 laboratories, the competent health department and the competent veterinary department of the local people's government at or above the county level shall, according to their respective duties, order the cessation of the activities concerned, supervise the destruction of the pathogenic microorganisms used for the experimental activities or their submission to a collection institution, and give a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the establishing unit of the laboratory shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where the competent health department or the competent veterinary department, in violation of the provisions of these Regulations, permits a laboratory not meeting the conditions specified in these Regulations to carry out experimental activities relating to highly pathogenic microorganisms, the competent health department or the competent veterinary department that made the approval decision shall revoke the original approval decision, order the laboratory concerned to immediately cease the activities concerned, supervise the destruction of the pathogenic microorganisms used for the experimental activities or their submission to a collection institution, and impose administrative sanctions in accordance with law on the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law.\nWhere damage is caused to the lawful rights and interests of the party concerned as a result of an approval decision made in violation of law, the competent health department or the competent veterinary department that made the approval decision shall bear liability for compensation in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where the competent health department or the competent veterinary department fails to make a decision within the statutory time limit on whether to grant approval to an application of an entry-exit inspection and quarantine authority, made for the urgent needs of inspection and quarantine work, to carry out further testing activities on highly pathogenic microorganisms or suspected highly pathogenic microorganisms in a laboratory, the administrative organ at the next higher level or the supervisory organ shall order it to rectify and give it a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, administrative sanctions of removal from office or dismissal shall be imposed in accordance with law on the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, experimental activities relating to pathogenic microorganisms are carried out in a laboratory not meeting the corresponding biosafety requirements, the competent health department and the competent veterinary department of the local people's government at or above the county level shall, according to their respective duties, order the cessation of the activities concerned, supervise the destruction of the pathogenic microorganisms used for the experimental activities or their submission to a collection institution, and give a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the establishing unit of the laboratory shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a laboratory commits any of the following acts, the competent health department and the competent veterinary department of the local people's government at or above the county level shall, according to their respective duties, order rectification within a specified time limit and give a warning; and where rectification is not made within the time limit, the establishing unit of the laboratory shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; and where a licence has been obtained, the department that originally issued the licence shall revoke the relevant licence:\n(a) failing to display, at conspicuous positions as required, the biohazard signs and the level marks of biosafety laboratories prescribed by the competent health department and the competent veterinary department under the State Council;\n(b) failing to report the results of the experimental activities and the work situation to the department that originally granted approval;\n(c) failing to collect samples of pathogenic microorganisms as required, or failing to make detailed records of the source, collection process and methods of the samples collected;\n(d) failing to report to the competent health department or the competent veterinary department of the people's government of a city with districts for the record upon the new construction, reconstruction or expansion of a Level 1 or Level 2 laboratory;\n(e) failing to provide regular training to staff as required, or permitting staff who have failed the assessment to take up posts, or permitting persons who have not adopted protective measures to enter the laboratory;\n(f) laboratory staff failing to comply with the technical norms and operating procedures for laboratory biosafety;\n(g) failing to establish or keep experiment archives as required;\n(h) failing to formulate and file for the record a contingency plan for emergency handling of laboratory biosafety incidents as required."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the establishing unit of a laboratory carrying out experimental activities relating to highly pathogenic microorganisms fails to establish and improve a security system or fails to adopt security measures, the competent health department and the competent veterinary department of the local people's government at or above the county level shall, according to their respective duties, order rectification within a specified time limit; and where rectification is not made within the time limit and strains (viruses) or samples of highly pathogenic microorganisms are thereby stolen or robbed or other serious consequences are caused, the experimental activities shall be ordered to cease and the laboratory shall not carry out experimental activities relating to highly pathogenic microorganisms for two years; and where the spread or epidemic of infectious diseases is caused, the competent department of the establishing unit of the laboratory shall also impose sanctions of demotion, removal from office or dismissal in accordance with law on the directly responsible persons in charge and other directly responsible persons of the establishing unit of the laboratory; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where strains (viruses) or samples of highly pathogenic microorganisms are transported without approval, or the carrier, having obtained approval to transport strains (viruses) or samples of highly pathogenic microorganisms, fails to perform its duty of protection, thereby causing the strains (viruses) or samples of highly pathogenic microorganisms to be stolen, robbed, lost or leaked, the competent health department and the competent veterinary department of the local people's government at or above the county level shall, according to their respective duties, order the adoption of measures to eliminate the hidden danger and give a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the competent departments of the consigning unit and the carrier shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where any of the following acts is committed, the competent health department and the competent veterinary department of the local people's government at or above the level of a city with districts at the place where the laboratory is located shall, according to their respective duties, order the unit concerned to immediately cease the illegal activities and supervise the destruction of the pathogenic microorganisms or their submission to a collection institution; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the unit to which the offender belongs or its competent department at the higher level shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; and where a licence has been obtained, the department that originally issued the licence shall revoke the relevant licence; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) after the relevant experimental activities are completed, the laboratory fails to promptly destroy the strains (viruses) and samples of pathogenic microorganisms on the spot or submit them to a collection institution for keeping as required;\n(b) the laboratory uses new technologies or new methods to carry out experimental activities relating to highly pathogenic microorganisms without demonstration by the National Expert Committee on Laboratory Biosafety of Pathogenic Microorganisms;\n(c) carrying out, without approval, experimental activities relating to pathogenic microorganisms that have not yet been found in China or have been declared eradicated;\n(d) carrying out experimental activities relating to pathogenic microorganisms that have not yet been found in China or have been declared eradicated in a specialised laboratory not designated;\n(e) carrying out experimental activities relating to two or more kinds of highly pathogenic microorganisms at the same time within the same independent safety area of the same laboratory."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where an accreditation body accredits a laboratory that does not conform to the national standards for laboratory biosafety and the conditions specified in these Regulations, or refuses to accredit a laboratory that conforms to the national standards for laboratory biosafety and the conditions specified in these Regulations, the certification and accreditation supervision and administration department under the State Council shall order it to rectify within a specified time limit and give it a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the certification and accreditation supervision and administration department under the State Council shall revoke its accreditation qualification, and where it has a competent department at a higher level, that department shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where a laboratory staff member shows clinical symptoms or signs of infection relating to the experimental activities relating to pathogenic microorganisms carried out in the laboratory, or where a leakage of highly pathogenic microorganisms occurs in the laboratory, and the person in charge of the laboratory, the laboratory staff, or the dedicated body or persons responsible for laboratory infection control fail to report as required or fail to take control measures as required, the competent health department and the competent veterinary department of the local people's government at or above the county level shall, according to their respective duties, order rectification within a specified time limit and give a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the establishing unit shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge of the laboratory, the directly responsible persons in charge and other directly responsible persons; and where a licence has been obtained, the department that originally issued the licence shall revoke the relevant licence; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a party refuses to accept the investigation and collection of evidence, collection of samples and other activities carried out by the competent health department or the competent veterinary department in accordance with law in respect of the spread of highly pathogenic microorganisms, or refuses to take the relevant preventive and control measures in accordance with the provisions of these Regulations, the competent health department and the competent veterinary department of the people's government at or above the county level shall, according to their respective duties, order rectification and give a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the establishing unit of the laboratory shall impose sanctions of demotion, removal from office or dismissal in accordance with law on the principal person in charge of the laboratory, the directly responsible persons in charge and other directly responsible persons; and where a licence has been obtained, the department that originally issued the licence shall revoke the relevant licence; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where pathogenic microorganisms are stolen, robbed, lost or leaked and the carrier, the escort, the collection institution or the establishing unit of the laboratory fails to report in accordance with the provisions of these Regulations, the competent health department or the competent veterinary department of the people's government at the county level at the place where they are located shall give a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the establishing unit of the laboratory, or the competent department at the higher level of the carrier or the collection institution, shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a collection institution fails to store the strains (viruses) and samples submitted by laboratories as required, or fails to provide strains (viruses) and samples as required, the department that designated it shall order rectification within a specified time limit, take back the strains (viruses) and samples unlawfully provided and give a warning; and where the spread or epidemic of infectious diseases or other serious consequences are caused, the unit to which it belongs or its competent department at the higher level shall impose sanctions of removal from office or dismissal in accordance with law on the principal person in charge, the directly responsible persons in charge and other directly responsible persons; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the relevant competent department of a people's government at or above the county level fails to perform its duties of supervision and inspection of laboratories and their experimental activities in accordance with the provisions of these Regulations, the people's government concerned shall, within the scope of its respective duties, order it to rectify and circulate a notice of criticism; and where the spread or epidemic of infectious diseases or other serious consequences are caused, administrative sanctions shall be imposed in accordance with law on the directly responsible persons in charge; and where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Military laboratories shall be supervised and administered, by reference to these Regulations, by the competent health department of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Laboratories established before the entry into force of these Regulations shall, within six months from the date of entry into force of these Regulations, undergo the relevant formalities in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "These Regulations shall enter into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -7632,6 +11472,696 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0018'] = {
+    "lawId": "CN-REG-0018",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 59 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted in accordance with the Education Law of the People's Republic of China and the Law of the People's Republic of China on the Protection of Persons with Disabilities in order to safeguard the right of persons with disabilities to education and to develop the undertakings of education for persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State shall safeguard the equal right of persons with disabilities to receive education and shall prohibit any discrimination in education on the basis of disability.\nEducation for persons with disabilities shall implement the educational policy of the State and, in accordance with the physical and mental characteristics and needs of persons with disabilities, comprehensively improve their quality, so as to create conditions for persons with disabilities to participate in social life on an equal footing."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Education for persons with disabilities is an integral part of the educational undertakings of the State.\nIn developing the undertakings of education for persons with disabilities, the policy of combining popularisation with improvement, with emphasis on popularisation, shall be implemented; compulsory education shall be guaranteed, vocational education shall be developed with priority, pre-school education shall be actively carried out, and senior secondary and higher education shall be developed gradually.\nEducation for persons with disabilities shall improve the quality of education and actively promote inclusive education; in accordance with the categories of disability and the learning capacity of persons with disabilities, ordinary education or special education shall be adopted, with preference given to ordinary education."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at or above the county level shall strengthen leadership over the undertakings of education for persons with disabilities, incorporate such education into the plans for the development of educational undertakings, make overall arrangements for its implementation, rationally allocate resources, guarantee funding for education for persons with disabilities and improve the conditions for running schools."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The education administrative department of the State Council shall be in charge of education for persons with disabilities throughout the country and shall make overall plans, coordinate and manage the undertakings of education for persons with disabilities nationwide; other relevant departments of the State Council shall be responsible for the relevant education for persons with disabilities within the scope of their duties as prescribed by the State Council.\nThe education administrative departments of local people's governments at or above the county level shall be in charge of education for persons with disabilities within their respective administrative regions; other relevant departments of local people's governments at or above the county level shall be responsible for the relevant education for persons with disabilities within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The China Disabled Persons' Federation and its local organisations shall actively promote and carry out education for persons with disabilities, assist the relevant departments in implementing education for persons with disabilities and provide support and assistance to persons with disabilities in receiving education."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Pre-school education institutions, schools of all types and at all levels and other educational institutions shall implement education for persons with disabilities in accordance with these Regulations and the relevant laws and regulations of the State; they shall not refuse to admit persons with disabilities who apply for admission and meet the conditions prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Families of persons with disabilities shall help persons with disabilities receive education.\nThe parents or other guardians of children and adolescents with disabilities shall respect and safeguard the right of such children and adolescents to receive education, actively carry out family education, enable children and adolescents with disabilities to receive rehabilitation training and education in a timely manner, assist and participate in the educational and teaching activities of the relevant educational institutions, and provide support for children and adolescents with disabilities to receive education."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "All sectors of society shall show concern for and support the undertakings of education for persons with disabilities. The communities in which persons with disabilities live, the relevant social organisations, enterprises and public institutions shall support and help persons with disabilities to receive education on an equal footing and to integrate into society."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall, in accordance with the relevant provisions, commend and award organisations and individuals that have made outstanding contributions to the undertakings of education for persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The bodies responsible for educational inspection and guidance under people's governments at or above the county level shall incorporate the implementation of education for persons with disabilities into the scope of inspection and guidance, and may carry out special inspection and guidance on the implementation of laws and regulations on education for persons with disabilities, the quality of teaching in education for persons with disabilities, and the management and use of funds."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "People's governments at all levels shall perform their duties in accordance with the law and safeguard the right of school-age children and adolescents with disabilities to receive compulsory education.\nThe supervision, guidance and inspection of the work of implementing compulsory education by people's governments at or above the county level shall include the supervision, guidance and inspection of the work of implementing compulsory education for children and adolescents with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The parents or other guardians of school-age children and adolescents with disabilities shall, in accordance with the law, ensure that their children with disabilities or wards are enrolled in and complete compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The age of enrolment and the number of years for children and adolescents with disabilities to receive compulsory education shall be the same as the age of enrolment and the number of years for local children and adolescents to receive compulsory education; where necessary, their age of enrolment and age at school may be appropriately raised."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The education administrative department of the county-level people's government shall, together with the health administrative department, the civil affairs department and the disabled persons' federation, conduct pre-enrolment registration of school-age children and adolescents with disabilities who are subject to compulsory education on the basis of information such as neonatal disease screening, screening of pre-school children for disabilities and statistics on persons with disabilities, so as to have a comprehensive understanding of the number and disability status of school-age children and adolescents with disabilities subject to compulsory education within its administrative region."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "County-level people's governments shall, in light of the number, categories and distribution of children and adolescents with disabilities within their respective administrative regions, make overall plans and give priority to establishing special education resource classrooms in some ordinary schools, equipping them with the necessary equipment and with teachers and professionals specialising in education for persons with disabilities, and designating such schools to admit children and adolescents with disabilities for compulsory education; they shall also support other ordinary schools in establishing special education resource classrooms as needed, or arrange for schools with the corresponding resources and conditions to provide the necessary support to other ordinary schools that admit students with disabilities.\nCounty-level people's governments shall equip special education schools implementing compulsory education with the necessary instruments and equipment for teaching, rehabilitation assessment and rehabilitation training for persons with disabilities, and shall strengthen the development of special education schools that provide nine-year compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where school-age children and adolescents with disabilities are able to adapt to study and life in ordinary schools and to receive ordinary education, they shall, in accordance with the provisions of the Compulsory Education Law of the People's Republic of China, be enrolled in nearby ordinary schools to receive compulsory education.\nWhere school-age children and adolescents with disabilities are able to receive ordinary education but require special support in study and life, they shall, in light of their physical condition, be enrolled in nearby ordinary schools with the corresponding resources and conditions designated by the education administrative department of the county-level people's government within a certain area to receive compulsory education.\nWhere school-age children and adolescents with disabilities are unable to receive ordinary education, the education administrative department of the county-level people's government shall make overall arrangements for them to enter special education schools to receive compulsory education.\nWhere school-age children and adolescents with disabilities require personal care and are unable to attend school, the education administrative department of the county-level people's government shall make overall arrangements to implement compulsory education by such means as providing home-based instruction or distance education, and shall include them in the administration of student status."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where children and adolescents with disabilities studying in special education schools are able, after education and rehabilitation training, to receive ordinary education, the school may suggest to their parents or other guardians that they be transferred to or proceed to ordinary schools to receive compulsory education.\nWhere children and adolescents with disabilities studying in ordinary schools have difficulty adapting to study and life in ordinary schools, the school may suggest to their parents or other guardians that they be transferred to designated ordinary schools or special education schools to receive compulsory education."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The ability of school-age children and adolescents with disabilities to receive education and to adapt to study and life at school shall be judged on the basis of factors such as the category of disability, the degree of disability, the degree of compensation and the conditions for running the school."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The education administrative department of the county-level people's government shall, together with the health administrative department, the civil affairs department and the disabled persons' federation, establish a committee of experts on education for persons with disabilities composed of experts in education, psychology, rehabilitation, social work and other fields.\nThe committee of experts on education for persons with disabilities may, upon entrustment by the education administrative department, assess the physical condition of school-age children and adolescents with disabilities and their ability to receive education and to adapt to study and life at school and put forward suggestions on enrolment and transfer, and shall provide consultation and put forward suggestions on issues concerning compulsory education for persons with disabilities.\nThe assessment results made in accordance with the provisions of the preceding paragraph constitute the privacy of the children and adolescents with disabilities and may only be used for the education and rehabilitation of such children and adolescents. The education administrative department, the committee of experts on education for persons with disabilities, schools and their staff shall be obligated to keep confidential the assessment results and other personal information of children and adolescents with disabilities that they learn of in the course of their work."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the parents or other guardians of children and adolescents with disabilities have a dispute with a school over arrangements for enrolment or transfer, they may apply to the education administrative department of the county-level people's government for handling.\nThe education administrative department of the county-level people's government that receives the application shall entrust the committee of experts on education for persons with disabilities to assess the physical condition of the children and adolescents with disabilities and their ability to receive education and to adapt to study and life at school and to put forward suggestions on enrolment and transfer, and shall, on the basis of the assessment results and the suggestions on enrolment and transfer put forward by the committee of experts on education for persons with disabilities and taking comprehensive account of the conditions for running the school and the wishes of the children and adolescents with disabilities and their parents or other guardians, make a decision on the arrangements for the enrolment or transfer of the children and adolescents with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Ordinary schools admitting students with disabilities shall reasonably assign students with disabilities to classes; where there are a relatively large number of students with disabilities, special education classes may be established.\nOrdinary schools admitting students with disabilities shall arrange for teachers specialising in education for persons with disabilities or experienced teachers to undertake the education and teaching work of classes attended by students with disabilities or of special education classes, and shall appropriately reduce the number of students in each class, so as to provide convenience and conditions for the study and life of students with disabilities after enrolment and to safeguard the equal participation of students with disabilities in education and teaching and in the various activities organised by the school."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "In respect of compulsory education for students with disabilities who attend classes in ordinary schools, the curriculum plans, curriculum standards and textbooks for ordinary compulsory education may be applied, but the learning requirements for such students may be moderately flexible."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Special education schools (classes) for children and adolescents with disabilities shall adhere to the integration of ideological education, cultural education, labour skills education and physical and mental compensation, and shall implement classified teaching in light of the disability status and degree of compensation of the students; where necessary, they shall hear the opinions of the parents or other guardians of students with disabilities, formulate individualised education plans suited to the physical and mental characteristics and needs of students with disabilities and implement individualised teaching."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The curriculum plans, curriculum standards and textbooks of special education schools (classes) for children and adolescents with disabilities shall be suited to the physical and mental characteristics and needs of such children and adolescents.\nThe curriculum plans and curriculum standards of special education schools (classes) for children and adolescents with disabilities shall be formulated by the education administrative department of the State Council; textbooks shall be examined and approved by the education administrative departments of people's governments at or above the provincial level in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The education administrative department of the county-level people's government shall strengthen guidance over the implementation of compulsory education for children and adolescents with disabilities within its administrative region.\nThe education administrative departments of local people's governments at or above the county level shall make overall arrangements to support special education schools in establishing special education resource centres that provide guidance and support services for special education within a certain area. A special education resource centre may, upon entrustment by the education administrative department, undertake the following work:\n(a) guiding and evaluating the work of classes attended by students with disabilities in the region;\n(b) providing training for teachers in the region who undertake education and teaching tasks in classes attended by students with disabilities;\n(c) dispatching teachers and relevant professional service personnel to support classes attended by students with disabilities, and providing tutoring and support for children and adolescents with disabilities who receive home-based instruction and distance education;\n(d) providing consultation for the parents or other guardians of students with disabilities;\n(e) other work related to special education."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Compulsory Education"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Vocational education for persons with disabilities shall vigorously develop secondary vocational education, accelerate the development of higher vocational education, actively carry out medium-term and short-term training focused on practical skills, aim at improving employability and cultivate skilled technical personnel, and shall strengthen employment guidance for students with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Vocational Education"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Vocational education for persons with disabilities shall be implemented by ordinary vocational education institutions and special vocational education institutions, with ordinary vocational education institutions playing the principal role.\nLocal people's governments at or above the county level shall, as needed, rationally establish special vocational education institutions, improve the conditions for running schools and expand the enrolment scale of secondary vocational schools for persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Vocational Education"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Ordinary vocational schools shall not refuse to admit persons with disabilities who meet the admission standards prescribed by the State, and ordinary vocational training institutions shall actively admit persons with disabilities.\nLocal people's governments at or above the county level shall take measures to encourage and support ordinary vocational education institutions in actively admitting students with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Vocational Education"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Schools and training institutions implementing vocational education for persons with disabilities shall, in light of social needs and the physical and mental characteristics of persons with disabilities, rationally establish specialities, and shall cooperate with enterprises to set up internship and practical training bases, or, in light of teaching needs and conditions, operate internship bases well."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Vocational Education"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "People's governments at all levels shall actively take measures to gradually increase the proportion of young children with disabilities receiving pre-school education.\nCounty-level people's governments and their education administrative departments, civil affairs departments and other relevant departments shall support ordinary kindergartens in creating conditions to admit young children with disabilities, and shall support special education schools and welfare institutions for children with disabilities, rehabilitation institutions for children with disabilities and other institutions that meet the conditions for running schools in implementing pre-school education."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Preschool Education"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Education for young children with disabilities shall be implemented in combination with care and rehabilitation.\nPre-school education institutions admitting young children with disabilities shall, in light of their own conditions, be equipped with the necessary rehabilitation facilities, equipment and professional rehabilitation personnel, or cooperate with other special education institutions and rehabilitation institutions that have rehabilitation facilities, equipment and professional rehabilitation personnel to implement rehabilitation training for young children with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Preschool Education"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Health care institutions, pre-school education institutions for young children with disabilities, child welfare institutions and families shall attach importance to the early detection, early rehabilitation and early education of young children with disabilities.\nHealth care institutions, pre-school education institutions for young children with disabilities and rehabilitation institutions for children with disabilities shall provide consultation and guidance to the families of young children with disabilities on the early detection, early rehabilitation and early education of such children."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Preschool Education"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Ordinary senior secondary schools, higher education institutions and continuing education institutions shall admit candidates with disabilities who meet the admission standards prescribed by the State, and shall not refuse to admit them on account of their disabilities."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V General Senior Secondary and Higher Education and Continuing Education"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Local people's governments at or above the level of a city with districts may, in light of actual circumstances, establish special education schools providing senior secondary and higher education, and support higher education institutions in establishing special education colleges or relevant specialities, so as to raise the level of education of persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V General Senior Secondary and Higher Education and Continuing Education"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The education administrative departments and other relevant departments of people's governments at or above the county level and schools shall make full use of modern information technology to provide convenience and assistance, by such means as distance education, for persons with disabilities to receive adult higher education and higher education self-study examinations, offer specialities and courses suited to the learning of persons with disabilities in light of actual circumstances, adopt flexible and open teaching and management models, and support persons with disabilities in successfully completing their studies."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V General Senior Secondary and Higher Education and Continuing Education"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The units in which persons with disabilities work shall provide cultural and general knowledge education and technical training for persons with disabilities in their own units."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V General Senior Secondary and Higher Education and Continuing Education"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Literacy education shall include literacy education for illiterate and semi-illiterate persons with disabilities who have reached the age of 15 and have not lost their learning capacity."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V General Senior Secondary and Higher Education and Continuing Education"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State and society shall encourage and help persons with disabilities to become trained through self-study."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V General Senior Secondary and Higher Education and Continuing Education"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "People's governments at or above the county level shall attach importance to the training and further training of teachers engaged in education for persons with disabilities, take measures to gradually raise their status and remuneration, improve their working environment and conditions, and encourage teachers to devote their lives to the cause of education for persons with disabilities.\nPeople's governments at or above the county level may take such measures as free education, reduction or exemption of tuition fees and reimbursement of student loans to encourage qualified higher education graduates to teach in special education schools or other special education institutions."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Teachers"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Teachers engaged in education for persons with disabilities shall love the cause of education for persons with disabilities, possess a socialist humanitarian spirit, respect and care for students with disabilities, and master the professional knowledge and skills of education for persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Teachers"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Teachers engaged exclusively in the work of education for persons with disabilities (hereinafter referred to as special education teachers) shall meet the following conditions:\n(a) having obtained a teacher's qualification in accordance with the provisions of the Teachers Law of the People's Republic of China;\n(b) having graduated from a special education speciality, or having completed training in a special education speciality organised by the education administrative department of the people's government of a province, an autonomous region or a municipality directly under the Central Government and passed the assessment.\nSpecial education teachers engaged in education for persons with hearing disabilities shall meet the sign language grading standards prescribed by the State, and special education teachers engaged in education for persons with visual disabilities shall meet the Braille grading standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Teachers"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "People's governments of provinces, autonomous regions and municipalities directly under the Central Government may, in light of the needs of the development of education for persons with disabilities and in the light of local realities, formulate staffing standards for special education schools and for designated ordinary schools admitting students with disabilities.\nThe education administrative departments of local people's governments at or above the county level shall, together with other relevant departments, within the approved total staffing, equip special education schools with special education teachers and relevant professionals undertaking teaching, rehabilitation and other work, and establish full-time posts for special education teachers and other personnel in designated ordinary schools admitting students with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Teachers"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The education administrative department of the State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the needs of the development of education for persons with disabilities, establish special education teacher-training institutions in a planned manner and support ordinary teacher-training institutions and comprehensive universities in establishing relevant faculties, departments or specialities to train special education teachers.\nThe teacher-training specialities of ordinary teacher-training institutions and comprehensive universities shall offer special education courses so that students master the basic knowledge and skills of special education necessary to meet the education and teaching needs of students with disabilities attending classes in ordinary schools."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Teachers"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The education administrative departments of local people's governments at or above the county level shall incorporate the training of special education teachers into teacher training plans, organise in-service special education teachers in various forms to pursue further studies and raise their professional level, and add a certain proportion of special education content and related knowledge to ordinary teacher training so as to improve the special education capacity of ordinary teachers."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI Teachers"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Special education teachers and other relevant professionals engaged in special education shall, in accordance with the relevant provisions of the State, enjoy special post allowances and subsidies and other remuneration; where teachers of ordinary schools undertake the teaching and management of students with disabilities attending classes in ordinary schools, the teaching and management of such students undertaken by them shall be included in their performance assessment and shall serve as an important basis for determining their salaries and remuneration and for the assessment and appointment of professional titles.\nThe education administrative departments and the human resources and social security departments of people's governments at or above the county level shall, in respect of the assessment and appointment of professional titles, training and further studies, and commendation and awards, formulate preferential policies and provide special opportunities for special education teachers."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Teachers"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "People's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in light of the special circumstances of education for persons with disabilities and in accordance with the guiding standards of the relevant competent administrative departments of the State Council, formulate the construction standards, the expenditure standards and the standards for the provision of teaching instruments and equipment for special education schools within their respective administrative regions.\nWhere ordinary schools at the compulsory education stage admit students with disabilities, the finance department and the education administrative department of the county-level people's government shall allocate funds in full in accordance with the standard of per-student public expenditure within the budget of special education schools."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "People's governments at all levels shall, in accordance with the relevant provisions, arrange funds for education for persons with disabilities and include the required funds in the budgets of the governments at the corresponding level.\nPeople's governments at or above the county level may, as needed, establish special subsidy funds for the development of education for persons with disabilities.\nA certain proportion of the fiscal allocations for compulsory education and the education surcharges collected by local people's governments at all levels shall be used for the development of compulsory education for children and adolescents with disabilities.\nLocal people's governments at all levels may, in accordance with the relevant provisions, use the employment security funds for persons with disabilities collected in accordance with the law for special education schools to carry out various forms of vocational education for persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Local people's governments at or above the county level shall, in light of the needs of the development of education for persons with disabilities, make overall plans and a rational layout, establish special education schools, and, in accordance with the relevant provisions of the State, equip them with the necessary instruments and equipment for teaching, rehabilitation assessment and rehabilitation training for persons with disabilities.\nThe establishment of special education schools shall be examined and approved by the education administrative department in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The new construction, reconstruction and expansion of schools of all types and at all levels shall meet the requirements of the Regulations on the Construction of a Barrier-free Environment.\nLocal people's governments at or above the county level and their education administrative departments shall gradually advance the construction of barrier-free campus environments in schools of all types and at all levels."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Schools admitting students with disabilities shall, in accordance with the relevant provisions of the State, reduce or exempt tuition and other fees for students with disabilities who have financial difficulties, and shall give priority to providing subsidies in accordance with the State's financial assistance policies.\nThe State encourages localities with the capacity to do so to give priority to providing free pre-school education and senior secondary education for students with disabilities who have financial difficulties, and to gradually implement free senior secondary education for students with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where persons with disabilities need necessary supporting conditions and reasonable accommodation to take part in State education examinations, they may submit an application. Education examination institutions and schools shall provide such conditions and accommodation in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The State encourages non-governmental forces to establish special education institutions or to make donations to support education; it encourages and supports privately-run schools and other educational institutions in admitting students with disabilities.\nLocal people's governments at or above the county level and their relevant departments shall, in accordance with the relevant provisions of the State, support privately-run special education institutions and privately-run schools admitting students with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State encourages scientific research on education for persons with disabilities, organises and supports research on and the application of Braille and sign language, and supports the compilation and publication of textbooks for special education."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "People's governments at or above the county level and their relevant departments shall adopt preferential policies and measures to support the research, development and production of special instruments and equipment, teaching aids, learning aids, software and other auxiliary articles for education for persons with disabilities, and shall support special education institutions in establishing and developing welfare enterprises and sheltered employment institutions."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Provision of Conditions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where local people's governments at all levels and their relevant departments, in violation of the provisions of these Regulations, fail to perform their duties relating to education for persons with disabilities, the people's government at the next higher level or its relevant departments shall order them to rectify within a time limit; where the circumstances are serious, they shall be criticised in a circular, and the persons directly in charge and other persons directly responsible shall be given sanctions in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where pre-school education institutions, schools, other educational institutions and their staff, in violation of the provisions of these Regulations, commit any of the following acts, the competent administrative department shall order them to rectify and shall give sanctions in accordance with the law to the persons directly in charge and other persons directly responsible; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with the law; where the act constitutes a crime, criminal responsibility shall be investigated in accordance with the law:\n(a) refusing to admit students with disabilities who meet the conditions prescribed by laws and regulations;\n(b) discriminating against, insulting or corporally punishing students with disabilities, or tolerating discriminatory words or deeds against students with disabilities, thereby causing physical or mental harm to such students;\n(c) failing to reduce or exempt tuition or other fees for students with disabilities who have financial difficulties in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The terms used in these Regulations have the following meanings:\nInclusive education means integrating education for students with disabilities into ordinary education to the greatest extent possible.\nSpecial education resource classrooms mean dedicated classrooms established in ordinary schools and equipped with facilities and equipment for special education and rehabilitation training."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 May 2017."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]

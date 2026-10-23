@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p02
-   法规 51 部 / 译文 2798 条
+   法规 67 部 / 译文 3950 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -23117,6 +23117,1032 @@
     ]
   };
 
+  TR['CN-LAW-0114'] = {
+    "lawId": "CN-LAW-0114",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 87 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted to strengthen the construction and management of highways, promote the development of the highway industry, and meet the needs of socialist modernisation and of the people's life."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the planning, construction, maintenance, operation, use and management of highways within the territory of the People's Republic of China.\nHighways referred to in this Law include highway bridges, highway tunnels and highway ferries."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The development of highways shall follow the principles of comprehensive planning, rational layout, quality assurance, guaranteeing smooth flow of traffic, environmental protection, and equal importance to construction, reconstruction and maintenance."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at all levels shall take effective measures to support and promote highway construction. Highway construction shall be incorporated into the plans for national economic and social development.\nThe State encourages and guides domestic and foreign economic organisations to invest in the construction and operation of highways in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall help and support ethnic minority areas, remote areas and poverty-stricken areas in developing highway construction."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Highways are classified, according to their position in the highway network, into national highways, provincial highways, county highways and township highways, and, according to their technical grades, into expressways, first-class highways, second-class highways, third-class highways and fourth-class highways. The specific classification standards shall be prescribed by the competent department of communications under the State Council.\nNewly built highways shall meet the requirements of the relevant technical grade. Substandard highways that do not meet the minimum technical grade requirements shall be improved, through the adoption of measures, step by step into highways that meet the technical grade requirements."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Highways are protected by the State. No unit or individual shall damage or destroy highways, highway land or highway ancillary facilities, or occupy them without authorisation.\nEvery unit and individual shall have the duty to cherish highways, highway land and highway ancillary facilities, and shall have the right to report and complain about acts that damage or destroy highways, highway land or highway ancillary facilities or that affect highway safety."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent department of communications under the State Council shall be in charge of highway work throughout the country.\nThe competent departments of communications of local people's governments at or above the county level shall be in charge of highway work within their respective administrative regions; however, the duties of the competent departments of communications of local people's governments at or above the county level in respect of the management and supervision of national and provincial highways shall be determined by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government.\nThe people's governments of townships, ethnic townships and towns shall be responsible for the construction and maintenance of township highways within their respective administrative regions.\nThe competent departments of communications of local people's governments at or above the county level may decide that highway management agencies shall exercise the duties of highway administration in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "No unit or individual shall unlawfully set up checkpoints on highways, collect tolls or fines, or stop vehicles."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State encourages scientific and technological research in highway work and shall give awards to units and individuals that have made outstanding achievements in scientific and technological research in, and the application of, highway science and technology."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where this Law provides for special-purpose highways, those provisions shall apply to special-purpose highways.\nSpecial-purpose highways refer to roads that are constructed, maintained and managed by enterprises or other units and that provide transport services exclusively or mainly for the said enterprise or unit."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Highway plans shall be formulated in light of the needs of national economic and social development and of national defence construction, and shall be coordinated with urban construction development plans and with development plans for other modes of transport."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Planning"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The plan for land used for highway construction shall conform to the overall plan for land use, and the land to be used for construction in the current year shall be incorporated into the annual plan for construction land."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Planning"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The plan for national highways shall be formulated by the competent department of communications under the State Council in conjunction with the relevant departments under the State Council and after consultation with the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government along the routes of the national highways, and shall be submitted to the State Council for approval.\nThe plan for provincial highways shall be formulated by the competent departments of communications of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in conjunction with the relevant departments at the same level and after consultation with the people's governments at the next lower level along the routes of the provincial highways, and shall be submitted to the people's governments of provinces, autonomous regions and municipalities directly under the Central Government for approval and to the competent department of communications under the State Council for the record.\nThe plan for county highways shall be formulated by the competent departments of communications of the people's governments at the county level in conjunction with the relevant departments at the same level and shall, after examination and determination by the people's governments at the same level, be submitted to the people's governments at the next higher level for approval.\nThe plan for township highways shall be formulated by the competent departments of communications of the people's governments at the county level with the assistance of the people's governments of townships, ethnic townships and towns, and shall be submitted to the people's governments at the county level for approval.\nThe plans for county and township highways approved in accordance with the provisions of the third and fourth paragraphs shall be submitted to the competent departments of communications of the people's governments at the next higher level than the approving authorities for the record.\nThe plan for provincial highways shall be coordinated with the plan for national highways. The plan for county highways shall be coordinated with the plan for provincial highways. The plan for township highways shall be coordinated with the plan for county highways."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Planning"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The plan for a special-purpose highway shall be formulated by the unit in charge of the special-purpose highway and, after examination and determination by its superior competent department, shall be submitted to the competent department of communications of the people's government at or above the county level for examination.\nThe plan for a special-purpose highway shall be coordinated with highway plans. Where the competent department of communications of the people's government at or above the county level finds that the plan for a special-purpose highway is not coordinated with the plans for national, provincial, county or township highways, it shall put forward suggestions for modification, and the competent department and the unit in charge of the special-purpose highway shall make corresponding modifications."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Planning"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Partial adjustment of the plan for national highways shall be decided by the original formulating authority. Where major modifications of the plan for national highways are required, the original formulating authority shall put forward a modification proposal and submit it to the State Council for approval.\nWhere an approved plan for provincial, county or township highways requires modification, the original formulating authority shall put forward a modification proposal and submit it to the original approving authority for approval."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Planning"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The naming and numbering of national highways shall be determined by the competent department of communications under the State Council; the naming and numbering of provincial, county and township highways shall be determined by the competent departments of communications of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in accordance with the relevant provisions of the competent department of communications under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Planning"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "In the planning and construction of new villages and towns and of development zones, a prescribed distance from highways shall be maintained and construction on opposite sides of a highway shall be avoided, so as to prevent highways from becoming urban streets and from affecting the safety and smooth flow of highway traffic."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Planning"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State encourages the use of special-purpose highways for public transport. Where a special-purpose highway is mainly used for public transport, it may, upon application by the unit in charge of the special-purpose highway or by the parties concerned with the consent of the said unit, and upon approval by the competent department of communications of the people's government of the province, autonomous region or municipality directly under the Central Government, be reclassified as a provincial, county or township highway."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Highway Planning"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The competent departments of communications of people's governments at or above the county level shall, in accordance with their duties, maintain order in highway construction and strengthen the supervision and management of highway construction."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Funds for highway construction may, apart from the financial allocations of people's governments at all levels, including the financial allocations converted from special funds for highway construction raised through taxation in accordance with law, be raised in accordance with law by borrowing from domestic and foreign financial institutions or from foreign governments.\nThe State encourages domestic and foreign economic organisations to invest in highway construction. Companies that develop and operate highways may, in accordance with the provisions of laws and administrative regulations, issue shares and corporate bonds to raise funds.\nThe income from the transfer of highway toll collection rights in accordance with the provisions of this Law must be used for highway construction.\nRaising funds from enterprises and individuals for highway construction must be based on need and feasibility, adhere to the principle of voluntariness, and no compulsory apportionment shall be allowed, and shall conform to the relevant provisions of the State Council.\nFunds for highway construction may also be raised by other means that conform to the provisions of laws or of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Highway construction shall be carried out in accordance with the capital construction procedures and the relevant provisions prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Highway construction projects shall, in accordance with the relevant provisions of the State, apply the system of responsibility of legal persons, the system of bidding and tendering, and the system of project supervision."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Highway construction units shall, in light of the characteristics and technical requirements of highway construction projects, select surveying and design units, construction units and project supervision units with the appropriate qualifications, and shall, in accordance with the provisions of the relevant laws, regulations and rules and the requirements of highway engineering technical standards, conclude separate contracts to specify the rights and obligations of both parties.\nUnits undertaking the feasibility study, surveying and design, construction and project supervision of highway construction projects must hold qualification certificates prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The construction of a highway construction project shall be submitted, in accordance with the provisions of the competent department of communications under the State Council, to the competent department of communications of the local people's government at or above the county level for approval."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Highway construction must conform to highway engineering technical standards.\nThe design units, construction units and project supervision units undertaking highway construction projects shall, in accordance with the relevant provisions of the State, establish and improve quality assurance systems, implement the system of responsibility for posts, and conduct design, construction and supervision in accordance with the provisions of the relevant laws, regulations and rules, the requirements of highway engineering technical standards and the contracts, so as to ensure the quality of highway projects."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The use of land for highway construction shall be handled in accordance with the provisions of the relevant laws and administrative regulations.\nHighway construction shall follow the principle of effectively protecting arable land and economising on land use."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where highway construction requires the use of State-owned barren hills or wasteland, or requires the excavation of sand, the quarrying of stone or the removal of earth on State-owned barren hills, wasteland, river beaches or tidal flats, no unit or individual shall obstruct such use or unlawfully charge fees therefor after the procedures have been completed in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Local people's governments at all levels shall give support and assistance to the lawful use of land and the relocation of residents for highway construction."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The design and construction of highway construction projects shall meet the requirements of environmental protection, protection of cultural relics and historic sites, and prevention of soil erosion in accordance with law.\nHighway construction projects that implement national defence requirements in highway plans shall be constructed strictly in accordance with the plans so as to ensure the needs of national defence transportation."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where the construction of a highway affects the normal use of railways, water conservancy, electric power, postal and telecommunications facilities or other facilities, the highway construction unit shall obtain the consent of the relevant departments in advance; where damage is caused to the facilities concerned by highway construction, the highway construction unit shall repair them to a standard not lower than their original technical standard, or give corresponding economic compensation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "When a highway is reconstructed, the construction unit shall set up conspicuous construction signs and safety signs at both ends of the construction section. Where vehicles need to make a detour, signs shall be set up at the junctions of the detour; where a detour is impossible, a temporary road must be built to ensure the passage of vehicles and pedestrians."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Upon completion of a highway construction project or a highway repair project, acceptance inspection shall be carried out in accordance with the relevant provisions of the State; where acceptance inspection has not been carried out or has failed, the project shall not be delivered for use.\nCompleted highways shall be provided with conspicuous signs and markings in accordance with the provisions of the competent department of communications under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Local people's governments at or above the county level shall determine highway land extending not less than one metre from the outer edge of the side ditches on both sides of the highway (the cut-off ditches and the slope protection roads at the toe of the slope, the same below)."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Highway Construction"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Highway management agencies shall maintain highways in accordance with the technical specifications and operating rules prescribed by the competent department of communications under the State Council, and shall ensure that highways are constantly in good technical condition."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall raise funds for highway maintenance by means of taxation in accordance with law; the specific implementing measures and steps shall be prescribed by the State Council.\nFunds for highway maintenance raised through taxation in accordance with law must be used exclusively for the maintenance and reconstruction of highways."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "People's governments at the county and township levels shall give support and assistance in respect of the excavation of sand, the quarrying of stone, the removal of earth and the abstraction of water needed for highway maintenance."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "People's governments at the county and township levels shall, within the scope of rural voluntary labour and in accordance with the relevant provisions of the State, organise rural residents on both sides of highways to perform the obligation of providing labour services for highway construction and maintenance."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "To ensure the personal safety of highway maintenance personnel, highway maintenance personnel shall wear uniform safety sign clothing when carrying out maintenance operations; where vehicles are used for maintenance operations, conspicuous operation signs shall be set up on the highway operation vehicles.\nWhen highway maintenance vehicles are carrying out operations, their routes and directions of travel shall not be subject to the restrictions of highway signs and markings, on the premise that the passage of passing vehicles is not affected; passing vehicles shall pay attention to giving way to highway maintenance vehicles and personnel.\nWhere the construction of highway maintenance works affects the passage of vehicles and pedestrians, the construction unit shall proceed in accordance with the provisions of Article 32 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where traffic on national or provincial highways is interrupted as a result of serious natural disasters, the highway management agency shall repair the highways in a timely manner; where it is difficult for the highway management agency to do so in a timely manner, the local people's government at or above the county level shall promptly organise local organs, organisations, enterprises and institutions and urban and rural residents to carry out emergency repairs, and may request the support of the local garrison, so as to restore traffic as soon as possible."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The highway management agency shall be responsible for soil and water conservation on hillsides and wasteland within the scope of highway land."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Highway landscaping shall be organised and implemented by the highway management agency in accordance with highway engineering technical standards.\nTrees on highway land shall not be felled at will; where felling for regeneration is required, the consent of the competent department of communications of the local people's government at or above the county level shall be obtained, approval formalities shall be completed in accordance with the provisions of the Forestry Law of the People's Republic of China, and the task of replanting shall be accomplished."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Highway Maintenance"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Local people's governments at all levels shall take measures to strengthen the protection of highways.\nThe competent departments of communications of local people's governments at or above the county level shall conscientiously perform their duties, do a good job in highway protection in accordance with law, and strive to adopt scientific management methods and advanced technical means to improve the level of highway management, gradually improve highway service facilities, and ensure that highways are in good condition, safe and unobstructed."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "No unit or individual shall occupy or excavate a highway without authorisation.\nWhere it is necessary to occupy or excavate a highway or to reroute a highway for the construction of railways, airports, power stations, communications facilities, water conservancy projects or other construction projects, the construction unit shall obtain the consent of the competent department of communications concerned in advance; where traffic safety is affected, the consent of the public security organ concerned shall also be obtained. Where a highway is occupied or excavated or rerouted, the construction unit shall repair or reconstruct it to a standard not lower than the original technical standard of that section of the highway, or give corresponding economic compensation."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where bridges or aqueducts are to be built across or under a highway, or pipelines and other facilities are to be erected or laid, or where pipelines, cables and other facilities are to be erected or laid within the scope of highway land, the consent of the competent department of communications concerned shall be obtained in advance, and where traffic safety is affected, the consent of the public security organ concerned shall also be obtained; the facilities built, erected or laid shall conform to the requirements of highway engineering technical standards. Where damage is caused to the highway, compensation shall be given according to the extent of the damage."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "No unit or individual shall, on highways or within the scope of highway land, set up stalls or stands, pile up goods, dump refuse, place obstacles, dig ditches to divert water, discharge pollutants through highway side ditches, or engage in other activities that damage or pollute highways or affect the smooth flow of highway traffic."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Within 200 metres around large and medium-sized highway bridges and ferries, within 100 metres above highway tunnels and outside their portals, and within a certain distance on both sides of highways, no sand shall be excavated, no stone quarried, no earth removed, no waste dumped, and no blasting operations or other activities that endanger the safety of highways, highway bridges, highway tunnels or highway ferries shall be carried out.\nWhere, within the scope specified in the preceding paragraph, dykes need to be built or riverbeds need to be narrowed or widened for emergency rescue or flood control, approval shall be obtained in advance from the competent department of communications of the people's government of the province, autonomous region or municipality directly under the Central Government in conjunction with the competent department of water administration, and effective measures shall be taken to protect the safety of the highways, highway bridges, highway tunnels and highway ferries concerned."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Vehicles with iron wheels, vehicles with caterpillar tracks and other machinery that may damage highway surfaces shall not be driven on highways.\nWhere agricultural machinery needs to be driven on a highway for a short distance for local field operations, or military vehicles need to be driven on a highway in the performance of tasks, the restriction in the preceding paragraph may not apply, but safety protection measures shall be taken. Where damage is caused to the highway, compensation shall be given according to the extent of the damage."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The axle load mass of vehicles driven on highways shall meet the requirements of highway engineering technical standards."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Vehicles exceeding the load, height, width or length limits of a highway, highway bridge, highway tunnel or motor vehicle ferry shall not be driven on highways or highway bridges with prescribed limits or in highway tunnels with prescribed limits, and shall not use motor vehicle ferries. Where a vehicle exceeding the load limit of a highway or highway bridge truly needs to be driven, it must be approved by the competent department of communications of the local people's government at or above the county level and effective protective measures shall be taken as required; where indivisible oversized goods are carried, the vehicle shall be driven at the designated time, along the designated route and at the designated speed, and conspicuous signs shall be displayed.\nWhere the transport unit is unable to take protective measures in accordance with the provisions of the preceding paragraph, the competent department of communications shall assist it in taking protective measures, and the expenses incurred shall be borne by the transport unit."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Motor vehicle manufacturers and other units shall not use highways as test sites for testing the braking performance of motor vehicles."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "No unit or individual shall damage, move without authorisation or alter highway ancillary facilities.\nThe highway ancillary facilities referred to in the preceding paragraph mean the facilities and equipment for highway protection, drainage, maintenance, management, service, traffic safety, ferry operation, monitoring, communications and toll collection, as well as special buildings and structures, installed to protect and maintain highways and to ensure the safety and smooth flow of highway traffic."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where damage is caused to a highway, the person responsible shall promptly report it to the highway management agency and shall accept on-site investigation by the highway management agency."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "No unit or individual shall, without approval by the competent department of communications of the local people's government at or above the county level, set up signs other than highway signs within the scope of highway land."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The addition of at-grade intersections on a highway must be approved in accordance with the relevant provisions of the State and constructed in accordance with the technical standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Except where required for highway protection and maintenance, it is prohibited to build buildings and ground structures within the building control zones on both sides of a highway; where it is necessary to lay pipelines, cables and other facilities within a building control zone, approval shall be obtained in advance from the competent department of communications of the local people's government at or above the county level.\nThe extent of the building control zones specified in the preceding paragraph shall be delineated by the local people's government at or above the county level in accordance with the provisions of the State Council, on the principle of ensuring the safety of highway operation and economising on land use.\nAfter the extent of a building control zone has been delineated by the local people's government at or above the county level in accordance with the provisions of the preceding paragraph, the competent department of communications of the local people's government at or above the county level shall set up marker posts and boundary posts. No unit or individual shall damage or move such marker posts or boundary posts without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Except as provided in the second paragraph of Article 47 of this Law, the duties of highway administration to be exercised by the competent department of communications as provided in this Chapter may, in accordance with the provisions of the fourth paragraph of Article 8 of this Law, be exercised by highway management agencies."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Highway Administration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State permits the establishment of toll highways in accordance with law and at the same time controls the number of toll highways.\nExcept for highways on which vehicle tolls may be collected as provided in Article 59 of this Law, all highways are prohibited from collecting vehicle tolls."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The following highways that meet the technical grades and scales prescribed by the competent department of communications under the State Council may collect vehicle tolls in accordance with law:\n(1) highways built by the competent departments of communications of local people's governments at or above the county level with loans or with funds raised from enterprises and individuals;\n(2) highways in respect of which domestic and foreign economic organisations have lawfully acquired the toll collection rights of the toll highways mentioned in the preceding item;\n(3) highways built with lawful investment by domestic and foreign economic organisations."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The toll collection period for toll highways built by the competent departments of communications of local people's governments at or above the county level with loans or with funds raised shall be determined by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government in accordance with the provisions of the competent department of communications under the State Council, on the principle of collecting tolls to repay the loans and the funds raised.\nFor a highway whose toll collection rights are transferred for consideration, the transferee shall collect tolls and operate the highway after the transfer of the toll collection rights. The term of the transfer of toll collection rights shall be agreed upon by the transferor and the transferee, and shall not exceed the number of years prescribed by the State Council.\nWhere domestic and foreign economic organisations invest in the construction of highways, they must complete approval formalities in accordance with the relevant provisions of the State; after the highway is completed, the investor shall collect tolls and operate it. The term of toll collection and operation shall be agreed upon by the competent department of communications concerned and the investor on the principle of recovering the investment with a reasonable return and shall be subject to approval formalities in accordance with the relevant provisions of the State, but shall not exceed the number of years prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The transfer of the toll collection rights of national highways among the highways specified in subparagraph (1) of the first paragraph of Article 59 of this Law shall be reported to the competent department of communications under the State Council for the record within 30 working days from the date of signing the transfer agreement; the transfer of the toll collection rights of other highways than national highways shall be reported to the people's government of the province, autonomous region or municipality directly under the Central Government for the record within 30 working days from the date of signing the transfer agreement.\nThe minimum transaction price for the transfer of highway toll collection rights specified in the preceding paragraph shall be determined on the basis of the value assessed by a State-owned asset assessment institution."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Domestic and foreign economic organisations that acquire highway toll collection rights or invest in the construction of highways shall, in accordance with law, establish enterprises to develop and operate highways (hereinafter referred to as highway operation enterprises)."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The toll rates for vehicle tolls on toll highways shall be proposed by the toll collection units and shall be submitted to the competent department of communications of the people's government of the province, autonomous region or municipality directly under the Central Government for examination and approval in conjunction with the competent department of prices at the same level."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The establishment of toll stations for the collection of vehicle tolls on toll highways shall be submitted to the people's government of the province, autonomous region or municipality directly under the Central Government for examination and approval. The establishment of toll stations for the collection of vehicle tolls on toll highways spanning provinces, autonomous regions or municipalities directly under the Central Government shall be determined by the people's governments of the provinces, autonomous regions or municipalities directly under the Central Government concerned through consultation; where consultation fails, it shall be decided by the competent department of communications under the State Council. Where the same toll highway is constructed by different competent departments of communications or operated by different highway operation enterprises, toll stations shall be planned as a whole and rationally established in accordance with the principle of \"unified toll collection and proportional sharing\".\nThe distance between two toll stations shall not be less than the standard prescribed by the competent department of communications under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "For a highway whose toll collection rights have been transferred for consideration, the toll collection rights shall be recovered by the transferor upon expiry of the term agreed in the contract for the transfer of the toll collection rights.\nFor a toll highway built and operated with investment by domestic and foreign economic organisations in accordance with the provisions of this Law, the highway shall, upon expiry of the agreed operation term, be recovered by the State without compensation and be managed by the competent department of communications concerned."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The maintenance of highways whose toll collection rights have been acquired in accordance with the provisions of Article 59 of this Law, or which have been built and are operated with investment by domestic and foreign economic organisations, shall be the responsibility of the respective highway operation enterprises. The respective highway operation enterprises shall, during the operation period, properly maintain the highways in accordance with the technical specifications and operating rules prescribed by the competent department of communications under the State Council. Upon expiry of the term for which the toll collection rights were acquired, or upon expiry of the operation term, the highways shall be in good technical condition.\nThe landscaping of the highways specified in the preceding paragraph and soil and water conservation within the scope of highway land shall be the responsibility of the respective highway operation enterprises.\nThe highway administration of the highways specified in the first paragraph shall be governed by the provisions of Chapter V of this Law. The duties of highway administration of such highways shall be exercised by the competent departments of communications of local people's governments at or above the county level or by the dispatched agencies and personnel of highway management agencies."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where the activities listed in the second paragraph of Article 44, Article 45, Article 48 and Article 50 of this Law are carried out on a toll highway, in addition to being handled in accordance with the provisions of the respective articles, corresponding compensation shall be given for losses caused to the highway operation enterprise."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Specific measures for the administration of toll highways shall be formulated by the State Council in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Toll Highways"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The competent departments of communications and highway management agencies shall, in accordance with law, supervise and inspect the implementation of laws and regulations relating to highways."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The competent departments of communications and highway management agencies shall be responsible for the management and protection of highways and shall have the power to inspect and stop all acts of encroaching upon or damaging highways, highway land or highway ancillary facilities and other acts violating the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "No unit or individual shall obstruct highway supervision and inspection personnel when they carry out supervision and inspection in accordance with law on highways, in building control zones, at vehicle parking places, at units to which vehicles belong and in other places.\nHighway operators, users and other units and individuals concerned shall accept supervision and inspection carried out in accordance with law by highway supervision and inspection personnel and shall provide them with conveniences.\nHighway supervision and inspection personnel shall, when performing official duties, wear insignia and hold certificates."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The competent departments of communications and highway management agencies shall strengthen the management and education of the highway supervision and inspection personnel under them, require highway supervision and inspection personnel to be familiar with the relevant laws and provisions of the State, to be fair and honest, to serve with warmth and to enforce the law impartially, and shall strengthen supervision and inspection of the law enforcement conduct of highway supervision and inspection personnel and promptly correct and lawfully deal with their illegal acts."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Special vehicles used for highway supervision and inspection shall be provided with uniform insignia and warning lights."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Supervision and Inspection"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where, in violation of laws or of the relevant provisions of the State, checkpoints are set up on a highway or tolls are collected without authorisation, the competent department of communications shall order the cessation of the illegal act and confiscate the illegal gains, and may impose a fine of not more than three times the illegal gains, or, where there are no illegal gains, a fine of not more than 20,000 yuan; the persons in charge who are directly responsible and other persons directly responsible shall be given administrative sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 25 of this Law, construction is carried out without approval by the competent department of communications concerned, the competent department of communications may order the suspension of construction and may impose a fine of not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where any of the following illegal acts is committed, the competent department of communications shall order the cessation of the illegal act and may impose a fine of not more than 30,000 yuan:\n(1) in violation of the provisions of the first paragraph of Article 44 of this Law, occupying or excavating a highway without authorisation;\n(2) in violation of the provisions of Article 45 of this Law, building bridges or aqueducts, or erecting or laying pipelines, cables and other facilities, without consent or not in accordance with the requirements of highway engineering technical standards;\n(3) in violation of the provisions of Article 47 of this Law, carrying out operations that endanger highway safety;\n(4) in violation of the provisions of Article 48 of this Law, driving vehicles with iron wheels, vehicles with caterpillar tracks or other machinery that may damage highway surfaces on a highway without authorisation;\n(5) in violation of the provisions of Article 50 of this Law, using motor vehicle ferries with vehicles exceeding limits or driving on a highway beyond limits without authorisation;\n(6) in violation of the provisions of Article 52 or Article 56 of this Law, damaging, moving or altering highway ancillary facilities, or damaging or moving marker posts or boundary posts in a building control zone, in a manner that may endanger highway safety."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 46 of this Law, damage to or pollution of a highway surface is caused or the smooth flow of highway traffic is affected, or, in violation of the provisions of Article 51 of this Law, a highway is used as a test site, the competent department of communications shall order the cessation of the illegal act and may impose a fine of not more than 5,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 53 of this Law, damage is caused to a highway and is not reported, the competent department of communications shall impose a fine of not more than 1,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 54 of this Law, signs other than highway signs are set up within the scope of highway land, the competent department of communications shall order their removal within a time limit and may impose a fine of not more than 20,000 yuan; where they are not removed within the time limit, the competent department of communications shall remove them, and the expenses concerned shall be borne by the person who set them up."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 55 of this Law, an at-grade intersection is added to a highway without approval, the competent department of communications shall order the restoration of the original state and impose a fine of not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 56 of this Law, buildings or ground structures are built within a highway building control zone, or pipelines, cables and other facilities are laid without authorisation, the competent department of communications shall order their removal within a time limit and may impose a fine of not more than 50,000 yuan. Where they are not removed within the time limit, the competent department of communications shall remove them, and the expenses concerned shall be borne by the builders or constructors."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Except as provided in Article 74 and Article 75 of this Law, the power to impose administrative penalties and the administrative measures to be exercised by the competent department of communications as provided in this Chapter may, in accordance with the provisions of the fourth paragraph of Article 8 of this Law, be exercised by highway management agencies."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Whoever obstructs highway construction or emergency repair of highways, so that highway construction or emergency repair cannot proceed normally, where no serious losses have yet been caused, shall be punished in accordance with the provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security.\nWhoever destroys a highway or moves a highway sign without authorisation, in a manner that may affect traffic safety, where the case is not serious enough for criminal punishment, shall be subject to the penalty provisions of Article 99 of the Law of the People's Republic of China on Road Traffic Safety.\nWhoever refuses or obstructs highway supervision and inspection personnel in the lawful performance of their duties without using violence or threats shall be punished in accordance with the provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Whoever, in violation of the relevant provisions of this Law, commits a crime shall be investigated for criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Whoever, in violation of the relevant provisions of this Law, causes damage to a highway shall bear civil liability in accordance with law.\nA vehicle that has caused relatively serious damage to a highway must stop immediately, protect the scene, report to the highway management agency, and may drive away only after accepting investigation and handling by the highway management agency."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where staff members of the competent departments of communications or of highway management agencies neglect their duties, engage in malpractice for personal gain or abuse their powers, and a crime is constituted, they shall be investigated for criminal responsibility in accordance with law; where a crime is not constituted, they shall be given administrative sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 1998."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0116'] = {
     "lawId": "CN-LAW-0116",
     "sourceLang": "zh",
@@ -24056,6 +25082,2556 @@
     ]
   };
 
+  TR['CN-LAW-0118'] = {
+    "lawId": "CN-LAW-0118",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 68 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Supervision Law of the People's Republic of China to regulate governmental sanctions, strengthen supervision over all public officials who exercise public power, and promote the performance of duties by public officials in accordance with law, the impartial exercise of power, integrity in assuming office and in engaging in work, and adherence to moral integrity."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the activities of supervisory organs in imposing governmental sanctions on public officials who violate the law.\nChapter II and Chapter III of this Law apply to the imposition of sanctions by the authorities and units that appoint and remove public officials on public officials who violate the law. The procedures for sanctions, appeals and other matters shall be governed by other laws, administrative regulations, rules of departments of the State Council and the relevant provisions of the State.\nPublic officials referred to in this Law mean the persons specified in Article 15 of the Supervision Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Supervisory organs shall, in accordance with their administrative authority, strengthen supervision over public officials and impose governmental sanctions on public officials who violate the law in accordance with law.\nThe authorities and units that appoint and remove public officials shall, in accordance with their administrative authority, strengthen the education, management and supervision of public officials and impose sanctions on public officials who violate the law in accordance with law.\nWhere a supervisory organ finds that an authority or unit that appoints and removes public officials ought to have imposed a sanction but did not, or that a sanction imposed is unlawful or improper, it shall promptly make a supervisory suggestion."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In imposing governmental sanctions on public officials, the principle shall be adhered to that the Party exercises control over officials and that decisions are made through collective discussion; the principle shall be adhered to that all persons are equal before the law, that facts are taken as the basis and the law as the criterion, and that the governmental sanction imposed is commensurate with the nature, circumstances and degree of harm of the illegal act; and the principle shall be adhered to of combining punishment with education and of tempering severity with leniency."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In imposing a governmental sanction on a public official, the facts shall be clear, the evidence conclusive, the characterisation accurate, the handling appropriate, the procedure lawful and the formalities complete."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Public officials shall be protected by law in performing their duties in accordance with law and shall not be subjected to governmental sanctions except on statutory grounds and through statutory procedures."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The types of governmental sanctions are:\n(1) warning;\n(2) demerit;\n(3) major demerit;\n(4) demotion;\n(5) removal from office;\n(6) expulsion."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The periods of governmental sanctions are:\n(1) warning, six months;\n(2) demerit, twelve months;\n(3) major demerit, eighteen months;\n(4) demotion or removal from office, twenty-four months.\nA decision on a governmental sanction shall take effect on the date it is made, and the period of the governmental sanction shall be calculated from the date on which the decision on the governmental sanction takes effect."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where two or more public officials jointly violate the law, governmental sanctions shall be imposed on each of them separately according to the role each played in the illegal act and the legal responsibility each ought to bear."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a decision collectively made by the relevant authority, unit or organisation is unlawful, or where such authority, unit or organisation commits an illegal act, governmental sanctions shall be imposed in accordance with law on the public officials among the leading personnel responsible and among the directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A public official may be given a lighter or mitigated governmental sanction under any of the following circumstances:\n(1) voluntarily confessing the illegal act of his own for which he ought to be subjected to a governmental sanction;\n(2) cooperating with the investigation and truthfully explaining the facts of his own illegal act;\n(3) reporting the violations of discipline and law of others, which are verified to be true;\n(4) voluntarily taking measures that effectively avoid or recover losses or eliminate adverse effects;\n(5) playing a secondary or auxiliary role in a joint illegal act;\n(6) voluntarily handing over or returning and compensating the illegal gains;\n(7) other circumstances for a lighter or mitigated sanction provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where the circumstances of an illegal act of a public official are minor and any of the circumstances specified in Article 11 of this Law exists, he may be given a talk and reminder, criticism and education, an order to conduct self-examination or admonishment, and be exempted from or not given a governmental sanction.\nWhere a public official is drawn into or coerced into participating in illegal activities without knowing the truth and truly shows repentance after criticism and education, he may be given a mitigated governmental sanction, or be exempted from or not given a governmental sanction."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A public official shall be given a heavier governmental sanction under any of the following circumstances:\n(1) again intentionally violating the law during the period of a governmental sanction, for which a governmental sanction ought to be imposed;\n(2) preventing others from reporting or providing evidence;\n(3) colluding to make statements or forging, concealing or destroying evidence;\n(4) shielding persons involved in the same case;\n(5) coercing or instigating others to commit illegal acts;\n(6) refusing to hand over or to return and compensate the illegal gains;\n(7) other circumstances for a heavier sanction provided by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a public official commits a crime, he shall be expelled under any of the following circumstances:\n(1) being sentenced to public surveillance, criminal detention or fixed-term imprisonment or a heavier penalty (including a suspended sentence) for an intentional crime;\n(2) being sentenced to fixed-term imprisonment for a crime of negligence, with a term exceeding three years;\n(3) being sentenced to deprivation of political rights as a sole penalty or as an additional penalty for a crime.\nWhere a public official is sentenced to public surveillance, criminal detention or fixed-term imprisonment of not more than three years for a crime of negligence, he shall generally be expelled; where the circumstances of the case are special and removal from office is more appropriate, he may not be expelled, but the matter shall be submitted to the authority at the next higher level for approval.\nWhere a public official is sentenced to a fine as a sole penalty for a crime, or where the circumstances of the crime are minor and the people's procuratorate decides not to institute prosecution in accordance with law or the people's court exempts him from criminal punishment in accordance with law, he shall be removed from office; where adverse effects are caused, he shall be expelled."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a public official commits two or more illegal acts, governmental sanctions shall be determined separately for each of them. Where two or more types of governmental sanctions ought to be imposed, the heaviest among them shall be executed; where several identical governmental sanctions below removal from office ought to be imposed, the period of the governmental sanction may be determined to be not less than one period of governmental sanction and not more than the sum of the several periods of governmental sanctions, but shall not exceed 48 months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "For the same illegal act of a public official, the supervisory organ and the authority or unit that appoints and removes the public official shall not impose both a governmental sanction and a sanction repeatedly."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a public official commits an illegal act and the relevant authority gives organisational handling in accordance with the provisions, the supervisory organ may at the same time impose a governmental sanction."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a public official holding a leading post commits an illegal act and is recalled, removed or dismissed from the leading post, or resigns from it, the supervisory organ may at the same time impose a governmental sanction."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Civil servants and persons managed with reference to the Civil Servants Law of the People's Republic of China shall not be promoted in post, rank, title of rank or grade during the period of a governmental sanction; among them, those given a demerit, a major demerit, demotion or removal from office shall not be promoted in salary grade. Those removed from office shall have their post, rank, title of rank and grade lowered in accordance with the provisions, and their salary and benefits shall be lowered at the same time."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Personnel engaged in public affairs in organisations that are authorised by laws and regulations or entrusted in accordance with law by State organs to manage public affairs, and personnel engaged in management in publicly-run education, scientific research, cultural, medical and health, and sports units, shall not be promoted in post, position, staff grade or professional title during the period of a governmental sanction; among them, those given a demerit, a major demerit, demotion or removal from office shall not be promoted in the grade of remuneration and benefits. Those removed from office shall have their post, position or staff grade lowered, and their remuneration and benefits shall be lowered at the same time."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Managerial personnel of State-owned enterprises shall not be promoted in post, position grade or professional title during the period of a governmental sanction; among them, those given a demerit, a major demerit, demotion or removal from office shall not be promoted in the grade of remuneration and benefits. Those removed from office shall have their post or position grade lowered, and their remuneration and benefits shall be lowered at the same time."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where personnel engaged in management in primary-level self-governing organisations of the masses commit illegal acts, the supervisory organ may impose a warning, a demerit or a major demerit.\nWhere personnel engaged in management in primary-level self-governing organisations of the masses are subjected to governmental sanctions, the people's government at the county level or at the township level shall, in light of the specific circumstances, reduce or withhold their subsidies and bonuses."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where persons specified in subparagraph (6) of Article 15 of the Supervision Law of the People's Republic of China commit illegal acts, the supervisory organ may impose a warning, a demerit or a major demerit. Where the circumstances are serious, the unit to which they belong shall directly impose, or the supervisory organ shall suggest that the relevant authority or unit impose, such handling as lowering remuneration and benefits, transferring them from their posts, or terminating the personnel relationship or labour relationship.\nWhere persons specified in subparagraph (2) of Article 15 of the Supervision Law of the People's Republic of China do not hold a post as a civil servant, as a person managed with reference to the Civil Servants Law of the People's Republic of China, as a staff member of a public institution or as a person of a State-owned enterprise, their illegal acts shall be handled in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A public official who has been expelled, or who has been subjected to termination of the personnel relationship or labour relationship in accordance with the provisions of Article 23 of this Law, shall not be recruited as a civil servant or as a person managed with reference to the Civil Servants Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Property acquired unlawfully by a public official and the property of the public official himself used for the illegal act shall, except where they ought to be confiscated, recovered or ordered to be returned and compensated by other organs in accordance with law, be confiscated, recovered or ordered to be returned and compensated by the supervisory organ; where they ought to be returned to the original owner or the original holder, they shall be returned in accordance with law; where they are State property, or ought not to be returned, or cannot be returned, they shall be turned over to the State Treasury.\nWhere a public official has obtained other interests as a result of an illegal act, such as a post, rank, title of rank, grade, position and staff grade, professional title, benefits, qualifications, educational background, academic degree, honour or award, the supervisory organ shall suggest that the relevant authority, unit or organisation correct them in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a public official is expelled, his personnel relationship or labour relationship with the organ or unit to which he belongs shall be terminated from the date on which the decision on the governmental sanction takes effect.\nWhere a public official is given a governmental sanction other than expulsion, shows repentance during the period of the governmental sanction and does not again commit an illegal act for which a governmental sanction ought to be imposed, the governmental sanction shall be automatically discharged upon expiry of the period, and his promotion in post, rank, title of rank, grade, position and staff grade, professional title, remuneration and benefits shall no longer be affected by the original governmental sanction. However, where a demotion or removal from office is discharged, the original post, rank, title of rank, grade, position and staff grade, professional title, remuneration and benefits shall not be restored."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a public official who has already retired committed an illegal act before or after retirement, no governmental sanction shall be imposed on him any longer, but a case may be filed and investigated against him; where a demotion, removal from office or expulsion ought to be imposed in accordance with law, the benefits he enjoys shall be adjusted correspondingly in accordance with the provisions, and the property he acquired unlawfully and the property of his own used for the illegal act shall be handled in accordance with the provisions of Article 25 of this Law.\nWhere a public official who has already left his post or died committed an illegal act during the period of performing his duties, it shall be handled in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Disciplinary Sanctions Against Public Officials"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Any of the following acts shall result in a demerit or a major demerit; where the circumstances are relatively serious, demotion or removal from office; where the circumstances are serious, expulsion:\n(1) spreading remarks that impair the authority of the Constitution, the leadership of the Communist Party of China or the reputation of the State;\n(2) participating in assemblies, processions, demonstrations or other activities aimed at opposing the Constitution, the leadership of the Communist Party of China or the State;\n(3) refusing to implement, or implementing in a disguised form, the line, principles and policies and the major decisions and arrangements of the Communist Party of China and the State;\n(4) participating in illegal organisations or illegal activities;\n(5) sowing discord or undermining ethnic relations, or participating in activities aimed at splitting the nation;\n(6) using religious activities to undermine ethnic unity and social stability;\n(7) impairing the honour and interests of the State in foreign exchanges.\nWhere any of the acts specified in subparagraphs (2), (4), (5) and (6) of the preceding paragraph is committed, the planners, organisers and key members shall be expelled.\nWhoever publicly publishes articles, makes speeches, or issues declarations or statements opposing the guiding ideology of the State established by the Constitution, the leadership of the Communist Party of China, the socialist system, or reform and opening up shall be expelled."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a public official fails to request instructions on or report major matters in accordance with the provisions, and the circumstances are relatively serious, he shall be given a warning, a demerit or a major demerit; where the circumstances are serious, demotion or removal from office.\nWhoever, in violation of the provisions on the reporting of personal matters, conceals and fails to report them, where the circumstances are relatively serious, shall be given a warning, a demerit or a major demerit.\nWhoever tampers with or forges his own archival materials shall be given a demerit or a major demerit; where the circumstances are serious, demotion or removal from office."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Any of the following acts shall result in a warning, a demerit or a major demerit; where the circumstances are serious, demotion or removal from office:\n(1) in violation of the principle of democratic centralism, deciding major matters by an individual or by a minority, or refusing to implement or altering without authorisation a major decision collectively made;\n(2) refusing to implement, implementing in a disguised form, or delaying the implementation of a decision or order lawfully made by a higher authority."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Whoever leaves the country in violation of the provisions or handles a document for travelling abroad for private purposes in violation of the provisions shall be given a demerit or a major demerit; where the circumstances are serious, demotion or removal from office.\nWhoever acquires foreign nationality, or obtains the status of permanent residence abroad or a long-term residence permit abroad, in violation of the provisions, shall be removed from office or expelled."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Any of the following acts shall result in a warning, a demerit or a major demerit; where the circumstances are relatively serious, demotion or removal from office; where the circumstances are serious, expulsion:\n(1) violating the relevant provisions in cadre and personnel work such as selection and appointment, recruitment, employment, assessment, promotion and evaluation;\n(2) resorting to deception to obtain a post, rank, title of rank, grade, position and staff grade, professional title, benefits, qualifications, educational background, academic degree, honour, award or other interests;\n(3) suppressing or retaliating against acts in which rights such as criticism, appeal, accusation and reporting are exercised in accordance with law;\n(4) making false accusations or framing others with the intent to cause adverse effects such as damage to their reputation or the pursuit of their responsibility;\n(5) disrupting elections by such means as violence, threats, bribery or deception."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Any of the following acts shall result in a warning, a demerit or a major demerit; where the circumstances are relatively serious, demotion or removal from office; where the circumstances are serious, expulsion:\n(1) embezzlement or bribery;\n(2) using one's powers or the influence of one's post to seek private gain for oneself or for others;\n(3) conniving at or acquiescing in the seeking of private gain by persons with a specific relationship to oneself by using one's powers or the influence of one's post.\nWhoever refuses to correct, in accordance with the provisions, the holding of posts, concurrent holding of posts or engagement in business operations by persons with a specific relationship to himself in violation of the provisions, and does not accept adjustment of his post, shall be removed from office."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Whoever accepts gifts, gift money, negotiable securities or other property that may affect the impartial exercise of public power shall be given a warning, a demerit or a major demerit; where the circumstances are relatively serious, demotion or removal from office; where the circumstances are serious, expulsion.\nWhoever gives public officials or persons with a specific relationship to them gifts, gift money, negotiable securities or other property that may affect the impartial exercise of public power, or accepts or provides arrangements for banquets, travel, fitness, entertainment or other activities that may affect the impartial exercise of public power, where the circumstances are relatively serious, shall be given a warning, a demerit or a major demerit; where the circumstances are serious, demotion or removal from office."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Any of the following acts, where the circumstances are relatively serious, shall result in a warning, a demerit or a major demerit; where the circumstances are serious, demotion or removal from office:\n(1) setting or paying remuneration, allowances, subsidies or bonuses in violation of the provisions;\n(2) exceeding standards or scope in violation of the provisions in respect of official receptions, official transport, meetings and activities, office premises and other work and living support;\n(3) spending public funds in violation of the provisions."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Whoever engages in or participates in for-profit activities in violation of the provisions, or concurrently holds a post or receives remuneration in violation of the provisions, shall be given a warning, a demerit or a major demerit; where the circumstances are relatively serious, demotion or removal from office; where the circumstances are serious, expulsion."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Whoever uses clans or mafia-like and evil forces to oppress the masses, or connives at or shields the activities of mafia-like and evil forces, shall be removed from office; where the circumstances are serious, expelled."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Any of the following acts, where the circumstances are relatively serious, shall result in a warning, a demerit or a major demerit; where the circumstances are serious, demotion or removal from office:\n(1) collecting property from or apportioning property to the targets of administration and services in violation of the provisions;\n(2) deliberately creating difficulties for, or taking or demanding money or things from, the targets of administration and services in the course of administration and services;\n(3) adopting a bad and rough attitude in the course of administration and services, causing adverse consequences or effects;\n(4) failing to disclose work information in accordance with the provisions, infringing upon the right to know of the targets of administration and services, causing adverse consequences or effects;\n(5) other acts infringing upon the interests of the targets of administration and services, causing adverse consequences or effects.\nWhoever commits any of the acts specified in subparagraphs (1), (2) and (5) of the preceding paragraph, where the circumstances are especially serious, shall be expelled."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Any of the following acts, causing adverse consequences or effects, shall result in a warning, a demerit or a major demerit; where the circumstances are relatively serious, demotion or removal from office; where the circumstances are serious, expulsion:\n(1) abusing power, endangering the interests of the State or the public interest, or infringing upon the lawful rights and interests of citizens, legal persons or other organisations;\n(2) failing to perform or improperly performing duties, neglecting duties, or delaying work;\n(3) engaging in formalism or bureaucratism at work;\n(4) resorting to deception, or misleading or cheating, at work;\n(5) divulging State secrets or work secrets, or divulging commercial secrets or personal privacy learned in the performance of duties."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Any of the following acts shall result in a warning, a demerit or a major demerit; where the circumstances are relatively serious, demotion or removal from office; where the circumstances are serious, expulsion:\n(1) violating public order and good morals and behaving improperly in public places, causing adverse effects;\n(2) participating in or supporting superstitious activities, causing adverse effects;\n(3) participating in gambling;\n(4) refusing to assume the obligation of supporting one's parents, of raising one's children or of supporting one's spouse;\n(5) committing domestic violence, or maltreating or abandoning family members;\n(6) other acts seriously violating family virtues or social morality.\nWhoever ingests or injects drugs, organises gambling, or organises, supports or participates in prostitution, whoring or pornographic and promiscuous activities shall be removed from office or expelled."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a public official commits other illegal acts that affect the image of public officials and impair the interests of the State and the people, corresponding governmental sanctions may be imposed according to the seriousness of the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Disciplinary Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The investigation by a supervisory organ of a public official suspected of violating the law shall be conducted by two or more staff members. When conducting an investigation, the supervisory organ shall have the power to learn about the situation from, and to collect and obtain evidence from, the relevant units and individuals in accordance with law. The relevant units and individuals shall truthfully provide information.\nIt is strictly prohibited to collect evidence by threats, inducement, deception or other illegal means. Evidence collected by illegal means shall not be used as the basis for imposing a governmental sanction."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Before making a decision on a governmental sanction, the supervisory organ shall inform the person under investigation of the facts of the violation established by the investigation and of the basis on which the governmental sanction is proposed to be imposed, hear the statements and defence of the person under investigation, verify the facts, reasons and evidence stated by him, and keep them on record. Where the facts, reasons and evidence put forward by the person under investigation are well founded, they shall be adopted. A governmental sanction shall not be aggravated because of the defence of the person under investigation."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Upon conclusion of the investigation, the supervisory organ shall deal with the case separately in light of the following different circumstances:\n(1) where there is indeed an illegal act for which a governmental sanction ought to be imposed, make a decision on the governmental sanction according to the seriousness of the circumstances and in accordance with the authority to decide on governmental sanctions, after completing the prescribed examination and approval formalities;\n(2) where the facts of the violation cannot be established, close the case;\n(3) where the conditions for exemption from or non-imposition of a governmental sanction are met, make a decision to exempt from or not to impose a governmental sanction;\n(4) where the person under investigation is suspected of other illegal acts or crimes, transfer the case to the competent authority in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a decision is made to impose a governmental sanction, a written decision on the governmental sanction shall be prepared.\nThe written decision on the governmental sanction shall state the following matters:\n(1) the name, work unit and post of the person sanctioned;\n(2) the facts of the violation and the evidence;\n(3) the type of and the basis for the governmental sanction;\n(4) the channels and time limit for applying for review and verification if the person is dissatisfied with the decision on the governmental sanction;\n(5) the name of the organ making the decision on the governmental sanction and the date.\nThe written decision on the governmental sanction shall bear the seal of the supervisory organ that made the decision."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The written decision on the governmental sanction shall be served promptly on the person sanctioned and on the organ or unit in which the person sanctioned works, and shall be announced within a certain scope.\nAfter making the decision on the governmental sanction, the supervisory organ shall, in light of the specific status of the person sanctioned, notify the relevant authority or unit in writing."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where any of the following circumstances applies to a person participating in the investigation or handling of a case of a public official's violation of law, he shall recuse himself, and the person under investigation, the reporter and other persons concerned shall also have the right to request his recusal:\n(1) he is a close relative of the person under investigation or of the reporter;\n(2) he has served as a witness in the case;\n(3) he or his close relatives have an interest in the case under investigation;\n(4) other circumstances that may affect the impartial investigation and handling of the case."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The recusal of the person in charge of a supervisory organ shall be decided by the supervisory organ at the higher level; the recusal of other persons participating in the investigation or handling of a case of violation of law shall be decided by the person in charge of the supervisory organ.\nWhere a supervisory organ or a supervisory organ at a higher level finds that a person participating in the investigation or handling of a case of violation of law is in a circumstance requiring recusal, it may directly decide that the person recuse himself."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a public official is pursued for criminal responsibility in accordance with law, the supervisory organ shall impose a governmental sanction in accordance with the provisions of this Law on the basis of the effective judgment, ruling or decision of the judicial organ and the facts and circumstances established therein.\nWhere a public official is given an administrative penalty in accordance with law and a governmental sanction ought to be imposed, the supervisory organ may, on the basis of the facts and circumstances established in the decision on the administrative penalty and after filing a case, investigating and verifying them, impose a governmental sanction in accordance with this Law.\nWhere, after a supervisory organ has made a governmental sanction in accordance with the provisions of the first and second paragraphs of this Article, the judicial organ or administrative organ changes the original effective judgment, ruling, decision or the like in accordance with law and this affects the original decision on the governmental sanction, the supervisory organ shall make corresponding new handling on the basis of the changed judgment, ruling, decision or the like."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a supervisory organ imposes removal from office or expulsion on a public official who was elected, or appointed by decision, by a people's congress at any level or by the standing committee of a people's congress at or above the county level, it shall first recall, remove or dismiss him from his post in accordance with law, and then make a decision on the governmental sanction in accordance with law.\nWhere a supervisory organ imposes removal from office or expulsion on a public official who was elected, or appointed by decision, by the plenary session of a committee at any level of the Chinese People's Political Consultative Conference or by its standing committee, it shall first remove him from his post in accordance with the charter, and then make a decision on the governmental sanction in accordance with law.\nWhere a supervisory organ imposes a governmental sanction on a deputy to a people's congress at any level or on a member of a committee at any level of the Chinese People's Political Consultative Conference, it shall notify the standing committee of the people's congress concerned, the presidium of the people's congress of a township, ethnic township or town, or the standing committee of the committee of the Chinese People's Political Consultative Conference."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "For a case investigated by a supervisory organ at a lower level on the basis of a decision on designated jurisdiction made by a supervisory organ at a higher level, after the investigation is concluded, the supervisory objects that do not fall within the jurisdiction of that supervisory organ shall be handed over to the supervisory organ with administrative authority to make a decision on the governmental sanction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a public official is suspected of violating the law and a case has been filed and is under investigation, and it is inappropriate for him to continue to perform his duties, the authority or unit that appoints and removes the public official may decide to suspend him from performing his duties.\nDuring the period in which a public official is under investigation after a case has been filed, he shall not leave the country or resign from public office without the consent of the supervisory organ; the organ or unit in which the public official under investigation works and the organ or unit at the higher level shall not transfer him, promote him, reward him, sanction him or complete retirement formalities for him."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where, in the course of an investigation, a supervisory organ finds that a public official has been falsely reported, falsely accused or framed, causing adverse effects, it shall, in accordance with the provisions, promptly clarify the facts, restore his reputation and eliminate the adverse effects."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a public official is given a governmental sanction, the written decision on the governmental sanction shall be placed in his personal file. For a governmental sanction of demotion or a heavier one, the personnel department shall, in accordance with its administrative authority, complete the formalities for modifying the post, salary and other relevant benefits within one month after the decision on the governmental sanction is made; under special circumstances, the time limit for completion may, upon approval, be appropriately extended, but shall not exceed six months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Disciplinary Sanctions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a public official is dissatisfied with a decision on a governmental sanction made by a supervisory organ that concerns him, he may apply to the supervisory organ that made the decision for review in accordance with law; where the public official is still dissatisfied with the review decision, he may apply to the supervisory organ at the next higher level for verification.\nWhere a supervisory organ finds that a decision on a governmental sanction made by itself or by a supervisory organ at a lower level is indeed erroneous, it shall promptly correct it or order the supervisory organ at the lower level to correct it promptly."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Re-examination"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "During the period of review or verification, the execution of the original decision on the governmental sanction shall not be suspended.\nA public official shall not have the governmental sanction aggravated because he applies for review or verification."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Re-examination"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Under any of the following circumstances, the organ for review or verification shall revoke the original decision on the governmental sanction and make a new decision, or order the supervisory organ that made the original decision to make a new decision:\n(1) the facts of the violation on which the governmental sanction is based are unclear or the evidence is insufficient;\n(2) statutory procedures are violated, affecting the impartial handling of the case;\n(3) the decision on the governmental sanction is made by exceeding or abusing authority."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Re-examination"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Under any of the following circumstances, the organ for review or verification shall modify the original decision on the governmental sanction, or order the supervisory organ that made the original decision to modify it:\n(1) the application of laws or regulations is indeed erroneous;\n(2) the determination of the circumstances of the violation is indeed erroneous;\n(3) the governmental sanction is inappropriate."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Re-examination"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the organ for review or verification considers that the facts established in the decision on the governmental sanction are clear and the application of law is correct, it shall uphold the decision."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Re-examination"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a decision on a governmental sanction of a public official is modified and the post, rank, title of rank, grade, position and staff grade, or remuneration and benefits, of the public official need to be adjusted, they shall be adjusted in accordance with the provisions. Where the decision on the governmental sanction is revoked, the grade and remuneration and benefits of the public official shall be restored, corresponding posts, ranks, titles of rank, positions and staff grades shall be arranged according to his original post, rank, title of rank, position and staff grade, and his reputation shall be restored within the scope in which the original decision on the governmental sanction was announced. Where property has been wrongly confiscated or recovered, it shall be returned or compensated in accordance with law.\nWhere a public official's governmental sanction is revoked or mitigated on the ground of the circumstances specified in Article 57 or Article 58 of this Law, he shall be compensated for the loss suffered in his remuneration and benefits."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Re-examination"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where the relevant authority or unit refuses to adopt a supervisory suggestion without justified reasons, the authority at the higher level or the competent department shall order it to rectify, circulate a criticism of the authority or unit, and deal with the leading personnel responsible and the directly responsible persons in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where any of the following circumstances applies to the relevant authority, unit, organisation or person, the authority at the higher level, the competent department, the authority or unit that appoints and removes the person, or the supervisory organ shall order rectification and deal with the matter in accordance with law:\n(1) refusing to execute a decision on a governmental sanction;\n(2) refusing to cooperate with or obstructing an investigation;\n(3) retaliating against a reporter, a witness or an investigator;\n(4) falsely accusing or framing a public official;\n(5) other circumstances violating the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where any of the following circumstances applies to a supervisory organ or to its staff members, the leading personnel responsible and the directly responsible persons shall be dealt with in accordance with law:\n(1) disposing of clues to problems in violation of the provisions;\n(2) stealing or divulging information about investigation work, or divulging matters reported, the handling of reports or information about reporters;\n(3) extorting confessions or inducing confessions from the person under investigation or from persons involved in the case, or insulting, beating, scolding, maltreating, corporally punishing or corporally punishing in a disguised form;\n(4) accepting property or other benefits from the person under investigation or from persons involved in the case;\n(5) disposing of property involved in the case in violation of the provisions;\n(6) taking investigation measures in violation of the provisions;\n(7) using one's powers or the influence of one's post to interfere in investigation work or to seek private gain through a case;\n(8) violating the provisions and causing a safety incident in case handling, or, after a safety incident occurs, concealing it and failing to report, reporting untruthfully or handling it improperly;\n(9) violating procedural provisions such as those on recusal, causing adverse effects;\n(10) failing to accept and handle in accordance with law the review or verification applied for by a public official;\n(11) other acts of abusing power, neglecting duty or engaging in malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Whoever violates the provisions of this Law and a crime is constituted shall be investigated for criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The State Council and its relevant competent departments shall, in accordance with the principles and spirit of this Law and in light of the actual circumstances of public institutions, State-owned enterprises and the like, make specific provisions on matters concerning sanctions against public officials of public institutions, State-owned enterprises and the like who violate the law."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The Central Military Commission may formulate relevant specific provisions in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a case already concluded before this Law enters into force needs to be reviewed or verified, the provisions in force at that time shall apply. Where a case has not yet been concluded and the provisions in force at the time when the act was committed did not consider it unlawful, the provisions in force at that time shall apply; where the provisions in force at the time when the act was committed considered it unlawful, it shall be handled in accordance with the provisions in force at that time, but if this Law does not consider it unlawful or provides for lighter handling, this Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "This Law shall enter into force on 1 July 2020."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0120'] = {
+    "lawId": "CN-LAW-0120",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 72 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution to regulate the collection and payment of customs duties, maintain order in import and export, promote foreign trade, advance high-standard opening up, drive high-quality development, safeguard the sovereignty and interests of the State, and protect the lawful rights and interests of taxpayers."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Customs duties on goods permitted to be imported into or exported from the People's Republic of China and on goods entering the territory shall be collected by customs in accordance with this Law and the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The consignee of imported goods, the consignor of exported goods, and the person carrying or the recipient of goods entering the territory shall be the taxpayers of customs duties.\nThe operators of e-commerce platforms, logistics enterprises and customs declaration enterprises engaged in the retail import of cross-border e-commerce, and the units and individuals that are obliged under laws and administrative regulations to withhold and remit, or collect and remit, customs duties on behalf of others, shall be the withholding agents of customs duties."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The tariff headings, tariff rates and the rules for the application of tariff headings and rates for imported and exported goods shall be governed by the Customs Import and Export Tariff of the People's Republic of China (hereinafter referred to as the Tariff) appended to this Law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Customs duties on goods entering the territory for the reasonable personal use of individuals shall be collected in accordance with simplified collection measures. Customs duties on goods entering the territory in quantities exceeding the reasonable personal use of individuals shall be collected as on imported goods.\nGoods entering the territory for the reasonable personal use of individuals shall be exempted from customs duties within the prescribed amount.\nThe simplified collection measures for customs duties on goods entering the territory and the amount exempted from customs duties shall be prescribed by the State Council and reported to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Work relating to customs duties shall uphold the leadership of the Communist Party of China, implement the line, principles and policies and the decisions and arrangements of the Party and the State, and serve national economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State Council shall establish a Customs Tariff Commission, which shall perform the following duties:\n(1) deliberating major plans for work relating to customs duties, formulating plans for the reform and development of customs duties, and organising their implementation;\n(2) deliberating major customs duty policies and plans for foreign customs duty negotiations;\n(3) putting forward suggestions for the adjustment of the Tariff;\n(4) periodically compiling and issuing the Tariff;\n(5) interpreting the tariff headings and tariff rates of the Tariff;\n(6) deciding to collect anti-dumping duties, countervailing duties and safeguard measure duties, and implementing other customs duty measures decided by the State Council;\n(7) other duties prescribed by laws, administrative regulations and the State Council.\nThe composition and rules of procedure of the Customs Tariff Commission of the State Council shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Customs and its staff members shall keep confidential in accordance with law the commercial secrets, personal privacy and personal information of taxpayers and withholding agents that they learn in the performance of their duties, and shall not divulge them or unlawfully provide them to others."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Tariff headings shall consist of tariff code numbers and schedule provisions.\nThe rules for the application of tariff headings include the rules of classification and the like. The classification of commodities of imported and exported goods shall be determined in accordance with the schedule provisions, the General Rules for the Interpretation of the Tariff, the section notes, chapter notes, subheading notes and national subheading notes, and other classification notes prescribed in the Tariff, and the goods shall be classified under the corresponding tariff code numbers.\nIn light of actual needs, the Customs Tariff Commission of the State Council may put forward suggestions for adjusting tariff headings and the rules for their application, and issue and implement them after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Import customs duties shall be provided with the most-favoured-nation rate, the conventional rate, the preferential rate and the general rate.\nExport customs duties shall be provided with an export rate.\nFor imported and exported goods under tariff quota administration, a tariff quota rate shall be provided.\nAn interim rate may be applied to imported and exported goods within a certain period."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The application of tariff rates shall conform to the corresponding rules of origin.\nGoods wholly obtained in a country or region shall have that country or region as their place of origin; goods whose production involves two or more countries or regions shall have the country or region in which the last substantial transformation is completed as their place of origin. Where the State Council provides otherwise on the determination of origin in accordance with the international treaties or agreements concluded or acceded to by the People's Republic of China, those provisions shall prevail.\nThe specific determination of the origin of imported goods shall be carried out in accordance with this Law and the provisions of the State Council and its relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The most-favoured-nation rate shall apply to imported goods originating in members of the World Trade Organisation to which the most-favoured-nation treatment clause applies in common, to imported goods originating in countries or regions with which the People's Republic of China has concluded or acceded to international treaties or agreements containing clauses on mutual granting of most-favoured-nation treatment, and to imported goods originating within the territory of the People's Republic of China.\nThe conventional rate shall apply to imported goods originating in countries or regions with which the People's Republic of China has concluded or acceded to international treaties or agreements containing clauses on tariff preferences and which comply with the relevant provisions of those international treaties or agreements.\nThe preferential rate shall apply to imported goods originating in countries or regions to which the People's Republic of China grants special tariff preferential arrangements and which comply with the State's provisions on origin administration.\nThe general rate shall apply to imported goods originating in countries or regions other than those specified in the first to third paragraphs of this Article, and to imported goods of unknown origin."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where an interim rate is provided for imported goods to which the most-favoured-nation rate applies, the interim rate shall apply.\nWhere an interim rate is provided for imported goods to which the conventional rate applies, the lower rate shall apply; where their most-favoured-nation rate is lower than the conventional rate and no interim rate is provided, the most-favoured-nation rate shall apply.\nWhere an interim rate is provided for imported goods to which the preferential rate applies, the lower rate shall apply.\nThe interim rate shall not apply to imported goods to which the general rate applies.\nWhere an interim rate is provided for exported goods to which the export rate applies, the interim rate shall apply."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "For imported and exported goods under tariff quota administration, the tariff quota rate shall apply to goods within the tariff quota, and where an interim rate is provided, the interim rate shall apply; for goods outside the tariff quota, the application of rates shall be governed by the provisions of Article 12 and Article 13 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The adjustment of tariff rates shall be carried out in accordance with the following provisions:\n(1) where it is necessary to adjust the most-favoured-nation rate, the tariff quota rate or the export rate as committed by the People's Republic of China in the Protocol on the Accession of the People's Republic of China to the World Trade Organisation, the Customs Tariff Commission of the State Council shall put forward suggestions and, after examination by the State Council, submit them to the Standing Committee of the National People's Congress for decision;\n(2) where, in light of actual circumstances, the most-favoured-nation rate, the tariff quota rate or the export rate is adjusted within the scope committed by the People's Republic of China in the Protocol on the Accession of the People's Republic of China to the World Trade Organisation, or the countries or regions to which the preferential rate applies, the scope of goods and the rates are adjusted, or the general rate is adjusted, the State Council shall decide and report the matter to the Standing Committee of the National People's Congress for the record;\n(3) the application of the most-favoured-nation rate under special circumstances shall be decided by the State Council and reported to the Standing Committee of the National People's Congress for the record.\nThe conventional rate shall, after the completion of the procedures for the ratification or approval of the relevant international treaties or agreements, be organised and implemented by the Customs Tariff Commission of the State Council.\nThe scope of goods, the rates and the time limit for the application of the interim rate shall be decided by the Customs Tariff Commission of the State Council.\nTechnical conversion of rates related to the adjustment of tariff headings shall be suggested by the Customs Tariff Commission of the State Council and implemented after approval by the State Council.\nWhere tariff rates are adjusted in accordance with the preceding four paragraphs, they shall be issued by the Customs Tariff Commission of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where anti-dumping duties, countervailing duties or safeguard measure duties are collected on imported goods in accordance with law, the application of their rates shall be governed by the provisions of the laws and administrative regulations on anti-dumping, countervailing and safeguard measures."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where any country or region fails to perform the most-favoured-nation treatment clause or the tariff preference clause in an international treaty or agreement concluded or acceded to by the People's Republic of China, the Customs Tariff Commission of the State Council may put forward suggestions for taking corresponding measures on the principle of reciprocity, and implement them after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where any country or region, in violation of an international treaty or agreement concluded or acceded to by the People's Republic of China, takes measures against the People's Republic of China in trade such as prohibition, restriction, additional tariffs or other measures affecting normal trade, measures such as collecting retaliatory customs duties may be taken against imported goods originating in that country or region.\nThe scope of goods subject to retaliatory customs duties, the applicable countries or regions, the rates, the time limit and the collection measures shall be suggested by the Customs Tariff Commission of the State Council and implemented after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "For imported goods covered by the measures specified in Article 16, Article 17 and Article 18 of this Law, where the taxpayer has not provided supporting materials, or has provided supporting materials but customs is still unable to exclude, upon examination, that the goods originate in the country or region against which the prescribed measures are taken, the higher of the following two rates shall apply to the goods:\n(1) the rate obtained by adding the highest rate imposed on the goods concerned as a result of the prescribed measures to the rate applicable in accordance with Article 12, Article 13 and Article 14 of this Law;\n(2) the general rate."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The rates in force on the date on which the taxpayer or withholding agent completes the declaration shall apply to imported and exported goods and to goods entering the territory.\nWhere, before the arrival of imported goods, a prior declaration is approved by customs, the rates in force on the date of declaration of entry of the means of transport carrying the goods shall apply."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Under any of the following circumstances, the rates in force on the date on which the taxpayer or withholding agent completes the duty payment formalities shall apply:\n(1) bonded goods that are not shipped back out of the territory but are instead sold on the domestic market;\n(2) duty-reduced or duty-exempt goods that are approved for transfer, for use for other purposes or for other disposal;\n(3) goods temporarily entering the territory that are not shipped back out of the territory, or goods temporarily leaving the territory that are not shipped back into the territory;\n(4) imported goods under lease for which the lease is retained by purchase or for which duties are paid in instalments."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where customs duties are recovered or refunded, the applicable rates shall be determined in accordance with Article 20 or Article 21 of this Law.\nWhere customs duties need to be recovered because a taxpayer or withholding agent has violated the provisions, the rates in force on the date on which the act in violation of the provisions occurred shall apply; where the date of the act cannot be determined, the rates in force on the date on which customs discovers the act shall apply."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Tariff Lines and Rates"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Customs duties shall be collected on an ad valorem basis, a specific basis or a compound basis.\nWhere collection is on an ad valorem basis, the amount of duty payable shall be calculated by multiplying the dutiable value by the proportional rate.\nWhere collection is on a specific basis, the amount of duty payable shall be calculated by multiplying the quantity of goods by the specific rate.\nWhere collection is on a compound basis, the amount of duty payable shall be calculated as the sum of the dutiable value multiplied by the proportional rate and the quantity of goods multiplied by the specific rate."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The dutiable value of imported goods shall be determined on the basis of the transaction price, plus the transport and related expenses and the insurance premium incurred before the unloading of the goods at the place of entry within the territory of the People's Republic of China.\nThe transaction price of imported goods means the total price actually paid or payable to the seller by the buyer for the import of the goods when the seller sells the goods for export to within the territory of the People's Republic of China, as adjusted in accordance with Article 25 and Article 26 of this Law, including the price paid directly and the price paid indirectly.\nThe transaction price of imported goods shall meet the following conditions:\n(1) there are no restrictions on the buyer's disposal or use of the goods, except restrictions prescribed by laws or administrative regulations, restrictions on the region to which the goods may be resold, and restrictions that have no substantial effect on the price of the goods;\n(2) the transaction price of the goods is not indeterminable because of tie-in sales or the influence of other factors;\n(3) the seller shall not obtain, directly or indirectly from the buyer, any proceeds from the resale, disposal or use of the goods after their import, or, if there are such proceeds, they can be adjusted in accordance with Article 25 and Article 26 of this Law;\n(4) there is no special relationship between the buyer and the seller, or, if there is such a special relationship, it has not affected the transaction price."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The following expenses for imported goods shall be included in the dutiable value:\n(1) commissions and brokerage fees other than buying commissions borne by the buyer;\n(2) the cost of containers treated as forming a whole with the goods, borne by the buyer;\n(3) the cost of packing materials and the cost of packing labour, borne by the buyer;\n(4) the value of materials, tools, moulds, consumable materials and similar goods related to the production of the goods and their sale to within the territory of the People's Republic of China that are supplied by the buyer free of charge or at less than cost and that can be apportioned on an appropriate basis, as well as the cost of development, design and related services outside the territory of the People's Republic of China;\n(5) royalties related to the goods that the buyer must pay as a condition of the sale of the goods to within the territory of the People's Republic of China;\n(6) proceeds from the resale, disposal or use of the goods after their import that the seller obtains directly or indirectly from the buyer."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The following expenses and taxes itemised in the price of goods at the time of import shall not be included in the dutiable value of the goods:\n(1) the cost of construction, installation, assembly, maintenance and technical services carried out after the import of goods such as plants, machinery and equipment, except warranty costs;\n(2) the transport and related expenses and the insurance premium incurred after the unloading of the imported goods at the place of entry within the territory of the People's Republic of China;\n(3) import customs duties and domestic taxes."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the transaction price of imported goods does not meet the conditions specified in the third paragraph of Article 24 of this Law, or where the transaction price cannot be determined, customs shall, after learning about the relevant circumstances and conducting price consultations with the taxpayer, determine the dutiable value of the goods by applying the following prices in sequence:\n(1) the transaction price of identical goods sold to within the territory of the People's Republic of China at the same time as, or at approximately the same time as, the goods;\n(2) the transaction price of similar goods sold to within the territory of the People's Republic of China at the same time as, or at approximately the same time as, the goods;\n(3) the unit price at which the imported goods, identical imported goods or similar imported goods are sold in the greatest aggregate quantity to buyers with no special relationship at the first level of sale within the territory of the People's Republic of China at the same time as, or at approximately the same time as, the import of the goods, with the items specified in Article 28 of this Law deducted;\n(4) the price calculated as the sum of the following: the cost of the materials used in producing the goods and the processing costs, the usual profit and general expenses on the sale of goods of the same class or kind to within the territory of the People's Republic of China, and the transport and related expenses and the insurance premium incurred before the unloading of the goods at the place of entry within the territory of the People's Republic of China;\n(5) the price determined by reasonable means.\nThe taxpayer may provide relevant materials to customs and apply for a change in the order of application of subparagraphs (3) and (4) of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the dutiable value is determined in accordance with subparagraph (3) of the first paragraph of Article 27 of this Law, the following items shall be deducted:\n(1) the usual profit and general expenses and the commissions usually paid on the sale of goods of the same class or kind at the first level of sale within the territory of the People's Republic of China;\n(2) the transport and related expenses and the insurance premium incurred after the unloading of the imported goods at the place of entry within the territory of the People's Republic of China;\n(3) import customs duties and domestic taxes."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The dutiable value of exported goods shall be determined on the basis of the transaction price of the goods, plus the transport and related expenses and the insurance premium incurred before the loading of the goods at the place of output within the territory of the People's Republic of China.\nThe transaction price of exported goods means the total price that the seller should collect directly and indirectly from the buyer for the export of the goods at the time of export.\nExport customs duties shall not be included in the dutiable value."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the transaction price of exported goods cannot be determined, customs shall, after learning about the relevant circumstances and conducting price consultations with the taxpayer, determine the dutiable value of the goods by applying the following prices in sequence:\n(1) the transaction price of identical goods exported to the same country or region at the same time as, or at approximately the same time as, the goods;\n(2) the transaction price of similar goods exported to the same country or region at the same time as, or at approximately the same time as, the goods;\n(3) the price calculated as the sum of the following: the cost of materials and processing costs of producing identical or similar goods within the territory of the People's Republic of China, the usual profit and general expenses, and the transport and related expenses and the insurance premium incurred within the territory;\n(4) the price determined by reasonable means."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Customs may, upon application or ex officio, determine in accordance with law the dutiable value, commodity classification and origin of imported and exported goods and of goods entering the territory.\nWhere necessary, customs may organise laboratory testing and inspection, and shall take the testing and inspection results recognised by customs as the basis for determining the dutiable value, commodity classification and origin."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The following imported and exported goods and goods entering the territory shall be exempted from customs duties:\n(1) a single consignment of goods within the duty-exempt amount prescribed by the State Council;\n(2) advertising materials and samples of goods of no commercial value;\n(3) fuel, materials and food supplies necessary during the journey carried on means of transport entering or leaving the territory;\n(4) goods and goods entering the territory that are damaged or lost before customs release;\n(5) materials donated free of charge by foreign governments or international organisations;\n(6) goods and goods entering the territory that are exempted from customs duties as provided in international treaties or agreements concluded or acceded to by the People's Republic of China;\n(7) other goods and goods entering the territory that are exempted from customs duties in accordance with the provisions of relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The following imported and exported goods and goods entering the territory shall be granted a reduction of customs duties:\n(1) goods and goods entering the territory that are damaged before customs release;\n(2) goods and goods entering the territory for which a reduction of customs duties is provided in international treaties or agreements concluded or acceded to by the People's Republic of China;\n(3) other goods and goods entering the territory for which a reduction of customs duties is provided in accordance with the provisions of relevant laws.\nThe reduction of customs duties under subparagraph (1) of the preceding paragraph shall be handled according to the degree of damage recognised by customs."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "In order to safeguard the interests of the State, promote foreign exchanges, economic and social development or scientific and technological innovation, or because of emergencies or other reasons, the State Council may formulate special preferential policies on customs duties and report them to the Standing Committee of the National People's Congress for the record."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Formalities for duty-reduced or duty-exempt goods shall be completed in accordance with law. Duty-reduced or duty-exempt goods that need to be used under customs supervision shall be subject to customs supervision; where, within the supervision period, they are transferred, used for other purposes or otherwise disposed of and duties need to be paid in accordance with the relevant provisions of the State, the customs duties shall be paid retroactively.\nThe provisions of the preceding paragraph shall be applied, mutatis mutandis, to duty-reduced or duty-exempt goods entering the territory that need to be used under customs supervision."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Bonded goods that are shipped back out of the territory shall be exempted from customs duties; those that are not shipped back out of the territory but are sold on the domestic market shall be subject to customs duties in accordance with the provisions. Where bonded imported materials for processing trade or their finished products are sold on the domestic market, in addition to customs duties collected in accordance with the provisions, deferred duty interest shall also be collected."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The following goods and articles temporarily entering or temporarily leaving the territory may, in accordance with law, have their customs duties temporarily not paid, but the goods and articles shall be shipped back out of or back into the territory within six months from the date of entry or exit; where an extension of the time limit for shipping them back out of or back into the territory is required, formalities for extension shall be completed with customs in accordance with the provisions of the General Administration of Customs:\n(1) goods and articles displayed or used at exhibitions, trade fairs, conferences and similar activities;\n(2) performance and competition articles used in cultural and sports exchange activities;\n(3) instruments, equipment and articles used for news reporting or for filming films and television programmes;\n(4) instruments, equipment and articles used in scientific research, teaching and medical and health activities;\n(5) means of transport and special vehicles used in the activities listed in subparagraphs (1) to (4) of this paragraph;\n(6) samples of goods;\n(7) instruments and tools used for the installation, commissioning and testing of equipment;\n(8) packing materials for containing goods;\n(9) other goods and articles used for non-commercial purposes.\nWhere the goods and articles listed in the preceding paragraph are not shipped back out of or back into the territory within the prescribed time limit, customs duties shall be paid in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "For other goods and articles temporarily entering the territory than those specified in Article 37 of this Law, import customs duties shall be calculated and paid on the basis of the dutiable value of the goods and articles and the ratio of the time they remain within the territory to the depreciation period; where such goods and articles are not shipped back out of the territory upon expiry of the prescribed time limit, the customs duties payable in accordance with law shall be made up.\nWhere other goods temporarily leaving the territory than those specified in Article 37 of this Law are not shipped back into the territory upon expiry of the prescribed time limit, customs duties shall be paid in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where, for reasons of quality or specifications or because of force majeure, exported goods are shipped back into the territory in their original state within one year from the date of export, import customs duties shall not be collected. Where, for reasons of quality or specifications or because of force majeure, imported goods are shipped back out of the territory in their original state within one year from the date of import, export customs duties shall not be collected.\nUnder special circumstances, the time limit specified in the preceding paragraph may, upon approval by customs, be appropriately extended; the specific measures shall be prescribed by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where, for reasons of damage, shortage, poor quality or non-conformity with specifications, the consignor, carrier or insurance company of imported or exported goods compensates free of charge or replaces them with identical goods, customs duties shall not be collected at the time of import or export. Where the original imported goods that have been replaced free of charge are not shipped back out of the territory, or the original exported goods are not shipped back into the territory, customs shall collect customs duties on the original imported or exported goods anew in accordance with the provisions.\nThe taxpayer shall, within the time limit for claiming compensation agreed in the original import or export contract and not later than three years from the date of release of the original import or export, declare to customs and complete the import or export formalities for the goods compensated free of charge or replaced."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Preferences and Collection of Customs Duties in Special Circumstances"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "In the administration of customs duty collection, a model may be adopted in which the release of goods is separated from the determination of the amount of duty.\nThe administration of customs duty collection shall meet the needs of the development of new forms and new models of foreign trade, and shall raise the level of informatisation, intelligentisation, standardisation and facilitation."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Taxpayers and withholding agents of imported and exported goods may, in accordance with the provisions, choose the customs office at which to declare and pay duties.\nTaxpayers and withholding agents shall truthfully declare the amount of duty to customs within the prescribed time limit and as required, and shall provide the relevant materials. Where necessary, customs may require taxpayers or withholding agents to make a supplementary declaration."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Taxpayers and withholding agents of imported and exported goods shall pay the duties within 15 days from the date of completing the declaration; those that meet the conditions prescribed by customs and provide a guarantee may pay the duties in a consolidated manner before the end of the fifth working day of the following month. Where payment cannot be made on time because of force majeure or adjustment of the State's tax policies, payment may, upon application to customs and provision of a guarantee, be deferred, but shall not exceed six months at the longest.\nWhere a taxpayer or withholding agent fails to pay the duties within the duty payment period specified in the preceding paragraph, a late payment surcharge of 0.05 per cent of the overdue duty shall be collected on a daily basis from the date of expiry of the prescribed time limit.\nWhere the duties have not yet been paid and the taxpayer or withholding agent applies, in accordance with the provisions of the relevant laws and administrative regulations, to provide a guarantee for the release of the goods, customs shall complete the guarantee formalities in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, within the prescribed duty payment period, a taxpayer of imported or exported goods shows obvious signs of transferring or concealing its dutiable goods or other property, or where other risks exist that may render it unable to pay the duties, customs may order it to provide a guarantee; where the taxpayer does not provide a guarantee, customs may, upon approval by the head of the customs office directly under the General Administration or by the head of a subordinate customs office authorised by him, implement the following compulsory measures:\n(1) notifying a banking financial institution in writing to freeze the taxpayer's deposits or remittances in an amount equivalent to the duties payable;\n(2) sealing up or distraining the taxpayer's goods or other property of a value equivalent to the duties payable.\nWhere the taxpayer pays the duties within the prescribed duty payment period, customs shall immediately lift the compulsory measures."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Within three years from the date on which the taxpayer or withholding agent pays the duties or the goods are released, customs shall have the power to verify the amount of duty payable by the taxpayer or withholding agent.\nWhere the amount of duty payable verified by customs is inconsistent with the amount declared by the taxpayer or withholding agent, customs shall issue a written confirmation of the amount of duty to the taxpayer or withholding agent. The taxpayer or withholding agent shall, in accordance with the amount of duty payable stated in the written confirmation, pay the outstanding duties or complete the duty refund formalities within the time limit prescribed by customs.\nWhere duties need to be paid retroactively after customs has verified the amount of duty payable but they are not paid retroactively within the prescribed time limit, a late payment surcharge of 0.05 per cent of the overdue duty shall be collected on a daily basis from the date of expiry of the prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where duties are under-collected or not collected as a result of a violation of the provisions by a taxpayer or withholding agent, customs may recover the duties within three years from the date on which the duties are paid or the goods are released, and shall collect a late payment surcharge of 0.05 per cent of the under-collected or uncollected duty on a daily basis from the date on which the duties are paid or the goods are released."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where customs recovers duties and late payment surcharges in respect of smuggling, it shall not be subject to the time limit specified in the preceding Article, and shall have the power to verify the amount of duty payable."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where customs discovers that customs-supervised goods have had duties under-collected or not collected as a result of a violation of the provisions by a taxpayer or withholding agent, it shall recover the duties within three years from the date on which the duties ought to have been paid by the taxpayer or withholding agent, and shall collect a late payment surcharge of 0.05 per cent of the under-collected or uncollected duty on a daily basis from the date on which the duties ought to have been paid."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Customs may make public the situation of taxpayers and withholding agents that owe duties.\nWhere a taxpayer has not paid off the duties and late payment surcharges and has not provided a guarantee to customs, customs may, upon approval by the head of the customs office directly under the General Administration or by the head of a subordinate customs office authorised by him, notify the immigration administration in accordance with the provisions to take measures to restrict the taxpayer or its legal representative from leaving the country in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a taxpayer or withholding agent fails to pay or remit duties within the prescribed time limit, customs shall order it to pay within a time limit; where it still fails to pay upon expiry of the time limit without justified reasons, customs may, upon approval by the head of the customs office directly under the General Administration or by the head of a subordinate customs office authorised by him, implement the following compulsory enforcement measures:\n(1) notifying a banking financial institution in writing to transfer from the taxpayer's or withholding agent's deposits or remittances an amount equivalent to the duties payable;\n(2) sealing up or distraining the taxpayer's or withholding agent's goods or other property of a value equivalent to the duties payable, auctioning or selling in accordance with law the sealed-up or distrained goods or other property, applying the proceeds of the auction or sale to offset the duties, and returning the balance to the taxpayer or withholding agent.\nWhen implementing compulsory enforcement, customs shall at the same time enforce the unpaid late payment surcharges."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where customs discovers that duties have been over-collected, it shall promptly notify the taxpayer to complete the refund formalities.\nWhere a taxpayer discovers that it has overpaid duties, it may, within three years from the date of payment, apply in writing to customs for a refund of the overpaid duties. Customs shall, within 30 days from the date of accepting the application, verify the matter and notify the taxpayer to complete the refund formalities, and the taxpayer shall complete the refund formalities within three months from the date of receiving the notice."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Under any of the following circumstances, a taxpayer may, within one year from the date of payment, apply to customs for a refund of customs duties:\n(1) goods on which import customs duties have been collected are, for reasons of quality or specifications or because of force majeure, shipped back out of the territory in their original state within one year;\n(2) goods on which export customs duties have been collected are, for reasons of quality or specifications or because of force majeure, shipped back into the territory in their original state within one year, and the relevant domestic taxes refunded on export have been paid anew;\n(3) goods on which export customs duties have been collected are not loaded for export for some reason and cancellation of export is declared.\nAn application for a refund of customs duties shall be made in writing and shall be accompanied by the original payment voucher and the relevant materials. Customs shall, within 30 days from the date of accepting the application, verify the matter and notify the taxpayer to complete the refund formalities. The taxpayer shall complete the refund formalities within three months from the date of receiving the notice.\nWhere customs duties ought to be refunded in accordance with the provisions of other relevant laws and administrative regulations, customs shall refund them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where customs duties are refunded in accordance with the provisions, interest on current deposits at the same period at the bank shall be added."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In respect of acts that circumvent the relevant provisions of Chapter II and Chapter III of this Law and reduce the amount of duty payable without reasonable commercial purpose, the State may take anti-circumvention measures such as adjusting customs duties."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a customs declaration enterprise accepts the entrustment of a taxpayer and completes the declaration and duty payment formalities in the name of the taxpayer, and duties are under-collected or not collected by customs as a result of a violation of the provisions by the customs declaration enterprise, the customs declaration enterprise shall bear joint and several liability for duty payment with the taxpayer in respect of the under-collected or uncollected duties and the late payment surcharges thereon.\nWhere a customs declaration enterprise accepts the entrustment of a taxpayer and completes the declaration and duty payment formalities in its own name, the customs declaration enterprise and the taxpayer shall bear joint and several liability for duty payment."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Except in cases of force majeure, where customs-supervised goods are damaged or lost during the period of custody, the unit or individual obliged to keep the customs-supervised goods in custody shall bear the corresponding liability for duty payment."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a taxpayer that has not performed its duty payment obligation is merged or divided, it shall, before the merger or division, report to customs and pay off the duties and late payment surcharges in accordance with law or provide a guarantee. Where the taxpayer has not paid off the duties and late payment surcharges or has not provided a guarantee at the time of merger, the legal person or unincorporated organisation after the merger shall continue to perform the unperformed duty payment obligation; where the taxpayer has not paid off the duties and late payment surcharges or has not provided a guarantee at the time of division, the legal persons or unincorporated organisations after the division shall bear joint and several liability for the unperformed duty payment obligation.\nWhere, during the supervision period of duty-reduced or duty-exempt goods or bonded goods, a taxpayer is merged or divided or undergoes other asset restructuring, it shall report to customs; where duties need to be paid in accordance with the provisions, it shall pay off the duties and late payment surcharges in accordance with law or provide a guarantee; where it may continue to enjoy duty reduction or exemption or bonding in accordance with the provisions, it shall complete with customs the formalities for changing the taxpayer.\nWhere a taxpayer has not performed its duty payment obligation, or during the supervision period of duty-reduced or duty-exempt goods or bonded goods is dissolved, becomes bankrupt or terminates its business in accordance with law on other grounds, it shall report to customs before liquidation. Customs shall collect the duties and late payment surcharges in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Customs duties collected by customs shall have priority over unsecured claims, unless otherwise provided by law. Where the duties owed by a taxpayer arise before the taxpayer creates a mortgage or pledge over its property, the duties shall be enforced prior to the mortgage right or pledge right.\nWhere a taxpayer owes duties and is at the same time subject to an administrative fine or confiscation of illegal gains by an administrative organ, and its property is insufficient to pay both, the duties shall be paid first."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Duties and late payment surcharges shall be turned over to the State Treasury in a timely manner in accordance with the relevant provisions of the State.\nWhere the refund of duties and interest involves withdrawal from the State Treasury, it shall be carried out in accordance with the provisions of laws and administrative regulations on the administration of the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Duties, late payment surcharges and interest shall be calculated in renminbi.\nWhere the price of imported and exported goods and of goods entering the territory and the relevant expenses are calculated in a currency other than renminbi, they shall be converted into renminbi at the assessment exchange rate on the date on which the taxpayer completes the declaration.\nThe assessment exchange rate referred to in the preceding paragraph means the central parity rate of the renminbi on the date determined in accordance with the provisions of the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where necessary for the collection of customs duties, customs may, in accordance with law, inquire of the relevant government departments and institutions about information relating to customs duties, such as the identity, accounts and fund flows of taxpayers, and the relevant government departments and institutions shall provide assistance and cooperation within the scope of their duties. The information relating to customs duties obtained by customs may only be used for the purpose of collecting customs duties."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Under any of the following circumstances, customs shall give a warning; where the circumstances are serious, a fine of not more than 30,000 yuan shall be imposed:\n(1) a taxpayer that has not performed its duty payment obligation is merged or divided and fails to report to customs before the merger or division;\n(2) a taxpayer is merged or divided or undergoes other asset restructuring during the supervision period of duty-reduced or duty-exempt goods or bonded goods and fails to report to customs;\n(3) a taxpayer fails to perform its duty payment obligation or is dissolved, becomes bankrupt or terminates its business in accordance with law on other grounds during the supervision period of duty-reduced or duty-exempt goods or bonded goods and fails to report to customs before liquidation."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a taxpayer that owes duties payable obstructs customs from recovering the owed duties in accordance with law by such means as transferring or concealing property, customs shall, in addition to recovering the owed duties and late payment surcharges, impose a fine of not less than 50 per cent and not more than five times the owed duties."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a withholding agent fails to withhold or collect duties that it ought to withhold or collect, customs shall recover the duties from the taxpayer and impose on the withholding agent a fine of not less than 50 per cent and not more than three times the duties that ought to have been withheld or collected."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Acts other than those specified in Article 62, Article 63 and Article 64 of this Law that violate the provisions of this Law shall be punished by customs in accordance with the provisions of the Customs Law of the People's Republic of China and other laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a taxpayer, withholding agent or guarantor objects to customs duty matters such as the determination by customs of the taxpayer, commodity classification, origin of goods, place of duty payment, method of assessment, dutiable value, applicable rate or exchange rate, the decision to reduce or exempt duties, the confirmation of the amount of duty payable, the retroactive payment of duties, the refund of duties and the collection of late payment surcharges, it shall first apply to the customs office at the next higher level for administrative reconsideration in accordance with law; where it is dissatisfied with the decision on administrative reconsideration, it may institute administrative litigation in a people's court in accordance with law.\nWhere a party is dissatisfied with an administrative act made by customs other than those specified in the preceding paragraph, it may apply for administrative reconsideration in accordance with law, or may institute administrative litigation in a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, abuses power, neglects duty, engages in malpractice for personal gain, or divulges or unlawfully provides to others commercial secrets, personal privacy or personal information learned in the performance of duties shall be given sanctions in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, commits a crime shall be investigated for criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where the Hainan Free Trade Port Law of the People's Republic of China provides otherwise on customs duty matters of the Hainan Free Trade Port, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The provisions on the administration of customs duty collection shall apply to the administration of the collection of taxes collected by customs on behalf of others at the import stage.\nWhere the Vessel Tonnage Tax Law of the People's Republic of China does not provide for the collection of vessel tonnage tax, the provisions on the administration of customs duty collection shall apply."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Engaging in the retail business of duty-free commodities shall be subject to approval; the specific measures shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "This Law shall enter into force on 1 December 2024. The Regulations of the People's Republic of China on Import and Export Duties shall be repealed simultaneously.\nAppendix: Customs Import and Export Tariff of the People's Republic of China (Note: The Customs Import and Export Tariff of the People's Republic of China shall be issued by the Customs Tariff Commission of the State Council)"
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0121'] = {
+    "lawId": "CN-LAW-0121",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 74 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted to regulate advertising activities, protect the lawful rights and interests of consumers, promote the sound development of the advertising industry, and maintain social and economic order."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to commercial advertising activities within the territory of the People's Republic of China in which sellers of goods or providers of services, through certain media and in certain forms, directly or indirectly introduce the goods they sell or the services they provide.\nThe advertiser referred to in this Law means a natural person, legal person or other organisation that, in order to sell goods or services, designs, produces or publishes advertisements itself or entrusts others to do so.\nThe advertising operator referred to in this Law means a natural person, legal person or other organisation that, having accepted entrustment, provides advertising design, production or agency services.\nThe advertising publisher referred to in this Law means a natural person, legal person or other organisation that publishes advertisements for an advertiser or for an advertising operator entrusted by an advertiser.\nThe advertising endorser referred to in this Law means a natural person, legal person or other organisation other than the advertiser that recommends or testifies to goods or services in an advertisement in its own name or image."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Advertisements shall be truthful and lawful, shall express the content of the advertisement in healthy forms of expression, and shall meet the requirements of the building of socialist spiritual civilisation and of carrying forward the fine traditional culture of the Chinese nation."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Advertisements shall not contain false or misleading content, and shall not deceive or mislead consumers.\nAdvertisers shall be responsible for the truthfulness of the content of advertisements."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Advertisers, advertising operators and advertising publishers engaged in advertising activities shall comply with laws and regulations, act in good faith and compete fairly."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The market regulation department under the State Council shall be in charge of advertising supervision and administration throughout the country, and the relevant departments under the State Council shall be responsible for the work relating to advertising administration within the scope of their respective duties.\nThe market regulation departments of local people's governments at or above the county level shall be in charge of advertising supervision and administration within their respective administrative regions, and the relevant departments of local people's governments at or above the county level shall be responsible for the work relating to advertising administration within the scope of their respective duties."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Advertising industry organisations shall, in accordance with the provisions of laws, regulations and their articles of association, formulate industry standards, strengthen industry self-discipline, promote the development of the industry, guide their members to engage in advertising activities in accordance with law, and advance the building of integrity in the advertising industry."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where an advertisement contains statements on the performance, function, place of origin, use, quality, ingredients, price, producer, period of validity or undertakings of goods, or on the content, provider, form, quality, price or undertakings of services, such statements shall be accurate, clear and understandable.\nWhere an advertisement indicates that the goods or services being sold come with a gift, the variety, specifications, quantity, time limit and manner of the gift goods or services shall be expressly stated.\nWhere laws or administrative regulations provide that certain content shall be expressly stated in an advertisement, it shall be indicated conspicuously and clearly."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "An advertisement shall not contain any of the following:\n(1) the national flag, national anthem or national emblem of the People's Republic of China, or the military flag, military anthem or military emblem, used, or used in a disguised form;\n(2) the name or image of a State organ or of a staff member of a State organ, used, or used in a disguised form;\n(3) such expressions as \"State-level\", \"highest level\" or \"best\";\n(4) impairing the dignity or interests of the State, or divulging State secrets;\n(5) obstructing social stability, or impairing the public interest;\n(6) endangering the safety of persons or property, or divulging personal privacy;\n(7) obstructing public order, or violating good social customs;\n(8) content that is obscene, pornographic, or related to gambling, superstition, terror or violence;\n(9) content that discriminates on the grounds of ethnicity, race, religion or gender;\n(10) obstructing the protection of the environment, natural resources or cultural heritage;\n(11) other circumstances prohibited by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Advertisements shall not impair the physical and mental health of minors or persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where the matters covered by the content of an advertisement require an administrative licence, they shall conform to the content of the licence.\nWhere an advertisement uses data, statistical materials, survey results, abstracts, quotations or other cited content, such content shall be truthful and accurate, and its source shall be indicated. Where the cited content has a scope of application and a period of validity, these shall be expressly stated."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an advertisement involves a patented product or a patented process, the patent number and the type of patent shall be indicated.\nWhere a patent right has not been obtained, it shall not be falsely claimed in an advertisement that a patent right has been obtained.\nIt is prohibited to use, in advertising, patent applications for which patent rights have not been granted and patents that have been terminated, revoked or invalidated."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Advertisements shall not disparage the goods or services of other producers or operators."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Advertisements shall be identifiable, so that consumers can distinguish them as advertisements.\nMass media shall not publish advertisements in a disguised form in the form of news reports. Advertisements published through mass media shall conspicuously indicate \"Advertisement\" so as to be distinguished from other non-advertising information, and shall not cause consumers to misunderstand.\nWhere radio stations or television stations publish advertisements, they shall comply with the provisions of the relevant departments under the State Council on duration and manner, and shall give a conspicuous indication of the duration of the advertisement."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Narcotic drugs, psychotropic drugs, toxic drugs for medical use, radioactive drugs and other special pharmaceuticals, precursor chemicals for drug production that are pharmaceutical products, and drugs, medical devices and treatment methods for drug addiction rehabilitation shall not be advertised.\nPrescription drugs other than those specified in the preceding paragraph may only be advertised in medical and pharmaceutical professional journals jointly designated by the health administrative department under the State Council and the pharmaceutical products supervision and administration department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Advertisements for medical treatment, pharmaceuticals and medical devices shall not contain any of the following content:\n(1) assertions or guarantees indicating efficacy or safety;\n(2) statements of cure rates or effective rates;\n(3) comparisons with the efficacy and safety of other pharmaceuticals or medical devices, or with other medical institutions;\n(4) recommendations or testimony by advertising endorsers;\n(5) other content prohibited by laws or administrative regulations.\nThe content of a pharmaceutical advertisement shall not be inconsistent with the instructions approved by the pharmaceutical products supervision and administration department under the State Council, and shall conspicuously indicate the contraindications and adverse reactions. A prescription drug advertisement shall conspicuously indicate \"This advertisement is for medical and pharmaceutical professionals only\", and a non-prescription drug advertisement shall conspicuously indicate \"Please purchase and use according to the instructions or under the guidance of a pharmacist\".\nAn advertisement for a medical device recommended for personal use shall conspicuously indicate \"Please read the product instructions carefully or purchase and use under the guidance of medical personnel\". Where the registration certificate document of a medical device contains contraindications or matters requiring attention, the advertisement shall conspicuously indicate \"For contraindications or matters requiring attention, please see the instructions\"."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Apart from advertisements for medical treatment, pharmaceuticals and medical devices, all other advertisements are prohibited from covering functions of disease treatment and from using medical terminology or terminology liable to confuse the goods being sold with pharmaceuticals or medical devices."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Advertisements for health food shall not contain any of the following content:\n(1) assertions or guarantees indicating efficacy or safety;\n(2) content involving the functions of disease prevention or treatment;\n(3) claims or implications that the advertised goods are necessary for safeguarding health;\n(4) comparisons with pharmaceuticals or other health food;\n(5) recommendations or testimony by advertising endorsers;\n(6) other content prohibited by laws or administrative regulations.\nAdvertisements for health food shall conspicuously indicate \"This product cannot replace drugs\"."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Radio stations, television stations, newspaper and audio-visual publishing units and internet information service providers shall not publish advertisements for medical treatment, pharmaceuticals, medical devices or health food in a disguised form in the form of introductions to health or wellness knowledge."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "It is prohibited to publish, in mass media or public places, advertisements for infant dairy products, beverages and other food claiming to replace, wholly or partly, breast milk."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Advertisements for pesticides, veterinary drugs, feed and feed additives shall not contain any of the following content:\n(1) assertions or guarantees indicating efficacy or safety;\n(2) recommendations or testimony in the name or image of scientific research units, academic institutions, technology promotion institutions, industry associations, or professionals or users;\n(3) statements of effective rates;\n(4) wording, language or images that violate safe use procedures;\n(5) other content prohibited by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "It is prohibited to publish tobacco advertisements in mass media, public places, public means of transport or outdoors. It is prohibited to send tobacco advertisements of any form to minors.\nIt is prohibited to use advertisements for other goods or services, or public service advertisements, to promote the name, trademark, packaging, decoration and similar content of tobacco products.\nRelocation, renaming, recruitment and similar notices published by producers or sellers of tobacco products shall not contain the name, trademark, packaging, decoration or similar content of tobacco products."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Advertisements for alcoholic beverages shall not contain any of the following content:\n(1) inducing or inciting drinking, or promoting unrestrained drinking;\n(2) showing the act of drinking;\n(3) depicting activities such as driving vehicles, vessels or aircraft;\n(4) expressly or implicitly indicating that drinking has such effects as relieving tension and anxiety or increasing physical strength."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Advertisements for education and training shall not contain any of the following content:\n(1) express or implied guaranteed promises concerning admission to a higher-level school, passing examinations, obtaining academic degrees or qualifications, or obtaining qualification certificates, or concerning the effects of education or training;\n(2) expressly or implicitly indicating that the relevant examination institution, its staff members or persons who set examination questions participate in the education or training;\n(3) recommendations or testimony in the name or image of scientific research units, academic institutions, educational institutions, industry associations, professionals or beneficiaries."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Advertisements for goods or services with an expectation of investment return, such as investment solicitation, shall give reasonable reminders or warnings about the risks that may exist and the bearing of liability for such risks, and shall not contain any of the following content:\n(1) guaranteed promises concerning future effects, returns or related circumstances, expressly or implicitly indicating guaranteed principal, absence of risk or guaranteed returns, unless otherwise provided by the State;\n(2) recommendations or testimony in the name or image of academic institutions, industry associations, professionals or beneficiaries."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In real estate advertisements, the information on the available housing shall be truthful, and the area shall be indicated as the floor area of the building or the floor area within the unit, and the advertisements shall not contain any of the following content:\n(1) promises of appreciation in value or investment return;\n(2) indicating the location of the project by the time needed to reach a specific reference point from the project;\n(3) violating the provisions of the State on price administration;\n(4) misleading promotion of transport, commercial, cultural and educational facilities and other municipal conditions that are planned or under construction."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "In advertisements for crop seeds, forest tree seeds, grass seeds, breeding livestock and poultry, aquatic seedlings, and for planting and breeding, statements on the variety name, production performance, growth volume or yield, quality, resistance, special use value, economic value, and the scope and conditions suitable for planting or breeding shall be truthful, clear and understandable, and the advertisements shall not contain any of the following content:\n(1) assertions that cannot be scientifically verified;\n(2) assertions or guarantees indicating efficacy;\n(3) analysis or prediction of economic benefits, or guaranteed promises;\n(4) recommendations or testimony in the name or image of scientific research units, academic institutions, technology promotion institutions, industry associations, or professionals or users."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an advertisement deceives or misleads consumers with false or misleading content, it constitutes a false advertisement.\nAn advertisement shall be a false advertisement under any of the following circumstances:\n(1) the goods or services do not exist;\n(2) information on the performance, function, place of origin, use, quality, specifications, ingredients, price, producer, period of validity, sales situation or honours received of the goods, or information on the content, provider, form, quality, price, sales situation or honours received of the services, and information on undertakings relating to the goods or services, is inconsistent with the actual situation and has a material effect on the act of purchase;\n(3) scientific research results, statistical materials, survey results, abstracts, quotations or other information that are fabricated, forged or unverifiable are used as supporting materials;\n(4) the effects of using the goods or receiving the services are fabricated;\n(5) other circumstances in which consumers are deceived or misled with false or misleading content."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Standards for Advertising Content"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where radio stations, television stations or newspaper publishing units engage in the business of publishing advertisements, they shall establish a dedicated advertising body, be staffed with the necessary personnel, and have premises and equipment appropriate to the publication of advertisements."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Advertisers, advertising operators and advertising publishers shall, in accordance with law, conclude written contracts with one another in advertising activities."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Advertisers, advertising operators and advertising publishers shall not engage in unfair competition in any form in advertising activities."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where an advertiser entrusts the design, production or publication of an advertisement, it shall entrust an advertising operator or advertising publisher with lawful business qualifications."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an advertiser or advertising operator uses the name or image of another person in an advertisement, it shall obtain that person's written consent in advance; where the name or image of a person with no capacity for civil conduct or with limited capacity for civil conduct is used, the written consent of that person's guardian shall be obtained in advance."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Advertising operators and advertising publishers shall, in accordance with the relevant provisions of the State, establish and improve systems for the acceptance and registration, examination and verification, and archiving of advertising business.\nAdvertising operators and advertising publishers shall, in accordance with laws and administrative regulations, examine the relevant supporting documents and verify the content of advertisements. For advertisements whose content does not conform or whose supporting documents are incomplete, advertising operators shall not provide design, production or agency services, and advertising publishers shall not publish them."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Advertising operators and advertising publishers shall make public their charging standards and charging methods."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Information such as coverage, audience rating, click-through rate and circulation provided by advertising publishers to advertisers and advertising operators shall be truthful."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "No unit or individual shall design, produce, act as agent for or publish advertisements for products that are prohibited from being produced or sold or for services that are prohibited from being provided, or for goods or services that are prohibited from being advertised, as provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where an advertising endorser recommends or testifies to goods or services in an advertisement, it shall do so on the basis of facts, in conformity with this Law and the provisions of the relevant laws and administrative regulations, and shall not recommend or testify to goods it has not used or services it has not received.\nMinors under the age of ten shall not be used as advertising endorsers.\nA natural person, legal person or other organisation that has been given an administrative penalty for recommending or testifying in a false advertisement shall not be used as an advertising endorser within three years from the date of the penalty."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Advertising activities shall not be carried out in primary and secondary schools or kindergartens, and advertisements shall not be published or published in a disguised form by using the teaching materials, supplementary teaching materials, exercise books, stationery, teaching aids, school uniforms, school buses and the like of primary and secondary school students and infants, except public service advertisements."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Advertisements for medical treatment, pharmaceuticals, health food, medical devices, cosmetics, alcoholic beverages and beauty treatment, and advertisements for online games that are detrimental to the physical and mental health of minors, shall not be published in mass media targeting minors.\nAdvertisements for goods or services targeting minors under the age of 14 shall not contain any of the following content:\n(1) inducing them to ask their parents to purchase the advertised goods or services;\n(2) content that may prompt them to imitate unsafe behaviour."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Local people's governments at or above the county level shall organise the relevant departments to strengthen the supervision and administration of outdoor advertisements published by using outdoor sites, spaces, facilities and the like, and shall formulate plans for the installation of outdoor advertisements and safety requirements.\nThe measures for the administration of outdoor advertisements shall be prescribed by local regulations and local government rules."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Outdoor advertisements shall not be installed under any of the following circumstances:\n(1) by using traffic safety facilities or traffic signs;\n(2) affecting the use of municipal public facilities, traffic safety facilities, traffic signs, fire protection facilities or fire safety signs;\n(3) obstructing production or the life of the people, or impairing the appearance of the city;\n(4) in the building control zones of State organs, sites under State protection for cultural relics, scenic and historic areas and the like, or in areas where local people's governments at or above the county level prohibit the installation of outdoor advertisements."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "No unit or individual shall, without the consent or request of the party concerned, send advertisements to his residence, means of transport or the like, or send advertisements to him by electronic information means.\nWhere advertisements are sent by electronic information means, the true identity and contact details of the sender shall be expressly indicated, and the recipient shall be provided with a means of refusing to continue receiving them."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The provisions of this Law apply to advertising activities carried out through the internet.\nThe publication and sending of advertisements through the internet shall not affect the normal use of the network by users. Advertisements published on internet pages in the form of pop-ups and the like shall conspicuously indicate a closing mark, ensuring that they can be closed with one click."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the manager of a public place, a telecommunications business operator or an internet information service provider knows or ought to know that illegal advertisements are being sent or published by using its premises or its information transmission or publication platform, it shall stop them."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Standards of Advertising Conduct"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Advertisements for medical treatment, pharmaceuticals, medical devices, pesticides, veterinary drugs and health food, and other advertisements that shall be reviewed as provided by laws or administrative regulations, shall, before publication, have their content reviewed by the relevant department (hereinafter referred to as the advertising review organ); they shall not be published without review."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where an advertiser applies for advertising review, it shall submit the relevant supporting documents to the advertising review organ in accordance with laws and administrative regulations.\nThe advertising review organ shall make a review decision in accordance with the provisions of laws and administrative regulations, and shall send a copy of the document approving the review to the market regulation department at the same level. The advertising review organ shall promptly make public to society the advertisements approved."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "No unit or individual shall forge, alter or transfer the document approving an advertising review."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "In performing its duties of advertising supervision and administration, a market regulation department may exercise the following functions and powers:\n(1) conducting on-site inspections of premises suspected of being used for illegal advertising activities;\n(2) questioning the parties suspected of violating the law or their legal representatives, principal persons in charge and other relevant persons, and investigating the units or individuals concerned;\n(3) requiring the parties suspected of violating the law to provide the relevant supporting documents within a time limit;\n(4) consulting and copying contracts, bills, account books, advertising works and other relevant materials relating to advertisements suspected of being illegal;\n(5) sealing up or distraining advertising items, business tools, equipment and other property directly related to advertisements suspected of being illegal;\n(6) ordering the suspension of publication of advertisements suspected of being illegal that may cause serious consequences;\n(7) other functions and powers prescribed by laws or administrative regulations.\nMarket regulation departments shall establish and improve advertising monitoring systems, improve monitoring measures, and promptly discover and investigate and deal with illegal advertising acts in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The market regulation department under the State Council shall, in conjunction with the relevant departments under the State Council, formulate standards of conduct for the publication of advertisements in mass media."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where market regulation departments exercise their functions and powers in accordance with the provisions of this Law, the parties concerned shall provide assistance and cooperation, and shall not refuse or obstruct."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Market regulation departments and the relevant departments and their staff members shall be obliged to keep confidential the commercial secrets they learn in advertising supervision and administration activities."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Any unit or individual shall have the right to complain about or report to the market regulation departments and the relevant departments acts violating this Law. Market regulation departments and the relevant departments shall make public to society the telephone numbers, mailboxes or email addresses for accepting complaints and reports, and the department receiving a complaint or report shall handle it and inform the complainant or reporter within seven working days from the date of receipt.\nWhere market regulation departments and the relevant departments fail to perform their duties in accordance with law, any unit or individual shall have the right to report the matter to the authority at the higher level or to the supervisory organ. The organ receiving the report shall handle it in accordance with law and promptly inform the reporter of the outcome.\nThe relevant departments shall keep confidential the identity of complainants and reporters."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Consumers' associations and other consumer organisations shall, in accordance with law, exercise social supervision over the publication of false advertisements in violation of the provisions of this Law that infringes upon the lawful rights and interests of consumers, and over other acts impairing the public interest."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a false advertisement is published, the market regulation department shall order the cessation of the publication of the advertisement, order the advertiser to eliminate the effects within the corresponding scope, and impose a fine of not less than three times and not more than five times the advertising expenses; where the advertising expenses cannot be calculated or are obviously low, a fine of not less than 200,000 yuan and not more than one million yuan shall be imposed; where the illegal act is committed three or more times within two years or other serious circumstances exist, a fine of not less than five times and not more than ten times the advertising expenses shall be imposed; where the advertising expenses cannot be calculated or are obviously low, a fine of not less than one million yuan and not more than two million yuan shall be imposed, the business licence may be revoked, and the advertising review organ shall revoke the document approving the advertising review and shall not accept its application for advertising review within one year.\nWhere a medical institution commits the illegal act specified in the preceding paragraph and the circumstances are serious, in addition to being punished by the market regulation department in accordance with this Law, the health administrative department may revoke the diagnosis and treatment subject or revoke the practice licence of the medical institution.\nWhere an advertising operator or advertising publisher knows or ought to know that an advertisement is false but still designs, produces, acts as agent for or publishes it, the market regulation department shall confiscate the advertising expenses and impose a fine of not less than three times and not more than five times the advertising expenses; where the advertising expenses cannot be calculated or are obviously low, a fine of not less than 200,000 yuan and not more than one million yuan shall be imposed; where the illegal act is committed three or more times within two years or other serious circumstances exist, a fine of not less than five times and not more than ten times the advertising expenses shall be imposed; where the advertising expenses cannot be calculated or are obviously low, a fine of not less than one million yuan and not more than two million yuan shall be imposed, and the relevant department may suspend its advertising publication business or revoke its business licence.\nWhere an advertiser, advertising operator or advertising publisher commits an act specified in the first or third paragraph of this Article and a crime is constituted, it shall be investigated for criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a false advertisement is published that deceives or misleads consumers and causes damage to the lawful rights and interests of consumers who purchase the goods or accept the services, the advertiser shall bear civil liability in accordance with law. Where an advertising operator or advertising publisher cannot provide the true name, address and effective contact details of the advertiser, consumers may require the advertising operator or advertising publisher to compensate in advance.\nWhere a false advertisement for goods or services relating to the life and health of consumers causes damage to consumers, the advertising operator, advertising publisher and advertising endorser shall bear joint and several liability with the advertiser.\nWhere a false advertisement for goods or services other than those specified in the preceding paragraph causes damage to consumers, the advertising operator, advertising publisher and advertising endorser that know or ought to know that the advertisement is false but still design, produce, act as agent for or publish it, or recommend or testify to it, shall bear joint and several liability with the advertiser."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where any of the following acts is committed, the market regulation department shall order the cessation of the publication of the advertisement and impose on the advertiser a fine of not less than 200,000 yuan and not more than one million yuan; where the circumstances are serious, it may also revoke the business licence, and the advertising review organ shall revoke the document approving the advertising review and shall not accept its application for advertising review within one year; in respect of advertising operators and advertising publishers, the market regulation department shall confiscate the advertising expenses and impose a fine of not less than 200,000 yuan and not more than one million yuan, and where the circumstances are serious, may also revoke the business licence:\n(1) publishing an advertisement containing any of the circumstances prohibited by Article 9 or Article 10 of this Law;\n(2) in violation of the provisions of Article 15 of this Law, publishing advertisements for prescription drugs, for precursor chemicals for drug production that are pharmaceutical products, or for medical devices and treatment methods for drug addiction rehabilitation;\n(3) in violation of the provisions of Article 20 of this Law, publishing advertisements for infant dairy products, beverages and other food claiming to replace, wholly or partly, breast milk;\n(4) in violation of the provisions of Article 22 of this Law, publishing tobacco advertisements;\n(5) in violation of the provisions of Article 37 of this Law, using advertisements to sell products prohibited from being produced or sold or services prohibited from being provided, or goods or services prohibited from being advertised;\n(6) in violation of the provisions of the first paragraph of Article 40 of this Law, publishing in mass media targeting minors advertisements for medical treatment, pharmaceuticals, health food, medical devices, cosmetics, alcoholic beverages and beauty treatment, and advertisements for online games detrimental to the physical and mental health of minors."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where any of the following acts is committed, the market regulation department shall order the cessation of the publication of the advertisement, order the advertiser to eliminate the effects within the corresponding scope, and impose a fine of not less than one time and not more than three times the advertising expenses; where the advertising expenses cannot be calculated or are obviously low, a fine of not less than 100,000 yuan and not more than 200,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than three times and not more than five times the advertising expenses shall be imposed; where the advertising expenses cannot be calculated or are obviously low, a fine of not less than 200,000 yuan and not more than one million yuan shall be imposed, the business licence may be revoked, and the advertising review organ shall revoke the document approving the advertising review and shall not accept its application for advertising review within one year:\n(1) in violation of the provisions of Article 16 of this Law, publishing advertisements for medical treatment, pharmaceuticals or medical devices;\n(2) in violation of the provisions of Article 17 of this Law, covering functions of disease treatment in an advertisement, or using medical terminology or terminology liable to confuse the goods being sold with pharmaceuticals or medical devices;\n(3) in violation of the provisions of Article 18 of this Law, publishing advertisements for health food;\n(4) in violation of the provisions of Article 21 of this Law, publishing advertisements for pesticides, veterinary drugs, feed or feed additives;\n(5) in violation of the provisions of Article 23 of this Law, publishing advertisements for alcoholic beverages;\n(6) in violation of the provisions of Article 24 of this Law, publishing advertisements for education or training;\n(7) in violation of the provisions of Article 25 of this Law, publishing advertisements for goods or services with an expectation of investment return, such as investment solicitation;\n(8) in violation of the provisions of Article 26 of this Law, publishing real estate advertisements;\n(9) in violation of the provisions of Article 27 of this Law, publishing advertisements for crop seeds, forest tree seeds, grass seeds, breeding livestock and poultry, aquatic seedlings, or for planting and breeding;\n(10) in violation of the provisions of the second paragraph of Article 38 of this Law, using minors under the age of ten as advertising endorsers;\n(11) in violation of the provisions of the third paragraph of Article 38 of this Law, using a natural person, legal person or other organisation as an advertising endorser;\n(12) in violation of the provisions of Article 39 of this Law, publishing advertisements in primary and secondary schools or kindergartens or by using articles related to primary and secondary school students or infants;\n(13) in violation of the provisions of the second paragraph of Article 40 of this Law, publishing advertisements for goods or services targeting minors under the age of 14;\n(14) in violation of the provisions of Article 46 of this Law, publishing an advertisement without review.\nWhere a medical institution commits the illegal act specified in the preceding paragraph and the circumstances are serious, in addition to being punished by the market regulation department in accordance with this Law, the health administrative department may revoke the diagnosis and treatment subject or revoke the practice licence of the medical institution.\nWhere an advertising operator or advertising publisher knows or ought to know of the illegal act specified in the first paragraph of this Article but still designs, produces, acts as agent for or publishes the advertisement, the market regulation department shall confiscate the advertising expenses and impose a fine of not less than one time and not more than three times the advertising expenses; where the advertising expenses cannot be calculated or are obviously low, a fine of not less than 100,000 yuan and not more than 200,000 yuan shall be imposed; where the circumstances are serious, a fine of not less than three times and not more than five times the advertising expenses shall be imposed; where the advertising expenses cannot be calculated or are obviously low, a fine of not less than 200,000 yuan and not more than one million yuan shall be imposed, and the relevant department may suspend its advertising publication business or revoke its business licence."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where any of the following acts is committed, the market regulation department shall order the cessation of the publication of the advertisement and impose on the advertiser a fine of not more than 100,000 yuan:\n(1) the content of the advertisement violates the provisions of Article 8 of this Law;\n(2) the cited content of the advertisement violates the provisions of Article 11 of this Law;\n(3) an advertisement involving a patent violates the provisions of Article 12 of this Law;\n(4) in violation of the provisions of Article 13 of this Law, the advertisement disparages the goods or services of other producers or operators.\nWhere an advertising operator or advertising publisher knows or ought to know of the illegal act specified in the preceding paragraph but still designs, produces, acts as agent for or publishes the advertisement, the market regulation department shall impose a fine of not more than 100,000 yuan.\nWhere an advertisement violates the provisions of Article 14 of this Law and is not identifiable, or violates the provisions of Article 19 of this Law and publishes advertisements for medical treatment, pharmaceuticals, medical devices or health food in a disguised form, the market regulation department shall order rectification and impose on the advertising publisher a fine of not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 34 of this Law, an advertising operator or advertising publisher fails to establish and improve an advertising business management system in accordance with the relevant provisions of the State, or fails to verify the content of advertisements, the market regulation department shall order rectification and may impose a fine of not more than 50,000 yuan.\nWhere, in violation of the provisions of Article 35 of this Law, an advertising operator or advertising publisher fails to make public its charging standards and charging methods, the competent department of prices shall order rectification and may impose a fine of not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where an advertising endorser falls under any of the following circumstances, the market regulation department shall confiscate the illegal gains and impose a fine of not less than one time and not more than two times the illegal gains:\n(1) in violation of the provisions of subparagraph (4) of the first paragraph of Article 16 of this Law, recommending or testifying in an advertisement for medical treatment, pharmaceuticals or medical devices;\n(2) in violation of the provisions of subparagraph (5) of the first paragraph of Article 18 of this Law, recommending or testifying in an advertisement for health food;\n(3) in violation of the provisions of the first paragraph of Article 38 of this Law, recommending or testifying to goods it has not used or services it has not received;\n(4) knowing or ought to know that the advertisement is false but still recommending or testifying to goods or services in the advertisement."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 43 of this Law, an advertisement is sent, the relevant department shall order the cessation of the illegal act and impose on the advertiser a fine of not less than 5,000 yuan and not more than 30,000 yuan.\nWhere, in violation of the provisions of the second paragraph of Article 44 of this Law, an advertisement is published through the internet without conspicuously indicating a closing mark ensuring that it can be closed with one click, the market regulation department shall order rectification and impose on the advertiser a fine of not less than 5,000 yuan and not more than 30,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 45 of this Law, the manager of a public place, a telecommunications business operator or an internet information service provider knows or ought to know that advertising activities are illegal and fails to stop them, the market regulation department shall confiscate the illegal gains and, where the illegal gains are 50,000 yuan or more, impose a fine of not less than one time and not more than three times the illegal gains, or, where the illegal gains are less than 50,000 yuan, impose a fine of not less than 10,000 yuan and not more than 50,000 yuan; where the circumstances are serious, the relevant department shall suspend the relevant business in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, an application for advertising review is made by concealing the true situation or providing false materials, the advertising review organ shall not accept or approve it, shall give a warning, and shall not accept the applicant's application for advertising review within one year; where approval of an advertising review is obtained by such improper means as deception or bribery, the advertising review organ shall revoke it, impose a fine of not less than 100,000 yuan and not more than 200,000 yuan, and shall not accept the applicant's application for advertising review within three years."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a document approving an advertising review is forged, altered or transferred, the market regulation department shall confiscate the illegal gains and impose a fine of not less than 10,000 yuan and not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where an illegal act specified in this Law is committed, the market regulation department shall record it in the credit file and make it public in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where a radio station, television station, newspaper or audio-visual publishing unit publishes an illegal advertisement, publishes an advertisement in a disguised form in the form of a news report, or publishes advertisements for medical treatment, pharmaceuticals, medical devices or health food in a disguised form in the form of introductions to health or wellness knowledge, and the market regulation department imposes a penalty in accordance with this Law, it shall notify the competent departments of the press and publication and of radio and television and the other relevant departments. The competent departments of the press and publication and of radio and television and the other relevant departments shall, in accordance with law, give sanctions to the leading personnel responsible and the directly responsible persons; where the circumstances are serious, they may also suspend the media's advertising publication business.\nWhere the competent departments of the press and publication and of radio and television and the other relevant departments fail to deal with the radio station, television station, newspaper or audio-visual publishing unit in accordance with the provisions of the preceding paragraph, sanctions shall be given in accordance with law to the leading personnel responsible and the directly responsible persons."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where an advertiser, advertising operator or advertising publisher, in violation of the provisions of this Law, commits any of the following infringing acts, it shall bear civil liability in accordance with law:\n(1) impairing the physical and mental health of minors or persons with disabilities in an advertisement;\n(2) passing off another person's patent;\n(3) disparaging the goods or services of other producers or operators;\n(4) using the name or image of another person in an advertisement without consent;\n(5) other infringement of the lawful civil rights and interests of others."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where a company or enterprise has its business licence revoked for publishing false advertisements or for committing other illegal acts specified in this Law, the legal representative of the company or enterprise who bears personal responsibility for the illegal act shall not serve as a director, supervisor or senior manager of any company or enterprise within three years from the date on which the business licence of the company or enterprise is revoked."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a party refuses or obstructs the supervision and inspection of the market regulation department, or commits other acts constituting a violation of the administration of public security, it shall be given a penalty for the administration of public security in accordance with law; where a crime is constituted, it shall be investigated for criminal responsibility in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where an advertising review organ makes a decision approving the review of illegal advertising content, sanctions shall be given in accordance with law by the authority that appoints and removes the leading personnel responsible and the directly responsible persons, or by the supervisory organ; where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where a market regulation department fails to investigate and deal with in accordance with law an illegal advertising act discovered in the performance of its advertising monitoring duties, or an illegal advertising act that has been complained about or reported, sanctions shall be given in accordance with law to the leading personnel responsible and the directly responsible persons.\nWhere staff members of a market regulation department or of the relevant departments responsible for the work relating to advertising administration neglect their duties, abuse their powers or engage in malpractice for personal gain, sanctions shall be given in accordance with law.\nWhere the acts specified in the preceding two paragraphs constitute a crime, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "The State encourages and supports the carrying out of public service advertising activities, the dissemination of the core socialist values, and the advocacy of civilised practices.\nMass media shall be obliged to publish public service advertisements. Radio stations, television stations and newspaper publishing units shall publish public service advertisements in accordance with the prescribed space, time slots and duration. The measures for the administration of public service advertisements shall be formulated by the market regulation department under the State Council in conjunction with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "This Law shall enter into force on 1 September 2015."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0122'] = {
     "lawId": "CN-LAW-0122",
     "sourceLang": "zh",
@@ -24336,6 +27912,3381 @@
         },
         "noLabel": {
           "en": "Article 30."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0123'] = {
+    "lawId": "CN-LAW-0123",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 72 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution to strengthen national defence construction, improve the national defence mobilisation system, ensure the smooth progress of national defence mobilisation work, and safeguard the sovereignty, unity, territorial integrity and security of the State."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the preparation and implementation of national defence mobilisation and to related activities."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall strengthen national defence mobilisation construction, establish and improve a national defence mobilisation system that meets the needs of national defence security, is coordinated with economic and social development and is connected with the emergency response mechanism for emergencies, and shall enhance national defence mobilisation capacity."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "National defence mobilisation shall adhere to the policy of combining peacetime with wartime, combining military with civilian purposes, and embedding military potential in the people, and shall follow the principles of unified leadership, participation of all the people, long-term preparation, construction of key projects, overall coordination, and orderliness and efficiency."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Citizens and organisations shall, in peacetime, complete the preparatory work for national defence mobilisation in accordance with law; after the State decides to implement national defence mobilisation, they shall complete the prescribed national defence mobilisation tasks."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall guarantee the funds needed for national defence mobilisation. Funds for national defence mobilisation shall, in accordance with the principle of division of authority and responsibility, be included in the central and local budgets respectively."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall commend and reward citizens and organisations that have made outstanding contributions to national defence mobilisation work."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "When the sovereignty, unity, territorial integrity or security of the State is threatened, the Standing Committee of the National People's Congress shall, in accordance with the Constitution and the provisions of the relevant laws, decide on general mobilisation or partial mobilisation of the country. The President of the State shall, on the basis of the decision of the Standing Committee of the National People's Congress, issue a mobilisation order."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State Council and the Central Military Commission shall jointly lead national defence mobilisation work throughout the country, formulate the guidelines, policies and regulations for national defence mobilisation work, submit to the Standing Committee of the National People's Congress motions for general mobilisation or partial mobilisation of the country, and organise the implementation of national defence mobilisation in accordance with the decision of the Standing Committee of the National People's Congress and the mobilisation order issued by the President of the State.\nWhen the sovereignty, unity, territorial integrity or security of the State is under direct threat and response measures must be taken immediately, the State Council and the Central Military Commission may, in light of the needs of emergency response, take the necessary national defence mobilisation measures provided by this Law and shall at the same time report to the Standing Committee of the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Local people's governments shall implement and carry out the guidelines, policies, laws and regulations on national defence mobilisation work; after the State decides to implement national defence mobilisation, they shall organise the implementation of national defence mobilisation within their respective administrative regions in accordance with the national defence mobilisation tasks assigned by the higher authorities.\nLocal people's governments at or above the county level shall, in accordance with the limits of authority prescribed by law, administer national defence mobilisation work within their respective administrative regions."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The relevant departments of people's governments at or above the county level and the relevant departments of the armed forces shall, within the scope of their respective duties, be responsible for the relevant national defence mobilisation work."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The National Defence Mobilisation Commission of the State shall, under the leadership of the State Council and the Central Military Commission, be responsible for organising, guiding and coordinating national defence mobilisation work throughout the country; matters deliberated and determined in accordance with the prescribed limits of authority and procedures shall be organised and implemented by the relevant departments of the State Council and of the Central Military Commission according to the division of their respective duties. The national defence mobilisation commissions of military area commands and the national defence mobilisation commissions of local authorities at or above the county level shall be responsible for organising, guiding and coordinating national defence mobilisation work within their respective regions."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The working bodies of national defence mobilisation commissions shall undertake the day-to-day work of the national defence mobilisation commission at the corresponding level and perform the relevant national defence mobilisation duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "After the threat to the sovereignty, unity, territorial integrity and security of the State is eliminated, the measures for implementing national defence mobilisation shall be lifted in accordance with the limits of authority and procedures for deciding to implement national defence mobilisation."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall apply the systems of national defence mobilisation plans, implementation preplans for national defence mobilisation, and statistical surveys of national defence mobilisation potential."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Plans, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "National defence mobilisation plans and implementation preplans for national defence mobilisation shall be formulated on the basis of the guidelines and principles of national defence mobilisation, the state of national defence mobilisation potential and military requirements. Military requirements shall be put forward by the relevant departments of the armed forces in accordance with the prescribed limits of authority and procedures.\nImplementation preplans for national defence mobilisation and emergency response preplans for emergencies shall be connected with each other in respect of command, use of forces, information and support."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Plans, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The formulation and approval of national defence mobilisation plans and implementation preplans for national defence mobilisation at all levels shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Plans, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate the relevant content of national defence mobilisation into the plans for national economic and social development. The relevant departments of the armed forces shall incorporate implementation preplans for national defence mobilisation into combat readiness plans.\nPeople's governments at or above the county level and their relevant departments and the relevant departments of the armed forces shall, in accordance with their duties, implement national defence mobilisation plans and implementation preplans for national defence mobilisation."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Plans, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The statistical institutions and relevant departments of people's governments at or above the county level shall, in light of the needs of national defence mobilisation, provide the relevant statistical materials to the working body of the national defence mobilisation commission at the corresponding level accurately and in a timely manner. Where the statistical materials provided cannot meet the needs, the working body of the national defence mobilisation commission may, in accordance with the Statistics Law of the People's Republic of China and the relevant provisions of the State, organise and carry out special statistical surveys of national defence mobilisation potential."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Plans, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State shall establish a system for assessing and inspecting the implementation of national defence mobilisation plans and implementation preplans for national defence mobilisation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Plans, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In light of the needs of national defence mobilisation, construction projects and important products closely related to national defence shall implement national defence requirements and possess national defence functions."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The catalogue of construction projects and important products closely related to national defence shall be drawn up by the comprehensive department of economic development under the State Council in conjunction with the other relevant departments under the State Council and the relevant departments of the armed forces, and shall be submitted to the State Council and the Central Military Commission for approval.\nFor construction projects and important products included in the catalogue, the military requirements shall be put forward by the relevant departments of the armed forces; when such construction projects are approved or verified and when the design of such important products is finalised, the competent departments of people's governments at or above the county level shall, in accordance with the provisions, seek the opinions of the relevant departments of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Construction projects and important products included in the catalogue shall be designed, produced, constructed, supervised and accepted in accordance with the relevant laws and administrative regulations and the technical specifications and standards for implementing national defence requirements, so as to ensure the quality of the construction projects and important products."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where enterprises and institutions invest, or participate in investing, in the construction of construction projects included in the catalogue or in the research, development and manufacture of important products included in the catalogue, they shall enjoy subsidies or other preferential policies in accordance with the relevant laws and administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "People's governments at or above the county level shall give guidance and policy support to the work of implementing national defence requirements in construction projects and important products included in the catalogue, and the relevant departments shall properly carry out the relevant administration in accordance with their duties."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State shall apply a system for the reserve of reserve personnel.\nIn light of the needs of national defence mobilisation, the State shall reserve the reserve personnel needed in accordance with the principles of appropriate scale, scientific structure and rational layout.\nThe State Council and the Central Military Commission shall, in light of the needs of national defence mobilisation, decide on the scale, types and methods of the reserve of reserve personnel."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Reserve-Duty Personnel"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Reserve personnel shall be reserved, in accordance with the principles of matching specialties and facilitating mobilisation, by pre-assigning them to active-duty units, incorporating them into reserve units, incorporating them into militia organisations or by other forms.\nIn light of the needs of national defence mobilisation, the State shall establish reserve areas for reserve professional and technical personnel.\nThe State shall provide conditions and guarantees for the training and reserve of reserve personnel. Reserve personnel shall participate in training in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Reserve-Duty Personnel"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The military service organs of local people's governments at or above the county level shall be responsible for organising and implementing the reserve of reserve personnel within their respective administrative regions. The relevant departments of local people's governments at or above the county level, the people's governments of townships (towns) or sub-district offices where reserve personnel are located, and enterprises and institutions shall assist the military service organs in the relevant work of reserving reserve personnel."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Reserve-Duty Personnel"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Reserve personnel pre-assigned to active-duty units and incorporated into reserve units, and other reserve personnel designated for call-up, who leave the place of their reserve registration for more than one month shall report to the military service organ with which they are registered as reserve personnel."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Reserve-Duty Personnel"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, the military service organs of people's governments at the county level shall, in accordance with the orders of the higher authorities, promptly issue call-up notices to the reserve personnel called up.\nReserve personnel who receive a call-up notice shall report to the designated place as required by the notice."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Reserve-Duty Personnel"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The units in which the called-up reserve personnel work shall assist the military service organs in the call-up of reserve personnel.\nUnits and individuals engaged in transport shall give priority to transporting called-up reserve personnel."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Reserve-Duty Personnel"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, reserve personnel designated for call-up shall not leave the place of their reserve registration without the approval of the military service organ of the people's government at the county level at the place of their reserve registration; those who have already left the place of their reserve registration shall, upon receiving a notice from the military service organ, immediately return or report to the designated place."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Reserve-Duty Personnel"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall apply a system for the reserve and allocation of strategic materials that meets the needs of national defence mobilisation.\nThe reserve of strategic materials shall be organised and implemented by the relevant competent department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Units undertaking the task of reserving strategic materials shall, in accordance with the relevant provisions and standards of the State, keep and maintain the reserved materials, adjust and replace them periodically, and ensure the usability and safety of the reserved materials.\nThe State shall, in accordance with the relevant provisions, give subsidies to units undertaking the task of reserving strategic materials."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Strategic materials shall be allocated in accordance with the relevant provisions of the State. After the State decides to implement national defence mobilisation, the allocation of strategic materials shall be approved by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The reserve and allocation of other materials needed for national defence mobilisation shall be carried out in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall establish a mobilisation system for the research and development, production and maintenance support of military products and shall, in light of the needs of wartime military orders and equipment support, reserve capacity for the research and development, production and maintenance support of military products.\nMilitary products referred to in this Law mean equipment, materials and special production equipment and apparatus used for military purposes."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The types, layout and scale of the reserve of capacity for the research and development, production and maintenance support of military products shall be proposed by the relevant competent department under the State Council in conjunction with the relevant departments of the armed forces, and shall be organised and implemented after approval by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Units undertaking the tasks of conversion to military production, expansion of military production and maintenance support shall, in accordance with the national defence mobilisation tasks they bear, reserve the necessary equipment, materials, supporting products and technology, establish the necessary professional and technical teams, and formulate and improve preplans and measures."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "People's governments at all levels shall support and assist units undertaking the task of conversion to and expansion of military production in developing and applying advanced dual-use technologies, in promoting technology standards common to military and civilian use, and in enhancing the comprehensive support capacity for conversion to and expansion of military production.\nThe relevant competent department under the State Council shall coordinate and support the implementation of major cross-regional and cross-industry tasks of conversion to and expansion of military production."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, units undertaking the task of conversion to and expansion of military production shall, in accordance with the State's military procurement contracts and the requirements for conversion to and expansion of production, organise the research and development and production of military products, ensure the quality of military products, deliver the ordered goods on time and assist the armed forces in completing maintenance support tasks. Units providing energy, materials, equipment and supporting products for conversion to and expansion of military production shall give priority to meeting the needs of conversion to and expansion of military production.\nThe State shall compensate units for direct economic losses caused by their undertaking of the task of conversion to and expansion of military production."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State shall apply a system for the prevention of and relief from war disasters, protect the safety of people's lives and property, and safeguard national defence mobilisation potential and sustained mobilisation capacity."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The State shall establish a system of graded protection for military, economic and social targets and for the leading organs. The standards for graded protection shall be prescribed by the State Council and the Central Military Commission.\nThe protection of military, economic and social targets and of the leading organs shall be organised and implemented jointly by people's governments at or above the county level and the relevant military organs."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Units undertaking the task of protecting military, economic and social targets and the leading organs shall formulate protection plans and emergency rescue and repair preplans, organise protection drills, implement protection measures and improve comprehensive protection effectiveness."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall establish a medical and health rescue system combining peacetime with wartime. After the State decides to implement national defence mobilisation, medical and health personnel shall be mobilised and pharmaceuticals, equipment and facilities shall be allocated to ensure wartime medical rescue and health and epidemic prevention."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, the evacuation and concealment of personnel and materials, where carried out within their own administrative region, shall be decided and organised for implementation by the people's government at the corresponding level; where carried out across administrative regions, shall be decided and organised for implementation by the common people's government at the next higher level of the administrative regions concerned.\nUnits undertaking the task of evacuating and concealing personnel and materials shall, in accordance with the decisions of the relevant people's governments, complete the evacuation and concealment tasks within the prescribed time."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "When a war disaster occurs, the local people's government shall promptly activate the emergency relief mechanism, organise forces to rescue the injured, settle the disaster victims and protect property, eliminate the consequences of the war disaster as soon as possible and restore the normal order of production and life.\nPersons and organisations suffering from a war disaster shall promptly take measures of self-rescue and mutual rescue to reduce the losses caused by the war disaster."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, people's governments at or above the county level may, in light of the needs of implementing national defence mobilisation, mobilise citizens and organisations that meet the conditions prescribed by this Law to undertake national defence service.\nNational defence service referred to in this Law means the tasks of supporting and guaranteeing military operations, undertaking the prevention of and relief from war disasters, and assisting in maintaining social order."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Male citizens aged between 18 and 60 and female citizens aged between 18 and 55 shall undertake national defence service; however, they shall be exempted from national defence service under any of the following circumstances:\n(1) citizens engaged in management and service work in social welfare institutions such as nurseries, kindergartens, orphanages, homes for the aged, rehabilitation institutions for persons with disabilities and relief stations;\n(2) citizens engaged in teaching, management and service work in schools at the stage of compulsory education;\n(3) female citizens who are pregnant or breastfeeding;\n(4) citizens who are ill and unable to undertake national defence service;\n(5) citizens who have lost the capacity for work;\n(6) citizens holding posts in intergovernmental international organisations such as the United Nations;\n(7) other citizens exempted from national defence service as decided by people's governments at or above the county level.\nProfessional and technical personnel with special expertise undertaking specific national defence service shall not be subject to the age limits specified in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Persons designated to undertake national defence service shall obey command, perform their duties, observe discipline and keep secrets. The units in which persons undertaking national defence service work shall give support and assistance."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Units in the fields of transport, postal services, telecommunications, medicine and health, food and grain supply, engineering and construction, energy and chemicals, large water conservancy facilities, civil nuclear facilities, news media, national defence research and production, and municipal facility support shall undertake national defence service in accordance with law.\nThe units specified in the preceding paragraph shall, in peacetime, form professional support teams in accordance with the principles of matching specialties, having a lean and capable staff and being effective in emergencies, organise training and drills, and enhance their capacity to complete national defence service."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Citizens and organisations undertaking national defence service shall be organised by people's governments at or above the county level.\nCitizens and professional support teams undertaking the service of preventing and relieving war disasters and assisting in maintaining social order shall be commanded by the local people's government, which shall provide service and living support; where service is performed across administrative regions, the local people's governments at or above the county level of the administrative regions concerned shall organise and implement the relevant support.\nCitizens and professional support teams undertaking the service of supporting and guaranteeing military operations shall be commanded by military organs; those accompanying units in operations shall be provided with service and living support by the units to which they belong, and the others shall be provided with service and living support by the local people's government."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Persons undertaking national defence service shall, during the period of performing service, continue to enjoy the wages, allowances and other welfare benefits of their original work units; those without work units shall be given subsidies by the local people's government at the county level with reference to the subsidy standards for militia performing combat readiness service; those who are injured or killed in the performance of national defence service shall be given pensions and preferential treatment by the local people's government at the county level in accordance with the Regulations on Pensions and Preferential Treatment for Military Personnel and other relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, where reserved materials cannot promptly meet the needs of mobilisation, people's governments at or above the county level may, in accordance with law, requisition civilian resources.\nCivilian resources referred to in this Law mean the facilities, equipment, premises and other materials owned or used by organisations and individuals for social production, services and life."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter X Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "All organisations and individuals shall be obliged to accept the lawful requisition of civilian resources.\nWhere the active-duty and reserve units of the Chinese People's Liberation Army, the Chinese People's Armed Police Force or militia organisations need to use civilian resources, they shall put forward the requisition requirements, and the local people's governments at or above the county level shall organise the requisition in a unified manner. Local people's governments at or above the county level shall register the requisitioned civilian resources and issue vouchers to the persons whose resources are requisitioned."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter X Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The following civilian resources shall be exempted from requisition:\n(1) articles and residential premises necessary for the life of individuals and families;\n(2) articles and residential premises necessary for social welfare institutions such as nurseries, kindergartens, orphanages, homes for the aged, rehabilitation institutions for persons with disabilities and relief stations to guarantee the life of children, the aged, persons with disabilities and relief recipients;\n(3) other civilian resources exempted from requisition as provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter X Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where requisitioned civilian resources need to be modified to meet military requirements, the modification shall be organised and implemented by the local people's government at or above the county level in conjunction with the relevant military organ.\nUnits undertaking the modification task shall carry out the modification in accordance with the military requirements and modification plan put forward by the using unit, and shall ensure delivery for use on schedule. The funds needed for the modification shall be borne by the State."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter X Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "After the requisitioned civilian resources have been used, the local people's government at or above the county level shall promptly organise their return; those that have been modified shall be returned after their original functions of use have been restored; those that cannot be repaired or have been lost, and direct economic losses caused by the requisition, shall be compensated in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter X Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the active-duty and reserve units of the Chinese People's Liberation Army, the Chinese People's Armed Police Force or militia organisations need to requisition civilian resources or take temporary control measures for military exercises or training, the relevant provisions of the State Council and the Central Military Commission shall apply."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter X Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "People's governments at all levels shall organise and carry out publicity and education on national defence mobilisation and enhance citizens' awareness of national defence and of performing national defence obligations in accordance with law. The relevant military organs shall assist in the publicity and education on national defence mobilisation."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter XI Publicity and Education"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "State organs, social organisations, enterprises and institutions and primary-level self-governing organisations of the masses shall organise the personnel under them to learn and master the necessary national defence knowledge and skills."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter XI Publicity and Education"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "People's governments at all levels shall, using various publicity media and means, carry out publicity and education among citizens in patriotism and revolutionary heroism, arouse citizens' patriotic enthusiasm, encourage citizens to enthusiastically join the war effort and support the front, carry out activities in various forms to support the army and give preferential treatment to the families of military personnel and to express sympathy and solicitude, and properly carry out the work of pensions and preferential treatment in accordance with the relevant provisions of the State.\nUnits in the fields of the press and publication, radio, film and television, and online media shall properly carry out publicity, education and related work in accordance with the requirements of national defence mobilisation."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter XI Publicity and Education"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, the following special measures may, as needed, be taken in accordance with law in the areas where national defence mobilisation is implemented:\n(1) exercising control over such industries as finance, transport, postal services, telecommunications, the press and publication, radio, film and television, information networks, energy and water supply, medicine and health, food and grain supply, and commerce and trade;\n(2) imposing necessary restrictions on the areas, time and manner of activities of persons and on the areas of entry and exit of materials and means of transport;\n(3) applying special working systems in State organs, social organisations, enterprises and institutions;\n(4) giving priority in providing various transport support to the armed forces;\n(5) other special measures that need to be taken."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The implementation of special measures throughout the country or in some provinces, autonomous regions or municipalities directly under the Central Government shall be decided and organised for implementation by the State Council and the Central Military Commission; the implementation of special measures in some areas within the scope of a province, autonomous region or municipality directly under the Central Government shall be decided by the State Council and the Central Military Commission, and shall be organised for implementation by the people's government of the province, autonomous region or municipality directly under the Central Government in which the area where the special measures are implemented is located and by the military organ at the same level."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Organs organising the implementation of special measures shall implement the special measures within the prescribed limits of authority, areas and time limits. Citizens and organisations in the areas where the special measures are implemented shall submit to the administration of the organs organising the implementation of the special measures."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "When special measures are no longer necessary, they shall be terminated promptly."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Where litigation, administrative reconsideration or arbitration activities cannot proceed normally because the State has issued a mobilisation order, the provisions on the suspension of limitation periods and the suspension of procedures shall apply, unless otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where a citizen commits any of the following acts, the people's government at the county level shall order him to rectify within a time limit; where he fails to rectify upon expiry of the time limit, he shall be compelled to perform his obligations:\n(1) reserve personnel pre-assigned to active-duty units and incorporated into reserve units, or other reserve personnel designated for call-up, leave the place of their reserve registration for more than one month without reporting to the military service organ with which they are registered as reserve personnel;\n(2) after the State decides to implement national defence mobilisation, reserve personnel designated for call-up leave the place of their reserve registration without the approval of the military service organ with which they are registered as reserve personnel, or fail to return promptly as required by the military service organ, or fail to report to the designated place;\n(3) refusing or evading call-up, or refusing or evading undertaking national defence service;\n(4) refusing or delaying the requisition of civilian resources, or obstructing the modification of requisitioned civilian resources;\n(5) interfering with or disrupting the order of national defence mobilisation work, or obstructing persons engaged in national defence mobilisation work from performing their duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Where an enterprise or institution commits any of the following acts, the relevant people's government shall order it to rectify within a time limit; where it fails to rectify upon expiry of the time limit, it shall be compelled to perform its obligations and may be fined:\n(1) in a construction project it undertakes that implements national defence requirements, failing to carry out design, construction or production in accordance with the national defence requirements and the technical specifications and standards;\n(2) causing loss or damage to reserved strategic materials through poor management, or failing to obey the allocation of strategic materials;\n(3) failing to reserve capacity for the research and development, production and maintenance support of military products in accordance with the requirements of the tasks of conversion to and expansion of military production and maintenance support, or failing to form professional and technical teams in accordance with the provisions;\n(4) refusing or delaying the performance of professional support tasks;\n(5) refusing military orders or deliberately delaying them;\n(6) refusing or delaying the requisition of civilian resources, or obstructing the modification of requisitioned civilian resources;\n(7) obstructing citizens from performing the obligations of call-up or of undertaking national defence service."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where any of the following acts is committed, sanctions shall be given in accordance with law to the persons in charge who are directly responsible and to other persons directly responsible:\n(1) refusing to execute a national defence mobilisation order issued by a higher authority;\n(2) abusing power or neglecting duty, causing serious losses to national defence mobilisation work;\n(3) refusing to register requisitioned civilian resources or to issue vouchers, or using them in violation of the provisions and causing serious damage, or failing to return or compensate them in accordance with the provisions;\n(4) divulging secrets of national defence mobilisation;\n(5) embezzling or misappropriating funds or materials for national defence mobilisation;\n(6) abusing power and infringing upon or impairing the lawful rights and interests of citizens or organisations."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a violation of the administration of public security, a penalty for the administration of public security shall be given in accordance with law; where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "This Law shall enter into force on 1 July 2010."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0124'] = {
+    "lawId": "CN-LAW-0124",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 82 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to strengthen national defence construction, improve the national defence mobilisation system, ensure the smooth conduct of national defence mobilisation work, and safeguard the sovereignty, unity, territorial integrity, security and development interests of the State."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the preparation and implementation of national defence mobilisation as well as related activities.\nFor the purposes of this Law, national defence mobilisation means activities in which the State, in order to respond to threats to its sovereignty, unity, territorial integrity, security and development interests, takes necessary measures in accordance with the law to ensure a rapid transition between peacetime and wartime and to convert economic and social strength into national defence strength."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "National defence mobilisation work shall uphold the leadership of the Communist Party of China, implement Xi Jinping's thinking on strengthening the military, uphold the holistic approach to national security, implement the military strategy for the new era, adhere to the policy of combining peacetime and wartime, military-civilian coordination and embedding the military in the people, and follow the principles of unified leadership, participation by all the people, division of labour and coordination, responsibility at different levels, long-term preparation, construction of key projects, overall planning with due consideration to all parties, and high efficiency and sustainability."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall strengthen national defence mobilisation construction, coordinate development and security, improve a national defence mobilisation system that is commensurate with the needs of national defence security, coordinated with economic and social development and connected with the emergency response mechanism for emergencies, raise the level of informatisation and intelligence of national defence mobilisation, enhance the potential and capacity of national defence mobilisation, advance the modernisation of national defence mobilisation, and consolidate and improve an integrated national strategic system and capability."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall apply a target responsibility system for national defence mobilisation work and shall strengthen supervision and inspection of the relevant departments of central State organs, people's governments at all local levels and the relevant military organs."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall establish a mechanism for testing and evaluating national defence mobilisation capability and build a system for testing and evaluating national defence mobilisation capability."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall establish a data service support system suited to the needs of national defence mobilisation, collect and use data closely related to national defence mobilisation in accordance with the law, and safeguard data security."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall promote the application of advanced technologies in national defence mobilisation and develop national defence mobilisation forces in emerging fields."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State shall guarantee the funds needed for national defence mobilisation. National defence mobilisation funds shall be included in the central and local budgets respectively in accordance with the principle of dividing fiscal powers and expenditure responsibilities between the central and local governments."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Organisations and citizens shall, in peacetime, complete the preparatory work for national defence mobilisation in accordance with the law; after the State decides to implement national defence mobilisation, they shall complete the prescribed national defence mobilisation tasks."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "All organisations and individuals shall keep confidential, in accordance with the law, the State secrets, work secrets, trade secrets, personal privacy and personal information that they learn of in national defence mobilisation work, and shall not disclose them or illegally provide them to others."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State shall protect, in accordance with the law, the lawful rights and interests of organisations and individuals participating in national defence mobilisation activities. Organisations and individuals that make outstanding contributions in national defence mobilisation work shall be commended and rewarded in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "When the sovereignty, unity, territorial integrity, security and development interests of the State are threatened, the Standing Committee of the National People's Congress shall, in accordance with the Constitution and the provisions of the relevant laws, decide on general mobilisation or partial mobilisation throughout the country. The President of the People's Republic of China shall, in accordance with the decision of the Standing Committee of the National People's Congress, issue a mobilisation order."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State Council and the Central Military Commission shall submit to the Standing Committee of the National People's Congress a bill on the implementation of general mobilisation or partial mobilisation throughout the country, and shall organise the implementation of national defence mobilisation in accordance with the decision of the Standing Committee of the National People's Congress and the mobilisation order issued by the President of the People's Republic of China.\nWhere the sovereignty, unity, territorial integrity, security and development interests of the State are under direct threat and response measures must be taken immediately, the State Council and the Central Military Commission may, in light of the needs of emergency response, take the necessary national defence mobilisation measures provided for in this Law and shall simultaneously report to the Standing Committee of the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "People's governments at all local levels shall implement and execute the guidelines, policies, laws and regulations on national defence mobilisation work; after the State decides to implement national defence mobilisation, they shall organise the implementation of national defence mobilisation in their respective administrative areas in accordance with the national defence mobilisation tasks assigned by the superior authorities.\nPeople's governments at all local levels shall administer national defence mobilisation work in their respective administrative areas within the limits of authority prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The relevant departments of people's governments at or above the county level and the relevant military organs shall be responsible for the relevant national defence mobilisation work within the scope of their respective functions and duties."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Under the centralised and unified leadership of the Party Central Committee, the National Defence Mobilisation Committee of the State shall perform the function of organising, guiding and coordinating national defence mobilisation work throughout the country. Matters deliberated and determined by the National Defence Mobilisation Committee of the State within the prescribed limits of authority and procedures shall be organised and implemented by the member units of the National Defence Mobilisation Committee of the State and other relevant departments in accordance with the division of their respective duties.\nLocal national defence mobilisation committees at or above the county level shall, under the leadership of the Party committee at the same level and the guidance of the national defence mobilisation committee at the next higher level, perform the function of organising, guiding and coordinating national defence mobilisation work in their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The working bodies of national defence mobilisation committees shall undertake the day-to-day work of the national defence mobilisation committee at the same level and perform the relevant national defence mobilisation duties in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "After the threats to the sovereignty, unity, territorial integrity, security and development interests of the State are removed, the measures for implementing national defence mobilisation shall be lifted in accordance with the limits of authority and procedures for deciding on the implementation of national defence mobilisation."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Leading and Organisational Bodies and Their Functions and Powers"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State shall apply a national defence mobilisation planning system and a national defence mobilisation implementation plan system and shall conduct statistical surveys of national defence mobilisation potential."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Programming, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The National Defence Mobilisation Committee of the State shall be responsible for organising the drafting of the national national defence mobilisation plan. The member units of the National Defence Mobilisation Committee of the State shall, in accordance with the division of duties and the deployments, draft the national defence mobilisation related plans for their respective industries and fields.\nThe provincial national defence mobilisation committees shall be responsible for organising the drafting of the national defence mobilisation plans for their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Programming, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall establish a system of implementation plans for national defence mobilisation.\nThe National Defence Mobilisation Committee of the State shall be responsible for organising the formulation of the overall national implementation plan for national defence mobilisation. The member units of the National Defence Mobilisation Committee of the State shall, in accordance with the division of duties and the deployments, formulate the corresponding special implementation plans for national defence mobilisation.\nThe provincial national defence mobilisation committees shall be responsible for organising the formulation of the overall implementation plans for national defence mobilisation in their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Programming, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "National defence mobilisation plans and national defence mobilisation implementation plans shall be formulated on the basis of the guidelines and principles of national defence mobilisation work, the state of national defence mobilisation potential and military requirements. Military requirements shall be raised by the relevant military organs in accordance with the prescribed limits of authority and procedures."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Programming, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The examination and approval of national defence mobilisation plans and national defence mobilisation implementation plans shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Programming, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate national defence mobilisation preparation into the national economic and social development plans. The relevant military organs shall incorporate the national defence mobilisation implementation plans into the combat readiness plans.\nPeople's governments at or above the county level and their relevant departments and the relevant military organs shall implement the national defence mobilisation plans and national defence mobilisation implementation plans in accordance with their duties."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Programming, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State shall incorporate statistical surveys of national defence mobilisation potential into the government statistical survey system, formulate the items and systems for statistical surveys of national defence mobilisation potential, establish and improve a dynamic updating mechanism for statistical data on national defence mobilisation potential, and strengthen the analysis and application of the results of statistical surveys of national defence mobilisation potential.\nThe statistical institutions and relevant departments of people's governments at or above the county level shall implement the requirements of the statistical survey tasks for national defence mobilisation potential and provide the relevant statistical data on national defence mobilisation potential to the working body of the national defence mobilisation committee at the same level truthfully, accurately, completely and promptly.\nAfter the State decides to implement national defence mobilisation, the working body of the national defence mobilisation committee may, with the approval of the national defence mobilisation committee at the same level, directly organise the collection of statistical data on national defence mobilisation potential that is difficult to collect in accordance with the provisions of the preceding paragraph.\nThe subjects of statistical surveys of national defence mobilisation potential shall, in accordance with the law and the relevant provisions of the State, provide the data required for statistical surveys of national defence mobilisation potential truthfully, accurately, completely and promptly."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III National Defence Mobilisation Programming, Implementation Schemes and Potential Statistical Surveys"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State shall promote the coordinated development of economic construction and national defence construction and strengthen national defence strength by relying on economic and social development. In light of the needs of national defence mobilisation, construction projects and important products closely related to national defence shall incorporate national defence requirements and possess national defence functions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The catalogue of construction projects and important products closely related to national defence shall be drafted by the development and reform department of the State Council and the relevant departments of the organs of the Central Military Commission together with the other relevant departments of the State Council, and shall be submitted to the State Council and the Central Military Commission for approval.\nFor construction projects and important products included in the catalogue, the military requirements shall be raised by the relevant military organs in accordance with the prescribed procedures; when the construction projects are planned, demonstrated, examined and approved, or verified, and when the important products are designed and finalised, the relevant departments of people's governments at or above the county level shall solicit the opinions of the relevant military organs in accordance with the law, administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Construction projects and important products included in the catalogue shall be designed, produced, constructed, supervised, accepted and maintained in accordance with the law, administrative regulations and the standards and technical specifications for incorporating national defence requirements, so as to ensure the quality and efficiency of the construction projects and important products.\nIn incorporating national defence requirements into construction projects and important products included in the catalogue, advanced and applicable civil standards and technical specifications shall be given priority in accordance with the law; where the adoption of civil standards and technical specifications cannot satisfy national defence requirements, military standards and technical specifications shall be applied; where there are no military standards or technical specifications, the relevant departments of the organs of the Central Military Commission and other units shall formulate them in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where enterprises, public institutions, social organisations or individuals invest in or participate in investing in the construction of construction projects included in the catalogue or in the research, development and manufacture of important products included in the catalogue, they shall enjoy policy support in accordance with the law, administrative regulations and the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "People's governments at or above the county level shall give guidance and policy support to the work of incorporating national defence requirements into construction projects and important products included in the catalogue, and the relevant departments shall properly perform the relevant administrative work in accordance with their duties."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Construction Projects and Important Products Closely Related to National Defence"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State shall apply a system of reserves of reserve personnel.\nIn light of the needs of national defence mobilisation, the State shall maintain reserves of the required reserve personnel in accordance with the principles of appropriate scale, sound structure, reasonable layout and dynamic updating."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Back-Up Personnel"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Reserve personnel shall be reserved in the forms of pre-assignment to active-duty units, incorporation into reserve units, incorporation into militia organisations or military service registration, in accordance with the principles of matching specialities and facilitating mobilisation.\nThe State Council and the Central Military Commission shall, in light of the needs of national defence mobilisation, decide on the scale, types and methods of reserves of reserve personnel.\nThe State shall provide conditions and support for the reserve and training of reserve personnel. Reserve personnel shall participate in training in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Back-Up Personnel"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "People's governments at all levels and military organs at all levels shall organise and implement the work of reserving reserve personnel in accordance with the division of duties.\nState organs, public organisations, enterprises and public institutions shall assist in the relevant work of reserving reserve personnel."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Back-Up Personnel"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, the conscription authority of the county-level people's government or the units shall, in accordance with the orders of the superior authorities, promptly issue conscription notices to the reserve personnel to be called up.\nPersons who receive conscription notices shall report to the designated places at the prescribed time as required."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Back-Up Personnel"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The relevant departments of people's governments at or above the county level, the township people's governments, the sub-district offices and the units to which the reserve personnel to be called up belong shall assist the conscription authorities and the units in the conscription work.\nUnits and individuals engaged in transport shall give priority to transporting the reserve personnel to be called up."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Back-Up Personnel"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, reserve personnel scheduled for conscription shall not leave the place of registration without the approval of the conscription authority of the county-level people's government of the place where they are registered; those who have already left shall immediately return or await orders in place."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Back-Up Personnel"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where reserve personnel fall under the circumstances specified in Article 38 of the Reserve Personnel Law of the People's Republic of China, their conscription may be deferred upon verification by the conscription authority of the county-level people's government of the place where they are registered and approval by the conscription authority at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Back-Up Personnel"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The conscription of reserve service personnel shall be carried out in accordance with the relevant provisions of the Reserve Personnel Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Reserve and Call-Up of Back-Up Personnel"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The State shall strengthen the capacity for reserves of strategic materials, build a strategic materials reserve system that is led by the government, jointly built by society and diversified and complementary, and apply a system for the reserve and allocation of strategic materials that meets the needs of national defence mobilisation."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Reserves of strategic materials shall be organised and implemented by the relevant departments of the State Council and people's governments at or above the county level in accordance with the relevant provisions of the State.\nUnits undertaking the task of reserving strategic materials shall, in accordance with the relevant provisions and standards of the State, keep and maintain the reserved materials, conduct regular adjustment and rotation, and ensure the performance and safety of the reserved materials.\nThe State shall, in accordance with the relevant provisions, give policy support to units undertaking the task of reserving strategic materials.\nThe State shall encourage and support the relevant enterprises, public institutions and social organisations in reasonably increasing the scale of physical reserves of strategic materials, intensifying technical reserves and production capacity reserves, and undertaking the corresponding tasks of reserving strategic materials."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Strategic materials shall be allocated in accordance with the relevant provisions of the State. After the State decides to implement national defence mobilisation, the allocation of strategic materials shall be approved by the State Council and the Central Military Commission or by the organs authorised by them."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "People's governments at all levels and the relevant military organs shall encourage and support the relevant enterprises, public institutions, social organisations and individuals in undertaking tasks such as the storage, transport and distribution of strategic materials. After the State decides to implement national defence mobilisation, the enterprises, public institutions, social organisations and individuals undertaking such tasks shall give priority to meeting the needs of national defence mobilisation and complete the tasks as required. People's governments at all levels and the relevant military organs shall provide facilitation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The reserve and allocation of other materials needed for national defence mobilisation shall be carried out in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI Reserve and Deployment of Strategic Materials"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall establish a mobilisation system for the research, production and maintenance support of military products and shall, in light of the needs of wartime military procurement and equipment support, reserve capacity for the research, production and maintenance support of military products.\nFor the purposes of this Law, military products mean equipment, materials, special production equipment, instruments and apparatus and the like used for military purposes."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The relevant departments of the State Council and the relevant departments of the organs of the Central Military Commission shall organise and carry out security assessments of the industrial chains and supply chains of military products and shall, in light of the assessment results, take measures to enhance the resilience and security level of the industrial chains and supply chains of military products.\nThe types, layout and scale of the reserves of capacity for the research, production and maintenance support of military products shall be proposed in a plan by the relevant departments of the State Council together with the relevant departments of the organs of the Central Military Commission, and shall be organised and implemented after approval by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Units undertaking the tasks of research, conversion of production, expansion of production and maintenance support of military products shall, in accordance with the national defence mobilisation tasks they undertake, reserve the required equipment, materials, supporting products, technologies, data and software, establish the required professional and technical teams, formulate and improve plans and measures, and organise drills on a regular basis."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State shall attach importance to giving play to the role of market mechanisms and shall encourage and support organisations and individuals in participating in the reserves of capacity for the research, production and maintenance support of military products.\nPeople's governments at all levels and the relevant military organs shall, in accordance with the relevant provisions, promote the standardisation, serialisation and modularisation of military products, advance the socialisation of maintenance support for military products, support and assist units undertaking the tasks of research, conversion of production, expansion of production and maintenance support of military products in developing and applying advanced dual-use military and civil technologies and equipment, raise the level of standardisation and commonality of military and civil standards, and improve the comprehensive capacity for the research, conversion of production, expansion of production and maintenance support of military products.\nThe relevant departments of the State Council and the relevant departments of the organs of the Central Military Commission shall coordinate and support the implementation of major cross-regional and cross-industry tasks of research, conversion of production, expansion of production and maintenance support of military products."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, units undertaking the tasks of research, conversion of production, expansion of production and maintenance support of military products shall, in accordance with the military procurement contracts and the requirements for conversion of production and expansion of production, organise the research and production of military products, ensure the quality of military products, deliver on time, and assist the armed forces in completing maintenance support tasks. Units that provide energy, equipment, materials, supporting products, technologies, data and software for the tasks of research, conversion of production, expansion of production and maintenance support of military products shall give priority to meeting the needs of the research, conversion of production, expansion of production and maintenance support of military products.\nThe relevant departments of the State Council shall, in accordance with the relevant provisions of the State, organise the relevant units to provide technical, personnel and other support to units undertaking the tasks of research, conversion of production, expansion of production and maintenance support of military products, and assist them in completing the tasks.\nThe State shall compensate units that suffer direct economic losses as a result of undertaking the tasks of research, conversion of production, expansion of production and maintenance support of military products."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Research, Production and Maintenance Support for Military Products"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State shall apply a system for the prevention of and relief from war disasters, protect the safety of people's lives and property, and safeguard the potential for national defence mobilisation and the capacity for sustained mobilisation."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State shall establish a system of tiered protection for important targets such as military, economic and social targets and the headquarters organs. The standards for the tiered protection of important targets shall be prescribed by the State Council and the Central Military Commission.\nThe protection of important targets shall be organised and implemented by the relevant departments of the State Council and people's governments at or above the county level together with the relevant military organs in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Units undertaking the task of protecting important targets shall formulate protection plans and emergency rescue and repair plans, organise protection drills, implement protection measures and improve comprehensive protection effectiveness."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "People's governments at or above the county level and the relevant military organs shall strengthen the coordination and connection of the plans, contingency plans, policies and tasks for national defence mobilisation and emergency management, achieve the coordinated use of command and dispatch, professional forces, intelligence and information, materials and equipment and other aspects, and improve the capacity for the prevention of and relief from war disasters."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State shall establish a system of medical and health rescue that combines peacetime and wartime. After the State decides to implement national defence mobilisation, medical and health institutions and personnel shall be mobilised and pharmaceuticals, instruments, equipment and facilities shall be allocated to ensure wartime medical rescue, health and epidemic prevention and health protection."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, the evacuation and concealment of personnel and materials shall, if carried out within the same administrative area, be decided and organised by the people's government at the same level; if carried out across administrative areas, be decided and organised by the people's government at the next higher level common to the relevant administrative areas.\nUnits undertaking the tasks of evacuation and concealment of personnel and materials shall complete the evacuation and concealment tasks within the prescribed time in accordance with the decisions of the relevant people's governments."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "When war disasters occur, the local people's government shall promptly activate the emergency relief mechanism, organise forces to rescue the injured, resettle the disaster-affected people and protect property, and shall eliminate the consequences of the war disasters as soon as possible and restore the normal order of production and life.\nOrganisations and individuals that suffer war disasters shall promptly take self-rescue and mutual-rescue measures to reduce the losses caused by the war disasters."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Prevention and Relief of War Disasters"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, people's governments at or above the county level may, in light of the needs of implementing national defence mobilisation, mobilise organisations and citizens that meet the conditions prescribed in this Law to undertake national defence service duties.\nFor the purposes of this Law, national defence service duties mean the tasks of supporting and ensuring military operations, undertaking the prevention of and relief from war disasters and assisting in maintaining social order."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Male citizens between 18 and 60 years of age and female citizens between 18 and 55 years of age shall undertake national defence service duties in accordance with the law; however, they shall be exempted from national defence service duties under any of the following circumstances:\n(a) citizens engaged in management and service work in childcare institutions, kindergartens, child welfare institutions, elderly care institutions, rehabilitation institutions for persons with disabilities, assistance and administration institutions and the like;\n(b) citizens engaged in teaching, management and service work in schools at the compulsory education stage;\n(c) female citizens during pregnancy, the puerperal period or the breastfeeding period;\n(d) citizens who are ill and unable to undertake national defence service duties;\n(e) citizens who have lost the capacity to work;\n(f) citizens who hold posts in intergovernmental international organisations such as the United Nations and are exempted from national defence service duties in accordance with the relevant treaties or agreements concluded or acceded to by China;\n(g) other citizens exempted from national defence service duties as decided by people's governments at or above the county level.\nProfessional and technical personnel and persons with special technical skills undertaking specific national defence service duties shall not be subject to the age limits prescribed in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Persons designated to undertake national defence service duties shall obey command, perform their duties, observe discipline and keep secrets. The units to which persons undertaking national defence service duties belong shall give them support and assistance."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Units in the fields of transport, postal services, telecommunications, cyber security, medical and health services, food and grain supply, engineering and construction, energy and chemicals, large water conservancy facilities, civil nuclear facilities, news media, national defence research and production, and municipal facility support shall undertake national defence service duties in accordance with the law.\nThe units specified in the preceding paragraph shall, in peacetime, form professional support teams in accordance with the principles of matching specialities, elite personnel and effective emergency response, and shall organise training and drills to improve their capacity to complete national defence service duties."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "The organisation of organisations and citizens in undertaking national defence service duties shall be the responsibility of people's governments at or above the county level.\nProfessional support teams and citizens undertaking the duties of preventing and relieving war disasters and assisting in maintaining social order shall be commanded by the local people's government, which shall provide service and living support; where duties are performed across administrative areas, the people's governments at or above the county level of the relevant administrative areas shall implement the relevant support.\nProfessional support teams and citizens undertaking the duties of supporting and ensuring military operations shall be commanded by the military organs; those accompanying units in operations shall be provided with service and living support by the units to which they belong; and others shall be provided with service and living support by the local people's government."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Persons undertaking national defence service duties shall, during the period of performing their duties, continue to enjoy the wages, allowances and other welfare benefits of their original work units; those without work units shall be given subsidies by the local county-level people's government with reference to the subsidy standards for militia performing combat readiness duties; those who are injured or killed in the performance of national defence service duties shall be given pensions and preferential treatment by the local county-level people's government in accordance with the relevant provisions such as the Regulations on Pensions and Preferential Treatment for Military Personnel."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Service"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, where reserved materials cannot promptly meet the needs of mobilisation, people's governments at or above the county level may, in accordance with the law, expropriate or requisition civilian resources.\nFor the purposes of this Law, civilian resources mean the facilities, equipment, means of transport, premises and other resources owned or used by organisations and individuals for social production, services and livelihood."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter X Expropriation, Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "All organisations and individuals have the obligation to accept the expropriation or requisition of civilian resources in accordance with the law.\nWhere the active-duty units and reserve units of the Chinese People's Liberation Army, the Chinese People's Armed Police Force or militia organisations need to use civilian resources, they shall raise the demand for expropriation or requisition, and people's governments at or above the county level shall organise the expropriation or requisition in a unified manner in accordance with the limits of authority and procedures prescribed by law. People's governments at or above the county level shall register the expropriated or requisitioned civilian resources and issue vouchers."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter X Expropriation, Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The following civilian resources shall be exempted from expropriation or requisition:\n(a) articles and residential premises necessary for the personal and family life of individuals;\n(b) articles and residential premises necessary for ensuring the livelihood of children, elderly persons, persons with disabilities and assistance recipients in childcare institutions, kindergartens, child welfare institutions, elderly care institutions, rehabilitation institutions for persons with disabilities, assistance and administration institutions and the like;\n(c) other civilian resources exempted from expropriation or requisition as prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter X Expropriation, Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where expropriated or requisitioned civilian resources need to be modified in accordance with military requirements, the modification shall be organised and implemented by people's governments at or above the county level together with the relevant military organs.\nUnits undertaking modification tasks shall carry out the modification in accordance with the military requirements and modification plans proposed by the user units and shall ensure delivery for use on schedule."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter X Expropriation, Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "After the requisitioned civilian resources have been used, people's governments at or above the county level shall promptly organise their return; those that have been modified shall be returned after their original functions of use are restored; where they are damaged or lost, or where direct economic losses are caused by expropriation or requisition, fair and reasonable compensation shall be given.\nThe funds for the expropriation and requisition of civilian resources and for compensation shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter X Expropriation, Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Where the active-duty units and reserve units of the Chinese People's Liberation Army, the Chinese People's Armed Police Force or militia organisations need to requisition civilian resources or take temporary control measures for military exercises, training and the like, the relevant provisions of the State Council and the Central Military Commission shall apply."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter X Expropriation, Requisition and Compensation of Civil Resources"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State shall popularise and strengthen publicity and education on national defence mobilisation and enhance citizens' awareness of national defence mobilisation and of performing national defence mobilisation obligations in accordance with the law. The relevant departments of central State organs and the relevant local departments shall carry out publicity and education on national defence mobilisation in accordance with the law, administrative regulations and the relevant provisions of the State. The relevant military organs shall cooperate in carrying out the relevant work."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter XI Publicity and Education"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "State organs, public organisations, enterprises, public institutions and grassroots mass organisations of self-government shall organise their personnel to learn and master the necessary national defence knowledge and skills."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter XI Publicity and Education"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The competent department for national defence education for all citizens shall use various publicity channels, platforms, methods and means to carry out publicity and education on patriotism and revolutionary heroism and arouse the patriotic enthusiasm of all citizens.\nPeople's governments at all levels shall, in various forms, carry out activities in support of the military and preferential treatment for family members of military personnel and condolence activities, encourage citizens to join the war effort and support the front enthusiastically, and properly carry out pensions and preferential treatment in accordance with the relevant provisions of the State.\nUnits in the press and publication, radio and television, and online media fields shall, in accordance with the requirements of national defence mobilisation, properly carry out publicity and education and the relevant work. The competent department for national defence education for all citizens shall strengthen overall coordination, guidance and supervision."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter XI Publicity and Education"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, the relevant departments of central State organs, the relevant local departments and the relevant military organs shall, in accordance with their duties, release and interpret authoritative information, strengthen the administration of all types of communication platforms in accordance with the law and regulate the order of information release and dissemination, and shall handle in accordance with the law organisations and individuals that fabricate or disseminate false national defence mobilisation information or interfere with or disrupt the order of national defence mobilisation work."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter XI Publicity and Education"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "After the State decides to implement national defence mobilisation, the following special measures may, as needed, be taken in accordance with the law in the areas where national defence mobilisation is implemented:\n(a) exercising control over industries such as finance, transport, postal services, telecommunications, press and publication, radio and television, information networks, radio, energy and water supply, medical and health services, food and grain supply, and commerce and trade;\n(b) imposing necessary restrictions on the areas, time and manner of personnel activities and on the areas of entry and exit of materials and means of transport;\n(c) applying special working systems in State organs, public organisations, enterprises and public institutions;\n(d) giving priority to providing various transport support to the armed forces;\n(e) other special measures that need to be taken."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The implementation of special measures throughout the country or in some provinces, autonomous regions or municipalities directly under the Central Government shall be decided and organised by the State Council and the Central Military Commission; the implementation of special measures in some areas within the scope of a province, autonomous region or municipality directly under the Central Government shall be decided by the State Council and the Central Military Commission and shall be organised and implemented by the people's government of the province, autonomous region or municipality directly under the Central Government where the area of implementation of the special measures is located and the military organ at the same level."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Organs organising the implementation of special measures shall implement the special measures within the prescribed limits of authority, areas and time limits. Organisations and individuals in the areas where the special measures are implemented shall submit to the administration of the organs organising the implementation of the special measures."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Special measures for national defence mobilisation shall be taken in accordance with the principles of necessity and reasonableness and shall be adjusted promptly in light of changed circumstances.\nWhen special measures are no longer necessary, they shall be terminated promptly."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where activities such as litigation, supervisory investigation, administrative reconsideration, arbitration and State compensation cannot be conducted normally as a result of the mobilisation order issued by the State, the provisions on the suspension of limitation periods and the suspension of procedures shall apply, unless otherwise provided by law."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter XII Special Measures"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where a citizen falls under any of the following circumstances, the county-level people's government shall order him or her to rectify within a time limit; where rectification is not made within the time limit, it shall compel him or her to perform the obligation:\n(a) refusing or delaying the provision of statistical data on national defence mobilisation potential, or providing untrue, inaccurate or incomplete statistical data on national defence mobilisation potential;\n(b) after the State decides to implement national defence mobilisation, the reserve personnel scheduled for conscription failing to report to the designated place at the prescribed time, or leaving the place of registration without the approval of the conscription authority, or failing to return immediately or await orders in place as required;\n(c) refusing or evading conscription, or refusing or evading undertaking national defence service duties;\n(d) refusing or delaying the expropriation or requisition of civilian resources or obstructing the modification of requisitioned civilian resources;\n(e) fabricating or disseminating false national defence mobilisation information, interfering with or disrupting the order of national defence mobilisation work, or obstructing persons engaged in national defence mobilisation work from performing their duties in accordance with the law;\n(f) other circumstances of violating the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where an enterprise, public institution or social organisation falls under any of the following circumstances, the relevant people's government shall order it to rectify within a time limit; where rectification is not made within the time limit, it shall compel it to perform the obligation and may impose a fine:\n(a) refusing or delaying the provision of statistical data on national defence mobilisation potential, or providing untrue, inaccurate or incomplete statistical data on national defence mobilisation potential;\n(b) failing to design, construct or produce in accordance with national defence requirements and the standards and technical specifications in a construction project incorporating national defence requirements that it undertakes;\n(c) failing to reserve strategic materials in accordance with the relevant provisions of the State, or failing to comply with the allocation of strategic materials;\n(d) failing to reserve capacity for the research, production and maintenance support of military products in accordance with the requirements of the tasks of research, conversion of production, expansion of production and maintenance support of military products, or failing to form professional and technical teams as prescribed;\n(e) refusing or intentionally delaying military procurement, or providing military products or services whose quality does not meet the requirements of military procurement;\n(f) refusing or delaying the performance of professional support tasks;\n(g) refusing or delaying the expropriation or requisition of civilian resources or obstructing the modification of requisitioned civilian resources;\n(h) obstructing citizens from performing the obligation of conscription or of undertaking national defence service duties;\n(i) other circumstances of violating the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where any of the following circumstances occurs in national defence mobilisation work, disciplinary action shall be taken in accordance with the law against the responsible leading personnel and directly responsible personnel:\n(a) disclosing or illegally providing to others secrets of national defence mobilisation and statistical data on national defence mobilisation potential;\n(b) forging or tampering with statistical data on national defence mobilisation potential, or causing statistical data on national defence mobilisation potential to be damaged or lost;\n(c) refusing to execute national defence mobilisation orders issued by the superior authorities;\n(d) abusing power, neglecting duty or engaging in malpractices for personal gain, causing serious losses to national defence mobilisation work;\n(e) after the State decides to implement national defence mobilisation, refusing or delaying the execution of the relevant national defence mobilisation implementation plans;\n(f) after the State decides to implement national defence mobilisation, refusing or delaying the organisation of the relevant units to provide support to units undertaking the tasks of research, conversion of production, expansion of production and maintenance support of military products;\n(g) after the State decides to implement national defence mobilisation, refusing or delaying the provision of service and living support to professional support teams and citizens undertaking national defence service duties;\n(h) refusing to register or issue vouchers for expropriated or requisitioned civilian resources, or using them in violation of provisions causing serious damage, or failing to return or compensate them as prescribed;\n(i) embezzling or misappropriating national defence mobilisation funds or materials;\n(j) abusing power to infringe upon or damage the lawful rights and interests of organisations or individuals;\n(k) other circumstances of violating the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where a person violates the provisions of this Law and the act constitutes a violation of public security administration, a public security administration penalty shall be imposed in accordance with the law; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter XIII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "This Law shall enter into force on 1 October 2026."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter XIV Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0125'] = {
+    "lawId": "CN-LAW-0125",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 73 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to build and consolidate national defence, ensure the smooth progress of reform and opening up and socialist modernisation, and achieve the great rejuvenation of the Chinese nation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the military activities conducted by the State to guard against and resist aggression, to stop armed subversion and separatism, and to defend national sovereignty, unity, territorial integrity, security and development interests, as well as activities related to the military in the political, economic, diplomatic, scientific and technological, educational and other fields."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "National defence is the security guarantee for the survival and development of the State.\nThe State shall strengthen the building of the armed forces, strengthen the building of border defence, coastal defence, air defence and defence in other major security fields, develop defence research and production, popularise national defence education for all citizens, improve the national defence mobilisation system and realise the modernisation of national defence."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "National defence activities shall be guided by Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the important thought of Three Represents, the Scientific Outlook on Development and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, shall implement Xi Jinping's thinking on strengthening the military, shall uphold the holistic approach to national security, shall implement the military strategy for the new era, and shall build a consolidated national defence and strong armed forces commensurate with China's international standing and suited to national security and development interests."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall exercise unified leadership over national defence activities."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The People's Republic of China pursues a defensive national defence policy, builds and consolidates national defence independently and through self-reliance, applies active defence and upholds national defence by all the people.\nThe State shall uphold the coordinated, balanced and compatible development of economic construction and national defence construction, conduct national defence activities in accordance with the law, accelerate the modernisation of national defence and the armed forces, and achieve the unity of enriching the country and strengthening the military."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Safeguarding the motherland and resisting aggression is the sacred duty of every citizen of the People's Republic of China.\nCitizens of the People's Republic of China shall perform national defence obligations in accordance with the law.\nAll State organs and the armed forces, all political parties and people's organisations, enterprises and public institutions, social organisations and other organisations shall support and participate in national defence construction in accordance with the law, perform national defence duties and complete national defence tasks."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State and society shall respect and give preferential treatment to military personnel, safeguard the status and lawful rights and interests of military personnel, carry out activities in various forms in support of the military and preferential treatment for family members of military personnel, and make military service an occupation held in high esteem by the whole of society.\nThe Chinese People's Liberation Army and the Chinese People's Armed Police Force shall carry out activities of supporting the government and cherishing the people and consolidate the unity between the military and the government and between the military and the people."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The People's Republic of China shall actively promote international military exchanges and cooperation, safeguard world peace and oppose acts of aggression and expansion."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Organisations and individuals that make contributions in national defence activities shall be commended and rewarded in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where any organisation or individual violates this Law and the relevant laws by refusing to perform national defence obligations or harming national defence interests, legal responsibility shall be pursued in accordance with the law.\nWhere public functionaries abuse power, neglect duty or engage in malpractices for personal gain in national defence activities, legal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The National People's Congress shall, in accordance with the provisions of the Constitution, decide on questions of war and peace and exercise the other functions and powers in respect of national defence prescribed by the Constitution.\nThe Standing Committee of the National People's Congress shall, in accordance with the provisions of the Constitution, decide on the declaration of a state of war and on general mobilisation or partial mobilisation throughout the country, and exercise the other functions and powers in respect of national defence prescribed by the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Functions and Powers of State Organs"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The President of the People's Republic of China shall, in accordance with the decisions of the National People's Congress and the decisions of the Standing Committee of the National People's Congress, declare a state of war, issue mobilisation orders, and exercise the other functions and powers in respect of national defence prescribed by the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Functions and Powers of State Organs"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State Council shall lead and administer national defence construction undertakings and exercise the following functions and powers:\n(a) formulating the relevant development plans and programmes for national defence construction;\n(b) formulating the relevant policies and administrative regulations on national defence construction;\n(c) leading and administering national defence research and production;\n(d) administering national defence funds and national defence assets;\n(e) leading and administering the work of national economic mobilisation and the construction and implementation of civil air defence, national defence transport and other fields;\n(f) leading and administering the work of supporting the military and giving preferential treatment to family members of military personnel and the work of ensuring support for veterans;\n(g) jointly leading with the Central Military Commission the building of the militia, the work of conscription, and the administration of border defence, coastal defence, air defence and defence in other major security fields;\n(h) other functions and powers related to national defence construction undertakings as prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Functions and Powers of State Organs"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The Central Military Commission shall lead the armed forces throughout the country and exercise the following functions and powers:\n(a) exercising unified command over the armed forces throughout the country;\n(b) deciding on military strategy and the operational guidelines of the armed forces;\n(c) leading and administering the building of the Chinese People's Liberation Army and the Chinese People's Armed Police Force, formulating plans and programmes and organising their implementation;\n(d) submitting bills to the National People's Congress or its Standing Committee;\n(e) formulating military regulations and issuing decisions and orders in accordance with the Constitution and laws;\n(f) deciding on the organisational system and establishment of the Chinese People's Liberation Army and the Chinese People's Armed Police Force, and prescribing the tasks and duties of the departments of the organs of the Central Military Commission, the theatre commands, the services and arms, the Chinese People's Armed Police Force and other units;\n(g) appointing, removing, training, assessing, rewarding and punishing members of the armed forces in accordance with the provisions of laws and military regulations;\n(h) deciding on the system of weaponry and equipment of the armed forces, formulating development plans and programmes for weaponry and equipment, and leading and administering national defence research and production in coordination with the State Council;\n(i) administering national defence funds and national defence assets jointly with the State Council;\n(j) leading and administering the mobilisation of the people's armed forces and reserve service work;\n(k) organising and carrying out international military exchanges and cooperation;\n(l) other functions and powers prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Functions and Powers of State Organs"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The Central Military Commission shall apply a system of responsibility of its Chairman."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Functions and Powers of State Organs"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State Council and the Central Military Commission shall establish a coordination mechanism to resolve major issues in national defence affairs.\nCentral State organs and the relevant departments of the organs of the Central Military Commission may, as the circumstances require, hold meetings to coordinate and resolve issues concerning national defence affairs."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Functions and Powers of State Organs"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Local people's congresses at all levels and the standing committees of local people's congresses at or above the county level shall, within their respective administrative areas, ensure the observance and implementation of the laws and regulations concerning national defence affairs.\nLocal people's governments at all levels shall, within the limits of authority prescribed by law, administer the work of conscription, militia, national economic mobilisation, civil air defence, national defence transport and protection of national defence facilities, as well as the work of ensuring support for veterans and of supporting the military and giving preferential treatment to family members of military personnel, within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Functions and Powers of State Organs"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Local people's governments at all levels and the military organs stationed in their localities shall, as needed, convene joint military-civilian meetings to coordinate and resolve issues concerning national defence affairs within their respective administrative areas.\nJoint military-civilian meetings shall be convened jointly by the leading members of the local people's government and the leading members of the military organ stationed in the locality. The participants in joint military-civilian meetings shall be determined by the conveners of the meetings.\nMatters determined at joint military-civilian meetings shall be handled by the local people's government and the military organ stationed in the locality in accordance with their respective duties and division of tasks, and major matters shall be reported separately to the superior authorities."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Functions and Powers of State Organs"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The armed forces of the People's Republic of China belong to the people. Their tasks are to consolidate national defence, resist aggression, safeguard the motherland, safeguard the peaceful labour of the people, participate in the cause of national construction, and serve the people wholeheartedly."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The armed forces of the People's Republic of China shall be under the leadership of the Communist Party of China. The organisations of the Communist Party of China in the armed forces shall conduct activities in accordance with the Constitution of the Communist Party of China."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The armed forces of the People's Republic of China shall be composed of the Chinese People's Liberation Army, the Chinese People's Armed Police Force and the militia.\nThe Chinese People's Liberation Army shall be composed of active-duty units and reserve units, and its mission and tasks in the new era are to provide strategic support for consolidating the leadership of the Communist Party of China and the socialist system, for safeguarding national sovereignty, unity and territorial integrity, for protecting China's overseas interests, and for promoting world peace and development. Active-duty units are the standing army of the State and mainly undertake the tasks of defensive operations and, in accordance with the provisions, the tasks of military operations other than war. Reserve units shall, in accordance with the provisions, conduct military training and perform the tasks of defensive operations and military operations other than war; in accordance with the mobilisation order issued by the State, they shall be converted into active-duty units upon orders issued by the Central Military Commission.\nThe Chinese People's Armed Police Force shall undertake duties such as guard duty, handling emergencies endangering social security, preventing and handling terrorist activities, law enforcement for the protection of maritime rights, emergency rescue and relief, and defensive operations, as well as other tasks assigned by the Central Military Commission.\nThe militia shall, under the command of the military organs, undertake combat readiness duties and perform the tasks of military operations other than war and defensive operations."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The armed forces of the People's Republic of China must abide by the Constitution and the laws."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "In building the armed forces, the People's Republic of China shall adhere to the path of strengthening the military with Chinese characteristics, uphold the principles of building the military politically, strengthening the military through reform, strengthening the military through science and technology, strengthening the military through talent and governing the military in accordance with the law, strengthen military training, carry out political work, raise the level of support, comprehensively advance the modernisation of military theory, the organisational forms of the military, military personnel and weaponry and equipment, build a modern combat system with Chinese characteristics, comprehensively improve combat effectiveness and strive to achieve the Party's goal of strengthening the military in the new era."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The scale of the armed forces of the People's Republic of China shall be commensurate with the needs of safeguarding national sovereignty, security and development interests."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Military service in the People's Republic of China shall be divided into active service and reserve service. The system of service of military personnel and reserve service personnel shall be prescribed by law.\nThe Chinese People's Liberation Army and the Chinese People's Armed Police Force shall apply a system of ranks in accordance with the provisions of law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The Chinese People's Liberation Army and the Chinese People's Armed Police Force shall apply a system of civilian personnel in prescribed posts."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The military flag and military emblem of the Chinese People's Liberation Army are the symbols and marks of the Chinese People's Liberation Army. The flag and emblem of the Chinese People's Armed Police Force are the symbols and marks of the Chinese People's Armed Police Force.\nCitizens and organisations shall respect the military flag and military emblem of the Chinese People's Liberation Army and the flag and emblem of the Chinese People's Armed Police Force.\nThe designs and styles of the military flag and military emblem of the Chinese People's Liberation Army and the flag and emblem of the Chinese People's Armed Police Force, and the measures for the administration of their use, shall be prescribed by the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State shall prohibit any organisation or individual from illegally establishing armed organisations, prohibit illegal armed activities, and prohibit impersonation of military personnel or organisations of the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Armed Forces"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The land territory, territorial waters and territorial airspace of the People's Republic of China are sacred and inviolable. The State shall build strong and stable modern border defence, coastal defence and air defence, take effective defence and administration measures, safeguard the security of the land territory, territorial waters and territorial airspace, and safeguard national maritime rights and interests.\nThe State shall take the necessary measures to safeguard the security of activities, assets and other interests in outer space, the electromagnetic domain, cyberspace and other major security fields."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence of Border, Coastal and Air Areas and Other Major Security Fields"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The Central Military Commission shall exercise unified leadership over the defence work in border defence, coastal defence, air defence and other major security fields.\nCentral State organs, local people's governments at all levels and the relevant military organs shall, within the prescribed scope of functions and powers, be responsible for the administration and defence work relating to border defence, coastal defence, air defence and other major security fields in accordance with the division of duties, and shall jointly safeguard the security and interests of the State."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence of Border, Coastal and Air Areas and Other Major Security Fields"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In light of the needs of defence in border defence, coastal defence, air defence and other major security fields, the State shall strengthen the building of defence forces and build national defence facilities for operations, command, communications, tracking, telemetry and control, navigation, protection, transport and support. People's governments at all levels and military organs shall, in accordance with the provisions of laws and regulations, ensure the construction of national defence facilities and protect the safety of national defence facilities."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Defence of Border, Coastal and Air Areas and Other Major Security Fields"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall establish and improve the defence science, technology and industry system, develop defence research and production, and provide the armed forces with weaponry and equipment of advanced performance, reliable quality and complete supporting systems that are easy to operate and maintain, as well as other applicable military materials, so as to meet national defence needs."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Research and Production and Military Procurement"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The defence science, technology and industry shall apply the policy of combining the military and the civil, combining peacetime and wartime, giving priority to military products, innovation-driven development, and independent and controllable development.\nThe State shall make overall plans for the construction of the defence science, technology and industry, adhere to State leadership, division of labour and coordination, professional supporting systems, and openness and integration, and maintain defence research and production capacity of an appropriate scale and reasonable layout."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Research and Production and Military Procurement"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State shall make full use of the advantageous resources of the whole of society to promote progress in defence science and technology, accelerate independent research and development of technologies, give play to the leading role of high and new technologies in the development of weaponry and equipment, increase technological reserves, improve the national defence intellectual property system, promote the transformation of defence scientific and technological achievements, advance the sharing of scientific and technological resources and collaborative innovation, and improve defence research capacity and the level of weaponry and equipment technology."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Research and Production and Military Procurement"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall create a favourable environment and conditions, strengthen the training of defence science and technology personnel, encourage and attract outstanding personnel to enter the field of defence research and production, and stimulate the innovative vitality of personnel.\nDefence science and technology workers shall be respected by the whole of society. The State shall gradually improve the remuneration of defence science and technology workers and protect their lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Research and Production and Military Procurement"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State shall apply a military procurement system in accordance with the law and ensure the procurement and supply of the weaponry and equipment, materials, works and services needed by the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Research and Production and Military Procurement"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The State shall exercise unified leadership and planned regulation over defence research and production; it shall attach importance to giving play to the role of market mechanisms and promote fair competition in defence research and production and military procurement activities.\nThe State shall, in accordance with the law, provide the necessary supporting conditions and preferential policies to organisations and individuals that undertake defence research and production tasks and accept military procurement. Local people's governments at all levels shall, in accordance with the law, give assistance and support to organisations and individuals that undertake defence research and production tasks and accept military procurement.\nOrganisations and individuals that undertake defence research and production tasks and accept military procurement shall keep secrets, complete tasks promptly and efficiently, ensure quality and provide the corresponding service support.\nThe State shall, in accordance with the law, apply a system for pursuing quality responsibility in respect of the weaponry and equipment, materials, works and services supplied to the armed forces."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Research and Production and Military Procurement"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State shall guarantee the necessary funds for national defence undertakings. The growth of national defence funds shall be commensurate with national defence needs and the level of national economic development.\nNational defence funds shall be subject to budgetary management in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Funds and Assets"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Funds directly invested by the State in the building of the armed forces, defence research and production and other national defence construction, land and other resources allocated for use, and the weaponry and equipment, facilities, materials and equipment, and technological achievements for national defence purposes formed thereby shall be national defence assets.\nNational defence assets shall be owned by the State."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Funds and Assets"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "In light of the needs of national defence construction and economic construction, the State shall determine the scale, structure and layout of national defence assets and shall adjust and dispose of national defence assets.\nThe administrative institutions of national defence assets and the units possessing and using them shall administer national defence assets in accordance with the law and give full play to the effectiveness of national defence assets."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Funds and Assets"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State shall protect national defence assets from infringement and ensure the security, integrity and effectiveness of national defence assets.\nNo organisation or individual shall destroy, damage or misappropriate national defence assets. Without the approval of the State Council, the Central Military Commission or the institutions authorised by the State Council and the Central Military Commission, units possessing and using national defence assets shall not change the national defence purposes for which the national defence assets are used. Technological achievements among national defence assets may, on the premise of adhering to the priority of national defence and ensuring security, be used for other purposes in accordance with the relevant provisions of the State.\nWhere the administrative institution of national defence assets or the unit possessing and using them no longer uses national defence assets for national defence purposes, it shall submit the matter for approval as prescribed and shall, in accordance with the law, convert them to other uses or dispose of them."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Funds and Assets"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "By carrying out national defence education, the State shall enable all citizens to enhance their awareness of national defence, strengthen their sense of adversity, master national defence knowledge, improve national defence skills, carry forward the spirit of patriotism and perform national defence obligations in accordance with the law.\nPopularising and strengthening national defence education is the common responsibility of the whole of society."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII National Defence Education"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "National defence education shall implement the policy of participation by all the people, long-term persistence and stress on practical results, and shall apply the principle of combining regular education with concentrated education, combining general education with key education, and combining theoretical education with behavioural education."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII National Defence Education"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The competent department for national defence education shall strengthen the organisation and administration of national defence education, and the other relevant departments shall properly carry out national defence education in accordance with the prescribed duties.\nMilitary organs shall support the relevant organs and organisations in carrying out national defence education and provide the relevant facilitation in accordance with the law.\nAll State organs and the armed forces, all political parties and people's organisations, enterprises and public institutions, social organisations and other organisations shall organise national defence education in their respective regions, departments and units.\nNational defence education in schools is the foundation of national defence education for all citizens. Schools of all levels and types shall offer appropriate national defence education courses or add national defence education content to the relevant courses. Institutions of higher education and schools at the senior secondary stage shall organise military training for students in accordance with the provisions.\nPublic functionaries shall actively participate in national defence education, enhance their national defence literacy and play an exemplary and leading role in national defence education for all citizens."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII National Defence Education"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "People's governments at all levels shall incorporate national defence education into the national economic and social development plans and guarantee the funds needed for national defence education."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII National Defence Education"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "When the sovereignty, unity, territorial integrity, security and development interests of the People's Republic of China are threatened, the State shall, in accordance with the Constitution and the provisions of law, carry out general mobilisation or partial mobilisation throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VIII National Defence Mobilisation and State of War"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The State shall incorporate national defence mobilisation preparation into the overall national development plans and programmes, improve the national defence mobilisation system, enhance national defence mobilisation potential and improve national defence mobilisation capacity."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII National Defence Mobilisation and State of War"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State shall establish a system of reserves of strategic materials. Reserves of strategic materials shall be of an appropriate scale, safely stored, convenient to allocate and regularly replaced, so as to meet wartime needs."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII National Defence Mobilisation and State of War"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The leading institution for national defence mobilisation of the State, central State organs and the relevant departments of the organs of the Central Military Commission shall, in accordance with the division of duties, organise the preparation and implementation of national defence mobilisation.\nAll State organs and the armed forces, all political parties and people's organisations, enterprises and public institutions, social organisations, other organisations and citizens must complete national defence mobilisation preparation work in accordance with the provisions of law; after the State issues a mobilisation order, they must complete the prescribed national defence mobilisation tasks."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII National Defence Mobilisation and State of War"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "In light of the needs of national defence mobilisation, the State may, in accordance with the law, expropriate or requisition the facilities and equipment, means of transport, premises and other property of organisations and individuals.\nPeople's governments at or above the county level shall, in accordance with the relevant provisions of the State, give fair and reasonable compensation to persons whose property is expropriated or requisitioned for the direct economic losses caused by the expropriation or requisition."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII National Defence Mobilisation and State of War"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The State shall, in accordance with the provisions of the Constitution, declare a state of war, take various measures to concentrate manpower, material resources and financial resources, and lead all citizens in safeguarding the motherland and resisting aggression."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII National Defence Mobilisation and State of War"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Performing military service and joining militia organisations in accordance with the law is the glorious obligation of citizens of the People's Republic of China.\nConscription authorities at all levels and grassroots people's armed forces institutions shall handle military service work in accordance with the law, complete conscription tasks in accordance with the orders of the State Council and the Central Military Commission, and ensure the quality of conscripts. The relevant State organs, people's organisations, enterprises and public institutions, social organisations and other organisations shall complete militia and reserve service work in accordance with the law and assist in completing conscription tasks."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where enterprises, public institutions and individuals undertake defence research and production tasks or accept military procurement, they shall provide weaponry and equipment or materials, works and services that meet the quality standards as required.\nEnterprises, public institutions and individuals shall, in accordance with the provisions of the State, incorporate national defence requirements in construction projects closely related to national defence and ensure the needs of national defence construction and military operations in accordance with the law. The units administering and operating transport facilities such as stations, ports, airports and roads shall provide priority services for the passage of military personnel and military vehicles and vessels and give preferential treatment in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Citizens shall receive national defence education.\nCitizens and organisations shall protect national defence facilities and shall not destroy or endanger national defence facilities.\nCitizens and organisations shall observe the provisions on confidentiality, shall not disclose State secrets concerning national defence, and shall not illegally possess confidential documents, materials and other confidential articles concerning national defence."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Citizens and organisations shall support national defence construction and provide facilitation or other assistance for military training, combat readiness duties, defensive operations, military operations other than war and other activities of the armed forces.\nThe State shall encourage and support eligible citizens and enterprises in investing in national defence undertakings, protect the lawful rights and interests of investors and give policy preferences in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Citizens and organisations have the right to make suggestions on national defence construction and the right to stop or report acts that harm national defence interests."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where militia members, reserve service personnel and other citizens participate in military training in accordance with the law and undertake tasks such as combat readiness duties, defensive operations and military operations other than war, they shall perform their duties and obligations; the State and society shall guarantee that they enjoy the corresponding treatment and shall grant them pensions and preferential treatment in accordance with the relevant provisions.\nWhere citizens and organisations suffer direct economic losses as a result of national defence construction and military activities, they may obtain compensation in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IX National Defence Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Military personnel must be loyal to the motherland and loyal to the Communist Party of China, perform their duties, fight bravely, fear no sacrifice, and safeguard the security, honour and interests of the motherland."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter X Obligations and Rights and Interests of Servicemembers"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Military personnel must exemplarily abide by the Constitution and laws, observe military regulations, execute orders and strictly observe discipline."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter X Obligations and Rights and Interests of Servicemembers"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Military personnel shall carry forward the fine traditions of the people's army, love the people, protect the people, actively participate in socialist modernisation and complete tasks such as emergency rescue and disaster relief."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter X Obligations and Rights and Interests of Servicemembers"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Military personnel shall be held in high esteem by the whole of society.\nThe State shall establish a system of honours and commendations for meritorious service of military personnel.\nThe State shall take effective measures to protect the honour and personal dignity of military personnel and shall, in accordance with the provisions of law, give special protection to the marriage of military personnel.\nActs of military personnel in performing their duties in accordance with the law shall be protected by law."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter X Obligations and Rights and Interests of Servicemembers"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The State and society shall give preferential treatment to military personnel.\nThe State shall establish a system for guaranteeing the treatment of military personnel that is suited to the military profession and coordinated with national economic development."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter X Obligations and Rights and Interests of Servicemembers"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The State shall establish a system for ensuring support for veterans, properly resettle veterans and safeguard the lawful rights and interests of veterans."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter X Obligations and Rights and Interests of Servicemembers"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The State and society shall grant pensions and preferential treatment to military personnel with disabilities and shall, in accordance with the law, give special guarantees for the livelihood and medical care of military personnel with disabilities.\nWhere military personnel with disabilities caused by war, by official duties or by illness retire from active service, the people's government at or above the county level shall promptly receive and resettle them and ensure that their living standard is not lower than the average local living standard."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter X Obligations and Rights and Interests of Servicemembers"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The State and society shall give preferential treatment to the family members of military personnel and shall grant pensions and preferential treatment to the family members of martyrs and to the family members of military personnel who died in the performance of official duties or died of illness."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter X Obligations and Rights and Interests of Servicemembers"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The People's Republic of China shall adhere to the Five Principles of mutual respect for sovereignty and territorial integrity, mutual non-aggression, non-interference in each other's internal affairs, equality and mutual benefit, and peaceful coexistence, safeguard the international system with the United Nations at its core and the international order based on international law, uphold the vision of common, comprehensive, cooperative and sustainable security, promote the building of a community with a shared future for mankind, and handle foreign military relations independently and carry out military exchanges and cooperation."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter XI Foreign Military Relations"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "The People's Republic of China shall follow the basic norms of international relations based on the purposes and principles of the Charter of the United Nations, employ the armed forces in accordance with the relevant laws of the State, protect the safety of Chinese citizens, organisations, institutions and facilities overseas, participate in activities such as United Nations peacekeeping, international rescue, maritime escort, joint exercises and training, and counter-terrorism, perform international security obligations and safeguard the overseas interests of the State."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter XI Foreign Military Relations"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The People's Republic of China shall support military-related activities carried out by the international community that are conducive to maintaining world and regional peace, security and stability, support the efforts of the international community for the fair and reasonable settlement of international disputes and for international arms control, disarmament and non-proliferation, participate in multilateral dialogue and negotiations in the security field, and promote the formulation of universally accepted, fair and reasonable international rules."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter XI Foreign Military Relations"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "In foreign military relations, the People's Republic of China shall observe the relevant treaties and agreements concluded with or acceded to by foreign States and international organisations."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter XI Foreign Military Relations"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "For the purposes of this Law, military personnel mean officers, non-commissioned officers, conscripts and other persons serving in active service in the Chinese People's Liberation Army.\nThe provisions of this Law on military personnel shall apply to the people's armed police."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The defence of the special administrative regions of the People's Republic of China shall be prescribed by the basic laws of the special administrative regions and the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 2021."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter XII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0126'] = {
+    "lawId": "CN-LAW-0126",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 60 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to strengthen national defence transport construction, promote the integrated military-civilian development of the transport field and ensure the smooth conduct of national defence activities."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to the planning, construction, administration and resource use activities carried out for the purpose of meeting national defence needs in the transport fields of railways, roads, water transport, aviation, pipelines and postal services."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall adhere to the strategy of integrated military-civilian development, promote the optimal allocation and reasonable sharing of military and civilian resources, improve the capacity of national defence transport to serve in peacetime, respond in emergencies and meet wartime needs, and promote the coordinated development of economic construction and national defence construction.\nNational defence transport work shall follow the principles of unified leadership, responsibility at different levels, overall planning and combining peacetime and wartime."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The national competent institution for national defence transport shall be responsible for planning, organising, guiding and coordinating national defence transport work throughout the country. The establishment and work duties of the national competent institution for national defence transport shall be prescribed by the State Council and the Central Military Commission.\nThe competent institutions for national defence transport of local people's governments at or above the county level shall be responsible for national defence transport work in their respective administrative areas.\nThe relevant departments of people's governments at or above the county level and the relevant military organs shall be responsible for the relevant national defence transport work in accordance with the division of duties.\nThe relevant departments of people's governments at or above the provincial level and the relevant departments of the military shall establish a consultation mechanism for the integrated military-civilian development of national defence transport, notify each other of transport construction, national defence needs and other circumstances, and study and resolve major issues in national defence transport."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Citizens and organisations shall perform national defence transport obligations in accordance with the law.\nThe State shall encourage citizens and organisations to participate in national defence transport construction in accordance with the law and shall give policy and funding support in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "National defence transport funds shall be included in government budgets in accordance with the principle of division of responsibilities.\nReasonable expenditures of enterprises and public institutions for carrying out the day-to-day work of national defence transport shall be included in the budgets of the units and counted as costs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In light of national defence needs, people's governments at or above the county level may, in accordance with the law, requisition civil means of transport, transport facilities, transport materials and other civil transport resources, and the relevant organisations and individuals shall cooperate and perform the relevant obligations.\nThe organisation and implementation of the requisition of civil transport resources and the compensation therefor shall be carried out in accordance with the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at all levels shall incorporate national defence transport education into national defence education for all citizens, carry out publicity activities on national defence transport in various forms, popularise knowledge of national defence transport and enhance citizens' awareness of national defence transport.\nThe administrative departments for railways, roads, water transport, aviation, pipelines, postal services and the like at all levels (hereinafter referred to as the competent transport departments) and the relevant enterprises and public institutions shall conduct national defence transport education for the personnel of their respective systems and units.\nColleges and universities with transport-related specialities shall incorporate knowledge of national defence transport into the relevant speciality courses or separately offer national defence transport related courses."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "All organisations and individuals shall have the obligation to keep confidential the State secrets and trade secrets they learn of in national defence transport work."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Organisations and individuals that make outstanding contributions in national defence transport work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State shall strengthen the informatisation of national defence transport and provide support for improving the support capacity of national defence transport."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where, in wartime or under special peacetime circumstances, national defence mobilisation measures such as industry control in the transport field or giving priority to providing transport support to the armed forces need to be taken, the relevant laws such as the National Defence Law of the People's Republic of China and the National Defence Mobilisation Law of the People's Republic of China shall apply.\nWhere the armed forces need to take temporary control measures over transport for organising military exercises or training, the relevant provisions of the State Council and the Central Military Commission shall apply."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "In wartime or under special peacetime circumstances, the State shall, as needed, establish a joint command institution for national defence transport to coordinate the transport resources of the whole country or a local area and to organise and command in a unified manner transport and the emergency repair, rush construction and protection of transport facilities and equipment throughout the country or in a local area. The relevant organisations and individuals shall submit to the unified command."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "National defence transport plans include plans for the construction of national defence transport engineering facilities, plans for the building of professional support teams for national defence transport, plans for reserves of national defence transport materials, and plans for scientific research on national defence transport.\nThe formulation of national defence transport plans shall meet the following requirements:\n(a) meeting national defence needs, facilitating rapid transition between peacetime and wartime and ensuring the smooth conduct of national defence activities;\n(b) taking into account the needs of economic and social development, highlighting key areas, stressing effectiveness and promoting the integration and sharing of resources;\n(c) conforming to urban and rural plans and the overall plan for land use and being coordinated with the development plan for the national comprehensive transport system;\n(d) facilitating the strengthening of the construction of transport infrastructure for border defence and coastal defence and supporting the development of transport in underdeveloped economic areas along the borders and coasts;\n(e) protecting the environment and conserving land, energy and other resources."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Transportation Planning"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "People's governments at or above the county level shall incorporate national defence transport construction into the national economic and social development plans.\nWhen the State Council and its relevant departments and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government formulate development strategies, industrial policies and plans for the layout of transport networks for the transport industry and related fields, they shall take national defence needs into account and improve the capacity of the national comprehensive transport system to support national defence activities.\nThe relevant departments of the State Council shall incorporate the relevant national defence requirements into the technical standards and specifications for transport facilities and equipment. The relevant national defence requirements shall be summarised and proposed by the national competent institution for national defence transport after soliciting the opinions of the relevant departments of the military."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Transportation Planning"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Plans for the construction of national defence transport engineering facilities shall be formulated by the competent institutions for national defence transport of people's governments at or above the county level together with the competent transport departments of the people's governments at the same level, and shall be submitted to the people's governments at the same level for approval after examination by the development and reform departments of the people's governments at the same level.\nPlans for the construction of national defence transport engineering facilities at a lower level shall be formulated on the basis of the plans for the construction of national defence transport engineering facilities at the next higher level.\nIn formulating plans for the construction of national defence transport engineering facilities, the opinions of the relevant military organs and the relevant departments of the people's government at the same level shall be solicited. When the relevant departments of people's governments at or above the county level formulate development plans for the comprehensive transport system and plans for the construction of transport engineering facilities, they shall solicit the opinions of the competent institution for national defence transport of the people's government at the same level and incorporate the relevant content on the construction of national defence transport engineering facilities."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Transportation Planning"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Plans for the building of professional support teams for national defence transport shall be formulated by the national competent institution for national defence transport together with the relevant departments of the State Council and the relevant departments of the military."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Transportation Planning"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Plans for reserves of national defence transport materials shall be formulated by the competent institutions for national defence transport together with the relevant military and civilian departments.\nFor national defence transport materials reserved by the central authorities, the reserve plans shall be formulated by the national competent institution for national defence transport together with the competent transport department of the State Council and the relevant departments of the military.\nFor national defence transport materials reserved by local authorities, the reserve plans shall be formulated by the competent institutions for national defence transport of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government together with the relevant departments of the people's governments at the same level and the relevant military organs."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Transportation Planning"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Plans for scientific research on national defence transport shall be formulated by the national competent institution for national defence transport together with the relevant departments of the State Council and the relevant departments of the military."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II National Defence Transportation Planning"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The construction of national defence transport engineering facilities shall be based on the plans for the construction of national defence transport engineering facilities and shall ensure the smooth flow of national defence transport in wartime and under special peacetime circumstances.\nThe construction of other transport engineering facilities shall incorporate national defence requirements in accordance with the law, adopt engineering and technical measures to enhance their national defence functions in the course of construction, and improve the support capacity of national defence transport."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "National defence transport engineering facilities shall be designed, constructed and subjected to completion acceptance in accordance with the capital construction procedures, the relevant technical standards and specifications and national defence requirements. The competent institutions for national defence transport of the relevant people's governments shall organise the relevant departments of the military to participate in the design verification, completion acceptance and other work of the projects.\nProjects built to add national defence functions in the construction of transport engineering facilities shall be designed, constructed and accepted simultaneously with the principal works."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "National defence transport engineering facilities shall, on the premise of meeting the needs of national defence activities, provide convenience for economic and social activities."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The units administering national defence transport engineering facilities shall be responsible for the maintenance and administration of such facilities and shall preserve their national defence functions.\nWhere national defence transport engineering facilities need to be put to other uses or scrapped, the units administering them shall report level by level to the national competent institution for national defence transport or the competent institution for national defence transport authorised by it for approval.\nPeople's governments at or above the county level shall strengthen supervision and inspection of the maintenance and administration of national defence transport engineering facilities."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "No organisation or individual shall, in carrying out production or other activities, affect the normal use of national defence transport engineering facilities or endanger the safety of national defence transport engineering facilities."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The competent institutions for national defence transport of people's governments at or above the county level shall be responsible for ascertaining from the competent transport departments of the people's governments at the same level and the relevant enterprises and public institutions the establishment, design, construction and other circumstances of transport engineering facility construction projects; the competent transport departments of the relevant people's governments and the relevant enterprises and public institutions shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The competent institutions for national defence transport of people's governments at or above the county level shall promptly notify the relevant military organs of the construction of transport engineering facilities, solicit their opinions on incorporating national defence requirements, and propose, after summarisation, the specific projects that need to incorporate national defence requirements."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "For transport engineering facility construction projects that need to incorporate national defence requirements, the competent institutions for national defence transport of the relevant people's governments shall, together with the development and reform departments, finance departments and competent transport departments of the people's governments at the same level and the relevant military organs, determine through consultation with the construction units the specific matters concerning the incorporation of national defence requirements.\nThe additional costs incurred by new construction, reconstruction and expansion projects of transport engineering facilities for incorporating national defence requirements shall be borne by the State. The relevant departments shall support and ensure the implementation of the projects."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "People's governments at all levels shall, in respect of national defence transport engineering facility construction projects and transport engineering facility construction projects incorporating national defence requirements, give policy support in terms of land use, urban and rural planning, finance, taxes and fees and other aspects in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Transportation Engineering Facilities"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The national competent institution for national defence transport shall, in light of national defence needs and together with the relevant departments of the State Council and the relevant departments of the military, determine the categories and scope of civil means of transport that need to incorporate national defence requirements and promptly publish them to society.\nThe State shall encourage citizens and organisations to build, purchase and operate civil means of transport and their related equipment within the categories and scope specified in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Civil Means of Transport"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The competent institutions for national defence transport of people's governments at or above the county level shall ascertain from the registration and administration departments for civil means of transport and from the builders and purchasers the construction, purchase, use and other circumstances of civil means of transport that need to incorporate national defence requirements, and the relevant citizens and organisations shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Civil Means of Transport"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The competent institutions for national defence transport of people's governments at or above the county level shall promptly notify the relevant military organs of the basic circumstances of civil means of transport that they have ascertained, solicit their opinions on incorporating national defence requirements, and propose, after summarisation, the specific items of civil means of transport that need to incorporate national defence requirements."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Civil Means of Transport"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "For the specific items of civil means of transport that need to incorporate national defence requirements, the competent institutions for national defence transport of people's governments at or above the county level shall, together with the finance departments and competent transport departments of the people's governments at the same level and the relevant military organs, determine through consultation with the relevant citizens and organisations the specific matters concerning the incorporation of national defence requirements and conclude the relevant agreements."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Civil Means of Transport"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The additional costs incurred by civil means of transport for incorporating national defence requirements shall be borne by the State. The relevant departments shall support and ensure the implementation of the incorporation of national defence requirements in civil means of transport.\nPeople's governments at all levels shall, in respect of civil means of transport incorporating national defence requirements, give policy support in terms of service procurement, scope of operation and other aspects in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Civil Means of Transport"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The owners, lessees and operators of civil means of transport incorporating national defence requirements shall be responsible for the maintenance and administration of such means of transport and shall ensure their performance."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Civil Means of Transport"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The competent transport departments of people's governments at or above the county level shall, together with the relevant transport departments of the military, organise national defence transport in accordance with the principles of unified planning, centralised command, promptness and accuracy, and safety and confidentiality.\nCitizens and organisations undertaking national defence transport tasks shall give priority to arranging national defence transport tasks."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Transportation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall, relying mainly on large and medium-sized transport enterprises, organise the building of strategic projection support forces, enhance strategic projection capacity and provide effective support for the rapid organisation of long-distance, large-scale national defence transport.\nEnterprises undertaking strategic projection support tasks shall be responsible for organising personnel and equipment, formulate implementation plans in accordance with the relevant provisions, conduct the necessary training and drills, and improve their capacity to carry out strategic projection tasks."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Transportation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "People's governments at all levels and military organs shall strengthen the construction of support facilities such as supply and loading and unloading for national defence transport.\nLocal people's governments at or above the county level and the relevant enterprises and public institutions shall, in light of the needs of national defence transport, provide the necessary services or support in terms of food and drinking water supply, loading and unloading operations, medical rescue, passage and rest, and security guard."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Transportation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Institutions of the State stationed abroad and Chinese enterprises engaged in international transport business and their overseas institutions shall provide assistance in the supply and rest of the vessels, aircraft, vehicles and personnel of China's military operations for international rescue, maritime escort and safeguarding of the overseas interests of the State.\nThe relevant departments of the State shall provide the relevant facilitation for the exit and entry of the personnel and the means of transport, goods and other items required by the institutions and enterprises specified in the preceding paragraph to provide assistance for overseas military operations."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Transportation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The expenses incurred by citizens and organisations in completing national defence transport tasks shall be paid by the user units in accordance with the principle of not being lower than the market price. The specific measures shall be prescribed by the finance department and the competent transport department of the State Council and the Logistics Support Department of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Transportation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The military may, as needed, station military representatives in the relevant transport enterprises or in areas where transport enterprises are relatively concentrated, so as to complete national defence transport and transport support tasks together with the relevant units.\nThe units where military representatives are stationed and the relevant departments of the people's governments of the places where they are stationed shall provide facilitation for military representatives in carrying out their work.\nThe stationing and work duties of military representatives shall be governed by the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V National Defence Transportation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent institutions for national defence transport at all levels shall organise the relevant departments of the people's governments and the relevant military organs to formulate national defence transport support plans, specifying key transport targets and routes as well as the support principles, tasks, technical measures and organisational measures."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The relevant departments of the State Council and local people's governments at or above the county level shall, in accordance with the division of duties, organise the relevant enterprises and public institutions to carry out the emergency repair and rush construction of transport engineering facilities and the emergency repair of means of transport, so as to ensure the smooth conduct of national defence activities. The relevant military organs shall give support and assistance."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The units administering the key transport targets specified in the national defence transport support plans and the units scheduled to undertake support tasks shall, in accordance with the relevant provisions, formulate support contingency plans for key transport targets and make the relevant preparations."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "When key transport targets are threatened with destruction, the units administering them and the units scheduled to undertake support tasks shall immediately activate the support contingency plans and make the corresponding preparations; when key transport targets are destroyed, they shall, in accordance with the division of tasks, promptly organise and implement engineering reinforcement and emergency repair and rush construction, so as to restore transport as soon as possible.\nWhere other transport engineering facilities related to national defence transport are destroyed, the units administering them shall promptly report to the superior authorities through the administrative hierarchy and simultaneously organise repair."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The competent institutions for national defence transport of people's governments at or above the county level shall, together with the competent departments for land and resources, urban and rural planning and the like of the people's governments at the same level, determine the land on which important national defence transport engineering facilities are scheduled to be rush-constructed as the scope of national defence transport control, and incorporate it into the overall plan for land use and urban and rural plans.\nWithout the approval of the competent departments for land and resources and urban and rural planning and the competent institutions for national defence transport of people's governments at or above the county level, no organisation or individual may occupy land within the scope of national defence transport control."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Air defence and sea defence of key transport targets shall be incorporated by the relevant departments of the military into air defence and sea defence plans and implemented in a unified manner.\nGround defence of key transport targets shall be organised and implemented jointly by the people's governments at or above the county level of the places where they are located and the relevant military organs.\nEngineering and technical protection of key transport targets shall be organised and guided by the competent transport departments of the people's governments at or above the county level of the places where they are located, together with the competent institutions for national defence transport and the competent departments for civil air defence of the people's governments at the same level, for implementation by the administering units and support units.\nProtection of transport facilities other than key transport targets shall be carried out by the people's governments at or above the county level of the places where they are located in accordance with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "For special needs such as major military operations, national defence research and production tests, and the transport of confidential materials and dangerous goods related to national defence, the relevant departments of people's governments at or above the county level shall, in accordance with the prescribed limits of authority and procedures, take the necessary traffic management measures and safety protection measures in the land areas, water areas and airspace of the relevant regions. The relevant military organs shall provide assistance."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The competent transport departments of people's governments at or above the county level, the relevant military organs and the competent institutions for national defence transport shall, as needed, organise the relevant enterprises and public institutions to conduct training and drills for professional support teams for national defence transport.\nProfessional support teams for national defence transport shall be formed by enterprises and public institutions in accordance with the relevant provisions.\nThe living and welfare benefits of the members of professional support teams for national defence transport participating in training and drills shall be governed with reference to the relevant provisions on militia participating in military training."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where professional support teams for national defence transport carry out tasks such as the emergency repair, rush construction and protection of national defence transport engineering facilities, the emergency repair of civil means of transport and the rush transport of personnel and materials, they shall be deployed in a unified manner by the competent institutions for national defence transport of people's governments at or above the county level together with the competent transport departments of the people's governments at the same level.\nThe vehicles, vessels and other mobile equipment of professional support teams for national defence transport shall, when carrying out tasks, bear unified marks in accordance with the provisions of the national competent institution for national defence transport and may enjoy priority of passage."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "People's governments at all levels shall, in accordance with the relevant provisions, give policy support to enterprises and individuals undertaking national defence transport support tasks."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI National Defence Transportation Support"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State shall establish a system of reserves of national defence transport materials to ensure the needs of smooth national defence transport in wartime and under special peacetime circumstances.\nReserves of national defence transport materials shall be rationally laid out and of an appropriate scale, and the reserved materials shall meet the quality standards prescribed by the State.\nThe varieties of reserved national defence transport materials shall be prescribed by the national competent institution for national defence transport together with the relevant departments of the State Council and the relevant departments of the military."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Reserve of National Defence Transportation Materials"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The competent transport department of the State Council and the competent institutions for national defence transport of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the relevant provisions, designate the units for the storage and administration of reserved national defence transport materials and supervise and inspect the administration of reserved national defence transport materials.\nThe units for the storage and administration of reserved national defence transport materials shall establish and improve management systems, keep, maintain and renew the reserved materials in accordance with the relevant provisions and standards of the State, ensure the performance and safety of the reserved materials, and shall not misappropriate, damage or lose the reserved materials."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Reserve of National Defence Transportation Materials"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where it is necessary for carrying out tasks of transport protection and emergency repair and rush construction in wartime or under special peacetime circumstances, or for organising major military exercises, emergency rescue and disaster relief, and the training and drills of professional support teams for national defence transport, the reserved national defence transport materials may be allocated.\nThe allocation of national defence transport materials reserved by the central authorities shall be approved by the national competent institution for national defence transport; the allocation of national defence transport materials reserved by local authorities shall be approved by the competent institutions for national defence transport of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government.\nThe units for the storage and administration of reserved national defence transport materials shall strictly execute the orders for the allocation of reserved materials and shall not refuse or delay.\nWithout approval, no organisation or individual may use reserved national defence transport materials."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Reserve of National Defence Transportation Materials"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where reserved national defence transport materials have lost their reserve value due to product technology upgrading, replacement of the old with the new, or main technical performance being lower than the requirements for use and maintenance, they may be put to other uses or scrapped.\nWhere national defence transport materials reserved by the central authorities need to be put to other uses or scrapped, the national competent institution for national defence transport shall organise technical appraisal and examination and submit the matter to the finance department of the State Council for approval.\nWhere national defence transport materials reserved by local authorities need to be put to other uses or scrapped, the competent institutions for national defence transport of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall organise technical appraisal and examination and submit the matter to the finance departments of the people's governments at the same level for approval.\nThe proceeds obtained from putting to other uses or scrapping national defence transport materials reserved by the central and local authorities shall be turned over to the State treasury at the same level and included in budgetary management."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Reserve of National Defence Transportation Materials"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where any of the following acts is committed in violation of the provisions of this Law, the competent transport department or the competent institution for national defence transport of a people's government at or above the county level shall order rectification within a time limit and, in accordance with the law, impose disciplinary action on the responsible leading personnel and other directly responsible personnel; where illegal gains exist, they shall be confiscated, and a fine of not less than one time but not more than five times the illegal gains shall be imposed:\n(a) changing the use of national defence transport engineering facilities or scrapping them without authorisation;\n(b) refusing or intentionally delaying the execution of national defence transport tasks;\n(c) refusing or intentionally delaying the execution of emergency repair and rush construction tasks for key transport targets;\n(d) refusing or intentionally delaying the execution of orders for the allocation of reserved national defence transport materials;\n(e) changing the use of reserved national defence transport materials or scrapping them without authorisation;\n(f) using reserved national defence transport materials without authorisation;\n(g) failing to keep or maintain reserved national defence transport materials in accordance with the provisions, causing damage or loss.\nWhere the aforesaid illegal acts cause property losses, liability for compensation shall be borne in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where the staff of the competent institutions for national defence transport, the relevant military organs, the competent transport departments and other relevant departments violate the provisions of this Law and fall under any of the following circumstances, disciplinary action shall be taken in accordance with the law against the responsible leading personnel and other directly responsible personnel:\n(a) abusing power or neglecting duty, causing serious losses to national defence transport work;\n(b) embezzling or misappropriating national defence transport funds or materials;\n(c) disclosing State secrets and trade secrets learned of in national defence transport work;\n(d) infringing upon the lawful rights and interests of citizens or organisations in national defence transport work."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a person violates the provisions of this Law and the act constitutes a violation of public security administration, a public security administration penalty shall be imposed in accordance with the law; where the act constitutes a crime, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "For the purposes of this Law, national defence transport engineering facilities mean the transport infrastructure built by the State for national defence purposes and the engineering facilities dedicated to national defence transport such as command, maintenance and repair, loading and unloading, and storage facilities.\nFor the purposes of this Law, national defence transport means the activities in which the government and the military use military and civilian transport resources to transport personnel, equipment and materials for national defence purposes. Transport activities carried out by the military using its own resources shall be governed by the relevant provisions of the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "This Law applies to the construction, administration and use of information facilities and equipment and professional support teams closely related to national defence transport.\nWhere the State provides otherwise on information mobilisation, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 2017."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
         }
       }
     ]
@@ -25346,6 +32297,1818 @@
     ]
   };
 
+  TR['CN-LAW-0131'] = {
+    "lawId": "CN-LAW-0131",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 70 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in order to ensure the normal conduct of international criminal judicial assistance, strengthen international cooperation in the field of criminal justice, effectively punish crimes, protect the lawful rights and interests of individuals and organisations, and safeguard the interests of the State and social order."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, international criminal judicial assistance means the mutual provision of assistance between the People's Republic of China and foreign States in the investigation, detection, prosecution, trial, enforcement and other activities of criminal cases, including service of documents, investigation and evidence collection, arrangement for witnesses to testify or assist in investigation, sealing up, seizure and freezing of property involved in cases, confiscation and return of illegal gains and other property involved in cases, transfer of sentenced persons and other assistance."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Criminal judicial assistance between the People's Republic of China and foreign States shall be carried out in accordance with this Law.\nThe execution of requests for criminal judicial assistance made by foreign States shall be governed by this Law, the Criminal Procedure Law and the provisions of other relevant laws.\nAs regards matters such as the authority signing the request, the language of the request and the accompanying materials, and the relevant time limits for handling and specific procedures, they may, provided that the basic principles of the laws of the People's Republic of China are not violated, be handled in accordance with the provisions of the treaty on criminal judicial assistance or through consultation between the two parties."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The People's Republic of China and foreign States shall carry out international criminal judicial assistance in accordance with the principles of equality and mutual benefit.\nInternational criminal judicial assistance shall not harm the sovereignty, security and public interests of society of the People's Republic of China, nor violate the basic principles of the laws of the People's Republic of China.\nWithout the consent of the competent authority of the People's Republic of China, no foreign institution, organisation or individual may conduct criminal proceedings as provided for in this Law within the territory of the People's Republic of China, and no institution, organisation or individual within the territory of the People's Republic of China may provide evidentiary materials or the assistance provided for in this Law to a foreign State."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Criminal judicial assistance between the People's Republic of China and foreign States shall be conducted through external liaison authorities.\nThe external liaison authorities such as the Ministry of Justice of the People's Republic of China shall be responsible for submitting, receiving and transmitting requests for criminal judicial assistance and for handling other matters related to international criminal judicial assistance.\nWhere there is no treaty on criminal judicial assistance between the People's Republic of China and a foreign State, contact shall be made through diplomatic channels."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The National Commission of Supervision, the Supreme People's Court, the Supreme People's Procuratorate, the Ministry of Public Security, the Ministry of State Security and other departments are the competent authorities for carrying out international criminal judicial assistance; in accordance with the division of duties, they examine requests for criminal judicial assistance to be submitted to foreign States, examine and handle requests for criminal judicial assistance submitted by foreign States and transmitted by the external liaison authorities, and undertake other work related to international criminal judicial assistance. In cases of transfer of sentenced persons, the Ministry of Justice shall, in accordance with the division of duties, assume the corresponding duties of the competent authority.\nThe authorities handling cases related to criminal judicial assistance are the case-handling authorities for international criminal judicial assistance and shall be responsible for submitting to the competent authorities to which they belong the requests for criminal judicial assistance that need to be submitted to foreign States and for executing the requests for criminal judicial assistance submitted by foreign States that are assigned to them by the competent authorities to which they belong."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall guarantee the funds needed for carrying out international criminal judicial assistance."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The expenses arising from the mutual execution of requests for criminal judicial assistance between the People's Republic of China and foreign States shall, where a treaty so provides, be borne in accordance with the treaty; where there is no treaty or the treaty does not so provide, they shall be settled through consultation in accordance with the principles of equality and mutual benefit."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a case-handling authority needs to request criminal judicial assistance from a foreign State, it shall prepare a letter of request for criminal judicial assistance and attach the relevant materials, and the external liaison authority shall promptly submit the request to the foreign State after examination and approval by the competent authority to which the case-handling authority belongs."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A letter of request for criminal judicial assistance to a foreign State shall be submitted in accordance with the provisions of the treaty on criminal judicial assistance; where there is no treaty or the treaty does not so provide, the request may be submitted with reference to the provisions of Article 13 of this Law; where the requested State has special requirements, the request may, provided that the basic principles of the laws of the People's Republic of China are not violated, be submitted in accordance with the special requirements of the requested State.\nThe letter of request and the accompanying materials shall be prepared in Chinese and shall be accompanied by a translation in the official language of the requested State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a requested State puts forward additional conditions for executing a request for criminal judicial assistance that do not harm the sovereignty, security and public interests of society of the People's Republic of China, an undertaking may be given by the Ministry of Foreign Affairs. Where the requested State expressly states that an undertaking given by the external liaison authority is sufficient and valid, an undertaking may also be given by the external liaison authority. An undertaking to limit prosecution shall be decided by the Supreme People's Procuratorate; an undertaking on sentencing shall be decided by the Supreme People's Court.\nWhen pursuing the criminal responsibility of the persons involved in a case, the relevant authorities shall be bound by the undertakings given."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "After the external liaison authority receives the relevant notification or the result of execution from a foreign State, it shall promptly transmit or communicate it to the relevant competent authority.\nWhere a foreign State requests notification of the outcome of proceedings in a case for which it has provided criminal judicial assistance, the external liaison authority shall transmit the request to the relevant competent authority for handling."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a foreign State submits a request for criminal judicial assistance to the People's Republic of China, it shall submit a letter of request in accordance with the provisions of the treaty on criminal judicial assistance. Where there is no treaty or the treaty does not so provide, the letter of request shall state the following matters and be accompanied by the relevant materials:\n(a) the name of the requesting authority;\n(b) the nature of the case, the basic information of the persons involved and the facts of the crime;\n(c) the legal provisions applicable to the case;\n(d) the matters requested and the purpose thereof;\n(e) the relevance between the matters requested and the case;\n(f) the time limit within which the request is expected to be executed;\n(g) other necessary information or additional requirements.\nIn the absence of a treaty on criminal judicial assistance, the requesting State shall give an undertaking of reciprocity.\nThe letter of request and the accompanying materials shall be accompanied by a Chinese translation."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Assistance may be refused where a request for criminal judicial assistance submitted by a foreign State to the People's Republic of China falls under any of the following circumstances:\n(a) under the laws of the People's Republic of China, the conduct to which the request relates does not constitute a crime;\n(b) at the time the request is received, investigation, detection, prosecution or trial is under way within the territory of the People's Republic of China in respect of the crime to which the request relates, a judgment that has taken legal effect has already been rendered, the criminal proceedings have been terminated, or the limitation period for prosecution of the crime has expired;\n(c) the crime to which the request relates is a political crime;\n(d) the crime to which the request relates is purely a military crime;\n(e) the purpose of the request is to conduct investigation, detection, prosecution, trial or enforcement of punishment on grounds of race, ethnicity, religion, nationality, gender, political opinion, status or the like, or the persons concerned may be subjected to unfair treatment on the aforesaid grounds;\n(f) there is a lack of substantive connection between the matters requested and the case for which assistance is requested;\n(g) other circumstances in which assistance may be refused."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "After the external liaison authority receives a request for criminal judicial assistance submitted by a foreign State, it shall examine the letter of request and the accompanying materials. Where the form and content of the letter of request meet the requirements, it shall, in accordance with the division of duties, transmit the letter of request and the accompanying materials to the relevant competent authority for handling; where the form and content of the letter of request do not meet the requirements, it may ask the requesting State to supplement the materials or to submit a new request.\nWhere a request for criminal judicial assistance clearly harms the sovereignty, security and public interests of society of the People's Republic of China, the external liaison authority may directly refuse assistance."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "After the competent authority receives the letter of request for criminal judicial assistance and the accompanying materials transmitted by the external liaison authority, it shall examine them and deal with them respectively as follows:\n(a) where it considers, in accordance with the provisions of this Law and the treaty on criminal judicial assistance, that assistance may be executed, it shall make a decision and arrange for the relevant case-handling authority to execute it;\n(b) where it considers, in accordance with the provisions of Article 4 or Article 14 of this Law or of the treaty on criminal judicial assistance, that assistance should be refused in whole or in part, it shall return the letter of request and the accompanying materials to the external liaison authority and state the reasons;\n(c) where there are requirements of confidentiality or other additional conditions for the execution of the request, it shall put them to the foreign State through the external liaison authority and, after the foreign State accepts the conditions and gives a written guarantee, decide to execute subject to conditions;\n(d) where supplementary materials are needed, it shall notify the external liaison authority in writing and ask it to require the requesting State to provide them within a reasonable time limit.\nWhere the execution of a request may impede an ongoing investigation, detection, prosecution, trial or enforcement by the relevant authority of the People's Republic of China, the competent authority may decide to postpone assistance and shall notify the external liaison authority in writing of the decision to postpone assistance and the reasons therefor.\nWhere a foreign State has requirements of confidentiality or requirements for special procedures for the execution of its request, the competent authority may, provided that the basic principles of the laws of the People's Republic of China are not violated, arrange execution in accordance with those requirements."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After the case-handling authority receives a request for criminal judicial assistance from a foreign State assigned by the competent authority, it shall execute it in accordance with the law and shall promptly report the result of execution or the circumstances impeding execution to the competent authority.\nIn the course of executing a request, the case-handling authority shall safeguard the lawful rights and interests of the parties and other relevant persons and protect personal information."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a foreign State requests that evidentiary materials obtained through criminal judicial assistance be used for purposes other than the case to which the request relates, the external liaison authority shall transmit the matter to the competent authority, which shall decide whether to consent."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "After the external liaison authority receives the relevant notification or the result of execution from the competent authority, it shall promptly transmit or communicate it to the requesting State.\nIn a case in which the People's Republic of China provides criminal judicial assistance, the competent authority may, through the external liaison authority, request the foreign State to notify the outcome of the proceedings.\nWhere a foreign State notifies the outcome of the proceedings, the external liaison authority shall, after receiving the relevant materials, promptly transmit or communicate them to the competent authority and, where criminal proceedings against a citizen of the People's Republic of China are involved, shall also notify the Ministry of Foreign Affairs."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Criminal Judicial Assistance"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a case-handling authority needs a foreign State to assist in serving summonses, notices, indictments, judgments and other judicial documents, it shall prepare a letter of request for criminal judicial assistance and attach the relevant materials, and the external liaison authority shall promptly submit the request to the foreign State after examination and approval by the competent authority to which the case-handling authority belongs."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Service of Documents"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a request is made to a foreign State for service of documents, the letter of request shall state the name of the person to be served, the address for service and the relevant rights and obligations that need to be communicated to the person to be served."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Service of Documents"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "A foreign State may request the People's Republic of China to assist in serving summonses, notices, indictments, judgments and other judicial documents. Assistance by the People's Republic of China in serving judicial documents does not imply recognition of the legal effect of the foreign judicial documents.\nA request for assistance in serving a summons to appear in court shall be submitted within the time limit prescribed by the relevant treaty. Where there is no treaty or the treaty does not so provide, it shall be submitted no later than three months before the opening of the trial.\nThe People's Republic of China shall not be obliged to assist in serving a summons requiring a citizen of the People's Republic of China to submit to questioning or to appear in court as a defendant."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Service of Documents"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a foreign State requests the People's Republic of China to serve documents, the letter of request shall state the name of the person to be served, the address for service and the relevant rights and obligations that need to be communicated to the person to be served."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Service of Documents"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The people's court or other case-handling authority responsible for executing assistance in the service of documents shall promptly inform the external liaison authority of the result of execution through the competent authority to which it belongs, and the external liaison authority shall inform the requesting State. Except in circumstances where service is impossible, a receipt of service signed by the person served or other supporting documents shall be attached."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Service of Documents"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a case-handling authority needs a foreign State to assist in investigation and evidence collection in respect of the following matters, it shall prepare a letter of request for criminal judicial assistance and attach the relevant materials, and the external liaison authority shall promptly submit the request to the foreign State after examination and approval by the competent authority to which the case-handling authority belongs:\n(a) locating and identifying the persons concerned;\n(b) inquiring into and verifying information on property involved in the case and financial accounts;\n(c) obtaining and providing the testimony or statements of the persons concerned;\n(d) obtaining and providing the relevant documents, records, electronic data and articles;\n(e) obtaining and providing expert opinions;\n(f) conducting inquests or examinations of sites, articles, persons and corpses;\n(g) searching persons, articles, residences and other relevant premises;\n(h) other matters.\nWhen requesting a foreign State to assist in investigation and evidence collection, the case-handling authority may simultaneously request that its personnel be present during the execution of the request."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Investigation and Collection of Evidence"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a request is made to a foreign State for investigation and evidence collection, the letter of request and the accompanying materials shall, as needed, state the following matters:\n(a) the name, gender, address, identity information and contact details of the person to be investigated and other information helpful for confirming the identity of that person;\n(b) the questions to be put to the person to be investigated;\n(c) the name, gender, address, identity information and contact details, appearance and behavioural characteristics of the persons to be located and identified and other information helpful for locating and identifying them;\n(d) specific information such as the ownership, location, characteristics, appearance and quantity of the property involved in the case that needs to be inquired into and verified, and the relevant information on financial accounts that needs to be inquired into and verified;\n(e) specific information such as the holder, location, characteristics, appearance and quantity of the relevant documents, records, electronic data and articles that need to be obtained;\n(f) specific information on the object to be appraised;\n(g) specific information on the sites, articles and the like to be inspected or examined;\n(h) specific information on the objects to be searched;\n(i) other materials helpful for executing the request."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Investigation and Collection of Evidence"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where the requested State requires the return of the evidentiary materials or articles it has provided, the case-handling authority shall return them through the external liaison authority as soon as possible."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Investigation and Collection of Evidence"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A foreign State may request the People's Republic of China to assist in investigation and evidence collection in respect of the matters specified in paragraph 1 of Article 25 of this Law.\nWhere a foreign State requests the People's Republic of China to conduct investigation and evidence collection, the letter of request and the accompanying materials shall, as needed, state the matters specified in Article 26 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Investigation and Collection of Evidence"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "When a foreign State requests the People's Republic of China to conduct investigation and evidence collection, it may simultaneously request that its personnel be present during the execution of the request. Personnel permitted to be present shall abide by the laws of the People's Republic of China and submit to the arrangements of the competent authority and the case-handling authority."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Investigation and Collection of Evidence"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the case-handling authority requires the requesting State to guarantee the return of the evidentiary materials or articles it has provided and the requesting State gives such a guarantee, they may be provided."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Investigation and Collection of Evidence"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a case-handling authority needs a foreign State to assist in arranging for witnesses or expert witnesses to come to the People's Republic of China to testify or to testify by video or audio means, or to assist in investigation, it shall prepare a letter of request for criminal judicial assistance and attach the relevant materials, and the external liaison authority shall promptly submit the request to the foreign State after examination and approval by the competent authority to which the case-handling authority belongs."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Arranging Witness Testimony or Assistance in Investigation"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a request is made to a foreign State to arrange for witnesses or expert witnesses to testify or assist in investigation, the letter of request and the accompanying materials shall, as needed, state the following matters:\n(a) the name, gender, address, identity information and contact details of the witnesses or expert witnesses and other information helpful for confirming their identity;\n(b) the purpose, necessity, time and place of the testimony or assistance in investigation;\n(c) the rights and obligations of the witnesses or expert witnesses;\n(d) the protective measures for the witnesses or expert witnesses;\n(e) the allowances for the witnesses or expert witnesses;\n(f) other materials helpful for executing the request."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Arranging Witness Testimony or Assistance in Investigation"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Witnesses and expert witnesses who come to the People's Republic of China to testify or assist in investigation shall not be prosecuted for crimes committed before their entry into the country; their personal freedom shall not be restricted except where compulsory measures are taken against them for illegal or criminal acts committed after entry.\nWhere witnesses or expert witnesses fail to leave the country within the time limit prescribed by the treaty or within 15 days after being notified that they need not stay any longer, the provisions of the preceding paragraph shall no longer apply, except where they are unable to leave the country due to force majeure or other special reasons."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Arranging Witness Testimony or Assistance in Investigation"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The case-handling authority shall, in accordance with the law, give allowances to witnesses and expert witnesses who come to the People's Republic of China to testify or assist in investigation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Arranging Witness Testimony or Assistance in Investigation"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where persons who come to the People's Republic of China to testify or assist in investigation are persons in custody, the external liaison authority shall, together with the competent authority, reach an agreement in advance with the requested State on matters concerning the transfer of the persons in custody.\nThe competent authority and the case-handling authority shall observe the content of the agreement, detain the transferred persons in accordance with the law, and promptly send them back to the requested State after the testimony or assistance in investigation is completed."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Arranging Witness Testimony or Assistance in Investigation"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A foreign State may request the People's Republic of China to assist in arranging for witnesses or expert witnesses to go to the foreign State to testify or to testify by video or audio means, or to assist in investigation.\nWhere a foreign State requests the People's Republic of China to arrange for witnesses or expert witnesses to testify or assist in investigation, the letter of request and the accompanying materials shall, as needed, state the matters specified in Article 32 of this Law.\nThe requesting State shall give a written guarantee in respect of the content specified in paragraph 1 of Article 33 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Arranging Witness Testimony or Assistance in Investigation"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where witnesses or expert witnesses give written consent to testify or assist in investigation, the case-handling authority shall promptly notify the external liaison authority of the wishes, requirements and conditions of the witnesses or expert witnesses through the competent authority to which it belongs, and the external liaison authority shall notify the requesting State.\nWhere arrangements are made for witnesses or expert witnesses to testify by video or audio means, the competent authority or the case-handling authority shall send personnel to be present and shall promptly stop any circumstance that harms the sovereignty, security and public interests of society of the People's Republic of China or violates the basic principles of the laws of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Arranging Witness Testimony or Assistance in Investigation"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a foreign State requests the transfer of a person in custody to go abroad to testify or assist in investigation and guarantees to promptly send the person in custody back after the testimony or assistance in investigation is completed, the external liaison authority shall seek the opinions of the competent authority and the person in custody. Where both the competent authority and the person in custody agree to the person going abroad to testify or assist in investigation, the external liaison authority shall, together with the competent authority, reach an agreement in advance with the requesting State on matters concerning the transfer of the person in custody.\nThe period during which a person in custody is held in custody in a foreign State shall be credited against the term of punishment imposed on that person in the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Arranging Witness Testimony or Assistance in Investigation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a case-handling authority needs a foreign State to assist in sealing up, seizing or freezing property involved in a case, it shall prepare a letter of request for criminal judicial assistance and attach the relevant materials, and the external liaison authority shall promptly submit the request to the foreign State after examination and approval by the competent authority to which the case-handling authority belongs.\nWhere a foreign State has special requirements for assisting in executing a request of the People's Republic of China to seal up, seize or freeze property involved in a case, consent may be given provided that the basic principles of the laws of the People's Republic of China are not violated. Where a decision by a judicial organ is required, the decision shall be made by a people's court."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Seizure, Distraint and Freezing of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a request is made to a foreign State to seal up, seize or freeze property involved in a case, the letter of request and the accompanying materials shall, as needed, state the following matters:\n(a) the documents of title, names, characteristics, appearance and quantity of the property involved in the case that needs to be sealed up, seized or frozen;\n(b) the location of the property involved in the case that needs to be sealed up, seized or frozen. Where funds or other financial assets are deposited with a financial institution, the name, address and account information of the financial institution shall be stated;\n(c) copies of the relevant legal documents;\n(d) the legal provisions on sealing up, seizure and freezing and on the protection of the rights of interested parties;\n(e) other materials helpful for executing the request."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Seizure, Distraint and Freezing of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the time limit for sealing up, seizure or freezing determined by a foreign State expires and the case-handling authority needs the foreign State to continue to seal up, seize or freeze the relevant property involved in the case, it shall submit a further request to the foreign State.\nWhere the case-handling authority decides to release the seal, seizure or freezing, it shall promptly notify the requested State."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Seizure, Distraint and Freezing of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A foreign State may request the People's Republic of China to assist in sealing up, seizing or freezing property involved in a case within the territory of the People's Republic of China.\nWhere a foreign State requests the People's Republic of China to seal up, seize or freeze property involved in a case, the letter of request and the accompanying materials shall, as needed, state the matters specified in Article 40 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Seizure, Distraint and Freezing of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the competent authority, after examination, considers that the following conditions are met, it may consent to the sealing up, seizure or freezing of property involved in a case and arrange for the relevant case-handling authority to execute:\n(a) the sealing up, seizure or freezing meets the conditions prescribed by the laws of the People's Republic of China;\n(b) the sealing up, seizure or freezing of the property involved in the case is related to the investigation, detection, prosecution and trial activities of the criminal case being conducted by the requesting State;\n(c) the property involved in the case can be sealed up, seized or frozen;\n(d) the execution of the request does not affect the lawful rights and interests of interested parties;\n(e) the execution of the request does not affect the ongoing investigation, detection, prosecution, trial and enforcement activities of the relevant authority of the People's Republic of China.\nThe case-handling authority shall promptly notify the external liaison authority through the competent authority, and the external liaison authority shall inform the requesting State of the result of the sealing up, seizure or freezing. Where necessary, the case-handling authority may, in accordance with the law, take measures to deal with the property involved in the case that has been sealed up, seized or frozen."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Seizure, Distraint and Freezing of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the time limit for sealing up, seizure or freezing expires and a foreign State needs to continue to seal up, seize or freeze the relevant property involved in the case, it shall submit a further request to the external liaison authority.\nWhere a foreign State decides to release the seal, seizure or freezing, the external liaison authority shall, through the competent authority, notify the case-handling authority to release it promptly."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Seizure, Distraint and Freezing of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where an interested party objects to the sealing up, seizure or freezing and the case-handling authority, after examination, considers that the sealing up, seizure or freezing does not meet the conditions specified in paragraph 1 of Article 43 of this Law, it shall report to the competent authority for a decision to release the sealing up, seizure or freezing and notify the external liaison authority, and the external liaison authority shall inform the requesting State; where the interested party objects to the handling of the case, the case-handling authority may transmit the objection through the competent authority to which it belongs to the external liaison authority, and the external liaison authority shall put it to the requesting State."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Seizure, Distraint and Freezing of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the sealing up, seizure or freezing is improper due to reasons attributable to the requesting State and causes damage to the lawful rights and interests of interested parties, the case-handling authority may, through the external liaison authority, require the requesting State to bear liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Seizure, Distraint and Freezing of Property Involved in Cases"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a case-handling authority needs a foreign State to assist in confiscating illegal gains and other property involved in a case, it shall prepare a letter of request for criminal judicial assistance and attach the relevant materials, and the external liaison authority shall promptly submit the request to the foreign State after examination and approval by the competent authority to which the case-handling authority belongs.\nWhere a request is made to a foreign State to return illegal gains and other property involved in a case to the People's Republic of China or to the victims, the request may be made together with the request for confiscation submitted to the foreign State or separately.\nWhere a foreign State has special requirements for the return of illegal gains and other property involved in a case that have been sealed up, seized or frozen, consent may be given provided that the basic principles of the laws of the People's Republic of China are not violated. Where a decision by a judicial organ is required, the decision shall be made by a people's court."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Confiscation and Return of Illegal Gains and Other Property Involved in Cases"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a request is made to a foreign State to confiscate and return illegal gains and other property involved in a case, the letter of request and the accompanying materials shall, as needed, state the following matters:\n(a) the names, characteristics, appearance and quantity of the illegal gains and other property involved in the case that need to be confiscated and returned;\n(b) the location of the illegal gains and other property involved in the case that need to be confiscated and returned. Where funds or other financial assets are deposited with a financial institution, the name, address and account information of the financial institution shall be stated;\n(c) the reasons for confiscation and return and the relevant documents of title;\n(d) copies of the relevant legal documents;\n(e) the legal provisions on confiscation and return and on the protection of the rights of interested parties;\n(f) other materials helpful for executing the request."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Confiscation and Return of Illegal Gains and Other Property Involved in Cases"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a foreign State assists in confiscating and returning illegal gains and other property involved in a case, the external liaison authority shall, together with the competent authority, consult with the foreign State on matters concerning the transfer of the property.\nWhere a foreign State puts forward a request for sharing in respect of a request to that State for assistance in confiscating and returning illegal gains and other property involved in a case, the amount or proportion of the share shall be determined through consultation between the external liaison authority and the competent authority on the one hand and the foreign State on the other."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 1 Requests to Foreign States for Confiscation and Return of Illegal Gains and Other Property Involved in Cases"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "A foreign State may request the People's Republic of China to assist in confiscating and returning illegal gains and other property involved in a case.\nWhere a foreign State requests the People's Republic of China to assist in confiscating and returning illegal gains and other property involved in a case, the letter of request and the accompanying materials shall, as needed, state the matters specified in Article 48 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Confiscation and Return of Illegal Gains and Other Property Involved in Cases"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the competent authority, after examination, considers that the following conditions are met, it may consent to assist in confiscating illegal gains and other property involved in a case and arrange for the relevant case-handling authority to execute:\n(a) the confiscation of the illegal gains and other property involved in the case meets the conditions prescribed by the laws of the People's Republic of China;\n(b) the foreign State has fully safeguarded the relevant rights of interested parties;\n(c) there is property within the People's Republic of China available for execution;\n(d) the letter of request and the accompanying materials describe in detail information such as the ownership, names, characteristics, appearance and quantity of the property to which the request relates;\n(e) the confiscation cannot be executed or cannot be fully executed in the requesting State;\n(f) other conditions that the competent authority considers should be met."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Confiscation and Return of Illegal Gains and Other Property Involved in Cases"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a foreign State requests assistance in confiscating illegal gains and other property involved in a case, assistance may be refused and the reasons stated where any of the following circumstances exists:\n(a) a judicial organ of the People's Republic of China or of a third State has already rendered a judgment that has taken legal effect in respect of the property to which the request relates and has completed its execution or is executing it;\n(b) the property to which the request relates does not exist, has been destroyed, lost or sold, or has been transferred so that execution is impossible, except where the request is for the confiscation of the proceeds of sale or of the property after transfer;\n(c) the person to whom the request relates has unsettled debts or unfinished litigation within the territory of the People's Republic of China;\n(d) other circumstances in which assistance may be refused."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Confiscation and Return of Illegal Gains and Other Property Involved in Cases"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a foreign State requests the return of illegal gains and other property involved in a case and can provide reliable and sufficient evidence to prove the matter, the competent authority may, if it considers after examination that the conditions prescribed by the laws of the People's Republic of China are met, consent and arrange for the relevant case-handling authority to execute. Before the return, the case-handling authority may deduct the reasonable expenses incurred in executing the request."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Confiscation and Return of Illegal Gains and Other Property Involved in Cases"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "In respect of a foreign State's request for assistance in confiscating and returning illegal gains and other property involved in a case, the external liaison authority may, together with the competent authority, put forward a request for sharing. The amount or proportion of the share shall be determined through consultation between the external liaison authority and the competent authority on the one hand and the foreign State on the other."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 2 Requests to the People's Republic of China for Confiscation and Return of Illegal Gains and Other Property Involved in Cases"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A foreign State may request the People's Republic of China to transfer a sentenced person of foreign nationality, and the People's Republic of China may request a foreign State to transfer a sentenced person of foreign nationality."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 1 Transfer of Sentenced Persons to Foreign States"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The transfer of a sentenced person to a foreign State shall meet the following conditions:\n(a) the sentenced person is a national of that State;\n(b) the conduct for which the punishment was imposed on the sentenced person also constitutes a crime under the laws of that State;\n(c) the judgment imposing the punishment on the sentenced person has taken legal effect;\n(d) the sentenced person has consented in writing to the transfer, or, where it is truly necessary due to the age, physical or mental condition of the sentenced person, the sentenced person's representative has consented in writing to the transfer;\n(e) both the People's Republic of China and that State agree to the transfer.\nThe transfer may be refused under any of the following circumstances:\n(a) the sentenced person has been sentenced to death with a two-year reprieve or to life imprisonment, except where the sentence has already been commuted to fixed-term imprisonment at the time the transfer is requested;\n(b) at the time the transfer is requested, the remaining term of the sentence of the sentenced person is less than one year;\n(c) the sentenced person has unfinished litigation within the territory of the People's Republic of China;\n(d) other circumstances in which transfer is inappropriate."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 1 Transfer of Sentenced Persons to Foreign States"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a request is made to a foreign State to transfer a sentenced person, the letter of request and the accompanying materials shall, as needed, state the following matters:\n(a) the name of the requesting authority;\n(b) the name, gender, nationality and identity information of the sentenced person whose transfer is requested and other information;\n(c) the place where the sentenced person is serving the sentence;\n(d) the basis and reasons for requesting the transfer;\n(e) a written statement of the sentenced person or the sentenced person's representative consenting to the transfer;\n(f) other matters."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 1 Transfer of Sentenced Persons to Foreign States"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The competent authority shall verify the willingness of the sentenced person to be transferred. Where a foreign State requests that personnel be sent to verify the willingness of the sentenced person to be transferred, the competent authority may make arrangements."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 1 Transfer of Sentenced Persons to Foreign States"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where a foreign State submits a request to the People's Republic of China for the transfer of a sentenced person, or where the competent authority considers it necessary to submit a request to a foreign State for the transfer of a sentenced person, the competent authority shall, together with the relevant competent departments, decide whether to consent to the foreign request or to submit the request to the foreign State. After a decision consenting to the foreign request for transfer is made, the external liaison authority shall notify the requesting State and the sentenced person in writing."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 1 Transfer of Sentenced Persons to Foreign States"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The transfer of a sentenced person shall be executed by the punishment execution authority designated by the competent authority. Matters of execution such as the time, place and manner of the transfer of the sentenced person shall be determined through consultation between the competent authority and the foreign State."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 1 Transfer of Sentenced Persons to Foreign States"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where a sentenced person, after transfer, files a petition against the original effective judgment, the petition shall be filed with the people's court of the People's Republic of China that has jurisdiction.\nWhere the people's court modifies or sets aside the original effective judgment, it shall promptly notify the foreign State."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 1 Transfer of Sentenced Persons to Foreign States"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The People's Republic of China may request a foreign State to transfer a sentenced person of Chinese nationality, and a foreign State may request the People's Republic of China to transfer a sentenced person of Chinese nationality. The specific conditions and procedures for the transfer shall be governed with reference to the relevant provisions of Section 1 of this Chapter."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 2 Transfer of Sentenced Persons to the People's Republic of China"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "After a sentenced person is transferred back to the country, the punishment execution authority designated by the competent authority shall hold the person in custody in advance."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 2 Transfer of Sentenced Persons to the People's Republic of China"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The people's procuratorate shall prepare an application for conversion of sentence and attach the relevant materials, and shall submit it to the intermediate people's court of the place where the punishment execution authority is located for a ruling on conversion of sentence.\nThe people's court shall make a ruling on conversion of sentence on the basis of the facts established by the judgment of the foreign court and in accordance with the provisions of the Criminal Law. Where the nature and duration of the punishment imposed by the foreign court conform to the provisions of the laws of the People's Republic of China, the conversion shall be made in accordance with the punishment and duration imposed; where the nature and duration of the punishment imposed by the foreign court do not conform to the provisions of the laws of the People's Republic of China, the type and term of punishment shall be determined in accordance with the following principles:\n(a) the converted punishment shall be consistent with the punishment imposed by the foreign court as far as possible;\n(b) the converted punishment shall not be heavier than the punishment imposed by the foreign court in nature or term, nor exceed the maximum term prescribed by the Criminal Law of the People's Republic of China for the same category of crime;\n(c) a punishment of deprivation of liberty shall not be converted into a property penalty;\n(d) the converted punishment shall not be subject to the minimum term prescribed by the Criminal Law of the People's Republic of China for the same category of crime.\nWhere a sentenced person was held in custody before returning to the country to serve the sentence, one day in custody shall be credited as one day of the converted term of punishment.\nA ruling on conversion of sentence made by a people's court is a final ruling."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 2 Transfer of Sentenced Persons to the People's Republic of China"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "The punishment execution authority shall, in accordance with the ruling on conversion of sentence, take into custody and execute the punishment on the sentenced person transferred back to the country. The execution of punishment and commutation of sentence, parole, temporary execution of sentence outside prison and the like shall be handled in accordance with the laws of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 2 Transfer of Sentenced Persons to the People's Republic of China"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Where a sentenced person, after being transferred back to the country, lodges a petition against the judgment of the foreign court, the petition shall be filed with the court of the foreign State that has jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 2 Transfer of Sentenced Persons to the People's Republic of China"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Criminal judicial assistance between the People's Republic of China and the relevant international organisations shall be governed with reference to the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Requests for criminal judicial assistance submitted to the People's Republic of China and the documents and evidentiary materials provided at the request of the People's Republic of China shall be subject to notarisation and authentication in accordance with the provisions of the treaty. Where there is no treaty or the treaty does not so provide, they shall be handled in accordance with the principle of reciprocity."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "For the purposes of this Law, treaties on criminal judicial assistance mean treaties on criminal judicial assistance, treaties on the transfer of sentenced persons, or other treaties containing provisions on criminal judicial assistance or the transfer of sentenced persons, concluded by the People's Republic of China with foreign States or to which the People's Republic of China and foreign States are both parties."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "This Law shall enter into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0132'] = {
+    "lawId": "CN-LAW-0132",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 84 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution in order to safeguard national security, protect the political power of the people's democratic dictatorship and the socialist system with Chinese characteristics, protect the fundamental interests of the people, ensure the smooth progress of reform and opening up and socialist modernisation, and achieve the great rejuvenation of the Chinese nation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "National security means a state in which the political power, sovereignty, unity and territorial integrity of the State, the well-being of the people, the sustainable development of the economy and society and other major interests of the State are relatively free from danger and from internal and external threats, as well as the capacity to ensure a continued state of security."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "National security work shall uphold the holistic approach to national security, take the security of the people as its purpose, political security as its foundation, economic security as its basis, military, cultural and social security as its guarantee and the promotion of international security as its support, safeguard national security in all fields, build a national security system and follow the path of national security with Chinese characteristics."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The leadership of the Communist Party of China over national security work shall be upheld, and a centralised, unified, highly efficient and authoritative national security leadership system shall be established."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The central leading institution for national security shall be responsible for decision-making, deliberation and coordination in national security work, study and formulate, and guide the implementation of, the national security strategy and the relevant major guidelines and policies, make overall plans and coordinate major matters and important work in national security, and advance the development of the rule of law in national security."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall formulate and continuously improve the national security strategy, comprehensively assess the international and domestic security situation, and specify the guiding guidelines, medium- and long-term goals, national security policies in key fields, work tasks and measures of the national security strategy."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Safeguarding national security shall comply with the Constitution and the laws, uphold the principle of the socialist rule of law, respect and protect human rights, and protect the rights and freedoms of citizens in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Safeguarding national security shall be coordinated with economic and social development.\nNational security work shall coordinate internal security and external security, homeland security and the security of the people, traditional security and non-traditional security, and the security of the State itself and common security."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Safeguarding national security shall uphold the primacy of prevention, address both the symptoms and the root causes, combine specialised work with the mass line, give full play to the functions of the specialised organs and other relevant organs in safeguarding national security, widely mobilise citizens and organisations, and prevent, stop and punish in accordance with the law acts endangering national security."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Safeguarding national security shall uphold mutual trust, mutual benefit, equality and coordination, actively carry out security exchanges and cooperation with foreign governments and international organisations, perform international security obligations, promote common security and safeguard world peace."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Citizens of the People's Republic of China, all State organs and the armed forces, all political parties and people's organisations, enterprises and public institutions and other social organisations all have the responsibility and obligation to safeguard national security.\nThe sovereignty and territorial integrity of China are inviolable and indivisible. Safeguarding national sovereignty, unity and territorial integrity is the common obligation of all the Chinese people, including compatriots in Hong Kong, Macao and Taiwan."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State shall commend and reward individuals and organisations that make outstanding contributions in the work of safeguarding national security."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where staff of State organs abuse power, neglect duty or engage in malpractices for personal gain in national security work and in activities involving national security, legal responsibility shall be pursued in accordance with the law.\nWhere any individual or organisation violates this Law and the relevant laws by failing to perform the obligation of safeguarding national security or by engaging in activities endangering national security, legal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "15 April of each year is the National Security Education Day for All Citizens."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall uphold the leadership of the Communist Party of China, safeguard the socialist system with Chinese characteristics, develop socialist democratic politics, improve the socialist rule of law, strengthen the mechanisms for restricting and supervising the exercise of power, and guarantee the various rights of the people to be masters of the country.\nThe State shall prevent, stop and punish in accordance with the law any act of treason, secession, incitement to rebellion, or subversion or incitement to subvert the political power of the people's democratic dictatorship; prevent, stop and punish in accordance with the law acts endangering national security such as stealing or divulging State secrets; and prevent, stop and punish in accordance with the law infiltration, sabotage, subversion and separatist activities by forces outside the territory."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State shall safeguard and develop the fundamental interests of the overwhelming majority of the people, safeguard the security of the people, create favourable conditions for survival and development and a stable working and living environment, and protect the safety of citizens' lives and property and other lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State shall strengthen the construction of border defence, coastal defence and air defence, take all necessary defence and control measures, safeguard the security of the land territory, inland waters, territorial sea and territorial airspace, and safeguard national territorial sovereignty and maritime rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State shall strengthen the revolutionary, modern and regularised building of the armed forces and build armed forces commensurate with the needs of safeguarding national security and development interests; implement the military strategic guideline of active defence, guard against and resist aggression, and stop armed subversion and separatism; carry out international military security cooperation, carry out military operations for United Nations peacekeeping, international rescue, maritime escort and safeguarding the overseas interests of the State, and safeguard national sovereignty, security, territorial integrity, development interests and world peace."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall safeguard the basic economic system of the State and the order of the socialist market economy, improve the systems and mechanisms for preventing and resolving economic security risks, and safeguard the security of important industries and key fields, key industries, major infrastructure and major construction projects that are vital to the lifeline of the national economy, as well as other major economic interests."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State shall improve macroprudential management of finance and the mechanisms for preventing and handling financial risks, strengthen the construction of financial infrastructure and basic capacity, prevent and resolve systemic and regional financial risks, and prevent and withstand the impact of external financial risks."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall rationally use and protect resources and energy, effectively control the development of strategic resources and energy, strengthen reserves of strategic resources and energy, improve the construction of strategic transport corridors for resources and energy and the safety protection measures therefor, strengthen international cooperation on resources and energy, comprehensively enhance emergency support capacity, and ensure a sustained, reliable and effective supply of the resources and energy needed for economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall improve the system for ensuring food security, protect and increase the comprehensive grain production capacity, improve the grain reserve system, circulation system and market regulation mechanisms, improve the early warning system for food security, and ensure grain supply and quality safety."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The State shall adhere to the direction of advancement of socialist advanced culture, inherit and carry forward the fine traditional culture of the Chinese nation, cultivate and practise the core socialist values, prevent and resist the influence of unhealthy culture, hold the dominant position in the field of ideology, and enhance the overall strength and competitiveness of culture."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall strengthen the building of capacity for independent innovation, accelerate the development of independent and controllable strategic high and new technologies and core key technologies in important fields, strengthen the application and protection of intellectual property and the building of capacity for scientific and technological confidentiality, and safeguard the security of major technologies and projects."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The State shall build a cyber and information security assurance system, enhance the capacity for cyber and information security protection, strengthen innovative research, development and application of cyber and information technologies, and achieve the secure and controllable status of core cyber and information technologies, key infrastructure, and information systems and data in important fields; strengthen cyber administration, prevent, stop and punish in accordance with the law cyber attacks, cyber intrusions, cyber theft of secrets, dissemination of illegal and harmful information and other cyber illegal and criminal acts, and safeguard national cyberspace sovereignty, security and development interests."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The State shall uphold and improve the system of regional ethnic autonomy and consolidate and develop socialist ethnic relations featuring equality, unity, mutual assistance and harmony. It shall uphold the equality of all ethnic groups, strengthen exchanges, communication and integration among ethnic groups, prevent, stop and punish in accordance with the law separatist activities, safeguard national unity, ethnic solidarity and social harmony, and achieve the common united struggle and common prosperity and development of all ethnic groups."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State shall protect in accordance with the law citizens' freedom of religious belief and normal religious activities, uphold the principle that religions are independent and self-administered, prevent, stop and punish in accordance with the law illegal and criminal activities that endanger national security in the name of religion, oppose interference by forces outside the territory in religious affairs within the territory, and safeguard the order of normal religious activities.\nThe State shall ban cult organisations in accordance with the law and prevent, stop and punish in accordance with the law illegal and criminal activities of cults."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The State shall oppose terrorism and extremism in all forms, strengthen the building of capacity for preventing and handling terrorism, carry out in accordance with the law intelligence, investigation, prevention, handling and fund supervision and other work, ban terrorist organisations in accordance with the law and severely punish violent terrorist activities."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The State shall improve the systems and mechanisms for effectively preventing and resolving social conflicts, improve the public security system, actively prevent, reduce and resolve social conflicts, properly handle emergencies affecting national security and social stability such as public health and social security incidents, promote social harmony, and safeguard public security and social stability."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The State shall improve the institutional system for ecological environment protection, intensify ecological construction and environmental protection, designate ecological conservation red lines, strengthen early warning, prevention and control of ecological risks, properly handle environmental emergencies, ensure that the natural environment and conditions such as the atmosphere, water and soil on which the people depend for survival and development are not threatened or damaged, and promote the harmonious development of man and nature."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State shall uphold the peaceful use of nuclear energy and nuclear technology, strengthen international cooperation, prevent nuclear proliferation, improve non-proliferation mechanisms, strengthen safety management, supervision and protection of nuclear facilities, nuclear materials, nuclear activities and the disposal of nuclear waste, strengthen the building of the nuclear accident emergency system and emergency capacity, prevent, control and eliminate the harm of nuclear accidents to citizens' life and health and to the ecological environment, and continuously enhance the capacity to effectively respond to and guard against nuclear threats and nuclear attacks."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State shall uphold the peaceful exploration and use of outer space, the international seabed area and the polar regions, enhance the capacity for safe access, scientific investigation, development and utilisation, strengthen international cooperation, and safeguard the security of China's activities, assets and other interests in outer space, the international seabed area and the polar regions."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall take the necessary measures in accordance with the law to protect the safety and legitimate rights and interests of Chinese citizens, organisations and institutions overseas and to protect the overseas interests of the State from threats and infringement."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The State shall, in light of the needs of economic and social development and national development interests, continuously improve the tasks of safeguarding national security."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter II Tasks of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The National People's Congress shall, in accordance with the provisions of the Constitution, decide on questions of war and peace and exercise the other functions and powers involving national security prescribed by the Constitution.\nThe Standing Committee of the National People's Congress shall, in accordance with the provisions of the Constitution, decide on the declaration of a state of war, decide on general mobilisation or partial mobilisation throughout the country, decide on the entry into a state of emergency by the whole country or by individual provinces, autonomous regions or municipalities directly under the Central Government, and exercise the other functions and powers involving national security prescribed by the Constitution and conferred by the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The President of the People's Republic of China shall, in accordance with the decisions of the National People's Congress and the decisions of the Standing Committee of the National People's Congress, declare a state of emergency, declare a state of war, issue mobilisation orders, and exercise the other functions and powers involving national security prescribed by the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The State Council shall, in accordance with the Constitution and the laws, formulate administrative regulations involving national security, prescribe the relevant administrative measures and issue the relevant decisions and orders; implement the laws, regulations and policies on national security; decide in accordance with the provisions of law on the entry into a state of emergency by some areas within the scope of a province, autonomous region or municipality directly under the Central Government; and exercise the other functions and powers involving national security prescribed by the Constitution and the laws and conferred by the National People's Congress and its Standing Committee."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The Central Military Commission shall lead the armed forces throughout the country, decide on military strategy and the operational guidelines of the armed forces, exercise unified command over military operations for safeguarding national security, formulate military regulations involving national security, and issue the relevant decisions and orders."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The departments of central State organs shall, in accordance with the division of duties, implement the guidelines, policies, laws and regulations on national security and administer and guide national security work in their respective systems and fields."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Local people's congresses at all levels and the standing committees of local people's congresses at or above the county level shall, within their respective administrative areas, ensure the observance and implementation of the laws and regulations on national security.\nLocal people's governments at all levels shall administer national security work within their respective administrative areas in accordance with the provisions of laws and regulations.\nThe Hong Kong Special Administrative Region and the Macao Special Administrative Region shall perform the responsibility of safeguarding national security."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "People's courts shall exercise judicial power and people's procuratorates shall exercise procuratorial power in accordance with the provisions of law, and shall punish crimes endangering national security."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "State security organs and public security organs shall collect intelligence and information involving national security in accordance with the law and, in national security work, exercise in accordance with the law the functions and powers of investigation, detention, preliminary interrogation and enforcement of arrest as well as other functions and powers prescribed by law.\nThe relevant military organs shall exercise the relevant functions and powers in national security work in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "State organs and their staff shall, in performing their duties, implement the principle of safeguarding national security.\nState organs and their staff shall, in national security work and in activities involving national security, strictly perform their duties in accordance with the law, shall not exceed their functions and powers or abuse their functions and powers, and shall not infringe upon the lawful rights and interests of individuals and organisations."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Duties of Safeguarding National Security"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The central leading institution for national security shall apply a national security system and working mechanism featuring a combination of unified and divided efforts and coordinated efficiency."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall establish a coordination mechanism for work in key fields of national security and make overall plans and coordinate the relevant functional departments of the central authorities in advancing the relevant work."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State shall establish a mechanism for supervision, inspection and accountability in national security work to ensure the implementation of the national security strategy and major deployments."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "All departments and all regions shall take effective measures to implement the national security strategy."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "In light of the needs of national security work, the State shall establish a cross-departmental consultation mechanism to deliberate and assess major matters concerning the safeguarding of national security and to put forward opinions and suggestions."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State shall establish a mechanism for coordination and interaction on national security between the central and local authorities, between departments, between the military and the civil authorities, and between regions."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State shall establish a decision-making consultation mechanism for national security, organise experts and the relevant parties to analyse and assess the national security situation, and advance scientific decision-making on national security."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State shall improve a system for the collection, assessment and use of intelligence and information that is under unified administration, responsive, accurate, efficient and smoothly operating, and establish a coordination mechanism for intelligence and information work, so as to achieve the timely collection, accurate assessment, effective use and sharing of intelligence and information."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Section 2 Intelligence and Information"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "State security organs, public security organs and the relevant military organs shall, in accordance with the division of duties, collect intelligence and information involving national security in accordance with the law.\nIn the course of performing their duties, the departments of State organs shall promptly report the relevant information involving national security that they obtain."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Section 2 Intelligence and Information"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "In carrying out intelligence and information work, modern scientific and technological means shall be fully used, and the identification, screening, synthesis, assessment and analysis of intelligence and information shall be strengthened."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Section 2 Intelligence and Information"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The submission of intelligence and information shall be timely, accurate and objective, and there shall be no delayed, omitted, concealed or false reporting."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Section 2 Intelligence and Information"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The State shall formulate and improve contingency plans for responding to national security risks in all fields."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Section 3 Risk Prevention, Assessment and Early Warning"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State shall establish a national security risk assessment mechanism and conduct regular surveys and assessments of national security risks in all fields.\nThe relevant departments shall regularly submit national security risk assessment reports to the central leading institution for national security."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Section 3 Risk Prevention, Assessment and Early Warning"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State shall improve the system for monitoring and early warning of national security risks and, in light of the degree of national security risk, promptly issue the corresponding risk warnings."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Section 3 Risk Prevention, Assessment and Early Warning"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "In respect of an incident endangering national security that may be about to occur or has already occurred, the local people's government at or above the county level and its relevant competent department shall immediately report to the people's government at the next higher level and its relevant competent department as prescribed, and may, where necessary, report to a higher level by bypassing the immediate level."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Section 3 Risk Prevention, Assessment and Early Warning"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The State shall establish systems and mechanisms for national security review and supervision, and conduct national security review of foreign investment, specific items and key technologies, cyber and information technology products and services, construction projects involving national security matters, and other major matters and activities that affect or may affect national security, so as to effectively prevent and resolve national security risks."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Supervision"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The departments of central State organs shall, in accordance with laws and administrative regulations, exercise the function of national security review, make national security review decisions or put forward security review opinions in accordance with the law, and supervise their implementation."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Supervision"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Provinces, autonomous regions and municipalities directly under the Central Government shall, in accordance with the law, be responsible for the relevant national security review and supervision work within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Section 4 Review and Supervision"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The State shall establish a national security crisis management and control system featuring unified leadership, coordination and interaction, and orderliness and efficiency."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Section 5 Crisis Management and Control"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "Where a major incident endangering national security occurs, the relevant central departments and the relevant local authorities shall, in accordance with the unified deployment of the central leading institution for national security, activate the contingency plans in accordance with the law and take control and handling measures."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Section 5 Crisis Management and Control"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "Where a particularly major incident endangering national security occurs and it is necessary to enter a state of emergency or a state of war or to carry out general mobilisation or partial mobilisation throughout the country, the matter shall be decided by the National People's Congress, the Standing Committee of the National People's Congress or the State Council in accordance with the limits of authority and procedures prescribed by the Constitution and the relevant laws."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Section 5 Crisis Management and Control"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "After the State decides to enter a state of emergency or a state of war or to implement national defence mobilisation, the relevant organs performing the duty of national security crisis management and control shall, in accordance with the provisions of law or the provisions of the Standing Committee of the National People's Congress, have the power to take special measures that restrict the rights of citizens and organisations and increase the obligations of citizens and organisations."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Section 5 Crisis Management and Control"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The control measures taken in accordance with the law by the relevant organs performing the duty of national security crisis management and control to handle a national security crisis shall be commensurate with the nature, degree and scope of the harm that the national security crisis may cause; where a variety of measures are available, the measure conducive to protecting the rights and interests of citizens and organisations to the greatest extent shall be chosen."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Section 5 Crisis Management and Control"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The State shall improve the mechanism for reporting and releasing information on national security crises.\nAfter a national security crisis incident occurs, the relevant organs performing the duty of national security crisis management and control shall report accurately and promptly as prescribed and shall, in accordance with the law, release to society in a unified manner information on the occurrence, development, control and handling and follow-up work of the national security crisis incident."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Section 5 Crisis Management and Control"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "After national security threats and harm are brought under control or eliminated, the control and handling measures shall be lifted promptly and the follow-up work shall be properly carried out."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Section 5 Crisis Management and Control"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The State shall improve the national security guarantee system and enhance the capacity to safeguard national security."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V National Security Support"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The State shall improve the system of national security legal institutions and advance the development of the rule of law in national security."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter V National Security Support"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The State shall increase investment in the various components of national security construction and guarantee the funds and equipment needed for national security work."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter V National Security Support"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Units undertaking the task of reserving strategic materials for national security shall, in accordance with the relevant provisions and standards of the State, purchase, store, keep and maintain national security materials, conduct regular adjustment and replacement, and ensure the performance and safety of the reserved materials."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter V National Security Support"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Scientific and technological innovation in the field of national security shall be encouraged, and the role of science and technology in safeguarding national security shall be given play."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter V National Security Support"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "The State shall take the necessary measures to recruit, train and manage specialised and special personnel for national security work.\nIn light of the needs of safeguarding national security, the State shall protect in accordance with the law the identity and lawful rights and interests of the personnel of the relevant organs who are specially engaged in national security work and shall intensify protection of their persons and support for their resettlement."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter V National Security Support"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where state security organs, public security organs and the relevant military organs carry out specialised national security work, they may take the necessary means and methods in accordance with the law, and the relevant departments and local authorities shall provide support and cooperation within the scope of their duties."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter V National Security Support"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "The State shall strengthen publicity of national security through the news media and the guidance of public opinion, carry out publicity and education activities on national security in various forms, incorporate national security education into the national education system and the training system for civil servants, and enhance the national security awareness of all the people."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter V National Security Support"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Citizens and organisations shall perform the following obligations to safeguard national security:\n(a) complying with the relevant provisions of the Constitution, laws and regulations on national security;\n(b) promptly reporting clues to activities endangering national security;\n(c) truthfully providing the evidence they know of concerning activities endangering national security;\n(d) providing facilitation or other assistance for national security work;\n(e) providing the necessary support and assistance to state security organs, public security organs and the relevant military organs;\n(f) keeping confidential the State secrets they know of;\n(g) other obligations prescribed by laws and administrative regulations.\nNo individual or organisation shall commit any act endangering national security, or provide any funding or assistance to individuals or organisations endangering national security."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VI Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "State organs, people's organisations, enterprises and public institutions and other social organisations shall conduct education on safeguarding national security for the personnel of their units and mobilise and organise the personnel of their units to prevent and stop acts endangering national security."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VI Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Enterprises and public institutions shall, in accordance with the requirements of national security work, cooperate with the relevant departments in taking the relevant security measures."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VI Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Acts of citizens and organisations in supporting and assisting national security work shall be protected by law.\nWhere the personal safety of a citizen or of his or her close relatives is endangered because of support for or assistance in national security work, the citizen may request protection from a public security organ or a state security organ. The public security organ or the state security organ shall, together with the relevant departments, take protective measures in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VI Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where citizens or organisations suffer property losses as a result of supporting or assisting national security work, compensation shall be given in accordance with the relevant provisions of the State; where personal injury or death is caused, pensions and preferential treatment shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VI Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Citizens and organisations have the right to put forward criticism and suggestions to State organs on national security work, and have the right to file petitions, lodge complaints and make reports in respect of the illegal and derelict acts of State organs and their staff in national security work."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VI Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where special measures restricting the rights and freedoms of citizens need to be taken in national security work, they shall be taken in accordance with the law and shall be limited to the actual needs of safeguarding national security."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VI Obligations and Rights of Citizens and Organisations"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "This Law shall enter into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0133'] = {
     "lawId": "CN-LAW-0133",
     "sourceLang": "zh",
@@ -25794,6 +34557,744 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0134'] = {
+    "lawId": "CN-LAW-0134",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 63 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to advance the construction of national parks in a high-quality manner, strengthen the protection and management of national parks, preserve the authenticity and integrity of important natural ecosystems, build an ecological civilisation, comprehensively advance the building of a Beautiful China, and accelerate the modernisation in which humanity and nature coexist in harmony, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, national parks refer to specific terrestrial and marine areas established with the approval of the State Council, with the protection of natural ecosystems of national representativeness as their main purpose, so as to achieve the scientific protection and rational utilisation of natural resources."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall establish a system of protected natural areas with national parks as the main body, and shall gradually incorporate into national parks, for strict protection, the natural ecological spaces with the most important natural ecosystems, the most unique natural landscapes, the most essential natural heritage and the richest biodiversity."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The construction of national parks shall uphold the leadership of the Communist Party of China, practise the concept that lucid waters and lush mountains are invaluable assets, adhere to the people-centred philosophy of development, put ecological protection first and coordinate protection with development, uphold national representativeness and public benefit for all the people, and adapt measures to local conditions while highlighting distinctive features; a mechanism led by the government, participated in by multiple parties and shared by society shall be established, so as to achieve the unity of ecological protection, green development and improvement of people's livelihood."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State Council and the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government where national parks are located shall strengthen overall coordination for the construction of national parks and improve the policies and measures supporting such construction.\nThe State Council and the local people's governments at or above the county level where national parks are located shall incorporate the construction of national parks into the plans for national economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall establish a unified, standardised and efficient management system for national parks.\nThe competent department of the State Council for national parks shall, in accordance with this Law and relevant laws and administrative regulations, be responsible for the supervision and management of national parks throughout the country. The relevant departments of the State Council for natural resources, ecological environment, water administration, agriculture and rural affairs shall, in accordance with this Law and relevant laws and administrative regulations, be responsible for the relevant supervision and management of national parks within the scope of their respective duties.\nThe management institutions of the various national parks established in accordance with the relevant provisions shall, in accordance with this Law and the duties so prescribed, be responsible for the protection and management of the respective national parks, and shall perform the relevant administrative law enforcement duties in the fields of natural resources, forestry and grassland, etc.\nThe local people's governments where national parks are located shall exercise the duties of comprehensive coordination of economic and social development, public services, social management, market regulation and disaster prevention and mitigation in respect of the national parks within their respective administrative areas.\nThe competent department of the State Council for national parks, the relevant departments of the State Council, the national park management institutions and the local people's governments where national parks are located shall establish and improve corresponding mechanisms, strengthen coordination of work and achieve information sharing.\nThe competent department of the State Council for national parks shall, in consultation with the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government where national parks are located, establish a work coordination mechanism to organise and coordinate major matters in the construction of national parks spanning provincial boundaries."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent department of the State Council for national parks and the relevant departments shall, in accordance with their duties, establish and improve the national park standards system, and shall organise the formulation and timely revision of the relevant national park standards in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall encourage and support scientific and technological research, development, application and dissemination relating to national parks, strengthen the training of professional personnel for national parks, and reinforce the supporting role of scientific and technological innovation in the construction of national parks."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department of the State Council for national parks, the relevant departments of the State Council, the national park management institutions, and the local people's governments at or above the county level where national parks are located and their relevant departments shall organise publicity and education activities on national park protection in various forms, cultivate the national park culture and disseminate the national park concept.\nThe news media shall carry out public-interest publicity on national park protection in various forms and conduct supervision by public opinion in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Units and individuals that make outstanding contributions to the construction of national parks shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The State shall, through various means, support and promote international exchanges and cooperation in the field of national parks."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State shall scientifically plan the overall development layout of national parks, strictly apply the conditions for establishing national parks, and reasonably determine the number and scale of national parks.\nThe competent department of the State Council for national parks shall, together with the relevant departments, on the basis of the distribution of natural ecological spaces and the needs of systematic protection, prepare a spatial layout plan for national parks, select candidate areas for national parks, and implement the plan after it is approved by the State Council.\nIn selecting candidate areas for national parks, in-depth assessment and demonstration shall be conducted on the national representativeness and ecological importance of the natural ecological spaces in the areas concerned and on the feasibility of incorporating such spaces into national park protection and management."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Layout and Establishment"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a national park is to be established, the people's government of the province, autonomous region or municipality directly under the Central Government where the candidate area is located shall, in accordance with the relevant requirements of the spatial layout plan for national parks, complete the preliminary work, organise basic surveys, and, on the basis of extensively listening to the opinions of the parties concerned and in-depth demonstration, propose the name, regional scope and management and control zoning plan of the national park as well as the assessment of and solutions to the impact on the production and living of the original residents and enterprises, and make the same public to society. For development and construction projects within the area of the proposed national park that do not meet the management and control requirements, classified handling, orderly withdrawal and reasonable compensation shall be carried out in accordance with laws and regulations.\nAfter the preliminary work is completed, and after the competent department of the State Council for national parks has organised an assessment and solicited the opinions of the relevant departments, where the conditions for establishment are met, the people's government of the relevant province, autonomous region or municipality directly under the Central Government shall apply to the State Council for the establishment of the national park and submit the establishment plan and other materials, and the national park shall be established upon approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Layout and Establishment"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The name of a national park shall conform to the naming norms for national parks and the relevant provisions on the administration of geographical names. In general, the name of a national park shall not use the name of an administrative division."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Layout and Establishment"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The delimitation of the regional scope of a national park shall take into overall account the authenticity and integrity of the natural ecosystem and the needs of the economic and social development of the surrounding areas, adhere to seeking truth from facts and being scientific and reasonable, and be subject to sufficient investigation and scientific demonstration.\nAfter a national park is established, where protected natural areas of other types are wholly included in the regional scope of the national park, they shall no longer be retained; where they are partially included, the parts not included shall, upon scientific assessment and approval in accordance with the prescribed procedures, be integrated or abolished.\nAfter a national park is established, the national park may, in accordance with the prescribed authority and procedures, be treated as a specific area for the preparation of territorial spatial planning, and shall be incorporated into the information system for the supervision of the implementation of territorial spatial planning and be subject to unified supervision."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Layout and Establishment"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "On the basis of the characteristics of the natural ecosystem, functional positioning and management objectives, a national park shall be divided into core protection areas and general control areas. Areas within the national park where the natural ecosystem is well preserved and highly representative, where the core resources are concentrated, or where the ecology is fragile and requires rest and recuperation shall be designated as core protection areas, and areas other than the core protection areas shall be designated as general control areas."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Layout and Establishment"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "After a national park is established, the people's government of the province, autonomous region or municipality directly under the Central Government where the national park is located shall promptly organise and complete the boundary survey of the national park, and the national park management institution shall, according to the needs of protection and management, promptly install boundary markers such as boundary tablets and stakes, electronic markers or electronic fences.\nIt shall be prohibited to damage, alter or obscure, or to dismantle or move without authorisation, the boundary markers of a national park."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Layout and Establishment"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The regional scope and management and control zoning of national parks shall be announced to society by the competent department of the State Council for national parks.\nThe competent department of the State Council for national parks shall share information such as the coordinates of the regional scope and management and control zoning of national parks with the relevant departments.\nChanging the name of a national park or adjusting its regional scope or management and control zoning shall be subject to approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Layout and Establishment"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The competent department of the State Council for national parks shall issue a unified logo for national parks throughout the country. A national park management institution may determine an exclusive logo for the national park under its management and issue it after obtaining the consent of the competent department of the State Council for national parks.\nThe national park logo shall be protected by law. Without the consent of the institution that issued the national park logo, no unit or individual may use the national park logo for commercial purposes. The specific measures for the protection of the national park logo shall be formulated by the competent department of the State Council for national parks together with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Layout and Establishment"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State shall adhere to the integrated protection of mountains, waters, forests, farmlands, lakes, grasslands and deserts, and shall, in accordance with the characteristics and inherent laws of natural ecosystems, implement holistic protection, systematic restoration and comprehensive governance of national parks."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The national park management institution shall organise the preparation of the overall plan for the national park under its management, specify matters such as the objectives and tasks of protection and management, the objects of protection and the protection measures, and make arrangements for the ecological restoration activities to be carried out and the production and living activities of the original residents. In preparing the overall plan for a national park, the opinions of the parties concerned shall be extensively solicited and in-depth demonstration shall be conducted.\nThe overall plan for a national park shall, after examination and consent by the people's government of the province, autonomous region or municipality directly under the Central Government where the national park is located, be submitted to the competent department of the State Council for national parks for approval and implementation. The competent department of the State Council for national parks shall, when examining and approving the overall plan for a national park, solicit the opinions of the relevant departments.\nThe overall plan for a national park shall be aligned with the plans for national economic and social development and the overall territorial spatial plan. The overall plan for a national park shall be made public to society."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The national park management institution shall, on the basis of laws, regulations, the relevant provisions of the State and the overall plan for the national park, improve the rules and regulations for the protection and management of the national park and strengthen the day-to-day protection and management of the national park.\nUnits and individuals within the area of a national park, as well as persons entering the national park, shall comply with laws, regulations and the rules and regulations for the protection and management of national parks, and shall accept the management of the national park management institution."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "For the natural resources within the area of a national park, confirmation and registration of rights shall be carried out in a unified manner in accordance with the relevant provisions of the State on the confirmation and registration of natural resources, and the national park shall be treated as an independent registration unit in such confirmation and registration."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The State shall strengthen the development of the monitoring network system for national parks, give full play to the role of monitoring stations of various types, and use information technology to strengthen the integrated analysis, sharing and comprehensive application of monitoring data, so as to fully understand the composition, distribution and dynamic changes of natural ecosystems and the status of biodiversity, and to assess and warn of ecological risks in a timely manner."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The national park management institution shall, together with the relevant departments of the local people's government where the national park is located, formulate protection and management objectives by category for specific protection objects such as the various natural ecosystems and wild organisms and their genetic resources, natural relics and natural landscapes within the area of the national park, and carry out special protection.\nThe local people's government where a national park is located and the national park management institution shall establish a coordinated protection system to coordinate the protection of the natural ecology and the protection of cultural heritage within the area of the national park."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The restoration of damaged natural ecosystems, the connectivity of ecological corridors and the recovery of important habitats within the area of a national park shall mainly rely on natural restoration; where it is truly necessary to carry out artificial restoration activities such as population regulation and tree species renewal, the opinions of the parties concerned shall be fully solicited and a scientific and reasonable restoration plan shall be formulated in accordance with the relevant provisions.\nThe national park management institution shall take measures to strengthen the prevention of and response to the invasion of alien species, safeguard the security of the ecosystem and improve the quality of the ecosystem."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Except for the following activities, human activities shall be prohibited in the core protection areas of national parks:\n(a) activities such as survey and monitoring, ecological restoration, management, protection and patrol carried out for the protection of the national park, activities of scientific research and observation, basic surveying and mapping, protection of cultural relics, disaster prevention and mitigation and emergency rescue, and activities that State organs truly need to carry out in performing their law enforcement duties in accordance with law;\n(b) necessary production and living activities of the original residents, and the operation and maintenance of existing important infrastructure that truly needs to be retained and cannot be avoided;\n(c) activities that truly need to be carried out for safeguarding national security and for implementing major national strategies and major infrastructure construction;\n(d) other activities prescribed by laws or administrative regulations or approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Only the following human activities shall be permitted in the general control areas of national parks:\n(a) activities permitted in the core protection areas;\n(b) the construction, operation and maintenance of important infrastructure that conforms to territorial spatial planning and cannot be avoided;\n(c) survey and excavation of palaeontological fossils, basic geological survey, prospective survey of strategic mineral resources and exploration of strategic mineral resources within the prescribed scope;\n(d) public service activities such as the popularisation of science, ecotourism, education, culture and sports;\n(e) other activities prescribed by laws or administrative regulations or approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The production and living activities of the original residents within the area of a national park shall be premised on not exceeding the existing scale and intensity of use and on the reasonable improvement of their production and living conditions.\nWhere, according to the needs of protection and management, it is truly necessary for the original residents within the area of a national park to move out, the relevant local people's government shall make proper arrangements for them."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where activities prescribed in Articles 27 and 28 of this Law are carried out within the area of a national park and the relevant formalities need to be gone through in accordance with law, the units and individuals concerned shall go through such formalities in accordance with law; where construction activities are involved, the competent department concerned shall also solicit the opinions of the competent department of the State Council for national parks or the national park management institution.\nWhere activities prescribed in Articles 27 and 28 of this Law are carried out within the area of a national park, necessary measures shall be taken to avoid or reduce adverse impacts on natural ecosystems, ecological corridors, important habitats and natural and cultural landscapes. The national park management institution shall, according to the actual circumstances and needs, specify the boundaries and intensity of the relevant activities and the protective measures to be taken."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "For areas within national parks where the natural ecological processes and the reproduction and growth of protection objects show obvious patterns of seasonal change, seasonal differentiated management and control measures may be implemented upon scientific demonstration and on the premise of not harming ecological functions.\nThe overall plan for a national park may prescribe differentiated management and control measures for the general control areas of the national park."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The relevant departments of the State Council shall periodically conduct scientific assessments of the status of the natural resources and the ecological environment in national parks and shall publish the results in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The national park management institution shall establish a day-to-day patrol system, reasonably equip patrol personnel and patrol equipment and strengthen the construction of patrol stations. Patrol personnel shall observe and record the habitat conditions of the main protection objects and their changes, and shall dissuade, stop and promptly report acts that violate the provisions on the protection and management of national parks."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The national park management institution shall formulate emergency response plans for unexpected incidents in national parks, strengthen collaboration and cooperation with the local people's governments where national parks are located, do a good job in the work relating to disaster prevention and mitigation, safety management and emergency support for national parks, and enhance emergency support capacity."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Protection and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State shall encourage and support public participation in the protection of national parks, carry out education on the protection of nature and the ecological environment in various forms, and cultivate in the whole of society an awareness of loving nature and protecting the ecological environment."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The national park management institution shall strengthen collaboration and cooperation with the local people's government where the national park is located, strengthen communication and consultation with the original residents and rural collective economic organisations within the area of the national park as well as the residents and enterprises around the national park, and guide and support them in actively participating in the protection of the national park and in providing ecological products and services consistent with the protection objectives of the national park."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The local people's government where a national park is located may, in collaboration with the national park management institution, jointly protect the natural resources around the national park in accordance with the requirements coordinated with the protection objectives of the national park, and reasonably build the surrounding communities on the basis of territorial spatial planning."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Ecological management and protection posts established by a national park management institution according to the needs of ecological protection shall give priority to the employment of local residents."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "For collectively owned land and its ancillary resources included in the area of a national park, the rights and interests of the right holders shall be safeguarded in accordance with law, and the interested parties concerned shall be guided to participate in the construction and protection of the national park in diversified ways."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The national park management institution shall, on the premise of ensuring that the ecology is protected, improve the public service system of the national park and enhance its public service functions.\nAppropriate areas in the general control areas of a national park may, on the basis of territorial spatial planning, be designated, and necessary supporting facilities and equipment may be installed, to support public service activities such as relevant scientific research, the popularisation of science, ecotourism, education, culture and sports.\nThe national park management institution shall strengthen the management of and services for visitors to the national park, reasonably determine visitor capacity, specify codes of conduct for visitors, provide the necessary barrier-free services in accordance with the relevant provisions of the State, and improve the relevant mechanisms for visitor safety protection and emergency assistance.\nNo visiting, tourism or other projects inconsistent with the protection objectives shall be established within the area of a national park."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where commercial services are provided within the area of a national park, the national park management institution may select service providers by competitive means. The specific measures shall be formulated by the competent department of the State Council for national parks together with the relevant departments.\nOriginal residents within the area of a national park shall be encouraged to participate in the services prescribed in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Admission tickets to scenic areas within the area of a national park that are built using public resources, as well as separately charged items such as sightseeing venues and means of transport within such scenic areas, shall be subject to government-set prices or government-guided prices.\nThe scenic areas prescribed in the preceding paragraph shall, in accordance with the relevant provisions of the State, grant free admission or preferential ticket prices to special groups such as persons with disabilities, elderly persons, minors, military personnel and fire and rescue personnel. The public shall be encouraged to have free admission days for national parks."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The State shall encourage and support volunteers, voluntary service organisations and other organisations in carrying out voluntary service activities relating to national parks in accordance with law.\nA national park management institution may recruit volunteers and form voluntary service teams in accordance with law.\nThe national park management institution shall do a good job in the training and management of volunteers, provide volunteers with the necessary working conditions and safety guarantee measures, and safeguard the lawful rights and interests of volunteers."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Participation and Sharing"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The State shall establish a diversified funding guarantee system for national parks that is based mainly on fiscal input. The State Council and the relevant local people's governments shall, in accordance with the principle of dividing fiscal powers and expenditure responsibilities, include the required funds in their respective budgets."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The State shall encourage social forces such as enterprises, public institutions, social organisations and individuals to support the construction of national parks by establishing funds, making donations and providing financial assistance."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State shall encourage the creation of regional public brands for the distinctive ecological products of national parks, support the lawful participation of the ecological resource rights and interests formed through the ecological protection of national parks in market transactions, and expand the mechanisms for realising the value of the ecological products of national parks."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The State shall improve the compensation mechanism for the ecological protection of national parks, reasonably determine the scale of fiscal transfer payments on the basis of the scale of national parks and the effectiveness of management and protection, and promote market-based compensation for the ecological protection of national parks."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the protection of wild animals under legal protection and other terrestrial wild animals causing serious harm within the area of a national park causes casualties or losses of crops or other property, compensation shall be given by the relevant local people's government in accordance with law, and the relevant funds shall be subsidised by the central finance in accordance with the relevant provisions.\nThe relevant local people's government may encourage insurance institutions to carry out insurance business for compensation for harm caused by wild animals."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The national park management institution and other relevant departments shall, in accordance with their duties, strengthen supervision and inspection of the protection of national parks and investigate and deal with illegal acts in accordance with law; clues to cases that do not fall within the law enforcement authority of the department concerned shall be promptly transferred to the relevant departments for handling.\nThe national park management institution and other relevant departments performing supervision and inspection duties in accordance with law shall have the power to take the following measures:\n(a) conduct on-site inspection;\n(b) conduct inspection, testing and sampling for evidence of wild animals, plants and other natural resources involved in illegal activities;\n(c) consult and copy the relevant documents and materials, and seal up documents and materials that may be transferred, destroyed, concealed or tampered with;\n(d) seal up or seize the premises, facilities or property suspected of being involved in illegal activities.\nSupervision and inspection personnel conducting supervision and inspection shall proactively present their law enforcement credentials. The units and individuals under inspection shall cooperate and shall not refuse or obstruct.\nThe national park management institution shall provide the necessary convenience for the relevant State organs to perform their statutory duties in national parks in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Any unit or individual shall have the right to report acts violating the provisions on the protection and management of national parks to the national park management institution or other relevant departments, and the department receiving the report shall handle it promptly in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The State shall establish a system for assessing and evaluating the effectiveness of the protection and management of national parks, and the assessment and evaluation results shall be incorporated into the relevant assessment and evaluation systems.\nFor local people's governments that are ineffective in national park protection and where the problems are prominent, the people's government at the higher level may conduct talks with their responsible persons, and the local people's government so talked with shall take measures to rectify promptly."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The national park management institution shall, in accordance with law, promptly disclose information on the protection and management of national parks and consciously accept supervision by society and supervision by public opinion."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Support and Supervision"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where staff members of the national park management institution or other relevant departments abuse their powers, neglect their duties or engage in malpractices for personal gain in the protection and management of national parks, disciplinary sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Whoever damages, alters or obscures, or dismantles or moves without authorisation, the boundary markers of a national park shall be ordered by the national park management institution to stop the illegal act and take remedial measures, and may be fined not more than 20,000 yuan; where losses are caused, liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Whoever carries out activities other than those prescribed in Article 27 of this Law within the core protection area of a national park shall be ordered to stop the illegal act, illegal gains shall be confiscated, and a fine of not more than 100,000 yuan may be imposed; where the act constitutes unlawful construction of facilities or engineering works, the person shall be ordered to dismantle the same within a time limit and restore the original state, and shall be fined not less than 100,000 yuan but not more than 1 million yuan; where ecological damage is caused, the person shall be ordered to restore the ecology within a time limit or take other remedial measures, and shall be fined not less than 1 million yuan but not more than 5 million yuan."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Whoever carries out activities other than those prescribed in Article 28 of this Law within the general control area of a national park shall be ordered to stop the illegal act, illegal gains shall be confiscated, and a fine of not more than 50,000 yuan may be imposed; where the act constitutes unlawful construction of facilities or engineering works, the person shall be ordered to dismantle the same within a time limit and restore the original state, and shall be fined not less than 50,000 yuan but not more than 500,000 yuan; where ecological damage is caused, the person shall be ordered to restore the ecology within a time limit or take other remedial measures, and shall be fined not less than 500,000 yuan but not more than 2 million yuan."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where original residents within the area of a national park carry out production and living activities in violation of paragraph 1 of Article 29 of this Law, they shall be ordered to rectify and may be fined not more than 2,000 yuan according to the seriousness of the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Where activities prescribed in Articles 27 and 28 of this Law are carried out within the area of a national park without taking the necessary measures to avoid or reduce adverse impacts on natural ecosystems, ecological corridors, important habitats and natural and cultural landscapes, the person shall be ordered to rectify and may be fined not more than 100,000 yuan; where ecological damage is caused, the person shall be ordered to restore the ecology within a time limit or take other remedial measures, and where the relevant activity is carried out in a core protection area, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed, and where it is carried out in a general control area, a fine of not less than 50,000 yuan but not more than 200,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where units and individuals within the area of a national park, or persons entering the national park, do not submit to the management of the national park management institution, the national park management institution shall have the power to dissuade and stop them; where the act constitutes a violation of public security administration such as disturbing public order, the public security organ shall impose a public security administrative penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The illegal acts prescribed in Articles 55, 56, 57 and 58 of this Law shall be punished by the national park management institution in accordance with the relevant provisions, and a law enforcement coordination mechanism shall be established with the relevant departments of the local people's government where the national park is located."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, damages natural resources, pollutes the environment or damages the ecology shall bear civil liability in accordance with law; where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "The people's congress and its standing committee of the province, autonomous region or municipality directly under the Central Government where a national park is located may, on the basis of this Law and in light of local realities, formulate specific measures on matters such as the protection and restoration of the ecological environment of the national park and the management of related activities.\nThe people's congress and its standing committee of the province, autonomous region or municipality directly under the Central Government where a national park is located may carry out regional collaborative legislation on the protection and management of the national park."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 2026."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -27587,6 +37088,681 @@
     ]
   };
 
+  TR['CN-LAW-0140'] = {
+    "lawId": "CN-LAW-0140",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 57 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to strengthen frontier health quarantine work, prevent the cross-border spread of infectious diseases, safeguard public safety of life and health, and prevent and defuse public health risks, this Law is enacted in accordance with the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law shall apply to frontier health quarantine and related activities.\nAt the ports of the People's Republic of China open to the outside world (hereinafter referred to as ports), customs shall, in accordance with the provisions of this Law, perform frontier health quarantine duties such as quarantine inspection, surveillance of infectious diseases, sanitary supervision and emergency response."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of this Law, infectious diseases include quarantinable infectious diseases, monitored infectious diseases, and other emerging infectious diseases and sudden infectious diseases of unknown cause for which corresponding health quarantine measures need to be taken at ports.\nThe list of quarantinable infectious diseases shall be compiled and adjusted by the disease prevention and control department of the State Council together with the General Administration of Customs, and shall be published after approval by the State Council. The list of monitored infectious diseases shall be compiled, adjusted and published by the disease prevention and control department of the State Council together with the General Administration of Customs.\nThe list of quarantinable infectious diseases and the list of monitored infectious diseases shall be adjusted in a timely manner on the basis of the outbreak and epidemic situation of infectious diseases at home and abroad and the degree of harm."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Frontier health quarantine work shall uphold the leadership of the Communist Party of China, adhere to the principles of risk management, scientific measures and efficient handling, and improve the system for the prevention and control of infectious diseases at ports that combines routine response with emergency response."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The General Administration of Customs shall exercise unified management of frontier health quarantine work throughout the country. The health department of the State Council, the disease prevention and control department of the State Council and other relevant departments shall, in accordance with their respective duties, do a good job in the work related to frontier health quarantine.\nThe local people's governments at or above the county level where ports are located shall incorporate frontier health quarantine work into the plans for the prevention and treatment of infectious diseases and increase their support for frontier health quarantine work.\nCustoms, health, disease prevention and control and other relevant departments shall, in frontier health quarantine work, cooperate closely, establish a departmental coordination mechanism and strengthen information sharing and coordinated action.\nThe State shall, in accordance with law, strengthen border control measures and rigorously prevent the risk of importation of infectious diseases caused by illegal entry."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Customs shall perform frontier health quarantine duties in accordance with law, and the units and individuals concerned shall cooperate and shall not refuse or obstruct.\nIn performing frontier health quarantine duties, customs shall protect trade secrets, personal privacy and personal information in accordance with law, and shall not infringe upon the lawful rights and interests of the units and individuals concerned."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall adopt various measures to strengthen the development of public health capacity at ports and continuously improve the level of frontier health quarantine work."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall strengthen exchanges and cooperation with other countries or regions and with the relevant international organisations in the field of frontier health quarantine."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Persons, means of transport, transport equipment such as containers, goods, luggage, postal parcels and other articles and their outer packaging (hereinafter collectively referred to as goods and articles) entering or leaving the country shall undergo quarantine inspection in accordance with law, and may enter or leave the country only with the permission of customs.\nThe entry and exit of persons enjoying diplomatic and consular privileges and immunities and other relevant treatment, as well as of the articles of the institutions and persons enjoying diplomatic and consular privileges and immunities and other relevant treatment, shall be subject to quarantine inspection in accordance with law, on the premise of not affecting their lawful enjoyment of privileges and immunities."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Persons, means of transport, goods and articles entering or leaving the country shall undergo quarantine inspection at the port of first arrival and at the port of last departure respectively; goods and articles may also undergo quarantine inspection at other places designated by customs.\nWhere a means of transport coming from outside the country calls at or lands in an area within the country other than a port due to force majeure or other emergency reasons, the person in charge of the means of transport shall immediately report to the nearest customs, and the customs receiving the report shall immediately send personnel to the scene to handle the matter and may, when necessary, request the disease prevention and control department of the local people's government to provide assistance; except in emergency situations such as avoiding danger, the means of transport shall not, without the permission of customs, load or unload goods or articles, or take on or let off persons other than pilots."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "For persons entering or leaving the country, customs may require a truthful declaration of health status and related information, conduct body temperature checks and medical patrols, and may consult travel documents when necessary.\nIn addition to the quarantine inspection measures prescribed in the preceding paragraph, customs may also, according to the circumstances, implement the following quarantine inspection measures in respect of the persons entering or leaving the country concerned:\n(a) require the provision of vaccination certificates or other certificates of preventive measures and verify the same;\n(b) conduct epidemiological investigation and medical examination;\n(c) other quarantine inspection measures prescribed by laws or administrative regulations.\nWhere a foreign national entering the country refuses to accept the quarantine inspection measures prescribed in this Article, customs may decide not to permit his or her entry and shall at the same time notify the immigration administration."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where customs, on the basis of the quarantine inspection results provided by quarantine physicians, determines that a person is infected or suspected of being infected with a quarantinable infectious disease, it shall immediately take effective on-site prevention and control measures and promptly notify the disease prevention and control department of the local people's government at or above the county level where the port is located. The disease prevention and control department receiving the notification shall promptly arrange for the person infected or suspected of being infected with a quarantinable infectious disease to be transported to a medical institution or other place designated by the people's government at or above the county level for isolation and treatment or medical observation. The medical institutions and places concerned shall receive them promptly.\nFor persons who may be suffering from a monitored infectious disease, customs shall issue a medical consultation convenience card and promptly notify the disease prevention and control department of the local people's government at or above the county level where the port is located. Medical institutions shall give priority to the diagnosis and treatment of persons holding a medical consultation convenience card."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The person in charge of a means of transport entering or leaving the country shall, in accordance with the provisions, truthfully declare to customs the matters relating to quarantine inspection."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Customs may board a means of transport to conduct quarantine inspection, and may, where the prescribed conditions are met, conduct quarantine inspection by telecommunication.\nExcept in emergency situations such as avoiding danger, a means of transport entering the country shall not, before the completion of quarantine inspection, and a means of transport leaving the country shall not, after the completion of quarantine inspection and before departure, without the permission of customs, leave the designated quarantine inspection site, load or unload goods or articles, or take on or let off persons other than pilots."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a means of transport entering or leaving the country falls under any of the following circumstances, sanitary treatment shall be carried out and shall be subject to the supervision of customs; when necessary, customs may, together with the relevant departments, place the means of transport in isolation:\n(a) it is contaminated by a quarantinable infectious disease;\n(b) disease vector organisms related to human health are found;\n(c) other circumstances in which there is a risk of spreading a quarantinable infectious disease.\nWhere the person in charge of a foreign means of transport refuses to carry out sanitary treatment, customs shall, except in special circumstances, order the means of transport to leave the country immediately under its supervision."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where, on the basis of the quarantine inspection results provided by quarantine physicians, a means of transport poses no risk of spreading a quarantinable infectious disease or has undergone effective sanitary treatment, customs shall issue an entry quarantine certificate or an exit quarantine certificate."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where, during the stay at a port of a means of transport that has undergone quarantine inspection, a person infected or suspected of being infected with a quarantinable infectious disease is found, or a person dies other than from accidental injury and the cause of death is unknown, the person in charge of the means of transport shall immediately report to customs, and customs shall take corresponding measures in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Customs shall not carry out quarantine inspection on means of transport in transit, except where there is evidence that the means of transport poses a risk of spreading a quarantinable infectious disease.\nA means of transport in transit shall not, within China, load or unload goods or articles or take on or let off persons; where fuel, drinking water, food and supplies are to be taken on, it shall call at a designated place and do so under the supervision of customs."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The consignor and consignee, the sender and recipient, the person carrying or transporting (the bearer) and the carrier of goods and articles entering or leaving the country, or their agents, shall, in accordance with the provisions, truthfully declare to customs the matters relating to quarantine inspection."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "For goods and articles falling under the circumstances prescribed in paragraph 1 of Article 15 of this Law, sanitary treatment shall be carried out and shall be subject to the supervision of customs; before the completion of sanitary treatment, the goods and articles concerned shall be stored separately and shall not be removed or collected without the permission of customs.\nFor goods and articles falling under the circumstances prescribed in paragraph 1 of Article 15 of this Law but for which effective sanitary treatment cannot be carried out, customs may decide not to permit their entry or exit, or return or destroy them; where major harm to public health security within the country may be caused, customs may suspend the import of the goods concerned."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where corpses or skeletal remains are consigned for entry or exit, the consignor or his or her agent shall truthfully declare to customs in accordance with the provisions, and the same may enter or leave the country only after passing quarantine inspection.\nWhere a person dies of a quarantinable infectious disease, the corpse shall be cremated nearby."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where goods and articles relating to public health security, such as human tissues such as blood, pathogenic microorganisms and biological products, enter or leave the country, unless they are subject to the administration of pharmaceutical products, veterinary drugs or medical devices, customs shall carry out prior health quarantine examination and approval, and the same may enter or leave the country only after passing quarantine inspection."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Customs may, according to the needs of quarantine inspection, request the relevant departments and units to assist in querying the relevant information on persons, means of transport, goods and articles entering or leaving the country, and the relevant departments and units shall provide assistance. Customs shall not use the information obtained through such queries for purposes other than health quarantine."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The General Administration of Customs shall, on the basis of the surveillance and risk assessment of infectious diseases at home and abroad, continuously optimise the quarantine inspection process."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Quarantine Inspection"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The General Administration of Customs shall, together with the disease prevention and control department of the State Council, establish a surveillance system for the cross-border spread of infectious diseases and formulate plans and programmes for the surveillance of infectious diseases at ports.\nThe General Administration of Customs shall, within the framework of international public health cooperation, improve the layout of the infectious disease surveillance network and strengthen the surveillance of infectious disease epidemics outside the country."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring of Infectious Diseases"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Local customs shall, in accordance with the plans and programmes for the surveillance of infectious diseases at ports and in conjunction with the quarantine inspection of persons, means of transport, goods and articles entering or leaving the country, systematically and continuously collect, verify and analyse the relevant data, and assess the occurrence, epidemic situation, influencing factors and development trends of infectious diseases that may spread across borders.\nIn carrying out the surveillance of infectious diseases, customs shall make full use of modern information technology, broaden surveillance channels and improve surveillance effectiveness."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring of Infectious Diseases"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where local customs discovers an infectious disease, it shall take corresponding control measures, promptly report to the General Administration of Customs, and at the same time notify the disease prevention and control department of the local people's government at or above the county level where the port is located and the immigration administration. Where the disease prevention and control department of a local people's government at or above the county level discovers an infectious disease, it shall promptly notify the local customs and the immigration administration.\nAny unit or individual that discovers a risk of spreading an infectious disease at a port or in persons, means of transport, goods or articles entering or leaving the country shall promptly report to the nearest customs or the disease prevention and control institution where the port is located."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring of Infectious Diseases"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The General Administration of Customs, the health department of the State Council and the disease prevention and control department of the State Council shall, in accordance with their duties, promptly notify each other of the relevant information on infectious diseases.\nThe relevant departments of the State Council shall, in accordance with the international treaties on frontier health quarantine concluded or acceded to by China and in accordance with their duties, exchange the relevant information on infectious diseases with the countries or regions and international organisations concerned."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring of Infectious Diseases"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The General Administration of Customs shall, on the basis of the surveillance of infectious diseases outside the country, assess the risk of infectious disease epidemics outside the country and promptly release the relevant risk warning information."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Monitoring of Infectious Diseases"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Customs shall, in accordance with this Law, the relevant laws and administrative regulations and the health standards prescribed by the State, carry out sanitary supervision over the sanitary conditions of ports and of means of transport entering or leaving the country that stay at ports, and shall perform the following duties:\n(a) carry out the surveillance of disease vector organisms and supervise and guide the units and persons concerned in the prevention and elimination of disease vector organisms;\n(b) supervise the sanitary conditions of food production and operation, drinking water supply and public places, as well as the health status of practitioners;\n(c) supervise the treatment of solid and liquid waste and of ship ballast water;\n(d) other sanitary supervision duties prescribed by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Health Supervision"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Port operating units shall establish and improve and strictly implement the relevant sanitary systems, and shall ensure that the sanitary conditions of ports meet the requirements of laws, administrative regulations and the health standards prescribed by the State.\nThe person in charge of a means of transport entering or leaving the country shall take effective measures to keep the means of transport clean and hygienic and free from contamination."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Health Supervision"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where food production and operation, drinking water supply services or the operation of public places are carried on within a port, customs shall implement health licensing in accordance with law; a food producer or operator that has obtained a health licence need not obtain a separate food production and operation licence."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Health Supervision"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where customs, in carrying out sanitary supervision, finds that the sanitary conditions of a port or of a means of transport entering or leaving the country do not meet the requirements of laws, administrative regulations and the health standards prescribed by the State, it shall have the power to require the units and individuals concerned to rectify, and to require them to carry out sanitary treatment when necessary."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Health Supervision"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a major infectious disease epidemic occurs and emergency response measures need to be taken at ports, the provisions of this Chapter shall apply."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a major infectious disease epidemic occurs and emergency response measures need to be taken at ports, the General Administration of Customs, the health department of the State Council and the disease prevention and control department of the State Council shall request the State Council to approve the initiation of an emergency response. The General Administration of Customs, the health department of the State Council, the disease prevention and control department of the State Council and other relevant departments shall, in accordance with their respective duties, cooperate closely in carrying out the relevant emergency response work.\nThe local people's governments at or above the county level where ports are located shall provide support in terms of premises, facilities, equipment, materials, manpower and technology for emergency response."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "On the basis of the needs of emergency response to a major infectious disease epidemic, the following measures may be taken upon decision by the State Council:\n(a) carry out sampling and testing of persons coming from specific countries or regions;\n(b) prohibit the entry or exit of specific goods and articles;\n(c) designate ports of entry and exit;\n(d) temporarily close the ports concerned or suspend part of the functions of the ports concerned;\n(e) temporarily close the relevant national borders;\n(f) other necessary emergency response measures.\nThe emergency response measures prescribed in the preceding paragraph shall be published in advance."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Emergency response measures prescribed in this Chapter shall be adjusted or lifted in a timely manner according to the actual situation of the prevention and control of the major infectious disease epidemic, and shall be published."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Emergency Response"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The General Administration of Customs shall, together with the relevant departments of the State Council, formulate and organise the implementation of the plan for the development of public health capacity at ports.\nThe relevant departments of the State Council, the local people's governments at or above the county level where ports are located, the port operating units and other relevant units shall actively support the development of public health capacity at ports."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State shall incorporate frontier health quarantine work into the system for the prevention and treatment of infectious diseases.\nThe funds required for frontier health quarantine work shall be included in the budget, and the materials required for emergency response to a major infectious disease epidemic at ports shall be included in the national system for guaranteeing materials for public health emergencies."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The construction of frontier health quarantine infrastructure shall take into overall account the needs of routine frontier health quarantine work and of emergency response to major infectious disease epidemics.\nThe construction of frontier health quarantine infrastructure shall be incorporated into port construction plans. Where ports are newly built, rebuilt or expanded, frontier health quarantine infrastructure shall be built in a coordinated manner, and the relevant construction plans shall be subject to examination and consent by customs.\nFrontier health quarantine infrastructure shall meet the prescribed construction standards, and infrastructure that does not meet the construction standards shall not be put into use. The construction standards and administrative measures for frontier health quarantine infrastructure shall be formulated by the General Administration of Customs together with the relevant departments of the State Council. Customs shall supervise the implementation of the construction standards for frontier health quarantine infrastructure."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State shall encourage and support scientific research, technological innovation and informatisation in the field of frontier health quarantine, promote the application of new technologies, new equipment, new products and informatisation results, and improve the technical and informatisation level of frontier health quarantine work."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Customs shall strengthen the development of technical institutions for frontier health quarantine, so as to provide technical and service support for frontier health quarantine work."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Frontier health quarantine staff shall possess the professional knowledge and vocational skills appropriate to the performance of their duties.\nCustoms shall strengthen the development of the frontier health quarantine workforce, organise continuing education and vocational training, and continuously improve the professional knowledge and vocational skills of frontier health quarantine staff."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VI Guarantee Measures"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person entering or leaving the country fails to truthfully declare his or her health status or related information or refuses to accept quarantine inspection, customs shall order rectification and may give a warning or impose a fine of not more than 10,000 yuan; where the circumstances are serious, a fine of not less than 10,000 yuan but not more than 50,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, any of the following circumstances applies, customs shall order the person in charge of the means of transport to rectify and give a warning, and may concurrently impose a fine of not more than 50,000 yuan; where the circumstances are serious, a fine of not less than 50,000 yuan but not more than 300,000 yuan shall be concurrently imposed:\n(a) failing to declare to customs the matters relating to quarantine inspection in accordance with the provisions or failing to truthfully declare such matters;\n(b) refusing to accept quarantine inspection of the means of transport or refusing to carry out sanitary treatment;\n(c) the means of transport entering or leaving the country without authorisation without having obtained an entry quarantine certificate or an exit quarantine certificate;\n(d) the means of transport leaving the designated quarantine inspection site, loading or unloading goods or articles, or taking on or letting off persons without the permission of customs;\n(e) failing to immediately report to customs where, during the stay at a port of a means of transport that has undergone quarantine inspection, a person infected or suspected of being infected with a quarantinable infectious disease is found, or a person dies other than from accidental injury and the cause of death is unknown;\n(f) a means of transport in transit loading or unloading goods or articles or taking on or letting off persons within China, or taking on fuel, drinking water, food and supplies without accepting the supervision of customs.\nWhere any of the following circumstances applies, a penalty shall be imposed in accordance with the provisions of the preceding paragraph:\n(a) the consignor and consignee, the sender and recipient, the person carrying or transporting (the bearer) and the carrier of goods and articles entering or leaving the country, or their agents, failing to declare to customs the matters relating to quarantine inspection in accordance with the provisions or failing to truthfully declare such matters, or refusing to accept quarantine inspection or refusing to carry out sanitary treatment, or removing or collecting goods and articles without the permission of customs;\n(b) the consignor or his or her agent consigning corpses or skeletal remains for entry or exit failing to declare to customs in accordance with the provisions or failing to truthfully declare, or entering or leaving the country without authorisation without having passed quarantine inspection."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, goods and articles relating to public health security, such as human tissues such as blood, pathogenic microorganisms and biological products, enter or leave the country without quarantine examination and approval, or enter or leave the country without authorisation without having passed quarantine inspection, customs shall order rectification, give a warning, confiscate the illegal gains, and concurrently impose a fine of not less than 10,000 yuan but not more than 500,000 yuan; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than 2 million yuan shall be concurrently imposed."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, a person without a licence carries on food production and operation, drinking water supply services or the operation of public places at a port, customs shall impose a penalty in accordance with the provisions of the Food Safety Law of the People's Republic of China and other relevant laws and administrative regulations.\nWhere a person violates other provisions of this Law on sanitary supervision or refuses to accept sanitary supervision, customs shall order rectification, give a warning, and may concurrently impose a fine of not more than 100,000 yuan; where the circumstances are serious, a fine of not less than 100,000 yuan but not more than 300,000 yuan shall be concurrently imposed."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Whoever uses frontier health quarantine certificates and documents that have been purchased or sold, lent, forged or altered shall be ordered by customs to rectify and shall be fined not less than 20,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where customs and other relevant departments, local people's governments and their staff members neglect their duties, abuse their powers or engage in malpractices for personal gain in frontier health quarantine work, the authority at the higher level or the unit to which they belong shall order rectification, and disciplinary sanctions shall be imposed in accordance with law on the responsible leading personnel and the directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes an act violating public security administration, the public security organ shall impose a public security administrative penalty in accordance with law; where a crime is constituted, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The meanings of the following terms in this Law are:\n(a) Quarantine inspection means taking inspection measures and implementing medical measures in respect of persons, means of transport, goods, articles, corpses and skeletal remains entering or leaving the country.\n(b) Medical patrol means the activity in which quarantine physicians observe, at the inbound and outbound passenger channels of a port, whether persons entering or leaving the country show clinical symptoms of infectious diseases and question persons with clinical symptoms.\n(c) Medical examination means the activity in which quarantine physicians examine the medical certificate documents of persons entering or leaving the country and carry out the necessary physical examinations, sampling and testing.\n(d) Sanitary treatment means measures such as disinfection, disinsection, deratisation and decontamination."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where the international treaties on health quarantine concluded or acceded to by the People's Republic of China contain provisions different from those of this Law, the provisions of such international treaties shall apply, except for the clauses on which the People's Republic of China has made reservations."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "For the health quarantine of persons, means of transport, goods and articles entering or leaving the country from places other than ports approved by the State Council or by a department authorised by the State Council, where there is a bilateral agreement between China and the country or region concerned, the agreement shall be followed; where there is no such agreement, the relevant provisions of the State shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "With the approval of the State Council, the General Administration of Customs may, on the basis of the surveillance and risk assessment of infectious diseases at home and abroad, make facilitation arrangements for the health quarantine measures of the ports concerned."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "For frontier health quarantine and related activities for which this Law makes no provision, the provisions of the Law of the People's Republic of China on the Prevention and Treatment of Infectious Diseases and other relevant laws and administrative regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The health quarantine of the personnel, means of transport, equipment and materials of the Chinese People's Liberation Army and the Chinese People's Armed Police Force entering or leaving the country shall be handled in accordance with this Law and the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 2025."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0141'] = {
     "lawId": "CN-LAW-0141",
     "sourceLang": "zh",
@@ -28013,6 +38189,696 @@
     ]
   };
 
+  TR['CN-LAW-0143'] = {
+    "lawId": "CN-LAW-0143",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 58 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to protect the ecosystems of islands and their surrounding sea areas, rationally develop and utilise the natural resources of islands, safeguard the maritime rights and interests of the State, and promote the sustainable development of the economy and society, this Law is enacted."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law shall apply to activities of protection, development and utilisation of, and related management of, the islands belonging to the People's Republic of China.\nFor the purposes of this Law, islands refer to naturally formed land areas surrounded by sea water on all sides and above the water surface at high tide, including inhabited islands and uninhabited islands.\nFor the purposes of this Law, island protection refers to the protection of the ecosystems of islands and their surrounding sea areas, the protection of the natural resources of uninhabited islands and the protection of islands for special purposes."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall apply to islands the principles of scientific planning, protection first, rational development and sustainable utilisation.\nThe State Council and the local people's governments at all levels in the coastal areas shall incorporate the protection and rational development and utilisation of islands into the plans for national economic and social development, take effective measures, strengthen the protection and management of islands, and prevent damage to the ecosystems of islands and their surrounding sea areas."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Uninhabited islands are owned by the State, and the State Council shall exercise, on behalf of the State, the ownership of uninhabited islands."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The competent marine department of the State Council and other relevant departments of the State Council shall, in accordance with the division of duties prescribed by laws and by the State Council, be responsible for the ecological protection of inhabited islands and their surrounding sea areas throughout the country. The competent marine departments and other relevant departments of the local people's governments at or above the county level in the coastal areas shall, in accordance with their respective duties, be responsible for the ecological protection of inhabited islands and their surrounding sea areas within their respective administrative areas.\nThe competent marine department of the State Council shall be responsible for the administration of the protection, development and utilisation of uninhabited islands throughout the country. The competent marine departments of the local people's governments at or above the county level in the coastal areas shall be responsible for the relevant work of administering the protection, development and utilisation of uninhabited islands within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The names of islands shall be determined and published by the State geographical names administration institution and the competent marine department of the State Council in accordance with the relevant provisions of the State Council.\nThe local people's governments at or above the county level in the coastal areas shall, in accordance with the provisions of the State, install island name markers on the islands where such markers need to be installed.\nIt shall be prohibited to damage or move without authorisation island name markers."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State Council and the local people's governments at all levels in the coastal areas shall strengthen publicity and education on island protection, enhance citizens' awareness of island protection, and shall reward the units and individuals that make notable achievements in island protection and in the relevant scientific research work.\nEvery unit and individual shall have the obligation to comply with the laws on island protection, and shall have the right to report to the competent marine department or other relevant departments acts violating the laws on island protection and acts damaging the island ecology."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall implement an island protection planning system. Island protection plans shall be the basis for engaging in island protection and utilisation activities.\nThe formulation of island protection plans shall follow the principle of being conducive to protecting and improving the ecosystems of islands and their surrounding sea areas and to promoting the sustainable economic and social development of islands.\nBefore an island protection plan is submitted for approval, the opinions of the relevant experts and the public shall be solicited, and the plan shall, after approval, be promptly published to society, except where State secrets are involved."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Island Protection Planning"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent marine department of the State Council shall, together with the relevant departments of the people's government at the same level and the military organs, and on the basis of the plans for national economic and social development and the national marine functional zoning, organise the preparation of the national island protection plan and submit it to the State Council for examination and approval.\nThe national island protection plan shall, in accordance with the natural attributes of islands such as their location, natural resources and environment, and their protection and utilisation status, determine the principles for the classified protection of islands, the uninhabited islands that may be utilised, and the islands that need to be restored as a priority, etc.\nThe national island protection plan shall be aligned with the national urban system plan and the national overall land use plan."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Island Protection Planning"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent marine department of the people's government of a coastal province or autonomous region shall, together with the relevant departments of the people's government at the same level and the military organs, and on the basis of the national island protection plan, the provincial urban system plan and the overall land use plan of the province or autonomous region, organise the preparation of the provincial island protection plan, submit it to the people's government of the province or autonomous region for examination and approval, and report it to the State Council for the record.\nThe overall urban plan organised and prepared by the people's government of a coastal municipality directly under the Central Government shall include a special plan for the protection of the islands within its administrative area.\nThe provincial island protection plan and the special island protection plan of a municipality directly under the Central Government shall prescribe specific measures for the classified protection of islands."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Island Protection Planning"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The people's government of a province or autonomous region may, according to the actual circumstances, require the people's governments of coastal cities, counties and towns within its administrative area to organise the preparation of special island protection plans and incorporate them into the overall urban plans and overall town plans; it may require the people's governments of coastal counties to organise the preparation of county-level island protection plans.\nThe special island protection plans of coastal cities and towns and the county-level island protection plans shall conform to the national island protection plan and the provincial island protection plan.\nIn preparing a special island protection plan for a coastal city or town, the opinions of the competent marine department of the people's government at the next higher level shall be solicited.\nCounty-level island protection plans shall be submitted to the people's government of the province or autonomous region for examination and approval and reported to the competent marine department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Island Protection Planning"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The people's government at the county level in a coastal area may organise the preparation of plans for the protection and utilisation of the utilisable uninhabited islands determined in the national island protection plan."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Island Protection Planning"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The modification of an island protection plan shall be submitted for approval in accordance with the approval procedures prescribed in Articles 9, 10 and 11 of this Law."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Island Protection Planning"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State shall establish and improve the island statistical survey system. The competent marine department of the State Council shall, together with the relevant departments, draw up a comprehensive island statistical survey plan, organise its implementation after approval in accordance with law, and publish a bulletin on the island statistical survey."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Island Protection Planning"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The State shall establish an island management information system, carry out surveys and assessments of the natural resources of islands, and conduct surveillance and monitoring of the protection and utilisation of islands."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Island Protection Planning"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The State Council and the local people's governments at all levels in the coastal areas shall take measures to protect the natural resources and natural landscapes of islands as well as historical and cultural relics.\nIt shall be prohibited to alter the coastlines of islands within nature reserves. It shall be prohibited to excavate or damage corals and coral reefs. It shall be prohibited to fell mangroves in the sea areas surrounding islands."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The State shall protect island vegetation and promote the conservation of freshwater resources on islands; it shall support the construction of facilities for freshwater storage, seawater desalination and the introduction of freshwater from outside inhabited islands."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State shall support the use of islands for scientific research activities. Scientific research activities carried out on islands shall not cause damage to the ecosystems of the islands and their surrounding sea areas."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The State shall carry out the registration of island species and protect and administer island biological species in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The State shall support the establishment of experimental bases on islands for the development and utilisation of renewable energy and for ecological development."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The State shall allocate special funds for island protection to be used for island protection, ecological restoration and scientific research activities."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State shall protect the military installations on islands, and it shall be prohibited to destroy or impair military installations.\nThe State shall protect public welfare facilities such as navigation aid and navigational guidance, surveying, meteorological observation, marine monitoring and seismic monitoring facilities lawfully installed on islands, and it shall be prohibited to damage or move them without authorisation or to hinder their normal use."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Section 1 General Provisions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The development and construction of inhabited islands shall comply with the provisions of laws and regulations on urban and rural planning, environmental protection, land administration, administration of sea area use, and protection of water resources and forests, and shall protect the ecosystems of the islands and their surrounding sea areas."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Section 2 Protection of Ecosystems of Inhabited Islands"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The development and construction of inhabited islands shall involve surveys and assessments of the land resources, water resources and energy conditions of the islands and environmental impact assessment in accordance with law. The development and construction of islands shall not exceed the environmental capacity of the islands. New, rebuilt or expanded construction projects must meet the requirements of the control targets for the discharge of major pollutants, construction land and total water use of the islands.\nThe development and construction of inhabited islands shall give priority to the use of renewable energy such as wind energy, ocean energy and solar energy and to technologies such as rainwater harvesting and storage, seawater desalination and sewage recycling.\nAreas where development is prohibited or restricted shall be delineated on inhabited islands and in their surrounding sea areas, and measures shall be taken to protect island biological habitats and prevent the degradation of island vegetation and the reduction of biodiversity."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Section 2 Protection of Ecosystems of Inhabited Islands"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Engineering construction on inhabited islands shall adhere to the principles of planning before construction and of giving priority to the construction of ecological protection facilities or building them simultaneously with the projects.\nWhere engineering construction causes ecological damage, the person responsible shall be responsible for restoration; where the person is unable to carry out restoration, the people's government at or above the county level shall order the construction to be stopped and may designate the relevant department to organise restoration, with the restoration costs borne by the unit or individual that caused the ecological damage."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Section 2 Protection of Ecosystems of Inhabited Islands"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The construction of buildings or facilities on the beaches of inhabited islands shall be strictly restricted; where construction is truly necessary, it shall be carried out in accordance with the provisions of laws and regulations on urban and rural planning, land administration and environmental protection. Buildings or facilities built on the beaches of inhabited islands without approval in accordance with law and causing serious damage to the ecosystems of the islands and their surrounding sea areas shall be demolished in accordance with law.\nThe excavation of sea sand on the beaches of inhabited islands shall be strictly restricted; where excavation is truly necessary, it shall be carried out in accordance with the provisions of laws and regulations on the administration of sea area use and on mineral resources."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Section 2 Protection of Ecosystems of Inhabited Islands"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Acts altering the coastlines of inhabited islands, such as sea reclamation and sea enclosure, shall be strictly restricted, and the construction of sea reclamation projects linking islands shall be strictly restricted; where it is truly necessary to reclaim or enclose sea areas to alter island coastlines, or to link islands by reclamation, the project applicant shall submit the project feasibility study report, the approved environmental impact assessment report and other application documents, and shall report for approval in accordance with the provisions of the Law of the People's Republic of China on the Administration of the Use of Sea Areas.\nWhere sea reclamation projects linking islands that were built on inhabited islands before this Law came into force cause serious damage to the ecosystems of the islands and their surrounding sea areas, the competent marine department of the people's government of the province, autonomous region or municipality directly under the Central Government where the islands are located shall, together with the relevant departments of the people's government at the same level, formulate an ecological restoration plan and organise its implementation after approval by the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Section 2 Protection of Ecosystems of Inhabited Islands"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Uninhabited islands utilised without approval shall be maintained in their existing state; it shall be prohibited to quarry stone, excavate sea sand, fell trees, or carry out production, construction, tourism or other activities thereon."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Section 3 Protection of Uninhabited Islands"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The collection of biological and non-biological samples on uninhabited islands shall be strictly restricted; where collection is truly necessary for teaching or scientific research, it shall be reported for approval to the competent marine department of the local people's government at or above the county level where the island is located."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Section 3 Protection of Uninhabited Islands"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Activities of development and utilisation of the utilisable uninhabited islands determined in the national island protection plan shall comply with the plans for the protection and utilisation of utilisable uninhabited islands, and strict ecological protection measures shall be taken to avoid damage to the ecosystems of the islands and their surrounding sea areas.\nTo develop and utilise a utilisable uninhabited island prescribed in the preceding paragraph, an application shall be filed with the competent marine department of the people's government of the province, autonomous region or municipality directly under the Central Government, together with the project feasibility study report, the specific development and utilisation plan and other application documents; the competent marine department shall organise the relevant departments and experts to conduct an examination, put forward examination opinions, and submit them to the people's government of the province, autonomous region or municipality directly under the Central Government for examination and approval.\nWhere the development and utilisation of an uninhabited island involves the use of an island for special purposes, or truly requires sea reclamation linking islands or other acts seriously altering the natural topography and landforms of the island, the matter shall be subject to approval by the State Council.\nThe specific measures for the examination and approval of the development and utilisation of uninhabited islands shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Section 3 Protection of Uninhabited Islands"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where an uninhabited island is developed and utilised upon approval, the usage fee shall be paid in accordance with law, except where an uninhabited island is used for national defence, official business, teaching, disaster prevention and mitigation, the construction of non-commercial public infrastructure, basic surveying and mapping, meteorological observation or other public welfare undertakings.\nThe measures for the collection and use of the uninhabited island usage fee shall be prescribed by the finance department of the State Council together with the competent marine department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Section 3 Protection of Uninhabited Islands"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where buildings or facilities are constructed upon approval on a utilisable uninhabited island, the total amount of construction, the height and the distance from the coastline of the buildings and facilities shall be restricted in accordance with the plan for the protection and utilisation of the utilisable uninhabited island, so that they are coordinated with the surrounding vegetation and landscape."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Section 3 Protection of Uninhabited Islands"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Waste water generated in the course of utilising an uninhabited island shall be treated and discharged in accordance with the provisions.\nSolid waste generated in the course of utilising an uninhabited island shall be subjected to harmless treatment and disposal in accordance with the provisions, and it shall be prohibited to dump it on the uninhabited island or discharge it into the surrounding sea areas."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Section 3 Protection of Uninhabited Islands"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where an uninhabited island is utilised on a temporary basis, no permanent buildings or facilities shall be constructed on the island utilised."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Section 3 Protection of Uninhabited Islands"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "On a utilisable uninhabited island lawfully determined for carrying out tourism activities and in its surrounding sea areas, no residential settlements shall be constructed and no productive aquaculture activities shall be carried out; where productive aquaculture activities already exist, corresponding pollution prevention and control measures shall be determined in the preparation of the plan for the protection and utilisation of the utilisable uninhabited island."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Section 3 Protection of Uninhabited Islands"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The State shall implement special protection for islands with special purposes or special protection value, such as islands where the base points of the territorial sea are located, islands for national defence purposes and islands within marine nature reserves."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Section 4 Protection of Islands for Special Uses"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "For an island where the base points of the territorial sea are located, the people's government of the province, autonomous region or municipality directly under the Central Government where the island is located shall delineate a protection scope and report it to the competent marine department of the State Council for the record. Conspicuous markers shall be installed at the base points of the territorial sea and around their protection scope.\nIt shall be prohibited to carry out engineering construction or other activities that may alter the topography and landforms of the area within the protection scope of the base points of the territorial sea. Where engineering construction for the purpose of protecting the base points of the territorial sea is truly necessary, it shall be subject to scientific demonstration and, after obtaining the consent of the competent marine department of the State Council, the approval formalities shall be gone through in accordance with law.\nIt shall be prohibited to damage or move without authorisation the markers of the base points of the territorial sea.\nThe competent marine departments of the people's governments at or above the county level shall, in accordance with the provisions of the State, conduct surveillance and monitoring of the ecosystems of the islands where the base points of the territorial sea are located and of their surrounding sea areas.\nEvery unit and individual shall have the obligation to protect the base points of the territorial sea of islands. Where damage to the base points of the territorial sea or to the topography and landforms within the protection scope of the base points of the territorial sea is discovered, it shall be promptly reported to the local people's government or the competent marine department."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Section 4 Protection of Islands for Special Uses"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "It shall be prohibited to damage the natural topography and landforms of uninhabited islands for national defence purposes and the topography and landforms of areas for national defence purposes on inhabited islands and their surroundings.\nIt shall be prohibited to use uninhabited islands for national defence purposes for purposes unrelated to national defence. When the use for national defence purposes is terminated, the island and the relevant materials on ecological protection shall, upon approval by the military organ, be transferred together to the people's government of the province, autonomous region or municipality directly under the Central Government where the island is located."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Section 4 Protection of Islands for Special Uses"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The State Council, the relevant departments of the State Council and the people's governments of coastal provinces, autonomous regions and municipalities directly under the Central Government shall, according to the needs of protecting the natural resources and natural landscapes of islands as well as historical and cultural relics, lawfully approve the establishment of marine nature reserves or special marine protected areas for islands with special protection value and their surrounding sea areas."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Section 4 Protection of Islands for Special Uses"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The relevant departments of the people's governments at or above the county level shall, in accordance with law, supervise and inspect the protection, development and construction of inhabited islands."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent marine departments shall, in accordance with law, supervise and inspect the protection and rational utilisation of uninhabited islands.\nThe competent marine departments and their marine surveillance institutions shall, in accordance with law, supervise and inspect the protection of the ecosystems of the sea areas surrounding islands."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "In performing their supervision and inspection duties in accordance with law, the competent marine departments shall have the power to require the units and individuals under inspection to give explanations on issues relating to the utilisation of islands and to provide the relevant documents and materials on the utilisation of islands; they shall have the power to enter the islands utilised by the units and individuals under inspection to carry out on-site inspection.\nInspectors shall, when performing inspection duties, present valid law enforcement credentials. The units and individuals concerned shall cooperate with the inspection work, truthfully report the situation and provide the relevant documents and materials; they shall not refuse or obstruct the inspection work."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Inspectors must be loyal to their duties, enforce the law impartially, remain honest and upright and provide services in a civilised manner, and shall accept supervision in accordance with law. Where, in investigating and dealing with acts violating the provisions of this Law in accordance with law, it is discovered that a staff member of a State organ has committed an illegal act for which disciplinary sanction should be given, a recommendation for disciplinary sanction shall be made to the authority that appoints and removes him or her or to the supervisory organ."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the competent marine department or another department responsible for the supervision and administration of island protection fails to investigate and deal with an illegal act in accordance with law after discovering it or receiving a report on it, or commits other acts of failing to perform its duties in accordance with the provisions of this Law, the people's government at the same level or the competent department of the people's government at the next higher level shall order rectification, and disciplinary sanctions shall be imposed in accordance with law on the directly responsible leading personnel and other directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, alters the coastline of an island within a nature reserve, alters an island coastline by sea reclamation or sea enclosure, or links islands by reclamation shall be punished in accordance with the provisions of the Law of the People's Republic of China on the Administration of the Use of Sea Areas."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, excavates or damages corals or coral reefs, or fells mangroves in the sea areas surrounding islands, shall be punished in accordance with the provisions of the Marine Environment Protection Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, quarries stone, excavates sea sand, fells trees or collects biological or non-biological samples on an uninhabited island shall be ordered by the competent marine department of the people's government at or above the county level to stop the illegal act, the illegal gains shall be confiscated, and a fine of not more than 20,000 yuan may be concurrently imposed.\nWhoever, in violation of the provisions of this Law, carries out production or construction activities or organises tourism activities on an uninhabited island shall be ordered by the competent marine department of the people's government at or above the county level to stop the illegal act, the illegal gains shall be confiscated, and a fine of not less than 20,000 yuan but not more than 200,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, carries out activities seriously altering the natural topography and landforms of an uninhabited island shall be ordered by the competent marine department of the people's government at or above the county level to stop the illegal act and shall be fined not less than 50,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Whoever illegally discharges pollutants on an island or in its surrounding sea areas shall be punished in accordance with the provisions of the relevant environmental protection laws."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, carries out engineering construction or other activities that may alter the topography and landforms of the area within the protection scope of the base points of the territorial sea, constructs permanent buildings or facilities on an uninhabited island utilised on a temporary basis, or constructs residential settlements on a utilisable uninhabited island lawfully determined for carrying out tourism activities shall be ordered by the competent marine department of the people's government at or above the county level to stop the illegal act and shall be fined not less than 20,000 yuan but not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Whoever damages or moves without authorisation the markers of the base points of the territorial sea shall be given a public security administrative penalty in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Whoever destroys or impairs the military installations on an island, or damages or moves without authorisation the public welfare facilities such as navigation aid and navigational guidance, surveying, meteorological observation, marine monitoring and seismic monitoring facilities installed on an island, shall be punished in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an approval for the development and utilisation of an uninhabited island is granted by an authority without the power to grant such approval, or beyond the approval authority, or in violation of an island protection plan, the approval document shall be invalid; disciplinary sanctions shall be imposed in accordance with law on the directly responsible leading personnel and other directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, refuses supervision and inspection by the competent marine department, practises fraud when accepting supervision and inspection, or fails to provide the relevant documents and materials shall be ordered by the competent marine department of the people's government at or above the county level to rectify and may be fined not more than 20,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, constitutes a crime shall be pursued for criminal responsibility in accordance with law.\nWhoever causes damage to the ecosystems of islands and their surrounding sea areas shall bear civil liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The protection of low-tide elevations and the related management activities shall be governed by reference to the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The meanings of the following terms in this Law are:\n(a) The ecosystems of islands and their surrounding sea areas refer to the organic complex composed of biological communities and the non-biological environment such as the island body, coastline, beaches, vegetation, freshwater and the surrounding sea areas that sustain the existence of the islands.\n(b) Uninhabited islands refer to islands that are not the registered place of residence under the household registration administration of residents.\n(c) Low-tide elevations refer to naturally formed land areas surrounded by sea water on all sides and above the water surface at low tide but submerged in water at high tide.\n(d) Linking islands by reclamation refers to the act of connecting an island to land, or an island to another island, by means such as reclaiming land from the sea.\n(e) Temporary utilisation of uninhabited islands refers to the act of landing on or calling at an uninhabited island for a short period for the needs of official business, teaching, scientific investigation, disaster relief, avoidance of danger, etc."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "This Law shall enter into force on 1 March 2010."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0145'] = {
     "lawId": "CN-LAW-0145",
     "sourceLang": "zh",
@@ -28281,6 +39147,1002 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0146'] = {
+    "lawId": "CN-LAW-0146",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 84 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to regulate and guarantee the performance of duties by coast guard agencies, safeguard national sovereignty, security and maritime rights and interests, and protect the lawful rights and interests of citizens, legal persons and other organisations, this Law is enacted."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The Coast Guard Force of the People's Armed Police Force is the coast guard agency, which shall perform the duties of maritime rights protection and law enforcement in a unified manner.\nCoast guard agencies include the China Coast Guard and its sea area branches and directly affiliated bureaus, provincial coast guard bureaus, municipal coast guard bureaus and coast guard workstations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "This Law shall apply to maritime rights protection and law enforcement activities carried out by coast guard agencies in the sea areas under the jurisdiction of the People's Republic of China (hereinafter referred to as the sea areas under China's jurisdiction) and in the airspace above them."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Maritime rights protection and law enforcement work shall uphold the leadership of the Communist Party of China, implement the holistic approach to national security, and follow the principles of administration in accordance with law, comprehensive governance, standardisation and efficiency, and justice and civility."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The basic tasks of maritime rights protection and law enforcement work are to carry out maritime security protection, maintain maritime public order, combat smuggling and illegal border crossing at sea, supervise and inspect within the scope of duties the development and utilisation of marine resources, the protection of the marine ecological environment and marine fishery production operations, and prevent, stop and punish illegal and criminal activities at sea."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The performance of duties by coast guard agencies and their staff in accordance with law shall be protected by law, and no organisation or individual shall unlawfully interfere with, refuse or obstruct such performance."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Staff members of coast guard agencies shall abide by the Constitution and laws, uphold honour, be loyal to their duties, observe strict discipline, enforce the law strictly, and remain honest and upright."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State shall establish a mechanism of collaboration and cooperation in maritime rights protection and law enforcement that coordinates land and sea, divides work and cooperates, and is scientific and efficient. The relevant departments of the State Council, the coastal local people's governments, the relevant departments of the armed forces and the coast guard agencies shall strengthen collaboration and cooperation with each other and do a good job in maritime rights protection and law enforcement work."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Organisations and individuals that make outstanding contributions in maritime rights protection and law enforcement activities shall be commended and rewarded in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State shall, in the coastal areas, establish, in accordance with administrative divisions and mission areas, the sea area branches and directly affiliated bureaus of the China Coast Guard, provincial coast guard bureaus, municipal coast guard bureaus and coast guard workstations, which shall respectively be responsible for the relevant maritime rights protection and law enforcement work in the areas under their jurisdiction. The China Coast Guard shall, in accordance with the relevant provisions of the State, lead the coast guard agencies under it in carrying out maritime rights protection and law enforcement work."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Duties"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The jurisdictional areas of coast guard agencies shall be reasonably delineated and adjusted according to the needs of maritime rights protection and law enforcement work, and may not be subject to the limits of administrative divisions.\nThe delineation and adjustment of the jurisdictional areas of coast guard agencies shall be promptly published to society and notified to the relevant authorities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Duties"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Coast guard agencies shall perform the following duties in accordance with law:\n(a) carry out patrols and vigilance in the sea areas under China's jurisdiction, guard key islands and reefs, manage and protect maritime boundary lines, and prevent, stop and eliminate acts endangering national sovereignty, security and maritime rights and interests;\n(b) carry out security protection for important maritime targets and major activities, and take necessary measures to protect key islands and reefs and the safety of artificial islands, installations and structures in the exclusive economic zone and on the continental shelf;\n(c) carry out maritime public security administration, investigate and deal with acts violating public security administration and entry and exit administration at sea, prevent and handle maritime terrorist activities, and maintain maritime public order;\n(d) inspect means of transport or goods, articles and persons suspected of smuggling at sea, and investigate and deal with illegal acts of smuggling at sea;\n(e) within the scope of their duties, supervise and inspect the use of sea areas, the protection of islands and the development and utilisation of uninhabited islands, the exploration and development of marine mineral resources, the laying and protection of submarine cables (optical cables) and pipelines, marine survey and measurement, basic marine surveying and mapping, and marine scientific research involving foreign parties, and investigate and deal with illegal acts;\n(f) within the scope of their duties, supervise and inspect marine engineering construction projects, pollution damage to the sea caused by the dumping of wastes at sea, and the protection and utilisation of the seaward side of the coastline of protected natural areas, investigate and deal with illegal acts, and participate in the emergency handling, investigation and disposal of marine environmental pollution accidents in accordance with the prescribed authority;\n(g) supervise and inspect fishery production operations in the sea areas outside the line of the closed fishing zones for bottom trawling by motorised fishing vessels and in fishing grounds for specific fishery resources, and the protection of marine wild animals, investigate and deal with illegal acts, and organise or participate in the investigation and disposal of maritime fishery production safety accidents and fishery production disputes in accordance with law;\n(h) prevent, stop and investigate maritime criminal activities;\n(i) handle maritime emergencies in accordance with the division of duties prescribed by the State;\n(j) undertake the relevant law enforcement tasks in areas outside the sea areas under China's jurisdiction in accordance with laws, regulations and the international treaties concluded or acceded to by China;\n(k) other duties prescribed by laws and regulations.\nThe division of duties between coast guard agencies and the competent departments for public security, natural resources, ecological environment, transport, fisheries and fishery administration, and customs shall be implemented in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Duties"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a coast guard agency receives an urgent request for help due to a maritime natural disaster, accident or disaster or other emergency, it shall promptly notify the competent department concerned and actively carry out emergency rescue and relief."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Duties"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Central State organs shall, in accordance with the relevant provisions of the State, provide professional guidance for maritime rights protection and law enforcement work."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Duties"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The China Coast Guard and its sea area branches shall, in accordance with the relevant provisions of the State, coordinate and guide the maritime law enforcement teams of the coastal local people's governments in carrying out law enforcement work relating to the use of sea areas, the protection and development of islands, the protection of the marine ecological environment and the administration of marine fisheries.\nWhere the needs of maritime rights protection and law enforcement work so require, the China Coast Guard and its sea area branches may coordinate in a unified manner the vessels and personnel of the maritime law enforcement teams of the coastal local people's governments to participate in major maritime rights protection and law enforcement operations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Institutions and Duties"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In order to safeguard maritime security and order, coast guard agencies shall have the power to, in accordance with law, identify and verify foreign vessels navigating, berthing or operating in the sea areas under China's jurisdiction, and to ascertain the basic information of the vessels and the basic circumstances of their navigation and operations. In respect of foreign vessels suspected of violations of law, coast guard agencies shall have the power to take measures such as tracking and surveillance."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Security Protection"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In respect of foreign vessels illegally entering the territorial sea of China and the sea areas landward of it, coast guard agencies shall have the power to order them to leave immediately, or to take measures such as detention, compulsory expulsion and compulsory towing away."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Security Protection"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "In executing maritime security protection tasks, coast guard agencies may, in accordance with law, board and inspect vessels navigating, berthing or operating in the sea areas under China's jurisdiction.\nIn boarding and inspecting a vessel, a coast guard agency shall, by clear instructions, require the vessel under inspection to stop for inspection. The vessel under inspection shall stop for inspection in accordance with the instructions and provide the necessary conveniences; where it refuses to cooperate with the inspection, the coast guard agency may conduct a compulsory inspection; where it flees from the scene, the coast guard agency shall have the power to take necessary measures to intercept and pursue it.\nIn inspecting a vessel, a coast guard agency shall have the power to, in accordance with law, verify the certificates and materials relating to the vessel and its production and operation licences as well as the identity information of the personnel, inspect the vessel and the goods and articles carried thereon, and investigate and collect evidence on the relevant facts of the violation.\nThe boarding, inspection, interception and hot pursuit of foreign vessels shall comply with the relevant provisions of the international treaties concluded or acceded to by China."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Security Protection"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where the urgent need to handle a maritime emergency so requires, a coast guard agency may take the following measures:\n(a) order a vessel to stop navigating or operating;\n(b) order a vessel to change course or to sail to a designated place;\n(c) order persons on board a vessel to disembark, or restrict or prohibit persons from boarding or disembarking;\n(d) order a vessel to unload goods, or restrict or prohibit a vessel from unloading goods;\n(e) other measures prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Security Protection"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where, without the approval of the competent authorities of China, foreign organisations and individuals construct buildings or structures, or install various fixed or floating devices, in the sea areas and on the islands and reefs under China's jurisdiction, coast guard agencies shall have the power to order them to stop the aforesaid illegal acts or to dismantle the same within a time limit; where they refuse to stop the illegal acts or fail to dismantle the same within the time limit, coast guard agencies shall have the power to stop them or to demolish the same compulsorily."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Security Protection"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In respect of acts of foreign military vessels and foreign government vessels used for non-commercial purposes that violate the laws and regulations of China in the sea areas under China's jurisdiction, coast guard agencies shall have the power to take necessary vigilance and control measures to stop them and to order them to leave the relevant sea areas immediately; where they refuse to leave and cause serious harm or threat, coast guard agencies shall have the power to take measures such as compulsory expulsion and compulsory towing away."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Security Protection"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the sovereignty, sovereign rights and jurisdiction of the State are being unlawfully infringed at sea by foreign organisations or individuals, or face an imminent danger of such infringement, coast guard agencies shall have the power to, in accordance with this Law and other relevant laws and regulations, take all necessary measures, including the use of weapons, to stop the infringement and eliminate the danger."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Maritime Security Protection"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "In respect of organisations and individuals that violate laws, regulations and rules on maritime public security, customs, the development and utilisation of marine resources, the protection of the marine ecological environment and the administration of marine fisheries, coast guard agencies shall, in accordance with law, implement administrative penalties including restriction of personal freedom, administrative compulsion, or other measures prescribed by laws and regulations.\nCoast guard agencies shall, in accordance with the provisions of laws and regulations on the development and utilisation of marine resources, the protection of the marine ecological environment and the administration of marine fisheries, carry out supervision and inspection at the sites of maritime production operations.\nWhere the investigation of illegal acts at sea so requires, coast guard agencies shall have the power to collect and obtain evidence from the relevant organisations and individuals. The relevant organisations and individuals shall truthfully provide evidence.\nWhere coast guard agencies, in order to maintain maritime public order, conduct on-the-spot questioning or inspection of persons suspected of illegal or criminal activities, or continued questioning, the provisions of the People's Police Law of the People's Republic of China shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a coast guard agency needs to board, inspect, intercept or hotly pursue the vessel concerned for the purpose of administrative law enforcement, the provisions of Article 18 of this Law shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where any of the following circumstances applies, a coast guard agency at or above the level of a provincial coast guard bureau may delineate a temporary maritime vigilance zone in the sea areas under China's jurisdiction to restrict or prohibit the passage or stay of vessels and persons:\n(a) the needs of executing maritime security protection tasks;\n(b) the needs of combating illegal and criminal activities at sea;\n(c) the needs of handling maritime emergencies;\n(d) the needs of protecting marine resources and the ecological environment;\n(e) other circumstances in which a temporary maritime vigilance zone needs to be delineated.\nIn delineating a temporary maritime vigilance zone, matters such as the geographical scope, the period of vigilance and the management measures of the zone shall be specified and announced. Where maritime traffic safety may be affected, the opinions of the maritime safety administration shall be solicited before delineation, and an application shall be made to the maritime safety administration for the issuance of a navigational notice or navigational warning in accordance with the relevant provisions; where military use of the sea is involved or the safety and use of maritime military installations may be affected, the consent of the relevant department of the armed forces shall be obtained in accordance with law.\nWhere the restriction or prohibition of the passage or stay of vessels and persons is no longer necessary, the coast guard agency shall promptly lift the vigilance and make an announcement."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "In respect of a vessel suspected of a violation of law that is under investigation and handling, a coast guard agency may order it to suspend navigation or operation and to berth at a designated place, or prohibit it from leaving port. When necessary, a coast guard agency may escort the suspected vessel to a designated place for investigation and handling."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where vessels of international organisations, foreign organisations and individuals engage, with the approval of the competent authorities of China, in fishery production operations and other activities such as the exploration and development of natural resources, marine scientific research and the laying of submarine cables (optical cables) and pipelines in the sea areas under China's jurisdiction, coast guard agencies shall supervise them in accordance with law and may send law enforcement personnel on board for supervision."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "In order to prevent, stop and punish acts in the land territory, internal waters or territorial sea of China that violate laws and regulations on security, customs, finance, health or entry and exit administration, coast guard agencies shall have the power to exercise control rights in the contiguous zone and to implement administrative compulsory measures or other measures prescribed by laws and regulations in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where the facts of a violation are conclusive and any of the following circumstances applies, the law enforcement personnel of a coast guard agency may make a penalty decision on the spot:\n(a) a fine of not more than 500 yuan or a warning is imposed on an individual, or a fine of not more than 5,000 yuan or a warning is imposed on a unit;\n(b) the penalty decision is not made on the spot at sea, and it would be difficult to impose the penalty afterwards.\nA penalty decision made on the spot shall be promptly reported to the coast guard agency to which the personnel belong for the record."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "For maritime administrative cases that are not suitable for on-the-spot penalty but in which the facts are clear, the party voluntarily admits the fault and accepts the penalty, and there is no objection to the facts of the violation and the application of law, the coast guard agency may, after obtaining the written consent of the party, handle them rapidly through measures such as simplifying the methods of obtaining evidence and the examination and approval procedures.\nFor maritime administrative cases meeting the conditions for rapid handling, where the party admits the facts of the violation and accepts the fault and the penalty in a self-written statement or in the record of questioning, and key evidence such as audio-visual materials, electronic data and inspection records can corroborate each other, the coast guard agency may dispense with other investigation and evidence collection work.\nWhere the questioning process is audio-recorded or video-recorded by means of law enforcement recorders or other equipment, the written record of questioning may be replaced. When necessary, a textual explanation of the key contents and the corresponding time periods of the audio-visual materials shall be made.\nFor a maritime administrative case handled rapidly, the coast guard agency shall make a decision within 48 hours after the party appears before the agency."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where any of the following circumstances applies to a maritime administrative case, rapid handling shall not apply:\n(a) a hearing procedure shall apply in accordance with law;\n(b) a penalty of administrative detention of 10 days or more may be imposed;\n(c) the case has a major social impact;\n(d) a crime may be suspected;\n(e) other circumstances under which rapid handling is inappropriate."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Before a coast guard agency implements an administrative compulsory measure, the law enforcement personnel shall report to the person in charge of their unit and obtain approval. Where, in an emergency, it is necessary to implement an administrative compulsory measure on the spot at sea, a report shall be made to the person in charge of the unit within 24 hours and the approval formalities shall be completed promptly after arrival onshore; where it is impossible to report to the person in charge of the unit within 24 hours due to force majeure, a report shall be made to the person in charge of the unit within 24 hours after the effects of the force majeure are eliminated. Where the person in charge of the coast guard agency considers that the administrative compulsory measure should not be taken, it shall be lifted immediately."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a party fails to perform a penalty decision within the time limit, the coast guard agency that made the penalty decision may take the following measures in accordance with law:\n(a) where the fine is not paid when due, an additional fine of 3 per cent of the amount of the fine shall be imposed for each day of delay;\n(b) the property sealed up or seized shall be auctioned or sold in accordance with law, or the frozen deposits or remittances shall be transferred to offset the fine;\n(c) other methods of administrative compulsory enforcement shall be taken in accordance with the provisions of law.\nFor matters in respect of which neither this Law nor other laws provide that coast guard agencies may implement administrative compulsory enforcement, coast guard agencies shall apply to the people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The division of jurisdiction among coast guard agencies at various levels over maritime administrative cases shall be prescribed by the China Coast Guard.\nWhere a dispute arises between a coast guard agency and another authority over jurisdiction over a maritime administrative case, the coast guard agency and the other authority shall resolve it through consultation in accordance with the principle of facilitating the investigation and handling of the case."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where, in handling a maritime administrative case, a coast guard agency has evidence proving that the party concerned committed at sea an act of intentionally destroying evidence such as pouring articles into the sea, which makes it difficult for the coast guard agency to adduce evidence, it may, in conjunction with other evidence, presume that the relevant facts of the violation are established, unless the party concerned has evidence sufficient to overturn the presumption."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where coast guard agencies carry out maritime law enforcement work such as patrol, vigilance, interception and hot pursuit using law enforcement vessels or aircraft marked with special logos, this shall constitute an indication of their identity.\nWhere coast guard agencies conduct an administrative law enforcement investigation or inspection, the law enforcement personnel shall not be fewer than two persons, and shall proactively present their law enforcement credentials to indicate their identity. The party concerned or other relevant persons shall have the right to require the law enforcement personnel to present their law enforcement credentials."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "For procedures for maritime administrative law enforcement carried out by coast guard agencies for which this Law makes no provision, the provisions of the Law of the People's Republic of China on Administrative Penalties, the Law of the People's Republic of China on Administrative Compulsion, the Law of the People's Republic of China on Penalties for Administration of Public Security and other relevant laws shall apply."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Maritime Administrative Law Enforcement"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "In handling criminal cases occurring at sea, coast guard agencies shall, in accordance with the Criminal Procedure Law of the People's Republic of China and the relevant provisions of this Law, exercise the power of investigation and take investigative measures and criminal compulsory measures."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Investigation of Maritime Crimes"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "After placing a case on file, coast guard agencies may, in respect of criminal cases endangering national security, criminal cases of terrorist activities, criminal cases of organisations of a triad nature, major drug-related criminal cases or other criminal cases seriously endangering society, take technical investigation measures through strict approval procedures in accordance with the Criminal Procedure Law of the People's Republic of China and the relevant provisions, and refer the same to the relevant authorities for implementation in accordance with the provisions.\nTo pursue criminal suspects or defendants at large who are wanted or whose arrest has been approved or decided, necessary technical investigation measures for the pursuit may be taken upon approval."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Investigation of Maritime Crimes"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a criminal suspect who should be arrested is at large, a coast guard agency may issue a wanted notice in accordance with the provisions and take effective measures to pursue and bring the person to justice.\nWhere a coast guard agency issues a wanted notice for a criminal suspect, it may request the public security organ to assist in the pursuit."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Investigation of Maritime Crimes"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a coast guard agency needs to board, inspect, intercept or hotly pursue the vessel concerned for the purpose of handling a maritime criminal case, the provisions of Article 18 of this Law shall be followed."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Investigation of Maritime Crimes"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a coast guard agency, a people's procuratorate or a people's court decides in accordance with law to release a criminal suspect or defendant in a maritime criminal case on bail pending trial, the decision shall be executed by the coast guard agency of the place where the person released on bail resides. Where no coast guard agency is established in the place where the person released on bail resides, the local public security organ shall assist in execution."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Investigation of Maritime Crimes"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a coast guard agency, a people's procuratorate or a people's court decides in accordance with law to place a criminal suspect or defendant in a maritime criminal case under residential surveillance, the decision shall be executed by a coast guard agency at the residence of the person under residential surveillance; where the person under residential surveillance has no fixed residence in the city or county where the coast guard agency handling the case is located, the decision may be executed at a designated residence. For persons suspected of criminal cases endangering national security or criminal cases of terrorist activities, where execution at their residence may hinder the investigation, the decision may, upon approval by the coast guard agency at the next higher level, also be executed at a designated residence. However, it shall not be executed at a place of custody or a dedicated case-handling venue."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Investigation of Maritime Crimes"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Coast guard workstations shall be responsible for investigating maritime criminal cases occurring within their respective jurisdictional areas.\nCoast guard agencies at or above the level of a municipal coast guard bureau shall be responsible for investigating major criminal cases endangering national security, criminal cases of terrorist activities, foreign-related criminal cases, economic criminal cases, gang criminal cases and other major criminal cases within their jurisdictional areas.\nWhere a coast guard agency at a higher level considers it necessary, it may investigate a maritime criminal case within the jurisdiction of a coast guard agency at a lower level; where a coast guard agency at a lower level considers that a maritime criminal case involves major circumstances and needs to be investigated by a coast guard agency at a higher level, it may request the coast guard agency at the higher level to take jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Investigation of Maritime Crimes"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a coast guard agency, in handling a maritime criminal case, needs to request approval of arrest or transfer the case for prosecution, it shall submit the request or transfer the case to the corresponding people's procuratorate at its location."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Investigation of Maritime Crimes"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where any of the following circumstances applies, staff members of coast guard agencies may use police restraints or other equipment and tools on the spot:\n(a) where it is necessary to compel a vessel to stop navigating when boarding, inspecting, intercepting or hotly pursuing the vessel in accordance with law;\n(b) where a vessel is compulsorily expelled or compulsorily towed away in accordance with law;\n(c) where obstruction or impediment is encountered in the course of performing duties in accordance with law;\n(d) other circumstances in which it is necessary to stop illegal or criminal acts on the spot."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Police Gear and Weapons"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where any of the following circumstances applies and a warning proves ineffective, staff members of coast guard agencies may use hand-held weapons:\n(a) there is evidence that a vessel carries criminal suspects or illegally carries weapons, ammunition, materials containing State secrets, narcotics or other articles, and refuses to obey an order to stop the vessel;\n(b) a foreign vessel enters the sea areas under China's jurisdiction to illegally engage in production or operation activities and refuses to obey an order to stop the vessel or otherwise refuses to accept boarding and inspection, and the use of other measures is insufficient to stop the illegal act."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Police Gear and Weapons"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where any of the following circumstances applies, staff members of coast guard agencies may, in addition to hand-held weapons, also use ship-borne or aircraft-borne weapons:\n(a) where they are carrying out maritime counter-terrorism tasks;\n(b) where they are handling serious incidents of violence at sea;\n(c) where law enforcement vessels or aircraft are attacked with weapons or by other dangerous means."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Police Gear and Weapons"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where staff members of coast guard agencies use weapons in accordance with law and there is no time to give a warning, or a warning might lead to more serious harmful consequences, they may use weapons directly."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Police Gear and Weapons"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Staff members of coast guard agencies shall, on the basis of the dangerous nature, degree and urgency of the illegal or criminal acts and of the persons committing them, reasonably judge the necessary limits for the use of weapons, and shall try to avoid or reduce unnecessary casualties and property losses."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Police Gear and Weapons"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where this Law makes no provision for the use of police restraints and weapons by staff members of coast guard agencies, the provisions on the use of police restraints and weapons by the people's police and the provisions of other relevant laws and regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Use of Police Gear and Weapons"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The State shall establish a funding guarantee mechanism suited to the maritime rights protection and law enforcement tasks undertaken by coast guard agencies and to their development. The funds required shall be included in the budget in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The relevant departments of the State Council and the local people's governments at or above the county level in the coastal areas and their relevant departments shall, when preparing territorial spatial plans and relevant special plans, take into overall account the needs of maritime rights protection and law enforcement work, and guarantee, in accordance with the relevant provisions of the State, the construction of premises and facilities for law enforcement and case handling, duty service and training, and living of coast guard agencies."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where the urgent needs of maritime rights protection and law enforcement so require, a coast guard agency may, in accordance with the provisions of laws, regulations and rules, have priority in using or requisition the means of transport, means of communication and premises of organisations and individuals, and shall promptly return the same after use and pay appropriate fees; where losses are caused, compensation shall be given in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Coast guard agencies shall optimise their force structure, build a strong talent team, strengthen education and training, ensure that staff members of coast guard agencies possess the knowledge, skills and qualities for performing their statutory duties, and improve their professional capacity for maritime rights protection and law enforcement.\nMaritime rights protection and law enforcement shall be subject to a system of taking up posts with certificates and a system of qualification administration."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The State shall strengthen the development of the equipment system for maritime rights protection and law enforcement, and ensure that coast guard agencies are equipped with vessels, aircraft, weapons and other equipment appropriate to the performance of their duties."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Coast guard agencies shall strengthen informatisation, apply modern information technology, promote the openness of law enforcement, enhance convenience services, and improve the efficiency of maritime rights protection and law enforcement work.\nCoast guard agencies shall open maritime reporting service platforms to promptly handle reports and urgent requests for help from the people."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "Coast guard agencies shall establish mechanisms for information sharing and work collaboration and cooperation with the corresponding competent departments for foreign affairs (external affairs), public security, natural resources, ecological environment, transport, fisheries and fishery administration, emergency management and customs, as well as with people's courts, people's procuratorates and the relevant departments of the armed forces.\nThe competent departments concerned shall promptly provide coast guard agencies with information services and technical support such as basic data, administrative licences and administrative management policies relevant to maritime rights protection and law enforcement work.\nCoast guard agencies shall promptly provide the competent departments concerned with data and information on maritime supervision and inspection and on the investigation and handling of illegal and criminal acts, and shall cooperate with the competent departments concerned in maritime administrative management. Where a coast guard agency implementing an administrative penalty in accordance with law considers that a licence should be revoked, it shall transfer the relevant materials to the licensing authority for handling."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "Where the needs of maritime rights protection and law enforcement work so require, a coast guard agency may make a request for assistance to the competent department concerned. Where the request for assistance falls within the scope of duties of the competent department concerned, the competent department concerned shall cooperate."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Persons who have committed illegal acts and in respect of whom administrative detention has been decided in accordance with law, foreigners subject to detention for examination, and criminal suspects in respect of whom criminal detention has been decided or against whom arrest is being executed shall be respectively delivered by coast guard agencies to the detention house or custodial centre at the place where the coast guard agency is located for execution."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Coast guard agencies shall properly keep the property involved in a case that has been seized or detained in accordance with law, and shall not damage it or dispose of it without authorisation. However, in respect of the following goods and articles, upon approval by the person in charge of a coast guard agency at or above the level of a municipal coast guard bureau, they may first be auctioned or sold in accordance with law and the owner shall be notified, and where the owner is not clearly ascertainable, the other parties shall be notified:\n(a) dangerous goods such as refined oil products;\n(b) fresh and live goods, goods prone to decay or early expiration and other goods unsuitable for long-term preservation;\n(c) vehicles, vessels and the like that, if left unused for a long period, are likely to suffer degraded mechanical performance and diminished value;\n(d) goods of huge volume that are difficult to keep;\n(e) goods in respect of which the owner applies for prior auction or sale.\nThe proceeds of the auction or sale shall be kept temporarily by the coast guard agency and dealt with in accordance with the relevant provisions of the State after the case is concluded."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "In respect of property involved in a case that should be returned to the owner or other parties, a coast guard agency shall notify the owner or other parties to collect it within six months; where the owner is not clearly ascertainable, it shall inform the owner to claim it by means of a public announcement. Where no one claims it within six months after the notification of the owner or other parties or the public announcement, it shall be treated as ownerless property, and after auction or sale in accordance with law the proceeds shall be turned over to the State Treasury. In special circumstances, the handling may be postponed, and the extension shall not exceed three months."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VII Support and Collaboration"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The China Coast Guard shall carry out international cooperation in maritime law enforcement in accordance with the international treaties concluded or acceded to by the People's Republic of China or in accordance with the principles of reciprocity and mutual benefit; it shall, within the prescribed authority, organise or participate in the implementation of the relevant international treaties on maritime law enforcement and negotiate and sign documents on cooperation in maritime law enforcement."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Cooperation"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The main tasks of coast guard agencies in international cooperation in maritime law enforcement are to participate in handling foreign-related maritime emergencies, coordinate the resolution of disputes over maritime law enforcement, manage maritime crises, cooperate with foreign maritime law enforcement agencies and the relevant international organisations in combating illegal and criminal activities at sea, protect marine resources and the environment, and jointly safeguard international and regional maritime public security and order."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Cooperation"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Coast guard agencies may carry out the following international cooperation in maritime law enforcement with foreign maritime law enforcement agencies and the relevant international organisations:\n(a) establish bilateral and multilateral mechanisms for cooperation in maritime law enforcement and participate in the activities of such mechanisms;\n(b) exchange and share maritime law enforcement intelligence and information;\n(c) conduct joint maritime patrols, inspections, exercises and training;\n(d) conduct education and training exchanges;\n(e) exchange liaison personnel for international cooperation in maritime law enforcement;\n(f) other international cooperation activities in maritime law enforcement."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VIII International Cooperation"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Coast guard agencies and their staff members shall, in accordance with the conditions, authority and procedures prescribed by laws and regulations, perform their duties and exercise their powers, and shall not abuse their powers, neglect their duties or engage in malpractices for personal gain, and shall not infringe upon the lawful rights and interests of organisations and individuals."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "Coast guard agencies shall respect and safeguard in accordance with law the rights of citizens, legal persons and other organisations to be informed of, to participate in and to supervise the law enforcement work of coast guard agencies, and shall enhance the transparency and credibility of law enforcement work.\nCoast guard agencies shall disclose information on maritime law enforcement work in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Law enforcement activities of coast guard agencies such as questioning, interrogation, continued questioning, identification of persons suspected of illegal or criminal activities, and security checks and information collection in respect of such persons shall be conducted at case-handling premises, except in emergencies where questioning or interrogation must be conducted on the spot or in other circumstances where questioning or interrogation is unsuitable to be conducted at case-handling premises.\nCoast guard agencies shall, in accordance with the relevant provisions of the State, record the whole process of maritime rights protection and law enforcement activities in the form of text, audio and video, etc., and keep the records on file."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "Coast guard agencies and their staff members shall, in carrying out maritime rights protection and law enforcement work, accept the supervision of procuratorial organs and military supervisory organs in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "People's governments and their relevant departments, citizens, legal persons and other organisations shall have the right to notify, report and complain to procuratorial organs and military supervisory organs about acts of violation of law and discipline by coast guard agencies and their staff members. Complaints and reports may be made through the maritime reporting service platform in respect of ongoing acts of violation of law and discipline or dereliction of duty by coast guard agencies and their staff members.\nNo authority or individual shall suppress or take retaliatory measures against citizens, legal persons and other organisations that report, complain or make reports in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Coast guard agencies at higher levels shall supervise the maritime rights protection and law enforcement work of coast guard agencies at lower levels, and where they find errors in the handling measures or decisions made by the latter, they shall have the power to revoke or modify the same, or to order the coast guard agency at the lower level to revoke or modify the same; where they find that the latter fails to perform its statutory duties, they shall have the power to order it to perform the same in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "The China Coast Guard shall establish and improve a supervision mechanism for maritime rights protection and law enforcement work and a system for pursuing responsibility for law enforcement errors."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter IX Supervision"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where any of the following acts obstructing coast guard agencies and their staff members in performing their duties in accordance with law is committed, the public security organ or the coast guard agency shall impose a penalty in accordance with the provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security on obstructing the people's police in performing their duties in accordance with law:\n(a) insulting, threatening, besieging, intercepting or assaulting staff members of coast guard agencies;\n(b) obstructing investigation and evidence collection;\n(c) forcibly rushing into or breaking through a temporary maritime vigilance zone;\n(d) obstructing the execution of tasks such as pursuit, inspection, search, rescue and guard duty;\n(e) obstructing the passage of law enforcement vessels, aircraft, vehicles and personnel;\n(f) fleeing by driving a vessel in a dangerous manner or by setting up obstacles, thereby endangering the safety of law enforcement vessels and personnel;\n(g) other acts seriously obstructing coast guard agencies and their staff members in performing their duties."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where staff members of coast guard agencies commit any of the following acts in the performance of their duties, disciplinary sanctions shall be imposed in accordance with the relevant provisions of the Central Military Commission:\n(a) disclosing State secrets, trade secrets or personal privacy;\n(b) practising fraud, concealing the circumstances of a case, or shielding or conniving at illegal and criminal activities;\n(c) extorting confessions by torture, or subjecting persons suspected of illegal or criminal activities to corporal punishment or maltreatment;\n(d) using police restraints or weapons in violation of the provisions;\n(e) unlawfully depriving or restricting personal freedom, or unlawfully inspecting or searching persons, goods, articles, means of transport, residences or premises;\n(f) extorting or blackmailing, demanding or accepting bribes, or accepting banquets or gifts from the parties concerned or their agents;\n(g) unlawfully implementing administrative penalties or administrative compulsion, taking criminal compulsory measures, or collecting fees;\n(h) neglecting duties and failing to perform statutory obligations;\n(i) other acts of violation of law and discipline."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where an organisation or individual is dissatisfied with an administrative act made by a coast guard agency, it shall have the right to apply to the coast guard agency at the next higher level for administrative reconsideration in accordance with the provisions of the Law of the People's Republic of China on Administrative Reconsideration, or to institute administrative litigation in a people's court with jurisdiction in accordance with the provisions of the Administrative Litigation Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where coast guard agencies and their staff members unlawfully exercise their powers and infringe upon the lawful rights and interests of organisations and individuals, causing damage, compensation shall be given in accordance with the provisions of the State Compensation Law of the People's Republic of China and other relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "The meanings of the following terms in this Law are:\n(a) A provincial coast guard bureau refers to a coast guard bureau established in a coastal province, autonomous region or municipality directly under the Central Government and directly under the leadership of the China Coast Guard; a municipal coast guard bureau refers to a coast guard bureau established in a city under the jurisdiction of a coastal province or autonomous region or in a district under the jurisdiction of a municipality directly under the Central Government and under the leadership of a provincial coast guard bureau; a coast guard workstation generally refers to a grassroots coast guard agency established in a coastal county-level administrative area and under the leadership of a municipal coast guard bureau.\n(b) A vessel refers to various mobile devices such as ships, boats, rafts, surface vehicles and submersibles, whether displacement or non-displacement, excluding offshore oil and natural gas operation platforms."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where a foreign country adopts discriminatory prohibitions, restrictions or other special measures against citizens, legal persons and other organisations of China in the field of maritime law enforcement, coast guard agencies may take corresponding reciprocal measures in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "The law enforcement measures for maritime rights protection prescribed in this Law in respect of vessels shall apply to various fixed or floating buildings and devices and to fixed or mobile platforms at sea."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where coast guard agencies execute law enforcement tasks in areas outside the sea areas under China's jurisdiction in accordance with laws, regulations and the international treaties concluded or acceded to by China, the relevant procedures may be governed by reference to the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The China Coast Guard shall, in accordance with laws and administrative regulations and the decisions of the State Council and the Central Military Commission, formulate rules on matters of maritime rights protection and law enforcement, and shall file them for the record in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Coast guard agencies shall, in accordance with the National Defence Law of the People's Republic of China, the Law of the People's Republic of China on the People's Armed Police Force and other relevant laws, military regulations and orders of the Central Military Commission, execute tasks such as defensive operations."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "This Law shall enter into force on 1 February 2021."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
         }
       }
     ]
@@ -32003,6 +43865,642 @@
     ]
   };
 
+  TR['CN-LAW-0152'] = {
+    "lawId": "CN-LAW-0152",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 54 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to strengthen the administration of the use of sea areas, safeguard the State's ownership of sea areas and the lawful rights and interests of holders of the right to the use of sea areas, and promote the rational development and sustainable utilisation of sea areas, this Law is enacted."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, sea areas refer to the surface, water body, seabed and subsoil of the internal waters and territorial sea of the People's Republic of China.\nFor the purposes of this Law, internal waters refer to the sea areas on the landward side of the baseline of the territorial sea of the People's Republic of China up to the coastline.\nThis Law shall apply to exclusive sea use activities involving the continuous use of specific sea areas in the internal waters and territorial sea of the People's Republic of China for three months or more."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Sea areas are owned by the State, and the State Council shall exercise the ownership of sea areas on behalf of the State. No unit or individual may occupy, purchase or sell sea areas, or illegally transfer sea areas in any other form.\nUnits and individuals using sea areas must acquire the right to the use of sea areas in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall implement the system of marine functional zoning. The use of sea areas must conform to marine functional zoning.\nThe State shall strictly administer sea use activities such as sea reclamation and sea enclosure that change the natural attributes of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State shall establish an information system for the administration of sea area use and shall conduct surveillance and monitoring of the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall establish a registration system for the right to the use of sea areas, and the right to the use of sea areas registered in accordance with law shall be protected by law.\nThe State shall establish a statistical system for sea area use and shall periodically publish statistical data on sea area use."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent marine administrative department of the State Council shall be responsible for the supervision and administration of the use of sea areas throughout the country. The competent marine administrative departments of the local people's governments at or above the county level in the coastal areas shall, as authorised, be responsible for the supervision and administration of the use of the sea areas adjacent to their respective administrative areas.\nThe competent fishery administrative department shall, in accordance with the Fisheries Law of the People's Republic of China, supervise and administer marine fisheries.\nThe maritime safety administration shall, in accordance with the Maritime Traffic Safety Law of the People's Republic of China, supervise and administer maritime traffic safety."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Every unit and individual shall have the obligation to comply with the laws and regulations on the administration of sea area use, and shall have the right to report and complain about acts violating the laws and regulations on the administration of sea area use."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Units and individuals that make notable achievements in protecting and rationally utilising sea areas and in carrying out the relevant scientific research shall be rewarded by the people's government."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The competent marine administrative department of the State Council shall, together with the relevant departments of the State Council and the people's governments of the coastal provinces, autonomous regions and municipalities directly under the Central Government, prepare the national marine functional zoning.\nThe competent marine administrative departments of the local people's governments at or above the county level in the coastal areas shall, together with the relevant departments of the people's government at the same level and on the basis of the marine functional zoning at the next higher level, prepare the local marine functional zoning."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Functional Zoning"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Marine functional zoning shall be prepared in accordance with the following principles:\n(a) scientifically determine the functions of sea areas in accordance with natural attributes such as the location, natural resources and natural environment of the sea areas;\n(b) make overall arrangements for sea use by the relevant industries according to the needs of economic and social development;\n(c) protect and improve the ecological environment, ensure the sustainable use of sea areas and promote the development of the marine economy;\n(d) ensure maritime traffic safety;\n(e) ensure national defence security and meet the needs of military sea use."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Functional Zoning"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Marine functional zoning shall be subject to examination and approval at different levels.\nThe national marine functional zoning shall be submitted to the State Council for approval.\nThe marine functional zoning of a coastal province, autonomous region or municipality directly under the Central Government shall, after examination and consent by the people's government of that province, autonomous region or municipality, be submitted to the State Council for approval.\nThe marine functional zoning of a coastal city or county shall, after examination and consent by the people's government of that city or county, be submitted to the people's government of the province, autonomous region or municipality directly under the Central Government for approval and reported to the competent marine administrative department of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Functional Zoning"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The modification of marine functional zoning shall be proposed by the original preparing authority together with the relevant departments at the same level and submitted to the original approving authority for approval; without approval, the functions of sea areas determined by the marine functional zoning shall not be changed.\nWhere, upon approval by the State Council, it is necessary to change the marine functional zoning for the public interest, national defence security or the construction of large energy, transport or other infrastructure, the marine functional zoning shall be modified on the basis of the approval document of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Functional Zoning"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Marine functional zoning shall, after approval, be published to society, except for the parts involving State secrets."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Functional Zoning"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where industry plans for aquaculture, the salt industry, transport and tourism involve the use of sea areas, they shall conform to marine functional zoning.\nWhere the overall coastal land use plan, the urban plan and port plans involve the use of sea areas, they shall be aligned with marine functional zoning."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Marine Functional Zoning"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Units and individuals may apply to the competent marine administrative department of the people's government at or above the county level for the use of sea areas.\nTo apply for the use of sea areas, the applicant shall submit the following written materials:\n(a) an application for sea area use;\n(b) demonstration materials on sea area use;\n(c) the relevant credit and qualification certifying materials;\n(d) other written materials prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Application for and Approval of Sea Area Use"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The competent marine administrative department of the people's government at or above the county level shall, on the basis of marine functional zoning, examine the application for sea area use and, in accordance with this Law and the provisions of the people's government of the province, autonomous region or municipality directly under the Central Government, submit it to the people's government with the power of approval for approval.\nIn examining an application for sea area use, the competent marine administrative department shall solicit the opinions of the relevant departments at the same level."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Application for and Approval of Sea Area Use"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The use of sea areas for the following projects shall be submitted to the State Council for approval:\n(a) sea use for projects involving sea reclamation of 50 hectares or more;\n(b) sea use for projects involving sea enclosure of 100 hectares or more;\n(c) sea use for projects of 700 hectares or more that does not change the natural attributes of the sea areas;\n(d) sea use for major national construction projects;\n(e) sea use for other projects prescribed by the State Council.\nThe authority to approve sea use for projects other than those prescribed in the preceding paragraph shall be prescribed by the people's governments of provinces, autonomous regions and municipalities directly under the Central Government as authorised by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Application for and Approval of Sea Area Use"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "After an application for sea area use is approved in accordance with law, where the sea use is approved by the State Council, the competent marine administrative department of the State Council shall register it and issue a certificate of the right to the use of sea areas to the applicant; where the sea use is approved by a local people's government, that local people's government shall register it and issue a certificate of the right to the use of sea areas to the applicant. The applicant shall acquire the right to the use of sea areas from the date of receipt of the certificate of the right to the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Apart from being acquired in the manner prescribed in Article 19 of this Law, the right to the use of sea areas may also be acquired by means of tender or auction. The tender or auction plan shall be drawn up by the competent marine administrative department and, after approval by the people's government with the power of examination and approval, be organised and implemented. In drawing up the tender or auction plan, the competent marine administrative department shall solicit the opinions of the relevant departments at the same level.\nAfter the tender or auction is completed, a certificate of the right to the use of sea areas shall be issued in accordance with law to the successful bidder or buyer. The successful bidder or buyer shall acquire the right to the use of sea areas from the date of receipt of the certificate of the right to the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The issuance of a certificate of the right to the use of sea areas shall be announced to society.\nIn issuing a certificate of the right to the use of sea areas, no fees other than the sea area usage fee collected in accordance with law shall be charged.\nThe measures for the issuance and administration of certificates of the right to the use of sea areas shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where, before this Law came into force, aquacultural sea areas were already operated and managed by rural collective economic organisations or villagers' committees and conform to marine functional zoning, the right to the use of such sea areas may, upon verification and approval by the local people's government at the county level, be determined in favour of that rural collective economic organisation or villagers' committee, and the members of that collective economic organisation may contract the sea areas for aquacultural production."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The right of a holder of the right to the use of sea areas to use sea areas and obtain returns in accordance with law shall be protected by law, and no unit or individual shall infringe upon it.\nA holder of the right to the use of sea areas shall have the obligation to protect and rationally use the sea areas in accordance with law; a holder of the right to the use of sea areas shall not obstruct non-exclusive sea use activities that do not hinder his or her lawful use of the sea areas."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "During the period of using sea areas, a holder of the right to the use of sea areas shall not engage in basic marine surveying and mapping without approval in accordance with law.\nWhere a holder of the right to the use of sea areas discovers that major changes have occurred in the natural resources and natural conditions of the sea areas used, he or she shall promptly report to the competent marine administrative department."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The maximum term of the right to the use of sea areas shall be determined according to the following purposes:\n(a) 15 years for aquacultural sea use;\n(b) 20 years for ship-breaking sea use;\n(c) 25 years for tourism and recreational sea use;\n(d) 30 years for salt industry and mining sea use;\n(e) 40 years for sea use for public welfare undertakings;\n(f) 50 years for sea use for construction projects such as ports and shipbuilding and repair yards."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where, upon the expiry of the term of the right to the use of sea areas, the holder needs to continue to use the sea areas, he or she shall, no later than two months before the expiry of the term, apply to the people's government that originally approved the sea use for an extension. Except where the right to the use of sea areas is recovered on the basis of the public interest or national security needs, the people's government that originally approved the sea use shall approve the extension. Where the extension is granted, the holder shall pay the sea area usage fee for the extension in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a holder of the right to the use of sea areas is changed due to merger or division of enterprises or the establishment of a joint venture or cooperative operation with others, the change shall be subject to approval by the people's government that originally approved the sea use.\nThe right to the use of sea areas may be transferred in accordance with law. The specific measures for the transfer of the right to the use of sea areas shall be prescribed by the State Council.\nThe right to the use of sea areas may be inherited in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "A holder of the right to the use of sea areas shall not alter the approved use of the sea areas without authorisation; where alteration is truly necessary, the holder shall, on the premise of conforming to marine functional zoning, report to the people's government that originally approved the sea use for approval."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where, upon the expiry of the term of the right to the use of sea areas, no extension is applied for or the application for extension is not approved, the right to the use of sea areas shall terminate.\nAfter the right to the use of sea areas terminates, the original holder shall dismantle the sea use facilities and structures that may cause marine environmental pollution or affect other sea use projects."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the public interest or national security so requires, the people's government that originally approved the sea use may recover the right to the use of sea areas in accordance with law.\nWhere the right to the use of sea areas is recovered before the expiry of its term in accordance with the provisions of the preceding paragraph, corresponding compensation shall be given to the holder of the right to the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a dispute arises over the right to the use of sea areas and the parties cannot resolve it through consultation, the competent marine administrative department of the people's government at or above the county level shall mediate; the parties may also directly institute litigation in a people's court.\nBefore the dispute over the right to the use of sea areas is resolved, neither party may alter the existing state of the sea area use."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Land formed upon the completion of a sea reclamation project shall be owned by the State.\nWithin three months from the date of completion of the sea reclamation project, the holder of the right to the use of sea areas shall, on the strength of the certificate of the right to the use of sea areas, apply to the competent land administrative department of the people's government at or above the county level for land registration, and the people's government at or above the county level shall register it, issue in exchange a certificate of the right to the use of State-owned land and confirm the land use right."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Right to Use Sea Areas"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State shall implement a system of compensated use of sea areas.\nUnits and individuals using sea areas shall pay the sea area usage fee in accordance with the provisions of the State Council. The sea area usage fee shall be turned over to the treasury in accordance with the provisions of the State Council.\nThe specific implementation steps and measures for collecting the sea area usage fee from fishermen who use sea areas for aquacultural activities shall be separately prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Sea Area Use Fees"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Depending on the nature or circumstances of the sea use, the sea area usage fee may be paid in a lump sum or annually in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Sea Area Use Fees"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The sea area usage fee shall be exempted for the following sea uses:\n(a) military sea use;\n(b) sea use for special wharves for official vessels;\n(c) non-commercial sea use for transport infrastructure such as navigable waterways and anchorages;\n(d) non-commercial sea use for public welfare undertakings such as teaching, scientific research, disaster prevention and mitigation, and maritime search, rescue and salvage."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Sea Area Use Fees"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "For the following sea uses, the sea area usage fee may be reduced or exempted in accordance with the provisions of the finance department of the State Council and the competent marine administrative department of the State Council, after examination and approval by the finance department and the competent marine administrative department of the people's government with the power of approval:\n(a) sea use for public facilities;\n(b) sea use for major national construction projects;\n(c) aquacultural sea use."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Sea Area Use Fees"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The competent marine administrative departments of the people's governments at or above the county level shall strengthen supervision and inspection of the use of sea areas.\nThe finance departments of the people's governments at or above the county level shall strengthen supervision and inspection of the payment of the sea area usage fee."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The competent marine administrative departments shall strengthen the development of their workforce and improve the political and professional qualities of the personnel supervising and inspecting the administration of sea area use. The personnel supervising and inspecting the administration of sea area use must enforce the law impartially, be loyal to their duties, remain honest and upright and provide services in a civilised manner, and shall accept supervision in accordance with law.\nThe competent marine administrative departments and their staff members shall not participate in or engage in production and operation activities relating to the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "In performing their supervision and inspection duties, the competent marine administrative departments of the people's governments at or above the county level shall have the power to take the following measures:\n(a) require the unit or individual under inspection to provide the relevant documents and materials on the use of sea areas;\n(b) require the unit or individual under inspection to give explanations on issues relating to the use of sea areas;\n(c) enter the sea areas occupied by the unit or individual under inspection to carry out on-site survey;\n(d) order the party concerned to stop the ongoing illegal act."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The personnel supervising and inspecting the administration of sea area use shall, when performing supervision and inspection duties, present valid law enforcement credentials.\nThe units and individuals concerned shall cooperate with the supervision and inspection of the competent marine administrative departments, and shall not refuse or hinder the supervision and inspection personnel in performing their official duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The relevant departments exercising the power of marine supervision and administration in accordance with the provisions of law shall, when enforcing the law at sea, cooperate closely and support each other, so as jointly to safeguard the State's ownership of sea areas and the lawful rights and interests of holders of the right to the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Whoever, without approval or by fraudulently obtaining approval, illegally occupies sea areas shall be ordered to return the illegally occupied sea areas and restore the sea areas to their original state, the illegal gains shall be confiscated, and a fine of not less than five times but not more than fifteen times the sea area usage fee payable for the area of the sea areas during the period of illegal occupation shall be imposed; whoever carries out sea enclosure or sea reclamation without approval or by fraudulently obtaining approval shall additionally be fined not less than ten times but not more than twenty times the sea area usage fee payable for the area of the sea areas during the period of illegal occupation."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a unit without the power of approval illegally approves the use of sea areas, illegally approves the use of sea areas beyond the approval authority, or approves the use of sea areas not in accordance with marine functional zoning, the approval document shall be invalid and the illegally used sea areas shall be recovered; administrative sanctions shall be imposed in accordance with law on the directly responsible leading personnel and other directly responsible personnel who illegally approved the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 23 of this Law, obstructs or impedes the lawful use of sea areas by a holder of the right to the use of sea areas may request the competent marine administrative department to remove the impediment, or may institute litigation in a people's court in accordance with law; where losses are caused, a claim for compensation for damage may be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 26 of this Law, continues to use sea areas upon the expiry of the term of the right to the use of sea areas without completing the relevant formalities shall be ordered to complete the formalities within a time limit and may concurrently be fined not more than 10,000 yuan; where the person refuses to complete the formalities, the case shall be dealt with as illegal occupation of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 28 of this Law, alters the use of sea areas without authorisation shall be ordered to rectify within a time limit, the illegal gains shall be confiscated, and a fine of not less than five times but not more than fifteen times the sea area usage fee payable for the area of the sea areas during the period of the illegal alteration of the use of the sea areas shall be imposed; where the person refuses to rectify, the people's government that issued the certificate of the right to the use of sea areas shall cancel the certificate and recover the right to the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Whoever, in violation of the provisions of paragraph 2 of Article 29 of this Law, fails to dismantle the sea use facilities and structures as required after the right to the use of sea areas terminates shall be ordered to dismantle them within a time limit; where the person refuses to dismantle them after the time limit expires, a fine of not more than 50,000 yuan shall be imposed, and the competent marine administrative department of the people's government at or above the county level shall entrust a relevant unit to dismantle them on its behalf, with the costs borne by the original holder of the right to the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, being a holder of the right to the use of sea areas who is required to pay the sea area usage fee annually, fails to pay the sea area usage fee on time shall be ordered to pay within a time limit; where the holder still refuses to pay within the time limit, the people's government that issued the certificate of the right to the use of sea areas shall cancel the certificate and recover the right to the use of sea areas."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Whoever, in violation of the provisions of this Law, refuses to accept supervision and inspection by the competent marine administrative department, fails to truthfully report the situation or fails to provide the relevant materials shall be ordered to rectify within a time limit, given a warning, and may concurrently be fined not more than 20,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The administrative penalties prescribed in this Law shall be decided by the competent marine administrative departments of the people's governments at or above the county level in accordance with their functions and powers, except where this Law has already prescribed the penalty authority."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the competent marine administrative department of the State Council or a local people's government at or above the county level, in violation of the provisions of this Law, issues a certificate of the right to the use of sea areas, or fails to carry out supervision and administration after issuing such certificate, or fails to investigate and deal with an illegal act discovered, administrative sanctions shall be imposed in accordance with law on the directly responsible leading personnel and other directly responsible personnel; where the person engages in malpractices for personal gain, abuses his or her power or neglects his or her duty, thereby constituting a crime, criminal responsibility shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where exclusive sea use activities involving the use of specific sea areas in the internal waters and territorial sea of the People's Republic of China for less than three months may have a major impact on national defence security, maritime traffic safety or other sea use activities, a temporary sea area use certificate shall be obtained by reference to the relevant provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The administrative measures for military sea use shall be formulated by the State Council and the Central Military Commission in accordance with this Law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 2002."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0153'] = {
     "lawId": "CN-LAW-0153",
     "sourceLang": "zh",
@@ -32574,6 +45072,1110 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0155'] = {
+    "lawId": "CN-LAW-0155",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 94 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted for the purpose of safeguarding nuclear safety, preventing and responding to nuclear accidents, using nuclear energy safely, protecting the safety and health of the public and of practitioners, protecting the ecological environment and promoting sustainable economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "This Law applies to activities within the territory of the People's Republic of China and its other sea areas under jurisdiction in which adequate safety measures for prevention, protection, mitigation and supervision are taken in respect of nuclear facilities, nuclear materials and related radioactive waste, so as to prevent nuclear accidents caused by technical reasons, human factors or natural disasters and to minimise the radiological consequences in the event of a nuclear accident.\nNuclear facilities refer to:\n(a) nuclear power plants, nuclear cogeneration plants, nuclear steam supply and heat supply plants and other nuclear power plants and installations;\n(b) research reactors, experimental reactors, critical assemblies and other reactors other than nuclear power plants;\n(c) nuclear fuel cycle facilities such as nuclear fuel production, processing, storage and reprocessing facilities;\n(d) facilities for the treatment, storage and disposal of radioactive waste.\nNuclear materials refer to:\n(a) uranium-235 materials and products thereof;\n(b) uranium-233 materials and products thereof;\n(c) plutonium-239 materials and products thereof;\n(d) other nuclear materials that need to be controlled as prescribed by laws and administrative regulations.\nRadioactive waste refers to waste generated by the operation and decommissioning of nuclear facilities that contains radionuclides or is contaminated by radionuclides, the concentration or specific activity of which is greater than the clearance levels determined by the State, and that is not expected to be used any longer."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State adheres to a rational, coordinated and progressive outlook on nuclear safety, strengthens capacity building for nuclear safety and safeguards the sound development of the nuclear industry."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Engaging in the nuclear industry must follow the policy of ensuring safety.\nNuclear safety work must adhere to the principles of safety first, prevention oriented, clear responsibilities, strict management, defence in depth, independent supervision and comprehensive assurance."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The operating organisation of a nuclear facility bears overall responsibility for nuclear safety.\nEntities that provide equipment, engineering, services and the like to the operating organisation of a nuclear facility shall bear corresponding responsibilities."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The nuclear safety supervision and administration department of the State Council is responsible for the supervision and administration of nuclear safety.\nThe competent department of nuclear industry, the competent energy department and other relevant departments of the State Council are responsible for the relevant nuclear safety management work within the scope of their respective duties.\nThe State establishes a coordination mechanism for nuclear safety work to coordinate the relevant departments in advancing the relevant work."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The nuclear safety supervision and administration department of the State Council, together with the relevant departments of the State Council, compiles the national nuclear safety plan and organises its implementation after the plan is approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The State adheres to high and strict requirements in establishing a system of nuclear safety standards.\nThe relevant departments of the State Council formulate nuclear safety standards according to the division of duties. Nuclear safety standards are standards for compulsory enforcement.\nNuclear safety standards shall be revised in a timely manner in light of economic and social development and scientific and technological progress."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The State formulates nuclear safety policies and strengthens the development of a nuclear safety culture.\nThe nuclear safety supervision and administration department, the competent department of nuclear industry and the competent energy department of the State Council shall establish mechanisms for fostering a nuclear safety culture.\nThe operating organisation of a nuclear facility and entities that provide equipment, engineering, services and the like to it shall actively foster and develop a nuclear safety culture and integrate the nuclear safety culture into all links of production, operation, scientific research and management."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The State encourages and supports research, development and utilisation of science and technology relating to nuclear safety, strengthens the protection of intellectual property rights and attaches importance to the training of nuclear safety personnel.\nThe relevant departments of the State Council shall, in the relevant scientific research plans, arrange special projects for research on key technologies relating to the safety of nuclear facilities and nuclear materials and to the monitoring and assessment of the radiation environment, and shall promote advanced and reliable nuclear safety technologies.\nThe operating organisation of a nuclear facility, entities that provide equipment, engineering, services and the like to it, and scientific research institutions relating to nuclear safety shall continuously develop advanced and reliable nuclear safety technologies, make full use of advanced scientific and technological achievements and raise the level of nuclear safety.\nThe State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and their relevant departments shall commend and reward, in accordance with the relevant provisions, the entities and individuals that have made important contributions to scientific and technological innovation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "No unit or individual shall endanger the safety of nuclear facilities or nuclear materials.\nCitizens, legal persons and other organisations enjoy the right to obtain nuclear safety information in accordance with the law and, where they suffer nuclear damage, the right to obtain compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The State strengthens the security protection of nuclear facilities and nuclear materials.\nThe operating organisation of a nuclear facility shall establish and improve security protection systems and take security protection measures to prevent sabotage, damage to and theft of nuclear facilities and nuclear materials."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The State organises international exchanges and cooperation relating to nuclear safety, improves international cooperation mechanisms for nuclear safety, prevents and responds to the threat of nuclear terrorism and fulfils the obligations stipulated in the international conventions concluded or acceded to by the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The State carries out overall planning, scientific demonstration and rational layout in respect of the siting and construction of nuclear facilities.\nThe State applies classified management to nuclear facilities in light of their nature, degree of risk and other factors."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall have the capability to ensure the safe operation of the nuclear facility and meet the following conditions:\n(a) it has an organisational and management system that meets nuclear safety requirements and systems for quality assurance, safety management and post responsibility;\n(b) it has the prescribed number of qualified professional and technical personnel and managerial personnel;\n(c) it has safety assessment, resource allocation and financial capabilities commensurate with the safety of the nuclear facility;\n(d) it has the necessary technical support for nuclear safety and the capability for continuous improvement;\n(e) it has emergency response capabilities and the financial capacity to guarantee compensation for nuclear damage;\n(f) it meets other conditions prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall, in accordance with the requirements of laws, administrative regulations and standards, establish a defence-in-depth system for the nuclear facility so as to effectively guard against threats caused by technical reasons, human factors and natural disasters and ensure the safety of the nuclear facility.\nThe operating organisation of a nuclear facility shall conduct periodic safety assessments of the nuclear facility and accept examination by the nuclear safety supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The operating organisation of a nuclear facility and entities that provide equipment, engineering, services and the like to it shall establish and implement a quality assurance system to effectively assure the quality of equipment, engineering and services, ensure that the performance of equipment meets the requirements of nuclear safety standards and that engineering and services meet the requirements relating to nuclear safety."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall strictly control radiation exposure, ensure that the personnel concerned are protected against radiation exposure exceeding the dose limits prescribed by the State and ensure that radiation exposure is kept at a level that is reasonable, feasible and as low as possible."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall monitor the types and concentrations of radionuclides contained in the environment surrounding the nuclear facility and the total amount of radionuclides in the effluents of the nuclear facility, and shall periodically report the monitoring results to the competent department of environmental protection of the State Council and the competent department of environmental protection of the people's government of the province, autonomous region or municipality directly under the Central Government where the facility is located."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall, in accordance with the relevant provisions of the State, formulate training plans, provide nuclear safety education and skills training to practitioners and assess them.\nThe operating organisation of a nuclear facility shall provide practitioners with corresponding labour protection and occupational health examinations and safeguard their safety and health."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall protect the sites of important nuclear facilities such as nuclear power plants determined in the national plan and shall not change the use of such sites within the planning period.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall delimit planning restricted areas around important nuclear facilities such as nuclear power plants, and shall implement such delimitation after obtaining the consent of the nuclear safety supervision and administration department of the State Council.\nIt is prohibited to construct, within a planning restricted area, production or storage facilities for flammable, explosive or corrosive substances, or densely populated places, that may threaten the safety of nuclear facilities."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State establishes a licensing system for the safety of nuclear facilities.\nWhere the operating organisation of a nuclear facility engages in such activities as siting, construction, operation and decommissioning of the nuclear facility, it shall apply to the nuclear safety supervision and administration department of the State Council for a licence.\nWhere the operating organisation of a nuclear facility requests a change in the conditions specified in the licence document, it shall submit the matter to the nuclear safety supervision and administration department of the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall conduct a scientific assessment of such factors as geology, seismicity, meteorology, hydrology, environment and population distribution, and shall, on the premise of meeting the requirements of nuclear safety technical assessment, submit a safety analysis report on the siting of the nuclear facility to the nuclear safety supervision and administration department of the State Council, and obtain a review opinion on the selection of the site of the nuclear facility after examination confirms that nuclear safety requirements are met."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The design of a nuclear facility shall conform to nuclear safety standards, adopt scientific and rational parameters and technical requirements for structures, systems and equipment, provide diverse protection and multiple barriers, and ensure that the nuclear facility operates reliably and stably and is easy to operate, so as to meet nuclear safety requirements."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Before the construction of a nuclear facility, the operating organisation of the nuclear facility shall file a construction application with the nuclear safety supervision and administration department of the State Council and submit the following materials:\n(a) an application for the construction of the nuclear facility;\n(b) a preliminary safety analysis report;\n(c) environmental impact assessment documents;\n(d) quality assurance documents;\n(e) other materials prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After obtaining a construction licence for the nuclear facility, the operating organisation of the nuclear facility shall ensure that the overall performance of the nuclear facility meets the requirements of nuclear safety standards.\nThe period of validity of a construction licence for a nuclear facility shall not exceed ten years. Where construction needs to be extended upon the expiry of the period of validity, the matter shall be submitted to the nuclear safety supervision and administration department of the State Council for examination and approval. However, this does not apply where any of the following circumstances exists and no safety risk is found upon assessment:\n(a) the construction of the nuclear facility is delayed due to State policies or State acts;\n(b) the nuclear facility is used for scientific research;\n(c) the nuclear facility is used for engineering demonstration;\n(d) the nuclear facility is used for the reprocessing of spent fuel.\nUpon completion of the construction of a nuclear facility, commissioning shall be carried out to verify whether it meets the nuclear safety requirements of the design."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Before the first loading of fuel into a nuclear facility, the operating organisation of the nuclear facility shall file an operating application with the nuclear safety supervision and administration department of the State Council and submit the following materials:\n(a) an application for the operation of the nuclear facility;\n(b) a final safety analysis report;\n(c) quality assurance documents;\n(d) an emergency plan;\n(e) other materials prescribed by laws and administrative regulations.\nAfter obtaining an operating licence for the nuclear facility, the operating organisation of the nuclear facility shall operate the facility in accordance with the provisions of the licence.\nThe period of validity of an operating licence for a nuclear facility is the designed lifetime. Within the period of validity, the nuclear safety supervision and administration department of the State Council may, in accordance with the requirements of laws, administrative regulations and new nuclear safety standards, make reasonable adjustments to the matters specified in the licence.\nWhere the operating organisation of a nuclear facility adjusts any of the following matters, it shall submit the matter to the nuclear safety supervision and administration department of the State Council for approval:\n(a) the important structures, systems and equipment on which the issuance of the operating licence is based;\n(b) the operating limits and conditions;\n(c) the procedures and other documents relating to nuclear safety approved by the nuclear safety supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where the operation of a nuclear facility is to continue upon the expiry of the period of validity of its operating licence, the operating organisation of the nuclear facility shall, five years before the expiry of the period of validity, file an application for extension with the nuclear safety supervision and administration department of the State Council and shall demonstrate and verify whether the facility meets nuclear safety standards; operation may continue only after examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "After the termination of the operation of a nuclear facility, the operating organisation of the nuclear facility shall carry out shutdown management in a safe manner, ensure safety during the shutdown period and ensure the basic functions, technical personnel and documents required for decommissioning."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Before the decommissioning of a nuclear facility, the operating organisation of the nuclear facility shall file a decommissioning application with the nuclear safety supervision and administration department of the State Council and submit the following materials:\n(a) an application for the decommissioning of the nuclear facility;\n(b) a safety analysis report;\n(c) environmental impact assessment documents;\n(d) quality assurance documents;\n(e) other materials prescribed by laws and administrative regulations.\nDuring the decommissioning of a nuclear facility, the operating organisation of the nuclear facility shall, in accordance with the principle of being reasonable, feasible and as low as possible, treat and dispose of the radioactive substances at the site of the nuclear facility and reduce the radioactivity levels of structures, systems and equipment to a level that meets the requirements of the standards.\nAfter the decommissioning of a nuclear facility, the competent department of environmental protection of the people's government of the province, autonomous region or municipality directly under the Central Government where the nuclear facility is located shall organise monitoring of the types and concentrations of radionuclides contained in the site of the nuclear facility and in the environment surrounding it."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Imported nuclear facilities shall meet the requirements of the laws, administrative regulations and standards of the People's Republic of China relating to nuclear safety, and shall be submitted to the nuclear safety supervision and administration department of the State Council for examination and approval.\nThe export of nuclear facilities shall comply with the provisions of the People's Republic of China on the export control of nuclear facilities."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The nuclear safety supervision and administration department of the State Council shall, in accordance with statutory conditions and procedures, organise safety technical review of applications for nuclear facility safety licences and, where nuclear safety requirements are met, make a decision to grant the licence in accordance with the law within 20 days from the date of completion of the technical review.\nWhen examining and approving applications for construction and operating licences for nuclear facilities, the nuclear safety supervision and administration department of the State Council shall solicit the opinions of the relevant departments of the State Council and of the people's government of the province, autonomous region or municipality directly under the Central Government where the nuclear facility is located, and the entities whose opinions are solicited shall reply within three months."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "When organising safety technical review, the nuclear safety supervision and administration department of the State Council shall entrust a technical support entity that has no interest relationship with the licence applicant to conduct the technical evaluation. The entrusted technical support entity shall be responsible for the truthfulness and accuracy of its technical evaluation conclusions."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The nuclear safety supervision and administration department of the State Council establishes a nuclear safety expert committee to provide advisory opinions for nuclear safety decision-making.\nThe opinions of the nuclear safety expert committee shall be consulted when nuclear safety plans and standards are formulated and when technical decisions on major nuclear safety issues of nuclear facilities are made."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State establishes a nuclear safety reporting system for the operating organisations of nuclear facilities, and the specific measures shall be formulated by the relevant departments of the State Council.\nThe relevant departments of the State Council shall establish a nuclear safety experience feedback system, promptly process nuclear safety report information and achieve information sharing.\nThe operating organisation of a nuclear facility shall establish a nuclear safety experience feedback system."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Entities that provide design, manufacturing, installation and non-destructive testing services for nuclear safety equipment of nuclear facilities shall apply to the nuclear safety supervision and administration department of the State Council for a licence. Where an overseas institution provides design, manufacturing, installation or non-destructive testing services for nuclear safety equipment of a domestic nuclear facility, it shall apply to the nuclear safety supervision and administration department of the State Council for registration.\nThe nuclear safety supervision and administration department of the State Council shall, in accordance with the law, conduct safety inspection of imported nuclear safety equipment."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Operators of nuclear facilities and special process personnel such as welding personnel and non-destructive testing personnel for nuclear safety equipment shall obtain the corresponding qualification certificates in accordance with State provisions.\nThe operating organisation of a nuclear facility and entities engaged in the manufacture, installation and non-destructive testing of nuclear safety equipment shall employ persons who have obtained the corresponding qualification certificates to engage in work relating to the professional technology of nuclear facility safety."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter II Safety of Nuclear Facilities"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where the operating organisation of a nuclear facility or other relevant entities hold nuclear materials, they shall obtain a licence in accordance with the law under the prescribed conditions and take the following measures to prevent nuclear materials from being stolen, sabotaged, lost, illegally transferred or used, and to safeguard the safety and lawful use of nuclear materials:\n(a) establish a dedicated body or designate dedicated persons to keep nuclear materials;\n(b) establish a nuclear material accounting system and maintain the balance of nuclear material receipts and disbursements;\n(c) establish a physical protection system commensurate with the level of protection of nuclear materials;\n(d) establish an information confidentiality system and take confidentiality measures;\n(e) other measures prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Entities that generate, store, transport or reprocess spent fuel shall take measures to ensure the safety of spent fuel and shall bear nuclear safety responsibility for the spent fuel they hold."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Radioactive waste shall be disposed of by classification.\nLow- and intermediate-level radioactive waste shall be disposed of near the surface or at intermediate depth at sites that meet nuclear safety requirements as prescribed by the State.\nHigh-level radioactive waste shall be subject to centralised deep geological disposal, which shall be exclusively operated by an entity designated by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The operating organisation of a nuclear facility and entities engaged in the treatment and disposal of radioactive waste shall minimise and render harmless radioactive waste through treatment and disposal so as to ensure permanent safety."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The competent department of nuclear industry of the State Council, together with the relevant departments of the State Council and the people's governments of provinces, autonomous regions and municipalities directly under the Central Government, compiles the siting plan for low- and intermediate-level radioactive waste disposal sites and organises its implementation after the plan is approved by the State Council.\nThe competent department of nuclear industry of the State Council, together with the relevant departments of the State Council, compiles the siting plan for high-level radioactive waste disposal sites and organises its implementation after the plan is approved by the State Council.\nThe construction of radioactive waste disposal sites shall be commensurate with the requirements of nuclear energy development."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The State establishes a licensing system for radioactive waste management.\nEntities specialising in the treatment, storage and disposal of radioactive waste shall apply to the nuclear safety supervision and administration department of the State Council for a licence.\nWhere the operating organisation of a nuclear facility uses treatment and storage facilities built as ancillary facilities of the nuclear facility to treat and store the radioactive waste generated by itself, it is not required to apply for a licence."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall treat the radioactive solid waste it generates and the radioactive liquid waste that cannot be discharged after purification so as to convert them into stable and standardised solid waste, and shall promptly deliver such waste to a radioactive waste disposal entity for disposal.\nThe operating organisation of a nuclear facility shall treat the radioactive gaseous waste it generates and may discharge it only after it reaches the national standards for the prevention and control of radioactive pollution."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A radioactive waste disposal entity shall dispose of the radioactive waste it receives in accordance with the requirements of the national standards for the prevention and control of radioactive pollution.\nA radioactive waste disposal entity shall establish archives of records on radioactive waste disposal, truthfully recording the source, quantity, characteristics, storage location of the radioactive waste disposed of and other matters relating to disposal activities. Such archives of records shall be kept permanently."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The State establishes a system for the closure of radioactive waste disposal facilities.\nWhere a radioactive waste disposal facility falls under any of the following circumstances, closure formalities shall be completed in accordance with the law and permanent markers shall be installed in the delimited area:\n(a) the designed service life has expired;\n(b) the disposed radioactive waste has reached the designed capacity;\n(c) major changes have occurred in the geological structure or hydrogeological conditions of the area where the facility is located, rendering it unsuitable for continued disposal of radioactive waste;\n(d) other circumstances requiring closure as prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Before the closure of a radioactive waste disposal facility, the radioactive waste disposal entity shall prepare a safety monitoring plan for the closure of the radioactive waste disposal facility and submit it to the nuclear safety supervision and administration department of the State Council for approval.\nThe safety monitoring plan shall mainly include the following:\n(a) the persons responsible for safety monitoring and their responsibilities;\n(b) the costs of safety monitoring;\n(c) the measures for safety monitoring;\n(d) the duration of safety monitoring.\nAfter the closure of a radioactive waste disposal facility, the radioactive waste disposal entity shall conduct safety monitoring in accordance with the approved safety monitoring plan; after approval by the nuclear safety supervision and administration department of the State Council together with the relevant departments of the State Council, the facility shall be handed over to the people's government of the province, autonomous region or municipality directly under the Central Government for monitoring management."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall pay spent fuel treatment and disposal fees in accordance with State provisions and include such fees in production costs.\nThe operating organisation of a nuclear facility shall set aside in advance funds for the decommissioning of the nuclear facility and for the disposal of radioactive waste and include such funds in the investment estimate and production costs, to be used exclusively for the decommissioning of the nuclear facility and the disposal of radioactive waste. The specific measures shall be formulated by the department of finance and the department in charge of prices of the State Council together with the nuclear safety supervision and administration department, the competent department of nuclear industry and the competent energy department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The State applies classified management to the transport of nuclear materials and radioactive waste and takes effective measures to ensure transport safety."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The State ensures the transport of nuclear materials and radioactive waste by road, railway, waterway and other means; the relevant departments of the State Council shall strengthen the management of transport by road, railway, waterway and other means and formulate specific assurance measures."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The competent department of nuclear industry of the State Council is responsible for coordinating the management of spent fuel transport activities and supervising the relevant confidentiality measures.\nPublic security organs supervise the physical protection of the road transport of nuclear materials and radioactive waste and handle, in accordance with the law, accidents that may endanger the safe transport of nuclear materials and radioactive waste. Where nuclear materials or radioactive waste are transported by road, the matter shall be submitted to the public security organ of the people's government at or above the county level at the place of departure for approval in accordance with the prescribed limits of authority; where spent fuel or high-level radioactive waste is transported, the matter shall be submitted to the public security department of the State Council for approval.\nThe nuclear safety supervision and administration department of the State Council is responsible for approving licence applications for packaging containers used for the transport of nuclear materials and radioactive waste."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Consignors of nuclear materials and radioactive waste shall take effective radiation protection and security protection measures during transport and be responsible for nuclear safety during transport.\nConsignors of spent fuel and high-level radioactive waste shall submit a nuclear safety analysis report to the nuclear safety supervision and administration department of the State Council and may carry out transport activities only after examination and approval.\nCarriers of nuclear materials and radioactive waste shall obtain the transport qualifications prescribed by the State in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where nuclear materials or radioactive waste are transported by road, railway, waterway or other means, matters not provided for in this Law shall be governed by the provisions of the relevant laws, administrative regulations and rules on the transport of radioactive materials and the transport of dangerous goods."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter III Safety of Nuclear Material and Radioactive Waste"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The State establishes a nuclear accident emergency coordination committee to organise and coordinate nuclear accident emergency management work throughout the country.\nThe people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, in light of actual needs, establish nuclear accident emergency coordination committees to organise and coordinate nuclear accident emergency management work within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The competent department of nuclear industry of the State Council undertakes the day-to-day work of the national nuclear accident emergency coordination committee and takes the lead in formulating the national nuclear accident emergency plan, which shall be organised and implemented after approval by the State Council. The member entities of the national nuclear accident emergency coordination committee shall, in accordance with the arrangements of the national nuclear accident emergency plan, formulate their own nuclear accident emergency plans and file them with the competent department of nuclear industry of the State Council for the record.\nThe department designated by the people's government of a province, autonomous region or municipality directly under the Central Government undertakes the day-to-day work of the nuclear accident emergency coordination committee and is responsible for formulating the off-site nuclear accident emergency plan for its administrative area, which shall be organised and implemented after approval by the national nuclear accident emergency coordination committee.\nThe operating organisation of a nuclear facility is responsible for formulating the on-site nuclear accident emergency plan of the entity and filing it with the competent department of nuclear industry, the competent energy department of the State Council and the department designated by the people's government of the province, autonomous region or municipality directly under the Central Government for the record.\nThe Chinese People's Liberation Army and the Chinese People's Armed Police Force shall, in accordance with the provisions of the State Council and the Central Military Commission, formulate plans for nuclear accident emergency work in support of local authorities within their respective systems and file them with the competent department of nuclear industry of the State Council for the record.\nEntities that formulate emergency plans shall revise the emergency plans in a timely manner in light of actual needs and changes in circumstances."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall, in accordance with the emergency plan, be equipped with emergency equipment, carry out training and drills for emergency workers and make proper emergency preparations.\nThe department designated by the people's government of the province, autonomous region or municipality directly under the Central Government where the nuclear facility is located shall carry out activities to popularise knowledge of nuclear accident emergencies and, in accordance with the emergency plan, organise the relevant enterprises, public institutions and communities to carry out nuclear accident emergency drills."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The State establishes a system of reserve funds for nuclear accident emergencies to guarantee the funds needed for nuclear accident emergency preparedness and response. The measures for the administration of reserve funds for nuclear accident emergencies shall be formulated by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The State applies tiered management to nuclear accident emergencies.\nWhen a nuclear accident occurs, the operating organisation of a nuclear facility shall carry out emergency response in accordance with the requirements of the emergency plan, mitigate the consequences of the accident and immediately report the condition of the nuclear facility to the competent department of nuclear industry, the nuclear safety supervision and administration department of the State Council and the department designated by the people's government of the province, autonomous region or municipality directly under the Central Government, and shall put forward proposals for off-site emergency response actions as needed."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The national nuclear accident emergency coordination committee shall, in accordance with the arrangements of the national nuclear accident emergency plan, organise and coordinate the relevant departments of the State Council, local people's governments and the operating organisations of nuclear facilities in implementing nuclear accident emergency rescue work.\nThe Chinese People's Liberation Army and the Chinese People's Armed Police Force shall, in accordance with the provisions of the State Council and the Central Military Commission, implement nuclear accident emergency rescue work.\nThe operating organisation of a nuclear facility shall, in accordance with the requirements of nuclear accident emergency rescue work, provide support for emergency response."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "The competent department of nuclear industry of the State Council or the department designated by the people's government of the province, autonomous region or municipality directly under the Central Government is responsible for releasing nuclear accident emergency information.\nThe national nuclear accident emergency coordination committee coordinates international notification and international rescue work in respect of nuclear accident emergencies."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "People's governments at all levels and their relevant departments, the operating organisations of nuclear facilities and others shall, in accordance with the relevant provisions and authorisations of the State Council, organise and carry out post-accident recovery actions, loss assessment and other work.\nThe investigation and handling of nuclear accidents shall be carried out by the State Council or a department authorised by it.\nThe investigation and handling of off-site emergency actions for nuclear accidents shall be carried out by the State Council or an institution designated by it."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Emergency response for the transport of nuclear materials and radioactive waste shall be incorporated into the off-site nuclear accident emergency plan or the radiation emergency plan of the province, autonomous region or municipality directly under the Central Government through which the materials or waste pass. When a nuclear accident occurs, the people's government of the province, autonomous region or municipality directly under the Central Government where the accident occurs is responsible for emergency response."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter IV Emergency Response to Nuclear Accidents"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "The relevant departments of the State Council and the departments designated by the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government where nuclear facilities are located shall, within the scope of their respective duties, disclose information relating to nuclear safety in accordance with the law.\nThe nuclear safety supervision and administration department of the State Council shall, in accordance with the law, disclose administrative licences relating to nuclear safety, as well as information such as safety supervision and inspection reports on activities relating to nuclear safety, the overall safety situation, the quality of the radiation environment and nuclear accidents.\nThe State Council shall periodically report the nuclear safety situation to the Standing Committee of the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter V Information Disclosure and Public Participation"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall disclose information such as its nuclear safety management system and relevant documents, the safety status of the nuclear facility, radiation monitoring data on effluents and the surrounding environment, and annual nuclear safety reports. The specific measures shall be formulated by the nuclear safety supervision and administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter V Information Disclosure and Public Participation"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "Nuclear safety information that is disclosed in accordance with the law shall be promptly disclosed to the public through government announcements, websites and other means that are convenient for the public to know.\nCitizens, legal persons and other organisations may, in accordance with the law, apply to the nuclear safety supervision and administration department of the State Council and the department designated by the people's government of the province, autonomous region or municipality directly under the Central Government where the nuclear facility is located for access to information relating to nuclear safety."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter V Information Disclosure and Public Participation"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall, in respect of major nuclear safety matters involving the public interest, solicit the opinions of interested parties through questionnaires, hearings, demonstration meetings, symposia or other forms, and shall give feedback in an appropriate form.\nThe people's government of the province, autonomous region or municipality directly under the Central Government where a nuclear facility is located shall, in respect of major nuclear safety matters affecting the public interest, hold hearings, demonstration meetings or symposia, or adopt other forms, to solicit the opinions of interested parties, and shall give feedback in an appropriate form."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter V Information Disclosure and Public Participation"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The operating organisation of a nuclear facility shall take the following measures to carry out nuclear safety publicity activities:\n(a) open the nuclear facility to the public in an orderly manner on the premise of ensuring the safety of the nuclear facility;\n(b) cooperate with schools to carry out educational activities on nuclear safety knowledge for students;\n(c) build venues for nuclear safety publicity and print and distribute nuclear safety publicity materials;\n(d) other measures prescribed by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter V Information Disclosure and Public Participation"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "Citizens, legal persons and other organisations have the right to report to the nuclear safety supervision and administration department of the State Council or other relevant departments any act that involves a hidden danger to nuclear safety or that violates laws or administrative regulations on nuclear safety.\nCitizens, legal persons and other organisations shall not fabricate or disseminate false information on nuclear safety."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter V Information Disclosure and Public Participation"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The disclosure of government information involving State secrets, trade secrets and personal information shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter V Information Disclosure and Public Participation"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "The State establishes a system of supervision and inspection of nuclear safety.\nThe nuclear safety supervision and administration department of the State Council and other relevant departments shall supervise and inspect the compliance of entities engaged in nuclear safety activities with laws, administrative regulations, rules and standards on nuclear safety.\nThe nuclear safety supervision and administration department of the State Council may establish dispatched offices in areas where nuclear facilities are concentrated. The nuclear safety supervision and administration department of the State Council or its dispatched offices shall dispatch supervision and inspection personnel to the sites of construction, operation, decommissioning and other activities of nuclear facilities to carry out nuclear safety supervision and inspection."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "The nuclear safety supervision and administration department of the State Council and other relevant departments shall strengthen capacity building for nuclear safety supervision and raise the level of nuclear safety supervision.\nThe nuclear safety supervision and administration department of the State Council shall organise and carry out research and development of nuclear safety supervision technologies and maintain technical evaluation capabilities commensurate with nuclear safety supervision and administration."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "When conducting nuclear safety supervision and inspection, the nuclear safety supervision and administration department of the State Council and other relevant departments have the power to take the following measures:\n(a) enter the site to carry out monitoring, inspection or verification;\n(b) consult the relevant documents, materials and records;\n(c) investigate and ascertain the situation from the persons concerned;\n(d) where problems are found, require rectification on the spot.\nThe nuclear safety supervision and administration department of the State Council and other relevant departments shall produce a report on the supervision and inspection situation and establish archives."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "In respect of supervision and inspection conducted in accordance with the law by the nuclear safety supervision and administration department of the State Council and other relevant departments, entities engaged in nuclear safety activities shall cooperate, truthfully explain the situation and provide the necessary materials, and shall not refuse or obstruct such inspection."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Nuclear safety supervision and inspection personnel shall be loyal to their duties, diligent and responsible, and enforce the law impartially.\nNuclear safety supervision and inspection personnel shall have professional knowledge and operational capabilities commensurate with supervision and inspection activities and shall receive training periodically.\nWhen carrying out supervision and inspection tasks, nuclear safety supervision and inspection personnel shall produce valid certificates and shall keep confidential, in accordance with the law, the State secrets, trade secrets and personal information they learn of."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "Where any of the following circumstances exists in violation of the provisions of this Law, the directly responsible person in charge and other directly responsible persons shall be given a sanction in accordance with the law:\n(a) the nuclear safety supervision and administration department of the State Council or another relevant department fails to examine and approve a licence application in accordance with the law;\n(b) the relevant department of the State Council or the department designated by the people's government of the province, autonomous region or municipality directly under the Central Government where the nuclear facility is located fails to disclose information relating to nuclear safety in accordance with the law;\n(c) the people's government of the province, autonomous region or municipality directly under the Central Government where the nuclear facility is located fails to solicit the opinions of interested parties on major nuclear safety matters affecting the public interest;\n(d) the nuclear safety supervision and administration department of the State Council or another relevant department fails to produce a report on the supervision and inspection situation or fails to establish archives;\n(e) nuclear safety supervision and inspection personnel, when carrying out supervision and inspection tasks, fail to produce valid certificates or fail to keep confidential, in accordance with the law, the State secrets, trade secrets and personal information they learn of;\n(f) the nuclear safety supervision and administration department of the State Council or another relevant department, or a relevant department of the people's government of a province, autonomous region or municipality directly under the Central Government, commits other acts of abuse of power, dereliction of duty or malpractice for personal gain."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a violation of the provisions of this Law endangers the safety of nuclear facilities or nuclear materials, or false information on nuclear safety is fabricated or disseminated, and such act constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Where any of the following circumstances exists in violation of the provisions of this Law, the nuclear safety supervision and administration department of the State Council or another relevant department shall order rectification and give a warning; where the circumstances are serious, a fine of not less than 200,000 yuan but not more than 1,000,000 yuan shall be imposed; where rectification is refused, the entity shall be ordered to stop construction or to suspend production for rectification:\n(a) the operating organisation of a nuclear facility fails to establish a defence-in-depth system for the nuclear facility;\n(b) the operating organisation of a nuclear facility or an entity providing equipment, engineering, services and the like to it fails to establish or implement a quality assurance system;\n(c) the operating organisation of a nuclear facility fails to control radiation exposure doses as required;\n(d) the operating organisation of a nuclear facility fails to establish a nuclear safety experience feedback system;\n(e) the operating organisation of a nuclear facility fails to solicit the opinions of interested parties on major nuclear safety matters involving the public interest."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, production or storage facilities for flammable, explosive or corrosive substances, or densely populated places, that may threaten the safety of nuclear facilities are constructed within a planning restricted area, the nuclear safety supervision and administration department of the State Council shall order their demolition within a specified time limit and the restoration of the original state, and shall impose a fine of not less than 100,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "Where any of the following circumstances exists in violation of the provisions of this Law on the part of the operating organisation of a nuclear facility, the nuclear safety supervision and administration department of the State Council shall order rectification and impose a fine of not less than 1,000,000 yuan but not more than 5,000,000 yuan; where rectification is refused, the entity shall be ordered to stop construction or to suspend production for rectification; where there are illegal gains, the illegal gains shall be confiscated; where environmental pollution is caused, the entity shall be ordered to take treatment measures within a specified time limit to eliminate the pollution, and where no measures are taken upon the expiry of the time limit, an entity with the relevant capability shall be designated to perform the measures on its behalf at the expense of the polluter; the directly responsible person in charge and other directly responsible persons shall be fined not less than 50,000 yuan but not more than 200,000 yuan:\n(a) engaging in the construction, operation, decommissioning or other activities of a nuclear facility without a licence;\n(b) changing the conditions specified in the licence document without a licence;\n(c) continuing to operate a nuclear facility upon the expiry of the period of validity of its operating licence without examination and approval;\n(d) importing a nuclear facility without examination and approval."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Where any of the following circumstances exists in violation of the provisions of this Law on the part of the operating organisation of a nuclear facility, the nuclear safety supervision and administration department of the State Council shall order rectification and give a warning; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than 2,000,000 yuan shall be imposed; where environmental pollution is caused, the entity shall be ordered to take treatment measures within a specified time limit to eliminate the pollution, and where no measures are taken upon the expiry of the time limit, an entity with the relevant capability shall be designated to perform the measures on its behalf at the expense of the polluter:\n(a) failing to conduct periodic safety assessments of the nuclear facility, or failing to accept examination by the nuclear safety supervision and administration department of the State Council;\n(b) after the termination of the operation of the nuclear facility, failing to carry out shutdown management in a safe manner, or failing to ensure the basic functions, technical personnel and documents required for decommissioning;\n(c) during the decommissioning of the nuclear facility, failing to reduce the radioactivity levels of structures, systems or equipment to a level that meets the requirements of the standards;\n(d) failing to convert the radioactive solid waste generated or the radioactive liquid waste that cannot be discharged after purification into stable and standardised solid waste and promptly deliver it to a radioactive waste disposal entity for disposal;\n(e) failing to treat the radioactive gaseous waste generated, or discharging it without reaching the national standards for the prevention and control of radioactive pollution."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the operating organisation of a nuclear facility fails to monitor the types or concentrations of radionuclides contained in the environment surrounding the nuclear facility or the total amount of radionuclides in the effluents of the nuclear facility, or fails to report the monitoring results as required, the competent department of environmental protection of the State Council or the competent department of environmental protection of the people's government of the province, autonomous region or municipality directly under the Central Government where the facility is located shall order rectification and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, an entrusted technical support entity issues a false technical evaluation conclusion, the nuclear safety supervision and administration department of the State Council shall impose a fine of not less than 200,000 yuan but not more than 1,000,000 yuan; where there are illegal gains, the illegal gains shall be confiscated; the directly responsible person in charge and other directly responsible persons shall be fined not less than 100,000 yuan but not more than 200,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "Where any of the following circumstances exists in violation of the provisions of this Law, the nuclear safety supervision and administration department of the State Council shall order rectification and impose a fine of not less than 500,000 yuan but not more than 1,000,000 yuan; where there are illegal gains, the illegal gains shall be confiscated; the directly responsible person in charge and other directly responsible persons shall be fined not less than 20,000 yuan but not more than 100,000 yuan:\n(a) providing design, manufacturing, installation or non-destructive testing services for nuclear safety equipment of a nuclear facility without a licence;\n(b) an overseas institution providing design, manufacturing, installation or non-destructive testing services for nuclear safety equipment of a domestic nuclear facility without registration."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the operating organisation of a nuclear facility or an entity engaged in the manufacture, installation or non-destructive testing of nuclear safety equipment employs persons who have not obtained the corresponding qualification certificates to engage in work relating to the professional technology of nuclear facility safety, the nuclear safety supervision and administration department of the State Council shall order rectification and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where rectification is refused, the licence shall be suspended or revoked, and the directly responsible person in charge and other directly responsible persons shall be fined not less than 20,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 85,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, nuclear materials are held without a licence, the competent department of nuclear industry of the State Council shall confiscate the illegally held nuclear materials and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where there are illegal gains, the illegal gains shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 85."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "Where any of the following circumstances exists in violation of the provisions of this Law, the nuclear safety supervision and administration department of the State Council shall order rectification and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where the circumstances are serious, a fine of not less than 500,000 yuan but not more than 2,000,000 yuan shall be imposed; where environmental pollution is caused, the entity shall be ordered to take treatment measures within a specified time limit to eliminate the pollution, and where no measures are taken upon the expiry of the time limit, an entity with the relevant capability shall be designated to perform the measures on its behalf at the expense of the polluter:\n(a) engaging in the treatment, storage or disposal of radioactive waste without a licence;\n(b) failing to establish archives of records on radioactive waste disposal, failing to truthfully record the matters relating to disposal activities, or failing to keep such archives of records permanently;\n(c) failing to complete closure formalities in accordance with the law for a radioactive waste disposal facility that should be closed;\n(d) after closing a radioactive waste disposal facility, failing to install permanent markers in the delimited area;\n(e) failing to prepare a safety monitoring plan for the closure of the radioactive waste disposal facility;\n(f) after the closure of the radioactive waste disposal facility, failing to conduct safety monitoring in accordance with the approved safety monitoring plan."
+        },
+        "noLabel": {
+          "en": "Article 86."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 87,
+        "text": {
+          "en": "Where any of the following circumstances exists in violation of the provisions of this Law on the part of the operating organisation of a nuclear facility, the nuclear safety supervision and administration department of the State Council shall order rectification and impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; the directly responsible person in charge and other directly responsible persons shall be fined not less than 20,000 yuan but not more than 50,000 yuan:\n(a) failing to formulate an on-site nuclear accident emergency plan as required;\n(b) failing to be equipped with emergency equipment in accordance with the emergency plan, or failing to carry out training or drills for emergency workers;\n(c) failing to provide support for emergency response in accordance with the requirements of nuclear accident emergency rescue work."
+        },
+        "noLabel": {
+          "en": "Article 87."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 88,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, the operating organisation of a nuclear facility fails to disclose the relevant information as required, the nuclear safety supervision and administration department of the State Council shall order rectification; where rectification is refused, a fine of not less than 100,000 yuan but not more than 500,000 yuan shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 88."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 89,
+        "text": {
+          "en": "Where, in violation of the provisions of this Law, an entity engaged in nuclear safety activities refuses or obstructs supervision and inspection conducted in accordance with the law by the nuclear safety supervision and administration department of the State Council or another relevant department, the nuclear safety supervision and administration department of the State Council or the other relevant department shall order rectification and may impose a fine of not less than 100,000 yuan but not more than 500,000 yuan; where rectification is refused, its licence shall be suspended or revoked; where the act constitutes a violation of public security administration, the public security organ shall impose a public security administration penalty in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 89."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 90,
+        "text": {
+          "en": "Where a nuclear accident causes personal injury or death, property loss or environmental damage to others, the operating organisation of a nuclear facility shall bear liability for compensation in accordance with the State system of liability for nuclear damage, except where it can prove that the damage was caused by war, armed conflict, riot or other such circumstances.\nEntities that provide equipment, engineering, services and the like to the operating organisation of a nuclear facility do not bear liability for compensation for nuclear damage. Where the operating organisation of a nuclear facility has an agreement with such an entity, it may, after bearing liability for compensation, seek recovery in accordance with the agreement.\nThe operating organisation of a nuclear facility shall, by taking out liability insurance, participating in mutual assistance mechanisms or other means, make appropriate financial assurance arrangements to ensure that it can perform its liability for compensation for nuclear damage promptly and effectively."
+        },
+        "noLabel": {
+          "en": "Article 90."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 91,
+        "text": {
+          "en": "Where a violation of the provisions of this Law constitutes a criminal offence, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 91."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 92,
+        "text": {
+          "en": "Military industry-related and military nuclear safety shall be separately provided for by the State Council and the Central Military Commission in accordance with the principles stipulated in this Law."
+        },
+        "noLabel": {
+          "en": "Article 92."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 93,
+        "text": {
+          "en": "The following terms used in this Law have the meanings given below:\nNuclear accident means a radiological, toxic, explosive or other hazardous accident, or a series of accidents, involving nuclear fuel, radioactive products, radioactive waste in a nuclear facility, or nuclear materials transported into or out of a nuclear facility.\nDefence in depth means the prevention of nuclear accidents and the mitigation of their consequences through the establishment of a series of progressive and independent protective and mitigating measures or physical barriers.\nOperating organisation of a nuclear facility means an entity within the territory of the People's Republic of China that applies for or holds a nuclear facility safety licence and may operate and run a nuclear facility.\nNuclear safety equipment means equipment used in a nuclear facility that performs a nuclear safety function, including nuclear safety mechanical equipment and nuclear safety electrical equipment.\nSpent fuel means nuclear fuel that has been irradiated in the core of a reactor and permanently removed from the core.\nShutdown means that a nuclear facility has ceased operation and will not be started up again.\nDecommissioning means the adoption of measures such as decontamination, dismantling and clearance so that the radiation doses of the places or equipment no longer used by a nuclear facility meet the requirements of the relevant national standards.\nExperience feedback means the collection, screening, evaluation, analysis, processing and distribution of information on events, quality problems and good practices relating to nuclear facilities, and the summarisation and promotion of good practice experience, so as to prevent the recurrence of similar events and problems.\nConsignor means an entity within the territory of the People's Republic of China that applies to submit consigned goods for transport and obtains approval."
+        },
+        "noLabel": {
+          "en": "Article 93."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 94,
+        "text": {
+          "en": "This Law shall enter into force on 1 January 2018."
+        },
+        "noLabel": {
+          "en": "Article 94."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]

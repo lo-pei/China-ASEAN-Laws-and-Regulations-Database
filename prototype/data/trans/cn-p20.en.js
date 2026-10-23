@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p20
-   法规 28 部 / 译文 1041 条
+   法规 32 部 / 译文 1264 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -171,6 +171,639 @@
         },
         "noLabel": {
           "en": "Article 17."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0581'] = {
+    "lawId": "CN-REG-0581",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 53 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Law of the People's Republic of China on the Protection of Consumer Rights and Interests (hereinafter referred to as the Law on the Protection of Consumer Rights and Interests) and other laws."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Work for the protection of consumer rights and interests shall uphold the leadership of the Communist Party of China, adhere to a people-centred approach and follow the principles of lawfulness, fairness and efficiency."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State redoubles efforts to protect the lawful rights and interests of consumers and establishes and improves a system of joint governance for consumer protection that combines law-abiding operation by business operators, industry self-discipline, consumer participation, government regulation and social supervision."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State advances the development of the consumption environment in a coordinated manner, fosters a safe and reassuring consumption environment and strengthens the fundamental role of consumption in economic development."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State strengthens the development of a standards system for consumer goods and services, encourages business operators to formulate and implement enterprise standards stricter than national standards or industry standards, and continuously improves the quality of goods and services."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State advocates civilised, healthy and green consumption concepts and patterns and opposes extravagance and waste."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Consumers enjoy, in accordance with law, the right that their personal and property safety not be harmed when purchasing or using goods or receiving services.\nWhere a business operator provides goods or services to consumers (including providing goods or services free of charge in the form of rewards, gifts or trials), it shall ensure that the goods or services meet the requirements for safeguarding personal and property safety. Where goods or services provided free of charge have defects that do not violate mandatory provisions of law and do not affect normal performance, the business operator shall truthfully inform consumers before providing the goods or services.\nA business operator shall ensure that its business premises and facilities meet the requirements for safeguarding personal and property safety, take the necessary safety protection measures and install the corresponding warning signs. Where a consumer encounters danger or is harmed at the business premises, the business operator shall provide prompt and necessary assistance."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a consumer believes that goods or services provided by a business operator may be defective and may endanger personal or property safety, the consumer may report the situation to, or make suggestions to, the business operator or the relevant administrative department.\nWhere a business operator discovers that the goods or services it provides may be defective and may endanger personal or property safety, it shall promptly take the relevant measures in accordance with the provisions of Article 19 of the Law on the Protection of Consumer Rights and Interests. Where recall measures are taken, the business operator that produced or imported the goods shall formulate a recall plan, publish recall information, clearly inform consumers of the relevant rights they enjoy, keep complete recall records and bear the necessary expenses incurred by consumers as a result of the recall. Business operators concerned in the sale, leasing and repair of goods, the production and supply of parts and components, and entrusted production shall, in accordance with law, perform their obligations to assist and cooperate in the recall."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Business operators shall, in an easily comprehensible manner, provide consumers with true and comprehensive information about goods or services, and may not conduct false or misleading publicity to deceive or mislead consumers by fabricating their qualifications, credentials or honours received, fabricating transaction information or operating data of goods or services, or tampering with, concocting or concealing user reviews.\nBusiness operators may not, without the knowledge of consumers, set different prices or charging standards for the same goods or services under the same transaction conditions."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Business operators shall, in accordance with the relevant provisions of the State, clearly indicate in a conspicuous manner such information as the name, price and pricing unit of goods, or the items, content, price and pricing method of services, so that price tags and price lists are complete, the content is true and accurate, and the markings are clear and conspicuous.\nWhere a business operator provides services by such means as automatic extension or automatic renewal, it shall, before the consumer accepts the service and before the date of automatic extension or automatic renewal, draw the consumer's attention in a conspicuous manner."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Consumers enjoy the right to choose goods or services independently. Business operators may not, by violence, coercion, restriction of personal freedom or other means, or by exploiting technical means, force or in disguised form force consumers to purchase goods or accept services, or exclude or restrict consumers from choosing goods or services provided by other business operators. Where a business operator provides goods or services by way of bundling or combination, it shall draw the consumer's attention in a conspicuous manner."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a business operator provides goods or services through commercial publicity, product recommendations, physical displays, or notices, statements or in-store announcements, and makes commitments regarding the quantity, quality, price, after-sales service or assumption of liability of the goods or services, it shall perform the content so committed to the consumer who purchases the goods or accepts the services."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "A business operator shall indicate its true name and mark in a conspicuous position at its business premises.\nWhere a business operator provides goods or services through the internet, television, telephone, mail order or other means, it shall indicate or explain its true name and mark in a conspicuous manner on its home page, in video images, in voice messages, in product catalogues and the like. Where the goods or services are actually provided by another business operator, it shall also provide consumers with information such as the name, business address and contact details of that business operator.\nWhere a business operator leases the counters or premises of others to provide goods or services, or provides goods or services through presentations, lotteries, centralised experience activities or other means, it shall indicate its true name and mark in a conspicuous manner. The lessor of the counters or premises shall establish an in-market business management system, verify, update and publicise the relevant information of business operators for consumers to consult."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a business operator provides goods or services through live-streaming or other means, it shall perform the obligations relating to consumer protection in accordance with law.\nOperators of live-streaming marketing platforms shall establish and improve consumer protection systems and clarify the mechanisms for resolving consumer disputes. Where a consumer dispute arises, the operator of the live-streaming marketing platform shall, at the request of the consumer, provide the necessary information such as information on the live-streaming room operator and live-streaming marketing personnel and records of the relevant business activities.\nWhere the live-streaming content published by a live-streaming room operator or live-streaming marketing personnel constitutes a commercial advertisement, the obligations of an advertisement publisher, advertisement operator or advertisement endorser shall be performed in accordance with the relevant provisions of the Advertising Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Business operators may not, through false or misleading publicity, fabricate or exaggerate the therapeutic, health-care or wellness effects of goods or services so as to induce elderly and other consumers to purchase goods or services that clearly do not meet their actual needs."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a business operator provides online game services, it shall comply with the provisions and standards of the State on the relevant time periods, duration, functions and content of online game services, provide functions such as time management, permission management and consumption management for minors, strictly verify users at registration, login and other stages, and protect the physical and mental health of minors in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a business operator uses standard terms, it shall comply with the provisions of Article 26 of the Law on the Protection of Consumer Rights and Interests. A business operator may not use standard terms to unreasonably exempt or mitigate its own liability, aggravate the liability of consumers or restrict the rights of consumers to modify or rescind contracts in accordance with law, to choose litigation or arbitration to resolve consumer disputes, or to choose goods or services of other business operators."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The effective period agreed between a business operator and a consumer for obligations such as return, replacement and repair of goods shall not be shorter than the requirements of the relevant provisions of the State. The effective period shall be counted from the date on which the business operator delivers the goods to the consumer or completes the provision of services; for goods requiring separate installation by the business operator, the effective period shall be counted from the date on which installation is completed. After a business operator performs the obligation of replacement, the effective period for obligations such as replacement and repair shall be recalculated from the date on which the replacement is completed. The time taken by the business operator for repair shall not be counted in the above effective period.\nWhere a business operator performs the obligation of return in accordance with the relevant provisions of the State or as agreed with the consumer, it shall refund the relevant amount in a lump sum at the price shown on the invoice or other purchase voucher or service receipt. Where the business operator can prove that the price actually paid by the consumer differs from the price shown on the invoice or other purchase voucher or service receipt, the relevant amount shall be refunded at the price actually paid by the consumer."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a business operator sells goods through the internet, television, telephone, mail order or other means, it shall comply with the provisions of Article 25 of the Law on the Protection of Consumer Rights and Interests and may not expand without authorisation the scope of goods to which return without reason does not apply.\nA business operator shall mark in a conspicuous manner the goods to which return without reason does not apply, prompt consumers to confirm at the time of purchase, and may not make non-applicability of return without reason a default option consented to by consumers. Without confirmation by the consumer, a business operator may not refuse return without reason.\nGoods returned by a consumer shall be in good condition. Where a consumer opens the packaging of goods for the purpose of inspection, or carries out reasonable adjustments to confirm the quality and functions of goods, without affecting the original quality, functions and appearance of the goods, the business operator shall accept the return.\nA consumer returning goods without reason shall follow the principle of honesty and credibility and may not use the rule of return without reason to harm the lawful rights and interests of business operators and other consumers."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a business operator collects a deposit when providing goods or services, it shall agree with the consumer in advance on the manner, procedures and time limit for refunding the deposit, and may not set unreasonable conditions for refunding the deposit.\nWhere a consumer requests a refund of the deposit and the conditions for refund are met, the business operator shall refund it promptly."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a business operator decides to cease business or relocate its service premises, it shall, 30 days in advance, announce at a conspicuous position at its business premises, on its website and on the home page of its online store such information as its valid contact details."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a business operator provides goods or services by collecting advance payments, it shall conclude a written contract with the consumer, specifying such matters as the specific content of the goods or services, the price or charges, the manner of refunding the advance payment and liability for breach of contract.\nAfter collecting an advance payment, a business operator shall provide the goods or services as agreed with the consumer, may not lower the quality of the goods or services and may not raise prices arbitrarily. Where a business operator fails to provide the goods or services as agreed, it shall, at the request of the consumer, perform the agreement or refund the advance payment.\nWhere a major business risk arises for a business operator that may affect its normal provision of goods or services as agreed in the contract or according to trade practice, it shall cease collecting advance payments. Where a business operator decides to cease business or relocate its service premises, it shall inform consumers in advance and perform the obligations prescribed in Article 21 of these Regulations. In accordance with the relevant provisions of the State or the contract, a consumer has the right to require the business operator to continue to perform the obligation to provide goods or services, or to require a refund of the balance of unconsumed advance payments."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Business operators shall protect the personal information of consumers in accordance with law. When providing goods or services, business operators may not collect consumers' personal information excessively, and may not, by means of one-off blanket authorisation, default authorisation or the like, force or in disguised form force consumers to consent to the collection or use of personal information not directly related to their business activities.\nWhere a business operator processes sensitive personal information, including information on consumers' biometric features, religious belief, specific identity, medical health, financial accounts and movement tracks, and personal information of minors under the age of 14, it shall comply with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Without the consent of a consumer, a business operator may not send commercial information to the consumer or make commercial calls to the consumer. Where a consumer consents to receive commercial information or commercial calls, the business operator shall provide clear and convenient means of cancellation. Where a consumer chooses to cancel, the business operator shall immediately cease sending commercial information or making commercial calls."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Rights of Consumers and Obligations of Business Operators"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "People's governments at various levels shall strengthen guidance of work for the protection of consumer rights and interests, organise, coordinate and urge the relevant administrative departments to implement their duties in consumer protection, and raise the level of rule-of-law governance in consumer protection work."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a consumer dispute over consumer rights and interests arises between a consumer and a business operator, the consumer may lodge a complaint with the market regulation department or another relevant administrative department.\nNatural persons, legal persons or other organisations may report to the market regulation department or another relevant administrative department leads on suspected violations of law by business operators."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The market regulation department or another relevant administrative department shall keep complaint and reporting channels for consumers open and well-regulated, improve the procedures for handling complaints and reports, accept and handle complaints and reports promptly in accordance with law, strengthen the analysis and application of complaint and reporting information, and carry out consumption early warning and risk alerts.\nComplaints and reports shall comply with laws, regulations and the relevant provisions, and may not be used to seek improper benefits, infringe the lawful rights and interests of business operators or disrupt the order of the market economy."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The market regulation department and other relevant administrative departments shall strengthen coordination, cooperation and information sharing in consumer protection work and, in accordance with the provisions of laws and regulations and within the scope of their respective duties, implement regulatory measures such as sampling inspection with respect to goods and services provided by business operators and promptly investigate and deal with acts infringing the lawful rights and interests of consumers."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The market regulation department and other relevant administrative departments shall strengthen the development of the credit system in the consumption field, publicise in accordance with law information on administrative licences, administrative penalties, sampling inspection results and consumer complaints, and impose punishment in accordance with law on business operators that violate the law and lose credibility."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The relevant administrative departments shall strengthen publicity and popularisation of consumption knowledge, advocate civilised, healthy and green consumption, and enhance consumers' awareness and ability to safeguard their rights in accordance with law and in a rational manner; they shall strengthen legal publicity, administrative guidance and compliance guidance for business operators and enhance their awareness of lawful operation."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State improves the standards, certification and information disclosure systems for green consumption, encourages business operators to disclose information or make commitments regarding green consumption in respect of goods and services, and investigates and deals with false information disclosure and commitments in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Industry associations, chambers of commerce and similar organisations shall strengthen industry self-discipline and guide and urge business operators to operate lawfully and in good faith; the industry rules, self-discipline rules, model contracts and relevant standards they formulate shall be conducive to protecting the lawful rights and interests of consumers."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The State encourages and supports all organisations and individuals in exercising social supervision over acts that harm the lawful rights and interests of consumers.\nThe mass media shall report on matters relating to consumer rights and interests in a truthful, objective and fair manner, strengthen publicity and popularisation of knowledge on safeguarding consumer rights, and exercise public opinion supervision over acts that harm the lawful rights and interests of consumers."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of the Lawful Rights and Interests of Consumers by the State"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Consumers' associations and other consumers' organisations lawfully established shall perform their duties in accordance with the provisions of the Law on the Protection of Consumer Rights and Interests."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Consumer Organisations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "People's governments at various levels shall strengthen the organisational development of consumers' associations and provide the necessary funding and other support for consumers' associations to perform their duties."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Consumer Organisations"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The relevant administrative departments shall earnestly heed the opinions and suggestions of consumers' associations. With respect to problems infringing the lawful rights and interests of consumers reported by consumers' associations to the relevant administrative departments, the departments shall promptly investigate and handle them and give a reply; for cases placed on file for investigation and handling, the departments shall inform the consumers' associations of the handling results."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Consumer Organisations"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Consumers' associations shall strengthen legal publicity and guidance on consumption, provide consumers with services and support for safeguarding their rights, and enhance consumers' ability to safeguard their own lawful rights and interests.\nConsumers' associations shall promptly summarise and promote typical cases and good practices in protecting the lawful rights and interests of consumers, and guide and support business operators in carrying out business activities in accordance with law and in compliance."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Consumer Organisations"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Consumers' associations may organise and carry out comparative tests, consumer surveys, consumer reviews, publication of complaint information, requests for appraisal of complained-about goods and issuance of consumption tips and warnings, so as to reflect the state of goods and services, consumer opinions and the situation of consumer rights protection."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Consumer Organisations"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Consumers' associations may put forward suggestions for improvement to, or conduct guidance talks with, the business operators and industry organisations concerned on matters of consumer protection, strengthen organisation and coordination among consumers, business operators, industry organisations, professional institutions, the relevant administrative departments and other parties concerned, and promote the resolution of important issues relating to the protection of consumers' lawful rights and interests."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Consumer Organisations"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Consumers' associations may investigate acts complained of by consumers that harm the lawful rights and interests of consumers, verify the circumstances with the business operators concerned, and invite the business operators concerned to appear and state the facts and their opinions and provide evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Consumer Organisations"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "With respect to acts harming the lawful rights and interests of numerous consumers, the China Consumers Association and the consumers' associations established in provinces, autonomous regions and municipalities directly under the Central Government may institute proceedings in a people's court."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Consumer Organisations"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Consumers shall consume in a civilised and rational manner, enhance their awareness of self-protection, safeguard their own lawful rights and interests in accordance with law, and safeguard their rights in accordance with law when consumer disputes arise."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Settlement of Disputes"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The market regulation departments and other relevant administrative departments of people's governments at various levels shall promote and improve mechanisms for the diversified resolution of consumer disputes and guide consumers in safeguarding their lawful rights and interests in accordance with law through consultation, mediation, complaint, arbitration, litigation and other means."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Settlement of Disputes"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Business operators shall establish convenient and efficient complaint handling mechanisms and resolve consumer disputes promptly.\nBusiness operators are encouraged and guided to establish and improve systems such as first-inquiry responsibility, advance compensation and online dispute resolution, so as to prevent and resolve consumer disputes promptly."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Settlement of Disputes"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a consumer dispute arises between a consumer and a business operator and mediation is requested from a consumers' association or another mediation organisation lawfully established, the organisation concerned shall handle the matter promptly."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Settlement of Disputes"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a consumer lodges a complaint with the market regulation department or another relevant administrative department regarding a consumer dispute with a business operator, the consumer shall provide true identity information and there shall be a clearly identified respondent, specific complaint requests and a factual basis.\nThe relevant administrative department shall, within 7 working days from the date of receipt of the complaint, handle it and inform the consumer. Where it decides not to accept a complaint that does not meet the provisions, it shall inform the consumer of the reasons for non-acceptance and other avenues for resolving the dispute.\nAfter the relevant administrative department accepts a complaint, where the consumer and the business operator agree to mediation, the department shall promptly mediate in accordance with its duties and complete the mediation within 60 days from the date of acceptance; where mediation fails, it shall terminate the mediation. Where appraisal or testing is needed in the course of mediation, the time for appraisal or testing shall not be counted within the 60 days.\nWith the consent of the consumer and the business operator, the relevant administrative department may, in accordance with law, entrust the complaint to a consumers' association or another mediation organisation lawfully established for mediation."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Settlement of Disputes"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the quality of goods or services needs to be appraised or tested owing to a consumer dispute, the consumer and the business operator may determine the appraisal or testing institution through consultation. Where no agreement can be reached through consultation, the market regulation department or another relevant administrative department accepting the consumer complaint may designate an appraisal or testing institution.\nFor major and complex consumer disputes involving the lawful rights and interests of numerous consumers, the market regulation department or another relevant administrative department may incorporate them into the sampling inspection procedure and entrust institutions with the corresponding qualifications to carry out appraisal or testing."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Settlement of Disputes"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a business operator provides goods or services in violation of the relevant provisions of the Law on the Protection of Consumer Rights and Interests and these Regulations and infringes the lawful rights and interests of consumers, it shall bear civil liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a business operator engages in fraudulent conduct in providing goods or services, the consumer has the right to require the business operator to pay compensation in accordance with the provisions of paragraph 1 of Article 55 of the Law on the Protection of Consumer Rights and Interests. This does not apply, however, where the labels, markings, instructions or publicity materials of the goods or services contain defects that do not affect the quality of the goods or services and will not mislead consumers.\nWhoever obtains compensation from a business operator or extorts a business operator by such means as surreptitious inclusion, substitution, counterfeiting, tampering with the production date of goods or fabricating facts shall not be subject to the provisions of paragraph 1 of Article 55 of the Law on the Protection of Consumer Rights and Interests, and shall be dealt with in accordance with the Public Security Administration Punishments Law of the People's Republic of China and other relevant laws and regulations; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a business operator violates the provisions of Article 10 to Article 14, Article 16, Article 17 or Article 19 to Article 21 of these Regulations and other relevant laws and regulations provide for the penalising authority and the manner of penalty, those provisions shall apply; where laws and regulations do not so provide, the market regulation department or another relevant administrative department shall order correction and may, in light of the circumstances, impose a warning, confiscate the illegal gains and impose a fine of not less than one time but not more than five times the illegal gains, either singly or in combination; where there are no illegal gains, a fine of not more than RMB 300,000 shall be imposed; where the circumstances are serious, it shall order suspension of business for rectification and revoke the business licence.\nWhere a business operator violates the provisions of Article 22 of these Regulations, the relevant administrative department shall order correction and may, in light of the circumstances, impose a warning, confiscate the illegal gains and impose a fine of not less than one time but not more than ten times the illegal gains, either singly or in combination; where there are no illegal gains, a fine of not more than RMB 500,000 shall be imposed; where the circumstances are serious, it shall order suspension of business for rectification and revoke the business licence.\nWhere a business operator violates other provisions of these Regulations, a penalty shall be imposed in accordance with the provisions of Article 56 of the Law on the Protection of Consumer Rights and Interests."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a business operator on its own initiative eliminates or mitigates the harmful consequences of an illegal act, where the illegal act is minor and corrected promptly without causing harmful consequences, or where it is a first violation with minor harmful consequences that is corrected promptly, a lighter or mitigated penalty shall be imposed, or no penalty shall be imposed, in accordance with the provisions of the Administrative Penalty Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where staff members of the relevant administrative departments fail to perform their duties of consumer protection in accordance with the provisions of these Regulations, neglect their duties or shield business operators in acts infringing the lawful rights and interests of consumers, sanctions shall be imposed in accordance with law; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "These Regulations shall come into force on 1 July 2024."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]
@@ -2060,6 +2693,648 @@
     ]
   };
 
+  TR['CN-REG-0594'] = {
+    "lawId": "CN-REG-0594",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 54 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Value-Added Tax Law of the People's Republic of China (hereinafter referred to as the VAT Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The term \"goods\" mentioned in Article 3 of the VAT Law includes tangible movable property, electricity, heat, gas and the like.\nThe term \"services\" mentioned in Article 3 of the VAT Law includes transport services, postal services, telecommunications services, construction services and financial services, as well as production and living services such as information technology services, cultural and sports services, and certification and consulting services.\nThe term \"intangible assets\" mentioned in Article 3 of the VAT Law means assets that have no physical form but can bring economic benefits, including technology, trademarks, copyright, goodwill, the right to use natural resources and other intangible assets.\nThe term \"immovable property\" mentioned in Article 3 of the VAT Law means assets that cannot be moved, or that change in nature or shape after being moved, including buildings and structures.\nThe competent departments of finance and taxation of the State Council shall propose the specific scope of goods, services, intangible assets and immovable property, and promulgate it for implementation after it is approved by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The term \"unit\" mentioned in Article 3 of the VAT Law includes enterprises, administrative organs, institutions, military units, social organisations and other units.\nThe term \"individual\" mentioned in Article 3 of the VAT Law includes individual industrial and commercial households and natural persons."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The consumption within China of services and intangible assets mentioned in item 4 of Article 4 of the VAT Law means any of the following circumstances:\n(a) an overseas unit or individual sells services or intangible assets to a domestic unit or individual, except services consumed on the spot abroad;\n(b) the services or intangible assets sold by an overseas unit or individual are directly related to goods, immovable property or natural resources within China;\n(c) other circumstances prescribed by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a taxpayer issues a special VAT invoice, it shall state the sales amount and the amount of VAT separately."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A taxpayer that applies the general method of tax computation is a general taxpayer.\nA registration system shall apply to general taxpayers, and the specific registration measures shall be formulated by the competent tax department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Natural persons are small-scale taxpayers. A non-enterprise unit that does not frequently carry out taxable transactions and whose main business does not fall within the scope of taxable transactions may choose to pay tax as a small-scale taxpayer."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The term \"export goods\" mentioned in item 4 of Article 10 of the VAT Law means goods that are declared to the customs and actually leave the territory and are sold to overseas units or individuals, as well as goods deemed to be exported as prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Rates"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a domestic unit or individual sells the following services or intangible assets across the border, the tax rate shall be zero:\n(a) research and development services, contract energy management services, design services, radio, film and television production and distribution services, software services, circuit design and testing services, information system services, business process management services and offshore service outsourcing business sold to overseas units and wholly consumed abroad;\n(b) technology transferred to overseas units and wholly used abroad;\n(c) international transport services, aerospace transport services and external repair and replacement services."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Rates"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The term \"taxable transaction\" mentioned in Article 13 of the VAT Law shall concurrently meet the following conditions:\n(a) it comprises two or more business activities to which different tax rates or levy rates apply;\n(b) there is an evident principal-and-ancillary relationship between the business activities. The principal business activity occupies the dominant position and reflects the substance and purpose of the transaction; the ancillary business activity is a necessary supplement to the principal business activity and presupposes the occurrence of the principal business activity."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Tax Rates"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The VAT deduction vouchers mentioned in Article 16 of the VAT Law shall conform to the relevant provisions of the competent tax department of the State Council, and specifically include special VAT invoices, special payment statements for import VAT issued by the customs, tax payment receipts, invoices for the purchase of agricultural products, invoices for the sale of agricultural products and other deduction vouchers that serve to deduct input tax."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The input tax deducted by a taxpayer from its output tax on the strength of VAT deduction vouchers includes:\n(a) the amount of VAT stated on the special VAT invoice obtained from the seller;\n(b) the amount of VAT stated on the special payment statement for import VAT obtained from the customs;\n(c) the amount of VAT stated on the tax payment receipt obtained for the purchase of services or intangible assets from an overseas unit or individual or of immovable property within China;\n(d) in the case of the purchase of agricultural products, where no special VAT invoice or special payment statement for import VAT has been obtained, the input tax calculated on the basis of the invoice for the purchase of agricultural products or the invoice for the sale of agricultural products, unless otherwise provided by the State Council;\n(e) the amount of VAT stated on or contained in other VAT deduction vouchers obtained from the seller."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a taxpayer computes and pays VAT under the general method of tax computation, the amount of VAT refunded to the purchaser on account of a sales allowance, suspension or return shall be deducted from the output tax of the current period; the amount of VAT recovered on account of a sales allowance, suspension or return shall be deducted from the input tax of the current period."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a taxpayer computes and pays VAT under the simplified method of tax computation, the sales amount refunded to the purchaser on account of a sales allowance, suspension or return shall be deducted from the sales amount of the current period. Where tax has still been overpaid after the deduction from the sales amount of the current period, it may be deducted from the tax payable for subsequent periods or a refund may be applied for in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The term \"total consideration\" mentioned in Article 17 of the VAT Law does not include the following taxes, fees or sums collected by a taxpayer on behalf of others:\n(a) government funds or administrative and institutional charges;\n(b) the consumption tax arising from the processing of consumer goods subject to consumption tax on commission;\n(c) vehicle purchase tax and vehicle and vessel tax;\n(d) sums collected on behalf of the principal for which invoices are issued in the name of the principal."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a taxpayer adopts the method of combining the sales amount and the amount of VAT in a single price, the sales amount shall be computed in accordance with the following formulas:\nSales amount under the general method of tax computation = tax-inclusive sales amount / (1 + tax rate)\nSales amount under the simplified method of tax computation = tax-inclusive sales amount / (1 + levy rate)"
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a taxpayer settles the sales amount in a currency other than renminbi, the conversion rate for computing the amount in renminbi may be the central parity rate of the renminbi exchange rate valid on the day on which the sales amount arises or on the first day of the month. Once the conversion rate is determined, it may not be changed within 12 months."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a taxpayer falls under the circumstances specified in Article 20 of the VAT Law, the tax authority may determine the sales amount in accordance with the following methods in the order given:\n(a) determine it on the basis of the average price at which the taxpayer sold the same kind of goods, services, intangible assets or immovable property in the most recent period;\n(b) determine it on the basis of the average price at which other taxpayers sold the same kind of goods, services, intangible assets or immovable property in the most recent period;\n(c) determine it on the basis of the composite assessable price. The formula for the composite assessable price is:\nComposite assessable price = cost x (1 + cost profit rate) + amount of consumption tax\nThe cost profit rate in the formula is 10 per cent, and the competent tax department of the State Council may adjust the cost profit rate in light of the actual cost and profit situation of the industry."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The term \"abnormal loss\" mentioned in item 3 of Article 22 of the VAT Law means such circumstances as goods being stolen, lost, or becoming mouldy or deteriorated through poor management, and goods or immovable property being confiscated, destroyed or demolished in accordance with law as a result of violation of laws and regulations.\nThe items subject to abnormal loss mentioned in item 3 of Article 22 of the VAT Law include:\n(a) purchased goods subject to abnormal loss, and the processing, repair and replacement services and transport services related thereto;\n(b) purchased goods (excluding fixed assets), processing, repair and replacement services and transport services consumed in respect of work in progress and finished products subject to abnormal loss;\n(c) immovable property subject to abnormal loss, and the purchased goods and construction services consumed in respect of such immovable property;\n(d) purchased goods and construction services consumed in respect of construction in progress of immovable property subject to abnormal loss. Construction in progress of immovable property includes the construction, reconstruction, extension, repair and decoration of immovable property by a taxpayer.\nThe term \"goods\" mentioned in items 3 and 4 of paragraph 2 of this Article means the materials and equipment that constitute the physical entity of immovable property, including building and decorative materials and water supply and drainage, heating, sanitation, ventilation, lighting, communications, gas, fire protection, central air-conditioning, lift, electrical, photovoltaic power generation and intelligent building equipment and their supporting facilities.\nThe term \"fixed assets\" mentioned in these Regulations means machinery, equipment, means of transport and other equipment, tools and instruments related to production and operation that have a service life of more than 12 months."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The business entertainment consumption of a taxpayer is personal consumption as mentioned in the VAT Law."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The input tax corresponding to the interest expenditure of a taxpayer on purchased loan services, and to the investment and financing advisory fees, handling fees, consulting fees and other expenses paid by the taxpayer to the lender and directly related to such loan services, may not for the time being be deducted from the output tax.\nThe competent departments of finance and taxation of the State Council shall, in due course, study and evaluate the effects of implementing the policy that the input tax corresponding to interest on purchased loan services and related expenses may not be deducted from the output tax."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a taxpayer purchases goods, services, intangible assets or immovable property for use in a non-taxable transaction that concurrently meets the following conditions (hereinafter collectively referred to as a non-deductible non-taxable transaction), the corresponding input tax may not be deducted from the output tax:\n(a) a business activity other than those specified in Articles 3 to 5 of the VAT Law is carried out and the related economic benefits in monetary or non-monetary form are obtained;\n(b) it does not fall under the circumstances specified in Article 6 of the VAT Law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a general taxpayer purchases goods (excluding fixed assets) or services for use in items subject to the simplified method of tax computation, in VAT-exempt items or in non-deductible non-taxable transactions, and the input tax that may not be deducted cannot be separated, it shall calculate the non-deductible input tax of the current period period by period on the basis of the proportion of the sales amount or revenue, and shall conduct a consolidated settlement for the whole year within the tax return period of January of the following year."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where purchased goods (excluding fixed assets) or services for which input tax has been deducted fall under the circumstances specified in items 3 to 5 of Article 22 of the VAT Law, the corresponding input tax shall be deducted from the input tax of the current period; where the corresponding input tax cannot be determined, the input tax to be deducted shall be calculated on the basis of the actual cost of the current period."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where fixed assets, intangible assets or immovable property acquired by a general taxpayer (hereinafter collectively referred to as long-term assets) are used both for items subject to the general method of tax computation and for items subject to the simplified method of tax computation, VAT-exempt items, non-deductible non-taxable transactions, collective welfare or personal consumption (hereinafter collectively referred to as the five categories of items for which deduction is not allowed), they are long-term assets used for mixed purposes, and the corresponding input tax shall be dealt with in accordance with the VAT Law and the following provisions:\n(a) for a single item of long-term assets with an original value of not more than RMB 5 million, the corresponding input tax may be deducted in full from the output tax;\n(b) for a single item of long-term assets with an original value of more than RMB 5 million, the input tax shall first be deducted in full at the time of acquisition, and thereafter, during the period in which it is used for mixed purposes, the input tax corresponding to the five categories of items for which deduction is not allowed and which may not be deducted from the output tax shall be calculated on the basis of the adjustment period and adjusted year by year.\nThe specific operational measures for the deduction of input tax on long-term assets shall be formulated by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Tax Payable"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The term \"agricultural producer\" mentioned in item 1 of paragraph 1 of Article 24 of the VAT Law means a unit or individual engaged in agricultural production; \"agricultural products\" means primary agricultural products."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The term \"medical institution\" mentioned in item 2 of paragraph 1 of Article 24 of the VAT Law means an institution established in accordance with the relevant provisions and qualified to practise as a medical institution, including medical institutions of all levels and types of the military and the armed police force, but excluding for-profit beauty and cosmetic medical institutions."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The term \"ancient and old books\" mentioned in item 3 of paragraph 1 of Article 24 of the VAT Law means ancient books and second-hand books purchased from the public."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The term \"nurseries and kindergartens\" mentioned in item 7 of paragraph 1 of Article 24 of the VAT Law means institutions established in accordance with the relevant provisions and qualified for childcare or pre-school education, and the income exempt from VAT means the nursing fees and nursing and education fees within the relevant prescribed fee standards; \"elderly care institutions\" means various types of elderly care institutions established in accordance with the relevant provisions that provide centralised accommodation and care services for elderly persons; \"service institutions for persons with disabilities\" means institutions established in accordance with the relevant provisions that specially provide relevant services for persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The term \"schools\" mentioned in item 8 of paragraph 1 of Article 24 of the VAT Law means institutions established in accordance with the relevant provisions that provide academic education, as well as technical schools, senior technical schools and technician colleges."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The term \"ticket income\" mentioned in item 9 of paragraph 1 of Article 24 of the VAT Law means income from the first gate ticket."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The scope of application, standards and conditions of VAT preferential policies shall be disclosed to the public in a timely manner in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The competent departments of finance and taxation of the State Council shall, in due course, study and evaluate the effects of implementing VAT preferential policies and, with respect to preferential policies that no longer meet the needs of national economic and social development, promptly request the State Council to adjust and improve them."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Tax Incentives"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a unit operates by way of contracting, leasing or affiliation, and the contractor, lessee or affiliated party conducts business externally in the name of the party awarding the contract, the lessor or the party to which it is affiliated, and the party awarding the contract, the lessor or the party to which it is affiliated bears the relevant legal liability, the party awarding the contract, the lessor or the party to which it is affiliated shall be the taxpayer; in other circumstances, the contractor, lessee or affiliated party shall be the taxpayer.\nWhere a taxable transaction occurs in the course of the operation of an asset management product, the manager of the asset management product shall be the taxpayer. Where laws provide otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a natural person carries out a taxable transaction that meets the provisions, the domestic unit that pays the consideration shall be the withholding agent. The specific operational measures for withholding and remitting shall be formulated by the competent departments of finance and taxation of the State Council.\nWhere an overseas unit or individual leases immovable property within China to a natural person and there is a domestic agent, the domestic agent shall declare and pay the tax."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Unless otherwise provided in these Regulations, where the annual VAT-taxable sales amount of a unit or individual industrial and commercial household exceeds the standard for small-scale taxpayers, it shall register as a general taxpayer with the competent tax authority and, from the current period in which it exceeds the standard for small-scale taxpayers, compute and pay VAT under the general method of tax computation.\nWhere a small-scale taxpayer meets the provisions of paragraph 2 of Article 9 of the VAT Law, it may register as a general taxpayer with the competent tax authority and, from the current period in which registration is completed, compute and pay VAT under the general method of tax computation.\nOnce a taxpayer has registered as a general taxpayer, it may not be converted into a small-scale taxpayer."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "A taxpayer shall issue an invoice to the purchaser when a taxable transaction occurs. It shall not issue a special VAT invoice under any of the following circumstances:\n(a) the purchaser in the taxable transaction is a natural person;\n(b) the taxable transaction is exempt from VAT;\n(c) other circumstances prescribed by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where, after a taxpayer issues a special VAT invoice for a taxable transaction, the invoice contains errors or a sales allowance, suspension, return or the like occurs, it shall, in accordance with the provisions of the competent tax department of the State Council, void the invoice or issue a special VAT invoice in red ink; where it fails to void the invoice or issue a special VAT invoice in red ink in accordance with the provisions, it may not deduct the output tax or the sales amount in accordance with Articles 13 and 14 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The term \"sales consideration received\" mentioned in item 1 of paragraph 1 of Article 28 of the VAT Law means the consideration received by a taxpayer during or after the completion of a taxable transaction; \"the day on which the voucher evidencing the right to collect the sales consideration is obtained\" means the date of payment specified in the written contract and, where no written contract has been concluded or the written contract does not specify a date of payment, the day on which the taxable transaction is completed, that is, the day on which the goods are dispatched, the services are completed, the ownership of the financial commodity is transferred, the transfer of the intangible asset is completed or the transfer of the immovable property is completed."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The term \"the day on which a transaction deemed a taxable transaction is completed\" mentioned in item 2 of paragraph 1 of Article 28 of the VAT Law means the day on which the goods are dispatched, the ownership of the financial commodity is transferred, the transfer of the intangible asset is completed or the transfer of the immovable property is completed."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a taxpayer exports goods and the date of customs declaration for export is earlier than the time at which the tax obligation arises as specified in items 1 and 2 of paragraph 1 of Article 28 of the VAT Law, the time at which the tax obligation arises shall be the day on which the goods are declared to the customs for export."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The provision in item 1 of Article 29 of the VAT Law that, with the approval of the competent departments of finance and taxation at or above the provincial level, a head office may declare and pay tax on a consolidated basis means that, where the head office and its branches of a taxpayer with a fixed place of production and operation are not in the same province (autonomous region or municipality directly under the Central Government), the head office may, with the approval of the competent departments of finance and taxation of the State Council, declare and pay tax on a consolidated basis to the competent tax authority in the place where the head office is located; where the head office and its branches are in the same province (autonomous region or municipality directly under the Central Government) but not in the same county (city, district or banner), the head office may, with the approval of the competent departments of finance and taxation of the province (autonomous region or municipality directly under the Central Government), declare and pay tax on a consolidated basis to the competent tax authority in the place where the head office is located."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The following taxpayers may apply the rule in Article 30 of the VAT Law that a quarter is taken as one tax computation period:\n(a) small-scale taxpayers;\n(b) among general taxpayers, banks, finance companies, trust companies and credit cooperatives;\n(c) other taxpayers determined by the competent departments of taxation and finance of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a taxpayer pays tax on a transaction-by-transaction basis and its sales amount reaches the threshold, it shall declare and pay tax within the period from the day on which the tax obligation arises to 30 June of the following year."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Tax shall be prepaid in accordance with the provisions under any of the following circumstances:\n(a) construction services are provided across the area of a prefecture-level administrative division (a county or district under a municipality directly under the Central Government);\n(b) construction services are provided against advance receipts;\n(c) real estate projects are sold by way of pre-sale;\n(d) immovable property not located in the same county (city, district or banner) as the place where the taxpayer's institution is located is transferred or leased;\n(e) an oil and gas field enterprise sells, across provinces, autonomous regions or municipalities directly under the Central Government, services related to the production of crude oil and natural gas.\nThe specific operational measures for the prepayment of tax specified in paragraph 1 of this Article shall be formulated by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, with the approval of the competent departments of finance and taxation at or above the provincial level, a head office declares and pays tax on a consolidated basis, the approving department may provide that the branches shall prepay tax."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a taxpayer exports goods or sells services or intangible assets across the border (hereinafter collectively referred to as export business) and declares and handles tax refund (exemption) in accordance with the provisions of Article 33 of the VAT Law, the amount of tax refund (exemption) shall be computed by the method of exemption, credit and refund or by the method of exemption and refund at the export tax refund rate prescribed by the State Council, and the tax refund (exemption) shall be handled after examination and approval by the tax authority.\nThe method of exemption, credit and refund means that VAT is exempted at the export stage, the corresponding input tax is credited against the VAT payable, and the uncredited portion is refunded; the method of exemption and refund means that VAT is exempted at the export stage and the corresponding input tax is refunded."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "A taxpayer shall, with respect to export business to which tax refund (exemption) or VAT exemption applies, declare within the prescribed time limit; where it fails to declare within the time limit, VAT shall be paid in accordance with the provisions applicable to a deemed domestic sale.\nWhere a taxpayer exports goods on commission, it shall, in accordance with the provisions of the competent tax department of the State Council, complete the formalities for entrusted agency export, and the principal shall declare and handle the export tax refund (exemption), the exemption from VAT or the payment of VAT in accordance with the provisions; where the formalities for entrusted agency export have not been completed, the consignor of the exported goods shall declare and pay VAT in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "A taxpayer may, with respect to export business to which tax refund (exemption) applies, waive the tax refund (exemption) and choose to be exempt from VAT or to pay VAT, and from the month following the day on which it waives the tax refund (exemption), the export business to which tax refund (exemption) applies shall be exempt from VAT or pay VAT in accordance with the provisions.\nA taxpayer may, with respect to export business to which VAT exemption applies, waive the exemption from VAT and choose to pay VAT, and from the month following the day on which it waives the exemption from VAT, the export business to which the exemption from VAT applies shall pay VAT in accordance with the provisions.\nWhere a taxpayer waives the tax refund (exemption) or the exemption from VAT for export business, it may not again apply the tax refund (exemption) or the exemption from VAT within 36 months."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a sales allowance, suspension, return or the like occurs in respect of export business for which tax refund (exemption) has been handled, the taxpayer shall pay back the tax already refunded (exempted)."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The specific operational measures for the export tax refund (exemption) of VAT shall be formulated by the competent departments of finance and taxation of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The tax authority may, in accordance with law, obtain from the relevant units and individuals information relating to the administration of the collection of export tax, such as logistics, customs declaration, goods transport agency and fund settlement, and the units and individuals concerned shall provide it. The tax authority and its staff shall keep such information confidential and may not use it for purposes other than the administration of tax collection. Where laws and administrative regulations provide otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a taxpayer implements an arrangement that lacks a reasonable commercial purpose so as to reduce, exempt or postpone the payment of VAT, or to obtain a tax refund in advance or a larger tax refund, the tax authority may make adjustments in accordance with the provisions of the Law of the People's Republic of China on the Administration of Tax Collection and the relevant administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of Tax Collection"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2026."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0595'] = {
     "lawId": "CN-REG-0595",
     "sourceLang": "zh",
@@ -2322,6 +3597,666 @@
         },
         "noLabel": {
           "en": "Article 28."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0598'] = {
+    "lawId": "CN-REG-0598",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 56 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are enacted to safeguard the acquisition of government information by citizens, legal persons and other organisations in accordance with the law, to enhance the transparency of government work, to build a law-based government, and to give full play to the service role of government information in the production, life and economic and social activities of the people."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, \"government information\" means information which is made or acquired by administrative organs in the course of performing their administrative management functions and which is recorded and preserved in a certain form."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's governments at all levels shall strengthen their leadership over and organisation of government information disclosure work.\nThe General Office of the State Council is the competent department for government information disclosure work nationwide, and is responsible for advancing, guiding, coordinating and supervising government information disclosure work throughout the country.\nThe general offices (rooms) of local people's governments at or above the county level are the competent departments for government information disclosure work within their respective administrative areas, and are responsible for advancing, guiding, coordinating and supervising government information disclosure work within those areas.\nThe general offices (rooms) of departments under vertical leadership shall take charge of government information disclosure work in their respective systems."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at all levels and the departments of people's governments at or above the county level shall establish and improve the government information disclosure work systems of their own administrative organs, and shall designate an institution (hereinafter collectively referred to as the government information disclosure work institution) to take charge of the day-to-day government information disclosure work of their own administrative organs.\nThe specific functions of a government information disclosure work institution are:\n(a) to handle government information disclosure matters of its own administrative organ;\n(b) to maintain and update the government information disclosed by its own administrative organ;\n(c) to organise the compilation of the government information disclosure guide, the government information disclosure catalogue and the annual report on government information disclosure work of its own administrative organ;\n(d) to organise and conduct the examination of government information to be disclosed; and\n(e) other functions related to government information disclosure as prescribed by its own administrative organ."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In disclosing government information, administrative organs shall adhere to the principle that disclosure is the norm and non-disclosure is the exception, and shall follow the principles of fairness, impartiality, lawfulness and convenience to the people."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Administrative organs shall disclose government information in a timely and accurate manner.\nWhere an administrative organ discovers false or incomplete information that affects or may affect social stability or disrupts social and economic management order, it shall release accurate government information to clarify the matter."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at all levels shall actively advance government information disclosure work and gradually increase the content of government information disclosed."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's governments at all levels shall strengthen the standardised, uniform and IT-based management of government information resources, strengthen the development of Internet platforms for government information disclosure, advance the integration of government information disclosure platforms with government service platforms, and improve the level of online handling of government information disclosure."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Citizens, legal persons and other organisations have the right to supervise the government information disclosure work of administrative organs and to put forward criticisms and suggestions."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Government information made by an administrative organ shall be disclosed by the administrative organ that made it. Government information acquired by an administrative organ from citizens, legal persons and other organisations shall be disclosed by the administrative organ that preserves it; government information of other administrative organs acquired by an administrative organ shall be disclosed by the administrative organ that made or first acquired it. Where laws and regulations provide otherwise on the authority for government information disclosure, those provisions shall prevail.\nWhere a dispatched office or an internal body established by an administrative organ performs administrative management functions in its own name in accordance with laws and regulations, that dispatched office or internal body may take charge of the government information disclosure work relating to the administrative management functions it performs.\nGovernment information jointly made by two or more administrative organs shall be disclosed by the administrative organ that takes the lead in making it."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Administrative organs shall establish and improve coordination mechanisms for government information disclosure. Where the disclosure of government information by an administrative organ involves other organs, it shall consult and confirm with the organs concerned to ensure that the government information disclosed by the administrative organ is accurate and consistent.\nWhere the disclosure of government information by an administrative organ requires approval in accordance with laws, administrative regulations and relevant provisions of the State, it shall be disclosed upon approval."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The government information disclosure guide and the government information disclosure catalogue compiled and published by an administrative organ shall be updated in a timely manner.\nThe government information disclosure guide includes such content as the classification, arrangement system and means of acquisition of government information, and the name, office address, office hours, contact telephone number, fax number and Internet contact details of the government information disclosure work institution.\nThe government information disclosure catalogue includes such content as the index, name, summary of content and date of creation of government information."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Government information shall be disclosed except for the government information specified in Articles 14, 15 and 16 of these Regulations.\nAdministrative organs shall disclose government information by way of proactive disclosure and disclosure upon application."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Government information determined as State secrets in accordance with the law, government information whose disclosure is prohibited by laws and administrative regulations, and government information whose disclosure may endanger national security, public safety, economic security or social stability shall not be disclosed."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Administrative organs shall not disclose government information involving trade secrets, personal privacy or other matters whose disclosure would harm the lawful rights and interests of a third party. However, where the third party consents to disclosure or the administrative organ considers that non-disclosure would have a significant impact on the public interest, the information shall be disclosed."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Information on the internal affairs of an administrative organ, including information on personnel management, logistics management and internal work processes, may not be disclosed.\nProcedural information formed by an administrative organ in the course of performing its administrative management functions, such as discussion records, drafts, correspondence in consultation and requests for instructions and reports, as well as information in administrative enforcement case files, may not be disclosed. Where laws, regulations and rules provide that the aforesaid information shall be disclosed, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Administrative organs shall establish and improve examination mechanisms for government information disclosure and shall clarify the procedures and responsibilities for examination.\nAdministrative organs shall examine government information to be disclosed in accordance with the Law of the People's Republic of China on Guarding State Secrets and other laws, regulations and relevant provisions of the State.\nWhere an administrative organ cannot determine whether government information may be disclosed, it shall report to the relevant competent department or the secrecy administrative department for a determination in accordance with laws, regulations and relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Administrative organs shall establish and improve dynamic adjustment mechanisms for government information management, conduct regular assessment and examination of government information not disclosed by their own administrative organs, and shall disclose government information that may be disclosed due to changed circumstances."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Subjects and Scope of Disclosure"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Administrative organs shall proactively disclose government information that involves adjustments to the public interest, that needs to be widely known by the public, or that requires public participation in decision-making."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Proactive Disclosure"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "In accordance with Article 19 of these Regulations, administrative organs shall proactively disclose the following government information of their own administrative organs:\n(a) administrative regulations, rules and regulatory documents;\n(b) the functions of the organ, its institutional structure, office address, office hours, contact details and the names of its persons in charge;\n(c) national economic and social development plans, special plans, regional plans and related policies;\n(d) statistical information on national economic and social development;\n(e) the basis, conditions and procedures for handling administrative licences and other external management service matters, and the results of such handling;\n(f) the basis, conditions and procedures for imposing administrative penalties and administrative compulsory measures, and decisions on administrative penalties which the administrative organ considers to have a certain social impact;\n(g) information on fiscal budgets and final accounts;\n(h) items of administrative and institutional charges and their basis and standards;\n(i) the catalogue, standards and implementation of government centralised procurement projects;\n(j) the approval and implementation of major construction projects;\n(k) policies and measures on poverty alleviation, education, medical care, social security and employment promotion, and their implementation;\n(l) emergency response plans, early warning information and response measures for public emergencies;\n(m) supervision and inspection of environmental protection, public health, work safety, food and drugs, and product quality;\n(n) matters such as the positions, number of places and eligibility conditions for civil service recruitment examinations, and the results of recruitment; and\n(o) other government information that shall be proactively disclosed as provided by laws, regulations, rules and relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Proactive Disclosure"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In addition to the government information specified in Article 20 of these Regulations, people's governments of cities divided into districts and of counties, and their departments, shall, in light of the specific local circumstances, also proactively disclose government information relating to municipal construction, public services, public welfare undertakings, land requisition, housing requisition, public security management and social assistance; and the people's governments of townships (towns) shall, in light of the specific local circumstances, also proactively disclose government information relating to the implementation of agriculture and rural policies, the construction and operation of farmland water conservancy projects, the transfer of rural land contractual management rights, the examination of the use of rural residential land, land requisition, housing requisition, fund-raising and labour contribution, and social assistance."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Proactive Disclosure"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Administrative organs shall, in accordance with Articles 20 and 21 of these Regulations, determine the specific content of government information to be proactively disclosed, and shall continuously increase the content proactively disclosed in accordance with the arrangements of the administrative organs at higher levels."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Proactive Disclosure"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Administrative organs shall establish and improve government information release mechanisms, and shall disclose government information subject to proactive disclosure through government gazettes, government websites or other Internet government media, press conferences, and newspapers, radio and television."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Proactive Disclosure"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "People's governments at all levels shall strengthen the disclosure of government information through government portal websites, and shall use a unified government information disclosure platform to release government information subject to proactive disclosure in a centralised manner. The government information disclosure platform shall have such functions as information retrieval, consultation and downloading."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Proactive Disclosure"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "People's governments at all levels shall set up government information consultation venues in national archives, public libraries and government service venues, and shall provide corresponding facilities and equipment to facilitate the acquisition of government information by citizens, legal persons and other organisations.\nAdministrative organs may, as needed, set up public reading rooms, material collection points, information bulletin boards, electronic information screens and other venues and facilities to disclose government information.\nAdministrative organs shall promptly provide government information subject to proactive disclosure to national archives and public libraries."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Proactive Disclosure"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Government information within the scope of proactive disclosure shall be disclosed promptly within 20 working days from the date on which the government information is formed or changed. Where laws and regulations provide otherwise on the time limit for government information disclosure, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Proactive Disclosure"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "In addition to government information proactively disclosed by administrative organs, citizens, legal persons or other organisations may apply to local people's governments at all levels and to the departments of people's governments at or above the county level that perform administrative management functions in their own names externally (including the dispatched offices and internal bodies specified in the second paragraph of Article 10 of these Regulations) for the acquisition of the relevant government information."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The administrative organs specified in Article 27 of these Regulations shall establish and improve channels for applications for government information disclosure, so as to facilitate applicants in acquiring government information in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation applies for the acquisition of government information, the application shall be submitted to the government information disclosure work institution of the administrative organ in written form, including by letter and by electronic data message; where it is genuinely difficult to use written form, the applicant may make an oral application, and the government information disclosure work institution accepting the application shall fill in the application for government information disclosure on the applicant's behalf.\nAn application for government information disclosure shall include the following content:\n(a) the name or title, identity document and contact details of the applicant;\n(b) the name and document number of the government information applied for, or other characteristic description that facilitates inquiry by the administrative organ; and\n(c) the formal requirements for the government information applied for, including the means and channels of acquiring the information."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where the content of an application for government information disclosure is unclear, the administrative organ shall provide guidance and explanation, and shall, within 7 working days from the date of receipt of the application, inform the applicant in a single notification to make a supplementary correction, stating the matters requiring correction and a reasonable time limit for correction. The time limit for reply shall be calculated from the date on which the administrative organ receives the corrected application. Where the applicant fails to make the correction within the time limit without justified reasons, the application shall be deemed abandoned and the administrative organ shall no longer process the application for government information disclosure."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The time at which an administrative organ receives an application for government information disclosure shall be determined in accordance with the following provisions:\n(a) where the applicant submits the application for government information disclosure in person, the date of submission shall be the date of receipt of the application;\n(b) where the applicant submits the application for government information disclosure by post, the date on which the administrative organ signs for receipt shall be the date of receipt of the application; where the application for government information disclosure is submitted by ordinary mail or other postal means not requiring signature for receipt, the government information disclosure work institution shall confirm with the applicant on the day it receives the application, and the date of confirmation shall be the date of receipt of the application; and\n(c) where the applicant submits the application for government information disclosure through the Internet channel or by fax to the government information disclosure work institution, the date confirmed by both parties shall be the date of receipt of the application."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the disclosure of government information upon application would harm the lawful rights and interests of a third party, the administrative organ shall seek the opinion of the third party in writing. The third party shall give its opinion within 15 working days from the date of receipt of the letter seeking opinion. Where the third party fails to give an opinion within the time limit, the administrative organ shall decide whether to disclose the information in accordance with these Regulations. Where the third party does not consent to disclosure and has reasonable grounds, the administrative organ shall not disclose the information. Where the administrative organ considers that non-disclosure may have a significant impact on the public interest, it may decide to disclose the information and shall notify the third party in writing of the content of the government information to be disclosed and the reasons for the decision."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an administrative organ receives an application for government information disclosure and is able to reply on the spot, it shall reply on the spot.\nWhere an administrative organ is unable to reply on the spot, it shall reply within 20 working days from the date of receipt of the application; where an extension of the time limit for reply is needed, it shall obtain the consent of the person in charge of the government information disclosure work institution and inform the applicant, and the extended period shall not exceed 20 working days.\nThe time needed by an administrative organ to seek the opinions of third parties and other organs shall not be counted in the time limit specified in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where the government information applied for is jointly made by two or more administrative organs, the administrative organ that takes the lead in making it may, after receiving the application for government information disclosure, seek the opinions of the administrative organs concerned; the organs whose opinions are sought shall give their opinions within 15 working days from the date of receipt of the letter seeking opinion, and failure to give an opinion within the time limit shall be deemed consent to disclosure."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the quantity and frequency of government information applied for by an applicant clearly exceed a reasonable scope, the administrative organ may require the applicant to state the reasons. Where the administrative organ considers the reasons unreasonable, it shall inform the applicant that the application will not be processed; where the administrative organ considers the reasons reasonable but is unable to reply within the time limit specified in Article 33 of these Regulations, it may determine a reasonable period for delayed reply and inform the applicant."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "With respect to an application for government information disclosure, an administrative organ shall reply separately according to the following circumstances:\n(a) where the information applied for has already been proactively disclosed, inform the applicant of the means and channels for acquiring the government information;\n(b) where the information applied for may be disclosed, provide the government information to the applicant, or inform the applicant of the means, channels and time for acquiring the government information;\n(c) where the administrative organ decides not to disclose the information in accordance with these Regulations, inform the applicant of the non-disclosure and state the reasons;\n(d) where the information applied for does not exist after search, inform the applicant that the government information does not exist;\n(e) where the information applied for is not within the responsibility of the administrative organ for disclosure, inform the applicant and state the reasons; where the administrative organ responsible for disclosing the government information can be ascertained, inform the applicant of the name and contact details of that administrative organ;\n(f) where the administrative organ has already replied to an application for government information disclosure made by the applicant and the applicant repeatedly applies for the disclosure of the same government information, inform the applicant that the application will not be processed repeatedly; and\n(g) where the information applied for is information such as industrial and commercial registration materials or immovable property registration materials, and the relevant laws and administrative regulations contain special provisions on the acquisition of such information, inform the applicant to handle the matter in accordance with the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where the information applied for contains content that should not be disclosed or that is not government information, but can be handled separately, the administrative organ shall provide the applicant with the content of the government information that may be disclosed and state the reasons for the content not disclosed."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The information provided by an administrative organ to an applicant shall be government information that has already been made or acquired. Except where separate handling is possible in accordance with Article 37 of these Regulations, where the existing government information needs to be processed or analysed by the administrative organ, the administrative organ may refrain from providing it."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where an applicant uses the form of an application for government information disclosure to make petitions, complaints, reports or similar activities, the administrative organ shall inform the applicant that the matter will not be processed as an application for government information disclosure and may inform the applicant to submit it through the corresponding channels.\nWhere the content of an application made by an applicant is a request that the administrative organ provide publicly available publications such as government gazettes, newspapers and periodicals, or books, the administrative organ may inform the applicant of the channels for acquiring them."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "In disclosing government information upon application, an administrative organ shall determine the specific form in which the government information is to be provided according to the applicant's request and the actual situation of the government information preserved by the administrative organ; where providing government information in the form requested by the applicant may endanger the security of the carrier of the government information or the cost of disclosure is excessively high, the information may be provided by electronic data or other appropriate forms, or the applicant may be arranged to consult and transcribe the relevant government information."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation has evidence proving that the record of government information relating to itself provided by an administrative organ is inaccurate, it may request the administrative organ to correct it. Where the administrative organ with the power to correct verifies that the record is true, it shall make the correction and inform the applicant; where the matter is not within the functional scope of that administrative organ, it may transfer it to the administrative organ with the power to correct for handling and inform the applicant, or inform the applicant to submit a request to the administrative organ with the power to correct."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Administrative organs shall not charge fees for providing government information upon application. However, where the quantity and frequency of government information applied for by an applicant clearly exceed a reasonable scope, the administrative organ may charge an information processing fee.\nThe specific measures for charging information processing fees by administrative organs shall be formulated by the pricing department of the State Council together with the finance department of the State Council and the competent department for government information disclosure work nationwide."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a citizen applying for the disclosure of government information has reading difficulties or visual or hearing impairments, the administrative organ shall provide the necessary assistance."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where multiple applicants apply to the same administrative organ for the disclosure of the same government information and the government information is subject to disclosure, the administrative organ may include it within the scope of proactive disclosure.\nWith respect to government information disclosed by an administrative organ upon application, where the applicant considers that it involves adjustments to the public interest, needs to be widely known by the public, or requires public participation in decision-making, the applicant may suggest that the administrative organ include the information within the scope of proactive disclosure. Where the administrative organ, after examination, considers that the information falls within the scope of proactive disclosure, it shall promptly disclose it proactively."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Administrative organs shall establish and improve working systems for the registration, examination, handling, replying to and archiving of applications for government information disclosure, and shall strengthen work standardisation."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Disclosure upon Application"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "People's governments at all levels shall establish and improve assessment systems, public evaluation systems and accountability systems for government information disclosure work, and shall regularly assess and evaluate government information disclosure work."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Safeguards"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The competent departments for government information disclosure work shall strengthen day-to-day guidance, supervision and inspection of government information disclosure work; where an administrative organ fails to carry out government information disclosure work as required, they shall urge it to rectify the situation or circulate a criticism; where it is necessary to hold the responsible leading personnel and directly responsible personnel accountable, they shall put forward handling suggestions to the organ with the power to do so in accordance with the law.\nWhere a citizen, legal person or other organisation considers that an administrative organ has failed to proactively disclose government information as required or has failed to reply to or handle an application for government information disclosure in accordance with the law, it may raise the matter with the competent department for government information disclosure work. Where the competent department for government information disclosure work verifies the matter to be true, it shall urge rectification or circulate a criticism."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Safeguards"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The competent departments for government information disclosure work shall provide regular training to the personnel of administrative organs engaged in government information disclosure work."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Safeguards"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The departments of people's governments at or above the county level shall, before 31 January each year, submit the annual report on government information disclosure work of their own administrative organs for the previous year to the competent department for government information disclosure work at the corresponding level and publish it to the public.\nThe competent departments for government information disclosure work of local people's governments at or above the county level shall, before 31 March each year, publish to the public the annual report on government information disclosure work of the corresponding people's government for the previous year."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Safeguards"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The annual report on government information disclosure work shall include the following content:\n(a) the circumstances of proactive disclosure of government information by the administrative organ;\n(b) the circumstances of the receipt and handling of applications for government information disclosure by the administrative organ;\n(c) the circumstances of applications for administrative reconsideration and the institution of administrative litigation arising from government information disclosure work;\n(d) the main problems existing in government information disclosure work and the improvements made, and the annual report on government information disclosure work of a people's government at any level shall also include the results of work assessment, public evaluation and accountability; and\n(e) other matters that need to be reported.\nThe competent department for government information disclosure work nationwide shall publish a uniform format for annual reports on government information disclosure work and update it in due course."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Safeguards"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a citizen, legal person or other organisation considers that an administrative organ has infringed its lawful rights and interests in government information disclosure work, it may complain to or report the matter to the administrative organ at the next higher level or the competent department for government information disclosure work, and may also apply for administrative reconsideration or institute administrative litigation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Safeguards"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an administrative organ violates these Regulations by failing to establish and improve the relevant systems and mechanisms for government information disclosure, the administrative organ at the next higher level shall order it to make rectification; where the circumstances are serious, disciplinary sanctions shall be imposed in accordance with the law on the responsible leading personnel and directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Safeguards"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an administrative organ violates these Regulations and falls under any of the following circumstances, the administrative organ at the next higher level shall order it to make rectification; where the circumstances are serious, disciplinary sanctions shall be imposed in accordance with the law on the responsible leading personnel and directly responsible personnel; and where a crime is constituted, criminal liability shall be investigated in accordance with the law:\n(a) failing to perform government information disclosure functions in accordance with the law;\n(b) failing to promptly update the content of government information disclosed, the government information disclosure guide and the government information disclosure catalogue; and\n(c) other circumstances in violation of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Safeguards"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "These Regulations apply to the disclosure of government information by organisations that are authorised by laws and regulations and that have the function of managing public affairs."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Public enterprises and institutions closely related to the interests of the people, such as those in education, health, water supply, power supply, gas supply, heating, environmental protection and public transport, shall disclose information made or acquired in the course of providing public services to society in accordance with the relevant laws, regulations and the provisions of the relevant competent departments or institutions of the State Council. The competent department for government information disclosure work nationwide may, according to actual needs, formulate special provisions.\nWhere the public enterprises and institutions specified in the preceding paragraph fail to disclose information made or acquired in the course of providing public services to society in accordance with the relevant laws, regulations and the provisions of the relevant competent departments or institutions of the State Council, citizens, legal persons or other organisations may appeal to the relevant competent department or institution, and the department or institution accepting the appeal shall promptly investigate and handle the matter and inform the appellant of the result."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "These Regulations shall come into force on 15 May 2019."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -5163,6 +7098,705 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0607'] = {
+    "lawId": "CN-REG-0607",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 60 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening the administration of central grain reserves, ensuring that the quantity of central grain reserves is genuine, the quality is good and the storage is safe, protecting the interests of farmers, maintaining the stability of the grain market and effectively giving play to the role of central grain reserves in the macro-control of the State."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, central grain reserves mean the grain and edible oil reserved by the Central Government for regulating the total supply and demand of grain throughout the country, stabilising the grain market and responding to major natural disasters or other emergencies."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Units and individuals engaged in or participating in the operation, management and supervision of central grain reserves must comply with these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State implements a vertical management system for central grain reserves, and local people's governments at all levels and the relevant departments shall provide support and assistance for the vertical management of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The administration of central grain reserves shall be subject to strict systems, strict management and strict accountability so as to ensure that the quantity of central grain reserves is genuine, the quality is good and the storage is safe, and to ensure that central grain reserves can be stored, well managed, deployed and used, while economising on costs and expenses.\nWithout the approval of the State Council, no unit or individual may use central grain reserves without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The department for development and reform of the State Council and the State administration for grain shall, together with the department for finance of the State Council, be responsible for drafting macro-control opinions on the total scale, overall layout and use of central grain reserves and for guiding and coordinating the administration of central grain reserves; the State administration for grain shall be responsible for the administrative administration of central grain reserves and for carrying out supervision and inspection of the quantity, quality and storage safety of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The department for finance of the State Council shall be responsible for arranging fiscal subsidies such as loan interest and management expenses for central grain reserves and for ensuring their timely and full allocation; it shall be responsible for carrying out supervision and inspection of the implementation of the relevant financial matters of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "China Grain Reserves Corporation shall be specifically responsible for the operation and management of central grain reserves and shall be responsible for their quantity, quality and storage safety.\nChina Grain Reserves Corporation shall, in accordance with the administrative regulations, rules, national standards and technical specifications of the State on the administration of central grain reserves, establish and improve the various business management systems for central grain reserves and file them with the State administration for grain for the record."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The Agricultural Development Bank of China shall be responsible for arranging in a timely and full manner the loans required for central grain reserves in accordance with the relevant provisions of the State and for exercising credit supervision over the central grain reserve loans granted."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "No unit or individual may obtain by fraud, misappropriate, withhold or divert central grain reserve loans or fiscal subsidies such as loan interest and management expenses in any manner."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "No unit or individual may damage the storage facilities for central grain reserves, or steal, plunder or destroy central grain reserves.\nWhere acts of damaging the storage facilities for central grain reserves or stealing, plundering or destroying central grain reserves occur, the local people's government of the place where the central grain reserves are stored shall promptly organise the relevant departments to stop and investigate them."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Any unit or individual has the right to report illegal acts in the operation and management of central grain reserves to the State administration for grain and other relevant departments. Upon receiving a report, the State administration for grain and other relevant departments shall promptly investigate and deal with it; where the matter reported falls within the duties of another department, it shall promptly be referred to that department for handling."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The plan for the storage scale, varieties and overall layout of central grain reserves shall be put forward by the department for development and reform of the State Council and the State administration for grain together with the department for finance of the State Council on the basis of the needs of the State's macro-control and its fiscal capacity, and shall be submitted to the State Council for approval."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Plans for Central Grain Reserves"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The purchase and sales plans for central grain reserves shall be proposed by the State administration for grain on the basis of the plan for the storage scale, varieties and overall layout of central grain reserves approved by the State Council and, after examination and consent by the department for development and reform of the State Council and the department for finance of the State Council, shall be jointly issued to China Grain Reserves Corporation by the department for development and reform of the State Council and the State administration for grain together with the department for finance of the State Council and the Agricultural Development Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Plans for Central Grain Reserves"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "China Grain Reserves Corporation shall, on the basis of the purchase and sales plans for central grain reserves, specifically organise the implementation of the purchase and sale of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Plans for Central Grain Reserves"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A balanced rotation system shall be applied to central grain reserves, and the quantity rotated each year shall generally be 20 to 30 per cent of the total storage volume of central grain reserves.\nChina Grain Reserves Corporation shall, on the basis of the quality and the number of years in storage of central grain reserves, propose the annual rotation plan for central grain reserves in respect of quantity, varieties and regions and submit it to the State administration for grain, the department for finance of the State Council and the Agricultural Development Bank of China for approval. Within the annual rotation plan, China Grain Reserves Corporation shall, on the basis of the supply and demand situation of the grain market, specifically organise the implementation of the rotation of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Plans for Central Grain Reserves"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "China Grain Reserves Corporation shall promptly report the specific implementation of the purchase, sales and annual rotation plans for central grain reserves to the department for development and reform of the State Council, the State administration for grain and the department for finance of the State Council for the record, and copy the report to the Agricultural Development Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Plans for Central Grain Reserves"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Enterprises directly under China Grain Reserves Corporation are the enterprises specially storing central grain reserves.\nCentral grain reserves may also be stored on behalf of the State by other qualified enterprises in accordance with the provisions of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "An enterprise storing central grain reserves on behalf of the State shall meet the following conditions:\n(a) the warehouse capacity reaches the scale prescribed by the State, and the warehouse conditions conform to the requirements of national standards and technical specifications;\n(b) having storage equipment suited to the grain storage function, warehouse type, grain in-and-out method, grain varieties and storage cycle;\n(c) having instruments and premises for testing the quality grade of central grain reserves that conform to national standards, and having the conditions for testing the temperature, moisture and pest density in the warehouse during the storage of central grain reserves;\n(d) having professionally trained management and technical personnel such as grain and oil custodians and grain and oil quality inspectors;\n(e) having good operation and management and reputation, and no record of serious unlawful operation.\nThe selection of enterprises to store central grain reserves on behalf of the State shall follow the principles of facilitating the rational layout of central grain reserves, facilitating the centralised management and supervision of central grain reserves, and facilitating the reduction of the costs and expenses of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "An enterprise that meets the conditions for storage on behalf of the State prescribed in Article 19 of these Regulations shall, upon examination and consent by the State administration for grain, obtain the qualification to store central grain reserves on behalf of the State.\nThe measures for determining the qualification of enterprises to store central grain reserves on behalf of the State shall be formulated by the State administration for grain together with the department for finance of the State Council and after soliciting the opinions of the Agricultural Development Bank of China and China Grain Reserves Corporation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "China Grain Reserves Corporation shall be responsible for selecting, on the basis of merit, the enterprises to store central grain reserves on behalf of the State from among the enterprises that have obtained the qualification, in accordance with the overall layout plan for central grain reserves, and shall file the selection with the State administration for grain, the department for finance of the State Council and the Agricultural Development Bank of China for the record and copy it to the local grain administration department.\nChina Grain Reserves Corporation shall conclude contracts with the enterprises storing central grain reserves on behalf of the State, clarifying such matters as the rights, obligations and liability for breach of contract of both parties.\nEnterprises storing central grain reserves on behalf of the State may not operate the rotation business of central grain reserves in combination with other businesses."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where enterprises directly under China Grain Reserves Corporation and enterprises storing central grain reserves on behalf of the State (hereinafter collectively referred to as storage enterprises) store central grain reserves, they shall strictly implement the administrative regulations, rules, national standards and technical specifications of the State on the administration of central grain reserves and the various business management systems formulated by China Grain Reserves Corporation in accordance with the relevant administrative regulations, rules, national standards and technical specifications."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Storage enterprises must ensure that the central grain reserves put into storage reach the quality grade prescribed in the purchase and rotation plans and conform to the quality standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Storage enterprises shall store central grain reserves in dedicated warehouses, keep them under dedicated custody and record them in dedicated accounts, and shall ensure that the accounts of central grain reserves agree with each other, that the accounts agree with the actual stock, that the quality is good and that the storage is safe."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Storage enterprises may not falsely report or conceal the quantity of central grain reserves, may not adulterate central grain reserves or pass off inferior goods as superior, may not substitute without authorisation the varieties of central grain reserves or change the storage location of central grain reserves, and may not cause central grain reserves to become aged or mouldy through delay in rotation or poor management."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Storage enterprises may not obtain price differences by such means as purchasing at a low price and recording at a high price, selling at a high price and recording at a low price, replacing new grain with old grain or falsely increasing the cost of goods put into storage, so as to fraudulently obtain central grain reserve loans and fiscal subsidies such as loan interest and management expenses."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Storage enterprises shall establish and improve safety management systems for central grain reserves against fire, theft and flood, and shall be equipped with the necessary safety protection facilities.\nLocal people's governments at all levels shall support the storage enterprises within their respective administrative regions in carrying out the safety management of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Storage enterprises shall conduct frequent inspections of the storage management of central grain reserves; where problems are found in the quantity, quality and storage safety of central grain reserves, they shall promptly deal with them; where they cannot do so, the principal person in charge of the storage enterprise must promptly report to China Grain Reserves Corporation or its branch."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Storage enterprises shall complete the rotation of central grain reserves within the time prescribed in the rotation plan.\nThe rotation of central grain reserves shall follow the principles of helping to ensure the quantity, quality and storage safety of central grain reserves, maintaining the stability of the grain market, preventing drastic fluctuations in market grain prices, economising on costs and improving efficiency.\nThe specific administrative measures for the rotation of central grain reserves shall be formulated by the department for development and reform of the State Council and the State administration for grain together with the department for finance of the State Council and after soliciting the opinions of the Agricultural Development Bank of China and China Grain Reserves Corporation."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "In principle, the purchase, sale and rotation of central grain reserves shall be carried out openly through standardised grain wholesale markets, or through other means prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Storage enterprises may not use central grain reserves to provide security to others or to settle debts owed to others.\nWhere a storage enterprise is dissolved, disbanded or declared bankrupt in accordance with law, the central grain reserves it stores shall be transferred out and stored elsewhere under the responsibility of China Grain Reserves Corporation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Subsidies for the management expenses of central grain reserves shall be provided under a fixed-sum contract system and allocated by the department for finance of the State Council to China Grain Reserves Corporation; China Grain Reserves Corporation shall, in accordance with the relevant provisions of the department for finance of the State Council, allocate them in a timely and full manner to the storage enterprises through the special subsidy account at the Agricultural Development Bank of China. Within the total contracted amount of the subsidies for the management expenses of central grain reserves, China Grain Reserves Corporation may, on the basis of different storage conditions and actual expense levels, appropriately adjust the subsidy rates for management expenses for different regions, different varieties and different storage enterprises; however, in principle, the subsidy rates for management expenses of storage enterprises in the same region, for the same variety and with basically the same storage conditions shall be consistent.\nSubsidies for the loan interest of central grain reserves shall be provided on an actual-expenditure basis and allocated by the department for finance of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Loans for central grain reserves shall be subject to a linkage between the loan and increases or decreases in the value of grain stocks, dedicated account management and earmarked use of funds.\nStorage enterprises shall open basic accounts with the Agricultural Development Bank of China and accept its credit supervision.\nChina Grain Reserves Corporation shall create the conditions for gradually implementing unified borrowing and unified repayment of central grain reserve loans."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The cost of central grain reserves put into storage shall be verified and determined by the department for finance of the State Council. Once verified and determined, China Grain Reserves Corporation and its branches and the storage enterprises must comply with it.\nNo unit or individual may alter the cost of central grain reserves put into storage without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The State establishes a system for handling losses and wastage of central grain reserves so as to deal promptly with losses and wastage that occur. The specific measures shall be formulated by the department for finance of the State Council together with the State administration for grain and after soliciting the opinions of China Grain Reserves Corporation and the Agricultural Development Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "China Grain Reserves Corporation shall periodically compile statistics on and analyse the storage management of central grain reserves and submit the statistics and analysis to the department for development and reform of the State Council, the State administration for grain, the department for finance of the State Council and the Agricultural Development Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Storage of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The department for development and reform of the State Council and the State administration for grain shall improve the early-warning mechanism for the use of central grain reserves, strengthen monitoring of situations requiring the use of central grain reserves, and put forward proposals for the use of central grain reserves at the appropriate time."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Central grain reserves may be used under any of the following circumstances:\n(a) where grain supply falls markedly short of demand or market prices fluctuate abnormally throughout the country or in some areas;\n(b) where a major natural disaster or other emergency occurs and central grain reserves need to be used;\n(c) other circumstances in which the State Council considers it necessary to use central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "To use central grain reserves, the department for development and reform of the State Council and the State administration for grain shall, together with the department for finance of the State Council, put forward a plan for use and submit it to the State Council for approval. The plan for use shall include such contents as the varieties, quantity, quality and prices of the central grain reserves to be used, the arrangements for their use and transport support."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The department for development and reform of the State Council and the State administration for grain shall, on the basis of the plan for the use of central grain reserves approved by the State Council, issue an order for use, which shall be specifically implemented by China Grain Reserves Corporation.\nIn urgent circumstances, the State Council shall directly decide on the use of central grain reserves and issue the order for use.\nThe relevant departments of the State Council and the relevant local people's governments shall support and cooperate in the implementation of orders for the use of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "No unit or individual may refuse to implement or alter without authorisation an order for the use of central grain reserves."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Use of Central Grain Reserves"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The State administration for grain and the department for finance of the State Council shall, in accordance with their respective duties, carry out supervision and inspection in accordance with law of the implementation of these Regulations and the relevant grain regulations by China Grain Reserves Corporation and its branches and the storage enterprises. In the course of supervision and inspection, they may exercise the following powers:\n(a) entering the premises of storage enterprises to inspect the quantity, quality and storage safety of central grain reserves;\n(b) ascertaining from the relevant units and persons the implementation of the purchase, sales and rotation plans and the orders for use of central grain reserves;\n(c) consulting the relevant materials and vouchers relating to the operation and management of central grain reserves;\n(d) handling illegal acts in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in the course of supervision and inspection, the State administration for grain and the department for finance of the State Council find problems in the quantity, quality and storage safety of central grain reserves, they shall instruct China Grain Reserves Corporation and its branches and the storage enterprises to correct or deal with them immediately; where they find that an enterprise storing central grain reserves on behalf of the State no longer meets the conditions for such storage, the State administration for grain shall cancel its qualification; where they find that an enterprise directly under China Grain Reserves Corporation is in a situation unsuitable for storing central grain reserves, the State administration for grain shall instruct China Grain Reserves Corporation to require the enterprise concerned to complete rectification within a time limit."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "The supervision and inspection personnel of the State administration for grain and the department for finance of the State Council shall make written records of the supervision and inspection, which shall be signed by the supervision and inspection personnel and the person in charge of the unit inspected. Where the person in charge of the unit inspected refuses to sign, the supervision and inspection personnel shall record the relevant circumstances in the case file."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Audit institutions shall, in accordance with the functions, powers and procedures prescribed by the Audit Law, carry out audit supervision of the financial revenue and expenditure relating to central grain reserves; where problems are found, they shall promptly deal with them."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "China Grain Reserves Corporation and its branches and the storage enterprises shall cooperate with the supervision and inspection personnel of the State administration for grain, the department for finance of the State Council and the audit institutions in performing their duties in accordance with law.\nNo unit or individual may refuse, obstruct or interfere with the supervision and inspection personnel of the State administration for grain, the department for finance of the State Council and the audit institutions in performing their supervision and inspection duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "China Grain Reserves Corporation and its branches shall strengthen the operation, management and inspection of central grain reserves and promptly correct problems in their quantity and quality; for major problems endangering the storage safety of central grain reserves, they shall immediately take effective measures to deal with them and report to the State administration for grain, the department for finance of the State Council and the Agricultural Development Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "The Agricultural Development Bank of China shall, in accordance with the provisions on closed management of funds, strengthen credit supervision of central grain reserve loans. China Grain Reserves Corporation and its branches and the storage enterprises shall cooperate with the credit supervision lawfully carried out by the Agricultural Development Bank of China and promptly provide the relevant materials and information."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Inspection"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a staff member of a State organ violates the provisions of these Regulations and commits any of the following acts, an administrative sanction of a warning up to removal from office shall be given; where the circumstances are serious, an administrative sanction of demotion up to dismissal shall be given; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law:\n(a) failing to issue in a timely manner the purchase and sales plans and the annual rotation plan for central grain reserves;\n(b) granting the qualification to store central grain reserves on behalf of the State to an enterprise that does not meet the conditions for such storage, or failing to cancel in a timely manner the qualification of an enterprise storing central grain reserves on behalf of the State when it no longer meets the conditions;\n(c) failing to instruct China Grain Reserves Corporation to require an enterprise directly under it to complete rectification within a time limit upon finding that the enterprise is in a situation unsuitable for storing central grain reserves;\n(d) failing to investigate and deal with a report or an illegal act in a timely manner upon receiving it or discovering it."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where China Grain Reserves Corporation or any of its branches violates the provisions of these Regulations and commits any of the following acts, the State administration for grain shall order it to make rectification; the directly responsible persons in charge and other directly responsible persons shall be instructed by China Grain Reserves Corporation to be given a disciplinary sanction of a warning up to removal from office; where the circumstances are serious, the directly responsible persons in charge and other directly responsible persons shall be given a disciplinary sanction of demotion up to dismissal; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law:\n(a) refusing to organise the implementation of, or altering without authorisation, the purchase, sales and annual rotation plans and the orders for use of central grain reserves;\n(b) selecting an enterprise that has not obtained the qualification to store central grain reserves on behalf of the State for such storage;\n(c) failing to correct in a timely manner problems found in the quantity and quality of central grain reserves, or failing to immediately take effective measures to deal with and report in accordance with the provisions major problems found endangering the storage safety of central grain reserves;\n(d) refusing, obstructing or interfering with the supervision and inspection personnel of the State administration for grain, the department for finance of the State Council and the audit institutions in performing their supervision and inspection duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a storage enterprise violates the provisions of these Regulations and commits any of the following acts, the State administration for grain shall instruct China Grain Reserves Corporation to require it to make rectification within a time limit; where the circumstances are serious, for an enterprise storing central grain reserves on behalf of the State, its qualification shall also be cancelled; the directly responsible persons in charge and other directly responsible persons shall be given a disciplinary sanction of a warning up to dismissal; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law:\n(a) the central grain reserves put into storage do not meet the quality grade and national standard requirements;\n(b) failing to store central grain reserves in dedicated warehouses, keep them under dedicated custody and record them in dedicated accounts, and the accounts of central grain reserves do not agree with each other or the accounts do not agree with the actual stock;\n(c) failing to deal promptly with problems found in the quantity, quality and storage safety of central grain reserves, or failing to report promptly when unable to deal with them;\n(d) refusing, obstructing or interfering with the supervision and inspection personnel of the State administration for grain, the department for finance of the State Council and the audit institutions, or the inspection personnel of China Grain Reserves Corporation, in performing their duties in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a storage enterprise violates the provisions of these Regulations and commits any of the following acts, the State administration for grain shall instruct China Grain Reserves Corporation to require it to make rectification within a time limit; where there are illegal gains, they shall be confiscated; the directly responsible person in charge shall be given a disciplinary sanction of demotion up to dismissal; other directly responsible persons shall be given a disciplinary sanction of a warning up to dismissal; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law; for an enterprise storing central grain reserves on behalf of the State, its qualification shall be cancelled:\n(a) falsely reporting or concealing the quantity of central grain reserves;\n(b) adulterating central grain reserves or passing off inferior goods as superior;\n(c) substituting without authorisation the varieties of central grain reserves or changing the storage location of central grain reserves;\n(d) causing central grain reserves to become aged or mouldy;\n(e) refusing to implement, or altering without authorisation, the purchase, sales and rotation plans and the orders for use of central grain reserves;\n(f) using central grain reserves without authorisation;\n(g) using central grain reserves to provide security to others or to settle debts."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a storage enterprise violates the provisions of these Regulations by obtaining price differences through such means as purchasing at a low price and recording at a high price, selling at a high price and recording at a low price, replacing new grain with old grain or falsely increasing the cost of goods put into storage, so as to fraudulently obtain central grain reserve loans and fiscal subsidies such as loan interest and management expenses, the State administration for grain and the department for finance of the State Council shall, in accordance with their respective duties, instruct China Grain Reserves Corporation to require it to make rectification within a time limit and order it to return the fraudulently obtained central grain reserve loans and fiscal subsidies such as loan interest and management expenses; where there are illegal gains, they shall be confiscated; the directly responsible person in charge shall be given a disciplinary sanction of demotion up to dismissal; other directly responsible persons shall be given a disciplinary sanction of a warning up to dismissal; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law; for an enterprise storing central grain reserves on behalf of the State, its qualification shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where an enterprise storing central grain reserves on behalf of the State operates the rotation business of central grain reserves in combination with other businesses, the State administration for grain shall instruct China Grain Reserves Corporation to require it to make rectification within a time limit; the directly responsible person in charge shall be given a disciplinary sanction of a warning up to demotion; where losses of central grain reserves are caused, the directly responsible person in charge shall be given a disciplinary sanction of removal from office up to dismissal and its qualification for storage on behalf of the State shall be cancelled."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, misappropriates, withholds or diverts central grain reserve loans or fiscal subsidies such as loan interest and management expenses, or alters without authorisation the cost of central grain reserves put into storage, shall be ordered by the department for finance of the State Council and the Agricultural Development Bank of China, in accordance with their respective duties, to make rectification or be given credit sanctions; where there are illegal gains, they shall be confiscated; the directly responsible persons in charge and other directly responsible persons shall be given a disciplinary sanction of removal from office up to dismissal in accordance with law; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a staff member of a State organ or of the Agricultural Development Bank of China violates the provisions of these Regulations by abusing his powers, engaging in malpractice for personal gain or neglecting his duties, and a criminal offence is constituted, criminal liability shall be pursued in accordance with law; where a criminal offence is not constituted, an administrative sanction or disciplinary sanction of demotion up to dismissal shall be given in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Whoever, in violation of the provisions of these Regulations, damages the storage facilities for central grain reserves, or steals, plunders or destroys central grain reserves, and a criminal offence is constituted, shall have criminal liability pursued in accordance with law; where a criminal offence is not constituted, a penalty shall be given in accordance with the provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security; where property losses are caused, civil liability for compensation shall be borne in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The administrative sanctions against staff members of State organs prescribed in these Regulations shall be executed in accordance with the provisions of the Civil Servant Law of the People's Republic of China; the disciplinary sanctions against staff members of China Grain Reserves Corporation and its branches, the storage enterprises and the Agricultural Development Bank of China shall be executed in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The administrative measures for local grain reserves shall be formulated by provinces, autonomous regions and municipalities directly under the Central Government by reference to these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

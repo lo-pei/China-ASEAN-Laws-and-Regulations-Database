@@ -1,12 +1,1017 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p14
-   法规 75 部 / 译文 1576 条
+   法规 79 部 / 译文 1822 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-REG-0104'] = {
+    "lawId": "CN-REG-0104",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 84 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to meet the needs of developing a socialist market economy, to establish and develop a unified and efficient national share market, to protect the lawful rights and interests of investors and the public interest of society, and to promote the development of the national economy."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Anyone engaged in the issuance or trading of shares and related activities within the territory of the People's Republic of China must comply with these Regulations.\nThe provisions of these Regulations on shares shall apply to securities that have the nature and functions of shares."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The issuance and trading of shares shall follow the principles of openness, fairness and honesty and credibility."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The issuance and trading of shares shall safeguard the dominant position of socialist public ownership and ensure that State-owned assets are not infringed upon."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The Securities Commission of the State Council (hereinafter referred to as the Securities Commission) is the competent authority for the national securities market and shall exercise unified administration over the national securities market in accordance with the provisions of laws and regulations. The China Securities Regulatory Commission (hereinafter referred to as the CSRC) is the executive body for supervision and administration of the Securities Commission and shall administer and supervise the specific activities of the issuance and trading of shares in accordance with the provisions of laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The specific measures for the issuance and trading of RMB special shares shall be formulated separately.\nWhere a domestic enterprise issues shares directly or indirectly abroad or has its shares traded abroad, it must obtain the approval of the Securities Commission, and the specific measures shall be formulated separately."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A share issuer must be a joint stock limited company with the qualification to issue shares.\nThe joint stock limited company referred to in the preceding paragraph includes a joint stock limited company already established and a joint stock limited company proposed to be established upon approval."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A joint stock limited company established for the purpose of applying for public issuance of shares shall meet the following conditions:\n(a) its production and operation conform to the industrial policy of the State;\n(b) the ordinary shares it issues are limited to one class, with the same shares carrying the same rights;\n(c) the amount of share capital subscribed for by the promoters is not less than 35 per cent of the total amount of share capital proposed to be issued by the company;\n(d) of the total amount of share capital proposed to be issued by the company, the portion subscribed for by the promoters is not less than RMB 30 million, unless otherwise provided by the State;\n(e) the portion issued to the public is not less than 25 per cent of the total amount of share capital proposed to be issued by the company, of which the amount of share capital subscribed for by the employees of the company shall not exceed 10 per cent of the total amount of share capital proposed to be issued to the public; where the total amount of share capital proposed to be issued by the company exceeds RMB 400 million, the CSRC may, in accordance with the provisions, appropriately reduce the proportion of the portion issued to the public at its discretion, but in no case to less than 10 per cent of the total amount of share capital proposed to be issued by the company;\n(f) the promoters have not committed any major illegal act in the past three years;\n(g) other conditions prescribed by the Securities Commission."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where an original enterprise is reorganised to establish a joint stock limited company and applies for public issuance of shares, it shall, apart from meeting the conditions listed in Article 8 of these Regulations, also meet the following conditions:\n(a) at the end of the year preceding the issuance, the net assets account for not less than 30 per cent of the total assets, and intangible assets account for not more than 20 per cent of the net assets, unless otherwise provided by the Securities Commission;\n(b) it has been continuously profitable for the past three years.\nWhere a State-owned enterprise is reorganised to establish a joint stock limited company and publicly issues shares, the proportion of the shares owned by the State in the total amount of share capital proposed to be issued by the company shall be prescribed by the State Council or by a department authorised by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a joint stock limited company applies for public issuance of shares to increase its capital, it shall, apart from meeting the conditions listed in Articles 8 and 9 of these Regulations, also meet the following conditions:\n(a) the funds obtained from the previous public issuance of shares have been used in conformity with the purposes stated in the prospectus, and the funds have been used with good results;\n(b) not less than 12 months have elapsed since the previous public issuance of shares;\n(c) no major illegal act has been committed during the period from the previous public issuance of shares to the present application;\n(d) other conditions prescribed by the Securities Commission."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a company that raised funds by directed placement applies for public issuance of shares, it shall, apart from meeting the conditions listed in Articles 8 and 9 of these Regulations, also meet the following conditions:\n(a) the funds obtained from the directed placement have been used in conformity with the purposes stated in the prospectus, and the funds have been used with good results;\n(b) not less than 12 months have elapsed since the most recent directed placement of shares;\n(c) no major illegal act has been committed during the period from the most recent directed placement to the present public issuance;\n(d) the internal employee equity certificates were issued within the prescribed scope and have been deposited for centralised custody with a securities institution designated by the State;\n(e) other conditions prescribed by the Securities Commission."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "An application for public issuance of shares shall be handled in accordance with the following procedures:\n(a) the applicant shall engage such professional institutions as an accounting firm, an asset valuation institution and a law firm to examine and verify its credit standing, assets and financial condition, carry out valuation and issue legal opinions on the relevant matters, and shall then, in accordance with its subordinate relationship, submit an application for public issuance of shares respectively to the people's government of the province, autonomous region or municipality directly under the Central Government or of a city under separate State planning (hereinafter referred to as the local government) or to the competent department of the central enterprise;\n(b) within the scale of issuance assigned by the State, the local government shall examine and approve the issuance applications of local enterprises, and the competent department of the central enterprise shall, after consultation with the local government at the place where the applicant is located, examine and approve the issuance applications of central enterprises; the local government and the competent department of the central enterprise shall, within 30 working days from the date of receipt of the issuance application, make a decision on examination and approval and send a copy of it to the Securities Commission;\n(c) an approved issuance application shall be submitted to the CSRC for review; the CSRC shall, within 20 working days from the date of receipt of the application for review, issue a review opinion and send a copy of it to the Securities Commission; where the CSRC agrees upon review, the applicant shall submit an application to the listing committee of the stock exchange and may issue shares only after the listing committee agrees to accept the listing."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "An applicant for public issuance of shares shall submit the following documents to the local government or to the competent department of the central enterprise:\n(a) an application report;\n(b) a resolution of the meeting of promoters or of the shareholders' meeting approving the public issuance of shares;\n(c) the document approving the establishment of the joint stock limited company;\n(d) the business licence of the joint stock limited company or the certificate of registration of the preparation for establishment of the joint stock limited company issued by the administrative department for industry and commerce;\n(e) the articles of association of the company or the draft articles of association of the company;\n(f) the prospectus;\n(g) a feasibility report on the use of funds; for a fixed asset investment project for which the State is required to provide funds or other conditions, the document approving the establishment of the fixed asset investment project by the relevant department of the State shall also be provided;\n(h) the financial reports of the company for the past three years or since its establishment, audited by an accounting firm, and the audit report signed and sealed by not less than two certified public accountants and the firm in which they work;\n(i) a legal opinion on the relevant matters signed and sealed by not less than two lawyers and the firm in which they work;\n(j) an asset valuation report signed and sealed by not less than two professional appraisers and the institution in which they work, and a capital verification report signed and sealed by not less than two certified public accountants and the firm in which they work; where State-owned assets are involved, the document of confirmation issued by the department administering State-owned assets shall also be provided;\n(k) the share issuance underwriting plan and the underwriting agreement;\n(l) other documents required to be submitted by the local government or the competent department of the central enterprise."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where an approved issuance application is submitted to the CSRC for review, the following documents shall, apart from the documents listed in Article 13 of these Regulations, also be submitted:\n(a) the document of the local government or of the competent department of the central enterprise approving the issuance application;\n(b) other documents required to be submitted by the CSRC."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The prospectus referred to in Article 13 of these Regulations shall be prepared in the format prescribed by the CSRC and shall state the following matters:\n(a) the name and domicile of the company;\n(b) brief particulars of the promoters and the issuer;\n(c) the purpose of raising funds;\n(d) the existing total amount of share capital of the company, the class and total amount of the shares to be issued this time, the par value and offering price per share, the net asset value per share before the issuance and the expected net asset value per share after the completion of the issuance, and the issuance expenses and commissions;\n(e) in the case of a first issuance, the subscription of share capital by the promoters, the structure of share rights and the capital verification certificate;\n(f) the names of the underwriting institutions, the underwriting method and the underwriting volume;\n(g) the targets, time and place of the issuance and the methods of subscribing for shares and paying for the shares;\n(h) the plan for the use of the funds raised and forecasts of returns and risks;\n(i) the recent development plan of the company and the document on the profit forecast of the company for the following year examined by certified public accountants together with their examination opinions;\n(j) important contracts;\n(k) major litigation involving the company;\n(l) the list of the directors and supervisors of the company and their curricula vitae;\n(m) the basic information on the production and operation of the company and on the development of the relevant business for the past three years or since its establishment;\n(n) the financial reports of the company for the past three years or since its establishment, audited by an accounting firm, and the audit report signed and sealed by not less than two certified public accountants and the firm in which they work;\n(o) in the case of a capital increase issuance, the use of the funds raised from the previous public issuance of shares by the company;\n(p) other matters required to be stated by the CSRC."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The cover of the prospectus shall state that the issuer warrants that the contents of the prospectus are true, accurate and complete, and that any decision made by the government and the State securities administration department on this issuance does not indicate that they have made any substantive judgment on or given any guarantee as to the value of the shares issued by the issuer or the returns of investors."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "All promoters or directors and the lead underwriter shall sign the prospectus, warrant that the prospectus contains no false or seriously misleading statements or major omissions, and warrant that they bear joint and several liability therefor."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The certified public accountants and the firms in which they work, the professional appraisers and the institutions in which they work, and the lawyers and the firms in which they work that issue documents for an issuer shall, in performing their duties, examine and verify the truthfulness, accuracy and completeness of the contents of the documents they issue in accordance with the professional standards and code of ethics recognised by their profession."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Before the approval of a public issuance of shares, no person shall disclose the contents of the prospectus in any form. After the approval of a public issuance of shares, the issuer shall publish the prospectus during the period from two to five working days before the commencement of the underwriting period.\nThe issuer shall provide the prospectus to subscribers. Securities underwriting institutions shall keep the prospectus at their business premises and shall be obliged to remind subscribers to read the prospectus.\nThe prospectus shall be valid for six months, counted from the date on which the prospectus is signed and completed. After the prospectus ceases to be valid, the issuance of shares must be stopped immediately."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Publicly issued shares shall be underwritten by securities operating institutions. Underwriting includes underwriting on a firm commitment basis and underwriting on a best efforts basis.\nThe issuer shall conclude an underwriting agreement with the securities operating institution. The underwriting agreement shall state the following matters:\n(a) the names and domiciles of the parties and the names of their legal representatives;\n(b) the underwriting method;\n(c) the class, quantity and amount of the shares underwritten and the issuance price;\n(d) the underwriting period and the dates of commencement and expiry;\n(e) the date and method of payment for the underwriting;\n(f) the calculation, method of payment and date of the underwriting fees;\n(g) liability for breach of contract;\n(h) other matters to be agreed upon.\nThe principles for the collection of underwriting fees by securities operating institutions shall be determined by the CSRC."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a securities operating institution underwrites shares, it shall examine the truthfulness, accuracy and completeness of the prospectus and other relevant publicity materials; where it finds that they contain false or seriously misleading statements or major omissions, it shall not issue an invitation to make an offer or an offer; where such an invitation or offer has already been issued, it shall immediately stop the selling activities and take corresponding remedial measures."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where the total par value of the shares proposed to be publicly issued exceeds RMB 30 million, or the total expected sales amount exceeds RMB 50 million, the shares shall be underwritten by an underwriting syndicate.\nAn underwriting syndicate shall be composed of not less than two underwriting institutions. The lead underwriter shall be determined by the issuer in accordance with the principle of fair competition through competitive bidding or consultation. The lead underwriter shall conclude an underwriting syndicate agreement with the other underwriters."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where the total par value of the shares proposed to be publicly issued exceeds RMB 100 million, or the total expected sales amount exceeds RMB 150 million, the number of out-of-town underwriting institutions in the underwriting syndicate and the volume of the total underwriting to be sold out of town shall account for a reasonable proportion.\nOut of town referred to in the preceding paragraph means an area outside the province, autonomous region or municipality directly under the Central Government in which the issuer is located."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The underwriting period shall be not less than 10 days and not more than 90 days.\nDuring the underwriting period, the underwriting institution shall use its best efforts to sell the shares it underwrites to subscribers and shall not retain the underwritten shares for itself.\nAfter the expiry of the underwriting period, the shares not yet sold shall be dealt with separately in accordance with the underwriting on a firm commitment basis or on a best efforts basis agreed in the underwriting agreement."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an underwriting institution or an institution entrusted by it distributes share subscription application forms to the public, it shall not charge fees higher than the cost of printing and distributing the subscription application forms, and shall not restrict the number of subscription application forms distributed.\nWhere the volume of subscriptions exceeds the total volume proposed to be publicly issued, the underwriting institution shall, in accordance with the principle of fairness, sell the shares by such methods as pro rata allotment, pro rata allotment with regression or drawing lots. Where the method of drawing lots is adopted, the underwriting institution shall, on the prescribed date and under the supervision of a notarial office, publicly draw lots from all the share subscription application forms in accordance with the prescribed procedures and sell shares to those whose lots are drawn.\nApart from the underwriting institution or an institution entrusted by it, no unit or individual shall distribute or resell share subscription application forms."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The underwriting institution shall, within 15 working days after the expiry of the underwriting period, submit a written report on the underwriting to the CSRC."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where a securities operating institution, after the expiry of the underwriting period, makes an invitation to make an offer, an offer or a sale of the shares of the issuer held by it to the public other than the issuer, it shall obtain the approval of the CSRC and proceed in accordance with the prescribed procedures."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an issuer exchanges new shares for its shares already issued and outstanding and no direct or indirect expenses are incurred by such exchange, the provisions of this Chapter shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter II Issue of Shares"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Shares must be traded on a securities trading venue approved by the Securities Commission for share trading."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a joint stock limited company applies for its shares to be traded on a stock exchange, it shall meet the following conditions:\n(a) its shares have already been publicly issued;\n(b) the total amount of share capital after the issuance is not less than RMB 50 million;\n(c) the number of individual shareholders holding shares with a face value of RMB 1,000 or more is not less than 1,000, and the total face value of the shares held by individuals is not less than RMB 10 million;\n(d) the company has a record of continuous profitability in the past three years; where an original enterprise has been reorganised to establish a joint stock limited company, the original enterprise has a record of continuous profitability in the past three years, except for a newly established joint stock limited company;\n(e) other conditions prescribed by the Securities Commission."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a joint stock limited company that has publicly issued shares and meets the conditions prescribed in the preceding Article applies for its shares to be traded on a stock exchange, it shall submit an application to the listing committee of the stock exchange; the listing committee shall, within 20 working days from the date of receipt of the application, make its examination and approval and determine the specific time of listing. The document of examination and approval shall be reported to the CSRC for the record and a copy shall be sent to the Securities Commission."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a joint stock limited company applies for its shares to be traded on a stock exchange, it shall submit the following documents to the listing committee of the stock exchange:\n(a) a written application;\n(b) the documents of registration of the company;\n(c) the document approving the public issuance of shares;\n(d) the financial reports of the company for the past three years or since its establishment, audited by an accounting firm, and the audit report signed and sealed by not less than two certified public accountants and the firm in which they work;\n(e) a letter of recommendation from a member of the stock exchange;\n(f) the most recent prospectus;\n(g) other documents required by the stock exchange."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "After shares are approved to be traded on a stock exchange, the listed company shall publish a listing announcement and make public the documents listed in Article 32 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The contents of a listing announcement shall, apart from including the main contents of the prospectus prescribed in Article 15 of these Regulations, also include the following matters:\n(a) the date on which the shares are approved to be traded on the stock exchange and the number of the approving document;\n(b) the particulars of the issuance of shares, the structure of share rights and the list of the ten largest shareholders and the number of shares held by them;\n(c) the resolution of the inaugural meeting of the company or of the shareholders' meeting approving the trading of the shares of the company on the stock exchange;\n(d) the curricula vitae of the directors, supervisors and senior management and their holdings of securities of the company;\n(e) the operating results and financial condition of the company for the past three years or since its establishment and the document on the profit forecast for the following year;\n(f) other matters required to be stated by the stock exchange."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The certified public accountants and the firms in which they work, the professional appraisers and the institutions in which they work, and the lawyers and the firms in which they work that issue documents for a listed company shall, in performing their duties, examine and verify the truthfulness, accuracy and completeness of the contents of the documents they issue in accordance with the professional standards and code of ethics recognised by their profession."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The transfer of shares owned by the State must be approved by the relevant department of the State, and the specific measures shall be prescribed separately.\nThe transfer of shares owned by the State shall not prejudice the rights and interests attaching to the shares owned by the State."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Securities trading venues, securities custody, clearing, transfer and registration institutions and securities operating institutions shall ensure that out-of-town principals enjoy the same treatment as local principals, and shall not discriminate against or restrict out-of-town principals."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a director, supervisor or senior manager of a joint stock limited company or a corporate shareholder holding 5 per cent or more of the voting shares of the company sells the shares of the company it holds within six months after purchase, or purchases shares within six months after sale, the profits thereby obtained shall belong to the company.\nThe provisions of the preceding paragraph shall apply to the directors, supervisors and senior management of a corporate shareholder holding 5 per cent or more of the voting shares of the company."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Persons employed in the securities industry, persons engaged in the administration of the securities industry and other persons prohibited by the State from buying and selling shares shall not directly or indirectly hold or buy and sell shares, except for buying and selling securities of investment funds approved to be issued."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The professional personnel concerned who issue audit reports, asset valuation reports, legal opinions and other documents for the issuance of shares shall not purchase or hold such shares within the underwriting period of the shares and within six months after its expiry.\nThe professional personnel concerned who issue audit reports, asset valuation reports, legal opinions and other documents for a listed company shall not purchase or hold the shares of the company before such documents as the audit report, asset valuation report and legal opinion become public information, and shall not purchase the shares of the company within five working days after they become public information."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "A joint stock limited company shall not repurchase its issued and outstanding shares without approval in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Without the approval of the Securities Commission, no person shall trade in options or futures on shares or on share indices."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "No financial institution shall provide loans for the trading of shares."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "A securities operating institution shall not lend the shares of its clients to others or use them as security."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "A securities operating institution approved to engage in two or more of the businesses of securities dealing on its own account, securities brokerage and investment fund management shall separate the operating personnel, funds and accounts of the different businesses."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter III Trading of Shares"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "No individual shall hold 0.5 per cent or more of the ordinary shares issued and outstanding by a listed company; the excess portion shall be purchased by the company, with the consent of the CSRC, at the lower of the original purchase price and the market price. However, where an individual holds 0.5 per cent or more of the ordinary shares issued and outstanding by the company as a result of a reduction in the total amount of ordinary shares issued and outstanding by the company, the excess portion shall not be purchased within a reasonable period.\nThe RMB special shares issued by a company and the shares issued abroad and held by individuals from foreign countries and from the Hong Kong, Macao and Taiwan regions shall not be subject to the 0.5 per cent limit prescribed in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Acquisition of Listed Companies"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "When a legal person directly or indirectly holds 5 per cent of the ordinary shares issued and outstanding by a listed company, it shall, within three working days from the date on which that fact occurs, make a written report to the company, the securities trading venue and the CSRC and make an announcement. However, where a legal person holds 5 per cent or more of the ordinary shares issued and outstanding by the company as a result of a reduction in the total amount of ordinary shares issued and outstanding by the company, it shall not be subject to the above limit within a reasonable period.\nAfter a legal person holds 5 per cent or more of the ordinary shares issued and outstanding by a listed company, each time the increase or decrease in its holding of such shares reaches 2 per cent of the total amount of such shares issued and outstanding, it shall, within three working days from the date on which that fact occurs, make a written report to the company, the securities trading venue and the CSRC and make an announcement.\nA legal person shall not directly or indirectly purchase or sell such shares again within two working days from the date of making the report and announcement in accordance with the provisions of the preceding two paragraphs, or before making the report."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Acquisition of Listed Companies"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "When a legal person other than a promoter directly or indirectly holds 30 per cent of the ordinary shares issued and outstanding by a listed company, it shall, within 45 working days from the date on which that fact occurs, make a takeover offer to all the holders of shares of the company and purchase the shares by way of cash payment at the higher of the following prices:\n(a) the highest price paid by the offeror for the purchase of such shares in the 12 months before the takeover offer is made;\n(b) the average market price of such shares in the 30 working days before the takeover offer is made.\nThe holder referred to in the preceding paragraph shall not purchase such shares again before making the takeover offer."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Acquisition of Listed Companies"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Before making a takeover offer, the offeror shall make a written report on the takeover to the CSRC; at the same time as making the takeover offer, it shall provide the offeree and the securities trading venue with an explanation of its own situation and all the information relating to the offer, and shall warrant that the materials are true, accurate and complete and are not misleading.\nThe takeover offer shall be valid for not less than 30 working days, counted from the date on which the takeover offer is made. Within 30 working days from the date on which the takeover offer is made, the offeror shall not withdraw its takeover offer."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Acquisition of Listed Companies"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "All the terms of a takeover offer shall apply to all holders of the same class of shares."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter IV Acquisition of Listed Companies"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, at the expiry of the takeover offer, the ordinary shares held by the offeror have not reached 5 per cent of the total amount of ordinary shares issued and outstanding by the company, the takeover shall be deemed to have failed; apart from making a new takeover offer, the ordinary shares of the company issued and outstanding purchased by the offeror in each subsequent year shall not exceed 5 per cent of the total amount of ordinary shares issued and outstanding by the company.\nWhere, at the expiry of the takeover offer, the ordinary shares held by the offeror reach 75 per cent or more of the total amount of ordinary shares issued and outstanding by the company, the company shall terminate trading on the stock exchange.\nWhere the total number of shares the offeror offers to purchase is less than the total number of shares in respect of which pre-acceptance has been given, the offeror shall purchase the shares from all the offerees who have given pre-acceptance of the takeover offer on a pro rata basis.\nWhere, at the expiry of the takeover offer, the shares held by the offeror reach 90 per cent of the total number of shares of the company, the remaining shareholders shall have the right to compulsorily sell their shares to the offeror on the same terms."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter IV Acquisition of Listed Companies"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, after a takeover offer is made, the main terms of the offer are changed, the offeror shall immediately notify all the offerees. The notification may take the form of a press conference, newspaper announcement or other means of communication.\nThe offeror shall not purchase such shares on any terms other than those specified in the offer during the offer period and within 30 working days after the expiry of the offer.\nAn offeree that has given pre-acceptance of a takeover offer shall have the right to withdraw its pre-acceptance before the takeover offer ceases to be valid."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IV Acquisition of Listed Companies"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Shares shall be issued in registered form. An issuer may issue book-entry shares or physical certificate shares. The register of book-entry shares shall be kept by an institution designated by the CSRC. Where physical certificate shares are kept in centralised custody, they shall also be kept by an institution designated by the CSRC."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Custody, Clearing and Transfer of Title"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Without the written consent of the share holder, a share custody institution shall not lend the shares of that holder to others or use them as security."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Custody, Clearing and Transfer of Title"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "A securities clearing institution shall, in accordance with the principles of convenience, safety and fairness, formulate business rules and internal management rules for the clearing and settlement of shares.\nA securities clearing institution shall admit members in accordance with the principle of fairness."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Custody, Clearing and Transfer of Title"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Securities custody, clearing, transfer and registration institutions shall be subject to the supervision of the CSRC."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Custody, Clearing and Transfer of Title"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "A listed company shall provide the following documents to the CSRC and the securities trading venue:\n(a) an interim report submitted within 60 days after the end of the first six months of each accounting year;\n(b) an annual report audited by certified public accountants submitted within 120 days after the end of each accounting year.\nThe interim report and the annual report shall conform to the accounting system of the State and the relevant provisions of the CSRC, be signed by a director or the manager authorised by the listed company, and be sealed by the listed company."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The interim report listed in Article 57 of these Regulations shall include the following contents:\n(a) the financial report of the company;\n(b) the analysis by the management of the company of the financial condition and operating results of the company;\n(c) major litigation involving the company;\n(d) changes in the shares issued and outstanding by the company;\n(e) important matters submitted by the company to the shareholders with voting rights for deliberation;\n(f) other contents required to be stated by the CSRC."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "The annual report listed in Article 57 of these Regulations shall include the following contents:\n(a) a brief profile of the company;\n(b) a brief description of the main products or main service items of the company;\n(c) a brief description of the industry in which the company operates;\n(d) a brief description of the important factories, mines, real estate and other property owned by the company;\n(e) information on the shares issued and outstanding by the company, including the list of shareholders holding 5 per cent or more of the ordinary shares issued and outstanding by the company and the list of the ten largest shareholders;\n(f) the number of shareholders of the company;\n(g) brief particulars of the directors, supervisors and senior management of the company, their shareholdings and their remuneration;\n(h) a schedule and brief particulars of the company and its related persons;\n(i) a summary of the financial information of the company for the past three years or since its establishment;\n(j) the analysis by the management of the company of the financial condition and operating results of the company;\n(k) changes in the bonds issued and outstanding by the company;\n(l) major litigation involving the company;\n(m) the comparative financial reports of the company for the most recent two years audited by certified public accountants together with their schedules and notes; where the listed company is a holding company, the comparative consolidated financial reports for the most recent two years shall also be included;\n(n) other contents required to be stated by the CSRC."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "Where a major event occurs that may have a relatively large impact on the market price of the shares of a listed company and of which investors have not yet learned, the listed company shall immediately submit a report on the major event to the securities trading venue and the CSRC, announce it to the public and explain the substance of the event. However, where the listed company has sufficient reason to believe that announcing the major event to the public would harm the interests of the listed company and that failure to announce it would not lead to a major change in the market price of its shares, it may, with the consent of the securities trading venue, refrain from announcing it.\nMajor events referred to in the preceding paragraph include the following:\n(a) the company concludes an important contract that may have a significant impact on one or more of its assets, liabilities, rights and interests and operating results;\n(b) a major change occurs in the operating policy or operating items of the company;\n(c) the company engages in major investment or in the purchase of long-term assets involving a relatively large amount;\n(d) the company incurs major debts;\n(e) the company defaults by failing to repay a major debt that has fallen due;\n(f) the company incurs major operating or non-operating losses;\n(g) the assets of the company suffer major losses;\n(h) an important change occurs in the production and operating environment of the company;\n(i) newly promulgated laws, regulations, policies, rules and the like may have a significant impact on the operation of the company;\n(j) a change occurs in the chairman of the board, in 30 per cent or more of the directors or in the general manager;\n(k) the fact that the increase or decrease in the holding of such shares by a shareholder holding 5 per cent or more of the ordinary shares issued and outstanding by the company reaches 2 per cent or more of the total amount of such shares issued and outstanding each time;\n(l) major litigation involving the company;\n(m) the company enters into a state of liquidation or bankruptcy."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 61,
+        "text": {
+          "en": "Where news appearing in any public media may have a misleading effect on the market price of the shares of a listed company, the company shall, immediately after learning of it, publicly clarify the news."
+        },
+        "noLabel": {
+          "en": "Article 61."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 62,
+        "text": {
+          "en": "Where the directors, supervisors and senior management of a listed company hold ordinary shares of the company, they shall report their shareholdings to the CSRC, the securities trading venue and the company; where their shareholdings change, they shall, within 10 working days from the date on which the change occurs, make a report to the CSRC, the securities trading venue and the company.\nThe persons listed in the preceding paragraph shall, within six months after resignation or leaving office, remain under the obligation to make reports in accordance with the provisions of this Article."
+        },
+        "noLabel": {
+          "en": "Article 62."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 63,
+        "text": {
+          "en": "A listed company shall publish the information required to be published in a national newspaper or periodical designated by the CSRC.\nAt the same time as it publishes information in accordance with the provisions of the preceding paragraph, a listed company may publish the relevant information in a local newspaper or periodical designated by the securities trading venue."
+        },
+        "noLabel": {
+          "en": "Article 63."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 64,
+        "text": {
+          "en": "The CSRC shall promptly make public the reports, announcements and other documents submitted by listed companies and their directors, supervisors, senior management and shareholders holding 5 per cent or more of the ordinary shares issued and outstanding by the company, for inspection by investors.\nAll the information that the CSRC requires to be disclosed shall be public information, except the following:\n(a) trade secrets that are protected by laws and regulations and that are permitted not to be disclosed;\n(b) non-public information and documents obtained by the CSRC in the course of investigating illegal acts;\n(c) other information and documents that may not be disclosed in accordance with the provisions of the relevant laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 64."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 65,
+        "text": {
+          "en": "A share holder may authorise another person to exercise its right of consent or voting right on its behalf. However, any person soliciting the right of consent or voting right of 25 or more persons shall comply with the provisions of the CSRC on information disclosure and reporting."
+        },
+        "noLabel": {
+          "en": "Article 65."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 66,
+        "text": {
+          "en": "Apart from submitting to the CSRC and the securities trading venue the reports, announcements, information and documents prescribed in this Chapter, a listed company shall also submit the relevant reports, announcements, information and documents in accordance with the provisions of the securities trading venue and make them public to all shareholders."
+        },
+        "noLabel": {
+          "en": "Article 66."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 67,
+        "text": {
+          "en": "The provisions of Articles 57 to 65 of these Regulations shall apply to a joint stock limited company that has publicly issued shares but whose shares are not traded on a securities trading venue."
+        },
+        "noLabel": {
+          "en": "Article 67."
+        },
+        "chapter": {
+          "en": "Chapter VI Information Disclosure by Listed Companies"
+        }
+      },
+      {
+        "no": 68,
+        "text": {
+          "en": "With respect to units and individuals that violate the provisions of these Regulations, the CSRC shall have the power to conduct investigation itself or jointly with the relevant departments of the State; major cases shall be investigated under the organisation of the Securities Commission."
+        },
+        "noLabel": {
+          "en": "Article 68."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 69,
+        "text": {
+          "en": "The CSRC may inspect the business activities of securities operating institutions."
+        },
+        "noLabel": {
+          "en": "Article 69."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 70,
+        "text": {
+          "en": "Where a joint stock limited company, in violation of the provisions of these Regulations, commits any of the following acts, it shall, in light of the different circumstances, be given a warning, ordered to refund the share payments illegally raised, have its illegal gains confiscated or be fined, either singly or concurrently; where the circumstances are serious, its qualification to issue shares shall be suspended:\n(a) issuing shares without approval or in a disguised form;\n(b) obtaining approval to issue shares or approval for its shares to be traded on a securities trading venue by deception or other improper means;\n(c) issuing shares not in accordance with the prescribed method or scope, or selling shares after the prospectus ceases to be valid;\n(d) repurchasing its issued and outstanding shares without approval.\nThe directors, supervisors and senior management of the joint stock limited company directly responsible for the acts listed in the preceding paragraph shall be given a warning or be fined not less than RMB 30,000 but not more than RMB 300,000."
+        },
+        "noLabel": {
+          "en": "Article 70."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 71,
+        "text": {
+          "en": "Where a securities operating institution, in violation of the provisions of these Regulations, commits any of the following acts, it shall, in light of the different circumstances, be given a warning, have the shares and other illegal gains illegally obtained confiscated or be fined, either singly or concurrently; where the circumstances are serious, its securities business shall be restricted or suspended or its licence for securities business shall be revoked:\n(a) underwriting shares not in accordance with the prescribed time, procedures or method;\n(b) distributing share subscription application forms not in accordance with the provisions;\n(c) lending the shares of clients to others or using them as security;\n(d) charging unreasonable commissions and other fees;\n(e) buying and selling shares for itself in the name of a client;\n(f) misappropriating the margin of clients;\n(g) sharing the profits or losses of share trading with clients in the course of buying and selling shares as an agent for clients, or giving clients a guarantee against losses;\n(h) providing financing for the trading of shares.\nThe persons in charge and the persons directly responsible of the securities operating institution responsible for the acts listed in the preceding paragraph shall be given a warning or be fined not less than RMB 30,000 but not more than RMB 300,000."
+        },
+        "noLabel": {
+          "en": "Article 71."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 72,
+        "text": {
+          "en": "Where an insider or another person who obtains inside information by improper means, in violation of the provisions of these Regulations, discloses inside information, buys or sells shares on the basis of inside information, or gives advice to others to buy or sell shares, the shares and other illegal gains illegally obtained shall, in light of the different circumstances, be confiscated and a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed.\nWhere a person employed in the securities industry, a person engaged in the administration of the securities industry or another person prohibited by the State from buying and selling shares, in violation of the provisions of these Regulations, directly or indirectly holds, buys or sells shares, in addition to being ordered to sell the shares held within a time limit, the person shall, in light of the different circumstances, be given a warning, have the illegal gains confiscated or be fined not less than RMB 5,000 but not more than RMB 50,000, either singly or concurrently."
+        },
+        "noLabel": {
+          "en": "Article 72."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 73,
+        "text": {
+          "en": "Where an accounting firm, an asset valuation institution or a law firm, in violation of the provisions of these Regulations, issues documents containing false or seriously misleading contents or major omissions, it shall, in light of the different circumstances, be given a warning, have its illegal gains confiscated or be fined, either singly or concurrently; where the circumstances are serious, its engagement in securities business shall be suspended or its licence to engage in securities business shall be revoked.\nThe certified public accountants, professional appraisers and lawyers directly responsible for the acts listed in the preceding paragraph shall be given a warning or be fined not less than RMB 30,000 but not more than RMB 300,000; where the circumstances are serious, their qualification to engage in securities business shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 73."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 74,
+        "text": {
+          "en": "Where any unit or individual, in violation of the provisions of these Regulations, commits any of the following acts, it shall, in light of the different circumstances, be given a warning, have the shares and other illegal gains illegally obtained confiscated or be fined, either singly or concurrently:\n(a) trading shares on a securities trading venue other than one approved by the Securities Commission for share trading;\n(b) making false or seriously misleading statements or omitting major information in the course of the issuance or trading of shares;\n(c) manipulating the market price of shares through collusion or by concentrating funds, or influencing the issuance or trading of shares by such means as spreading rumours;\n(d) colluding with others to create a false price for shares by conducting fictitious purchases and sales without transferring the ownership or actual control of the shares;\n(e) selling or offering to sell shares it does not hold, thereby disrupting the order of the share market;\n(f) taking advantage of authority or using other improper means to demand or force the purchase or sale of shares, or assisting others in buying or selling shares;\n(g) trading in options or futures on shares or on share indices without approval;\n(h) failing to perform the obligations of reporting, making public and publishing the relevant documents and information in accordance with the provisions;\n(i) forging, tampering with or destroying business records, financial books and other documents relating to the issuance or trading of shares;\n(j) otherwise unlawfully engaging in the issuance or trading of shares and related activities.\nWhere a joint stock limited company commits any of the acts listed in the preceding paragraph and the circumstances are serious, its qualification to issue shares may be suspended; where a securities operating institution commits any of the acts listed in the preceding paragraph and the circumstances are serious, its securities business may be restricted or suspended or its licence for securities business may be revoked."
+        },
+        "noLabel": {
+          "en": "Article 74."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 75,
+        "text": {
+          "en": "The penalties prescribed in Articles 70, 71, 72 and 74 of these Regulations shall be decided by an institution designated by the Securities Commission; the penalties for major cases shall be submitted to the Securities Commission for decision. The penalties prescribed in Article 73 of these Regulations shall be decided by the relevant departments within the scope of their respective functions and powers."
+        },
+        "noLabel": {
+          "en": "Article 75."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 76,
+        "text": {
+          "en": "Where a listed company, a stock exchange or another self-regulatory organisation of the securities industry, or a member thereof or its staff, violates the provisions of these Regulations, in addition to the administrative penalty given in accordance with the provisions of these Regulations, the stock exchange or the other self-regulatory organisation of the securities industry shall impose sanctions in accordance with its articles of association or its self-regulatory rules."
+        },
+        "noLabel": {
+          "en": "Article 76."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 77,
+        "text": {
+          "en": "Anyone who, in violation of the provisions of these Regulations, causes losses to others shall bear civil liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 77."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 78,
+        "text": {
+          "en": "Anyone who, in violation of the provisions of these Regulations, commits a crime shall have criminal responsibility pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 78."
+        },
+        "chapter": {
+          "en": "Chapter VII Investigation and Penalties"
+        }
+      },
+      {
+        "no": 79,
+        "text": {
+          "en": "With respect to disputes relating to the issuance or trading of shares, the parties may, in accordance with the agreement, apply to an arbitration institution for mediation or arbitration."
+        },
+        "noLabel": {
+          "en": "Article 79."
+        },
+        "chapter": {
+          "en": "Chapter VIII Arbitration of Disputes"
+        }
+      },
+      {
+        "no": 80,
+        "text": {
+          "en": "Disputes arising from the issuance or trading of shares between securities operating institutions, or between a securities operating institution and a securities trading venue, shall be mediated or arbitrated by an arbitration institution established or designated with the approval of the Securities Commission."
+        },
+        "noLabel": {
+          "en": "Article 80."
+        },
+        "chapter": {
+          "en": "Chapter VIII Arbitration of Disputes"
+        }
+      },
+      {
+        "no": 81,
+        "text": {
+          "en": "The following terms used in these Regulations have the meanings given below:\n(a) shares mean transferable written certificates issued by a joint stock limited company representing the rights and obligations of its shareholders according to the shares they hold.\nBook-entry shares mean the written register recording shareholders' rights and interests prepared by an issuer in the uniform format prescribed by the CSRC.\nPhysical certificate shares mean the written share certificates uniformly printed by a printing institution designated by the CSRC for an issuer.\n(b) ordinary shares issued and outstanding mean ordinary shares other than those held in the treasury of the company.\n(c) public issuance means the act of an issuer, through a securities operating institution, of making an invitation to make an offer, an offer or a sale with respect to the shares of the issuer to the public other than the issuer.\n(d) underwriting means the act of a securities operating institution, in accordance with an agreement, of underwriting on a firm commitment basis or on a best efforts basis the shares issued by an issuer.\n(e) underwriting institution means a securities operating institution that sells shares for an issuer by way of underwriting on a firm commitment basis or on a best efforts basis.\n(f) underwriting on a firm commitment basis means an underwriting method whereby the underwriting institution purchases all the shares not sold after the expiry of the issuance period.\n(g) underwriting on a best efforts basis means an underwriting method whereby the underwriting institution sells shares as an agent and, after the expiry of the issuance period, returns all the shares not sold to the issuer or to the firm commitment underwriter.\n(h) publication means the act of publishing in a newspaper or periodical designated by the CSRC the documents required by these Regulations to be disclosed.\n(i) making public means the act of keeping at the business premises of the issuer and its securities underwriting institution and at the CSRC the documents required by these Regulations to be disclosed, for inspection by investors.\n(j) offer means an oral or written expression of intent, made to a specific or non-specific person, to purchase or sell a certain class of shares.\n(k) invitation to make an offer means an expression of intent suggesting that another person make an offer to oneself.\n(l) pre-acceptance means the preliminary expression of intent of an offeree to agree to accept an offer, which does not constitute an acceptance before the expiry of the offer.\n(m) listed company means a joint stock limited company whose shares are approved to be traded on a securities trading venue.\n(n) insider means any person who, by holding the shares of an issuer, or by serving as a director, supervisor or senior manager of the issuer or of an enterprise closely related to the issuer, or by reason of his status as a member, an administrator, a supervisor or a professional, or in the performance of duties as an employee or professional adviser, is able to have access to or obtain inside information.\n(o) inside information means important information that has not yet been made public, that is known to the issuer, a securities operating institution, a legal person intending to make a takeover, a securities supervision and administration institution, a self-regulatory organisation of the securities industry and persons closely related thereto, and that may affect the market price of shares.\n(p) securities trading venue means a stock exchange established upon approval and a securities trading quotation system for securities trading.\n(q) persons engaged in the administration of the securities industry mean the staff of the securities administration departments and of the self-regulatory organisations of the securities industry.\n(r) persons employed in the securities industry mean the staff of institutions engaged in the issuance or trading of shares and other related business."
+        },
+        "noLabel": {
+          "en": "Article 81."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 82,
+        "text": {
+          "en": "The provisions on the administration of securities operating institutions and stock exchanges shall be formulated separately.\nThese Regulations shall not apply to the holding of shares by the internal employees of a company."
+        },
+        "noLabel": {
+          "en": "Article 82."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 83,
+        "text": {
+          "en": "These Regulations shall be interpreted by the Securities Commission."
+        },
+        "noLabel": {
+          "en": "Article 83."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 84,
+        "text": {
+          "en": "These Regulations shall enter into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 84."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
 
   TR['CN-REG-0105'] = {
     "lawId": "CN-REG-0105",
@@ -1782,6 +2787,660 @@
         },
         "noLabel": {
           "en": "Article 19."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0115'] = {
+    "lawId": "CN-REG-0115",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 55 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in order to strengthen the administration of radio and television, develop radio and television undertakings, and promote the building of socialist spiritual civilisation and material civilisation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Regulations shall apply to activities such as the establishment of radio stations and television stations and the gathering, editing, production, broadcasting and transmission of radio and television programmes within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Radio and television undertakings shall adhere to the orientation of serving the people and serving socialism, and shall adhere to the correct orientation of public opinion."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The State shall develop radio and television undertakings. People's governments at or above the county level shall incorporate radio and television undertakings into the plans for national economic and social development and shall, in light of needs and financial capacity, gradually increase input so as to raise the coverage rate of radio and television.\nThe State shall support the development of radio and television undertakings in rural areas.\nThe State shall assist ethnic autonomous areas and remote and poverty-stricken areas in developing radio and television undertakings."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The administrative department of radio and television under the State Council shall be responsible for the administration of radio and television throughout the country.\nThe departments or institutions of local people's governments at or above the county level responsible for the administrative work of radio and television (hereinafter collectively referred to as the administrative department of radio and television) shall be responsible for the administration of radio and television within their respective administrative areas."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "National social organisations in the radio and television industry shall practise self-regulation in accordance with their articles of association and shall carry out activities under the guidance of the administrative department of radio and television under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State shall give awards to units and individuals that have made outstanding contributions to the development of radio and television undertakings."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The administrative department of radio and television under the State Council shall be responsible for formulating the plan for the establishment of radio stations and television stations throughout the country and for determining the total number, layout and structure of radio stations and television stations.\nRadio stations and television stations referred to in these Regulations mean institutions that gather, edit and produce radio and television programmes and broadcast them by wire or wireless means."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The establishment of a radio station or television station shall be subject to the following conditions:\n(a) having radio and television professionals conforming to the provisions of the State;\n(b) having radio and television technical equipment conforming to the provisions of the State;\n(c) having the necessary capital construction funds and a stable guarantee of funds;\n(d) having the necessary premises.\nThe examination and approval of the establishment of a radio station or television station shall, apart from complying with the conditions listed in the preceding paragraph, also conform to the construction plan and the technical development plan for radio and television of the State."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Radio stations and television stations shall be established by the administrative departments of radio and television of the people's governments at or above the level of a county or a city without districts, and educational television stations may be established by the administrative departments of education of the people's governments at or above the level of a city with districts or an autonomous prefecture. No other unit or individual may establish a radio station or television station.\nThe State prohibits the establishment of radio stations and television stations with foreign investment."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The central radio stations and television stations shall be established by the administrative department of radio and television under the State Council. Where a locality establishes a radio station or television station, an application shall be submitted by the administrative department of radio and television of the local people's government at or above the level of a county or a city without districts, and after examination and consent by the people's government at the same level, the application shall be reported level by level, and preparation for construction may commence only after examination and approval by the administrative department of radio and television under the State Council.\nThe central educational television station shall be established by the administrative department of education under the State Council and reported to the administrative department of radio and television under the State Council for examination and approval. Where a locality establishes an educational television station, an application shall be submitted by the administrative department of education of the local people's government at or above the level of a city with districts or an autonomous prefecture, and after the consent of the administrative department of radio and television at the same level and examination and consent by the people's government at the same level, the application shall be reported level by level, and preparation for construction may commence only after examination by the administrative department of education under the State Council and examination and approval by the administrative department of radio and television under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "A radio station or television station approved for preparation for construction shall carry out the construction project in accordance with the construction procedures prescribed by the State and the technical standards for radio and television.\nWhere a completed radio station or television station meets the conditions upon examination by the administrative department of radio and television under the State Council, it shall be issued a licence for radio stations and television stations. Radio stations and television stations shall produce and broadcast programmes in accordance with such matters stated in the licence as the station name, station logo, scope of programme provision and number of programme channels."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a radio station or television station established by the administrative department of radio and television of a people's government at or above the level of a city with districts or an autonomous prefecture, or a television station established by the administrative department of education of a people's government at or above the level of a city with districts or an autonomous prefecture, changes its station name, scope of programme provision or number of programme channels, or where a radio station or television station established by the administrative department of radio and television of a people's government at or above the provincial level, or a television station established by the administrative department of education of a people's government at or above the provincial level, changes its station logo, the change shall be subject to the approval of the administrative department of radio and television under the State Council. Where a radio station or television station established by the administrative department of radio and television of a people's government at the county level or of a city without districts changes its station name, scope of programme provision or number of programme channels, the change shall be subject to the approval of the administrative department of radio and television of the provincial people's government.\nRadio stations and television stations shall not lease or transfer airtime."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a radio station or television station terminates, it shall report in accordance with the original procedure of examination and approval, and its licence shall be withdrawn by the administrative department of radio and television under the State Council.\nWhere a radio station or television station needs to suspend broadcasting temporarily for special reasons, it shall obtain the consent of the administrative department of radio and television of a people's government at or above the provincial level; where it ceases broadcasting continuously for more than 30 days without approval, it shall be deemed to have terminated, and the relevant formalities shall be completed in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a township or town establishes a radio and television station, the administrative department of radio and television of the people's government at or above the county level in the place where it is located shall be responsible for examination and shall examine and approve it in accordance with the relevant provisions of the administrative department of radio and television under the State Council.\nWhere a State organ, the armed forces, a social organisation or an enterprise or public institution establishes a wired radio and television station, it shall be examined and approved in accordance with the relevant provisions of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "No unit or individual shall storm a radio station or television station, damage the facilities of a radio station or television station, or endanger its safe broadcasting."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Radio and Television Stations"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The administrative department of radio and television under the State Council shall exercise unified planning over the national radio and television transmission and coverage network in accordance with the unified standards of the State, and shall carry out construction and development by levels. The administrative departments of radio and television of local people's governments at or above the county level shall, in accordance with the relevant provisions of the State, form and administer the radio and television transmission and coverage network within their respective administrative areas.\nThe formation of a radio and television transmission and coverage network, including making full use of the existing public telecommunications and other network resources of the State, shall ensure the transmission quality and smooth flow of radio and television programmes.\nThe radio and television transmission and coverage network referred to in these Regulations consists of radio and television transmitting stations, relay stations (including transposer stations and receiving and relay stations, the same below), radio and television satellites, satellite uplink stations, satellite receiving and relay stations, microwave stations, monitoring stations and wired radio and television transmission and coverage networks."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The administrative department of radio and television under the State Council shall be responsible for assigning frequencies in the frequency bands specially used for radio and television and for issuing certificates of special frequency assignment."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The establishment of a radio and television transmitting station, relay station, microwave station or satellite uplink station shall, in accordance with the relevant provisions of the State, be subject to the formalities of examination and approval with the radio management institution of the State or of the province, autonomous region or municipality directly under the Central Government upon presentation of the certificate of special frequency assignment issued by the administrative department of radio and television under the State Council, and a radio station licence shall be obtained."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Radio and television transmitting stations and relay stations shall transmit and relay radio and television programmes in accordance with the relevant provisions of the administrative department of radio and television under the State Council.\nThe frequencies and frequency bands approved for use by radio and television transmitting stations and relay stations shall not be leased or transferred, and the technical parameters already approved shall not be altered without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Radio and television transmitting stations and relay stations shall not broadcast their own programmes or insert advertisements without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The siting, design, construction and installation of projects of the radio and television transmission and coverage network shall be carried out in accordance with the relevant provisions of the State and shall be undertaken by units that have obtained the corresponding qualification certificates in accordance with the law.\nThe construction of projects of the radio and television transmission and coverage network and the radio and television technical equipment used shall conform to national standards and industry standards. After the completion of a project, the administrative department of radio and television shall organise acceptance inspection, and the project may be put into use only after passing the acceptance inspection."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A regional wired radio and television transmission and coverage network shall be established and administered by the administrative department of radio and television of a local people's government at or above the county level.\nThe plan and construction scheme of a regional wired radio and television transmission and coverage network shall be implemented after approval by the administrative department of radio and television of the people's government of the province, autonomous region or municipality directly under the Central Government upon submission by the administrative department of radio and television of the county-level people's government or of the people's government of a city with districts or an autonomous prefecture, or shall be implemented after approval by the administrative department of radio and television under the State Council upon submission by the administrative department of radio and television of the people's government of the province, autonomous region or municipality directly under the Central Government.\nOnly one regional wired radio and television transmission and coverage network may be established in the same administrative area. Wired television stations shall, in accordance with the plan, be connected to the regional wired television transmission and coverage network."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Without approval, no unit or individual shall use a wired radio and television transmission and coverage network to broadcast programmes without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The administration and use of satellite space segment resources for the transmission of radio and television programmes shall conform to the relevant provisions of the State.\nWhere a radio station or television station transmits radio and television programmes by satellite, it shall meet the conditions prescribed by the State and shall obtain the examination and approval of the administrative department of radio and television under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The installation and use of satellite radio and television ground receiving facilities shall be subject to an application to the administrative department of radio and television of the people's government of the province, autonomous region or municipality directly under the Central Government for a licence in accordance with the relevant provisions of the State. The import of decoders, decompressors and other satellite radio and television ground receiving facilities for overseas satellite radio and television programmes shall be subject to the examination and consent of the administrative department of radio and television under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "It is prohibited for any unit or individual to seize, plunder or otherwise destroy the facilities of the radio and television transmission and coverage network."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "No unit or individual shall seize or interfere with frequencies specially used for radio and television, or intercept, interfere with or descramble radio and television signals without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The administrative departments of radio and television of people's governments at or above the county level shall, by such various means as satellite transmission, wireless relay, wired broadcasting and wired television, raise the coverage rate of radio and television in rural areas."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Radio and Television Transmission and Coverage Networks"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Radio stations and television stations shall provide programmes in accordance with the scope of programme provision approved by the administrative department of radio and television under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Radio and television programmes shall be produced by radio stations and television stations and by radio and television programme production and operating units established with the approval of the administrative department of radio and television of a people's government at or above the provincial level. Radio stations and television stations shall not broadcast radio and television programmes produced by units that have not obtained a licence for radio and television programme production and operation."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Radio stations and television stations shall improve the quality of radio and television programmes and increase the number of outstanding domestic programmes, and are prohibited from producing or broadcasting programmes containing the following contents:\n(a) contents that endanger the unity, sovereignty or territorial integrity of the State;\n(b) contents that endanger the security, honour or interests of the State;\n(c) contents that incite ethnic separatism or undermine ethnic unity;\n(d) contents that divulge State secrets;\n(e) contents that slander or insult others;\n(f) contents that promote obscenity or superstition or dwell on violence;\n(g) other contents prohibited by laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Radio stations and television stations shall, in accordance with the provisions of Article 32 of these Regulations, conduct pre-broadcast examination of the contents of the radio and television programmes they broadcast, and shall re-examine programmes before rebroadcasting."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Radio and television news shall be truthful and impartial."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "The measures for the administration of the production and broadcasting of television dramas shall be prescribed by the administrative department of radio and television under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Radio stations and television stations shall use standard spoken and written Chinese.\nRadio stations and television stations shall promote the use of Putonghua, which is in common use throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Local radio stations, television stations and radio and television stations shall relay radio and television programmes in accordance with the relevant provisions of the administrative department of radio and television under the State Council.\nRadio and television stations established by townships or towns shall not provide their own television programmes."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Radio stations and television stations shall broadcast radio and television programmes in accordance with the programme schedules; where it is truly necessary to replace or adjust a programme originally announced in the schedule, the public shall be notified in advance."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Overseas films and television dramas for broadcasting by radio stations and television stations must be subject to the examination and approval of the administrative department of radio and television under the State Council. Other overseas radio and television programmes for broadcasting by radio stations and television stations must be subject to the examination and approval of the administrative department of radio and television under the State Council or of an institution authorised by it.\nRadio and television programmes provided abroad shall be filed with the administrative department of radio and television of a people's government at or above the provincial level in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The proportion of the broadcasting time of overseas radio and television programmes to the total broadcasting time of radio and television programmes of radio stations and television stations shall be prescribed by the administrative department of radio and television under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a radio station or television station imports or relays overseas radio and television programmes by satellite or other transmission means, it must obtain the approval of the administrative department of radio and television under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The broadcasting of advertisements by radio stations and television stations shall not exceed the time prescribed by the administrative department of radio and television under the State Council.\nRadio stations and television stations shall broadcast public welfare advertisements."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The administrative department of radio and television under the State Council may, in special circumstances, decide to stop the broadcasting of a programme, to replace a particular programme or to designate a particular programme for relay."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Educational television stations shall broadcast various educational and teaching programmes in accordance with the relevant provisions of the State and shall not broadcast films or television programmes unrelated to the teaching contents."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "The holding of international radio and television programme exchange and trading activities shall be subject to the approval of the administrative department of radio and television under the State Council and shall be undertaken by a designated unit. The holding of domestic regional radio and television programme exchange and trading activities shall be subject to the approval of the administrative department of radio and television of the people's government of the province, autonomous region or municipality directly under the Central Government of the place where the activity is held and shall be undertaken by a designated unit."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The broadcasting and use of radio and television programmes in which copyright subsists shall be governed by the provisions of the Copyright Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Radio and Television Programmes"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a radio station, television station, educational television station, wired radio and television transmission and coverage network or radio and television station is established without authorisation, the administrative department of radio and television of a people's government at or above the county level shall ban it, confiscate the equipment used in the illegal activities and impose a fine of not less than one time but not more than two times the total investment.\nWhere a radio and television transmitting station, relay station, microwave station or satellite uplink station is established without authorisation, the administrative department of radio and television of a people's government at or above the county level shall ban it, confiscate the equipment used in the illegal activities and impose a fine of not less than one time but not more than two times the total investment; or the radio management institution shall impose a penalty in accordance with the relevant provisions of the State on radio management."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Penalty Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a radio and television programme production and operating unit is established without authorisation or radio and television programmes are produced without authorisation, the administrative department of radio and television of a people's government at or above the county level shall ban it, confiscate the special tools, equipment and programme media used in the illegal activities, and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Penalty Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, a programme containing the contents prohibited by Article 32 of these Regulations is produced, broadcast or provided abroad, the administrative department of radio and television of a people's government at or above the county level shall order the cessation of the production, broadcasting or provision abroad, seize the programme media and impose a fine of not less than 10,000 yuan but not more than 50,000 yuan; where the circumstances are serious, the organ that originally approved it shall revoke the licence; where the provisions on public security administration are violated, the public security organ shall impose a penalty for public security administration in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Penalty Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following acts is committed, the administrative department of radio and television of a people's government at or above the county level shall order the cessation of the illegal activities, give a warning, confiscate the illegal gains and may concurrently impose a fine of not more than 20,000 yuan; where the circumstances are serious, the organ that originally approved it shall revoke the licence:\n(a) changing the station name, station logo, scope of programme provision or number of programme channels without approval;\n(b) leasing or transferring airtime;\n(c) relaying or broadcasting radio and television programmes in violation of the provisions;\n(d) exceeding the prescribed time for broadcasting overseas radio and television programmes or advertisements;\n(e) broadcasting radio and television programmes produced by units that have not obtained a licence for radio and television programme production and operation;\n(f) broadcasting overseas films, television dramas and other radio and television programmes without approval;\n(g) an educational television station broadcasting the programmes prohibited from broadcasting by Article 44 of these Regulations;\n(h) holding radio and television programme exchange or trading activities without approval."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Penalty Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, any of the following acts is committed, the administrative department of radio and television of a people's government at or above the county level shall order the cessation of the illegal activities, give a warning, confiscate the illegal gains and the special tools and equipment used in the illegal activities and may concurrently impose a fine of not more than 20,000 yuan; where the circumstances are serious, the organ that originally approved it shall revoke the licence:\n(a) leasing or transferring frequencies or frequency bands, or altering the technical parameters of a radio and television transmitting station or relay station without authorisation;\n(b) a radio and television transmitting station or relay station broadcasting its own programmes or inserting advertisements without authorisation;\n(c) transmitting radio and television programmes by satellite without approval;\n(d) importing or relaying overseas radio and television programmes by satellite or other transmission means without approval;\n(e) using a wired radio and television transmission and coverage network to broadcast programmes without approval;\n(f) carrying out the siting, design, construction or installation of projects of the radio and television transmission and coverage network without approval;\n(g) seizing or interfering with frequencies specially used for radio and television, or intercepting, interfering with or descrambling radio and television signals without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Penalty Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where, in violation of the provisions of these Regulations, the safe broadcasting of a radio station or television station is endangered or radio and television facilities are destroyed, the administrative department of radio and television of a people's government at or above the county level shall order the cessation of the illegal activities; where the circumstances are serious, a fine of not less than 20,000 yuan but not more than 50,000 yuan shall be imposed; where damage is caused, the infringer shall compensate for the losses in accordance with the law; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Penalty Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the administrative department of radio and television or its staff, in the course of radio and television administration, abuse their power, neglect their duties or engage in malpractice for personal gain and a crime is constituted, criminal responsibility shall be pursued in accordance with the law; where a crime is not constituted, administrative sanctions shall be given in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Penalty Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Radio stations, television stations, educational television stations, radio and television transmitting stations, relay stations and radio and television programme production and operating units already established before the entry into force of these Regulations shall, within six months from the date of entry into force of these Regulations, complete anew the formalities of examination in accordance with the provisions of these Regulations; those not conforming to the provisions of these Regulations shall be dissolved; an existing county-level educational television station may be merged with the county-level television station to provide educational programme channels."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 September 1997."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
         }
       }
     ]
@@ -3738,6 +5397,666 @@
         },
         "chapter": {
           "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0122'] = {
+    "lawId": "CN-REG-0122",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 55 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to strengthen the development of national defence transportation and ensure the smooth flow of national defence transportation in wartime and under special circumstances, these Regulations are formulated."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Anyone engaging in national defence transportation activities within the territory of the People's Republic of China must comply with these Regulations.\nFor the purposes of these Regulations, national defence transportation means the transportation systems of railways, roads, waterways, aviation, pipelines and postal and telecommunications communications that serve the development of national defence."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The work of national defence transportation shall follow the principles of unified leadership, responsibility at different levels, comprehensive planning and the integration of peacetime and wartime."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The people's governments and military organs at all levels shall attach importance to the development of national defence transportation and provide the necessary conditions for the work of national defence transportation.\nThe competent departments of transportation of the people's governments at or above the county level and the relevant transportation enterprises and institutions shall carry out the work of national defence transportation properly."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The people's governments at all levels, the competent departments of transportation and the military organs shall give awards to the entities and individuals that have made major contributions to the development of national defence transportation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Under the leadership of the State Council and the Central Military Commission, the State competent authority for national defence transportation shall be responsible for the work of national defence transportation throughout the country and shall perform the following duties:\n(a) drafting the guidelines and policies for the work of national defence transportation and drafting the relevant laws and administrative regulations;\n(b) planning the layout of the national defence transportation network nationwide and putting forward proposals on national defence requirements for national transportation development;\n(c) drafting the national national defence transportation support plan and organising transportation support for major military operations and other urgent tasks;\n(d) organising scientific and technological research on national defence transportation nationwide;\n(e) guiding and inspecting the work of national defence transportation and coordinating relations among the relevant parties;\n(f) other duties assigned by the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The competent authorities for national defence transportation of the military area commands and the local competent authorities for national defence transportation at or above the county level shall be responsible for the work of national defence transportation in their respective regions and shall perform the following duties:\n(a) implementing the guidelines, policies, laws, regulations and rules of the State on the work of national defence transportation, and drafting the provisions of their respective regions on the work of national defence transportation;\n(b) planning the layout of the national defence transportation network in their respective regions, putting forward proposals on national defence requirements for transportation development in their respective regions, and participating in the survey, the appraisal (review) of designs and the completion acceptance of the relevant transportation engineering facilities;\n(c) drafting the national defence transportation support plan of their respective regions, organising national defence transportation support teams, and organising transportation support for military operations and other urgent tasks within their respective regions;\n(d) being responsible for the mobilisation and requisition of transport capacity for national defence in their respective regions;\n(e) formulating and implementing the plan for reserves of national defence transportation materials in their respective regions and allocating national defence transportation materials in accordance with the relevant provisions of the State;\n(f) organising scientific and technological research on national defence transportation in their respective regions and the dissemination and application of its results;\n(g) guiding, inspecting and supervising the work of national defence transportation in their respective regions and coordinating and handling the relevant problems;\n(h) other duties assigned by the competent authority for national defence transportation at the next higher level and by the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The competent departments of transportation of the State Council shall be responsible for the work of national defence transportation in their respective systems and shall perform the following duties:\n(a) implementing the guidelines, policies, laws, regulations and rules of the State on the work of national defence transportation;\n(b) formulating and organising the implementation of the plans for the development of national defence transportation and the technical norms of their respective systems;\n(c) formulating the national defence transportation support plans of their respective systems and guiding the development of the specialised national defence transportation support teams;\n(d) managing and using the national defence transportation assets of their respective systems in accordance with the relevant provisions of the State;\n(e) organising scientific and technological research on national defence transportation in their respective systems and the dissemination and application of its results;\n(f) guiding, inspecting and supervising the work of national defence transportation in their respective systems and coordinating and handling the relevant problems."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Transportation enterprises and institutions that undertake national defence transportation tasks shall perform the following duties in the work of national defence transportation:\n(a) implementing the guidelines, policies, laws, regulations and rules of the State on the work of national defence transportation;\n(b) participating in the survey, the appraisal (review) of designs and the completion acceptance of the relevant national defence transportation engineering facilities;\n(c) formulating the national defence transportation support plan of the entity and completing the national defence transportation support tasks;\n(d) managing and using the national defence transportation assets of the entity in accordance with the relevant provisions of the State;\n(e) being responsible for the organisation, training and management of the specialised national defence transportation support teams of the entity."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Under special circumstances, the provincial competent authority for national defence transportation may request the people's government of the relevant province, autonomous region or municipality directly under the Central Government to decide that the public security organs and the harbour superintendency agencies shall, within the scope of their respective duties, exercise traffic control over roads and waterways in local areas."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Administrative Bodies and Their Duties"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "For the purposes of these Regulations, the national defence transportation support plan (hereinafter referred to as the support plan) means the pre-arranged scheme for ensuring the smooth flow of national defence transportation in wartime and under special circumstances, which mainly includes the guidelines and tasks of national defence transportation support and the technical and organisational measures for the various items of national defence transportation support work.\nThe support plans are divided into the national support plan, the military area command support plan, the regional support plan and the specialised support plan."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Support Plans"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The national support plan shall be drafted by the State competent authority for national defence transportation by organising the relevant departments of the State Council and the relevant military organs, and shall be submitted to the State Council and the Central Military Commission for approval."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Support Plans"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The military area command support plan shall be drafted by the competent authority for national defence transportation of the military area command by organising the relevant departments of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government in its region and the relevant military organs, and shall, after soliciting the opinions of the State competent authority for national defence transportation, be submitted to the military area command for approval."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Support Plans"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The regional support plan shall be drafted by the local competent authority for national defence transportation at or above the county level by organising the relevant departments of the people's government at the same level and the relevant military organs, and shall, after soliciting the opinions of the competent authority for national defence transportation at the next higher level, be submitted to the people's government at the same level for approval."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Support Plans"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The specialised support plans shall be formulated separately by the competent departments of transportation of the State Council within the scope of their respective duties and shall, after soliciting the opinions of the other relevant departments of the State Council, be submitted to the State competent authority for national defence transportation for consent."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Support Plans"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "For the purposes of these Regulations, national defence transportation engineering facilities mean the following buildings and equipment constructed to ensure the smooth flow of national defence transportation in wartime and under special circumstances:\n(a) transportation infrastructure built by the State mainly to serve the development of national defence;\n(b) dedicated works and facilities for command, repair, storage and protection;\n(c) dedicated vehicles, vessels and aircraft;\n(d) other transportation engineering facilities required for national defence."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The construction of national defence transportation engineering facilities shall also take into account the needs of economic development.\nThe construction of other transportation engineering facilities or the development of important means of transport shall also take into account the needs of national defence development."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The plans for the development of national defence transportation drafted by the competent authorities for national defence transportation shall be submitted to the planning departments and the competent departments of transportation of the people's government at the same level for comprehensive balancing.\nWhen formulating plans for transportation development, the planning departments and the competent departments of transportation of the people's governments at or above the county level shall solicit the opinions of the competent authority for national defence transportation at the same level and shall include the confirmed construction projects of national defence transportation engineering facilities and the construction projects that need to implement national defence requirements in the plans for transportation development."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Construction projects in the plans for transportation development that involve the implementation of national defence requirements must be constructed in accordance with those requirements."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The appraisal (review) of designs and the completion acceptance of construction projects of national defence transportation engineering facilities and of the relevant construction projects that implement national defence requirements shall be subject to the consent of the relevant competent authority for national defence transportation."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The entities managing national defence transportation engineering facilities must strengthen the maintenance and management of those facilities.\nChanging the use of a national defence transportation engineering facility or scrapping it must be subject to the approval of the competent authority for national defence transportation at the next higher level to the managing entity."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State applies preferential policies to the construction of national defence transportation engineering facilities. The specific measures shall be formulated by the State competent authority for national defence transportation together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The land administration departments and the competent departments of urban planning shall treat the approved land on which important national defence transportation engineering facilities are scheduled for emergency construction as land controlled for national defence transportation and incorporate it into the overall plan for land use and the urban plan.\nWithout the approval of the land administration department, the competent department of urban planning and the competent authority for national defence transportation, no entity or individual may occupy land controlled for national defence transportation."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "No entity or individual may, in carrying out production or other activities, affect the normal use of national defence transportation engineering facilities or endanger the safety of those facilities."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Engineering Facilities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "For the purposes of these Regulations, national defence transportation support teams mean the organisations that carry out tasks in wartime and under special circumstances such as emergency repair, emergency construction, protection of national defence transportation engineering facilities, emergency transport of national defence transportation materials and communications support.\nNational defence transportation support teams are divided into specialised support teams and support teams along transport lines."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Support Teams"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Specialised support teams shall be formed by the competent departments of transportation on the basis of the transportation production units of their respective systems; when carrying out transportation support tasks, they shall be deployed in a unified manner by the competent authority for national defence transportation.\nSupport teams along transport lines shall be organised by the local people's governments and the relevant military organs."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Support Teams"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The competent departments of transportation shall be responsible for the training of the specialised support teams and shall keep the personnel of the specialised support teams stable in wartime.\nThe relevant military organs shall be responsible for organising the professional training of the support teams along transport lines; the competent authorities for national defence transportation shall be responsible for providing teaching materials and equipment and for professional guidance."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Support Teams"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The people's governments at or above the county level and the relevant departments shall give the necessary support to the specialised support teams."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Support Teams"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The vehicles, vessels and other mobile equipment of the transportation support teams shall, in accordance with the provisions of the State competent authority for national defence transportation, bear unified signs and may have priority of passage in wartime and under special circumstances."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Support Teams"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "For the purposes of these Regulations, mobilisation of transport capacity means the activity in which, in wartime, the State issues a mobilisation order and organises and calls up in a unified manner the means of transport and equipment and the operating personnel owned by any entity or individual.\nFor the purposes of these Regulations, requisition of transport capacity means the activity in which, under special circumstances, the people's government of a province, autonomous region or municipality directly under the Central Government takes administrative measures in accordance with law to call up the means of transport and equipment and the operating personnel owned by entities and individuals."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VI Mobilisation and Requisition of Transport Capacity"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The competent departments of transportation and other relevant departments of the people's governments at or above the county level shall provide the competent authorities for national defence transportation with the relevant data on the registration of transport capacity."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Mobilisation and Requisition of Transport Capacity"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where the armed forces need to use mobilised transport capacity in wartime, they shall submit an application to the competent authority for national defence transportation of the military area command where they are located. Where the Armed Police Force, militia organisations and other entities need to use mobilised transport capacity, they shall submit an application to the local competent authority for national defence transportation."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Mobilisation and Requisition of Transport Capacity"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The mobilisation of transport capacity under the competent departments of transportation of the State Council shall be subject to the approval of the State Council and the Central Military Commission. The mobilisation of transport capacity under the local competent departments of transportation or of social transport capacity shall be subject to the approval of the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Mobilisation and Requisition of Transport Capacity"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Under special circumstances, where the armed forces or other entities need to use requisitioned transport capacity, they shall submit an application to the local competent authority for national defence transportation, and the matter shall be approved by the people's government of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Mobilisation and Requisition of Transport Capacity"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Entities and individuals whose transport capacity is mobilised or requisitioned must perform their obligations in accordance with law, ensure that the mobilised or requisitioned means of transport and equipment are in good technical condition, and ensure that the operating personnel accompanying them have the corresponding skills."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Mobilisation and Requisition of Transport Capacity"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where major modification of mobilised or requisitioned means of transport or equipment is required, it must be subject to the approval of the corresponding competent authority for national defence transportation."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Mobilisation and Requisition of Transport Capacity"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "The pensions and preferential treatment for the operating personnel of mobilised and requisitioned transport capacity shall be carried out in accordance with the relevant provisions of the State; the measures for compensating the means of transport and equipment shall be prescribed separately."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Mobilisation and Requisition of Transport Capacity"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The competent departments of transportation and the transportation enterprises shall give priority to arranging military transportation plans and shall focus on ensuring urgent and important military transportation. The transportation of military personnel, equipment and other military materials shall be rapid, accurate, safe and confidential."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Military Transportation"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The local people's governments at all levels and the carriers that meet the conditions shall provide convenience in respect of food, accommodation and medical care to the personnel implementing military transportation."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Military Transportation"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The armed forces may station military representatives with railway, waterway, aviation and other transportation entities or in the areas where they are located, and shall, together with the relevant entities, complete military transportation and transportation support tasks."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Military Transportation"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The State establishes a system of reserves of national defence transportation materials so as to ensure the needs of smooth national defence transportation in wartime and under special circumstances."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VIII Material Reserves"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The reserves of national defence transportation materials are divided into State reserves, departmental reserves and local reserves, which shall be included in the material reserve plans of the people's governments at or above the county level and of the relevant departments respectively."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VIII Material Reserves"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The entities responsible for reserving national defence transportation materials must strengthen the maintenance and management of the materials reserved and shall not damage or lose them."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VIII Material Reserves"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Without the approval of the competent authority for national defence transportation, no entity or individual may use the reserved national defence transportation materials.\nWhere reserved national defence transportation materials are used with approval, the expenses shall be paid in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VIII Material Reserves"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Transportation support materials purchased with war expenses, expenses for supporting the front and military expenses and managed by the local people's governments or the competent departments of transportation shall be included in the reserves of national defence transportation materials."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VIII Material Reserves"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "The competent departments of transportation and the transportation enterprises and institutions shall conduct national defence transportation education among the personnel of their respective systems and entities.\nTransportation institutions of higher learning and postal and telecommunications institutions of higher learning shall include content on national defence transportation in the relevant courses."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IX Education and Scientific Research"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "The competent departments of transportation and the relevant scientific research institutions shall strengthen scientific and technological research on national defence transportation. Projects of scientific and technological research on national defence transportation shall be included in the plans for scientific and technological research at all levels."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IX Education and Scientific Research"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the relevant provisions of these Regulations are violated and any of the following acts is committed, an administrative sanction shall be given in accordance with law to the persons in charge who bear direct responsibility and to the other directly responsible persons; where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) failing to implement national defence requirements in the course of construction of transportation engineering facilities that ought to implement such requirements;\n(b) mismanaging national defence transportation engineering facilities and causing losses, or changing the use of such facilities or scrapping them without authorisation;\n(c) mismanaging the reserved national defence transportation materials and causing losses;\n(d) using the reserved national defence transportation materials without approval."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter X Penalty Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where the safety of national defence transportation engineering facilities is endangered or land controlled for national defence transportation is encroached upon, the competent authority for national defence transportation shall order the illegal act to be stopped and give a warning, and may also impose a fine of not more than RMB 50,000; where economic losses are caused, compensation shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter X Penalty Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a person evades or resists the mobilisation or requisition of transport capacity, the competent authority for national defence transportation shall give a warning and may also impose a fine of not more than twice the value of the means of transport or equipment mobilised or requisitioned."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter X Penalty Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where any of the following acts is committed, a penalty shall be imposed in accordance with the relevant provisions of the Law of the People's Republic of China on Penalties for Administration of Public Security; where a crime is constituted, criminal responsibility shall be investigated in accordance with law:\n(a) disrupting or obstructing military transportation and national defence transportation support;\n(b) disrupting or obstructing the construction of national defence transportation engineering facilities;\n(c) damaging national defence transportation engineering facilities;\n(d) stealing or looting national defence transportation materials."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter X Penalty Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where a staff member of a competent authority for national defence transportation abuses power or neglects duty, an administrative sanction shall be given in accordance with law; where a crime is constituted, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter X Penalty Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "The following terms used in these Regulations have the following meanings:\n(a) special circumstances mean a local war, an armed conflict or other emergency;\n(b) competent departments of transportation mean the industry administration departments in charge of railways, roads, waterways, aviation and postal and telecommunications communications."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "The expenses for national defence transportation shall be borne jointly by the Central Government, the local governments, the departments and the enterprises. The specific measures shall be formulated by the State competent authority for national defence transportation together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "These Regulations shall enter into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
         }
       }
     ]
@@ -12501,6 +14820,627 @@
         },
         "noLabel": {
           "en": "Article 18."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0169'] = {
+    "lawId": "CN-REG-0169",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to regulate the imposition of sanctions on managers of State-owned enterprises and strengthen supervision over managers of State-owned enterprises, these Regulations are formulated in accordance with the Law of the People's Republic of China on Governmental Sanctions for Public Officials (hereinafter referred to as the Law on Governmental Sanctions for Public Officials) and other laws."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of these Regulations, managers of State-owned enterprises mean the following public officials in enterprises funded by the State:\n(a) persons performing duties of organisation, leadership, management and supervision in wholly State-owned and wholly State-funded companies and enterprises;\n(b) persons who, through nomination, recommendation, appointment or approval by a Party organisation or a State organ, by a wholly State-owned or wholly State-funded company or enterprise, or by a public institution, perform duties of organisation, leadership, management and supervision in State-holding or State-participating companies and their branches;\n(c) persons who, with the approval or upon the study and decision of an organisation in an enterprise funded by the State that is responsible for the management and supervision of State-owned assets, are engaged on its behalf in organisation, leadership, management and supervision in State-holding or State-participating companies and their branches.\nWhere the organ or entity responsible for the appointment and removal of managers of State-owned enterprises (hereinafter referred to as the appointing and removing organ or entity) imposes sanctions on managers of State-owned enterprises who have violated the law, the provisions of Chapter II and Chapter III of the Law on Governmental Sanctions for Public Officials and of these Regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The work of imposing sanctions on managers of State-owned enterprises shall uphold the leadership of the Communist Party of China and the principle that the Party manages cadres, strengthen the ranks of managers of State-owned enterprises and promote the high-quality development of State-owned enterprises."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The appointing and removing organs and entities shall strengthen the education, management and supervision of managers of State-owned enterprises. In imposing sanctions on managers of State-owned enterprises, they shall uphold fairness and justice and decide through collective discussion; uphold the combination of leniency and severity and the combination of punishment with education; and uphold the principle of the rule of law, take facts as the basis and the law as the criterion, and safeguard in accordance with law the lawful rights and interests of managers of State-owned enterprises and of the persons concerned."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The institution performing the duties of a capital contributor or the department with the authority to manage cadres shall, in accordance with laws, regulations and the relevant provisions of the State, guide State-owned enterprises in integrating and optimising supervision resources, promote the linkage of supervision by capital contributors with discipline inspection and supervision, inspection tours, audit supervision, fiscal and accounting supervision and public supervision, improve a coordinated and efficient supervision mechanism, establish an internal supervision and management system in which the parties cooperate with and restrain each other, and enhance the systematicness, pertinence and effectiveness of supervision over State-owned enterprises and their managers."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In imposing a sanction on a manager of a State-owned enterprise, the facts shall be clear, the evidence conclusive, the characterisation accurate, the handling appropriate, the procedure lawful and the formalities complete, and the sanction shall be commensurate with the nature, circumstances and degree of harm of the illegal act."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The types of sanctions are:\n(a) warning;\n(b) demerit;\n(c) major demerit;\n(d) demotion;\n(e) removal from post;\n(f) dismissal."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The periods of sanctions are:\n(a) warning, six months;\n(b) demerit, 12 months;\n(c) major demerit, 18 months;\n(d) demotion or removal from post, 24 months.\nA sanction decision shall take effect on the date it is made, and the sanction period shall be calculated from the date on which the sanction decision takes effect."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits two or more illegal acts for which sanctions are required at the same time, the sanctions shall be determined separately. Where the types of sanctions that ought to be imposed are different, the heaviest sanction shall be executed; where sanctions of the same type below removal from post ought to be imposed on several occasions, the sanction period may be determined at not less than one sanction period but not more than the sum of the several sanction periods, except that it shall not exceed 48 months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a State-owned enterprise commits an illegal act, or a decision collectively made by the managers of a State-owned enterprise is illegal, and legal liability ought to be investigated, sanctions shall be imposed on the managers of the State-owned enterprise among the leading personnel who bear responsibility and the directly responsible persons.\nWhere two or more managers of a State-owned enterprise jointly commit an illegal act and sanctions need to be imposed, corresponding sanctions shall be imposed separately in accordance with the responsibility that each ought to bear."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise is in any of the following circumstances, a lighter or mitigated sanction may be imposed:\n(a) voluntarily confessing the illegal act for which he or she ought to be sanctioned;\n(b) cooperating with the investigation and truthfully explaining the facts of his or her illegal act;\n(c) reporting the illegal acts of others, which are verified to be true;\n(d) voluntarily taking measures that effectively avoid or recover losses or eliminate adverse effects;\n(e) playing a secondary or auxiliary role in a joint illegal act;\n(f) voluntarily handing over or refunding and compensating the illegal gains;\n(g) mistakes and errors arising from lack of experience and pioneering experimentation in advancing the reform of State-owned enterprises;\n(h) other circumstances for a lighter or mitigated sanction provided by laws and regulations.\nImposing a lighter sanction means imposing a relatively light sanction within the range of sanctions that ought to be imposed for the illegal act as provided in these Regulations.\nImposing a mitigated sanction means imposing a sanction reduced by one grade below the range of sanctions that ought to be imposed for the illegal act as provided in these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where the illegal act of a manager of a State-owned enterprise is minor and any of the circumstances provided in paragraph 1 of Article 11 of these Regulations is present, the manager may be given a talking-to and reminder, criticism and education, be ordered to conduct self-examination or be admonished, and may be exempted from or not given a sanction.\nWhere a manager of a State-owned enterprise was drawn into or coerced into participating in illegal activities without knowing the truth and has genuinely shown repentance after criticism and education, a mitigated sanction may be imposed, or he or she may be exempted from or not given a sanction."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise is in any of the following circumstances, a heavier sanction shall be imposed:\n(a) deliberately committing an illegal act again during the sanction period, for which a sanction ought to be imposed;\n(b) preventing others from reporting or providing evidence;\n(c) colluding to make matching statements, or forging, concealing or destroying evidence;\n(d) shielding persons involved in the same case;\n(e) coercing or instigating others to commit illegal acts;\n(f) refusing to hand over or refund and compensate the illegal gains;\n(g) other circumstances for a heavier sanction provided by laws and regulations.\nImposing a heavier sanction means imposing a relatively heavy sanction within the range of sanctions that ought to be imposed for the illegal act as provided in these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "During the sanction period, a manager of a State-owned enterprise shall not be promoted in post, post grade or professional title; where the manager has been given a demerit, a major demerit, a demotion or removal from post, he or she shall not be promoted in salary and treatment grade. Where the manager is removed from post, his or her post or post grade shall be lowered and his or her salary and treatment shall be lowered at the same time. Where the manager is dismissed, the employing entity shall terminate the labour contract in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The property and funds illegally obtained by a manager of a State-owned enterprise and the manager's own property used for the illegal act shall, except where they ought to be confiscated or recovered by the relevant authorities in accordance with law or the manager is ordered to refund and compensate them, be returned to the original owner or original holder.\nWhere a manager of a State-owned enterprise has obtained other benefits through an illegal act, such as a post, rank, grade, post and staff grade, professional title, treatment, qualification, academic qualification, academic degree, honour, award or reward, the appointing and removing organ or entity shall correct it or recommend that the relevant organ, entity or organisation correct it in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a retired manager of a State-owned enterprise committed an illegal act before or after retirement for which a sanction ought to be imposed, a sanction decision shall no longer be made, but a case may be filed against him or her for investigation; where a demotion, removal from post or dismissal ought to be imposed in accordance with law, the treatment he or she enjoys shall be adjusted correspondingly in accordance with the provisions, and the property and funds illegally obtained and the manager's own property used for the illegal act shall be dealt with in accordance with Article 15 of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Types and Application of Sanctions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits any of the following acts, a demerit or a major demerit shall be given in accordance with the provisions of Article 28 of the Law on Governmental Sanctions for Public Officials; where the circumstances are relatively serious, a demotion or removal from post shall be given; where the circumstances are serious, dismissal shall be given:\n(a) disseminating statements that undermine adherence to and improvement of the basic socialist economic system;\n(b) refusing to implement, or implementing in a disguised form, the decisions and arrangements relating to the reform and development of State-owned enterprises and to Party building;\n(c) harming national security and national interests in work such as foreign economic cooperation, foreign assistance and foreign exchanges.\nAnyone who publicly publishes articles, speeches, declarations or statements opposing the guiding ideology of the State established by the Constitution, the leadership of the Communist Party of China, the socialist system or reform and opening up shall be dismissed."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits any of the following acts, a warning, a demerit or a major demerit shall be given in accordance with the provisions of Article 30 of the Law on Governmental Sanctions for Public Officials; where the circumstances are serious, a demotion or removal from post shall be given:\n(a) deciding major decision-making matters, important personnel appointment and removal matters, major project arrangement matters or large-sum fund operation matters of a State-owned enterprise in violation of the prescribed decision-making procedure or limits of duty and authority;\n(b) deliberately circumventing, interfering with or undermining collective decision-making, and deciding major decision-making matters, important personnel appointment and removal matters, major project arrangement matters or large-sum fund operation matters of a State-owned enterprise individually or by a small number of persons;\n(c) refusing to implement, or changing without authorisation, the major decisions lawfully made collectively by the Party committee (Party group) meeting, the shareholders' meeting (general meeting), the board of directors or the employees' representative congress of a State-owned enterprise;\n(d) refusing to implement, implementing in a disguised form, or delaying the implementation of the decisions lawfully made by the institution performing the duties of a capital contributor, the industry administration department and other relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits any of the following acts, a warning, a demerit or a major demerit shall be given in accordance with the provisions of Article 33 of the Law on Governmental Sanctions for Public Officials; where the circumstances are relatively serious, a demotion or removal from post shall be given; where the circumstances are serious, dismissal shall be given:\n(a) taking advantage of the convenience of his or her post to embezzle, steal, swindle or otherwise illegally possess or misappropriate the property of the enterprise or of its affiliates, or the assets of clients;\n(b) taking advantage of the convenience of his or her post to extort property from others or illegally accept property from others and seek benefits for them;\n(c) in order to seek illegitimate benefits, offering bribes to State organs, enterprises funded by the State, public institutions or people's organisations, or to State functionaries, staff members of enterprises or other entities, foreign public officials or officials of international public organisations;\n(d) taking advantage of his or her authority or the influence of his or her post, in violation of the provisions, to seek private benefits for himself or herself or for others in major matters of the enterprise concerning the rights and interests of the State-owned assets contributor and in activities such as engineering construction, asset disposal, publication and distribution, and tendering and bidding;\n(e) conniving at or acquiescing in persons with a special relationship with him or her using his or her authority or the influence of his or her post to seek private benefits in major matters of the enterprise concerning the rights and interests of the State-owned assets contributor and in the operation and management activities of the enterprise;\n(f) in violation of the provisions, collectively distributing State-owned assets privately to individuals in the name of the entity.\nAnyone who refuses to correct the holding of a post or a concurrent post or the engagement in business activities by a person with a special relationship with him or her in violation of the provisions and does not obey the adjustment of his or her post shall be removed from post."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits any of the following acts, in accordance with the provisions of Article 35 of the Law on Governmental Sanctions for Public Officials, a warning, a demerit or a major demerit shall be given where the circumstances are relatively serious; a demotion or removal from post shall be given where the circumstances are serious:\n(a) over-drawing the total wage bill or over-issuing wages, or setting and issuing wage income in other forms such as allowances, subsidies and bonuses outside the total wage bill;\n(b) failing to implement budgetary management of the total wage bill, or failing to perform the filing or approval procedure for the total wage bill in accordance with the provisions;\n(c) in violation of the provisions, setting salaries, awards, allowances, subsidies and other welfare-related monetary income by themselves;\n(d) exceeding the prescribed standards and scope in respect of training activities, office premises, official vehicles, business entertainment and travel expenses;\n(e) travelling at public expense, or travelling at public expense in a disguised form under the name of study and training, investigation and research, or staff convalescence."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits any of the following acts, a warning, a demerit or a major demerit shall be given in accordance with the provisions of Article 36 of the Law on Governmental Sanctions for Public Officials; where the circumstances are relatively serious, a demotion or removal from post shall be given; where the circumstances are serious, dismissal shall be given:\n(a) in violation of the provisions, engaging in for-profit activities such as running a business or enterprise individually, holding shares or securities of a non-listed company (enterprise), engaging in paid intermediary activities, or registering a company or making an equity investment outside the territory;\n(b) taking advantage of the convenience of his or her post to operate, for others, an enterprise of the same kind as the enterprise in which he or she holds a post;\n(c) in violation of the provisions, holding a concurrent post without approval in an enterprise in which the enterprise he or she serves has invested, or in other enterprises, public institutions, social organisations, intermediary agencies, international organisations or the like;\n(d) holding a concurrent post with approval but receiving remuneration or obtaining other income in violation of the provisions;\n(e) seeking private benefits by using inside information of the enterprise or other undisclosed information, trade secrets or intangible assets."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise, in the course of performing the duty of providing public services to society, infringes upon the lawful rights and interests of the recipients of the services or upon public interests, and the regulatory institution verifies the matter and puts forward a recommendation for a sanction, then, in accordance with the provisions of Article 38 of the Law on Governmental Sanctions for Public Officials, a warning, a demerit or a major demerit shall be given where the circumstances are relatively serious; a demotion or removal from post shall be given where the circumstances are serious; and dismissal shall be given where the circumstances are especially serious."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits any of the following acts and causes losses to State-owned assets or other serious adverse consequences, then, in accordance with the provisions of Article 39 of the Law on Governmental Sanctions for Public Officials, a warning, a demerit or a major demerit shall be given; where the circumstances are relatively serious, a demotion or removal from post shall be given; where the circumstances are serious, dismissal shall be given:\n(a) withholding, occupying, misappropriating or delaying the payment of budgetary revenue that ought to be turned over to the State Treasury;\n(b) in violation of the provisions, failing to perform or improperly performing the duty of business investment;\n(c) in violation of the provisions, conducting related-party transactions and carrying out activities such as financing trade, false transactions, false joint ventures and affiliation operations;\n(d) failing to register, or failing to truthfully register, the property rights of enterprise State-owned assets within the time limit prescribed by the State, or forging, altering, leasing, lending or selling the certificates (forms) of registration of State-owned assets property rights;\n(e) refusing to provide the relevant information and materials, or preparing false data and information, thereby distorting the performance evaluation results of the State-owned enterprise;\n(f) concealing the true condition of the enterprise, failing to truthfully provide the relevant circumstances and materials to intermediary service agencies such as accounting firms, law firms and asset appraisal institutions, or colluding with such intermediary service agencies in falsification."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits any of the following acts, a warning, a demerit or a major demerit shall be given in accordance with the provisions of Article 39 of the Law on Governmental Sanctions for Public Officials; where the circumstances are relatively serious, a demotion or removal from post shall be given; where the circumstances are serious, dismissal shall be given:\n(a) laundering money or participating in money laundering;\n(b) accepting client funds without recording them in the accounts, illegally absorbing public deposits or absorbing public deposits in a disguised form, or participating in, or in a disguised form participating in, private lending in violation of the provisions;\n(c) granting loans in violation of the provisions, or reducing or exempting loan principal, suspending interest, reducing interest, deferring interest, waiving interest or extending the term of loans, writing off bad debts or disposing of non-performing assets;\n(d) issuing financial instruments or providing security in violation of the provisions, or accepting, paying or guaranteeing illegal instruments;\n(e) breaching the duties of a trustee and using client funds or other entrusted or trust assets without authorisation;\n(f) forging or altering currency, precious metals, financial instruments or securities issued by the State;\n(g) forging, altering, transferring, leasing or lending the operating licence or approval documents of a financial institution, or establishing a financial institution, issuing shares or issuing bonds without approval;\n(h) fabricating and disseminating false information affecting securities or futures trading, manipulating the securities or futures market, providing false information or forging, altering or destroying trading records, or luring investors into buying or selling securities or futures contracts;\n(i) making false insurance claims or participating in insurance fraud;\n(j) stealing, buying off or illegally providing credit card information of others or other personal information and materials of citizens."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise commits any of the following acts and causes adverse consequences or effects, then, in accordance with the provisions of Article 39 of the Law on Governmental Sanctions for Public Officials, a warning, a demerit or a major demerit shall be given; where the circumstances are relatively serious, a demotion or removal from post shall be given; where the circumstances are serious, dismissal shall be given:\n(a) divulging inside information or trade secrets of the enterprise;\n(b) forging, altering, transferring, leasing or lending administrative licence documents or qualification certification documents, or leasing or lending the name of a State-owned enterprise or the trade name in the name of an enterprise;\n(c) in violation of the provisions, borrowing, or borrowing in a disguised form, local government debt;\n(d) in violation of the provisions outside the territory of the People's Republic of China, causing major engineering quality problems, giving rise to major labour disputes or causing other serious consequences;\n(e) failing to perform, or failing to perform in accordance with law, the duty of work safety management, resulting in a work safety accident;\n(f) committing acts of formalism or bureaucracy at work, such as perfunctory handling and buck-passing, or one-sided understanding and mechanical implementation of the lines, principles and policies and the major decisions and arrangements of the Party and the State;\n(g) refusing, obstructing or delaying supervision by capital contributors, audit supervision or fiscal and accounting supervision carried out in accordance with law, or refusing to rectify, shuffling off or giving false rectification in respect of problems found in such supervision;\n(h) failing to provide the relevant information, submit the relevant reports or perform the obligation of information disclosure in accordance with law, or cooperating with other subjects in committing illegal acts;\n(i) failing to perform statutory duties or unlawfully exercising authority, infringing upon the lawful rights and interests of workers;\n(j) in violation of the provisions, refusing or delaying the payment of amounts due to small and medium-sized enterprises, wages of rural migrant workers and the like;\n(k) instructing, directing, compelling, conniving at or shielding subordinate staff in violating the provisions of laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Illegal Acts and the Sanctions Applicable Thereto"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The appointing and removing organs and entities shall, in accordance with the authority to manage cadres, impose sanctions in accordance with law on managers of State-owned enterprises who have committed illegal acts provided in the Law on Governmental Sanctions for Public Officials and in these Regulations, and shall safeguard the lawful rights and interests of managers of State-owned enterprises and of the persons concerned.\nThe appointing and removing organs and entities shall, in the light of the actual circumstances of the organisational form and organisational structure of the State-owned enterprise, specify the internal department or body that undertakes the work of imposing sanctions on managers of State-owned enterprises (hereinafter referred to as the undertaking department) as well as its duties, authority and operating mechanism."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The investigation and handling of a manager of a State-owned enterprise suspected of violating the law shall be conducted by two or more staff members in accordance with the following procedure:\n(a) with the consent of the person in charge of the appointing and removing organ or entity, the undertaking department shall carry out a preliminary verification of the clues to the problem that need to be investigated and handled;\n(b) where, after preliminary verification, the undertaking department considers that the manager of the State-owned enterprise is suspected of violating the provisions of the Law on Governmental Sanctions for Public Officials and of these Regulations and that further verification is needed, a case shall be filed after approval by the principal person in charge of the appointing and removing organ or entity, the manager of the State-owned enterprise under investigation (hereinafter referred to as the person under investigation) and the entity in which he or she works shall be notified in writing, and the supervisory organ with the authority to manage shall be informed;\n(c) the undertaking department shall be responsible for further investigating the illegal act of the person under investigation, collecting and verifying the relevant evidentiary materials, ascertaining the circumstances from the relevant entities and persons, and producing a written investigation report to be submitted to the person in charge of the appointing and removing organ or entity, and the relevant entities and individuals shall truthfully provide the circumstances;\n(d) the undertaking department shall inform the person under investigation of the facts established by the investigation and the basis on which the sanction is proposed to be imposed, hear his or her statements and arguments, verify the facts, reasons and evidence adduced by him or her and keep them on record, and where the facts, reasons and evidence adduced by the person under investigation are well founded, they shall be adopted;\n(e) the undertaking department shall, after examination, put forward a handling recommendation, report it in accordance with the procedure to the leading members of the appointing and removing organ or entity for collective discussion, make a decision to impose a sanction on the person under investigation, to exempt him or her from a sanction, not to impose a sanction on him or her, or to withdraw the case, and inform the supervisory organ with the authority to manage;\n(f) the appointing and removing organ or entity shall, within one month from the date on which the decision provided in subparagraph (e) of paragraph 1 of this Article is made, notify the person under investigation and the entity in which he or she works in writing of the decision to impose a sanction, to exempt him or her from a sanction, not to impose a sanction on him or her, or to withdraw the case, and announce it within a certain scope; where State secrets, trade secrets or personal privacy are involved, the matter shall be handled in accordance with the relevant provisions of the State;\n(g) the undertaking department shall place the sanction-related decision and the materials on its execution in the personal file of the person under investigation, and shall at the same time compile the relevant materials into a working file for the sanction case.\nIt is strictly prohibited to collect evidence by illegal means such as threats, inducement or deception. Evidence collected by illegal means shall not serve as the basis for imposing a sanction. A sanction shall not be aggravated because of the arguments of the person under investigation."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where it is genuinely necessary in the course of investigating a major case of illegal acts, the supervisory organ with the authority to manage may be requested, after consultation, to provide the necessary support.\nWhere the illegal circumstances are complex, cover a wide range or cause a major impact, and it is difficult for the appointing and removing organ or entity to investigate and verify the matter, the supervisory organ with the authority to manage may, with the consent of the person in charge of the appointing and removing organ or entity, be requested, after consultation, to handle it."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A decision to impose a sanction on a manager of a State-owned enterprise shall be made within six months from the date on which the case is filed; where the case is complex or other special circumstances arise, the period may be appropriately extended with the approval of the principal person in charge of the appointing and removing organ or entity, except that the extension shall not exceed six months."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where a decision is made to impose a sanction, a written sanction decision shall be prepared.\nThe written sanction decision shall state the following matters:\n(a) the name, work unit and post of the manager of the State-owned enterprise on whom the sanction is imposed (hereinafter referred to as the person sanctioned);\n(b) the facts of the illegal act and the evidence;\n(c) the type of sanction and its basis;\n(d) the channel and time limit for applying for review and appealing against the sanction decision;\n(e) the name of the organ or entity making the sanction decision and the date.\nThe written sanction decision shall bear the seal of the organ or entity making the decision."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Where a person participating in the investigation or handling of a case of illegal acts of a manager of a State-owned enterprise is in any of the following circumstances, he or she shall withdraw on his or her own initiative, and the person under investigation, the informant and other relevant persons may request that he or she withdraw:\n(a) being a close relative of the person under investigation or of the informant;\n(b) having served as a witness in the case;\n(c) he or she or his or her close relatives having an interest in the case under investigation;\n(d) other circumstances that may affect the fair investigation and handling of the case.\nThe withdrawal of the principal person in charge of the appointing and removing organ or entity shall be decided by the person in charge of the organ or entity at the next higher level; the withdrawal of other persons participating in the investigation and handling of the case of illegal acts shall be decided by the person in charge of the appointing and removing organ or entity.\nWhere the appointing and removing organ or entity finds that a person participating in the sanction work is in a circumstance requiring withdrawal, it may directly decide that the person withdraw."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise is investigated for criminal responsibility in accordance with law, the appointing and removing organ or entity shall, on the basis of the effective judgment, ruling or decision of the judicial organ and the facts and circumstances established therein, impose a sanction in accordance with law.\nWhere a manager of a State-owned enterprise is given an administrative penalty in accordance with law and a sanction ought to be imposed, the appointing and removing organ or entity may, on the basis of the facts and circumstances established in the effective administrative penalty decision and after verification, impose a sanction in accordance with law.\nWhere, after the appointing and removing organ or entity has made a sanction decision in accordance with the provisions of paragraphs 1 and 2 of this Article, the judicial organ or administrative organ changes in accordance with law the original effective judgment, ruling or decision and this affects the original sanction decision, the appointing and removing organ or entity shall make a corresponding new handling on the basis of the changed judgment, ruling or decision."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where the appointing and removing organ or entity imposes a sanction on a manager of a State-owned enterprise who serves as a deputy to a people's congress at any level or as a member of a committee of the Chinese People's Political Consultative Conference at any level, it shall notify the relevant standing committee of the people's congress, the presidium of the people's congress of a township, an ethnic township or a town, or the standing committee of the committee of the Chinese People's Political Consultative Conference."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise is suspected of violating the law, a case has already been filed against him or her for investigation, and it is inappropriate for him or her to continue to perform duties, the appointing and removing organ or entity may decide to suspend him or her from performing duties. During the period in which a manager of a State-owned enterprise is under investigation after a case has been filed, he or she shall not leave the country or resign from public office without the consent of the appointing and removing organ or entity that decided to file the case; the appointing and removing organ or entity and the organ or entity at the higher level shall not transfer him or her, promote him or her, award him or her, or complete the retirement formalities for him or her."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where, in the course of an investigation, it is found that a manager of a State-owned enterprise has suffered adverse effects as a result of false reports, false accusations and frame-ups, insults or defamation in connection with the lawful performance of his or her duties, the appointing and removing organ or entity shall, in accordance with the provisions, promptly clarify the facts, restore his or her reputation and eliminate the adverse effects."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise is given a demotion, removal from post or dismissal, the corresponding personnel department and others shall, within one month after the sanction decision is made, complete the formalities for changing his or her post, position, wage and other relevant treatment in accordance with the authority to manage, and shall change or terminate the labour contract in accordance with law; under special circumstances, the period for completing the formalities may be appropriately extended with the approval of the principal person in charge of the appointing and removing organ or entity, except that it shall not exceed six months at the longest."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where a manager of a State-owned enterprise who has been given a sanction other than dismissal shows repentance during the sanction period and no circumstance of illegal act for which a sanction ought to be imposed arises again, the sanction shall be lifted automatically upon the expiry of the sanction period.\nAfter a sanction is lifted, the assessment and the promotion of post, rank, grade, post and staff grade, professional title and salary and treatment grade shall no longer be affected by the original sanction. However, where a demotion or removal from post has been imposed, the post, rank, grade, post and staff grade, professional title and salary and treatment grade held before the sanction shall not be restored.\nThe appointing and removing organs and entities shall, in accordance with the relevant provisions of the State, treat managers of State-owned enterprises who have been sanctioned correctly and use them reasonably, uphold both respect and encouragement and supervision and restraint, and create a favourable environment for taking up responsibilities and starting businesses."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Procedure for Sanctions"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where a person sanctioned is dissatisfied with a sanction decision, he or she may, within one month from the date of receipt of the written sanction decision, apply to the appointing and removing organ or entity that made the sanction decision (hereinafter referred to as the original sanction decision entity) for review. The original sanction decision entity shall make a review decision within one month after receipt of the application for review.\nWhere a person sanctioned fails to meet the time limit for applying for review because of force majeure or other justified reasons, he or she may, within 10 working days after the obstacle is removed, apply for an extension of the time limit; whether to grant it shall be decided by the original sanction decision entity."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Appeal"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a person sanctioned is still dissatisfied with the review decision, he or she may, within one month from the date of receipt of the review decision, appeal to the organ or entity at the next higher level in accordance with the authority to manage. The organ or entity accepting the appeal (hereinafter referred to as the appeal organ) shall make a handling decision within two months from the date of acceptance; where the case is complex, the period may be appropriately extended, except that the extension shall not exceed one month at the most.\nWhere a person sanctioned fails to meet the time limit for applying for appeal because of force majeure or other justified reasons, he or she may, within 10 working days after the obstacle is removed, apply for an extension of the time limit; whether to grant it shall be decided by the appeal organ."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Appeal"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "After the original sanction decision entity receives an application for review, or after the appeal organ accepts an appeal, the relevant undertaking department shall form a working group, which shall call for and examine the materials of the original case, may conduct an investigation where necessary, collect and verify the relevant evidentiary materials, and ascertain the circumstances from the relevant entities and persons. The working group shall deliberate collectively and put forward its opinion on handling, report it in accordance with the procedure to the leading members of the original sanction decision entity or of the appeal organ for collective discussion so as to make a review or appeal decision, and inform the supervisory organ with the authority to manage. The review or appeal decision shall, within one month from the date it is made, be notified in writing to the person sanctioned and the entity in which he or she works and be announced within a certain scope; where State secrets, trade secrets or personal privacy are involved, the matter shall be handled in accordance with the relevant provisions of the State.\nDuring the period of review or appeal, the execution of the original sanction decision shall not be suspended.\nA manager of a State-owned enterprise shall not have the sanction against him or her aggravated because he or she has applied for review or appeal.\nThe review and appeal shall be kept separate from the investigation of the original case, and the persons who investigated and undertook the original case shall not participate in the review or appeal."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Appeal"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where the appointing and removing organ or entity finds that a sanction decision made by itself or by an organ or entity at a lower level is genuinely erroneous, it shall promptly correct it or order the lower-level organ or entity to correct it promptly.\nWhere a supervisory organ finds that the appointing and removing organ or entity ought to have imposed a sanction but did not, or that the sanction imposed is illegal or inappropriate, and puts forward a supervisory recommendation in accordance with law, the appointing and removing organ or entity shall adopt it and inform the supervisory organ by letter of the implementation, and where it does not adopt it, it shall explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Appeal"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where any of the following circumstances is present, the original sanction decision entity or the appeal organ shall revoke the original sanction decision and make a new decision, or the appeal organ shall order the original sanction decision entity to make a new decision:\n(a) the facts of the illegal act on which the sanction is based are unclear or the evidence is insufficient;\n(b) the procedure provided in these Regulations is violated and the fair handling of the case is affected;\n(c) the sanction decision is made by exceeding authority or by abusing authority."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Appeal"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where any of the following circumstances is present, the original sanction decision entity or the appeal organ shall modify the original sanction decision, or the appeal organ shall order the original sanction decision entity to modify it:\n(a) the law or regulation applied is genuinely erroneous;\n(b) the determination of the circumstances of the illegal act is genuinely erroneous;\n(c) the sanction is inappropriate."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Appeal"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where the original sanction decision entity or the appeal organ considers that the facts established in the sanction decision are clear and the law applied is correct, it shall uphold the decision."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Appeal"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a sanction decision on a manager of a State-owned enterprise is modified and the post, post grade, salary and treatment grade or the like of the manager needs to be adjusted, it shall be adjusted in accordance with the provisions. Where a sanction decision on a manager of a State-owned enterprise is revoked and the post, post grade, salary and treatment grade or the like of the manager needs to be restored, corresponding posts and positions shall be arranged in accordance with the original post and post grade, and his or her reputation shall be restored within the scope in which the original sanction decision was announced.\nWhere a manager of a State-owned enterprise has the sanction revoked or mitigated on the grounds of the circumstances provided in Article 42 or Article 43 of these Regulations, appropriate compensation shall be given for the losses suffered in his or her salary and treatment in the light of his or her actual performance of duties, performance and contributions and other circumstances.\nA decision to uphold, modify or revoke a sanction shall, within one month after it is made, be served and announced in accordance with the provisions of subparagraph (f) of paragraph 1 of Article 27 of these Regulations and be placed in the personal file of the person sanctioned."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Review and Appeal"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where the appointing and removing organ or entity or its staff members are in the circumstances provided in Article 61 or Article 63 of the Law on Governmental Sanctions for Public Officials in the work of imposing sanctions on managers of State-owned enterprises, the leading personnel who bear responsibility and the directly responsible persons shall be dealt with in accordance with the provisions of the Law on Governmental Sanctions for Public Officials."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where the relevant organ, entity, organisation or person refuses to execute a sanction decision or is in the circumstances provided in Article 62 of the Law on Governmental Sanctions for Public Officials, the organ at the higher level, the competent department, the institution performing the duties of a capital contributor, or the appointing and removing organ or entity shall deal with the matter in accordance with the provisions of the Law on Governmental Sanctions for Public Officials."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where the relevant entity or individual distorts or fabricates facts by means of reporting and the like and makes false accusations and frame-ups against a manager of a State-owned enterprise, it or he or she shall bear legal liability in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a violation of the provisions of these Regulations constitutes a crime, criminal responsibility shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where the State has other provisions on the investigation of the liability of managers of State-owned financial enterprises and State-owned cultural enterprises who violate the law, those provisions shall also apply."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a case that has already been concluded before the entry into force of these Regulations requires review or appeal, the provisions in force at that time shall apply. Where a case has not yet been concluded and the provisions in force at the time when the act was committed did not treat it as illegal, the provisions in force at that time shall apply; where the provisions in force at the time when the act was committed treated it as illegal, it shall be handled in accordance with the provisions in force at that time, except that where these Regulations do not treat it as illegal or provide for a lighter handling, these Regulations shall apply."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "These Regulations shall enter into force on 1 September 2024."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
         }
       }
     ]

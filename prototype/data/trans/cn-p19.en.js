@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p19
-   法规 53 部 / 译文 1581 条
+   法规 62 部 / 译文 2083 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -4076,6 +4076,732 @@
     ]
   };
 
+  TR['CN-REG-0517'] = {
+    "lawId": "CN-REG-0517",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 60 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Rules are formulated in accordance with the provisions of the Metrology Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State implements the system of legal units of measurement. The names and symbols of legal units of measurement shall be governed by the relevant provisions of the State Council on the unified implementation of legal units of measurement in the country."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State shall develop the metrology undertaking in a planned way, equip metrological verification institutions at all levels with modern metrological technology, serve socialist modernisation, provide metrological assurance for industrial and agricultural production, national defence construction, scientific experiments, domestic and foreign trade and the health and safety of the people, and safeguard the interests of the State and the people."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The use of measurement reference instruments (hereinafter referred to as measurement references) must meet the following conditions:\n(a) having passed State appraisal;\n(b) having the environmental conditions required for normal operation;\n(c) having competent personnel for keeping, maintaining and using them;\n(d) having a complete management system.\nThose meeting the above conditions may be used only after the metrological administrative department of the State Council has examined and approved them and issued a measurement reference certificate."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        },
+        "chapter": {
+          "en": "Chapter II Measurement Reference Instruments and Measurement Standard Instruments"
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Without the approval of the metrological administrative department of the State Council, no unit or individual may dismantle or modify a measurement reference or interrupt its metrological verification work on its own."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Measurement Reference Instruments and Measurement Standard Instruments"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The values of measurement references shall be consistent with international values. The metrological administrative department of the State Council has the power to abolish measurement references whose technical level is backward or whose working condition no longer meets the needs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Measurement Reference Instruments and Measurement Standard Instruments"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The use of measurement standard instruments (hereinafter referred to as measurement standards) must meet the following conditions:\n(a) having passed metrological verification;\n(b) having the environmental conditions required for normal operation;\n(c) having competent personnel for keeping, maintaining and using them;\n(d) having a complete management system."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Measurement Reference Instruments and Measurement Standard Instruments"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Public measurement standards have a notarial function in the implementation of metrological supervision in society. The highest-level public measurement standards established by the metrological administrative departments of local people's governments at or above the county level within their respective administrative regions shall be submitted to the metrological administrative department of the people's government at the next higher level for assessment; those of other levels shall be assessed under the auspices of the metrological administrative department of the local people's government.\nThose that, upon assessment, meet the conditions prescribed in Article 7 of these Rules and have obtained an assessment certificate may be used only after the metrological administrative department of the local people's government at or above the county level has examined, approved and issued a public measurement standard certificate."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Measurement Reference Instruments and Measurement Standard Instruments"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where the relevant competent department of the State Council or the relevant competent department of the people's government of a province, autonomous region or municipality directly under the Central Government establishes the highest measurement standards of its department, and upon assessment by the metrological administrative department of the people's government at the same level such standards meet the conditions prescribed in Article 7 of these Rules and an assessment certificate has been obtained, the relevant competent department shall approve their use."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Measurement Reference Instruments and Measurement Standard Instruments"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where an enterprise or public institution establishes the highest measurement standards of its unit, it shall apply to the metrological administrative department of the people's government at the same level as its competent department for assessment. A township enterprise shall apply to the metrological administrative department of the local people's government at the county level for assessment. Where, upon assessment, the standards meet the conditions prescribed in Article 7 of these Rules and an assessment certificate has been obtained, the enterprise or public institution may use them and shall file a record with its competent department."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Measurement Reference Instruments and Measurement Standard Instruments"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Units and individuals using measurement standards subject to compulsory verification shall apply to the relevant people's government metrological administrative department that presided over the assessment of such measurement standards for periodic verification.\nUnits and individuals using working measuring instruments subject to compulsory verification shall apply to the metrological verification institution designated by the metrological administrative department of the local people's government at the county (city) level for periodic verification. Where verification cannot be carried out locally, application shall be made to the metrological verification institution designated by the metrological administrative department of the people's government at the next higher level for periodic verification."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Metrological Verification"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Enterprises and public institutions shall be equipped with metrological testing facilities commensurate with their production, scientific research and operation and management, formulate specific verification management measures and rules and regulations, specify the detailed catalogue of measuring instruments managed by the unit and the corresponding verification cycles, and ensure that the measuring instruments not subject to compulsory verification that are in use are verified periodically."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Metrological Verification"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Metrological verification work shall conform to the principles of economic rationality and proximity, and shall not be subject to the restrictions of administrative divisions or departmental jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Metrological Verification"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Enterprises, public institutions and individual industrial and commercial households that manufacture or repair measuring instruments shall conduct business at fixed premises, have production facilities, inspection conditions, technical personnel and the like that conform to the provisions of the State, and meet safety requirements."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter IV Manufacture and Repair of Measuring Instruments"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Any new type of measuring instrument that has never been produced anywhere in the country must undergo type appraisal before manufacture. After passing type appraisal, the formalities for type approval shall be completed and a certificate issued. For a new type of measuring instrument that has already been typed elsewhere in the country but has not been produced by the unit concerned, a prototype test shall be carried out. After the prototype test is passed, a conformity certificate shall be issued. No measuring instrument may be produced without type approval or without a prototype test conformity certificate."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter IV Manufacture and Repair of Measuring Instruments"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Type appraisal of new types of measuring instruments shall be carried out by technical institutions authorised by the metrological administrative department of the State Council; prototype tests shall be carried out by technical institutions authorised by the metrological administrative department of the people's government at the provincial level in the place where the unit is located.\nThe type of a new measuring instrument shall be approved by the metrological administrative department of the local people's government at the provincial level. A type approved by the metrological administrative department of the people's government at the provincial level shall, upon examination and consent by the metrological administrative department of the State Council, become a type generally applicable throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter IV Manufacture and Repair of Measuring Instruments"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Units applying for type appraisal and prototype testing of new types of measuring instruments shall provide prototypes of the new products and the relevant technical documents and materials.\nUnits responsible for type appraisal and prototype testing of new types of measuring instruments must keep confidential the prototypes and technical documents and materials provided by the applicant units."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter IV Manufacture and Repair of Measuring Instruments"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The relevant competent departments shall strengthen the management of the quality of measuring instruments manufactured or repaired by enterprises and public institutions, and the metrological administrative departments of people's governments at or above the county level have the power to carry out supervision and inspection, including sampling inspection and supervised testing. No measuring instrument without a product conformity stamp or certificate, or that fails verification, may leave the factory."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter IV Manufacture and Repair of Measuring Instruments"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Where a foreign business sells measuring instruments in China, it shall, by reference to the provisions of Article 15 of these Rules, apply to the metrological administrative department of the State Council for type approval."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter V Sale and Use of Measuring Instruments"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The metrological administrative departments of local people's governments at or above the county level shall carry out supervision and inspection of measuring instruments sold locally. Measuring instruments without a product conformity stamp or certificate mark shall not be sold."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter V Sale and Use of Measuring Instruments"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "No unit or individual may deal in or sell defective spare parts for measuring instruments, or use defective spare parts to assemble or repair measuring instruments."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter V Sale and Use of Measuring Instruments"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "No unit or individual may use at work measuring instruments without a verification conformity stamp or certificate, or beyond the verification cycle, or that have failed verification. The use of measuring instruments in teaching demonstrations is not subject to this restriction."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter V Sale and Use of Measuring Instruments"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The duties of the metrological administrative department of the State Council and of the metrological administrative departments of local people's governments at or above the county level in supervising and implementing the metrological laws and regulations are:\n(a) implementing the guidelines, policies, rules and regulations of the State on metrology work and promoting the legal units of measurement of the State;\n(b) formulating and coordinating development plans for the metrology undertaking, establishing measurement references and public measurement standards and organising the dissemination of values;\n(c) supervising the manufacture, repair, sale and use of measuring instruments;\n(d) carrying out metrological accreditation, organising arbitration verification and mediating metrological disputes;\n(e) supervising and inspecting the implementation of the metrological laws and regulations and, in respect of acts violating the metrological laws and regulations, handling them in accordance with the relevant provisions of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter VI Metrological Supervision"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Metrological management personnel of the metrological administrative departments of people's governments at or above the county level shall be responsible for carrying out metrological supervision and management tasks; metrological supervisors shall be responsible for roving inspections in the prescribed areas and premises and may, according to different circumstances and within the prescribed powers, deal with acts violating the metrological laws and regulations on the spot and impose administrative penalties.\nMetrological supervisors must pass an assessment and shall be appointed and issued with supervisor certificates by the metrological administrative departments of people's governments at or above the county level."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter VI Metrological Supervision"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Metrological verification institutions established in accordance with law by the metrological administrative departments of people's governments at or above the county level are the State legal metrological verification institutions. Their duties are: to be responsible for researching and establishing measurement references and public measurement standards, disseminating values, carrying out compulsory verification and other verification and testing tasks prescribed by law, drafting technical specifications, providing technical assurance for the implementation of metrological supervision, and undertaking the relevant metrological supervision work."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter VI Metrological Supervision"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Metrological verification personnel of the State legal metrological verification institutions must pass an assessment.\nThe series of technical posts for metrological verification personnel shall be formulated by the metrological administrative department of the State Council together with the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter VI Metrological Supervision"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The metrological administrative departments of people's governments at or above the county level may, as needed, authorise the metrological verification institutions and technical institutions of other units in the following forms to carry out compulsory verification and other verification and testing tasks within the prescribed scope:\n(a) authorising specialised or regional metrological verification institutions as legal metrological verification institutions;\n(b) authorising the establishment of public measurement standards;\n(c) authorising the metrological verification institution of a department or unit to carry out compulsory verification of the measuring instruments subject to compulsory verification used internally by that department or unit;\n(d) authorising the relevant technical institutions to undertake other verification and testing tasks prescribed by law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter VI Metrological Supervision"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Units authorised in accordance with the provisions of Article 27 of these Rules shall comply with the following provisions:\n(a) the personnel of the authorised unit carrying out verification and testing tasks must pass an assessment;\n(b) the corresponding measurement standards of the authorised unit must be verified against measurement references or public measurement standards;\n(c) the authorised unit undertaking the authorised verification and testing work must accept the supervision of the authorising unit;\n(d) where an authorised unit becomes a party to a metrological dispute and the parties cannot resolve it through consultation, the relevant metrological administrative department of the people's government at or above the county level shall mediate and conduct arbitration verification."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter VI Metrological Supervision"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "A product quality inspection institution that provides notarial data to society must obtain metrological accreditation from the metrological administrative department of a people's government at or above the provincial level."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VII Metrological Accreditation of Product Quality Inspection Institutions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The contents of metrological accreditation of product quality inspection institutions are:\n(a) the performance of metrological verification and testing equipment;\n(b) the working environment of metrological verification and testing equipment and the operating skills of personnel;\n(c) measures to ensure the uniformity and accuracy of values and a management system ensuring the impartiality and reliability of testing data."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VII Metrological Accreditation of Product Quality Inspection Institutions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "After a product quality inspection institution submits an application for metrological accreditation, the metrological administrative department of the people's government at or above the provincial level shall designate the metrological verification institution under it or an authorised technical institution to conduct the assessment in accordance with the contents prescribed in Article 30 of these Rules. After the assessment is passed, the metrological administrative department of the people's government at or above the provincial level that accepted the application shall issue a metrological accreditation conformity certificate. Where a product quality inspection institution voluntarily signs a notification and commitment statement and submits the materials as required, the matter shall be handled in accordance with the relevant procedures for notification and commitment. An institution that has not obtained a metrological accreditation conformity certificate shall not carry out product quality inspection work."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VII Metrological Accreditation of Product Quality Inspection Institutions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The metrological administrative departments of people's governments at or above the provincial level have the power to carry out supervision and inspection, in accordance with the contents prescribed in Article 30 of these Rules, of product quality inspection institutions that have passed metrological accreditation."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VII Metrological Accreditation of Product Quality Inspection Institutions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where a product quality inspection institution that has obtained a metrological accreditation conformity certificate needs to add inspection items, it shall apply for separate metrological accreditation in accordance with the relevant provisions of these Rules."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VII Metrological Accreditation of Product Quality Inspection Institutions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The metrological administrative departments of people's governments at or above the county level shall be responsible for the mediation of metrological disputes and arbitration verification and may, as entrusted by judicial organs, contract administration organs, foreign-related arbitration organs or other units, designate the relevant metrological verification institutions to carry out arbitration verification."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VIII Metrological Mediation and Arbitration Verification"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "In the course of mediation, arbitration and case trial, no party may alter the technical condition of the measuring instruments related to the metrological dispute."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VIII Metrological Mediation and Arbitration Verification"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a party to a metrological dispute is dissatisfied with the arbitration verification, it may appeal to the metrological administrative department of the people's government at the next higher level within 15 days from the date of receipt of the notice of arbitration verification. The arbitration verification conducted by the metrological administrative department of the people's government at the next higher level shall be final."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VIII Metrological Mediation and Arbitration Verification"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Fees shall be paid for applying for assessment for the establishment of measurement standards, applying for verification of measuring instruments, applying for type appraisal and prototype testing of new types of measuring instruments, and applying for metrological accreditation and arbitration verification; the specific fee collection measures or fee rates shall be uniformly formulated by the metrological administrative department of the State Council together with the departments for finance and pricing of the State."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IX Fees"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "No fees shall be charged for the verification and testing carried out by the metrological administrative departments of people's governments at or above the county level in the course of supervision and inspection. Units under inspection have the obligation to provide prototypes and conditions for verification and testing."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IX Fees"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The funds required by the metrological verification institutions under the metrological administrative departments of people's governments at or above the county level for providing technical assurance in implementing the metrological laws and regulations and metrological supervision shall be listed respectively in the fiscal budgets at all levels in accordance with the provisions of the State's fiscal management system."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IX Fees"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 2 of these Rules, uses non-legal units of measurement shall be ordered to make rectification; where it involves publications, the offender shall be ordered to stop selling them and may also be fined not more than RMB 1,000."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Whoever, in violation of the provisions of Article 14 of the Metrology Law of the People's Republic of China, manufactures, sells or imports measuring instruments in non-legal units of measurement shall be ordered to stop manufacturing, selling and importing, the measuring instruments and all illegal gains shall be confiscated, and a fine of 10 to 50 per cent of the illegal gains may also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where the highest measurement standards of a department, enterprise or public institution are used to carry out metrological verification without having passed assessment by the relevant people's government metrological administrative department, the offender shall be ordered to stop using them and may also be fined not more than RMB 1,000."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where measuring instruments within the scope of compulsory verification have not been submitted for verification in accordance with the provisions, or measuring instruments outside the scope of compulsory verification have not been periodically verified by the user or submitted to another metrological verification institution for periodic verification, or measuring instruments that have failed verification continue to be used, the offender shall be ordered to stop using them and may also be fined not more than RMB 1,000."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Whoever manufactures or sells new types of measuring instruments that have not obtained type approval or passed prototype testing shall be ordered to stop manufacturing and selling, the new products shall be sealed up, all illegal gains shall be confiscated, and a fine of not more than RMB 3,000 may also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where measuring instruments manufactured or repaired leave the factory without factory verification or despite failing verification, the offender shall be ordered to stop deliveries, all illegal gains shall be confiscated, and where the circumstances are serious, a fine of not more than RMB 3,000 may also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Whoever uses unqualified measuring instruments or damages the accuracy of measuring instruments or falsifies data, thereby causing losses to the State and consumers, shall be ordered to compensate for the losses, the measuring instruments and all illegal gains shall be confiscated, and a fine of not more than RMB 2,000 may also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Whoever deals in or sells defective spare parts for measuring instruments shall be ordered to stop dealing and selling, the defective spare parts and all illegal gains shall be confiscated, and a fine of not more than RMB 2,000 may also be imposed; where the circumstances are serious, the administrative department for industry and commerce shall revoke the business licence."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Units and individuals that manufacture, sell or use measuring instruments for the purpose of deceiving consumers shall have the measuring instruments and all illegal gains confiscated and may also be fined not more than RMB 2,000; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law against the individual or the directly responsible personnel of the unit."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where an individual industrial and commercial household manufactures or repairs measuring instruments outside the scope prescribed by the State or conducts business at premises not in accordance with the provisions, it shall be ordered to stop manufacturing and repairing, all illegal gains shall be confiscated, and a fine of not more than RMB 500 may also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a product quality inspection institution that has not obtained a metrological accreditation conformity certificate provides notarial data to society, it shall be ordered to stop inspecting and may also be fined not more than RMB 1,000."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Whoever forges, misappropriates or resells compulsory verification stamps or certificates shall have the unlawful verification stamps and certificates and all illegal gains confiscated and may also be fined not more than RMB 2,000; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where metrological supervision and management personnel violate the law or derelict in their duties, or engage in malpractice for personal gain, and the circumstances are minor, administrative sanctions shall be given; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a unit responsible for type appraisal or prototype testing of new types of measuring instruments violates the provisions of paragraph 2 of Article 17 of these Rules, it shall compensate the applicant unit for losses in accordance with the relevant provisions of the State, and administrative sanctions shall be given to the directly responsible personnel; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where metrological verification personnel commit any of the following acts, administrative sanctions shall be given; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law:\n(a) falsifying verification data;\n(b) issuing erroneous data and thereby causing losses to the party submitting the instrument for verification;\n(c) conducting metrological verification in violation of the metrological verification regulations;\n(d) using measurement standards that have not passed assessment to carry out verification;\n(e) carrying out metrological verification without having passed assessment."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "The administrative penalties prescribed in these Rules shall be decided by the metrological administrative departments of local people's governments at or above the county level. Where the fine is RMB 10,000 or more, it shall be reported to the metrological administrative department of the people's government at the provincial level for decision. Illegal gains confiscated and fines collected shall all be turned over to the State Treasury.\nThe administrative penalties prescribed in Article 46 of these Rules may also be decided by the administrative department for industry and commerce."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter X Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "For the purposes of these Rules, the following expressions have the following meanings:\n(a) measuring instrument means a device, instrument, meter or measure that can be used to directly or indirectly measure the value of the object measured, and a reference material used to unify values, including measurement references, measurement standards and working measuring instruments;\n(b) metrological verification means all the work carried out to assess the metrological performance of a measuring instrument and determine whether it is qualified;\n(c) type appraisal means a comprehensive examination and assessment of the metrological performance of prototypes of new types of measuring instruments;\n(d) metrological accreditation means the assessment and certification by a government metrological administrative department of the capability and reliability of the metrological verification and testing of the relevant technical institution;\n(e) metrological verification institution means the relevant technical institution that undertakes metrological verification work;\n(f) arbitration verification means the metrological verification and testing activities carried out with measurement references or public measurement standards for the purpose of adjudication."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "These Rules also apply to the supervision and administration by the Chinese People's Liberation Army and the defence science, technology and industry system of metrology work involving parties outside their own systems."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The relevant administrative measures, scope of administration and various stamps, certificates and marks under these Rules shall be formulated by the metrological administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Rules shall be interpreted by the metrological administrative department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 60,
+        "text": {
+          "en": "These Rules shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 60."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0518'] = {
     "lawId": "CN-REG-0518",
     "sourceLang": "zh",
@@ -4602,6 +5328,627 @@
         },
         "noLabel": {
           "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0520'] = {
+    "lawId": "CN-REG-0520",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Foreign Trade Law of the People's Republic of China (hereinafter referred to as the Foreign Trade Law) and the relevant provisions of other relevant laws in order to standardise the administration of technology import and export, maintain order in technology import and export and promote national economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Technology import and export as referred to in these Regulations means the act of transferring technology from outside the territory of the People's Republic of China into the territory of the People's Republic of China, or from within the territory of the People's Republic of China to outside the territory of the People's Republic of China, by way of trade, investment or economic and technical cooperation.\nThe acts specified in the preceding paragraph include the assignment of patent rights, the assignment of the right to apply for patents, patent exploitation licences, the assignment of technical secrets, technical services and technology transfer by other means."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State applies a unified management system to technology import and export and maintains, in accordance with law, a fair and free order in technology import and export."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Technology import and export shall conform to the industrial policy, science and technology policy and social development policy of the State, be conducive to promoting scientific and technological progress and the development of foreign economic and technical cooperation of China, and be conducive to safeguarding the economic and technical rights and interests of China."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State permits the free import and export of technology, unless otherwise provided by laws or administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The competent department of foreign economic relations and trade under the State Council (hereinafter referred to as the competent foreign trade department under the State Council) shall, in accordance with the Foreign Trade Law and these Regulations, be responsible for the administration of technology import and export throughout the country. The competent departments of foreign economic relations and trade of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall, as authorised by the competent foreign trade department under the State Council, be responsible for the administration of technology import and export within their respective administrative areas.\nThe relevant departments under the State Council shall, in accordance with the provisions of the State Council, perform the relevant administrative duties in respect of technology import and export projects."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State encourages the import of advanced and applicable technology."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Technology falling within any of the circumstances specified in Article 16 of the Foreign Trade Law shall be prohibited or restricted from import.\nThe competent foreign trade department under the State Council shall, together with the relevant departments under the State Council, formulate, adjust and publish the catalogue of technology prohibited or restricted from import."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Technology belonging to the category of technology prohibited from import shall not be imported."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Technology belonging to the category of technology restricted from import shall be subject to licence administration; it shall not be imported without a licence."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "To import technology belonging to the category of technology restricted from import, an application for technology import shall be submitted to the competent foreign trade department under the State Council together with the relevant documents.\nWhere a technology import project requires the approval of the relevant departments, the approval documents of the relevant departments shall also be submitted."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Upon receipt of an application for technology import, the competent foreign trade department under the State Council shall, together with the relevant departments under the State Council, examine the application and shall, within 30 working days from the date of receipt of the application, make a decision to approve or disapprove it."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where an application for technology import is approved, the competent foreign trade department under the State Council shall issue a letter of intent for a technology import licence.\nAfter obtaining the letter of intent for a technology import licence, the import operator may conclude a technology import contract with a foreign party."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "After concluding a technology import contract, the import operator shall submit a copy of the technology import contract and the relevant documents to the competent foreign trade department under the State Council and apply for a technology import licence.\nThe competent foreign trade department under the State Council shall examine the authenticity of the technology import contract and shall, within 10 working days from the date of receipt of the documents specified in the preceding paragraph, make a decision to grant or not to grant a licence for the technology import."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where an applicant submits an application for technology import to the competent foreign trade department under the State Council in accordance with the provisions of Article 11 of these Regulations, it may at the same time submit a copy of the technology import contract already concluded.\nThe competent foreign trade department under the State Council shall, in accordance with the provisions of Article 12 and Article 14 of these Regulations, examine the application and the authenticity of the technology import contract together, and shall, within 40 working days from the date of receipt of the documents specified in the preceding paragraph, make a decision to grant or not to grant a licence for the technology import."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where a technology import is licensed, the competent foreign trade department under the State Council shall issue a technology import licence. The technology import contract shall take effect from the date of issuance of the technology import licence."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Technology belonging to the category of technology freely importable shall be subject to contract registration administration.\nWhere technology belonging to the category of technology freely importable is imported, the contract shall take effect upon its lawful formation, and registration shall not be a condition for the effectiveness of the contract."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "To import technology belonging to the category of technology freely importable, registration shall be handled with the competent foreign trade department under the State Council, and the following documents shall be submitted:\n(1) an application for registration of the technology import contract;\n(2) a copy of the technology import contract;\n(3) documents certifying the legal status of both parties to the contract."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The competent foreign trade department under the State Council shall, within 3 working days from the date of receipt of the documents specified in Article 18 of these Regulations, register the technology import contract and issue a registration certificate for the technology import contract."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "An applicant shall, on the strength of the technology import licence or the registration certificate for the technology import contract, complete the relevant procedures with the foreign exchange, banking, taxation and customs authorities."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Where the main contents of a technology import contract that has been licensed or registered in accordance with the provisions of these Regulations are changed, the licensing or registration procedures shall be handled anew.\nWhere a technology import contract that has been licensed or registered is terminated, it shall be promptly reported to the competent foreign trade department under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The competent foreign trade department under the State Council and the relevant departments and their staff members shall, in performing their duties of technology import administration, be obliged to keep confidential the commercial secrets they learn of."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The transferor under a technology import contract shall guarantee that it is the lawful owner of the technology provided or is entitled to assign or license it.\nWhere the transferee under a technology import contract uses the technology provided by the transferor in accordance with the contract and is accused of infringement by a third party, the transferee shall immediately notify the transferor; the transferor shall, upon receipt of the notification, assist the transferee in removing the obstruction."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The transferor under a technology import contract shall guarantee that the technology provided is complete, free from error and effective and is capable of achieving the agreed technical objectives."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The transferee and the transferor under a technology import contract shall, within the scope and period of confidentiality agreed in the contract, be obliged to keep confidential the undisclosed secret parts of the technology provided by the transferor.\nWithin the confidentiality period, where the confidential technology is disclosed for reasons not attributable to the party bearing the obligation of confidentiality, the obligation of confidentiality borne by that party shall terminate."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "After the expiry of a technology import contract, the technology transferor and transferee may, in accordance with the principle of fairness and reasonableness, consult on the continued use of the technology."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Technology Import"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The State encourages the export of mature industrialised technology."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Technology falling within any of the circumstances specified in Article 16 of the Foreign Trade Law shall be prohibited or restricted from export.\nThe competent foreign trade department under the State Council shall, together with the relevant departments under the State Council, formulate, adjust and publish the catalogue of technology prohibited or restricted from export."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Technology belonging to the category of technology prohibited from export shall not be exported."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Technology belonging to the category of technology restricted from export shall be subject to licence administration; it shall not be exported without a licence."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "To export technology belonging to the category of technology restricted from export, an application shall be submitted to the competent foreign trade department under the State Council."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Upon receipt of an application for technology export, the competent foreign trade department under the State Council shall, together with the competent department of science and technology under the State Council, examine the technology applied for export and shall, within 30 working days from the date of receipt of the application, make a decision to approve or disapprove it.\nWhere technology restricted from export requires confidentiality examination by the relevant departments, the relevant provisions of the State shall apply."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Where an application for technology export is approved, the competent foreign trade department under the State Council shall issue a letter of intent for a technology export licence.\nOnly after obtaining the letter of intent for a technology export licence may the applicant conduct substantive negotiations with a foreign party and conclude a technology export contract."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "After concluding a technology export contract, the applicant shall submit the following documents to the competent foreign trade department under the State Council and apply for a technology export licence:\n(1) the letter of intent for a technology export licence;\n(2) a copy of the technology export contract;\n(3) a list of the technical materials to be exported;\n(4) documents certifying the legal status of both parties to the contract.\nThe competent foreign trade department under the State Council shall examine the authenticity of the technology export contract and shall, within 15 working days from the date of receipt of the documents specified in the preceding paragraph, make a decision to grant or not to grant a licence for the technology export."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where a technology export is licensed, the competent foreign trade department under the State Council shall issue a technology export licence. The technology export contract shall take effect from the date of issuance of the technology export licence."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Technology belonging to the category of technology freely exportable shall be subject to contract registration administration.\nWhere technology belonging to the category of technology freely exportable is exported, the contract shall take effect upon its lawful formation, and registration shall not be a condition for the effectiveness of the contract."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "To export technology belonging to the category of technology freely exportable, registration shall be handled with the competent foreign trade department under the State Council, and the following documents shall be submitted:\n(1) an application for registration of the technology export contract;\n(2) a copy of the technology export contract;\n(3) documents certifying the legal status of both parties to the contract."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The competent foreign trade department under the State Council shall, within 3 working days from the date of receipt of the documents specified in Article 37 of these Regulations, register the technology export contract and issue a registration certificate for the technology export contract."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "An applicant shall, on the strength of the technology export licence or the registration certificate for the technology export contract, complete the relevant procedures with the foreign exchange, banking, taxation and customs authorities."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where the main contents of a technology export contract that has been licensed or registered in accordance with the provisions of these Regulations are changed, the licensing or registration procedures shall be handled anew.\nWhere a technology export contract that has been licensed or registered is terminated, it shall be promptly reported to the competent foreign trade department under the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The competent foreign trade department under the State Council and the relevant departments and their staff members shall, in performing their duties of technology export administration, be obliged to keep confidential State secrets and the commercial secrets they learn of."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "The export of export-controlled technology such as nuclear technology, technology related to nuclear dual-use items, production technology for monitored chemicals and military technology shall be handled in accordance with the provisions of the relevant administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Technology Export"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Whoever imports or exports technology belonging to the category of technology prohibited from import or export, or imports or exports without a licence technology belonging to the category of technology restricted from import or export, shall be investigated for criminal liability in accordance with law under the provisions of the Criminal Law on the crime of smuggling, the crime of illegal business operation, the crime of divulging State secrets or other crimes; where criminal punishment is not sufficient, a penalty shall, in light of the different circumstances, be imposed in accordance with the relevant provisions of the Customs Law, or the competent foreign trade department under the State Council shall give a warning, confiscate the illegal gains and impose a fine of not less than one time but not more than five times the illegal gains; the competent foreign trade department under the State Council may also revoke its foreign trade business licence."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Whoever imports or exports technology belonging to the category of technology restricted from import or export beyond the scope of the licence without authorisation shall be investigated for criminal liability in accordance with law under the provisions of the Criminal Law on the crime of illegal business operation or other crimes; where criminal punishment is not sufficient, a penalty shall, in light of the different circumstances, be imposed in accordance with the relevant provisions of the Customs Law, or the competent foreign trade department under the State Council shall give a warning, confiscate the illegal gains and impose a fine of not less than one time but not more than three times the illegal gains; the competent foreign trade department under the State Council may also suspend or even revoke its foreign trade business licence."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Whoever forges, alters or trades in technology import and export licences or registration certificates for technology import and export contracts shall be investigated for criminal liability in accordance with law under the provisions of the Criminal Law on the crime of illegal business operation or the crime of forging, altering or trading in official documents, certificates or seals of state organs; where criminal punishment is not sufficient, a penalty shall be imposed in accordance with the relevant provisions of the Customs Law; the competent foreign trade department under the State Council may also revoke its foreign trade business licence."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Whoever obtains a technology import or export licence by deception or other improper means shall have its technology import and export licence revoked by the competent foreign trade department under the State Council, and its foreign trade business licence shall be suspended or even revoked."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Whoever obtains registration of a technology import and export contract by deception or other improper means shall have its registration certificate for the technology import and export contract revoked by the competent foreign trade department under the State Council, and its foreign trade business licence shall be suspended or even revoked."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where staff members engaged in technology import and export administration violate the provisions of these Regulations and divulge State secrets or commercial secrets they learn of, they shall be investigated for criminal liability in accordance with law under the provisions of the Criminal Law on the crime of divulging State secrets or the crime of infringing commercial secrets; where criminal punishment is not sufficient, administrative sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where staff members engaged in technology import and export administration abuse their powers, neglect their duties, or take advantage of their position to accept or demand property from others, they shall be investigated for criminal liability in accordance with law under the provisions of the Criminal Law on the crime of abuse of power, the crime of dereliction of duty, the crime of accepting bribes or other crimes; where criminal punishment is not sufficient, administrative sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter IV Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Whoever is dissatisfied with a decision on approval, licensing or registration relating to technology import or export, or with an administrative penalty decision, made by the competent foreign trade department under the State Council may apply for administrative reconsideration in accordance with law or institute proceedings in a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where the provisions on the administration of technology import and export formulated by the State Council before the promulgation of these Regulations are inconsistent with the provisions of these Regulations, these Regulations shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "These Regulations shall come into force on 1 January 2002. The Regulations of the People's Republic of China on the Administration of Technology Import Contracts issued by the State Council on 24 May 1985 and the Detailed Rules for the Implementation of the Regulations of the People's Republic of China on the Administration of Technology Import Contracts approved by the State Council on 30 December 1987 and issued by the Ministry of Foreign Economic Relations and Trade on 20 January 1988 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 52."
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
@@ -6011,6 +7358,684 @@
     ]
   };
 
+  TR['CN-REG-0526'] = {
+    "lawId": "CN-REG-0526",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 59 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of the Law of the People's Republic of China on Import and Export Commodity Inspection (hereinafter referred to as the Commodity Inspection Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The General Administration of Customs shall be the competent authority for import and export commodity inspection nationwide.\nThe entry-exit inspection and quarantine institutions established by the General Administration of Customs in the provinces, autonomous regions and municipalities directly under the Central Government and at the ports and distribution centres for import and export commodities, and their branches (hereinafter referred to as the entry-exit inspection and quarantine institutions), shall administer import and export commodity inspection in the areas for which they are responsible."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The General Administration of Customs shall, in accordance with the provisions of Article 4 of the Commodity Inspection Law, formulate and adjust the catalogue of import and export commodities subject to compulsory inspection (hereinafter referred to as the Catalogue) and publish it for implementation.\nThe Catalogue shall be published at least 30 days before the date of implementation; in urgent circumstances, it shall be published no later than the date of implementation.\nIn formulating and adjusting the Catalogue, the General Administration of Customs shall solicit the opinions of the competent department for foreign trade of the State Council and other relevant parties."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institutions shall conduct inspection of import and export commodities listed in the Catalogue and of other import and export commodities that laws and administrative regulations require to be inspected by the entry-exit inspection and quarantine institutions (hereinafter referred to as statutory inspection).\nThe entry-exit inspection and quarantine institutions shall conduct sampling inspection of import and export commodities other than those subject to statutory inspection in accordance with State provisions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Such items as quality inspection of imported and exported pharmaceuticals, verification of the values of measuring instruments, safety supervision and inspection of boilers and pressure vessels, classification inspection of ships (including offshore platforms, main marine equipment and materials) and containers, airworthiness inspection of aircraft (including aircraft engines and airborne equipment) and safety inspection of nuclear pressure-retaining equipment shall be inspected by the institutions prescribed by the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Samples, gifts, goods temporarily imported or exported and other non-trade items entering or leaving the territory shall be exempt from inspection; except as otherwise provided by laws and administrative regulations.\nWhere import and export commodities listed in the Catalogue meet the conditions for exemption from inspection prescribed by the State, upon application by the consignee, consignor or producing enterprise and approval after examination by the General Administration of Customs, the entry-exit inspection and quarantine institutions shall exempt them from inspection.\nThe specific measures for exemption from inspection shall be formulated by the General Administration of Customs in consultation with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Import and export commodities subject to statutory inspection shall be inspected by the entry-exit inspection and quarantine institutions in accordance with the provisions of Article 7 of the Commodity Inspection Law.\nThe General Administration of Customs may, in the light of the actual needs of import and export commodity inspection work and international standards, formulate technical specifications and industry standards for methods of import and export commodity inspection.\nThe technical specifications and standards applied or referred to in import and export commodity inspection and the technical specifications and standards for inspection methods shall be published at least six months before the date of implementation; in urgent circumstances, they shall be published no later than the date of implementation."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institutions shall, in light of the need to facilitate foreign trade, apply classified management to import and export enterprises and inspect import and export commodities in accordance with the inspection and supervision modes determined under internationally accepted conformity assessment procedures."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The contents of the inspection of import and export commodities by the entry-exit inspection and quarantine institutions include compliance with the requirements of safety, hygiene, health, environmental protection and prevention of fraud, as well as the relevant items of quality, quantity and weight."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institutions shall, in accordance with the provisions of the Commodity Inspection Law, exercise verification administration over import and export commodities subject to the licensing system and those that must be certified as prescribed by the State, checking the documents and verifying whether the certificates and the goods correspond.\nThe catalogue of import and export commodities subject to verification administration shall be formulated, adjusted and published by the General Administration of Customs after consultation with the relevant departments."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The consignee or consignor of import and export commodities may complete the inspection application formalities itself or entrust an agency inspection enterprise to do so; where import and export commodities are to be imported or exported by express delivery, the consignee or consignor shall entrust an entry-exit express delivery operating enterprise to complete the inspection application formalities."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The consignee or consignor of import and export commodities shall, when completing inspection application formalities, file a record with the entry-exit inspection and quarantine institution in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where an agency inspection enterprise, entrusted by the consignee or consignor of import and export commodities, completes inspection application formalities in the name of the principal, it shall submit a power of attorney to the entry-exit inspection and quarantine institution and comply with the various provisions of these Regulations applicable to the principal; where it completes inspection application formalities in its own name, it shall bear the same legal liability as the consignee or consignor.\nWhere an entry-exit express delivery operating enterprise, entrusted by the consignee or consignor of import and export commodities, completes inspection application formalities, it shall do so in its own name and bear the same legal liability as the consignee or consignor.\nWhere a principal entrusts an agency inspection enterprise or an entry-exit express delivery operating enterprise to complete inspection application formalities, it shall provide the agency inspection enterprise or entry-exit express delivery operating enterprise with the true particulars of the matters entrusted for inspection application; where an agency inspection enterprise or entry-exit express delivery operating enterprise completes inspection application formalities as entrusted by a principal, it shall reasonably examine the authenticity of the particulars provided by the principal."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The General Administration of Customs shall establish a risk early-warning mechanism for import and export commodities, and by collecting information on import and export commodity inspection, conduct risk assessment, determine the types of risk, and take corresponding risk early-warning measures and rapid response measures.\nThe General Administration of Customs and the entry-exit inspection and quarantine institutions shall promptly provide the relevant parties with information on import and export commodity inspection."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where staff members of the entry-exit inspection and quarantine institutions perform their duties in accordance with law, the relevant units and individuals shall cooperate, and no unit or individual may unlawfully interfere with or obstruct such performance."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The consignee of an imported commodity subject to statutory inspection shall, on the strength of the contract, invoice, packing list, bill of lading and other necessary vouchers and the relevant approval documents, apply for inspection to the entry-exit inspection and quarantine institution at the place of customs declaration; within 20 days after customs clearance and release, the consignee shall, in accordance with the provisions of Article 18 of these Regulations, apply to the entry-exit inspection and quarantine institution for inspection. Imported commodities subject to statutory inspection that have not been inspected may not be sold or used.\nFor imported commodities subject to verification administration, the consignee shall apply to the entry-exit inspection and quarantine institution at the place of customs declaration for verification. The entry-exit inspection and quarantine institutions shall conduct verification in accordance with the provisions of the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter II Inspection of Import Commodities"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "For imported commodities subject to statutory inspection and imported commodities subject to verification administration, the customs shall complete the customs clearance formalities in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter II Inspection of Import Commodities"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Imported commodities subject to statutory inspection shall be inspected at the destination declared by the consignee at the time of inspection application.\nBulk cargo in loose packing, perishable and easily deteriorating commodities, solid waste usable as raw materials, and commodities that have suffered damage or shortage shall be inspected at the port of unloading.\nFor the imported commodities prescribed in the preceding two paragraphs, the General Administration of Customs may, in light of the need to facilitate foreign trade and import and export commodity inspection work, designate other places for inspection."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter II Inspection of Import Commodities"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Unless otherwise provided by laws and administrative regulations, where an imported commodity subject to statutory inspection, after inspection, fails to meet the requirements in respect of items involving personal and property safety, health or environmental protection, the entry-exit inspection and quarantine institution shall order the party concerned to destroy it, or issue a notice of return for handling and complete the formalities for return shipment; where it fails to meet the requirements in respect of other items, technical treatment may be carried out under the supervision of the entry-exit inspection and quarantine institution, and it may be sold or used only after re-inspection shows that it is up to standard. Where a party concerned applies to the entry-exit inspection and quarantine institution for the issue of a certificate, the institution shall issue the certificate promptly.\nWhere imported complete sets of equipment and their materials fail to pass inspection, the entry-exit inspection and quarantine institution shall issue a notice prohibiting installation and use. They may be installed and used only after technical treatment and re-inspection by the entry-exit inspection and quarantine institution shows that they are up to standard."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter II Inspection of Import Commodities"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Where an imported commodity other than those subject to statutory inspection fails to pass sampling inspection by the entry-exit inspection and quarantine institution, it shall be dealt with in accordance with the provisions of Article 19 of these Regulations.\nWhere an imported commodity subject to verification administration fails verification by the entry-exit inspection and quarantine institution, it shall be dealt with by reference to the provisions of Article 19 of these Regulations or transferred to the relevant departments for handling.\nWhere the consignee of an imported commodity other than those subject to statutory inspection finds that the imported commodity is of unqualified quality or has suffered damage or shortage and applies for the issue of a certificate, the entry-exit inspection and quarantine institution or other inspection institution shall issue the certificate promptly after inspection."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter II Inspection of Import Commodities"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "For imported commodities and large complete sets of equipment that fall within the scope of statutory inspection and that concern the national economy and the people's livelihood, are of relatively high value, are technologically complex or are otherwise important, supervision of manufacture, pre-shipment inspection or supervision of loading shall be carried out as agreed in the foreign trade contract. The consignee reserves the right to final inspection and to claim compensation after arrival of the goods.\nThe entry-exit inspection and quarantine institutions may, as needed, send inspection personnel to participate in or organise the supervision of manufacture, pre-shipment inspection or supervision of loading."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter II Inspection of Import Commodities"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The State applies a registration system to foreign suppliers and domestic consignees of imported solid waste usable as raw materials; foreign suppliers and domestic consignees shall, before concluding a foreign trade contract, obtain registration from the General Administration of Customs or the entry-exit inspection and quarantine institution. The State applies a pre-shipment inspection system to imported solid waste usable as raw materials; at the time of import, the consignee shall provide the pre-shipment inspection certificate issued by the entry-exit inspection and quarantine institution or an inspection institution.\nFor high-risk imported used mechanical and electrical products of relatively high value that involve items of personal and property safety, health or environmental protection, pre-shipment inspection shall be carried out in accordance with the relevant provisions of the State, and at the time of import the consignee shall provide the pre-shipment inspection certificate issued by the entry-exit inspection and quarantine institution or an inspection institution.\nAfter the arrival of imported solid waste usable as raw materials and used mechanical and electrical products permitted by the State to be imported, the entry-exit inspection and quarantine institutions shall conduct inspection in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter II Inspection of Import Commodities"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "After the arrival of imported motor vehicles, the consignee shall, on the strength of the imported motor vehicle inspection certificate issued by the entry-exit inspection and quarantine institution and other documents issued by the relevant departments, apply to the vehicle administration authority for a driving licence plate. Where a quality defect involving personal and property safety is found in the course of use, the entry-exit inspection and quarantine institution shall promptly take the corresponding measures."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter II Inspection of Import Commodities"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The consignor of an exported commodity subject to statutory inspection shall, at the place and within the time limit uniformly prescribed by the General Administration of Customs, apply for inspection to the entry-exit inspection and quarantine institution on the strength of the contract and other necessary vouchers and the relevant approval documents. Exported commodities subject to statutory inspection that have not been inspected or that fail inspection may not be exported.\nExported commodities shall be inspected at the place of production of the commodities. The General Administration of Customs may, in light of the need to facilitate foreign trade and import and export commodity inspection work, designate other places for inspection.\nFor exported commodities subject to verification administration, the consignor shall apply to the entry-exit inspection and quarantine institution for verification. The entry-exit inspection and quarantine institutions shall conduct verification in accordance with the provisions of the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection of Export Commodities"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where an exported commodity inspected at the place of production needs to be exported against a replaced certificate at a port, the entry-exit inspection and quarantine institution at the place of production of the commodity shall issue a voucher for certificate replacement in accordance with the provisions. The consignor shall, within the prescribed time limit, apply to the entry-exit inspection and quarantine institution at the port for examination and verification on the strength of the voucher for certificate replacement and the necessary vouchers. Where examination and verification show that the commodity is up to standard, the entry-exit inspection and quarantine institution at the port shall issue a goods clearance note."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection of Export Commodities"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "For exported commodities subject to statutory inspection and exported commodities subject to verification administration, the customs shall complete the customs clearance formalities in accordance with the provisions."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection of Export Commodities"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where an exported commodity subject to statutory inspection fails inspection by the entry-exit inspection and quarantine institution or fails examination and verification by the entry-exit inspection and quarantine institution at the port, technical treatment may be carried out under the supervision of the entry-exit inspection and quarantine institution, and export may be permitted only after re-inspection shows that it is up to standard; where technical treatment cannot be carried out, or re-inspection after technical treatment still shows that it is not up to standard, export shall not be permitted."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection of Export Commodities"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Where an exported commodity other than those subject to statutory inspection fails sampling inspection by the entry-exit inspection and quarantine institution, it shall be dealt with in accordance with the provisions of Article 27 of these Regulations.\nWhere an exported commodity subject to verification administration fails verification by the entry-exit inspection and quarantine institution, it shall be dealt with by reference to the provisions of Article 27 of these Regulations or transferred to the relevant departments for handling."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection of Export Commodities"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "An enterprise producing packaging containers for dangerous goods for export shall apply to the entry-exit inspection and quarantine institution for performance appraisal of the packaging containers. Packaging containers may be used for packing dangerous goods only after they have passed appraisal by the entry-exit inspection and quarantine institution and a performance appraisal certificate has been obtained.\nAn enterprise producing dangerous goods for export shall apply to the entry-exit inspection and quarantine institution for appraisal of the use of the dangerous goods packaging containers. Dangerous goods packed in packaging containers that have not been appraised or that have failed appraisal may not be exported."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection of Export Commodities"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "For containers, ship's holds, aircraft, vehicles and other means of transport used for shipping perishable and easily deteriorating food and frozen products for export, the carrier, the packing unit or its agent shall, before loading, apply to the entry-exit inspection and quarantine institution for inspection of suitability for carriage in respect of cleanliness, hygiene, refrigeration and tightness. Where inspection has not been carried out or inspection shows that the requirements are not met, loading shall not be permitted."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter III Inspection of Export Commodities"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institutions may, in light of the need to facilitate foreign trade, conduct pre-delivery quality supervision and inspection of export commodities listed in the Catalogue.\nThe contents of the pre-delivery quality supervision and inspection conducted by the entry-exit inspection and quarantine institutions include supervision and inspection of the quality assurance work of the producing enterprises and pre-delivery inspection of the export commodities."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The State applies hygiene registration administration to import and export food producing enterprises. Only export food producing enterprises that have obtained hygiene registration may produce, process and store export food. Only food produced by import and export food producing enterprises that have obtained hygiene registration may be imported or exported.\nAn import food producing enterprise subject to hygiene registration administration shall apply to the General Administration of Customs for hygiene registration in accordance with the provisions.\nAn export food producing enterprise subject to hygiene registration administration shall apply to the entry-exit inspection and quarantine institution for hygiene registration in accordance with the provisions.\nWhere an export food producing enterprise needs hygiene registration abroad, after hygiene registration in accordance with the provisions of paragraph 3 of this Article, the General Administration of Customs shall handle the matter with foreign countries in a unified manner."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institutions shall, as needed, apply commodity inspection marks to import and export commodities that have passed inspection, and apply seals to import and export commodities that have passed inspection and other import and export commodities requiring seals. The specific measures shall be formulated by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institutions shall take samples of the import and export commodities inspected in accordance with the relevant provisions. For samples remaining after inspection, the entry-exit inspection and quarantine institutions shall notify the relevant units to collect them within the prescribed time limit; where they are not collected within the time limit, the entry-exit inspection and quarantine institutions shall dispose of them."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where the party applying for inspection of import and export commodities objects to the inspection result made by the entry-exit inspection and quarantine institution, it may, within 15 days from the date of receipt of the inspection result, apply for re-inspection to the entry-exit inspection and quarantine institution that made the inspection result, to the entry-exit inspection and quarantine institution at the higher level, or to the General Administration of Customs; the entry-exit inspection and quarantine institution or the General Administration of Customs accepting the re-inspection application shall make a re-inspection conclusion within 60 days from the date of receipt of the application. Where the technical issues are complex and a re-inspection conclusion cannot be made within the prescribed time limit, the time limit may be extended appropriately with the approval of the person in charge of the institution, but the extension shall not exceed 30 days at the most."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The General Administration of Customs or the entry-exit inspection and quarantine institutions may, in light of the need of import and export commodity inspection work, designate domestic and foreign testing institutions that meet the prescribed qualification requirements to undertake the testing of import and export commodities entrusted by the entry-exit inspection and quarantine institutions. Where a designated testing institution, upon examination, fails to meet the prescribed requirements, the General Administration of Customs or the entry-exit inspection and quarantine institution may cancel the designation."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where there is any objection to the inspection and appraisal business activities of an inspection institution, a complaint may be lodged with the General Administration of Customs or the entry-exit inspection and quarantine institution."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Where the General Administration of Customs or the entry-exit inspection and quarantine institutions exercise supervision and administration or investigate suspected violations of the laws and administrative regulations on import and export commodity inspection, they have the power to consult and copy the relevant contracts, invoices, account books and other relevant materials of the party concerned. Where the entry-exit inspection and quarantine institution has grounds to believe that an import or export commodity fails to meet the requirements in respect of items involving personal and property safety, health or environmental protection, it may, with the approval of the person in charge of the institution, seal up or seize the commodity."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The General Administration of Customs and the entry-exit inspection and quarantine institutions shall, in light of the need to facilitate foreign trade, take effective measures to simplify procedures and facilitate import and export.\nWhere the conditions are met, electronic data documents may be used in completing such formalities as inspection application, inspection and appraisal of import and export commodities."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institutions shall, in accordance with the provisions of the relevant laws and administrative regulations, issue certificates of origin under the Generalised System of Preferences, certificates of regional preferential origin and special certificates of origin for export goods.\nThe issue of ordinary certificates of origin for export goods shall be governed by the provisions of the relevant laws and administrative regulations."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Measures for the inspection administration by the entry-exit inspection and quarantine institutions of goods entering and leaving special customs supervision areas such as bonded zones and export processing zones and of import and export commodities under small-scale border trade shall be formulated separately by the General Administration of Customs."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Supervision and Administration"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Whoever, without authorisation, sells or uses imported commodities subject to statutory inspection that have not been submitted for inspection or have not been inspected, or sells or uses without authorisation imported commodities in respect of which an application for import verification should have been made but was not made, shall have the illegal gains confiscated by the entry-exit inspection and quarantine institution and be fined not less than 5 per cent and not more than 20 per cent of the value of the commodities; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Whoever, without authorisation, exports commodities subject to statutory inspection that have not been submitted for inspection or have not been inspected, or exports without authorisation commodities in respect of which an application for export verification should have been made but was not made, shall have the illegal gains confiscated by the entry-exit inspection and quarantine institution and be fined not less than 5 per cent and not more than 20 per cent of the value of the commodities; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Whoever sells or uses imported commodities that have failed statutory inspection, sampling inspection or verification, or exports commodities that have failed statutory inspection, sampling inspection or verification, shall be ordered by the entry-exit inspection and quarantine institution to stop selling, using or exporting, shall have the illegal gains and the commodities unlawfully sold, used or exported confiscated, and shall be fined not less than the value of the commodities unlawfully sold, used or exported and not more than three times that value; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where the consignee or consignor of import and export commodities, an agency inspection enterprise or an entry-exit express delivery operating enterprise, or an inspection applicant fails to truthfully provide the true particulars of the import and export commodities and obtains the relevant certificates and documents from the entry-exit inspection and quarantine institution, or fails to apply for inspection of import and export commodities subject to statutory inspection and evades import and export commodity inspection, the entry-exit inspection and quarantine institution shall confiscate the illegal gains and impose a fine of not less than 5 per cent and not more than 20 per cent of the value of the commodities.\nWhere the consignee or consignor of import and export commodities entrusts an agency inspection enterprise or an entry-exit express delivery operating enterprise to complete inspection application formalities but fails to provide the agency inspection enterprise or entry-exit express delivery operating enterprise with the true particulars of the matters entrusted for inspection application in accordance with the provisions, and obtains the relevant certificates and documents from the entry-exit inspection and quarantine institution, the principal shall be penalised in accordance with the provisions of the preceding paragraph.\nWhere an agency inspection enterprise, an entry-exit express delivery operating enterprise or an inspection applicant fails to reasonably examine the authenticity of the particulars provided by the principal, or through negligence in work causes the result of fraudulently obtaining the relevant certificates and documents from the entry-exit inspection and quarantine institution, the entry-exit inspection and quarantine institution shall impose a fine of not less than RMB 20,000 and not more than RMB 200,000 on the agency inspection enterprise or entry-exit express delivery operating enterprise."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Whoever forges, alters, buys or sells or steals inspection certificates, seals, marks, seals for closure, goods clearance notes, or uses forged or altered inspection certificates, seals, marks, seals for closure or goods clearance notes, where a criminal offence is constituted, shall have criminal liability pursued in accordance with law; where the act is not serious enough for criminal punishment, the entry-exit inspection and quarantine institution shall order rectification, confiscate the illegal gains and impose a fine of not more than the value of the commodities."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Whoever, without authorisation, substitutes samples taken by the entry-exit inspection and quarantine institution or import and export commodities that have passed inspection by the entry-exit inspection and quarantine institution shall be ordered by the entry-exit inspection and quarantine institution to make rectification and be given a warning; where the circumstances are serious, a fine of not less than 10 per cent and not more than 50 per cent of the value of the commodities shall also be imposed."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Whoever imports or exports food produced by a producing enterprise that is subject to hygiene registration administration prescribed by the State but has not obtained hygiene registration shall be ordered by the entry-exit inspection and quarantine institution to stop importing or exporting, shall have the illegal gains confiscated and shall be fined not less than 10 per cent and not more than 50 per cent of the value of the commodities.\nWhere an import or export food producing enterprise that has obtained hygiene registration, upon examination, fails to meet the prescribed requirements, the General Administration of Customs or the entry-exit inspection and quarantine institution shall order it to make rectification within a time limit; where rectification still fails to meet the prescribed requirements, or where there are other illegal acts and the circumstances are serious, its hygiene registration certificate shall be revoked."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where imported solid waste usable as raw materials is imported by a foreign supplier or domestic consignee that has not obtained registration, or without pre-shipment inspection, the goods shall be ordered to be returned in accordance with the relevant provisions of the State; where the circumstances are serious, the entry-exit inspection and quarantine institution shall also impose a fine of not less than RMB 100,000 and not more than RMB 1,000,000.\nWhere a registered foreign supplier or domestic consignee of solid waste usable as raw materials violates the relevant provisions of the State and the circumstances are serious, the entry-exit inspection and quarantine institution shall revoke its registration.\nWhere imported used mechanical and electrical products permitted by the State to be imported are not subjected to pre-shipment inspection in accordance with the provisions, they shall be returned in accordance with the relevant provisions of the State; where the circumstances are serious, the entry-exit inspection and quarantine institution shall also impose a fine of not more than RMB 1,000,000."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Whoever provides or uses packaging containers for dangerous goods for export that have not been appraised by the entry-exit inspection and quarantine institution shall be fined not more than RMB 100,000 by the entry-exit inspection and quarantine institution.\nWhoever provides or uses packaging containers that have failed appraisal by the entry-exit inspection and quarantine institution for packing dangerous goods for export shall be fined not more than RMB 200,000 by the entry-exit inspection and quarantine institution."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Whoever provides or uses containers, ship's holds, aircraft, vehicles or other means of transport that have not undergone inspection of suitability for carriage by the entry-exit inspection and quarantine institution for shipping perishable and easily deteriorating food and frozen products for export shall be fined not more than RMB 100,000 by the entry-exit inspection and quarantine institution.\nWhoever provides or uses containers, ship's holds, aircraft, vehicles or other means of transport that have failed inspection by the entry-exit inspection and quarantine institution for shipping perishable and easily deteriorating food and frozen products for export shall be fined not more than RMB 200,000 by the entry-exit inspection and quarantine institution."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Whoever, without authorisation, substitutes or damages commodity inspection marks or seals applied by the entry-exit inspection and quarantine institution shall be fined not more than RMB 50,000 by the entry-exit inspection and quarantine institution."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where an inspection institution engaged in import and export commodity inspection and appraisal business violates the relevant provisions of the State and disrupts the order of inspection and appraisal, the entry-exit inspection and quarantine institution shall order it to make rectification and confiscate the illegal gains, and may impose a fine of not more than RMB 100,000; the General Administration of Customs or the entry-exit inspection and quarantine institution may suspend its inspection and appraisal business for not more than six months."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where an agency inspection enterprise or an entry-exit express delivery operating enterprise violates the relevant provisions of the State and disrupts the order of inspection application, the entry-exit inspection and quarantine institution shall order it to make rectification and confiscate the illegal gains, and may impose a fine of not more than RMB 100,000; the General Administration of Customs or the entry-exit inspection and quarantine institution may suspend its agency inspection business for not more than six months."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where a staff member of an entry-exit inspection and quarantine institution abuses his powers and deliberately makes things difficult for the party concerned, or engages in malpractice for personal gain and forges inspection results, or neglects his duties and delays inspection and the issue of certificates, administrative sanctions shall be given in accordance with law; where he issues certificates of origin for export goods in violation of the provisions of the relevant laws and administrative regulations, administrative sanctions shall be given in accordance with law and the illegal gains shall be confiscated; where a criminal offence is constituted, criminal liability shall be pursued in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "The proceeds from the lawful disposal of confiscated commodities, the illegal gains confiscated and the fines collected by the entry-exit inspection and quarantine institutions shall all be turned over to the State Treasury."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter V Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Where a party is dissatisfied with a re-inspection conclusion or a penalty decision made by an entry-exit inspection and quarantine institution or the General Administration of Customs, it may apply for administrative reconsideration in accordance with law or bring an action before a people's court in accordance with law.\nWhere a party fails to perform a penalty decision within the time limit and neither applies for administrative reconsideration nor brings an action before a people's court, the institution that made the penalty decision may apply to a people's court for compulsory enforcement."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The entry-exit inspection and quarantine institutions implementing statutory inspection and the inspection institutions established in accordance with law handling inspection and appraisal business shall collect fees in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Regulations shall come into force on 1 December 2005. The Regulations of the People's Republic of China on the Implementation of the Law on Import and Export Commodity Inspection, approved by the State Council on 7 October 1992 and promulgated by the former State Administration for Import and Export Commodity Inspection of the People's Republic of China on 23 October 1992, shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0527'] = {
     "lawId": "CN-REG-0527",
     "sourceLang": "zh",
@@ -6782,6 +8807,1251 @@
     ]
   };
 
+  TR['CN-REG-0530'] = {
+    "lawId": "CN-REG-0530",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 53 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in accordance with the provisions of the Military Installations Protection Law of the People's Republic of China (hereinafter referred to as the Military Installations Protection Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where military installations are located, the local people's government at or above the county level and the military organ concerned stationed there shall jointly establish a committee for the protection of military installations, which shall be responsible for coordinating and guiding the protection of military installations within its administrative area.\nThe administrative office of the committee for the protection of military installations shall be established in the provincial military command (garrison command, fortress command), the military sub-command (garrison command) or the people's armed forces department of a county (autonomous county, city, municipal district), and shall handle the day-to-day work of the committee for the protection of military installations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A committee for the protection of military installations shall perform the following duties:\n(1) formulating measures for the protection of military installations in accordance with the laws and regulations on the protection of military installations and the principles and policies of the State;\n(2) organising and guiding the protection of military installations within its administrative area and coordinating the resolution of matters relating to the protection of military installations;\n(3) organising and carrying out publicity and education on the protection of military installations;\n(4) organising and carrying out supervision and inspection of the implementation of the laws and regulations on the protection of military installations."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The General Staff Department of the Chinese People's Liberation Army shall, under the leadership of the State Council and the Central Military Commission, be in charge of the protection of military installations throughout the country and shall guide the work of committees for the protection of military installations at various levels.\nThe command organs of military area commands shall be in charge of the protection of military installations within their areas of jurisdiction and shall guide the work of committees for the protection of military installations at various levels within their areas of jurisdiction.\nHigher-level committees for the protection of military installations shall guide the work of lower-level committees for the protection of military installations."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The relevant departments under the State Council shall, within the scope of their respective duties, be responsible for the work relating to the protection of military installations and shall assist military organs in implementing measures for the protection of military installations.\nLocal people's governments at or above the county level shall be responsible for the work relating to the protection of military installations within their respective administrative areas and shall assist the military organs stationed there in implementing measures for the protection of military installations."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Military organs shall brief the people's government at the place where they are stationed on the relevant circumstances of military installations and heed the opinions of that government; local people's governments shall brief the military organs stationed there on the relevant circumstances of economic construction and heed the opinions of those military organs."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "People's governments at various levels and military organs shall commend and reward organisations and individuals that achieve notable results in the protection of military installations."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The determination of military restricted zones and military administrative zones, the delimitation of their boundaries and the delimitation of the outer security control areas of military restricted zones shall be handled in accordance with the Military Installations Protection Law and the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Military Restricted Zones and Military Administrative Zones"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Within military restricted zones in waters, the entry of non-military vessels is prohibited, the construction or installation of non-military facilities is prohibited, and aquaculture, fishing and other activities that impede the movement of military vessels or affect security and confidentiality are prohibited."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Military Restricted Zones and Military Administrative Zones"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Within military administrative zones in waters, the construction or installation of non-military facilities and aquaculture are prohibited; fishing and other activities shall not affect the movement of military vessels."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Military Restricted Zones and Military Administrative Zones"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The waters of ports used jointly for military and civilian purposes that are designated as military administrative zones shall be managed by zones separating military and civilian use; where new non-military facilities need to be built in waters under civilian management, the consent of the military installation management unit concerned must be obtained in advance."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Military Restricted Zones and Military Administrative Zones"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Military restricted zones and military administrative zones shall be marked with signboards. The style, material and specifications of signboards shall be prescribed by the committee for the protection of military installations of the province, autonomous region or municipality directly under the Central Government, and the signboards shall be installed by the local people's government at or above the county level.\nWhere it is difficult to indicate the boundaries of military restricted zones or military administrative zones in waters by boundary markers or obstacles in the actual waters, the local competent departments of transport and fisheries administration shall jointly make a public announcement to society, and the competent department of surveying and mapping shall mark them on nautical charts."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Protection of Military Restricted Zones and Military Administrative Zones"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Operational works as referred to in the Military Installations Protection Law include tunnels, permanent fortifications and the supporting dedicated roads, bridges and culverts, water sources, power supply facilities, war reserve buildings and other ancillary facilities."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Operational Works"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Operational works not designated as military restricted zones or military administrative zones shall have security protection areas delimited around them. The security protection areas of operational works shall, on the basis of the deployment of the works, the terrain and the local situation of economic construction, be proposed in a plan by the provincial military command or by the competent military organ at or above the corps level of the unit managing the operational works, and shall be submitted to the military area command and the people's government of the province, autonomous region or municipality directly under the Central Government for approval.\nIn areas where operational works are relatively concentrated, their security protection areas may be delimited as contiguous tracts."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Operational Works"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The delimitation of the security protection areas of operational works shall not affect the ownership or the right of use of the land and the attachments thereon within those areas; units and residents within the security protection areas may carry on production and daily life as usual, but may not endanger the security, confidentiality or operational effectiveness of military installations."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Operational Works"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Within the security protection areas of operational works, quarrying, mining and blasting are prohibited, and the felling of trees is prohibited; the construction of buildings, structures and roads and the carrying out of basic farmland and water conservancy construction shall obtain the consent of the competent military organ at a higher level of the unit managing the operational works and of the local committee for the protection of military installations, and shall not affect the security, confidentiality or operational effectiveness of the operational works."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Operational Works"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "It is prohibited to open sealed operational works without authorisation, to damage the camouflage of operational works, or to block the passages into and out of operational works.\nWithout the approval of the competent military organ at or above the division level of the unit managing the operational works, no photography, videotaping, survey, measurement, drawing or description of operational works may be carried out, and no non-military materials or equipment may be stored in operational works and no production activities such as cultivation or breeding may be carried out there."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Operational Works"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where new works and construction projects genuinely cannot avoid operational works, an application shall be made in accordance with the relevant provisions of the State for the demolition, relocation or reconstruction of the operational works; where the application is not approved, the operational works may not be demolished, relocated or reconstructed."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Protection of Operational Works"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Airfield clearance as referred to in these Measures means the spatial area around a flight airfield within which the height of objects is restricted in order to ensure the safety of the take-off, landing and go-around of military aircraft (including helicopters).\nThe standards for the protection of military airfield clearance shall be implemented in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection of the Clearance of Military Airports"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "Within military airfield clearance protection areas, the construction of buildings, structures or other facilities exceeding the airfield clearance standards is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection of the Clearance of Military Airports"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Within military airfield clearance protection areas, the planting of vegetation, the installation of lights or objects, the discharge of smoke, dust, flame or waste gas, and other similar activities shall not affect flight safety or the operational effectiveness of airfield navigation aids."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection of the Clearance of Military Airports"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Units managing military airfields shall acquaint themselves with local urban plans and village and market town plans and with plans for the construction of tall buildings, and shall provide technical advice on the protection of military airfield clearance."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection of the Clearance of Military Airports"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Where tall buildings, structures or other facilities are to be constructed within military airfield clearance protection areas, the project owner must, before applying for project approval, seek in writing the opinions of the competent military organ at or above the corps level of the unit managing the military airfield; where the opinions of the military organ have not been sought, or where the designed height of the construction project exceeds the military airfield clearance protection standards, the relevant departments under the State Council and the relevant departments of local people's governments shall not process the construction permit procedures."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection of the Clearance of Military Airports"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Units managing military airfields shall periodically inspect the situation of airfield clearance protection and, on discovering buildings, structures or other facilities constructed without authorisation that exceed the military airfield clearance protection standards, shall promptly report to the higher authorities and to the local committee for the protection of military installations.\nLocal people's governments shall keep abreast of the situation relating to the protection of local military airfield clearance, formulate protection measures, and urge the units concerned to install flight obstacle markers on tall buildings, structures or other facilities within military airfield clearance protection areas."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection of the Clearance of Military Airports"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where tall buildings, structures or other facilities are to be newly built near existing natural obstacles within the side clearance protection areas of military airfields, they must conform to the provisions of the State on airfield clearance."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection of the Clearance of Military Airports"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The provisions on the protection of military airfield clearance shall apply to the clearance protection of airfields used jointly for military and civilian purposes and of old airfields and highway airstrips retained under military management."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Protection of the Clearance of Military Airports"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Military communication and power transmission lines as referred to in the Military Installations Protection Law include:\n(1) overhead lines: poles (towers), wires (cables), transformers, distribution rooms and other ancillary facilities;\n(2) buried lines: underground and submarine cables (optical cables), conduits, inspection wells, marker stones, submarine cable marker boards, unattended carrier repeater stations, cable inflation stations and other ancillary facilities;\n(3) wireless links: unattended microwave stations, microwave passive reflectors, antennas of fixed radio stations (posts) of various types and other ancillary facilities."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Military Communications Lines, Power Transmission Lines and Military Oil and Water Pipelines"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Military oil and water transmission pipelines as referred to in the Military Installations Protection Law mean above-ground, underground or underwater oil and water transmission pipelines dedicated to military use and the booster stations, metering stations, treatment yards, oil depots, valve chambers, markers and other ancillary facilities along the pipelines."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Military Communications Lines, Power Transmission Lines and Military Oil and Water Pipelines"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Units managing military communication and power transmission lines and military oil and water transmission pipelines (hereinafter referred to as military pipelines and lines) shall strengthen maintenance management and adhere to systems of patrol inspection and testing; where necessary, they may organise armed patrols and deal promptly with any problems found."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Military Communications Lines, Power Transmission Lines and Military Oil and Water Pipelines"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Local people's governments at various levels and the military organs stationed in their areas shall, in light of the actual situation, organise the masses along military pipelines and lines to carry out joint military-civilian protection of the lines in such forms as entrusted custody and responsibility by section, so as to protect the security of military pipelines and lines."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Military Communications Lines, Power Transmission Lines and Military Oil and Water Pipelines"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "Underground military pipelines and lines shall be marked with route marker stones or permanent markers, and marker boards shall be installed on sections (parts) liable to damage. Underwater military pipelines and lines shall be marked on nautical charts."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Military Communications Lines, Power Transmission Lines and Military Oil and Water Pipelines"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The specific requirements for the protection of military pipelines and lines and the handling of mutual interference between military pipelines and lines and other facilities shall be implemented in accordance with the relevant provisions of the State Council and the Central Military Commission."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Protection of Military Communications Lines, Power Transmission Lines and Military Oil and Water Pipelines"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The electromagnetic environment of fixed military radio installations as referred to in these Measures (hereinafter referred to as the military electromagnetic environment) means the area delimited around fixed installations for military radio reception (transmission), reconnaissance, direction finding, radar and navigation and positioning in order to ensure their normal operation, within which electromagnetic interference signals and electromagnetic obstacle objects are restricted.\nThe specific requirements for the protection of the military electromagnetic environment shall be implemented in accordance with the relevant standards prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Protection of the Electromagnetic Environment of Fixed Military Radio Installations"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Within the scope of protection of the military electromagnetic environment, the construction, installation or use of equipment that transmits or radiates electromagnetic signals and of electromagnetic obstacle objects is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Protection of the Electromagnetic Environment of Fixed Military Radio Installations"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where local authorities arrange construction projects within the scope of protection of the military electromagnetic environment that may affect that environment, the opinions of the military organ concerned shall be sought in accordance with the provisions; where necessary, the military installation management unit and the local department concerned may jointly test and verify the degree of interference and the impact of electromagnetic obstacle objects."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Protection of the Electromagnetic Environment of Fixed Military Radio Installations"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "When examining and approving, and when conducting acceptance of, construction projects within the scope of protection of the military electromagnetic environment, the relevant departments of people's governments at various levels shall review the situation of equipment transmitting or radiating electromagnetic signals and of electromagnetic obstacle objects and the situation of seeking the opinions of the military organ; where the opinions of the military organ have not been sought, or where the national standards for the protection of the electromagnetic environment are not met, the procedures for construction or use permits shall not be processed."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Protection of the Electromagnetic Environment of Fixed Military Radio Installations"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Units managing fixed military radio installations shall keep abreast of the situation of protection of the military electromagnetic environment and, on discovering problems, promptly report to the higher-level military organ and the local committee for the protection of military installations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Protection of the Electromagnetic Environment of Fixed Military Radio Installations"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "Border defence facilities as referred to in these Measures mean military installations used and managed by border defence units, such as border patrol roads, border wire fences (iron railings), border monitoring equipment, auxiliary border management markers, border defence helicopter landing sites and border defence vessel and boat berths."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VII Protection of Frontier Defence Facilities and Military Survey Markers"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "No organisation or individual may demolish or move border defence facilities without authorisation without the consent of the unit managing the border defence facilities."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Protection of Frontier Defence Facilities and Military Survey Markers"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where projects such as the opening of ports, border trade areas or tourist sites, or the construction of roads, pipelines or bridges in border areas involve border defence facilities, the opinions of the military organ shall be sought in accordance with the relevant provisions; where border defence facilities need to be relocated or reconstructed, the matter shall be submitted to the committee for the protection of military installations of the province, autonomous region or municipality directly under the Central Government concerned for approval; the location, quality and standards of the relocated or reconstructed border defence facilities must conform to the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Protection of Frontier Defence Facilities and Military Survey Markers"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "The protection of military survey markers shall be handled in accordance with the provisions of the relevant laws and regulations of the State."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Protection of Frontier Defence Facilities and Military Survey Markers"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where personnel on duty of a military installation management unit encounter any of the illegal acts listed in Article 30 of the Military Installations Protection Law, they may take the following compulsory measures to stop them:\n(1) expelling persons who have illegally entered a military restricted zone from that zone;\n(2) seizing the devices, tools or other articles used to commit the illegal act, and detaining persons whose illegal circumstances are serious and immediately transferring them to the public security organ or state security organ;\n(3) in an emergency, removing obstacles that seriously endanger the security and operational effectiveness of military installations."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 9, Article 10 or Article 11 of these Measures, non-military facilities are constructed or installed within military restricted zones or military administrative zones in waters or in the waters of ports used jointly for military and civilian purposes, the competent departments of urban planning, transport and fisheries administration shall, in accordance with their respective functions and powers, order the cessation of the construction; where construction has been completed, they shall order its demolition within a prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 9 or Article 10 of these Measures, a person enters a military restricted zone in waters without authorisation, engages in aquaculture or fishing within a military restricted zone in waters, or engages in aquaculture within a military administrative zone in waters, the competent departments of transport and fisheries administration shall, in accordance with their respective functions and powers, give a warning, order the person to leave and may confiscate fishing gear and catches."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 16 of these Measures, quarrying, mining, blasting or tree felling is carried out within the security protection area of operational works, the public security organ and the competent departments of land and resources and of forestry administration shall, in accordance with their respective functions and powers, order the cessation of the illegal act and confiscate the products extracted and the illegal gains; where losses are caused, compensation shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 16 of these Measures, buildings, structures or roads are constructed without authorisation within the security protection area of operational works, or basic farmland and water conservancy construction is carried out there, the competent departments of urban planning, transport and agriculture shall, in accordance with their respective functions and powers, give a warning and order correction within a prescribed time limit; where losses are caused, compensation shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 17 of these Measures, the sealing or camouflage of operational works is damaged, the passages of operational works are blocked, or operational works are used for storing goods or for cultivation or breeding, the public security organ shall order the cessation of the illegal act and restoration to the original state within a prescribed time limit; where losses are caused, compensation shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 20 or Article 25 of these Measures, buildings, structures or other facilities exceeding the military airfield clearance protection standards are constructed within military airfield clearance protection areas, the competent department of urban planning administration shall order the demolition of the excess height within a prescribed time limit."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 34 of these Measures, equipment that transmits or radiates electromagnetic signals or electromagnetic obstacle objects are constructed, installed or used within the scope of protection of the military electromagnetic environment, the competent departments of urban planning and of information industry administration shall, in accordance with their respective functions and powers, give a warning and order correction within a prescribed time limit; where correction is refused, the interfering equipment shall be sealed up or the obstacles shall be compulsorily removed."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where, in violation of the provisions of Article 18, Article 39 or Article 40 of these Measures, operational works or border defence facilities are demolished, relocated or reconstructed without authorisation, or border defence facilities are moved without authorisation, the competent department of urban planning administration shall order the cessation of the illegal act and restoration to the original state within a prescribed time limit; where losses are caused, compensation shall be made in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a violation of these Measures constitutes an act in violation of public security administration, the public security organ shall impose a penalty in accordance with law; if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VIII Compulsory Measures and Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The Military Installations Protection Law and these Measures shall apply to the protection of military installations belonging to the Chinese People's Armed Police Force."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "These Measures shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter IX Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0531'] = {
+    "lawId": "CN-REG-0531",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 52 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Criminal Procedure Law of the People's Republic of China and the provisions of other relevant laws in order to ensure the smooth conduct of criminal proceedings."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A detention house is an organ that holds in custody persons arrested in accordance with law or criminally detained.\nOffenders sentenced to fixed-term imprisonment of not more than one year, or whose remaining term of sentence is not more than one year, and who are not conveniently sent to a reform-through-labour site for execution, may also be supervised by a detention house."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The tasks of a detention house are to keep inmates in custody under armed guard in accordance with the laws of the State, ensure security, educate inmates, manage the living conditions and health of inmates, and ensure the smooth conduct of investigation, prosecution and adjudication."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In supervising inmates, a detention house must adhere to the policy of combining strict guarding with education, persist in lawful, strict, scientific and civilised management, and safeguard the lawful rights and interests of inmates. It is strictly prohibited to beat, scold, physically punish or maltreat inmates."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Detention houses shall be established by administrative area at or above the county level and shall be under the jurisdiction of the public security organ at the corresponding level.\nThe departments (bureaux) of state security of provinces, autonomous regions and municipalities directly under the Central Government may, as needed, establish detention houses.\nPublic security organs at or above the county level equivalent to that level in systems such as railways, transport, forestry and civil aviation may establish detention houses."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "A detention house shall have one director and one or two deputy directors; and shall, in light of the needs of its work, be staffed with a number of personnel for guarding, education and management, medical care, finance and accounting, and cooking.\nA detention house shall be staffed with female personnel to manage female inmates."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Armed guarding and escort of inmates by a detention house shall be undertaken by the Chinese People's Armed Police Force (hereinafter referred to as the Armed Police). A detention house shall provide professional guidance to the Armed Police performing such tasks."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The supervisory activities of a detention house shall be subject to the legal supervision of a people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "To admit an inmate, a detention house shall require the arrest warrant or criminal detention warrant issued by a public security organ or state security organ at or above the county level and held by the transferring organ, or a document certifying temporary deposit for custody issued by a public security organ or state security organ at or above the county level, a prison or a reform-through-labour organ, or a people's court or a people's procuratorate that is pursuing and escorting the inmate. Where such documents are absent, or where the particulars recorded in the documents do not conform to the actual situation, the inmate shall not be admitted."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Admission to Custody"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A detention house shall conduct a health examination when admitting an inmate, and shall not admit the inmate under any of the following circumstances:\n(1) suffering from mental illness or an acute infectious disease;\n(2) suffering from other serious diseases that may endanger life during custody or that render the person unable to attend to daily living, except where the person is extremely wicked and releasing him or her from custody would endanger society;\n(3) women who are pregnant or who are breastfeeding their own infants under one year of age."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Admission to Custody"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "When admitting an inmate, a detention house shall conduct a strict search of the person and the articles carried. Articles other than daily necessities shall be registered and kept on the inmate's behalf, and shall be checked and returned, or transferred to the prison or reform-through-labour organ, upon release. Contraband shall be confiscated. Where evidence of a crime or suspicious articles are discovered, a record shall be made on the spot, and after the inmate signs and affixes a fingerprint, it shall be sent to the case-handling organ for handling.\nThe personal search of a female inmate shall be conducted by female personnel."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Admission to Custody"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "When an inmate is admitted, a file on the inmate shall be established."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Admission to Custody"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "When an inmate is admitted, the inmate shall be informed of the prison rules that must be observed during custody and of the lawful rights and interests enjoyed."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Admission to Custody"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Male and female inmates, adult and minor inmates, accomplices in the same case and other inmates who need to be held separately shall be held in separate custody."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Admission to Custody"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Where a public security organ or state security organ has concluded its investigation and a people's procuratorate decides to accept the case, or where a people's procuratorate has completed review or investigation and a people's court decides to accept the case, and the inmate is transferred successively from one organ to another, procedures for changing custody shall be completed and the detention house shall be notified in writing."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Admission to Custody"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "A detention house shall operate a 24-hour duty system. Duty personnel shall remain at their posts and patrol the cells at all times."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Guard and Surveillance"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Offenders sentenced to death but not yet executed must be fitted with restraints.\nWhere facts indicate that an inmate may commit assault, riot, escape or suicide, restraints may be used with the approval of the director of the detention house. In an emergency, restraints may be used first and the director of the detention house shall be notified afterwards. Once the above circumstances are eliminated, the restraints shall be removed."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Guard and Surveillance"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where any of the following circumstances occurs and other measures cannot stop it, guarding personnel and the Armed Police may fire shots in accordance with the relevant provisions:\n(1) the inmate escapes from prison or stages a riot;\n(2) the inmate escapes and ignores orders to stop, or resists arrest during pursuit;\n(3) the inmate is taken hostage;\n(4) the inmate possesses controlled knives or other dangerous objects and is committing assault or sabotage;\n(5) the inmate threatens by violence the lives of guarding personnel or the Armed Police.\nWhere shots need to be fired, a warning shot shall be fired first unless the circumstances are particularly urgent, and firing shall cease immediately if the inmate shows submission. After shots are fired, the scene shall be protected and the competent public security organ and the people's procuratorate shall be notified immediately."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Guard and Surveillance"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "When a public security organ, state security organ, people's procuratorate or people's court brings an inmate in for interrogation, it must hold an interrogation certificate or summons. There shall be not fewer than two interrogating personnel.\nWhere the provisions of the preceding paragraph are not met, the detention house shall refuse the interrogation."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter IV Interrogation and Escort"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "After the interrogating personnel have finished questioning the inmate, they shall immediately hand the inmate over to the duty guarding personnel for custody and shall retrieve the interrogation certificate or summons."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter IV Interrogation and Escort"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "Escorting personnel must keep strict watch over inmates while escorting them so as to prevent accidents. Restraints may be used on the escorted inmate.\nWhen escorting a female inmate, female personnel shall be responsible for managing her daily needs during the journey."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Interrogation and Escort"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Cells shall be ventilated and lit and shall be capable of preventing damp, heat and cold. A detention house shall regularly inspect the cells and carry out timely repairs to prevent fire and other natural disasters.\nThe living space of inmates in custody shall not adversely affect their daily life."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter V Living Conditions and Health"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Food for inmates during custody shall be supplied according to the prescribed standards, and withholding or misappropriating it is prohibited.\nFor inmates of ethnic minorities and foreign nationality, due consideration shall be given to their ethnic customs and habits and appropriate care shall be taken in their daily life."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter V Living Conditions and Health"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Inmates shall provide their own clothing and bedding. Where they genuinely cannot do so, the detention house shall provide them."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter V Living Conditions and Health"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Inmates shall have the necessary time for sleep and one to two hours of outdoor activity each day.\nA detention house shall establish systems for epidemic prevention and for cleanliness and hygiene among inmates."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter V Living Conditions and Health"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "A detention house shall be equipped with the necessary medical instruments and commonly used medicines. Inmates who fall ill shall be given timely treatment; where treatment in a hospital is needed, the local hospital shall be responsible for the treatment; where the illness is serious, release on bail pending trial may be granted in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter V Living Conditions and Health"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Where an inmate dies during custody, the people's procuratorate and the case-handling organ shall be notified immediately, a forensic medical expert or a doctor shall determine the cause of death, and the family of the deceased shall be notified."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Living Conditions and Health"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "An inmate may, during custody, correspond with and meet near relatives with the consent of the case-handling organ and the approval of the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter VI Meetings and Correspondence"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Where a near relative of an inmate becomes seriously ill or dies, the inmate shall be notified promptly.\nWhere the spouse, parents or children of an inmate are critically ill, the inmate may, except in cases of major importance, be permitted to return home to visit under strict supervision with the consent of the case-handling organ and the approval of the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter VI Meetings and Correspondence"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Articles given to an inmate by near relatives must be inspected by guarding personnel."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter VI Meetings and Correspondence"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "A detention house may, at the request of the case-handling organ, inspect letters sent and received by an inmate. Where letters are found to impede investigation, prosecution or adjudication, they may be withheld and transferred to the case-handling organ for handling."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter VI Meetings and Correspondence"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "In a case in which a people's procuratorate has decided to institute a public prosecution, an inmate in custody may, after receiving a copy of the indictment, meet and correspond with a defender retained by the inmate or a defender designated by a people's court."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter VI Meetings and Correspondence"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "A detention house shall provide inmates with education on the law, on morality and, where necessary, on the current situation and on labour."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VII Education, Awards and Punishments"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "On the premise of ensuring security and not affecting criminal proceedings, a detention house may organise inmates to perform appropriate labour.\nAccounts shall be kept and procedures strictly followed for the income from and expenditure on the labour of inmates."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VII Education, Awards and Punishments"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Where an inmate observes the prison rules and performs well during custody, the inmate shall be praised and encouraged; where the inmate renders meritorious service, the matter shall be reported to the case-handling organ for lenient handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VII Education, Awards and Punishments"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "A detention house may give a warning or admonition to an inmate who violates the prison rules; where the circumstances are serious and the inmate refuses to mend his or her ways after education, the detention house may order the inmate to sign a statement of repentance or, with the approval of the director of the detention house, place the inmate in solitary confinement."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VII Education, Awards and Punishments"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Where an inmate commits an offence during custody, the detention house shall promptly notify the case-handling organ of the circumstances for handling in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VII Education, Awards and Punishments"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "For offenders sentenced to death with a two-year reprieve, life imprisonment, fixed-term imprisonment, criminal detention or public surveillance, a detention house shall complete the release procedures on the basis of the notice of execution and the judgment of the people's court."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VIII Release"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "For persons lawfully released, a detention house shall complete the release procedures on the basis of the release notice of the people's court, people's procuratorate, public security organ or state security organ.\nA release certificate shall be issued to a released person in custody."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VIII Release"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "For persons decided to be re-educated through labour and inmates transferred elsewhere for custody, a detention house shall complete the release procedures on the basis of the certifying documents of the competent authorities concerned."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VIII Release"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "A detention house shall educate its personnel to strictly enforce the law and strictly observe discipline, and shall report on its supervisory activities to the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IX Procuratorial Supervision"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "A detention house shall carefully study and promptly handle the opinions on correcting unlawful circumstances put forward by a people's procuratorate, and shall inform the people's procuratorate of the handling results."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IX Procuratorial Supervision"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where the statutory period of custody of an inmate is about to expire while the case has not yet been concluded, a detention house shall promptly notify the case-handling organ to conclude the case speedily; where the statutory period of custody has been exceeded, the circumstances shall be reported to the people's procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter X Other Provisions"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "An inmate in custody whose right to vote has not been decided to be suspended by a people's procuratorate or a people's court shall be permitted to participate in the election of deputies to people's congresses at or below the county level."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter X Other Provisions"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a detention house discovers among inmates during custody a wrongful detention, wrongful arrest or wrongful conviction, it shall promptly notify the case-handling organ to verify and handle the matter in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter X Other Provisions"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "A detention house shall promptly transmit petitions of appeal and petitions of complaint from inmates and may not obstruct or withhold them.\nMaterials in which an inmate exposes or accuses judicial personnel of unlawful acts shall be promptly reported to a people's procuratorate for handling."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter X Other Provisions"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "A detention house that supervises convicted offenders shall implement the legal provisions on the management of convicted offenders."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Budgets shall be prepared and reported for the repair costs and the maintenance costs of inmates of a detention house, and special funds shall be allocated by the finance authorities at various levels in accordance with the subordinate relationship.\nThe expenditure of a detention house shall be kept in a separate account and used for designated purposes only.\nNewly built and relocated detention houses shall be incorporated into urban construction planning and listed as capital construction projects."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "The terms \"not less than\" and \"not more than\" as used in these Regulations include the figures and levels themselves."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "These Regulations shall be interpreted by the Ministry of Public Security, and the measures for their implementation shall be formulated by the Ministry of Public Security."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The Chinese People's Liberation Army may formulate separate measures for implementation in light of the specific circumstances of military detention houses."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation, and the provisions on detention houses in the Regulations of the People's Republic of China on Reform Through Labour promulgated by the Government Administration Council on 7 September 1954 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter XI Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0533'] = {
     "lawId": "CN-REG-0533",
     "sourceLang": "zh",
@@ -7533,6 +10803,717 @@
         },
         "chapter": {
           "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0536'] = {
+    "lawId": "CN-REG-0536",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 59 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Mine Safety Law of the People's Republic of China (hereinafter referred to as the Mine Safety Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of the Mine Safety Law and these Regulations, the following expressions have the following meanings:\nMine means the premises and their ancillary facilities at which mineral resources extraction activities are carried on within the mining area approved in accordance with law.\nMineral resources extraction activities mean prospecting for mineral resources and mine construction, production, closing and related activities carried on within the mining area approved in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The State adopts policies and measures to support the development of mine safety education, encourage research into and the popularisation of safe mining technology, safety management methods and safety equipment and instruments, and promote scientific and technological progress in mine safety."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "People's governments at all levels, the relevant government departments and enterprises and public institutions shall, in accordance with the relevant provisions of the State, give awards to units and individuals that fall under any of the following circumstances:\n(a) being loyal to their duties and achieving outstanding results in mine safety management and supervision;\n(b) distinguishing themselves in preventing mine accidents or in rescue and relief work;\n(c) achieving outstanding results in popularising mine safety technology and improving mine safety facilities;\n(d) putting forward rational suggestions on mine work safety with notable results;\n(e) making inventions and scientific research achievements with notable results in improving mine working conditions or preventing mine accidents."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The geological prospecting report used for mine design shall include the following technical data:\n(a) the nature and scale of relatively large faults, fracture zones, landslides and mud-rock flows;\n(b) the lithology, thickness and attitude of aquifers (including karst caves) and water-resisting strata; the hydraulic connection between aquifers and between surface water and groundwater; the phreatic water level, quality, quantity and flow direction of groundwater; the drainage capacity of surface water systems and the relevant water conservancy works; and the local precipitation over the years and the highest flood level;\n(c) the distribution range, mining depth and water accumulation of the original small kilns and old kilns within the scope of the mine design;\n(d) the occurrence of methane and carbon dioxide, and the possibility of spontaneous combustion of minerals and of dust explosion;\n(e) the composition, content and pattern of variation of mineral components harmful to human health, and the natural radioactivity background data for the prospecting area for at least one year;\n(f) for geothermal anomaly areas and hot-water mining areas, the thermal conductivity of rock, the geothermal gradient, the source, temperature and pressure of hot water and its quantity, and the extent of the delineated thermal hazard zone;\n(g) the sources and quality of water for industrial and domestic use;\n(h) data on the sealing of boreholes;\n(i) other data required for the mine design."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Guarantees for Mine Construction"
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In preparing the feasibility study report and the overall design of a mine construction project, the safety conditions of mining shall be demonstrated.\nThe preliminary design of a mine construction project shall include a special safety section. The requirements for preparing the special safety section shall be prescribed by the competent department for labour administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Guarantees for Mine Construction"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In accordance with the provisions of Article 8 of the Mine Safety Law, when a mine construction unit submits the design documents for the safety facilities of a mine construction project to the competent department administering the mine enterprise for approval, it shall at the same time submit them to the competent department for labour administration for examination; without the examination opinion of the competent department for labour administration, the competent department administering the mine enterprise shall not grant approval.\nWhere the approved design of the safety facilities of a mine construction project needs to be modified, the opinion of the competent department for labour administration that originally participated in the examination shall be solicited."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Guarantees for Mine Construction"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A mine construction project shall be constructed in accordance with the approved design documents and the quality of construction shall be assured; after completion of the project, application shall be made for acceptance in accordance with the relevant provisions of the State.\nThe construction unit shall, 60 days before acceptance, submit to the competent department administering the mine enterprise and the competent department for labour administration a comprehensive report on the construction and completion of the safety facilities of the mine construction project."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Guarantees for Mine Construction"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The competent department administering the mine enterprise and the competent department for labour administration shall, within 30 days from the date of receipt of the comprehensive report on the construction and completion of the safety facilities of the mine construction project submitted by the construction unit, inspect the safety facilities of the mine construction project; where they do not conform to the mine safety regulations and industry technical specifications, acceptance shall not be granted and production or use shall not be permitted."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Guarantees for Mine Construction"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "A mine shall have safety facilities that ensure safe production and prevent accidents and occupational hazards, and shall meet the following basic requirements:\n(1) each pit shall have at least two independent safety exits that are passable by persons and lead directly to the surface. Each production level (sublevel) and each mining district (panel) of the pit shall have at least two safety exits passable by persons and connected with the exits leading directly to the surface;\n(2) each pit shall have an independent ventilation system using mechanical ventilation to ensure a sufficient air volume at underground workplaces; provided that small pits without methane may use natural ventilation on the premise that the air volume required by underground workplaces is ensured;\n(3) the cross-sections of shafts and roadways shall meet the needs of persons passing, transport, ventilation and the installation, maintenance and construction of safety facilities and equipment;\n(4) shaft and roadway support and stope roof management shall ensure the safety of workplaces;\n(5) sufficient safety barrier pillars shall be left between adjacent pits, between a pit and an open-pit mine and between a pit and old kilns. The layout of mine shafts and roadways shall leave sufficient ore pillars or rock pillars to ensure surface and underground safety;\n(6) the bench height, platform width and slope angle of an open-pit mine shall meet the needs of safe operation and slope stability. For dredge mining of sand, there shall be a sufficient safety distance between the boundary of the mining pond and surface buildings and equipment;\n(7) there shall be surface and underground water prevention and drainage systems and measures to prevent surface water from flowing into underground workings and open-pit workings;\n(8) ore passes shall have safety measures to prevent and deal with blockage;\n(9) in a pit where spontaneous combustion is possible, the main haulage roadways shall be laid in rock strata or ore seams not prone to spontaneous combustion, and preventive grouting or other effective measures to prevent spontaneous combustion shall be adopted;\n(10) the surface fire-fighting facilities of the mine shall conform to the relevant State provisions on fire protection. The pit shall have fire prevention and extinguishing facilities and equipment;\n(11) the surface and underground power supply and distribution systems shall conform to the relevant State provisions;\n(12) the hoisting and transport equipment, devices and facilities of the mine shall meet the following requirements:\n(a) steel wire ropes, connecting devices, hoisting conveyances and safety chains shall have a sufficient safety factor;\n(b) there shall be sufficient clearance between the hoisting conveyance and the shaft wall and guide beams, and between two hoisting conveyances;\n(c) hoisting winches and hoisting conveyances shall have reliable safety protection devices;\n(d) the selection of electric locomotives, overhead lines and tracks shall meet safety requirements;\n(e) mechanical equipment for transporting persons shall have reliable safety protection devices;\n(f) hoisting and transport equipment shall have sensitive and reliable signal devices;\n(13) each pit shall have a water supply system for dust prevention. All surface and underground workplaces where dust is generated shall have comprehensive dust prevention measures;\n(14) in a pit where a methane or dust explosion is possible, explosion-proof electrical equipment shall be used and dust prevention and explosion isolation measures shall be adopted;\n(15) a pit mining radioactive minerals shall meet the following requirements:\n(a) the intake air volume and air quality of the pit shall meet the needs of radon reduction, and series ventilation and circulation of contaminated air shall be avoided;\n(b) main intake airways shall be driven outside the ore vein, and intake airways passing through ore veins or rock masses with well-developed fissures shall have measures to prevent radon emanation;\n(c) retreat mining shall be adopted;\n(d) underground contaminated water shall be prevented from dispersing, and a closed contaminated water discharge system shall be adopted;\n(16) the premises where the mine stores blasting materials shall conform to the relevant State provisions;\n(17) waste dumps and spoil heaps shall have safety measures to prevent mud-rock flows and other hazards, and tailings ponds shall have safety facilities to prevent dam failure and other accidents;\n(18) there shall be preventive measures against hazards caused by landslides and by surface subsidence induced by mining activities;\n(19) each pit shall be equipped with a sufficient number of ventilation measuring instruments and instruments for detecting toxic and harmful gases and the underground environment. A pit with methane outbursts shall be equipped with a monitoring system or detecting instruments;\n(20) there shall be transport facilities and communication facilities connected with the outside world and meeting safety requirements;\n(21) there shall be facilities such as changing rooms and bathrooms."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Safety Guarantees for Mine Construction"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Operating procedures shall be prepared for excavation operations, specifying the technical and organisational measures to ensure the safety of operating personnel, and shall be promptly revised and supplemented when circumstances change."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "The following drawings and data shall be available for mining:\n(a) geological maps (including hydrogeological maps and engineering geological maps);\n(b) the general layout plan of the mine and the surface and underground comparison map of the pit;\n(c) layout plans of the pit, roadways and stopes;\n(d) the main system diagrams of mine production and safety assurance."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Mine enterprises shall mine within the area approved by the mining licence, and mining across seams or beyond the boundary is prohibited."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The following equipment, materials, protective articles and safety testing instruments used in mines shall conform to the national safety standards or industry safety standards; those that do not conform to the national safety standards or industry safety standards shall not be used:\n(a) excavation, support, loading, transport, hoisting, ventilation, drainage, methane drainage, compressed air and lifting equipment;\n(b) electric motors, transformers, distribution cabinets, electrical switches and electrical control devices;\n(c) blasting materials, communication equipment, miner's lamps, cables, steel wire ropes, support materials and fireproof materials;\n(d) various safety and hygiene testing instruments and meters;\n(e) self-rescuers, safety helmets, dust-proof and poison-proof masks or face shields, protective clothing, protective footwear and other protective articles and rescue equipment;\n(f) other equipment and materials with special safety requirements as determined by the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Mine enterprises shall periodically inspect and maintain mechanical and electrical equipment and their protective devices and safety testing instruments, and establish technical files to ensure safety in use.\nPersons not responsible for the operation of equipment shall not operate the equipment. Persons not on electrical duty shall not carry out electrical work. Persons operating electrical equipment shall have reliable insulation protection. Live-line work shall not be carried out when servicing electrical equipment."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The concentration of toxic and harmful substances in the air at mine workplaces shall not exceed the national standards or industry standards; mine enterprises shall conduct periodic testing in accordance with the methods prescribed by the State and the following requirements:\n(a) at dust-generating workplaces, testing shall be carried out at least twice a month;\n(b) at workplaces involving trinitrotoluene, testing shall be carried out at least once a month;\n(c) at workplaces involving radioactive substances, testing shall be carried out at least three times a month;\n(d) at other workplaces involving toxic and harmful substances, testing shall be carried out at least once a month underground and at least once a quarter on the surface;\n(e) where respirable dust is tested by the personal sampling method, testing shall be carried out at least once a quarter."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "In underground excavation operations, the roof and sides must be managed in accordance with the operating procedures. Support shall be strengthened when excavation operations pass through geological fracture zones or other places where the roof and sides are broken.\nIn open-pit mining and stripping operations, the bench height, width, slope angle and final slope angle of the working face shall be controlled in accordance with the design requirements. Mining, stripping and waste dumping operations shall not cause harm to deep or adjacent shafts and roadways."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Coal mines and other pits where a methane explosion is possible shall strictly implement the methane inspection system, and no person may carry tobacco or ignition devices underground."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "Mining under the following conditions shall be carried out on the basis of special design documents prepared and submitted to the competent department administering the mine enterprise for approval:\n(a) where there are methane outbursts;\n(b) where there is rock burst;\n(c) where mining is carried out beneath buildings, structures and railways requiring protection;\n(d) where mining is carried out beneath bodies of water;\n(e) where mining is carried out in areas with geothermal anomalies or hot water inflow."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A pit where spontaneous combustion is possible shall adopt the following measures:\n(a) promptly clearing floating ore and other combustible substances from the stope and promptly sealing the goaf after the completion of mining;\n(b) adopting fire prevention grouting or other effective measures to prevent spontaneous combustion;\n(c) periodically inspecting the sealing of shafts, roadways and mining districts, measuring the temperature and air volume at places where spontaneous combustion is possible, and periodically testing the temperature, air pressure and air composition in fire areas."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "In underground excavation operations, advance water prospecting shall be carried out under any of the following circumstances:\n(a) when approaching confined aquifers or water-bearing faults, quicksand layers, gravel layers, karst caves or subsidence columns;\n(b) when approaching geological fracture zones connected with surface water bodies, or unsealed boreholes connected with confined strata;\n(c) when approaching water-accumulating old kilns or old roadways, or goafs that have been filled with mud slurry;\n(d) when signs of water inflow are found;\n(e) when breaking through barrier pillars or rock pillars to release water."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The air volume, air quality and air velocity underground and the climate of the working environment shall conform to the provisions of the mine safety regulations.\nIn the intake air current of a working face, the oxygen content shall not be less than 20 per cent and the carbon dioxide content shall not exceed 0.5 per cent by volume.\nThe air temperature at underground workplaces shall not exceed 28 degrees Celsius; where it exceeds that level, cooling or other protective measures shall be taken."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "A pit mining radioactive minerals must adopt the following measures to reduce the amount of radon emanation:\n(a) promptly sealing goafs and shafts and roadways that have been abandoned or are temporarily not in use;\n(b) adopting downward ventilation in stopes worked by the shrinkage method;\n(c) strictly managing underground contaminated water."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Blasting operations in mines and the manufacture, storage, transport, testing and destruction of blasting materials must strictly comply with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Mine enterprises shall adopt comprehensive dust prevention measures for surface and underground operations that generate dust so as to control dust hazards.\nDry drilling is prohibited in underground pneumatic rock drilling."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Mine enterprises shall establish and improve a system for the inspection and maintenance of surface subsidence areas, waste dumps, spoil heaps and tailings ponds, and shall adopt preventive measures against possible hazards."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "Mine enterprises shall close mines in accordance with the relevant provisions of the State and adopt preventive measures against hazards that may arise after the closure of the mine. The mine closure report shall include the following:\n(a) the scope of mining and the treatment of goafs;\n(b) the sealing measures adopted for the pit;\n(c) the methods of dealing with other unsafe factors."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Safety Guarantees for Mining"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Mine enterprises shall establish and improve the following work safety responsibility systems:\n(a) the work safety responsibility system for administrative leadership posts;\n(b) the work safety responsibility system for functional bodies;\n(c) the work safety responsibility system for personnel at their posts."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The mine manager (including the director of a mining bureau and the manager of a mining company, the same below) shall bear the following responsibilities for the work safety of the enterprise:\n(a) earnestly implementing the provisions of the Mine Safety Law, these Regulations and other laws and regulations relating to mine work safety;\n(b) formulating the work safety management systems of the enterprise;\n(c) appointing qualified safety personnel as needed to conduct shift-following inspections at each workplace;\n(d) taking effective measures to improve the working conditions of employees and ensuring the timely supply of the materials, equipment, instruments and labour protection articles required for safe production;\n(e) providing safety education and training to employees in accordance with the provisions of these Regulations;\n(f) formulating plans for the prevention of and emergency response to mine disasters;\n(g) promptly taking measures to deal with hidden accident risks existing in the mine;\n(h) promptly and truthfully reporting mine accidents to the competent department for labour administration and the competent department administering the mine enterprise."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Mine enterprises shall, as needed, establish safety bodies or appoint full-time safety personnel. Full-time safety personnel shall have received training, possess the necessary professional safety knowledge and mine safety work experience, and be competent for on-site safety inspection work."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The mine manager shall periodically report the following matters to the employees' congress or the general meeting of employees and accept democratic supervision:\n(a) major decisions of the enterprise on work safety;\n(b) the enterprise's safety technical measures plan and its implementation;\n(c) the plan for safety education and training of employees and its implementation;\n(d) the handling of suggestions and requests made by employees for improving working conditions;\n(e) the handling of major accidents;\n(f) other important matters relating to work safety."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Employees of mine enterprises enjoy the following rights:\n(a) the right to obtain information on safety and occupational hazards at workplaces;\n(b) the right to report the safety situation and existing problems of the mine to the relevant departments and trade union organisations;\n(c) the right to criticise, report and complain about any decision or act that endangers the safety and health of employees."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "Employees of mine enterprises shall perform the following obligations:\n(a) complying with the laws and regulations on mine safety and the rules and regulations of the enterprise;\n(b) maintaining the production equipment and facilities of the mine enterprise;\n(c) receiving safety education and training;\n(d) promptly reporting dangerous situations and participating in rescue and relief work."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "The trade union of a mine enterprise has the right to urge the administrative side of the enterprise to strengthen safety education and training of employees and to carry out safety publicity activities so as to raise the work safety awareness and technical quality of employees."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Mine enterprises shall provide safety education and training to employees in accordance with the following provisions:\n(a) newly recruited underground workers shall receive not less than 72 hours of safety education and training, and after passing the examination must work for four full months under the guidance of employees with safety work experience, and may work independently only after passing a further assessment;\n(b) newly recruited workers of open-pit mines shall receive not less than 40 hours of safety education and training and may take up their posts only after passing the examination;\n(c) persons transferred to other types of work or working with new processes must be retrained and may take up their posts only after passing the examination;\n(d) all production workers shall receive not less than 20 hours of in-service safety education and training each year.\nMine enterprises shall pay wages during the period of safety education and training of employees.\nThe particulars of safety education and training of employees and the results of assessment shall be recorded and kept on file."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The safety education and training provided by mine enterprises to employees shall include the following:\n(a) the rights and obligations of mine employees conferred by the Mine Safety Law and these Regulations;\n(b) the mine safety regulations and the rules and regulations of the mine enterprise relating to safety management;\n(c) safety knowledge relating to the employee's own work;\n(d) identification of the signs of various accidents, emergency measures and escape routes in the event of an emergency;\n(e) the use of self-rescue equipment and knowledge of first aid;\n(f) other contents prescribed by the relevant competent departments."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "Special operation personnel such as methane inspectors, blasters, ventilation workers, signalmen, shaft-bank attendants, electricians, metal welding (cutting) workers, mine pump operators, methane drainage workers, main fan operators, main hoist operators, winch operators, conveyor operators, tailings workers, safety inspectors and drivers of motor vehicles in mines shall receive specialised technical training and may take up their posts only after passing the assessment and obtaining the operation qualification certificate. The assessment and certification of special operation personnel shall be carried out in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The assessment of the safety qualifications of a mine manager shall include the following:\n(a) the Mine Safety Law and the relevant laws and regulations and mine safety regulations;\n(b) knowledge of mine safety;\n(c) ability in work safety management;\n(d) ability in handling mine accidents;\n(e) performance in work safety."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The labour protection articles distributed by mine enterprises to employees shall be products that have passed appraisal and inspection. The standards for the distribution of labour protection articles shall be formulated by the competent department for labour administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Mine enterprises shall prepare a plan for the prevention of and emergency response to mine disasters each year and shall, at the end of each quarter, promptly revise the plan and formulate corresponding measures in the light of actual circumstances.\nMine enterprises shall familiarise each employee with the plan for the prevention of and emergency response to mine disasters and shall organise at least one mine rescue drill each year.\nMine enterprises shall, in accordance with the relevant provisions of the State and the requirements of different workplaces, install mine safety signs."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Mine enterprises shall establish mine rescue and medical first aid organisations composed of full-time or part-time personnel. A small mine enterprise that is unable to establish a separate professional rescue and medical first aid organisation shall, in addition to establishing a part-time rescue and medical first aid organisation, conclude a rescue and first aid agreement with a neighbouring mine enterprise that has a professional rescue and medical first aid organisation, or jointly establish a professional rescue and medical first aid organisation with a neighbouring mine enterprise.\nMine rescue and medical first aid organisations shall have fixed premises, training apparatus and training grounds.\nThe standards for the size and equipment of mine rescue and medical first aid organisations shall be prescribed by the relevant competent department administering mine enterprises of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Mine enterprises must carry on production under the safety conditions prescribed by the State and shall allocate part of their funds to the following items for improving the conditions of mine work safety:\n(a) safety technical measures for preventing mine accidents;\n(b) labour hygiene technical measures for preventing occupational hazards;\n(c) safety training of employees;\n(d) other technical measures for improving the conditions of mine work safety.\nThe funds required for the preceding paragraph shall be actually allocated and charged by the mine enterprise at the rate of 20 per cent of the mine maintenance and simple construction fund; for a mine enterprise that has no mine maintenance and simple construction fund, the funds shall be actually allocated and charged at the rate of 20 per cent of the depreciation charge on fixed assets."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter IV Safety Administration of Mining Enterprises"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "The competent departments for labour administration of people's governments at or above the county level shall appoint mine safety supervisors in accordance with the actual needs of mine safety supervision work.\nMine safety supervisors must be familiar with technical knowledge of mine safety, have mine safety work experience and be competent for mine safety inspection work.\nMine safety supervision certificates and special marks shall be uniformly produced by the competent department for labour administration of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration of Mine Safety"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "When performing their duties, mine safety supervisors have the right to enter premises for inspection, attend relevant meetings, consult relevant materials without charge and ascertain the facts from the relevant units and persons.\nWhere a mine safety supervisor, in the course of an on-site inspection, finds a situation endangering the safety and health of employees, he has the right to require the mine enterprise to correct it immediately or resolve it within a time limit; in urgent circumstances, he has the right to require the mine enterprise to stop operations immediately and withdraw operating personnel from the dangerous area.\nThe competent department for labour administration may entrust testing institutions with the sampling inspection of mine workplaces and of equipment, instruments and materials in use that involve relatively high risks.\nThe competent department for labour administration shall, in accordance with law, put forward opinions on handling situations found in inspections that violate the Mine Safety Law, these Regulations and other laws and regulations relating to mine safety."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration of Mine Safety"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Mine safety supervisors shall, when performing official duties, produce their mine safety supervision certificates, enforce the law impartially and comply with the relevant provisions."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Supervision and Administration of Mine Safety"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "After an accident occurs in a mine, the persons concerned at the scene of the accident shall immediately report it to the mine manager or the responsible persons concerned; upon receiving the accident report, the mine manager or the responsible persons concerned must immediately take effective measures, organise rescue work, prevent the accident from expanding and do their utmost to reduce casualties and property losses."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Mine Accidents"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "After a mine accident causing serious injury or death occurs, the mine enterprise shall truthfully report it to the competent department for labour administration and the competent department administering the mine enterprise within 24 hours."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Mine Accidents"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Upon receiving a report of a fatal accident or an accident causing serious injury to three or more persons at one time, the competent department for labour administration and the competent department administering the mine enterprise shall immediately report it to the people's government at the same level and to their respective competent departments at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Mine Accidents"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a casualty accident occurs, the mine enterprise and the units concerned shall protect the scene of the accident; where some objects at the scene need to be moved for the purpose of rescue, marks must be made, a sketch of the accident scene drawn and detailed records kept; production may be resumed only after the danger at the scene has been eliminated and preventive measures have been taken."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Mine Accidents"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "After a mine accident occurs, the relevant departments shall conduct investigation and handling of the accident in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Mine Accidents"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The investigation and handling of a mine accident shall be concluded within 90 days from the date of the accident; in special circumstances, it may be extended appropriately, but shall not exceed 180 days. After the conclusion of the handling of a mine accident, the result of handling shall be published."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Handling of Mine Accidents"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Fines imposed in accordance with the provisions of Article 40 of the Mine Safety Law shall be executed respectively in accordance with the following provisions:\n(a) where employees are assigned to posts without safety education and training, a fine of not more than RMB 40,000 shall be imposed;\n(b) where equipment, materials, protective articles and safety testing instruments that do not conform to the national safety standards or industry safety standards are used, a fine of not more than RMB 50,000 shall be imposed;\n(c) where the special funds for safety technical measures are not allocated or used in accordance with the provisions, a fine of not more than RMB 50,000 shall be imposed;\n(d) where a mine safety supervisor is refused on-site inspection, or hidden accident risks are concealed or the situation is not truthfully reported during inspection, a fine of not more than RMB 20,000 shall be imposed;\n(e) where a mine accident is not reported promptly and truthfully in accordance with the provisions, a fine of not more than RMB 30,000 shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a fine is imposed in accordance with the provisions of Article 43 of the Mine Safety Law, the amount of the fine shall be not less than RMB 50,000 and not more than RMB 100,000."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Whoever violates the provisions of Articles 15, 16, 17, 18, 19, 20, 21, 22, 23 and 25 of these Regulations shall be ordered by the competent department for labour administration to make rectification and may be fined not more than RMB 20,000."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "After receiving a notice of fine, the party concerned shall pay the fine at the designated financial institution within 15 days; where the fine is not paid within the time limit, a late fee of 3 per mille per day shall be charged from the date of default."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "Where a person in charge of a mine enterprise commits any of the following acts and thereby causes a mine accident, disciplinary sanctions shall be given in accordance with the provisions; where a criminal offence is constituted, the judicial authorities shall pursue criminal liability in accordance with law:\n(a) giving directions in violation of rules and regulations, or forcing workers to work in violation of rules and regulations or at risk;\n(b) turning a blind eye to repeated violations of rules and regulations by workers and failing to stop them;\n(c) failing to take timely measures in respect of signs of a major accident or discovered hidden risks;\n(d) failing to comply with the supervisory instructions of the competent department for labour administration or failing to adopt the rectification opinions put forward by the relevant departments, thereby causing serious consequences."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "The mine safety regulations and industry technical specifications revised or formulated by the competent department administering mine enterprises of the State Council in accordance with the Mine Safety Law and these Regulations shall be submitted to the competent department for labour administration of the State Council for the record."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "The safety provisions for oil and natural gas extraction shall be formulated by the competent department for labour administration of the State Council together with the competent department for the petroleum industry and shall come into force after approval by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 59,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 59."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
@@ -13640,6 +17621,699 @@
     ]
   };
 
+  TR['CN-REG-0558'] = {
+    "lawId": "CN-REG-0558",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 58 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the provisions of the Audit Law of the People's Republic of China (hereinafter referred to as the Audit Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of the Audit Law, \"audit\" means the conduct of audit institutions, independently and in accordance with the law, of the accounting vouchers, accounting books, financial accounting reports and other materials and assets of the audited units relating to fiscal revenue and expenditure and financial revenue and expenditure, and the supervision of the truthfulness, lawfulness and effectiveness of fiscal revenue and expenditure and financial revenue and expenditure."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of the Audit Law, \"fiscal revenue and expenditure\" means revenue and expenditure incorporated into budgetary management in accordance with the Budget Law of the People's Republic of China and other relevant provisions of the State, as well as the following fiscal funds whose revenue and expenditure are not incorporated into budgetary management:\n(a) administrative and institutional charges;\n(b) revenue from State-owned resources and State-owned assets;\n(c) proceeds from State-owned capital operations that shall be turned over to the State;\n(d) funds raised through debts incurred by the government; and\n(e) other fiscal funds not incorporated into budgetary management."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "For the purposes of the Audit Law, \"financial revenue and expenditure\" means the various revenues and expenditures of State-owned financial institutions, enterprises and institutional organisations and other units that shall be subject to audit supervision by audit institutions in accordance with the law and that are accounted for in accordance with the provisions of the State's financial accounting system."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Audit institutions shall conduct audit supervision in accordance with the duties, powers and procedures prescribed by the Audit Law, these Regulations and other relevant laws and regulations.\nAudit institutions shall conduct audit evaluation in accordance with the laws and regulations on fiscal revenue and expenditure and financial revenue and expenditure, as well as the provisions of the State on relevant policies, standards and project objectives, and shall, within the scope of their statutory functions and powers, make decisions on handling and punishment in respect of acts of audited units violating State provisions on fiscal revenue and expenditure or financial revenue and expenditure."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Any unit or individual has the right to report to an audit institution acts of units that shall be subject to audit supervision by audit institutions in accordance with the law which violate State provisions on fiscal revenue and expenditure or financial revenue and expenditure. Audit institutions shall, upon receiving a report, promptly handle it in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The National Audit Office shall, under the leadership of the Premier of the State Council, take charge of audit work nationwide and perform the duties prescribed by the Audit Law and the State Council.\nLocal audit institutions at all levels shall, under the leadership of the administrative heads of the people's governments at the corresponding level and of the audit institutions at the next higher level, be responsible for audit work within their respective administrative areas and perform the duties prescribed by laws, regulations and the people's governments at the corresponding level."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Audit Institutions and Auditors"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the people's governments of provinces and autonomous regions have established dispatched organs, the audit institutions of the dispatched organs shall be responsible to and report their work to the dispatched organs and the audit institutions of the people's governments of the provinces and autonomous regions, and their audit operations shall be mainly under the leadership of the audit institutions of the people's governments of the provinces and autonomous regions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Audit Institutions and Auditors"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "The dispatched offices of audit institutions shall, in accordance with laws, regulations and the provisions of audit institutions, carry out audit work within the scope of authorisation of the audit institutions, free from interference by other administrative organs, social organisations and individuals."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Audit Institutions and Auditors"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The main bases for the preparation by audit institutions of the draft annual budget for their own expenses include:\n(a) laws and regulations;\n(b) decisions and requirements of the people's government at the corresponding level;\n(c) the annual audit work plan of the audit institution;\n(d) staffing and quota standards; and\n(e) the implementation of the budget for the previous year and the factors of change in the current year."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Audit Institutions and Auditors"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "A system of professional technical qualifications for audit shall be applied to auditors, and the specific implementation shall be in accordance with the relevant provisions of the State.\nAudit institutions may, according to the needs of their work, engage persons with professional knowledge relating to audit matters to participate in audit work."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Audit Institutions and Auditors"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where an auditor handling an audit matter falls under any of the following circumstances, the auditor shall apply for withdrawal, and the audited unit also has the right to apply for the withdrawal of the auditor:\n(a) having a husband-and-wife relationship, a direct blood relationship, a collateral blood relationship within three generations, or a close affinity relationship with the person in charge or the relevant responsible personnel of the audited unit;\n(b) having an economic interest relationship with the audited unit or the audit matter; and\n(c) having other interest relationships with the audited unit, the audit matter, or the person in charge or the relevant responsible personnel of the audited unit that may affect the impartial performance of official duties.\nThe withdrawal of an auditor shall be decided by the person in charge of the audit institution; and the withdrawal of the person in charge of an audit institution when handling an audit matter shall be decided by the person in charge of the people's government at the corresponding level or of the audit institution at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Audit Institutions and Auditors"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "The appointment and removal of the principal and deputy persons in charge of local audit institutions at all levels shall be subject to the opinions of the audit institution at the next higher level in advance."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Audit Institutions and Auditors"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "The person in charge of an audit institution shall not be replaced at will during his or her term of office unless any of the following circumstances applies:\n(a) criminal liability is pursued on account of a crime;\n(b) a sanction is imposed for serious violation of the law or dereliction of duty, making the person unsuitable to continue serving as the person in charge of the audit institution;\n(c) the person is unable to perform his or her duties for more than 1 year for reasons of health; or\n(d) the person does not meet other conditions for holding office prescribed by the State."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Audit Institutions and Auditors"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "Audit institutions shall conduct audit supervision in accordance with the law over the circumstances of the specific organisation by the finance department of the people's government at the corresponding level of the implementation of the budget at the corresponding level, over the collection of budgetary revenue by the budgetary revenue collecting departments at the corresponding level, over the budget implementation and final accounts of the departments and units that have direct budgetary payment and allocation relationships with the finance department of the people's government at the corresponding level, over the budget implementation and final accounts of the people's governments at lower levels, and over other fiscal revenue and expenditure. With the approval of the people's government at the corresponding level, audit institutions shall conduct audit supervision in accordance with the law over the truthfulness, lawfulness and effectiveness of the receipt and use of fiscal funds by other units and projects that obtain fiscal funds."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "The content of audit supervision by audit institutions over the implementation of budgetary revenue and expenditure at the corresponding level includes:\n(a) the circumstances of the finance department's approval of budgets to the departments at the corresponding level (including units directly subordinate thereto) in accordance with the budget at the corresponding level approved by the people's congress at the corresponding level, the adjustments made in the implementation of the budget at the corresponding level and changes in budgetary revenue and expenditure;\n(b) the circumstances of the collection of budgetary revenue by the budgetary revenue collecting departments in accordance with the provisions of laws and administrative regulations and other relevant provisions of the State;\n(c) the circumstances of the appropriation by the finance department of funds for budgetary expenditure at the corresponding level in accordance with the approved annual budget, the plan for the use of funds and the prescribed budgetary levels and procedures;\n(d) the circumstances of the appropriation and management by the finance department of intergovernmental fiscal transfer payment funds and the handling of settlements and carry-overs in accordance with the provisions of laws and administrative regulations and the fiscal management system;\n(e) the circumstances of the State treasury's handling of the collection, apportionment, retention and remittance of budgetary revenue and the appropriation of funds for budgetary expenditure in accordance with the relevant provisions of the State;\n(f) the circumstances of the implementation of the annual budget by the departments at the corresponding level (including units directly subordinate thereto);\n(g) the revenue and expenditure of budgetary funds under special management in accordance with the relevant provisions of the State; and\n(h) other circumstances of budget implementation prescribed by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "The audit results report referred to in Article 17 of the Audit Law shall include the following content:\n(a) the basic circumstances of the implementation of the budget at the corresponding level and other fiscal revenue and expenditure;\n(b) the audit evaluation made by the audit institution on the implementation of the budget at the corresponding level and other fiscal revenue and expenditure;\n(c) the problems existing in the implementation of the budget at the corresponding level and other fiscal revenue and expenditure and the measures taken by the audit institution in accordance with the law;\n(d) the recommendations made by the audit institution for improving the management of the implementation of the budget at the corresponding level and other fiscal revenue and expenditure; and\n(e) other circumstances that the people's government at the corresponding level requires to be reported."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The National Audit Office shall conduct audit supervision in accordance with the law over the various items of financial revenue and expenditure incurred by the central bank and its branches in the performance of their duties.\nThe audit results report on the implementation of the central budget and other fiscal revenue and expenditure submitted by the National Audit Office to the Premier of the State Council shall include the audit circumstances of the financial revenue and expenditure of the central bank."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The enterprises and financial institutions in which State-owned capital holds a controlling or leading position referred to in Article 21 of the Audit Law include:\n(a) those in which the proportion of State-owned capital in the total capital (share capital) of the enterprise or financial institution exceeds 50 per cent; and\n(b) those in which the proportion of State-owned capital in the total capital (share capital) of the enterprise or financial institution is below 50 per cent but the State-owned capital investment entity holds actual control.\nUnless otherwise provided by the State Council, audit institutions shall conduct audit supervision over the enterprises and financial institutions specified in the preceding paragraph by reference to the provisions of the second paragraph of Article 18 and Article 20 of the Audit Law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The construction projects invested by the government and construction projects mainly invested by the government referred to in Article 22 of the Audit Law include:\n(a) those wholly using fiscal funds such as budgetary investment funds, special construction funds and funds raised through debts incurred by the government; and\n(b) those not wholly using fiscal funds where the proportion of fiscal funds in the total investment of the project exceeds 50 per cent, or where the proportion is below 50 per cent but the government holds actual control over the construction and operation of the project.\nAudit institutions shall conduct audit supervision in accordance with the law over the implementation of the total budget or estimated budget of the construction projects specified in the preceding paragraph, the implementation of the annual budget and the annual final accounts, the settlement of individual works and the final accounts upon completion of the projects; and when auditing the construction projects specified in the preceding paragraph, they may investigate the truthfulness and lawfulness of the project funds obtained by the directly related design, construction and supply units."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The social security funds referred to in Article 23 of the Audit Law include funds for social insurance, social assistance and social welfare and other special funds for the development of social security undertakings; and the funds donated by society referred to therein include donations in various forms such as currency, negotiable securities and goods in kind originating from within and outside the territory of China."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The projects of aid and loans from international organisations and foreign governments referred to in Article 24 of the Audit Law include:\n(a) loan projects provided by international organisations, foreign governments and their agencies to the Chinese Government and its agencies;\n(b) loan projects provided by international organisations, foreign governments and their agencies to Chinese enterprises and institutional organisations and other organisations that are guaranteed by the Chinese Government and its agencies;\n(c) aid and grant projects provided by international organisations, foreign governments and their agencies to the Chinese Government and its agencies;\n(d) aid and grant projects provided by international organisations, foreign governments and their agencies to units entrusted by the Chinese Government with the management of the relevant funds and moneys; and\n(e) other projects of aid and loans provided by international organisations, foreign governments and their agencies."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Audit institutions may, in accordance with the audit procedures and methods prescribed by the Audit Law and these Regulations and other relevant provisions of the State, conduct special audit investigations of specific matters relating to budget management or the management and use of State-owned assets and other matters relating to State fiscal revenue and expenditure with the local authorities, departments and units concerned."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Audit institutions shall determine the scope of audit jurisdiction on the basis of the fiscal and financial subordinate relationships of the audited units; and where the scope of audit jurisdiction cannot be determined on the basis of fiscal and financial subordinate relationships, it shall be determined on the basis of the relationship of supervision and management of State-owned assets.\nFinancial institutions, enterprises and institutional organisations and construction projects invested in by two or more State-owned capital investment entities shall be subject to audit supervision by the audit institution with audit jurisdiction over the principal investment entity."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Audit institutions at all levels shall conduct audit supervision in accordance with the determined scope of audit jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "The internal audit work of units that are subject to audit supervision by audit institutions in accordance with the law shall be subject to the professional guidance and supervision of audit institutions.\nUnits that are subject to audit supervision by audit institutions in accordance with the law may, according to the needs of internal audit work, join lawfully established self-regulatory organisations for internal audit. Audit institutions may, through self-regulatory organisations for internal audit, strengthen professional guidance over and supervision of internal audit work."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "When conducting audits or special audit investigations, audit institutions have the power to verify the relevant audit reports issued by social audit institutions.\nWhere, in verifying the relevant audit reports issued by social audit institutions, an audit institution discovers that a social audit institution has violated laws, regulations or professional practice standards, it shall refer the matter to the relevant competent organ to pursue liability in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter III Functions and Duties of Audit Institutions"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "When audit institutions conduct audit supervision in accordance with the law, the audited units shall, in accordance with the provisions of Article 31 of the Audit Law, provide audit institutions with the materials relating to fiscal revenue and expenditure and financial revenue and expenditure. The persons in charge of the audited units shall make written commitments as to the truthfulness and completeness of the materials provided by their units."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Powers of Audit Institutions"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The finance, taxation and other departments (including units directly subordinate thereto) of people's governments at all levels shall submit the following materials to the audit institutions at the corresponding level:\n(a) the budget at the corresponding level approved by the people's congress at the corresponding level and the budgets approved by the finance department of the people's government at the corresponding level to the departments at the corresponding level (including units directly subordinate thereto), the annual revenue plan of the budgetary revenue collecting departments, and the budgets approved by the departments at the corresponding level (including units directly subordinate thereto) to the units under them;\n(b) the monthly and annual reports on the implementation of budgetary revenue and expenditure at the corresponding level and on the completion of the revenue plans of the budgetary revenue collecting departments, as well as the final accounts;\n(c) the comprehensive annual statistical reports and briefings on fiscal and taxation work, and the rules and regulations on finance, budget, taxation, financial affairs and accounting; and\n(d) the draft final accounts of the departments at the corresponding level (including units directly subordinate thereto) compiled in a consolidated manner."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Powers of Audit Institutions"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "Where an audit institution, in accordance with the provisions of Article 33 of the Audit Law, inquires into the accounts of an audited unit with a financial institution, it shall present a notice of assistance in inquiring into the unit's accounts signed and issued by the person in charge of the audit institution of the people's government at or above the county level; and where it inquires into the deposits of an audited unit held in a financial institution in the name of an individual, it shall present a notice of assistance in inquiring into individual deposits signed and issued by the principal person in charge of the audit institution of the people's government at or above the county level. The financial institutions concerned shall provide assistance and provide supporting materials, and the audit institution and auditors shall be under the duty of confidentiality."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Powers of Audit Institutions"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The assets obtained in violation of State provisions referred to in Article 34 of the Audit Law include:\n(a) fiscal appropriations, goods in kind and loans from financial institutions obtained by fraud or deception;\n(b) assets obtained by enjoying preferential policies such as State subsidies, grants, interest discounts, interest exemptions, tax reductions, tax exemptions and tax refunds in violation of State provisions;\n(c) sums of money, negotiable securities and goods in kind collected from others in violation of State provisions;\n(d) proceeds obtained from the disposal of State-owned assets in violation of State provisions; and\n(e) other assets obtained in violation of State provisions."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Powers of Audit Institutions"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "Where an audit institution seals up the relevant materials of an audited unit and the assets obtained in violation of State provisions in accordance with the provisions of Article 34 of the Audit Law, it shall present a sealing-up notice signed and issued by the person in charge of the audit institution of the people's government at or above the county level, and shall release the seal after lawfully collecting the supporting materials relating to the audit matter or taking other measures. The sealing-up period shall be within 7 days; where an extension is needed under special circumstances, it may be appropriately extended with the approval of the person in charge of the audit institution of the people's government at or above the county level, but the extended period shall not exceed 7 days.\nFor the sealed-up materials and assets, the audit institution may designate the audited unit to be responsible for their safekeeping, and the audited unit shall not damage or destroy them or transfer them without authorisation."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter IV Powers of Audit Institutions"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "In accordance with the provisions of Article 36 of the Audit Law, audit institutions may notify the relevant government departments of, or publish to society, the audit and special audit investigation results in respect of audited units.\nAudit institutions may, after consultation with the relevant competent organs, also publish the results of the verification of the relevant audit reports of social audit institutions in the audit and special audit investigation results published to society.\nWhere an audit institution intends to publish to society the audit or special audit investigation results in respect of a listed company, it shall, 5 days in advance, inform the listed company of the content intended to be published."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter IV Powers of Audit Institutions"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Audit institutions shall, in accordance with laws, regulations and other relevant provisions of the State and the requirements of the people's government at the corresponding level and the audit institution at the higher level, determine the priorities of annual audit work and prepare an annual audit project plan.\nWhere an audit institution determines in its annual audit project plan to audit enterprises or financial institutions in which State-owned capital holds a controlling or leading position, it shall, within 7 days from the date of such determination, inform the enterprises or financial institutions included in the annual audit project plan."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Audit institutions shall, in accordance with the annual audit project plan, form audit teams, investigate and understand the relevant circumstances of the audited units, prepare audit programmes, and serve an audit notice on the audited units 3 days before the implementation of the audit."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "The special circumstances referred to in Article 38 of the Audit Law include:\n(a) handling urgent matters;\n(b) the audited unit being suspected of serious violation of laws and regulations; and\n(c) other special circumstances."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "When implementing an audit, auditors shall act in accordance with the following provisions:\n(a) implementing the audit by means of examination, inquiry, supervised stocktaking, confirmation by correspondence and the like;\n(b) obtaining supporting materials by collecting originals and original articles or by copying, photographing and the like;\n(c) making records of meetings and conversations relating to the audit matter, or requiring the audited unit to provide the materials of meeting minutes; and\n(d) recording the process of audit implementation and the results of verification."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "The supporting materials obtained by auditors through investigation from the relevant units and individuals shall bear the signature or seal of the provider; where the signature or seal of the provider cannot be obtained, the auditors shall note the reasons."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Before an audit team submits an audit report to the audit institution, it shall seek the opinions of the audited unit in writing. The audited unit shall, within 10 days from the date of receipt of the audit report of the audit team, put forward its written opinions; and where no written opinions are put forward within 10 days, it shall be deemed to have no objection.\nThe audit team shall, in response to the written opinions put forward by the audited unit, further verify the circumstances, make necessary modifications to the audit report of the audit team, and submit it together with the written opinions of the audited unit to the audit institution."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "After the relevant operational body and the specialised body or personnel of an audit institution have reviewed and examined the audit report of the audit team and the related audit matters, the audit institution shall act in accordance with the following provisions:\n(a) issuing the audit report of the audit institution, the content of which includes: the audit evaluation of the audit matter, the opinions on handling and punishment put forward in respect of acts violating State provisions on fiscal revenue and expenditure or financial revenue and expenditure, the opinions on referring the matter to the relevant competent organs and units, and the opinions on improving the management of fiscal revenue and expenditure and financial revenue and expenditure;\n(b) making an audit decision on handling and punishment within the scope of statutory functions and powers where handling and punishment shall be given in accordance with the law for acts violating State provisions on fiscal revenue and expenditure or financial revenue and expenditure; and\n(c) putting forward recommendations to the relevant competent organs and units on giving sanctions where the liability of the personnel concerned shall be pursued in accordance with the law; referring the matter to the relevant competent organs where it shall be handled and punished by them in accordance with the law; and referring it to the judicial organs where a crime is suspected."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where, in the course of an audit, an audit institution discovers matters harmful to national interests and the public interest but the basis for handling and punishment is unclear, it shall report to the people's government at the corresponding level and the audit institution at the next higher level."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Audited units shall implement audit decisions within the time limit and in accordance with the requirements prescribed by audit institutions. For sums that shall be turned over to the State, the audited units shall pay them into the State treasury or the special fiscal account in accordance with the fiscal management system and the relevant provisions of the State. Where an audit decision needs to be implemented with the assistance of the relevant competent organs and units, the audit institution shall request such assistance in writing."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Audit institutions at higher levels shall supervise the audit operations of audit institutions at lower levels in accordance with the law.\nWhere an audit decision made by an audit institution at a lower level violates the relevant provisions of the State, the audit institution at the higher level may instruct the audit institution at the lower level to modify or revoke it, or may directly make a decision to modify or revoke it; where a new audit decision needs to be made after the audit decision has been revoked, the audit institution at the higher level may instruct the audit institution at the lower level to make a new audit decision within the prescribed time limit, or may directly make an audit decision.\nWhere an audit institution at a lower level should have made but failed to make an audit decision, the audit institution at the higher level may instruct the audit institution at the lower level to make an audit decision within the prescribed time limit, or may directly make an audit decision."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "When conducting a special audit investigation, an audit institution shall present to the local authorities, departments and units under investigation the written notice of the special audit investigation and explain the relevant circumstances; and the local authorities, departments and units concerned shall accept the investigation, truthfully reflect the circumstances and provide the relevant materials.\nIn a special audit investigation, where departments and units that are subject to audit supervision by audit institutions in accordance with the law have committed acts in violation of State provisions on fiscal revenue and expenditure or financial revenue and expenditure or other violations of laws and regulations, the personnel of the special audit investigation and the audit institution may, in accordance with the provisions of the Audit Law and these Regulations, issue an audit report, make an audit decision, or refer the matter to the relevant competent organs and units to pursue liability in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Audit institutions shall establish and improve audit archives systems in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Audit institutions may serve audit documents directly, by post or by other means. Where served directly, the date of service shall be the date of receipt indicated by the audited unit on the receipt of service or the date of receipt certified by a witness; where served by post, the date of service shall be the date of receipt indicated on the postal receipt; and where served by other means, the date of service shall be the date of signature or receipt.\nThe types, content and format of the audit documents of audit institutions shall be prescribed by the National Audit Office."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter V Audit Procedures"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where an audited unit violates the provisions of the Audit Law and these Regulations by refusing or delaying the provision of materials relating to the audit matter, or by providing materials that are untrue or incomplete, or by refusing or obstructing inspection, the audit institution shall order it to make correction, may circulate a criticism and give a warning; where it refuses to make correction, a fine of not more than RMB 50,000 may be imposed on the audited unit, and a fine of not more than RMB 20,000 may be imposed on the directly responsible persons in charge and other directly responsible personnel, and where the audit institution considers that a sanction should be given, it shall put forward recommendations to the relevant competent organs and units on giving sanctions; and where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "In respect of acts of the departments at the corresponding level (including units directly subordinate thereto) and of people's governments at lower levels that violate the budget or other acts violating State provisions on fiscal revenue and expenditure, audit institutions shall, within the scope of their statutory functions and powers and in accordance with the provisions of laws and administrative regulations, take the handling measures prescribed by Article 45 of the Audit Law according to the different circumstances."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "In respect of acts of audited units violating State provisions on financial revenue and expenditure, audit institutions shall, within the scope of their statutory functions and powers, take the handling measures prescribed by Article 45 of the Audit Law according to the different circumstances, may circulate a criticism and give a warning; where there are illegal gains, they shall confiscate the illegal gains and impose a fine of not less than 1 time and not more than 5 times the illegal gains concurrently; where there are no illegal gains, a fine of not more than RMB 50,000 may be imposed; and a fine of not more than RMB 20,000 may be imposed on the directly responsible persons in charge and other directly responsible personnel, and where the audit institution considers that a sanction should be given, it shall put forward recommendations to the relevant competent organs and units on giving sanctions; and where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nWhere laws and administrative regulations provide otherwise on the handling and punishment of acts of audited units violating State provisions on financial revenue and expenditure, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Before making a decision on a penalty of a relatively large amount, an audit institution shall inform the audited unit and the personnel concerned of their right to request a hearing. The specific standard for a penalty of a relatively large amount shall be prescribed by the National Audit Office."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "The relevant competent organs and units shall, in accordance with the law, promptly make decisions on the recommendations put forward by audit institutions on giving handling and punishment to audited units and on giving sanctions to the directly responsible persons in charge and other directly responsible personnel, and shall notify the audit institutions in writing of the results."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an audited unit is dissatisfied with an audit decision made by an audit institution from audit supervision conducted in accordance with Articles 16 and 17 of the Audit Law and Article 15 of these Regulations, it may, within 60 days from the date of service of the audit decision, request the people's government at the corresponding level of the audit institution to rule on the matter, and the ruling of the people's government at the corresponding level shall be final.\nThe audit institution shall inform the audited unit in the audit decision of the channels and time limit for requesting a ruling.\nDuring the ruling period, the audit decision shall not be suspended from implementation. However, implementation may be suspended under any of the following circumstances:\n(a) the audit institution considers that suspension of implementation is necessary;\n(b) the people's government accepting the request for a ruling considers that suspension of implementation is necessary; and\n(c) the audited unit applies for suspension of implementation, and the people's government accepting the request for a ruling considers the request reasonable and decides to suspend implementation.\nThe ruling shall be handled by the legislative affairs institution of the people's government at the corresponding level. The ruling decision shall be made within 60 days from the date of receipt of the request; where an extension is needed under special circumstances, it may be appropriately extended with the approval of the person in charge of the legislative affairs institution, and the audit institution and the audited unit requesting the ruling shall be informed, but the extended period shall not exceed 30 days."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Apart from the audit decisions for which a ruling may be requested as prescribed in Article 52 of these Regulations, where an audited unit is dissatisfied with other audit decisions made by an audit institution, it may apply for administrative reconsideration or institute administrative litigation in accordance with the law.\nThe audit institution shall inform the audited unit in the audit decision of the channels and time limit for applying for administrative reconsideration or instituting administrative litigation."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Audited units shall report in writing to audit institutions on the implementation of audit decisions. Audit institutions shall inspect the implementation of audit decisions.\nWhere an audited unit fails to implement an audit decision, the audit institution shall order it to implement it within a time limit; and where it still fails to implement it upon expiry of the time limit, the audit institution may apply to a people's court for compulsory enforcement and recommend that the relevant competent organs and units give sanctions to the directly responsible persons in charge and other directly responsible personnel."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "Where auditors abuse their powers, engage in malpractice for personal gain, neglect their duties, or disclose State secrets or trade secrets which have come to their knowledge, sanctions shall be imposed in accordance with the law; and where a crime is constituted, criminal liability shall be investigated in accordance with the law.\nProperty obtained by auditors through violation of the law or discipline shall be recovered, confiscated or ordered to be returned or compensated in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VI Legal Liability"
+        }
+      },
+      {
+        "no": 56,
+        "text": {
+          "en": "For the purposes of these Regulations, \"not less than\" and \"not more than\" include the figure itself.\nWhere the last day of a period prescribed in Article 52 of these Regulations is a statutory public holiday, the first working day after the holiday shall be the date of expiry of the period. Other periods prescribed by the Audit Law and these Regulations shall be calculated in working days, excluding statutory public holidays."
+        },
+        "noLabel": {
+          "en": "Article 56."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 57,
+        "text": {
+          "en": "Provisions on the implementation of economic responsibility auditing shall be formulated separately."
+        },
+        "noLabel": {
+          "en": "Article 57."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 58,
+        "text": {
+          "en": "These Regulations shall come into force on 1 May 2010."
+        },
+        "noLabel": {
+          "en": "Article 58."
+        },
+        "chapter": {
+          "en": "Chapter VII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0560'] = {
     "lawId": "CN-REG-0560",
     "sourceLang": "zh",
@@ -15467,6 +20141,666 @@
     ]
   };
 
+  TR['CN-REG-0566'] = {
+    "lawId": "CN-REG-0566",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 55 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated in accordance with the Statistics Law of the People's Republic of China (hereinafter referred to as the Statistics Law)."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where statistical data can be obtained from administrative records, no survey may be organised and conducted. Where sample surveys or key-unit surveys can meet statistical needs, no comprehensive survey may be organised and conducted."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The statistical bodies and relevant departments of the people's governments at or above the county level shall strengthen research on statistical laws, improve statistics on emerging industries and the like, improve statistics on the economy, society, science and technology, resources and the environment, promote the application of modern information technologies such as the Internet, big data and cloud computing in statistical work, and meet the needs of economic and social development."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The local people's governments, and the statistical bodies and relevant departments of the people's governments at or above the county level, shall, in accordance with the relevant provisions of the State, identify the entities responsible for preventing and punishing statistical falsification and fraud in their own units and strictly comply with the provisions of the Statistics Law and these Regulations.\nThe local people's governments, the statistical bodies and relevant departments of the people's governments at or above the county level and their persons in charge shall ensure that statistical activities are carried out in accordance with law, and may not infringe upon the power of statistical bodies and statistical personnel to independently exercise their functions and powers of statistical survey, statistical reporting and statistical supervision, may not unlawfully interfere with statistical survey respondents in providing statistical data, and may not engage in statistical falsification or fraud.\nStatistical survey respondents shall, in accordance with the Statistics Law and the relevant provisions of the State, provide statistical data truthfully, accurately, completely and in a timely manner, and shall refuse and resist unlawful acts such as fraud."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The statistical bodies and relevant departments of the people's governments at or above the county level may not organise and conduct for-profit statistical surveys.\nThe State shall, in a planned manner, promote the organisation and conduct of statistical surveys and the development of data by the statistical bodies and relevant departments of the people's governments at or above the county level through the purchase of services from society."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The main contents of departmental statistical survey projects and local statistical survey projects may not duplicate or contradict the contents of national statistical survey projects."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The authority formulating a statistical survey project (hereinafter referred to as the formulating authority) shall demonstrate the necessity, feasibility and scientific soundness of the project, solicit the opinions of the relevant localities, departments, statistical survey respondents and experts, and the formulating authority shall make a collective decision through discussion in accordance with its meeting system.\nPilot projects shall be carried out for important statistical survey projects."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a formulating authority applies for examination and approval of a statistical survey project, it shall, in the form of an official document, submit to the approving authority an application form for examination and approval of the statistical survey project, the statistical survey scheme for the project and an explanation of the sources of working funds.\nWhere the application materials are incomplete or do not conform to the statutory form, the approving authority shall, in a single notification, inform the applicant of all the contents that need to be supplemented or corrected, and the formulating authority shall supplement or correct them in accordance with the requirements of the approving authority.\nWhere the application materials are complete and conform to the statutory form, the approving authority shall accept them."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where a statistical survey project meets the following conditions, the approving authority shall make a written decision to approve it:\n(a) it has a statutory basis or is genuinely necessary for public administration and services;\n(b) its main contents do not duplicate or contradict those of statistical survey projects already approved or filed for the record;\n(c) the main statistical indicators cannot be obtained from administrative records or from the processing and collation of existing statistical survey data;\n(d) the statistical survey scheme conforms to the provisions of statistical laws and regulations and is scientific, reasonable and feasible;\n(e) the statistical standards adopted conform to the relevant provisions of the State;\n(f) the formulating authority has the capacity to implement the project.\nWhere the conditions prescribed in the preceding paragraph are not met, the approving authority shall put forward opinions on revision to the formulating authority; where the conditions prescribed in the preceding paragraph are still not met after revision, the approving authority shall make a written decision not to approve and explain the reasons."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Where a statistical survey project involves the duties of other departments, the approving authority shall, before making a decision on approval, solicit the opinions of the departments concerned."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "The approving authority shall make a decision within 20 days from the date of acceptance of the application for examination and approval of a statistical survey project. Where it cannot make a decision within 20 days, it may, with the approval of the person in charge of the approving authority, extend the period by 10 days and shall inform the formulating authority of the reasons for extending the examination and approval period.\nThe time taken by the formulating authority to revise the statistical survey project shall not be counted in the examination and approval period."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Where a formulating authority applies for the filing of a statistical survey project, it shall, in the form of an official document, submit to the filing authority an application form for the filing of the statistical survey project and the statistical survey scheme for the project.\nWhere the respondents of a statistical survey project belong to the system under the jurisdiction of the formulating authority and the main contents do not duplicate or contradict those of statistical survey projects already approved or filed for the record, the filing authority shall, in accordance with law, issue a filing reference number."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Where a statistical survey project has been approved or filed for the record, the approving authority or the filing authority shall promptly publish the main contents of the statistical survey project and its statistical survey scheme, except for statistical survey projects involving State secrets."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Where a statistical survey project falls under any of the following circumstances, the approving authority or the filing authority shall simplify the examination and approval or filing procedures and shorten the time limit:\n(a) a statistical survey needs to be implemented promptly because of an emergency;\n(b) the contents of the statistical survey scheme remain unchanged and the period of validity of the statistical survey project has expired and needs to be extended."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The national statistical standards prescribed in paragraph 2 of Article 17 of the Statistics Law are mandatory standards. Statistical survey activities organised and conducted by the people's governments at various levels, the statistical bodies and the relevant departments of the people's governments at or above the county level shall implement the national statistical standards.\nIn formulating national statistical standards, the opinions of the relevant departments of the State Council shall be solicited."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Statistical Survey Projects"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "In organising and conducting a statistical survey, statistical bodies and statistical personnel shall explain to statistical survey respondents their statutory obligation to fill in and report, the meaning of the main indicators and the relevant requirements for filling in and reporting."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Conduct of Statistical Surveys"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a State organ, enterprise, institution or other organisation as a statistical survey respondent provides statistical data, the data shall be signed by the person filling in the form and by the person in charge of the unit and shall be affixed with the official seal. Where an individual as a statistical survey respondent provides statistical data, the data shall be signed by the individual himself. This does not apply where the statistical survey scheme provides that no signature or official seal is required.\nWhere a statistical survey respondent provides statistical data through a network, the relevant provisions of the State shall apply."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Conduct of Statistical Surveys"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "Where the statistical bodies and relevant departments of the people's governments at or above the county level promote the reporting of statistical data through networks, they shall adopt effective network security safeguards."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Conduct of Statistical Surveys"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "The statistical bodies and relevant departments of the people's governments at or above the county level and the statistical personnel of townships and towns shall examine the statistical data provided by statistical survey respondents. Where the statistical data are incomplete or contain obvious errors, the statistical survey respondents shall supplement or correct them in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Conduct of Statistical Surveys"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "The National Bureau of Statistics shall establish and improve a system for monitoring and evaluating the quality of statistical data, and shall strengthen the monitoring and evaluation of important statistical data of the provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Organisation and Conduct of Statistical Surveys"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The statistical bodies and relevant departments of the people's governments at or above the county level and the people's governments of townships and towns shall properly keep the statistical data obtained in statistical surveys.\nThe State shall establish a disaster backup system for statistical data."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "The primary data of statistical survey respondents obtained in a statistical survey shall be kept for at least two years.\nAggregated statistical data shall be kept for at least 10 years, and important aggregated statistical data shall be kept permanently. Where laws and regulations provide otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "The original records and statistical ledgers established by statistical survey respondents in accordance with the relevant provisions of the State shall be kept for at least two years."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "The nationwide statistical data and the statistical data by province, autonomous region and municipality directly under the Central Government obtained from statistical surveys by the National Bureau of Statistics shall be published by the National Bureau of Statistics or by the survey offices dispatched by it or the statistical bodies of the people's governments at the provincial level as authorised by the National Bureau of Statistics."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The statistical data obtained from statistical surveys by the relevant departments of the State Council shall be published by those departments in accordance with the relevant provisions of the State and the statistical survey scheme approved or filed for the record.\nThe relevant departments of the local people's governments at or above the county level shall publish the statistical data obtained from their statistical surveys with reference to the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where published statistical data need to be revised in accordance with the relevant provisions of the State, the statistical bodies and relevant departments of the people's governments at or above the county level shall promptly publish the revised data and explain the basis for and the circumstances of the revision."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The statistical bodies and relevant departments of the people's governments at or above the county level shall promptly publish information such as the meaning of the main statistical indicators, the scope of the survey, the survey method, the method of computation and the sample size of sample surveys, and shall provide interpretation of the statistical data."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "The publication of statistical data shall be carried out in accordance with the relevant provisions of the State. Before publication, no unit or individual may provide the data to others in violation of the relevant provisions of the State, or use unpublished statistical data to seek improper benefits."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "The data prescribed in Article 25 of the Statistics Law that can identify or infer the identity of an individual statistical survey respondent include:\n(a) data that directly indicate the identity of an individual statistical survey respondent;\n(b) data that, although not directly indicating the identity of an individual statistical survey respondent, can be used to identify or infer the identity of an individual statistical survey respondent through the marked address, code or other related information;\n(c) aggregated data from which the identity of an individual statistical survey respondent can be inferred."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The data obtained in a statistical survey that can identify or infer the identity of an individual statistical survey respondent shall be strictly managed in accordance with law; apart from serving as a basis for statistical law enforcement, they may not be used directly as a basis for taking specific administrative acts such as administrative licensing or administrative penalties against the statistical survey respondent, and may not be used for purposes other than the completion of statistical tasks."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The State shall establish and improve a mechanism for sharing statistical information so as to achieve the sharing of the data obtained from statistical surveys by the statistical bodies and relevant departments of the people's governments at or above the county level. Statistical survey projects jointly formulated by formulating authorities may jointly use the statistical data obtained.\nThe statistical survey scheme shall provide for the content, manner, time limit, channels and responsibilities of the sharing of statistical information."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter IV Management and Publication of Statistical Data"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The statistical bodies of the local people's governments at or above the county level shall be under the dual leadership of the people's government at the same level and the statistical body of the people's government at the next higher level, and in statistical operations shall mainly follow the leadership of the statistical body of the people's government at the next higher level.\nThe people's governments of townships and towns shall establish statistical posts, assign full-time or part-time statistical personnel, perform statistical duties and, in statistical operations, be under the leadership of the statistical body of the people's government at the next higher level. The transfer of statistical personnel of townships and towns shall be subject to the consent of the statistical body of the people's government at the county level.\nThe relevant departments of the people's governments at or above the county level shall, in statistical operations, be guided by the statistical body of the people's government at the same level."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Statistical Bodies and Statistical Personnel"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "The statistical bodies and relevant departments of the people's governments at or above the county level shall accomplish the tasks of national statistical surveys, implement the statistical survey scheme for national statistical survey projects, and organise and conduct statistical survey activities of their own locality or department."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter V Statistical Bodies and Statistical Personnel"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "State organs, enterprises, institutions and other organisations shall strengthen the basic work of statistics and provide organisational, personnel and working condition guarantees for the performance of the statutory obligation to submit statistical data."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter V Statistical Bodies and Statistical Personnel"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Units and individuals that have made outstanding contributions and achieved remarkable results in statistical work shall be commended and rewarded in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter V Statistical Bodies and Statistical Personnel"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Personnel of the statistical bodies of the people's governments at or above the county level engaged in statistical law enforcement shall possess the necessary knowledge of law and of statistical operations, participate in statistical law enforcement training and obtain a statistical law enforcement certificate uniformly printed by the National Bureau of Statistics."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "No unit or individual may refuse or obstruct supervision and inspection of statistical work or the investigation and punishment of statistical violations, and may not shield or connive at statistical violations."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "All units and individuals shall have the right to report statistical violations to the statistical bodies of the people's governments at or above the county level.\nThe statistical bodies of the people's governments at or above the county level shall make public the ways and channels for reporting statistical violations, accept, verify and handle reports in accordance with law, and keep the identity of informants confidential."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "The statistical bodies of the people's governments at or above the county level shall be responsible for investigating and punishing statistical violations; where laws and administrative regulations provide otherwise on the investigation and punishment of statistical violations by the relevant departments, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Inspection"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "The following circumstances constitute a failure to detect serious statistical violations as prescribed in item 4 of Article 37 of the Statistics Law; the person in charge of a local people's government, a government statistical body, a relevant department or a unit shall be given a sanction in accordance with law by the authority that appoints and removes him or by the supervisory organ, and the statistical body of the people's government at or above the county level shall circulate a notice of criticism:\n(a) statistical falsification and fraud occur on a large scale or continuously in the locality, department or unit;\n(b) the statistical data of the locality, department or unit are seriously inconsistent with the facts and ought to have been discovered but were not;\n(c) statistical data of the locality, department or unit that are seriously inconsistent with the facts are discovered but not corrected."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where a statistical body or a relevant department of a people's government at or above the county level organises and conducts for-profit statistical surveys, the people's government at the same level, the statistical body of the people's government at a higher level or the statistical body of the people's government at the same level shall order it to make correction and circulate a notice of criticism; where there are illegal gains, they shall be confiscated."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where a local people's government at any level, a statistical body or a relevant department of a people's government at or above the county level, or the person in charge thereof, infringes upon the power of statistical bodies and statistical personnel to independently exercise their functions and powers of statistical survey, statistical reporting and statistical supervision, or by issuing documents, arranging matters at meetings or other means suggests, instigates or coerces statistical survey respondents or other units or persons to fabricate false statistical data, the people's government at a higher level, the people's government at the same level, the statistical body of the people's government at a higher level or the statistical body of the people's government at the same level shall order correction and circulate a notice of criticism."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a statistical body or a relevant department of a people's government at or above the county level commits any of the following acts in organising and conducting statistical survey activities, the people's government at the same level, the statistical body of the people's government at a higher level or the statistical body of the people's government at the same level shall order it to make correction and circulate a notice of criticism:\n(a) unlawfully formulating, approving or filing for the record a statistical survey project;\n(b) failing to publish, in accordance with the provisions, the main contents of an approved or filed statistical survey project and its statistical survey scheme;\n(c) failing to implement the national statistical standards;\n(d) failing to implement the statistical survey scheme;\n(e) revising on its own the statistical data of an individual statistical survey respondent.\nWhere statistical personnel of townships and towns commit the acts listed in items 3 to 5 of the preceding paragraph, they shall be ordered to make correction and given a sanction in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a statistical body or a relevant department of a people's government at or above the county level publishes statistical data in violation of Articles 24 and 25 of these Regulations, the people's government at the same level, the statistical body of the people's government at a higher level or the statistical body of the people's government at the same level shall order it to make correction and circulate a notice of criticism."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Anyone who, in violation of the relevant provisions of the State, provides unpublished statistical data to others or uses unpublished statistical data to seek improper benefits shall be given a sanction in accordance with law by the authority that appoints and removes him or by the supervisory organ, and the statistical body of the people's government at or above the county level shall circulate a notice of criticism."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a statistical body or its staff commits any of the following acts, the people's government at the same level or the statistical body of the people's government at a higher level shall order it to make correction and circulate a notice of criticism:\n(a) refusing or obstructing supervision and inspection of statistical work or the investigation and punishment of statistical violations;\n(b) shielding or conniving at statistical violations;\n(c) tipping off a unit or individual that has committed a statistical violation in order to help it or him evade investigation and punishment;\n(d) failing to accept, verify or handle a report of a statistical violation in accordance with law;\n(e) disclosing information about a report of a statistical violation."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a local people's government at any level or a relevant department of a people's government at or above the county level refuses or obstructs statistical supervision and inspection, or transfers, conceals, tampers with or destroys original records and vouchers, statistical ledgers, statistical survey forms and other relevant evidence and materials, the people's government at a higher level, the statistical body of the people's government at a higher level or the statistical body of the people's government at the same level shall order correction and circulate a notice of criticism."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where a local people's government at any level, a statistical body or a relevant department of a people's government at or above the county level commits any of the violations listed in Articles 41 to 47 of these Regulations, the person directly in charge who is responsible and other persons directly responsible shall be given a sanction in accordance with law by the authority that appoints and removes them or by the supervisory organ."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a township or town people's government commits any of the acts listed in paragraph 1 of Article 38 or paragraph 1 of Article 39 of the Statistics Law, legal liability shall be investigated in accordance with the provisions of Articles 38 and 39 of the Statistics Law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "The following circumstances constitute serious circumstances as prescribed in paragraph 2 of Article 41 of the Statistics Law:\n(a) refusing or obstructing a statistical survey or statistical supervision and inspection by using violence or threats;\n(b) refusing or obstructing a statistical survey or statistical supervision and inspection, thereby seriously affecting the normal conduct of the relevant work;\n(c) providing untrue or incomplete statistical data, causing serious consequences or a bad influence;\n(d) committing any of the violations listed in paragraph 1 of Article 41 of the Statistics Law and being ordered to make correction three or more times within one year."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a statistical violation is suspected of a crime, the statistical body of the people's government at or above the county level shall transfer the case to the judicial organ for handling."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "Where an organisation or individual outside the territory of the People's Republic of China needs to carry out statistical survey activities within the territory of the People's Republic of China, it shall entrust an institution within the territory of the People's Republic of China that is qualified for foreign-related statistical surveys to do so. The qualification for foreign-related statistical surveys shall be submitted for approval in accordance with law. Where the scope of the statistical survey is confined to the administrative area of a province, autonomous region or municipality directly under the Central Government, the matter shall be examined and approved by the statistical body of the people's government at the provincial level; where the scope of the statistical survey covers the administrative areas of provinces, autonomous regions or municipalities directly under the Central Government, the matter shall be examined and approved by the National Bureau of Statistics.\nA foreign-related social survey project shall be submitted for approval in accordance with law. Where the scope of the statistical survey is confined to the administrative area of a province, autonomous region or municipality directly under the Central Government, the matter shall be examined and approved by the statistical body of the people's government at the provincial level; where the scope of the statistical survey covers the administrative areas of provinces, autonomous regions or municipalities directly under the Central Government, the matter shall be examined and approved by the National Bureau of Statistics."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where the National Bureau of Statistics or the statistical body of a people's government at the provincial level investigates a foreign-related statistical violation, it shall have the power to take the measures prescribed in Article 35 of the Statistics Law."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "Where a unit or individual unlawfully carries out foreign-related statistical survey activities, the National Bureau of Statistics or the statistical body of the people's government at the provincial level shall order it or him to make correction or to cease the survey, and shall confiscate the illegal gains if any; where the illegal gains are RMB 500,000 or more, a fine of not less than one time but not more than three times the illegal gains shall additionally be imposed; where the illegal gains are less than RMB 500,000 or there are no illegal gains, a fine of not more than RMB 2 million shall be imposed; where the circumstances are serious, the qualification for foreign-related statistical surveys shall be suspended or revoked and the decision approving the foreign-related social survey project shall be withdrawn; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 55,
+        "text": {
+          "en": "These Regulations shall come into force on 1 August 2017. The Detailed Rules for the Implementation of the Statistics Law of the People's Republic of China, approved by the State Council on 19 January 1987 and promulgated by the National Bureau of Statistics on 15 February 1987, revised with the approval of the State Council on 2 June 2000 and promulgated by the National Bureau of Statistics on 15 June 2000, and revised by the State Council on 16 December 2005, shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 55."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0568'] = {
     "lawId": "CN-REG-0568",
     "sourceLang": "zh",
@@ -16500,6 +21834,636 @@
         },
         "chapter": {
           "en": "Chapter V Supplementary Provisions"
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0572'] = {
+    "lawId": "CN-REG-0572",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 54 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Regulations are formulated for the purpose of strengthening foreign exchange management, promoting the equilibrium of the balance of payments and promoting the sound development of the national economy."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The foreign exchange administration department of the State Council and its branches (hereinafter collectively referred to as the foreign exchange administration authorities) shall perform their duties of foreign exchange management in accordance with law and be responsible for the implementation of these Regulations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of these Regulations, \"foreign exchange\" means the following means of payment and assets denominated in foreign currencies that may be used for international settlement:\n(a) foreign currency in cash, including paper notes and coins;\n(b) foreign currency payment vouchers or payment instruments, including bills, bank deposit certificates and bank cards;\n(c) foreign currency securities, including bonds and shares;\n(d) special drawing rights;\n(e) other foreign exchange assets."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "These Regulations apply to the foreign exchange receipts and payments or foreign exchange business activities of domestic institutions and domestic individuals, and to the foreign exchange receipts and payments or foreign exchange business activities within China of overseas institutions and overseas individuals."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The State imposes no restrictions on current international payments and transfers."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State operates a system of statistical declaration of the balance of payments.\nThe foreign exchange administration department of the State Council shall compile statistics on and monitor the balance of payments, and shall publish the balance of payments position at regular intervals."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Financial institutions engaged in foreign exchange business shall open foreign exchange accounts for their customers in accordance with the provisions of the foreign exchange administration department of the State Council and shall handle foreign exchange business through such accounts.\nFinancial institutions engaged in foreign exchange business shall, in accordance with law, report to the foreign exchange administration authorities the foreign exchange receipts and payments of their customers and the changes in their accounts."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Within the territory of the People's Republic of China, the circulation of foreign currencies is prohibited, and it is prohibited to price and settle transactions in foreign currencies, unless otherwise provided by the State."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Domestic institutions and domestic individuals may repatriate their foreign exchange income into China or retain it abroad; the conditions, time limits and other matters for repatriation into China or retention abroad shall be prescribed by the foreign exchange administration department of the State Council in light of the balance of payments position and the needs of foreign exchange management."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "The foreign exchange administration department of the State Council shall, in accordance with law, hold, manage and operate the State foreign exchange reserve in accordance with the principles of safety, liquidity and value preservation and appreciation."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      },
+      {
+        "no": 11,
+        "text": {
+          "en": "Where a serious imbalance in the balance of payments occurs or is likely to occur, or a serious crisis in the national economy occurs or is likely to occur, the State may adopt the necessary safeguard and control measures with respect to the balance of payments."
+        },
+        "noLabel": {
+          "en": "Article 11."
+        }
+      },
+      {
+        "no": 12,
+        "text": {
+          "en": "Foreign exchange receipts and payments under the current account shall have a genuine and lawful transaction basis. Financial institutions engaged in the settlement and sale of foreign exchange shall, in accordance with the provisions of the foreign exchange administration department of the State Council, conduct a reasonable review of the authenticity of the transaction vouchers and their consistency with the foreign exchange receipts and payments.\nThe foreign exchange administration authorities shall have the right to supervise and inspect the matters specified in the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 12."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Foreign Exchange under the Current Account"
+        }
+      },
+      {
+        "no": 13,
+        "text": {
+          "en": "Foreign exchange income under the current account may, in accordance with the relevant provisions of the State, be retained or sold to financial institutions engaged in the settlement and sale of foreign exchange."
+        },
+        "noLabel": {
+          "en": "Article 13."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Foreign Exchange under the Current Account"
+        }
+      },
+      {
+        "no": 14,
+        "text": {
+          "en": "Foreign exchange expenditure under the current account shall, in accordance with the administrative provisions of the foreign exchange administration department of the State Council on the payment and purchase of foreign exchange, be paid out of the party's own foreign exchange or by purchasing foreign exchange from a financial institution engaged in the settlement and sale of foreign exchange, on the strength of valid vouchers."
+        },
+        "noLabel": {
+          "en": "Article 14."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Foreign Exchange under the Current Account"
+        }
+      },
+      {
+        "no": 15,
+        "text": {
+          "en": "The quota for carrying and declaring foreign currency in cash upon entry and exit shall be prescribed by the foreign exchange administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 15."
+        },
+        "chapter": {
+          "en": "Chapter II Administration of Foreign Exchange under the Current Account"
+        }
+      },
+      {
+        "no": 16,
+        "text": {
+          "en": "Where an overseas institution or overseas individual makes direct investment within China, it shall, after approval by the relevant competent department, register with the foreign exchange administration authority.\nWhere an overseas institution or overseas individual engages in the issue or trading of securities or derivative products within China, it shall comply with the provisions of the State on market access and shall register in accordance with the provisions of the foreign exchange administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 16."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Foreign Exchange under the Capital Account"
+        }
+      },
+      {
+        "no": 17,
+        "text": {
+          "en": "Where a domestic institution or domestic individual makes direct investment abroad or engages in the issue or trading abroad of securities or derivative products, it shall register in accordance with the provisions of the foreign exchange administration department of the State Council. Where the State provides that the prior approval or filing of the relevant competent department is required, the approval or filing formalities shall be completed before the foreign exchange registration."
+        },
+        "noLabel": {
+          "en": "Article 17."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Foreign Exchange under the Capital Account"
+        }
+      },
+      {
+        "no": 18,
+        "text": {
+          "en": "The State exercises scale management over external debt. The borrowing and use of external debt shall be handled in accordance with the relevant provisions of the State, and the external debt shall be registered with the foreign exchange administration authority.\nThe foreign exchange administration department of the State Council shall be responsible for the statistics and monitoring of external debt throughout the country and shall publish the external debt position at regular intervals."
+        },
+        "noLabel": {
+          "en": "Article 18."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Foreign Exchange under the Capital Account"
+        }
+      },
+      {
+        "no": 19,
+        "text": {
+          "en": "To provide an external guarantee, an application shall be filed with the foreign exchange administration authority, which shall decide whether or not to grant approval on the basis of the applicant's balance sheet and other circumstances; where the State provides that the scope of business of the applicant is subject to the approval of the relevant competent department, the approval formalities shall be completed before the application is filed with the foreign exchange administration authority. After concluding the contract for the external guarantee, the applicant shall register the external guarantee with the foreign exchange administration authority.\nThe preceding paragraph does not apply where an external guarantee is provided, with the approval of the State Council, for on-lending of loans from foreign governments or international financial organisations."
+        },
+        "noLabel": {
+          "en": "Article 19."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Foreign Exchange under the Capital Account"
+        }
+      },
+      {
+        "no": 20,
+        "text": {
+          "en": "A banking financial institution may, within the approved scope of business, directly provide commercial loans abroad. Where another domestic institution provides a commercial loan abroad, it shall file an application with the foreign exchange administration authority, which shall decide whether or not to grant approval on the basis of the applicant's balance sheet and other circumstances; where the State provides that the scope of business of the applicant is subject to the approval of the relevant competent department, the approval formalities shall be completed before the application is filed with the foreign exchange administration authority.\nThe provision of a commercial loan abroad shall be registered in accordance with the provisions of the foreign exchange administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 20."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Foreign Exchange under the Capital Account"
+        }
+      },
+      {
+        "no": 21,
+        "text": {
+          "en": "The retention of foreign exchange income under the capital account, or its sale to a financial institution engaged in the settlement and sale of foreign exchange, shall be subject to the approval of the foreign exchange administration authority, unless the State provides that no approval is required."
+        },
+        "noLabel": {
+          "en": "Article 21."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Foreign Exchange under the Capital Account"
+        }
+      },
+      {
+        "no": 22,
+        "text": {
+          "en": "Foreign exchange expenditure under the capital account shall, in accordance with the administrative provisions of the foreign exchange administration department of the State Council on the payment and purchase of foreign exchange, be paid out of the party's own foreign exchange or by purchasing foreign exchange from a financial institution engaged in the settlement and sale of foreign exchange, on the strength of valid vouchers. Where the State provides that the approval of the foreign exchange administration authority is required, the approval formalities shall be completed before the foreign exchange payment.\nWhere a foreign-invested enterprise that has been lawfully terminated has completed liquidation and paid taxes in accordance with the relevant provisions of the State, the renminbi belonging to the foreign investor may be used to purchase foreign exchange from a financial institution engaged in the settlement and sale of foreign exchange and be remitted abroad."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Foreign Exchange under the Capital Account"
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Foreign exchange under the capital account and the funds obtained from the settlement of foreign exchange shall be used for the purposes approved by the relevant competent department and the foreign exchange administration authority. The foreign exchange administration authorities shall have the right to supervise and inspect the use of foreign exchange under the capital account and of the funds obtained from the settlement of foreign exchange, and the changes in the relevant accounts."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        },
+        "chapter": {
+          "en": "Chapter III Administration of Foreign Exchange under the Capital Account"
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "A financial institution shall, in order to engage in or cease to engage in the settlement and sale of foreign exchange, obtain the approval of the foreign exchange administration authority; to engage in or cease to engage in other foreign exchange business, it shall obtain the approval of the foreign exchange administration authority or of the financial regulatory authority in accordance with the division of duties."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of the Foreign Exchange Business of Financial Institutions"
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "The foreign exchange administration authorities shall exercise comprehensive position management over the foreign exchange business of financial institutions; the specific measures shall be formulated by the foreign exchange administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of the Foreign Exchange Business of Financial Institutions"
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Where a financial institution needs to convert between renminbi and foreign currencies in respect of its capital and profits or because of a mismatch between its renminbi and foreign currency assets, it shall obtain the approval of the foreign exchange administration authority."
+        },
+        "noLabel": {
+          "en": "Article 26."
+        },
+        "chapter": {
+          "en": "Chapter IV Administration of the Foreign Exchange Business of Financial Institutions"
+        }
+      },
+      {
+        "no": 27,
+        "text": {
+          "en": "The renminbi exchange rate shall be governed by a managed floating exchange rate system based on market supply and demand."
+        },
+        "noLabel": {
+          "en": "Article 27."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of the Renminbi Exchange Rate and the Foreign Exchange Market"
+        }
+      },
+      {
+        "no": 28,
+        "text": {
+          "en": "Financial institutions engaged in the settlement and sale of foreign exchange and other institutions meeting the conditions prescribed by the foreign exchange administration department of the State Council may, in accordance with the provisions of that department, conduct foreign exchange transactions on the inter-bank foreign exchange market."
+        },
+        "noLabel": {
+          "en": "Article 28."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of the Renminbi Exchange Rate and the Foreign Exchange Market"
+        }
+      },
+      {
+        "no": 29,
+        "text": {
+          "en": "Foreign exchange market transactions shall follow the principles of openness, fairness, impartiality and good faith."
+        },
+        "noLabel": {
+          "en": "Article 29."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of the Renminbi Exchange Rate and the Foreign Exchange Market"
+        }
+      },
+      {
+        "no": 30,
+        "text": {
+          "en": "The currencies and forms of foreign exchange market transactions shall be prescribed by the foreign exchange administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 30."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of the Renminbi Exchange Rate and the Foreign Exchange Market"
+        }
+      },
+      {
+        "no": 31,
+        "text": {
+          "en": "The foreign exchange administration department of the State Council shall, in accordance with law, supervise and manage the national foreign exchange market."
+        },
+        "noLabel": {
+          "en": "Article 31."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of the Renminbi Exchange Rate and the Foreign Exchange Market"
+        }
+      },
+      {
+        "no": 32,
+        "text": {
+          "en": "The foreign exchange administration department of the State Council may, in accordance with law and in light of changes in the foreign exchange market and the requirements of monetary policy, regulate the foreign exchange market."
+        },
+        "noLabel": {
+          "en": "Article 32."
+        },
+        "chapter": {
+          "en": "Chapter V Administration of the Renminbi Exchange Rate and the Foreign Exchange Market"
+        }
+      },
+      {
+        "no": 33,
+        "text": {
+          "en": "When performing their duties in accordance with law, the foreign exchange administration authorities shall have the power to take the following measures:\n(a) to conduct on-site inspection of financial institutions engaged in foreign exchange business;\n(b) to enter the premises where a suspected illegal foreign exchange act has occurred in order to investigate and collect evidence;\n(c) to question the institutions and individuals that have foreign exchange receipts and payments or foreign exchange business activities, and to require them to give explanations on matters directly related to the suspected illegal foreign exchange act under investigation;\n(d) to consult and copy transaction vouchers and other materials directly related to the suspected illegal foreign exchange act under investigation;\n(e) to consult and copy the financial and accounting materials and the relevant documents of the parties to the suspected illegal foreign exchange act under investigation and of the units and individuals directly related thereto, and to seal up documents and materials that may be transferred, concealed or destroyed;\n(f) with the approval of the responsible person of the foreign exchange administration department of the State Council or of a foreign exchange administration authority at the provincial level, to inquire into the accounts of the parties to the suspected illegal foreign exchange act under investigation and of the units and individuals directly related thereto, except personal savings deposit accounts;\n(g) where there is evidence proving that illegal funds or other property involved in the case have been or may be transferred or concealed, or that important evidence has been or may be concealed, forged or destroyed, to apply to a people's court for freezing or sealing up.\nThe units and individuals concerned shall cooperate with the supervision and inspection of the foreign exchange administration authorities, truthfully explain the relevant circumstances and provide the relevant documents and materials, and may not refuse, obstruct or conceal."
+        },
+        "noLabel": {
+          "en": "Article 33."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 34,
+        "text": {
+          "en": "Where the foreign exchange administration authorities conduct supervision and inspection or investigation in accordance with law, there shall be not fewer than two persons carrying out such supervision, inspection or investigation, and they shall produce their certificates. Where fewer than two persons carry out the supervision, inspection or investigation, or where no certificates are produced, the units and individuals subject to such supervision, inspection or investigation shall have the right to refuse."
+        },
+        "noLabel": {
+          "en": "Article 34."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 35,
+        "text": {
+          "en": "Domestic institutions having foreign exchange business activities shall, in accordance with the provisions of the foreign exchange administration department of the State Council, submit financial and accounting reports, statistical statements and other materials."
+        },
+        "noLabel": {
+          "en": "Article 35."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 36,
+        "text": {
+          "en": "Where a financial institution engaged in foreign exchange business discovers that a customer has committed an illegal foreign exchange act, it shall promptly report to the foreign exchange administration authority."
+        },
+        "noLabel": {
+          "en": "Article 36."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 37,
+        "text": {
+          "en": "In order to perform its duties of foreign exchange management, the foreign exchange administration department of the State Council may obtain from the relevant departments and institutions of the State Council the information it deems necessary, and such departments and institutions shall provide it.\nThe foreign exchange administration department of the State Council shall notify the relevant departments and institutions of the State Council of the state of foreign exchange management work."
+        },
+        "noLabel": {
+          "en": "Article 37."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 38,
+        "text": {
+          "en": "All units and individuals shall have the right to report illegal foreign exchange acts.\nThe foreign exchange administration authorities shall keep the identity of informants confidential and shall, in accordance with the provisions, reward the informants and the units and individuals that have performed meritorious service in assisting the investigation and punishment of illegal foreign exchange acts."
+        },
+        "noLabel": {
+          "en": "Article 38."
+        },
+        "chapter": {
+          "en": "Chapter VI Supervision and Administration"
+        }
+      },
+      {
+        "no": 39,
+        "text": {
+          "en": "Where a party commits an act of evading foreign exchange, such as transferring domestic foreign exchange abroad, or transferring domestic capital abroad by fraudulent means, in violation of the provisions, the foreign exchange administration authority shall order it to repatriate the foreign exchange within a specified time limit and impose a fine of not more than 30 per cent of the amount of foreign exchange evaded; where the circumstances are serious, a fine of not less than 30 per cent of the amount of foreign exchange evaded but not more than an equivalent amount shall be imposed; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 39."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 40,
+        "text": {
+          "en": "Where a party commits an act of illegal arbitrage of foreign exchange, such as receiving or paying in foreign exchange sums that should be received or paid in renminbi in violation of the provisions, or fraudulently purchasing foreign exchange from a financial institution engaged in the settlement and sale of foreign exchange by means of false or invalid transaction vouchers, the foreign exchange administration authority shall order the conversion back of the funds obtained through illegal arbitrage and impose a fine of not more than 30 per cent of the amount involved in the illegal arbitrage; where the circumstances are serious, a fine of not less than 30 per cent of that amount but not more than an equivalent amount shall be imposed; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 40."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 41,
+        "text": {
+          "en": "Where foreign exchange is remitted into China in violation of the provisions, the foreign exchange administration authority shall order correction and impose a fine of not more than 30 per cent of the illegal amount; where the circumstances are serious, a fine of not less than 30 per cent of the illegal amount but not more than an equivalent amount shall be imposed.\nWhere foreign exchange is illegally settled, the foreign exchange administration authority shall order the conversion back of the funds illegally settled and impose a fine of not more than 30 per cent of the illegal amount."
+        },
+        "noLabel": {
+          "en": "Article 41."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 42,
+        "text": {
+          "en": "Where foreign exchange is carried into or out of China in violation of the provisions, the foreign exchange administration authority shall give a warning and may impose a fine of not more than 20 per cent of the illegal amount. Where laws or administrative regulations provide that the customs shall impose a penalty, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 42."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 43,
+        "text": {
+          "en": "Where a party commits an act in violation of the administration of external debt, such as borrowing abroad without authorisation, issuing bonds abroad without authorisation or providing an external guarantee without authorisation, the foreign exchange administration authority shall give a warning and impose a fine of not more than 30 per cent of the illegal amount."
+        },
+        "noLabel": {
+          "en": "Article 43."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 44,
+        "text": {
+          "en": "Where a party alters, in violation of the provisions, the use of foreign exchange or of funds obtained from the settlement of foreign exchange without authorisation, the foreign exchange administration authority shall order correction, confiscate the illegal gains and impose a fine of not more than 30 per cent of the illegal amount; where the circumstances are serious, a fine of not less than 30 per cent of the illegal amount but not more than an equivalent amount shall be imposed.\nWhere a party commits an act of illegal use of foreign exchange, such as pricing and settling transactions in foreign currencies within China or transferring foreign exchange in violation of the provisions, the foreign exchange administration authority shall order correction, give a warning and may impose a fine of not more than 30 per cent of the illegal amount."
+        },
+        "noLabel": {
+          "en": "Article 44."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 45,
+        "text": {
+          "en": "Where a party privately trades in foreign exchange, trades in foreign exchange in a disguised form, buys and sells foreign exchange at speculative prices, or illegally acts as an intermediary for the purchase and sale of foreign exchange, where the amount is relatively large, the foreign exchange administration authority shall give a warning, confiscate the illegal gains and impose a fine of not more than 30 per cent of the illegal amount; where the circumstances are serious, a fine of not less than 30 per cent of the illegal amount but not more than an equivalent amount shall be imposed; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 45."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 46,
+        "text": {
+          "en": "Where a party engages in the settlement and sale of foreign exchange without approval, the foreign exchange administration authority shall order correction, confiscate the illegal gains if any, and, where the illegal gains are RMB 500,000 or more, additionally impose a fine of not less than one time but not more than five times the illegal gains; where there are no illegal gains or the illegal gains are less than RMB 500,000, impose a fine of not less than RMB 500,000 but not more than RMB 2 million; where the circumstances are serious, the relevant competent department shall order suspension of business for rectification or revoke the business licence; and if a crime is constituted, criminal liability shall be investigated in accordance with law.\nWhere a party engages in foreign exchange business other than the settlement and sale of foreign exchange without approval, the foreign exchange administration authority or the financial regulatory authority shall impose a penalty in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 46."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 47,
+        "text": {
+          "en": "Where a financial institution falls under any of the following circumstances, the foreign exchange administration authority shall order it to make correction within a specified time limit, confiscate the illegal gains and concurrently impose a fine of not less than RMB 200,000 but not more than RMB 1 million; where the circumstances are serious or it fails to make correction within the time limit, the foreign exchange administration authority shall order it to cease the relevant business:\n(a) handling the receipt and payment of funds under the current account without conducting a reasonable review of the authenticity of the transaction vouchers and their consistency with the foreign exchange receipts and payments;\n(b) handling the receipt and payment of funds under the capital account in violation of the provisions;\n(c) handling the settlement and sale of foreign exchange in violation of the provisions;\n(d) violating the provisions on the comprehensive position management of foreign exchange business;\n(e) violating the provisions on the administration of foreign exchange market transactions."
+        },
+        "noLabel": {
+          "en": "Article 47."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 48,
+        "text": {
+          "en": "Where any of the following circumstances exists, the foreign exchange administration authority shall order correction and give a warning, and may impose a fine of not more than RMB 300,000 on an institution and a fine of not more than RMB 50,000 on an individual:\n(a) failing to make the statistical declaration of the balance of payments in accordance with the provisions;\n(b) failing to submit financial and accounting reports, statistical statements and other materials in accordance with the provisions;\n(c) failing to submit valid vouchers in accordance with the provisions, or submitting vouchers that are not authentic;\n(d) violating the provisions on the administration of foreign exchange accounts;\n(e) violating the provisions on the administration of foreign exchange registration;\n(f) refusing or obstructing supervision, inspection or investigation conducted by the foreign exchange administration authority in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 48."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 49,
+        "text": {
+          "en": "Where a domestic institution violates the provisions on foreign exchange management, in addition to being penalised in accordance with these Regulations, sanctions shall be imposed on the person directly in charge who is responsible and other persons directly responsible; a warning shall be given to, and a fine of not less than RMB 50,000 but not more than RMB 500,000 shall be imposed on, the directors, supervisors, senior managers and other persons directly responsible of a financial institution who bear direct responsibility; and if a crime is constituted, criminal liability shall be investigated in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 49."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 50,
+        "text": {
+          "en": "Where a staff member of a foreign exchange administration authority practises favouritism and irregularities, abuses his power or neglects his duty and a crime is constituted, criminal liability shall be investigated in accordance with law; where a crime is not constituted, sanctions shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 50."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 51,
+        "text": {
+          "en": "Where a party is dissatisfied with a specific administrative act taken by a foreign exchange administration authority, it may apply for administrative reconsideration in accordance with law; where it is still dissatisfied with the decision on administrative reconsideration, it may institute administrative proceedings before a people's court in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 51."
+        },
+        "chapter": {
+          "en": "Chapter VII Legal Liability"
+        }
+      },
+      {
+        "no": 52,
+        "text": {
+          "en": "The following terms used in these Regulations have the meanings given below:\n(a) \"Domestic institution\" means a State organ, enterprise, institution, public organisation, military unit or the like within the territory of the People's Republic of China, excluding foreign diplomatic and consular missions in China and representative offices of international organisations in China.\n(b) \"Domestic individual\" means a Chinese citizen and a foreign national who has continuously resided within the territory of the People's Republic of China for one full year, excluding foreign diplomatic personnel and representatives of international organisations in China.\n(c) \"Current account\" means the items of transaction in the balance of payments that involve goods, services, income and current transfers.\n(d) \"Capital account\" means the items of transaction in the balance of payments that cause changes in the level of external assets and liabilities, including capital transfers, direct investment, portfolio investment, derivative products and loans."
+        },
+        "noLabel": {
+          "en": "Article 52."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 53,
+        "text": {
+          "en": "Where a non-financial institution engages in the settlement and sale of foreign exchange, it shall be subject to the approval of the foreign exchange administration department of the State Council, and the specific measures for administration shall be formulated separately by that department."
+        },
+        "noLabel": {
+          "en": "Article 53."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
+        }
+      },
+      {
+        "no": 54,
+        "text": {
+          "en": "These Regulations shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 54."
+        },
+        "chapter": {
+          "en": "Chapter VIII Supplementary Provisions"
         }
       }
     ]
